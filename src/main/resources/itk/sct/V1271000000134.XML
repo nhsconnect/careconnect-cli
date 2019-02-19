@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDA Care Setting Type" type="Realm Concept" setId="68281000000139" version="18" id="1271000000134" refId="999000331000000108" memberCount="486" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="331006">
+<displayName lang="en" type="PT">Hospital-based outpatient rheumatology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient rheumatology clinic (environment)</displayName>
+</concept>
+<concept code="901005">
+<displayName lang="en" type="PT">Helicopter-based care</displayName>
+<displayName lang="en" type="FSN">Helicopter-based care (environment)</displayName>
+</concept>
+<concept code="1348009">
+<displayName lang="en-GB" type="PT">Day care centre</displayName>
+<displayName lang="en" type="FSN">Day care center (environment)</displayName>
+</concept>
+<concept code="1526002">
+<displayName lang="en" type="PT">Free-standing breast clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing breast clinic (environment)</displayName>
+</concept>
+<concept code="1773006">
+<displayName lang="en" type="PT">Free-standing radiology facility</displayName>
+<displayName lang="en" type="FSN">Free-standing radiology facility (environment)</displayName>
+</concept>
+<concept code="1814000">
+<displayName lang="en" type="PT">Hospital-based outpatient geriatric clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient geriatric clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient gerontology clinic</displayName>
+</concept>
+<concept code="2081004">
+<displayName lang="en" type="PT">Hospital ship</displayName>
+<displayName lang="en" type="FSN">Hospital ship (environment)</displayName>
+</concept>
+<concept code="2849009">
+<displayName lang="en" type="PT">Hospital-based outpatient infectious disease clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient infectious disease clinic (environment)</displayName>
+</concept>
+<concept code="2961002">
+<displayName lang="en" type="PT">Aid car-based care</displayName>
+<displayName lang="en" type="FSN">Aid car-based care (environment)</displayName>
+</concept>
+<concept code="3729002">
+<displayName lang="en-GB" type="PT">Hospital-based outpatient paediatric clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient pediatric clinic (environment)</displayName>
+</concept>
+<concept code="3768009">
+<displayName lang="en-GB" type="PT">Free-standing haematology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing hematology clinic (environment)</displayName>
+</concept>
+<concept code="4322002">
+<displayName lang="en" type="PT">Military field hospital</displayName>
+<displayName lang="en" type="FSN">Military field hospital (environment)</displayName>
+</concept>
+<concept code="5584006">
+<displayName lang="en" type="PT">Hospital-based outpatient peripheral vascular clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient peripheral vascular clinic (environment)</displayName>
+</concept>
+<concept code="6827000">
+<displayName lang="en-GB" type="PT">Local community health centre</displayName>
+<displayName lang="en" type="FSN">Local community health center (environment)</displayName>
+</concept>
+<concept code="10206005">
+<displayName lang="en" type="PT">Hospital-based outpatient dental clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient dental clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient dental health clinic</displayName>
+</concept>
+<concept code="10531005">
+<displayName lang="en" type="PT">Free-standing ambulatory surgery facility</displayName>
+<displayName lang="en" type="FSN">Free-standing ambulatory surgery facility (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing day surgery facility</displayName>
+</concept>
+<concept code="11119007">
+<displayName lang="en" type="PT">Free-standing peripheral vascular clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing peripheral vascular clinic (environment)</displayName>
+</concept>
+<concept code="11424001">
+<displayName lang="en" type="PT">Ambulance-based care</displayName>
+<displayName lang="en" type="FSN">Ambulance-based care (environment)</displayName>
+</concept>
+<concept code="13015006">
+<displayName lang="en" type="PT">Free-standing gastroenterology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing gastroenterology clinic (environment)</displayName>
+</concept>
+<concept code="13656005">
+<displayName lang="en" type="PT">Free-standing physical medicine clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing physical medicine clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing physiatry clinic</displayName>
+</concept>
+<concept code="14866005">
+<displayName lang="en" type="PT">Hospital-based outpatient mental health clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient mental health clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient psychiatric clinic</displayName>
+</concept>
+<concept code="16384001">
+<displayName lang="en" type="PT">Skilled nursing facility, level 2 care</displayName>
+<displayName lang="en" type="FSN">Skilled nursing facility, level 2 care (environment)</displayName>
+</concept>
+<concept code="16597003">
+<displayName lang="en" type="PT">Free-standing ophthalmology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing ophthalmology clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing eye clinic</displayName>
+</concept>
+<concept code="16879004">
+<displayName lang="en" type="PT">Free-standing neurology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing neurology clinic (environment)</displayName>
+</concept>
+<concept code="18095007">
+<displayName lang="en" type="PT">Intermediate care hospital for mentally retarded</displayName>
+<displayName lang="en" type="FSN">Intermediate care hospital for mentally retarded (environment)</displayName>
+</concept>
+<concept code="19602009">
+<displayName lang="en" type="PT">Fee-for-service private physicians&apos; group office</displayName>
+<displayName lang="en" type="FSN">Fee-for-service private physicians&apos; group office (environment)</displayName>
+<displayName lang="en" type="SY">Fee-for-service private physicians&apos; group clinic</displayName>
+</concept>
+<concept code="20078004">
+<displayName lang="en-GB" type="PT">Substance abuse treatment centre</displayName>
+<displayName lang="en" type="FSN">Substance abuse treatment center (environment)</displayName>
+<displayName lang="en-GB" type="SY">Drug abuse treatment centre</displayName>
+</concept>
+<concept code="20316001">
+<displayName lang="en" type="PT">Tertiary care hospital</displayName>
+<displayName lang="en" type="FSN">Tertiary care hospital (environment)</displayName>
+</concept>
+<concept code="21700006">
+<displayName lang="en" type="PT">Free-standing dermatology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing dermatology clinic (environment)</displayName>
+</concept>
+<concept code="22201008">
+<displayName lang="en" type="PT">Free-standing dental clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing dental clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing dental health clinic</displayName>
+</concept>
+<concept code="22232009">
+<displayName lang="en" type="PT">Hospital</displayName>
+<displayName lang="en" type="FSN">Hospital (environment)</displayName>
+</concept>
+<concept code="22357001">
+<displayName lang="en" type="PT">Skilled nursing facility, level 1 care</displayName>
+<displayName lang="en" type="FSN">Skilled nursing facility, level 1 care (environment)</displayName>
+</concept>
+<concept code="22549003">
+<displayName lang="en-GB" type="PT">Hospital-based outpatient gynaecology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient gynecology clinic (environment)</displayName>
+</concept>
+<concept code="23392004">
+<displayName lang="en" type="PT">Hospital-based outpatient otorhinolaryngology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient otorhinolaryngology clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient ORL clinic</displayName>
+</concept>
+<concept code="25567001">
+<displayName lang="en" type="PT">Hospital-based outpatient breast clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient breast clinic (environment)</displayName>
+</concept>
+<concept code="25681007">
+<displayName lang="en" type="PT">Sexually transmitted disease clinic</displayName>
+<displayName lang="en" type="FSN">Sexually transmitted disease clinic (environment)</displayName>
+<displayName lang="en" type="SY">Venereal disease clinic</displayName>
+</concept>
+<concept code="30629002">
+<displayName lang="en" type="PT">Retirement home</displayName>
+<displayName lang="en" type="FSN">Retirement home (environment)</displayName>
+<displayName lang="en-GB" type="SY">Retirement centre</displayName>
+</concept>
+<concept code="31154006">
+<displayName lang="en" type="PT">Prepaid private physicians&apos; group office</displayName>
+<displayName lang="en" type="FSN">Prepaid private physicians&apos; group office (environment)</displayName>
+<displayName lang="en" type="SY">Prepaid private physicians&apos; group clinic</displayName>
+</concept>
+<concept code="31628002">
+<displayName lang="en" type="PT">Hospital-based outpatient family medicine clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient family medicine clinic (environment)</displayName>
+</concept>
+<concept code="32074000">
+<displayName lang="en" type="PT">Long term care hospital</displayName>
+<displayName lang="en" type="FSN">Long term care hospital (environment)</displayName>
+<displayName lang="en" type="SY">Long stay hospital</displayName>
+</concept>
+<concept code="32193000">
+<displayName lang="en" type="PT">Free-standing immunology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing immunology clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing allergy clinic</displayName>
+</concept>
+<concept code="33022008">
+<displayName lang="en" type="PT">Hospital-based outpatient department</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient department (environment)</displayName>
+<displayName lang="en" type="SY">Hospital outpatients department</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient clinic</displayName>
+<displayName lang="en" type="SY">OPD - Outpatients department</displayName>
+</concept>
+<concept code="34304006">
+<displayName lang="en-GB" type="PT">Burn centre</displayName>
+<displayName lang="en" type="FSN">Burn center (environment)</displayName>
+</concept>
+<concept code="35313001">
+<displayName lang="en" type="PT">Skilled nursing facility, level 4 care</displayName>
+<displayName lang="en" type="FSN">Skilled nursing facility, level 4 care (environment)</displayName>
+</concept>
+<concept code="35971002">
+<displayName lang="en" type="PT">Ambulatory care site</displayName>
+<displayName lang="en" type="FSN">Ambulatory care site (environment)</displayName>
+</concept>
+<concept code="36125001">
+<displayName lang="en-GB" type="PT">Trauma centre</displayName>
+<displayName lang="en" type="FSN">Trauma center (environment)</displayName>
+</concept>
+<concept code="36293008">
+<displayName lang="en" type="PT">Hospital-based outpatient pain clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient pain clinic (environment)</displayName>
+</concept>
+<concept code="36490008">
+<displayName lang="en" type="PT">Free-standing general surgery clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing general surgery clinic (environment)</displayName>
+</concept>
+<concept code="37546005">
+<displayName lang="en" type="PT">Hospital-based outpatient rehabilitation clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient rehabilitation clinic (environment)</displayName>
+</concept>
+<concept code="37550003">
+<displayName lang="en" type="PT">Hospital-based outpatient dermatology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient dermatology clinic (environment)</displayName>
+</concept>
+<concept code="38238005">
+<displayName lang="en" type="PT">Hospital-based outpatient neurology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient neurology clinic (environment)</displayName>
+</concept>
+<concept code="38426004">
+<displayName lang="en-GB" type="PT">Treatment centre for emotionally disturbed children</displayName>
+<displayName lang="en" type="FSN">Treatment center for emotionally disturbed children (environment)</displayName>
+</concept>
+<concept code="39176004">
+<displayName lang="en-GB" type="PT">Aeroplane-based care</displayName>
+<displayName lang="en" type="FSN">Airplane-based care (environment)</displayName>
+</concept>
+<concept code="39216000">
+<displayName lang="en" type="PT">School infirmary</displayName>
+<displayName lang="en" type="FSN">School infirmary (environment)</displayName>
+<displayName lang="en" type="SY">School clinic</displayName>
+</concept>
+<concept code="39350007">
+<displayName lang="en" type="PT">Private physicians&apos; group office</displayName>
+<displayName lang="en" type="FSN">Private physicians&apos; group office (environment)</displayName>
+<displayName lang="en" type="SY">Medical clinic</displayName>
+</concept>
+<concept code="39750005">
+<displayName lang="en" type="PT">Free-standing pain clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing pain clinic (environment)</displayName>
+</concept>
+<concept code="39913001">
+<displayName lang="en" type="PT">Residential school infirmary</displayName>
+<displayName lang="en" type="FSN">Residential school infirmary (environment)</displayName>
+<displayName lang="en" type="SY">Residential school clinic</displayName>
+</concept>
+<concept code="41844007">
+<displayName lang="en" type="PT">Free-standing geriatric clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing geriatric clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing gerontology clinic</displayName>
+</concept>
+<concept code="42168000">
+<displayName lang="en" type="PT">Hospital-based radiotherapy facility</displayName>
+<displayName lang="en" type="FSN">Hospital-based radiotherapy facility (environment)</displayName>
+</concept>
+<concept code="42665001">
+<displayName lang="en" type="FSN">Nursing home (environment)</displayName>
+<displayName lang="en" type="SY">NH - Nursing home</displayName>
+</concept>
+<concept code="43741000">
+<displayName lang="en" type="PT">Site of care</displayName>
+<displayName lang="en" type="FSN">Site of care (environment)</displayName>
+<displayName lang="en" type="SY">Site of health care</displayName>
+<displayName lang="en" type="SY">Treatment site</displayName>
+</concept>
+<concept code="44860005">
+<displayName lang="en" type="PT">Free-standing rehabilitation clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing rehabilitation clinic (environment)</displayName>
+</concept>
+<concept code="45131006">
+<displayName lang="en" type="PT">Primary care hospital</displayName>
+<displayName lang="en" type="FSN">Primary care hospital (environment)</displayName>
+</concept>
+<concept code="45288004">
+<displayName lang="en" type="PT">Free-standing urology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing urology clinic (environment)</displayName>
+</concept>
+<concept code="45618002">
+<displayName lang="en" type="PT">Skilled nursing facility</displayName>
+<displayName lang="en" type="FSN">Skilled nursing facility (environment)</displayName>
+<displayName lang="en" type="SY">Skilled care facility</displayName>
+</concept>
+<concept code="45899008">
+<displayName lang="en" type="PT">Free-standing laboratory facility</displayName>
+<displayName lang="en" type="FSN">Free-standing laboratory facility (environment)</displayName>
+</concept>
+<concept code="46111000">
+<displayName lang="en" type="PT">Secondary care hospital</displayName>
+<displayName lang="en" type="FSN">Secondary care hospital (environment)</displayName>
+</concept>
+<concept code="46224007">
+<displayName lang="en" type="PT">Vaccination clinic</displayName>
+<displayName lang="en" type="FSN">Vaccination clinic (environment)</displayName>
+</concept>
+<concept code="48120004">
+<displayName lang="en" type="PT">Cancer hospital</displayName>
+<displayName lang="en" type="FSN">Cancer hospital (environment)</displayName>
+</concept>
+<concept code="48311003">
+<displayName lang="en" type="PT">Veteran&apos;s administration hospital</displayName>
+<displayName lang="en" type="FSN">Veteran&apos;s administration hospital (environment)</displayName>
+<displayName lang="en" type="SY">V.A. hospital</displayName>
+</concept>
+<concept code="50569004">
+<displayName lang="en" type="PT">Hospital-based outpatient urology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient urology clinic (environment)</displayName>
+</concept>
+<concept code="51563005">
+<displayName lang="en" type="PT">Free-standing mental health clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing mental health clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing psychiatric clinic</displayName>
+</concept>
+<concept code="52589007">
+<displayName lang="en-GB" type="PT">Free-standing orthopaedics clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing orthopedics clinic (environment)</displayName>
+</concept>
+<concept code="52668009">
+<displayName lang="en-GB" type="PT">Hospital-based birthing centre</displayName>
+<displayName lang="en" type="FSN">Hospital-based birthing center (environment)</displayName>
+</concept>
+<concept code="54372004">
+<displayName lang="en" type="PT">Geriatric hospital</displayName>
+<displayName lang="en" type="FSN">Geriatric hospital (environment)</displayName>
+</concept>
+<concept code="55948006">
+<displayName lang="en" type="PT">Free-standing family medicine clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing family medicine clinic (environment)</displayName>
+</concept>
+<concept code="56109004">
+<displayName lang="en" type="PT">Intermediate care hospital</displayName>
+<displayName lang="en" type="FSN">Intermediate care hospital (environment)</displayName>
+</concept>
+<concept code="56189001">
+<displayName lang="en" type="PT">Hospital-based outpatient obstetrical clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient obstetrical clinic (environment)</displayName>
+</concept>
+<concept code="56217002">
+<displayName lang="en" type="PT">Free-standing obstetrical clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing obstetrical clinic (environment)</displayName>
+</concept>
+<concept code="56293002">
+<displayName lang="en-GB" type="PT">Hospital-based outpatient haematology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient hematology clinic (environment)</displayName>
+</concept>
+<concept code="56775002">
+<displayName lang="en" type="PT">Free-standing respiratory disease clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing respiratory disease clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing pneumology clinic</displayName>
+</concept>
+<concept code="57159002">
+<displayName lang="en" type="PT">Hospital-based outpatient respiratory disease clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient respiratory disease clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient pneumology clinic</displayName>
+</concept>
+<concept code="58482006">
+<displayName lang="en" type="PT">Hospital-based outpatient gastroenterology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient gastroenterology clinic (environment)</displayName>
+</concept>
+<concept code="59374000">
+<displayName lang="en" type="PT">Traveler&apos;s aid clinic</displayName>
+<displayName lang="en" type="FSN">Traveler&apos;s aid clinic (environment)</displayName>
+</concept>
+<concept code="62264003">
+<displayName lang="en" type="PT">Free-standing otorhinolaryngology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing otorhinolaryngology clinic (environment)</displayName>
+<displayName lang="en" type="SY">Free-standing ORL clinic</displayName>
+</concept>
+<concept code="62480006">
+<displayName lang="en" type="PT">Psychiatric hospital</displayName>
+<displayName lang="en" type="FSN">Psychiatric hospital (environment)</displayName>
+<displayName lang="en" type="SY">Mental hospital</displayName>
+</concept>
+<concept code="63997002">
+<displayName lang="en" type="PT">Skilled nursing facility, level 3 care</displayName>
+<displayName lang="en" type="FSN">Skilled nursing facility, level 3 care (environment)</displayName>
+</concept>
+<concept code="66280005">
+<displayName lang="en" type="PT">Private home-based care</displayName>
+<displayName lang="en" type="FSN">Private home-based care (environment)</displayName>
+</concept>
+<concept code="67190003">
+<displayName lang="en" type="PT">Free-standing clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing clinic (environment)</displayName>
+<displayName lang="en-GB" type="SY">Free-standing health centre</displayName>
+</concept>
+<concept code="67236001">
+<displayName lang="en" type="PT">Hospital-based outpatient physical medicine clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient physical medicine clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient physiatry clinic</displayName>
+</concept>
+<concept code="69135000">
+<displayName lang="en" type="PT">Free-standing infectious disease clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing infectious disease clinic (environment)</displayName>
+</concept>
+<concept code="69362002">
+<displayName lang="en" type="PT">Hospital-based ambulatory surgery facility</displayName>
+<displayName lang="en" type="FSN">Hospital-based ambulatory surgery facility (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based day surgery facility</displayName>
+</concept>
+<concept code="69859008">
+<displayName lang="en" type="PT">Free-standing rheumatology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing rheumatology clinic (environment)</displayName>
+</concept>
+<concept code="70547005">
+<displayName lang="en-GB" type="PT">Inner city health centre</displayName>
+<displayName lang="en" type="FSN">Inner city health center (environment)</displayName>
+<displayName lang="en" type="SY">Inner city health clinic</displayName>
+</concept>
+<concept code="72311000">
+<displayName lang="en-GB" type="PT">Health maintenance organisation</displayName>
+<displayName lang="en" type="FSN">Health maintenance organization (environment)</displayName>
+<displayName lang="en-GB" type="SY">Prepaid healthcare organisation</displayName>
+</concept>
+<concept code="73588009">
+<displayName lang="en" type="PT">Hospital-based laboratory facility</displayName>
+<displayName lang="en" type="FSN">Hospital-based laboratory facility (environment)</displayName>
+</concept>
+<concept code="73644007">
+<displayName lang="en" type="PT">Hospital-based outpatient endocrinology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient endocrinology clinic (environment)</displayName>
+</concept>
+<concept code="73770003">
+<displayName lang="en-GB" type="PT">Hospital-based outpatient emergency care centre</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient emergency care center (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient emergency room</displayName>
+</concept>
+<concept code="74018000">
+<displayName lang="en-GB" type="PT">Free-standing emergency care centre</displayName>
+<displayName lang="en" type="FSN">Free-standing emergency care center (environment)</displayName>
+</concept>
+<concept code="74056004">
+<displayName lang="en" type="PT">Orphanage</displayName>
+<displayName lang="en" type="FSN">Orphanage (environment)</displayName>
+</concept>
+<concept code="77500004">
+<displayName lang="en-GB" type="PT">Vocational rehabilitation centre</displayName>
+<displayName lang="en" type="FSN">Vocational rehabilitation center (environment)</displayName>
+</concept>
+<concept code="77931003">
+<displayName lang="en-GB" type="PT">Rural health centre</displayName>
+<displayName lang="en" type="FSN">Rural health center (environment)</displayName>
+<displayName lang="en" type="SY">Rural health clinic</displayName>
+</concept>
+<concept code="78001009">
+<displayName lang="en-GB" type="PT">Hospital-based outpatient orthopaedics clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient orthopedics clinic (environment)</displayName>
+</concept>
+<concept code="78088001">
+<displayName lang="en" type="PT">Hospital-based outpatient ophthalmology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient ophthalmology clinic (environment)</displayName>
+<displayName lang="en" type="SY">Hospital-based outpatient eye clinic</displayName>
+</concept>
+<concept code="79491001">
+<displayName lang="en" type="PT">Hospital-based radiology facility</displayName>
+<displayName lang="en" type="FSN">Hospital-based radiology facility (environment)</displayName>
+</concept>
+<concept code="79993009">
+<displayName lang="en" type="PT">Government hospital</displayName>
+<displayName lang="en" type="FSN">Government hospital (environment)</displayName>
+</concept>
+<concept code="80522000">
+<displayName lang="en" type="PT">Rehabilitation hospital</displayName>
+<displayName lang="en" type="FSN">Rehabilitation hospital (environment)</displayName>
+</concept>
+<concept code="81234003">
+<displayName lang="en" type="PT">Walk-in clinic</displayName>
+<displayName lang="en" type="FSN">Walk-in clinic (environment)</displayName>
+<displayName lang="en-GB" type="SY">Walk-in centre</displayName>
+</concept>
+<concept code="82242000">
+<displayName lang="en" type="PT">Children&apos;s hospital</displayName>
+<displayName lang="en" type="FSN">Children&apos;s hospital (environment)</displayName>
+</concept>
+<concept code="82455001">
+<displayName lang="en-GB" type="PT">Free-standing paediatric clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing pediatric clinic (environment)</displayName>
+</concept>
+<concept code="83891005">
+<displayName lang="en" type="PT">Solo practice private office</displayName>
+<displayName lang="en" type="FSN">Solo practice private office (environment)</displayName>
+<displayName lang="en" type="SY">Doctor&apos;s office</displayName>
+</concept>
+<concept code="84643003">
+<displayName lang="en" type="PT">Free-standing endocrinology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing endocrinology clinic (environment)</displayName>
+</concept>
+<concept code="89972002">
+<displayName lang="en" type="PT">Hospital-based outpatient oncology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient oncology clinic (environment)</displayName>
+</concept>
+<concept code="90484001">
+<displayName lang="en" type="PT">Hospital-based outpatient general surgery clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient general surgery clinic (environment)</displayName>
+</concept>
+<concept code="91154008">
+<displayName lang="en-GB" type="PT">Free-standing birthing centre</displayName>
+<displayName lang="en" type="FSN">Free-standing birthing center (environment)</displayName>
+</concept>
+<concept code="91655008">
+<displayName lang="en-GB" type="PT">Free-standing gynaecology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing gynecology clinic (environment)</displayName>
+</concept>
+<concept code="108343000">
+<displayName lang="en" type="PT">Hospital AND/OR institution</displayName>
+<displayName lang="en" type="FSN">Hospital AND/OR institution (environment)</displayName>
+</concept>
+<concept code="108344006">
+<displayName lang="en" type="PT">Nursing home AND/OR ambulatory care site</displayName>
+<displayName lang="en" type="FSN">Nursing home AND/OR ambulatory care site (environment)</displayName>
+</concept>
+<concept code="113172002">
+<displayName lang="en" type="PT">Free-standing oncology clinic</displayName>
+<displayName lang="en" type="FSN">Free-standing oncology clinic (environment)</displayName>
+</concept>
+<concept code="113173007">
+<displayName lang="en" type="PT">Domiciliary</displayName>
+<displayName lang="en" type="FSN">Domiciliary (environment)</displayName>
+</concept>
+<concept code="182718004">
+<displayName lang="en" type="PT">Mountain resort sanatorium</displayName>
+<displayName lang="en" type="FSN">Mountain resort sanatorium (environment)</displayName>
+</concept>
+<concept code="185483006">
+<displayName lang="en" type="PT">Outreach clinic</displayName>
+<displayName lang="en" type="FSN">Outreach clinic (environment)</displayName>
+</concept>
+<concept code="185484000">
+<displayName lang="en" type="PT">Dermatology outreach clinic</displayName>
+<displayName lang="en" type="FSN">Dermatology outreach clinic (environment)</displayName>
+</concept>
+<concept code="185485004">
+<displayName lang="en-GB" type="PT">Orthopaedic outreach clinic</displayName>
+<displayName lang="en" type="FSN">Orthopedic outreach clinic (environment)</displayName>
+</concept>
+<concept code="185486003">
+<displayName lang="en" type="PT">Ophthalmology outreach clinic</displayName>
+<displayName lang="en" type="FSN">Ophthalmology outreach clinic (environment)</displayName>
+</concept>
+<concept code="185487007">
+<displayName lang="en" type="PT">Podiatry outreach clinic</displayName>
+<displayName lang="en" type="FSN">Podiatry outreach clinic (environment)</displayName>
+</concept>
+<concept code="185920002">
+<displayName lang="en" type="PT">Cardiovascular clinic</displayName>
+<displayName lang="en" type="FSN">Cardiovascular clinic (environment)</displayName>
+</concept>
+<concept code="224687002">
+<displayName lang="en" type="PT">Prison hospital</displayName>
+<displayName lang="en" type="FSN">Prison hospital (environment)</displayName>
+</concept>
+<concept code="224880002">
+<displayName lang="en" type="PT">Location within general practice premises</displayName>
+<displayName lang="en" type="FSN">Location within general practice premises (environment)</displayName>
+<displayName lang="en" type="SY">Location within GP premises</displayName>
+<displayName lang="en" type="SY">Location within GP surgery</displayName>
+<displayName lang="en-GB" type="SY">Location within general practice surgery</displayName>
+</concept>
+<concept code="224881003">
+<displayName lang="en" type="PT">Charitable nursing home</displayName>
+<displayName lang="en" type="FSN">Charitable nursing home (environment)</displayName>
+</concept>
+<concept code="224882005">
+<displayName lang="en" type="PT">Cheshire nursing home</displayName>
+<displayName lang="en" type="FSN">Cheshire nursing home (environment)</displayName>
+</concept>
+<concept code="224883000">
+<displayName lang="en" type="PT">St Dunstan&apos;s</displayName>
+<displayName lang="en" type="FSN">St Dunstan&apos;s (environment)</displayName>
+<displayName lang="en" type="SY">St Dunstan</displayName>
+</concept>
+<concept code="224884006">
+<displayName lang="en" type="PT">Location within hospital premises</displayName>
+<displayName lang="en" type="FSN">Location within hospital premises (environment)</displayName>
+</concept>
+<concept code="224885007">
+<displayName lang="en" type="PT">Hospital consulting room</displayName>
+<displayName lang="en" type="FSN">Hospital consulting room (environment)</displayName>
+<displayName lang="en" type="SY">Consulting room</displayName>
+</concept>
+<concept code="224886008">
+<displayName lang="en" type="PT">Treatment room</displayName>
+<displayName lang="en" type="FSN">Treatment room (environment)</displayName>
+</concept>
+<concept code="224887004">
+<displayName lang="en" type="PT">Hospital waiting room</displayName>
+<displayName lang="en" type="FSN">Hospital waiting room (environment)</displayName>
+</concept>
+<concept code="224888009">
+<displayName lang="en" type="PT">Health education room</displayName>
+<displayName lang="en" type="FSN">Health education room (environment)</displayName>
+</concept>
+<concept code="224889001">
+<displayName lang="en" type="PT">Toilet on hospital premises</displayName>
+<displayName lang="en" type="FSN">Toilet on hospital premises (environment)</displayName>
+</concept>
+<concept code="224890005">
+<displayName lang="en" type="PT">Hospital reception area</displayName>
+<displayName lang="en" type="FSN">Hospital reception area (environment)</displayName>
+</concept>
+<concept code="224924009">
+<displayName lang="en" type="PT">Cottage hospital</displayName>
+<displayName lang="en" type="FSN">Cottage hospital (environment)</displayName>
+</concept>
+<concept code="224927002">
+<displayName lang="en" type="PT">Medium secure unit</displayName>
+<displayName lang="en" type="FSN">Medium secure unit (environment)</displayName>
+</concept>
+<concept code="224928007">
+<displayName lang="en" type="PT">Regional secure unit</displayName>
+<displayName lang="en" type="FSN">Regional secure unit (environment)</displayName>
+</concept>
+<concept code="224929004">
+<displayName lang="en" type="PT">Secure hospital</displayName>
+<displayName lang="en" type="FSN">Secure hospital (environment)</displayName>
+</concept>
+<concept code="225728007">
+<displayName lang="en" type="PT">Accident and Emergency department</displayName>
+<displayName lang="en" type="FSN">Accident and Emergency department (environment)</displayName>
+<displayName lang="en" type="SY">A &amp; E - Accident and Emergency Department</displayName>
+<displayName lang="en" type="SY">AED - Accident and Emergency department</displayName>
+<displayName lang="en" type="SY">Casualty department</displayName>
+</concept>
+<concept code="225729004">
+<displayName lang="en" type="PT">Bathing station</displayName>
+<displayName lang="en" type="FSN">Bathing station (environment)</displayName>
+</concept>
+<concept code="225732001">
+<displayName lang="en" type="PT">Community hospital</displayName>
+<displayName lang="en" type="FSN">Community hospital (environment)</displayName>
+<displayName lang="en" type="SY">CH - Community hospital</displayName>
+</concept>
+<concept code="225734000">
+<displayName lang="en" type="PT">Holding room</displayName>
+<displayName lang="en" type="FSN">Holding room (environment)</displayName>
+</concept>
+<concept code="225737007">
+<displayName lang="en" type="FSN">Mortuary (environment)</displayName>
+</concept>
+<concept code="225738002">
+<displayName lang="en" type="PT">Operating theatre</displayName>
+<displayName lang="en" type="FSN">Operating theatre (environment)</displayName>
+<displayName lang="en" type="SY">OR - Operating room</displayName>
+<displayName lang="en" type="SY">OT - Operating theatre</displayName>
+<displayName lang="en" type="SY">Operating room</displayName>
+</concept>
+<concept code="225739005">
+<displayName lang="en" type="PT">Client&apos;s room</displayName>
+<displayName lang="en" type="FSN">Client&apos;s room (environment)</displayName>
+<displayName lang="en" type="SY">Patient&apos;s room</displayName>
+</concept>
+<concept code="225740007">
+<displayName lang="en-GB" type="PT">Regional centre</displayName>
+<displayName lang="en" type="FSN">Regional center (environment)</displayName>
+</concept>
+<concept code="225741006">
+<displayName lang="en" type="PT">Resuscitation room</displayName>
+<displayName lang="en" type="FSN">Resuscitation room (environment)</displayName>
+</concept>
+<concept code="225743009">
+<displayName lang="en" type="PT">Seclusion room</displayName>
+<displayName lang="en" type="FSN">Seclusion room (environment)</displayName>
+</concept>
+<concept code="225745002">
+<displayName lang="en" type="PT">Stripped room</displayName>
+<displayName lang="en" type="FSN">Stripped room (environment)</displayName>
+</concept>
+<concept code="225746001">
+<displayName lang="en" type="PT">Ward</displayName>
+<displayName lang="en" type="FSN">Ward (environment)</displayName>
+</concept>
+<concept code="225747005">
+<displayName lang="en" type="PT">X-ray department</displayName>
+<displayName lang="en" type="FSN">X-ray department (environment)</displayName>
+</concept>
+<concept code="257585005">
+<displayName lang="en" type="PT">Clinic</displayName>
+<displayName lang="en" type="FSN">Clinic (environment)</displayName>
+</concept>
+<concept code="257622000">
+<displayName lang="en" type="PT">Healthcare facility</displayName>
+<displayName lang="en" type="FSN">Healthcare facility (environment)</displayName>
+</concept>
+<concept code="264358009">
+<displayName lang="en" type="PT">General practice premises</displayName>
+<displayName lang="en" type="FSN">General practice premises (environment)</displayName>
+<displayName lang="en" type="SY">GP premises</displayName>
+<displayName lang="en" type="SY">GP surgery</displayName>
+<displayName lang="en-GB" type="SY">General practice surgery</displayName>
+</concept>
+<concept code="264361005">
+<displayName lang="en-GB" type="PT">Health centre</displayName>
+<displayName lang="en" type="FSN">Health center (environment)</displayName>
+<displayName lang="en-GB" type="SY">HC - Health centre</displayName>
+</concept>
+<concept code="264372000">
+<displayName lang="en" type="PT">Pharmacy</displayName>
+<displayName lang="en" type="FSN">Pharmacy (environment)</displayName>
+</concept>
+<concept code="274409007">
+<displayName lang="en" type="PT">Special care unit</displayName>
+<displayName lang="en" type="FSN">Special care unit (environment)</displayName>
+</concept>
+<concept code="274516006">
+<displayName lang="en" type="PT">Day hospital</displayName>
+<displayName lang="en" type="FSN">Day hospital (environment)</displayName>
+</concept>
+<concept code="274517002">
+<displayName lang="en-GB" type="PT">Alcoholism detoxication centre</displayName>
+<displayName lang="en" type="FSN">Alcoholism detoxication center (environment)</displayName>
+</concept>
+<concept code="275576008">
+<displayName lang="en" type="PT">Elderly assessment clinic</displayName>
+<displayName lang="en" type="FSN">Elderly assessment clinic (environment)</displayName>
+<displayName lang="en" type="SY">Geriatric clinic</displayName>
+</concept>
+<concept code="275692008">
+<displayName lang="en" type="PT">Wart clinic</displayName>
+<displayName lang="en" type="FSN">Wart clinic (environment)</displayName>
+</concept>
+<concept code="282086004">
+<displayName lang="en" type="PT">Dental surgery premises</displayName>
+<displayName lang="en" type="FSN">Dental surgery premises (environment)</displayName>
+</concept>
+<concept code="282087008">
+<displayName lang="en" type="PT">Dental laboratory</displayName>
+<displayName lang="en" type="FSN">Dental laboratory (environment)</displayName>
+</concept>
+<concept code="284455000">
+<displayName lang="en" type="PT">Location within secure unit</displayName>
+<displayName lang="en" type="FSN">Location within secure unit (environment)</displayName>
+</concept>
+<concept code="284548004">
+<displayName lang="en" type="PT">Hospital department</displayName>
+<displayName lang="en" type="FSN">Hospital department (environment)</displayName>
+</concept>
+<concept code="288561005">
+<displayName lang="en" type="PT">Special hospital</displayName>
+<displayName lang="en" type="FSN">Special hospital (environment)</displayName>
+</concept>
+<concept code="288562003">
+<displayName lang="en" type="PT">Secure unit</displayName>
+<displayName lang="en" type="FSN">Secure unit (environment)</displayName>
+</concept>
+<concept code="288565001">
+<displayName lang="en-GB" type="PT">Medical centre</displayName>
+<displayName lang="en" type="FSN">Medical center (environment)</displayName>
+</concept>
+<concept code="288566000">
+<displayName lang="en" type="PT">General practice examination room</displayName>
+<displayName lang="en" type="FSN">General practice examination room (environment)</displayName>
+<displayName lang="en" type="SY">GP examination room</displayName>
+</concept>
+<concept code="288567009">
+<displayName lang="en" type="PT">General practice treatment room</displayName>
+<displayName lang="en" type="FSN">General practice treatment room (environment)</displayName>
+<displayName lang="en" type="SY">GP treatment room</displayName>
+</concept>
+<concept code="288568004">
+<displayName lang="en" type="PT">General practice consulting room</displayName>
+<displayName lang="en" type="FSN">General practice consulting room (environment)</displayName>
+<displayName lang="en" type="SY">Consulting room</displayName>
+<displayName lang="en" type="SY">GP consulting room</displayName>
+</concept>
+<concept code="288569007">
+<displayName lang="en" type="PT">General practice reception area</displayName>
+<displayName lang="en" type="FSN">General practice reception area (environment)</displayName>
+<displayName lang="en" type="SY">GP reception area</displayName>
+</concept>
+<concept code="288570008">
+<displayName lang="en" type="PT">General practice waiting room</displayName>
+<displayName lang="en" type="FSN">General practice waiting room (environment)</displayName>
+<displayName lang="en" type="SY">GP waiting room</displayName>
+</concept>
+<concept code="288572000">
+<displayName lang="en" type="PT">Toilet on general practice premises</displayName>
+<displayName lang="en" type="FSN">Toilet on general practice premises (environment)</displayName>
+<displayName lang="en" type="SY">Toilet on GP premises</displayName>
+</concept>
+<concept code="288573005">
+<displayName lang="en" type="PT">Community health care environment</displayName>
+<displayName lang="en" type="FSN">Community health care environment (environment)</displayName>
+</concept>
+<concept code="309895006">
+<displayName lang="en" type="PT">Private hospital</displayName>
+<displayName lang="en" type="FSN">Private hospital (environment)</displayName>
+</concept>
+<concept code="309896007">
+<displayName lang="en" type="PT">Tertiary referral hospital</displayName>
+<displayName lang="en" type="FSN">Tertiary referral hospital (environment)</displayName>
+<displayName lang="en-GB" type="SY">Tertiary care centre</displayName>
+<displayName lang="en-GB" type="SY">Tertiary referral centre</displayName>
+</concept>
+<concept code="309897003">
+<displayName lang="en" type="PT">Psychiatric day care hospital</displayName>
+<displayName lang="en" type="FSN">Psychiatric day care hospital (environment)</displayName>
+</concept>
+<concept code="309898008">
+<displayName lang="en" type="PT">Psychogeriatric day hospital</displayName>
+<displayName lang="en" type="FSN">Psychogeriatric day hospital (environment)</displayName>
+</concept>
+<concept code="309899000">
+<displayName lang="en" type="PT">Elderly severely mentally ill day hospital</displayName>
+<displayName lang="en" type="FSN">Elderly severely mentally ill day hospital (environment)</displayName>
+</concept>
+<concept code="309900005">
+<displayName lang="en" type="PT">Care of the elderly day hospital</displayName>
+<displayName lang="en" type="FSN">Care of the elderly day hospital (environment)</displayName>
+</concept>
+<concept code="309901009">
+<displayName lang="en-GB" type="PT">Anaesthetic department</displayName>
+<displayName lang="en" type="FSN">Anesthetic department (environment)</displayName>
+</concept>
+<concept code="309902002">
+<displayName lang="en" type="PT">Clinical oncology department</displayName>
+<displayName lang="en" type="FSN">Clinical oncology department (environment)</displayName>
+</concept>
+<concept code="309903007">
+<displayName lang="en" type="PT">Radiotherapy department</displayName>
+<displayName lang="en" type="FSN">Radiotherapy department (environment)</displayName>
+</concept>
+<concept code="309904001">
+<displayName lang="en" type="PT">Intensive care unit</displayName>
+<displayName lang="en" type="FSN">Intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">ICU</displayName>
+<displayName lang="en" type="SY">ICU - Intensive care unit</displayName>
+<displayName lang="en" type="SY">ITU</displayName>
+</concept>
+<concept code="309905000">
+<displayName lang="en" type="PT">Adult intensive care unit</displayName>
+<displayName lang="en" type="FSN">Adult intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">Adult ITU</displayName>
+</concept>
+<concept code="309906004">
+<displayName lang="en" type="PT">Burns unit</displayName>
+<displayName lang="en" type="FSN">Burns unit (environment)</displayName>
+</concept>
+<concept code="309907008">
+<displayName lang="en" type="PT">Cardiac intensive care unit</displayName>
+<displayName lang="en" type="FSN">Cardiac intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">Cardiac ITU</displayName>
+</concept>
+<concept code="309908003">
+<displayName lang="en" type="PT">Metabolic intensive care unit</displayName>
+<displayName lang="en" type="FSN">Metabolic intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">Metabolic ITU</displayName>
+</concept>
+<concept code="309909006">
+<displayName lang="en" type="PT">Neurological intensive care unit</displayName>
+<displayName lang="en" type="FSN">Neurological intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">Neurological ITU</displayName>
+</concept>
+<concept code="309910001">
+<displayName lang="en-GB" type="PT">Paediatric intensive care unit</displayName>
+<displayName lang="en" type="FSN">Pediatric intensive care unit (environment)</displayName>
+<displayName lang="en-GB" type="SY">PICU - Paediatric intensive care unit</displayName>
+<displayName lang="en-GB" type="SY">Paediatric ITU</displayName>
+</concept>
+<concept code="309911002">
+<displayName lang="en" type="PT">Respiratory intensive care unit</displayName>
+<displayName lang="en" type="FSN">Respiratory intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">Respiratory ITU</displayName>
+</concept>
+<concept code="309912009">
+<displayName lang="en" type="PT">Medical department</displayName>
+<displayName lang="en" type="FSN">Medical department (environment)</displayName>
+</concept>
+<concept code="309913004">
+<displayName lang="en" type="PT">Clinical allergy department</displayName>
+<displayName lang="en" type="FSN">Clinical allergy department (environment)</displayName>
+</concept>
+<concept code="309914005">
+<displayName lang="en" type="PT">Audiology department</displayName>
+<displayName lang="en" type="FSN">Audiology department (environment)</displayName>
+</concept>
+<concept code="309915006">
+<displayName lang="en" type="PT">Cardiology department</displayName>
+<displayName lang="en" type="FSN">Cardiology department (environment)</displayName>
+</concept>
+<concept code="309916007">
+<displayName lang="en" type="PT">Chest medicine department</displayName>
+<displayName lang="en" type="FSN">Chest medicine department (environment)</displayName>
+</concept>
+<concept code="309917003">
+<displayName lang="en" type="PT">Thoracic medicine department</displayName>
+<displayName lang="en" type="FSN">Thoracic medicine department (environment)</displayName>
+</concept>
+<concept code="309918008">
+<displayName lang="en" type="PT">Respiratory medicine department</displayName>
+<displayName lang="en" type="FSN">Respiratory medicine department (environment)</displayName>
+</concept>
+<concept code="309919000">
+<displayName lang="en" type="PT">Clinical immunology department</displayName>
+<displayName lang="en" type="FSN">Clinical immunology department (environment)</displayName>
+</concept>
+<concept code="309920006">
+<displayName lang="en" type="PT">Clinical neurophysiology department</displayName>
+<displayName lang="en" type="FSN">Clinical neurophysiology department (environment)</displayName>
+</concept>
+<concept code="309921005">
+<displayName lang="en" type="PT">Clinical pharmacology department</displayName>
+<displayName lang="en" type="FSN">Clinical pharmacology department (environment)</displayName>
+</concept>
+<concept code="309922003">
+<displayName lang="en" type="PT">Clinical physiology department</displayName>
+<displayName lang="en" type="FSN">Clinical physiology department (environment)</displayName>
+</concept>
+<concept code="309923008">
+<displayName lang="en" type="PT">Dermatology department</displayName>
+<displayName lang="en" type="FSN">Dermatology department (environment)</displayName>
+</concept>
+<concept code="309924002">
+<displayName lang="en" type="PT">Diabetic department</displayName>
+<displayName lang="en" type="FSN">Diabetic department (environment)</displayName>
+</concept>
+<concept code="309925001">
+<displayName lang="en" type="PT">Endocrinology department</displayName>
+<displayName lang="en" type="FSN">Endocrinology department (environment)</displayName>
+</concept>
+<concept code="309926000">
+<displayName lang="en" type="PT">Gastroenterology department</displayName>
+<displayName lang="en" type="FSN">Gastroenterology department (environment)</displayName>
+</concept>
+<concept code="309927009">
+<displayName lang="en" type="PT">General medical department</displayName>
+<displayName lang="en" type="FSN">General medical department (environment)</displayName>
+</concept>
+<concept code="309928004">
+<displayName lang="en" type="PT">Genetics department</displayName>
+<displayName lang="en" type="FSN">Genetics department (environment)</displayName>
+</concept>
+<concept code="309929007">
+<displayName lang="en" type="PT">Clinical genetics department</displayName>
+<displayName lang="en" type="FSN">Clinical genetics department (environment)</displayName>
+</concept>
+<concept code="309930002">
+<displayName lang="en" type="PT">Clinical cytogenetics department</displayName>
+<displayName lang="en" type="FSN">Clinical cytogenetics department (environment)</displayName>
+</concept>
+<concept code="309931003">
+<displayName lang="en" type="PT">Clinical molecular genetics department</displayName>
+<displayName lang="en" type="FSN">Clinical molecular genetics department (environment)</displayName>
+</concept>
+<concept code="309932005">
+<displayName lang="en" type="PT">Genitourinary medicine department</displayName>
+<displayName lang="en" type="FSN">Genitourinary medicine department (environment)</displayName>
+<displayName lang="en" type="SY">GU medicine department</displayName>
+<displayName lang="en" type="SY">STD department</displayName>
+<displayName lang="en" type="SY">Sexually transmittable diseases department</displayName>
+</concept>
+<concept code="309933000">
+<displayName lang="en" type="PT">Care of the elderly department</displayName>
+<displayName lang="en" type="FSN">Care of the elderly department (environment)</displayName>
+<displayName lang="en" type="SY">Geriatric medicine department</displayName>
+</concept>
+<concept code="309934006">
+<displayName lang="en" type="PT">Infectious diseases department</displayName>
+<displayName lang="en" type="FSN">Infectious diseases department (environment)</displayName>
+</concept>
+<concept code="309935007">
+<displayName lang="en" type="PT">Medical ophthalmology department</displayName>
+<displayName lang="en" type="FSN">Medical ophthalmology department (environment)</displayName>
+</concept>
+<concept code="309936008">
+<displayName lang="en" type="PT">Nephrology department</displayName>
+<displayName lang="en" type="FSN">Nephrology department (environment)</displayName>
+</concept>
+<concept code="309937004">
+<displayName lang="en" type="PT">Neurology department</displayName>
+<displayName lang="en" type="FSN">Neurology department (environment)</displayName>
+</concept>
+<concept code="309938009">
+<displayName lang="en" type="PT">Nuclear medicine department</displayName>
+<displayName lang="en" type="FSN">Nuclear medicine department (environment)</displayName>
+</concept>
+<concept code="309939001">
+<displayName lang="en" type="PT">Palliative care department</displayName>
+<displayName lang="en" type="FSN">Palliative care department (environment)</displayName>
+</concept>
+<concept code="309940004">
+<displayName lang="en" type="PT">Rehabilitation department</displayName>
+<displayName lang="en" type="FSN">Rehabilitation department (environment)</displayName>
+</concept>
+<concept code="309941000">
+<displayName lang="en" type="PT">Rheumatology department</displayName>
+<displayName lang="en" type="FSN">Rheumatology department (environment)</displayName>
+</concept>
+<concept code="309942007">
+<displayName lang="en-GB" type="PT">Obstetrics and gynaecology department</displayName>
+<displayName lang="en" type="FSN">Obstetrics and gynecology department (environment)</displayName>
+</concept>
+<concept code="309943002">
+<displayName lang="en-GB" type="PT">Gynaecology department</displayName>
+<displayName lang="en" type="FSN">Gynecology department (environment)</displayName>
+</concept>
+<concept code="309944008">
+<displayName lang="en" type="PT">Obstetrics department</displayName>
+<displayName lang="en" type="FSN">Obstetrics department (environment)</displayName>
+</concept>
+<concept code="309945009">
+<displayName lang="en-GB" type="PT">Paediatric department</displayName>
+<displayName lang="en" type="FSN">Pediatric department (environment)</displayName>
+</concept>
+<concept code="309946005">
+<displayName lang="en" type="PT">Special care baby unit</displayName>
+<displayName lang="en" type="FSN">Special care baby unit (environment)</displayName>
+<displayName lang="en" type="SY">SCBU - Special care baby unit</displayName>
+</concept>
+<concept code="309947001">
+<displayName lang="en-GB" type="PT">Paediatric neurology department</displayName>
+<displayName lang="en" type="FSN">Pediatric neurology department (environment)</displayName>
+</concept>
+<concept code="309948006">
+<displayName lang="en-GB" type="PT">Paediatric oncology department</displayName>
+<displayName lang="en" type="FSN">Pediatric oncology department (environment)</displayName>
+</concept>
+<concept code="309949003">
+<displayName lang="en" type="PT">Pain management department</displayName>
+<displayName lang="en" type="FSN">Pain management department (environment)</displayName>
+</concept>
+<concept code="309950003">
+<displayName lang="en" type="PT">Pathology department</displayName>
+<displayName lang="en" type="FSN">Pathology department (environment)</displayName>
+</concept>
+<concept code="309951004">
+<displayName lang="en" type="PT">Blood transfusion department</displayName>
+<displayName lang="en" type="FSN">Blood transfusion department (environment)</displayName>
+</concept>
+<concept code="309952006">
+<displayName lang="en" type="PT">Chemical pathology department</displayName>
+<displayName lang="en" type="FSN">Chemical pathology department (environment)</displayName>
+<displayName lang="en" type="SY">Clinical biochemistry department</displayName>
+</concept>
+<concept code="309953001">
+<displayName lang="en" type="PT">General pathology department</displayName>
+<displayName lang="en" type="FSN">General pathology department (environment)</displayName>
+</concept>
+<concept code="309954007">
+<displayName lang="en-GB" type="PT">Haematology department</displayName>
+<displayName lang="en" type="FSN">Hematology department (environment)</displayName>
+</concept>
+<concept code="309956009">
+<displayName lang="en" type="PT">Medical microbiology department</displayName>
+<displayName lang="en" type="FSN">Medical microbiology department (environment)</displayName>
+</concept>
+<concept code="309957000">
+<displayName lang="en" type="PT">Neuropathology department</displayName>
+<displayName lang="en" type="FSN">Neuropathology department (environment)</displayName>
+</concept>
+<concept code="309958005">
+<displayName lang="en" type="PT">Psychiatry department</displayName>
+<displayName lang="en" type="FSN">Psychiatry department (environment)</displayName>
+</concept>
+<concept code="309959002">
+<displayName lang="en" type="PT">Child and adolescent psychiatry department</displayName>
+<displayName lang="en" type="FSN">Child and adolescent psychiatry department (environment)</displayName>
+</concept>
+<concept code="309960007">
+<displayName lang="en" type="PT">Forensic psychiatry department</displayName>
+<displayName lang="en" type="FSN">Forensic psychiatry department (environment)</displayName>
+</concept>
+<concept code="309961006">
+<displayName lang="en" type="PT">Psychogeriatric department</displayName>
+<displayName lang="en" type="FSN">Psychogeriatric department (environment)</displayName>
+<displayName lang="en" type="SY">Elderly mentally ill department</displayName>
+<displayName lang="en" type="SY">Old age psychiatry department</displayName>
+</concept>
+<concept code="309962004">
+<displayName lang="en" type="PT">Mental handicap psychiatry department</displayName>
+<displayName lang="en" type="FSN">Mental handicap psychiatry department (environment)</displayName>
+</concept>
+<concept code="309963009">
+<displayName lang="en" type="PT">Rehabilitation psychiatry department</displayName>
+<displayName lang="en" type="FSN">Rehabilitation psychiatry department (environment)</displayName>
+</concept>
+<concept code="309964003">
+<displayName lang="en" type="PT">Radiology department</displayName>
+<displayName lang="en" type="FSN">Radiology department (environment)</displayName>
+</concept>
+<concept code="309965002">
+<displayName lang="en" type="PT">Occupational health department</displayName>
+<displayName lang="en" type="FSN">Occupational health department (environment)</displayName>
+</concept>
+<concept code="309966001">
+<displayName lang="en" type="PT">Stroke unit</displayName>
+<displayName lang="en" type="FSN">Stroke unit (environment)</displayName>
+</concept>
+<concept code="309967005">
+<displayName lang="en" type="PT">Surgical department</displayName>
+<displayName lang="en" type="FSN">Surgical department (environment)</displayName>
+</concept>
+<concept code="309968000">
+<displayName lang="en" type="PT">Breast surgery department</displayName>
+<displayName lang="en" type="FSN">Breast surgery department (environment)</displayName>
+</concept>
+<concept code="309969008">
+<displayName lang="en" type="PT">Cardiothoracic surgery department</displayName>
+<displayName lang="en" type="FSN">Cardiothoracic surgery department (environment)</displayName>
+</concept>
+<concept code="309970009">
+<displayName lang="en" type="PT">Thoracic surgery department</displayName>
+<displayName lang="en" type="FSN">Thoracic surgery department (environment)</displayName>
+</concept>
+<concept code="309971008">
+<displayName lang="en" type="PT">Cardiac surgery department</displayName>
+<displayName lang="en" type="FSN">Cardiac surgery department (environment)</displayName>
+</concept>
+<concept code="309972001">
+<displayName lang="en" type="PT">Dental surgery department</displayName>
+<displayName lang="en" type="FSN">Dental surgery department (environment)</displayName>
+</concept>
+<concept code="309973006">
+<displayName lang="en" type="PT">General dental surgery department</displayName>
+<displayName lang="en" type="FSN">General dental surgery department (environment)</displayName>
+</concept>
+<concept code="309974000">
+<displayName lang="en" type="PT">Oral surgery department</displayName>
+<displayName lang="en" type="FSN">Oral surgery department (environment)</displayName>
+<displayName lang="en" type="SY">Maxillofacial surgery department</displayName>
+</concept>
+<concept code="309975004">
+<displayName lang="en" type="PT">Orthodontics department</displayName>
+<displayName lang="en" type="FSN">Orthodontics department (environment)</displayName>
+</concept>
+<concept code="309976003">
+<displayName lang="en-GB" type="PT">Paediatric dentistry department</displayName>
+<displayName lang="en" type="FSN">Pediatric dentistry department (environment)</displayName>
+</concept>
+<concept code="309977007">
+<displayName lang="en" type="PT">Restorative dentistry department</displayName>
+<displayName lang="en" type="FSN">Restorative dentistry department (environment)</displayName>
+</concept>
+<concept code="309978002">
+<displayName lang="en" type="PT">Ear, nose and throat department</displayName>
+<displayName lang="en" type="FSN">Ear, nose and throat department (environment)</displayName>
+<displayName lang="en" type="SY">ENT department</displayName>
+<displayName lang="en" type="SY">Otorhinolaryngology department</displayName>
+</concept>
+<concept code="309979005">
+<displayName lang="en" type="PT">Endocrine surgery department</displayName>
+<displayName lang="en" type="FSN">Endocrine surgery department (environment)</displayName>
+</concept>
+<concept code="309980008">
+<displayName lang="en" type="PT">Gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">Gastrointestinal surgery department (environment)</displayName>
+</concept>
+<concept code="309981007">
+<displayName lang="en" type="PT">General gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">General gastrointestinal surgery department (environment)</displayName>
+</concept>
+<concept code="309982000">
+<displayName lang="en" type="PT">Upper gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">Upper gastrointestinal surgery department (environment)</displayName>
+</concept>
+<concept code="309983005">
+<displayName lang="en" type="PT">Colorectal surgery department</displayName>
+<displayName lang="en" type="FSN">Colorectal surgery department (environment)</displayName>
+</concept>
+<concept code="309984004">
+<displayName lang="en" type="PT">General surgical department</displayName>
+<displayName lang="en" type="FSN">General surgical department (environment)</displayName>
+</concept>
+<concept code="309985003">
+<displayName lang="en" type="PT">Hand surgery department</displayName>
+<displayName lang="en" type="FSN">Hand surgery department (environment)</displayName>
+</concept>
+<concept code="309986002">
+<displayName lang="en" type="PT">Hepatobiliary surgical department</displayName>
+<displayName lang="en" type="FSN">Hepatobiliary surgical department (environment)</displayName>
+</concept>
+<concept code="309987006">
+<displayName lang="en" type="PT">Neurosurgical department</displayName>
+<displayName lang="en" type="FSN">Neurosurgical department (environment)</displayName>
+</concept>
+<concept code="309988001">
+<displayName lang="en" type="PT">Ophthalmology department</displayName>
+<displayName lang="en" type="FSN">Ophthalmology department (environment)</displayName>
+</concept>
+<concept code="309989009">
+<displayName lang="en-GB" type="PT">Orthopaedic department</displayName>
+<displayName lang="en" type="FSN">Orthopedic department (environment)</displayName>
+</concept>
+<concept code="309990000">
+<displayName lang="en" type="PT">Pancreatic surgery department</displayName>
+<displayName lang="en" type="FSN">Pancreatic surgery department (environment)</displayName>
+</concept>
+<concept code="309991001">
+<displayName lang="en-GB" type="PT">Paediatric surgical department</displayName>
+<displayName lang="en" type="FSN">Pediatric surgical department (environment)</displayName>
+</concept>
+<concept code="309992008">
+<displayName lang="en" type="PT">Plastic surgery department</displayName>
+<displayName lang="en" type="FSN">Plastic surgery department (environment)</displayName>
+</concept>
+<concept code="309993003">
+<displayName lang="en" type="PT">Surgical transplant department</displayName>
+<displayName lang="en" type="FSN">Surgical transplant department (environment)</displayName>
+</concept>
+<concept code="309994009">
+<displayName lang="en" type="PT">Trauma surgery department</displayName>
+<displayName lang="en" type="FSN">Trauma surgery department (environment)</displayName>
+</concept>
+<concept code="309995005">
+<displayName lang="en" type="PT">Urology department</displayName>
+<displayName lang="en" type="FSN">Urology department (environment)</displayName>
+</concept>
+<concept code="309996006">
+<displayName lang="en" type="PT">Vascular surgery department</displayName>
+<displayName lang="en" type="FSN">Vascular surgery department (environment)</displayName>
+</concept>
+<concept code="309997002">
+<displayName lang="en" type="PT">Young disabled unit</displayName>
+<displayName lang="en" type="FSN">Young disabled unit (environment)</displayName>
+</concept>
+<concept code="309998007">
+<displayName lang="en" type="PT">Day ward</displayName>
+<displayName lang="en" type="FSN">Day ward (environment)</displayName>
+</concept>
+<concept code="310203004">
+<displayName lang="en-GB" type="PT">Paediatric Accident and Emergency department</displayName>
+<displayName lang="en" type="FSN">Pediatric Accident and Emergency department (environment)</displayName>
+</concept>
+<concept code="310204005">
+<displayName lang="en" type="PT">Ophthalmology Accident and Emergency department</displayName>
+<displayName lang="en" type="FSN">Ophthalmology Accident and Emergency department (environment)</displayName>
+<displayName lang="en" type="SY">Eye casualty</displayName>
+</concept>
+<concept code="310206007">
+<displayName lang="en" type="PT">Private nursing home</displayName>
+<displayName lang="en" type="FSN">Private nursing home (environment)</displayName>
+</concept>
+<concept code="310390009">
+<displayName lang="en" type="PT">Hospital clinic</displayName>
+<displayName lang="en" type="FSN">Hospital clinic (environment)</displayName>
+</concept>
+<concept code="310391008">
+<displayName lang="en" type="PT">Community clinic</displayName>
+<displayName lang="en" type="FSN">Community clinic (environment)</displayName>
+</concept>
+<concept code="310464005">
+<displayName lang="en" type="PT">Physiotherapy department</displayName>
+<displayName lang="en" type="FSN">Physiotherapy department (environment)</displayName>
+</concept>
+<concept code="360957003">
+<displayName lang="en" type="PT">Hospital-based outpatient allergy clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient allergy clinic (environment)</displayName>
+</concept>
+<concept code="360966004">
+<displayName lang="en" type="PT">Hospital-based outpatient immunology clinic</displayName>
+<displayName lang="en" type="FSN">Hospital-based outpatient immunology clinic (environment)</displayName>
+</concept>
+<concept code="394573001">
+<displayName lang="en" type="PT">Maternity clinic</displayName>
+<displayName lang="en" type="FSN">Maternity clinic (environment)</displayName>
+</concept>
+<concept code="394574007">
+<displayName lang="en" type="PT">Antenatal clinic</displayName>
+<displayName lang="en" type="FSN">Antenatal clinic (environment)</displayName>
+</concept>
+<concept code="394575008">
+<displayName lang="en" type="PT">Postnatal clinic</displayName>
+<displayName lang="en" type="FSN">Postnatal clinic (environment)</displayName>
+</concept>
+<concept code="394759007">
+<displayName lang="en" type="PT">Independent provider site</displayName>
+<displayName lang="en" type="FSN">Independent provider site (environment)</displayName>
+</concept>
+<concept code="394761003">
+<displayName lang="en" type="PT">GP practice site</displayName>
+<displayName lang="en" type="FSN">General practitioner practice site (environment)</displayName>
+<displayName lang="en" type="SY">General practitioner (GP) practice site</displayName>
+<displayName lang="en" type="SY">General practitioner practice site</displayName>
+</concept>
+<concept code="394777002">
+<displayName lang="en" type="PT">Health encounter sites</displayName>
+<displayName lang="en" type="FSN">Health encounter sites (environment)</displayName>
+</concept>
+<concept code="394778007">
+<displayName lang="en" type="PT">Client&apos;s or patient&apos;s home</displayName>
+<displayName lang="en" type="FSN">Client&apos;s or patient&apos;s home (environment)</displayName>
+</concept>
+<concept code="394783004">
+<displayName lang="en" type="PT">Group home managed by local authority</displayName>
+<displayName lang="en" type="FSN">Group home managed by local authority (environment)</displayName>
+</concept>
+<concept code="394784005">
+<displayName lang="en" type="PT">Group home managed by voluntary or private agents</displayName>
+<displayName lang="en" type="FSN">Group home managed by voluntary or private agents (environment)</displayName>
+</concept>
+<concept code="394789000">
+<displayName lang="en-GB" type="PT">Day centre managed by local authority</displayName>
+<displayName lang="en" type="FSN">Day center managed by local authority (environment)</displayName>
+</concept>
+<concept code="394790009">
+<displayName lang="en-GB" type="PT">Day centre managed by voluntary or private agents</displayName>
+<displayName lang="en" type="FSN">Day center managed by voluntary or private agents (environment)</displayName>
+</concept>
+<concept code="394794000">
+<displayName lang="en" type="PT">Health clinic managed by voluntary or private agents</displayName>
+<displayName lang="en" type="FSN">Health clinic managed by voluntary or private agents (environment)</displayName>
+</concept>
+<concept code="394797007">
+<displayName lang="en-GB" type="PT">Resource centre managed by local authority</displayName>
+<displayName lang="en" type="FSN">Resource center managed by local authority (environment)</displayName>
+</concept>
+<concept code="394798002">
+<displayName lang="en-GB" type="PT">Resource centre managed by voluntary or private agents</displayName>
+<displayName lang="en" type="FSN">Resource center managed by voluntary or private agents (environment)</displayName>
+</concept>
+<concept code="394865001">
+<displayName lang="en" type="PT">Joint consultant clinic</displayName>
+<displayName lang="en" type="FSN">Joint consultant clinic (environment)</displayName>
+</concept>
+<concept code="397784001">
+<displayName lang="en" type="PT">Other location within hospital premises</displayName>
+<displayName lang="en" type="FSN">Other location within hospital premises (environment)</displayName>
+</concept>
+<concept code="397872006">
+<displayName lang="en" type="PT">Preoperative screening clinic</displayName>
+<displayName lang="en" type="FSN">Preoperative screening clinic (environment)</displayName>
+</concept>
+<concept code="397983003">
+<displayName lang="en" type="PT">Preoperative holding area</displayName>
+<displayName lang="en" type="FSN">Preoperative holding area (environment)</displayName>
+</concept>
+<concept code="398156002">
+<displayName lang="en" type="PT">Medical or surgical floor</displayName>
+<displayName lang="en" type="FSN">Medical or surgical floor (environment)</displayName>
+</concept>
+<concept code="398161000">
+<displayName lang="en-GB" type="PT">Postoperative anaesthesia care unit</displayName>
+<displayName lang="en" type="FSN">Postoperative anesthesia care unit (environment)</displayName>
+<displayName lang="en" type="SY">PACU</displayName>
+<displayName lang="en" type="SY">Recovery room</displayName>
+</concept>
+<concept code="404821007">
+<displayName lang="en" type="PT">Psychiatric intensive care unit</displayName>
+<displayName lang="en" type="FSN">Psychiatric intensive care unit (environment)</displayName>
+</concept>
+<concept code="405269005">
+<displayName lang="en" type="PT">Neonatal intensive care unit</displayName>
+<displayName lang="en" type="FSN">Neonatal intensive care unit (environment)</displayName>
+<displayName lang="en" type="SY">NICU</displayName>
+</concept>
+<concept code="405606005">
+<displayName lang="en-GB" type="PT">Labour and delivery unit</displayName>
+<displayName lang="en" type="FSN">Labor and delivery unit (environment)</displayName>
+</concept>
+<concept code="405607001">
+<displayName lang="en-GB" type="PT">Ambulatory surgery centre</displayName>
+<displayName lang="en" type="FSN">Ambulatory surgery center (environment)</displayName>
+<displayName lang="en-GB" type="SY">Outpatient surgery centre</displayName>
+<displayName lang="en-GB" type="SY">Same day surgery centre</displayName>
+</concept>
+<concept code="405608006">
+<displayName lang="en-GB" type="PT">Academic medical centre</displayName>
+<displayName lang="en" type="FSN">Academic medical center (environment)</displayName>
+<displayName lang="en" type="SY">Teaching hospital</displayName>
+</concept>
+<concept code="409518000">
+<displayName lang="en" type="PT">Mass casualty setting</displayName>
+<displayName lang="en" type="FSN">Mass casualty setting (environment)</displayName>
+</concept>
+<concept code="409519008">
+<displayName lang="en" type="PT">Contained casualty setting</displayName>
+<displayName lang="en" type="FSN">Contained casualty setting (environment)</displayName>
+</concept>
+<concept code="409685000">
+<displayName lang="en" type="PT">Hospital decontamination room</displayName>
+<displayName lang="en" type="FSN">Hospital decontamination room (environment)</displayName>
+</concept>
+<concept code="409688003">
+<displayName lang="en" type="PT">Hospital isolation room</displayName>
+<displayName lang="en" type="FSN">Hospital isolation room (environment)</displayName>
+</concept>
+<concept code="413456002">
+<displayName lang="en-GB" type="PT">Adult day care centre</displayName>
+<displayName lang="en" type="FSN">Adult day care center (environment)</displayName>
+</concept>
+<concept code="413817003">
+<displayName lang="en-GB" type="PT">Child day care centre</displayName>
+<displayName lang="en" type="FSN">Child day care center (environment)</displayName>
+</concept>
+<concept code="413964002">
+<displayName lang="en" type="PT">Delivery suite</displayName>
+<displayName lang="en" type="FSN">Delivery suite (environment)</displayName>
+<displayName lang="en" type="SY">Delivery room</displayName>
+</concept>
+<concept code="414485004">
+<displayName lang="en" type="PT">Induction room</displayName>
+<displayName lang="en" type="FSN">Induction room (environment)</displayName>
+<displayName lang="en-GB" type="SY">Anaesthetic induction room</displayName>
+<displayName lang="en-GB" type="SY">Anaesthetic room</displayName>
+</concept>
+<concept code="415142008">
+<displayName lang="en" type="PT">PACU Phase 1</displayName>
+<displayName lang="en" type="FSN">Postanesthesia care unit Phase 1 (environment)</displayName>
+<displayName lang="en-GB" type="SY">Postanaesthesia care unit Phase 1</displayName>
+<displayName lang="en-GB" type="SY">Postoperative anaesthesia care unit Phase 1</displayName>
+</concept>
+<concept code="415143003">
+<displayName lang="en" type="PT">PACU Phase 2</displayName>
+<displayName lang="en" type="FSN">Postanesthesia care unit Phase 2 (environment)</displayName>
+<displayName lang="en-GB" type="SY">Postanaesthesia care unit Phase 2</displayName>
+<displayName lang="en-GB" type="SY">Postoperative anaesthesia care unit Phase 2</displayName>
+</concept>
+<concept code="416957006">
+<displayName lang="en-GB" type="PT">Community medical centre</displayName>
+<displayName lang="en" type="FSN">Community medical center (environment)</displayName>
+</concept>
+<concept code="418028002">
+<displayName lang="en" type="PT">Surgical stepdown unit</displayName>
+<displayName lang="en" type="FSN">Surgical stepdown unit (environment)</displayName>
+</concept>
+<concept code="418433008">
+<displayName lang="en" type="PT">Surgical intensive care unit</displayName>
+<displayName lang="en" type="FSN">Surgical intensive care unit (environment)</displayName>
+</concept>
+<concept code="418518002">
+<displayName lang="en" type="PT">Dialysis unit</displayName>
+<displayName lang="en" type="FSN">Dialysis unit (environment)</displayName>
+</concept>
+<concept code="418649002">
+<displayName lang="en" type="PT">Cardiac stepdown unit</displayName>
+<displayName lang="en" type="FSN">Cardiac stepdown unit (environment)</displayName>
+</concept>
+<concept code="419390002">
+<displayName lang="en" type="PT">Medical stepdown unit</displayName>
+<displayName lang="en" type="FSN">Medical stepdown unit (environment)</displayName>
+</concept>
+<concept code="419590001">
+<displayName lang="en" type="PT">Stepdown unit</displayName>
+<displayName lang="en" type="FSN">Stepdown unit (environment)</displayName>
+<displayName lang="en" type="SY">High dependency unit</displayName>
+<displayName lang="en" type="SY">Progressive care unit</displayName>
+</concept>
+<concept code="420223003">
+<displayName lang="en-GB" type="PT">Paediatric medicine department</displayName>
+<displayName lang="en" type="FSN">Pediatric medicine department (environment)</displayName>
+</concept>
+<concept code="420280003">
+<displayName lang="en" type="PT">Obstetrical stepdown unit</displayName>
+<displayName lang="en" type="FSN">Obstetrical stepdown unit (environment)</displayName>
+</concept>
+<concept code="422798006">
+<displayName lang="en" type="PT">Telemetry unit</displayName>
+<displayName lang="en" type="FSN">Telemetry unit (environment)</displayName>
+</concept>
+<concept code="426439001">
+<displayName lang="en" type="PT">Burns intensive care unit</displayName>
+<displayName lang="en" type="FSN">Burns intensive care unit (environment)</displayName>
+</concept>
+<concept code="427695007">
+<displayName lang="en" type="PT">Newborn nursery unit</displayName>
+<displayName lang="en" type="FSN">Newborn nursery unit (environment)</displayName>
+<displayName lang="en" type="SY">Well baby unit</displayName>
+</concept>
+<concept code="431654006">
+<displayName lang="en" type="PT">Genitourinary medicine clinic</displayName>
+<displayName lang="en" type="FSN">Genitourinary medicine clinic (environment)</displayName>
+<displayName lang="en-GB" type="SY">GUM (genitourinary medicine) clinic</displayName>
+</concept>
+<concept code="441480003">
+<displayName lang="en" type="PT">Primary care department</displayName>
+<displayName lang="en" type="FSN">Primary care department (environment)</displayName>
+</concept>
+<concept code="441548002">
+<displayName lang="en" type="PT">Tropical medicine department</displayName>
+<displayName lang="en" type="FSN">Tropical medicine department (environment)</displayName>
+</concept>
+<concept code="441662001">
+<displayName lang="en" type="PT">Diagnostic imaging department</displayName>
+<displayName lang="en" type="FSN">Diagnostic imaging department (environment)</displayName>
+</concept>
+<concept code="441950002">
+<displayName lang="en" type="PT">Histopathology department</displayName>
+<displayName lang="en" type="FSN">Histopathology department (environment)</displayName>
+</concept>
+<concept code="441994008">
+<displayName lang="en" type="PT">Medical intensive care unit</displayName>
+<displayName lang="en" type="FSN">Medical intensive care unit (environment)</displayName>
+</concept>
+<concept code="443621004">
+<displayName lang="en-GB" type="PT">Sleep apnoea clinic</displayName>
+<displayName lang="en" type="FSN">Sleep apnea clinic (environment)</displayName>
+</concept>
+<concept code="443750004">
+<displayName lang="en" type="PT">Nonacute hospital</displayName>
+<displayName lang="en" type="FSN">Nonacute hospital (environment)</displayName>
+<displayName lang="en-GB" type="SY">Non-acute hospital</displayName>
+</concept>
+<concept code="444766008">
+<displayName lang="en" type="PT">Colposcopy clinic</displayName>
+<displayName lang="en" type="FSN">Colposcopy clinic (environment)</displayName>
+</concept>
+<concept code="448399001">
+<displayName lang="en" type="PT">Dental hospital</displayName>
+<displayName lang="en" type="FSN">Dental hospital (environment)</displayName>
+</concept>
+<concept code="702706001">
+<displayName lang="en" type="PT">Diabetes clinic</displayName>
+<displayName lang="en" type="FSN">Diabetes clinic (environment)</displayName>
+</concept>
+<concept code="702812003">
+<displayName lang="en" type="PT">Acute pain clinic</displayName>
+<displayName lang="en" type="FSN">Acute pain clinic (environment)</displayName>
+</concept>
+<concept code="702813008">
+<displayName lang="en" type="PT">Acquired immune deficiency syndrome clinic</displayName>
+<displayName lang="en" type="FSN">Acquired immune deficiency syndrome clinic (environment)</displayName>
+</concept>
+<concept code="702814002">
+<displayName lang="en" type="PT">Allergy clinic</displayName>
+<displayName lang="en" type="FSN">Allergy clinic (environment)</displayName>
+</concept>
+<concept code="702819007">
+<displayName lang="en" type="PT">After hours clinic</displayName>
+<displayName lang="en" type="FSN">After hours clinic (environment)</displayName>
+</concept>
+<concept code="702821002">
+<displayName lang="en" type="PT">Amputee clinic</displayName>
+<displayName lang="en" type="FSN">Amputee clinic (environment)</displayName>
+</concept>
+<concept code="702822009">
+<displayName lang="en" type="PT">Anticoagulation clinic</displayName>
+<displayName lang="en" type="FSN">Anticoagulation clinic (environment)</displayName>
+</concept>
+<concept code="702823004">
+<displayName lang="en" type="PT">Asthma clinic</displayName>
+<displayName lang="en" type="FSN">Asthma clinic (environment)</displayName>
+</concept>
+<concept code="702824005">
+<displayName lang="en" type="PT">Audiology clinic</displayName>
+<displayName lang="en" type="FSN">Audiology clinic (environment)</displayName>
+</concept>
+<concept code="702825006">
+<displayName lang="en" type="PT">Autism clinic</displayName>
+<displayName lang="en" type="FSN">Autism clinic (environment)</displayName>
+</concept>
+<concept code="702826007">
+<displayName lang="en" type="PT">Bipolar clinic</displayName>
+<displayName lang="en" type="FSN">Bipolar clinic (environment)</displayName>
+</concept>
+<concept code="702827003">
+<displayName lang="en" type="PT">Bone marrow transplant clinic</displayName>
+<displayName lang="en" type="FSN">Bone marrow transplant clinic (environment)</displayName>
+</concept>
+<concept code="702828008">
+<displayName lang="en" type="PT">Breast clinic</displayName>
+<displayName lang="en" type="FSN">Breast clinic (environment)</displayName>
+</concept>
+<concept code="702830005">
+<displayName lang="en" type="PT">Cardiology clinic</displayName>
+<displayName lang="en" type="FSN">Cardiology clinic (environment)</displayName>
+</concept>
+<concept code="702831009">
+<displayName lang="en" type="PT">Child and adolescent medicine clinic</displayName>
+<displayName lang="en" type="FSN">Child and adolescent medicine clinic (environment)</displayName>
+</concept>
+<concept code="702832002">
+<displayName lang="en" type="PT">Child and adolescent neurology clinic</displayName>
+<displayName lang="en" type="FSN">Child and adolescent neurology clinic (environment)</displayName>
+<displayName lang="en-GB" type="SY">Paediatric neurology clinic</displayName>
+</concept>
+<concept code="702833007">
+<displayName lang="en" type="PT">Child and adolescent psychiatry clinic</displayName>
+<displayName lang="en" type="FSN">Child and adolescent psychiatry clinic (environment)</displayName>
+</concept>
+<concept code="702834001">
+<displayName lang="en" type="PT">Child speech and language therapy clinic</displayName>
+<displayName lang="en" type="FSN">Child speech and language therapy clinic (environment)</displayName>
+</concept>
+<concept code="702839006">
+<displayName lang="en" type="PT">Chronic obstructive pulmonary disease clinic</displayName>
+<displayName lang="en" type="FSN">Chronic obstructive pulmonary disease clinic (environment)</displayName>
+</concept>
+<concept code="702840008">
+<displayName lang="en" type="PT">Chronic pain clinic</displayName>
+<displayName lang="en" type="FSN">Chronic pain clinic (environment)</displayName>
+</concept>
+<concept code="702841007">
+<displayName lang="en" type="PT">Cleft palate clinic</displayName>
+<displayName lang="en" type="FSN">Cleft palate clinic (environment)</displayName>
+</concept>
+<concept code="702842000">
+<displayName lang="en" type="PT">Congenital heart disease clinic</displayName>
+<displayName lang="en" type="FSN">Congenital heart disease clinic (environment)</displayName>
+</concept>
+<concept code="702843005">
+<displayName lang="en" type="PT">Congestive heart failure clinic</displayName>
+<displayName lang="en" type="FSN">Congestive heart failure clinic (environment)</displayName>
+</concept>
+<concept code="702844004">
+<displayName lang="en" type="PT">Cystic fibrosis clinic</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis clinic (environment)</displayName>
+</concept>
+<concept code="702845003">
+<displayName lang="en" type="PT">Deep vein thrombosis clinic</displayName>
+<displayName lang="en" type="FSN">Deep vein thrombosis clinic (environment)</displayName>
+</concept>
+<concept code="702846002">
+<displayName lang="en" type="PT">Dental clinic</displayName>
+<displayName lang="en" type="FSN">Dental clinic (environment)</displayName>
+</concept>
+<concept code="702847006">
+<displayName lang="en" type="PT">Dermatology clinic</displayName>
+<displayName lang="en" type="FSN">Dermatology clinic (environment)</displayName>
+</concept>
+<concept code="702848001">
+<displayName lang="en" type="PT">Diabetes foot care clinic</displayName>
+<displayName lang="en" type="FSN">Diabetes foot care clinic (environment)</displayName>
+</concept>
+<concept code="702849009">
+<displayName lang="en" type="PT">Diabetes in pregnancy clinic</displayName>
+<displayName lang="en" type="FSN">Diabetes in pregnancy clinic (environment)</displayName>
+</concept>
+<concept code="702850009">
+<displayName lang="en" type="PT">Diabetic retinopathy clinic</displayName>
+<displayName lang="en" type="FSN">Diabetic retinopathy clinic (environment)</displayName>
+</concept>
+<concept code="702851008">
+<displayName lang="en" type="PT">Down syndrome clinic</displayName>
+<displayName lang="en" type="FSN">Down syndrome clinic (environment)</displayName>
+</concept>
+<concept code="702852001">
+<displayName lang="en" type="PT">Ear, nose and throat clinic</displayName>
+<displayName lang="en" type="FSN">Ear, nose and throat clinic (environment)</displayName>
+</concept>
+<concept code="702853006">
+<displayName lang="en" type="PT">Eating disorder clinic</displayName>
+<displayName lang="en" type="FSN">Eating disorder clinic (environment)</displayName>
+</concept>
+<concept code="702854000">
+<displayName lang="en" type="PT">Endocrinology clinic</displayName>
+<displayName lang="en" type="FSN">Endocrinology clinic (environment)</displayName>
+</concept>
+<concept code="702855004">
+<displayName lang="en" type="PT">Family medicine clinic</displayName>
+<displayName lang="en" type="FSN">Family medicine clinic (environment)</displayName>
+</concept>
+<concept code="702856003">
+<displayName lang="en" type="PT">Family planning clinic</displayName>
+<displayName lang="en" type="FSN">Family planning clinic (environment)</displayName>
+</concept>
+<concept code="702857007">
+<displayName lang="en" type="PT">Fetal alcohol clinic</displayName>
+<displayName lang="en" type="FSN">Fetal alcohol clinic (environment)</displayName>
+</concept>
+<concept code="702858002">
+<displayName lang="en" type="PT">Fracture clinic</displayName>
+<displayName lang="en" type="FSN">Fracture clinic (environment)</displayName>
+</concept>
+<concept code="702859005">
+<displayName lang="en" type="PT">Gastroenterology clinic</displayName>
+<displayName lang="en" type="FSN">Gastroenterology clinic (environment)</displayName>
+</concept>
+<concept code="702860000">
+<displayName lang="en" type="PT">General surgery clinic</displayName>
+<displayName lang="en" type="FSN">General surgery clinic (environment)</displayName>
+</concept>
+<concept code="702861001">
+<displayName lang="en" type="PT">Genetics clinic</displayName>
+<displayName lang="en" type="FSN">Genetics clinic (environment)</displayName>
+</concept>
+<concept code="702862008">
+<displayName lang="en-GB" type="PT">Gynaecology clinic</displayName>
+<displayName lang="en" type="FSN">Gynecology clinic (environment)</displayName>
+</concept>
+<concept code="702863003">
+<displayName lang="en" type="PT">Hand clinic</displayName>
+<displayName lang="en" type="FSN">Hand clinic (environment)</displayName>
+</concept>
+<concept code="702864009">
+<displayName lang="en" type="PT">Headache clinic</displayName>
+<displayName lang="en" type="FSN">Headache clinic (environment)</displayName>
+</concept>
+<concept code="702865005">
+<displayName lang="en-GB" type="PT">Haematology clinic</displayName>
+<displayName lang="en" type="FSN">Hematology clinic (environment)</displayName>
+</concept>
+<concept code="702866006">
+<displayName lang="en-GB" type="PT">Haemophilia clinic</displayName>
+<displayName lang="en" type="FSN">Hemophilia clinic (environment)</displayName>
+</concept>
+<concept code="702867002">
+<displayName lang="en" type="PT">Hypertension clinic</displayName>
+<displayName lang="en" type="FSN">Hypertension clinic (environment)</displayName>
+</concept>
+<concept code="702868007">
+<displayName lang="en" type="PT">Immunology clinic</displayName>
+<displayName lang="en" type="FSN">Immunology clinic (environment)</displayName>
+</concept>
+<concept code="702870003">
+<displayName lang="en" type="PT">Infectious disease clinic</displayName>
+<displayName lang="en" type="FSN">Infectious disease clinic (environment)</displayName>
+</concept>
+<concept code="702871004">
+<displayName lang="en" type="PT">Infertility clinic</displayName>
+<displayName lang="en" type="FSN">Infertility clinic (environment)</displayName>
+</concept>
+<concept code="702877000">
+<displayName lang="en" type="PT">Internal medicine clinic</displayName>
+<displayName lang="en" type="FSN">Internal medicine clinic (environment)</displayName>
+</concept>
+<concept code="702878005">
+<displayName lang="en" type="PT">Land ambulance</displayName>
+<displayName lang="en" type="FSN">Land ambulance (environment)</displayName>
+</concept>
+<concept code="702879002">
+<displayName lang="en" type="PT">Laser eye clinic</displayName>
+<displayName lang="en" type="FSN">Laser eye clinic (environment)</displayName>
+</concept>
+<concept code="702880004">
+<displayName lang="en-GB" type="PT">Lymphoedema clinic</displayName>
+<displayName lang="en" type="FSN">Lymphedema clinic (environment)</displayName>
+</concept>
+<concept code="702881000">
+<displayName lang="en" type="PT">Medical day care</displayName>
+<displayName lang="en" type="FSN">Medical day care (environment)</displayName>
+</concept>
+<concept code="702882007">
+<displayName lang="en" type="PT">Mental health clinic</displayName>
+<displayName lang="en" type="FSN">Mental health clinic (environment)</displayName>
+</concept>
+<concept code="702883002">
+<displayName lang="en" type="PT">Mood or anxiety disorder clinic</displayName>
+<displayName lang="en" type="FSN">Mood or anxiety disorder clinic (environment)</displayName>
+</concept>
+<concept code="702884008">
+<displayName lang="en" type="PT">Movement disorder clinic</displayName>
+<displayName lang="en" type="FSN">Movement disorder clinic (environment)</displayName>
+</concept>
+<concept code="702885009">
+<displayName lang="en" type="PT">Multiple sclerosis clinic</displayName>
+<displayName lang="en" type="FSN">Multiple sclerosis clinic (environment)</displayName>
+</concept>
+<concept code="702886005">
+<displayName lang="en" type="PT">Nephrology clinic</displayName>
+<displayName lang="en" type="FSN">Nephrology clinic (environment)</displayName>
+</concept>
+<concept code="702887001">
+<displayName lang="en" type="PT">Neurology clinic</displayName>
+<displayName lang="en" type="FSN">Neurology clinic (environment)</displayName>
+</concept>
+<concept code="702888006">
+<displayName lang="en" type="PT">Neuromuscular clinic</displayName>
+<displayName lang="en" type="FSN">Neuromuscular clinic (environment)</displayName>
+</concept>
+<concept code="702889003">
+<displayName lang="en" type="PT">Neurophysiology clinic</displayName>
+<displayName lang="en" type="FSN">Neurophysiology clinic (environment)</displayName>
+</concept>
+<concept code="702890007">
+<displayName lang="en" type="PT">Neuropsychology clinic</displayName>
+<displayName lang="en" type="FSN">Neuropsychology clinic (environment)</displayName>
+</concept>
+<concept code="702891006">
+<displayName lang="en" type="PT">Neurosurgery clinic</displayName>
+<displayName lang="en" type="FSN">Neurosurgery clinic (environment)</displayName>
+</concept>
+<concept code="702892004">
+<displayName lang="en-GB" type="PT">Obstetrics and gynaecology clinic</displayName>
+<displayName lang="en" type="FSN">Obstetrics and gynecology clinic (environment)</displayName>
+</concept>
+<concept code="702893009">
+<displayName lang="en" type="PT">Occupational therapy clinic</displayName>
+<displayName lang="en" type="FSN">Occupational therapy clinic (environment)</displayName>
+</concept>
+<concept code="702894003">
+<displayName lang="en" type="PT">Ophthalmology clinic</displayName>
+<displayName lang="en" type="FSN">Ophthalmology clinic (environment)</displayName>
+</concept>
+<concept code="702895002">
+<displayName lang="en" type="PT">Osteoporosis clinic</displayName>
+<displayName lang="en" type="FSN">Osteoporosis clinic (environment)</displayName>
+</concept>
+<concept code="702896001">
+<displayName lang="en" type="PT">Pacemaker clinic</displayName>
+<displayName lang="en" type="FSN">Pacemaker clinic (environment)</displayName>
+</concept>
+<concept code="702897005">
+<displayName lang="en" type="PT">Pain clinic</displayName>
+<displayName lang="en" type="FSN">Pain clinic (environment)</displayName>
+</concept>
+<concept code="702898000">
+<displayName lang="en" type="PT">Parkinson&apos;s disease clinic</displayName>
+<displayName lang="en" type="FSN">Parkinson&apos;s disease clinic (environment)</displayName>
+</concept>
+<concept code="702899008">
+<displayName lang="en-GB" type="PT">Paediatric cardiology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric cardiology clinic (environment)</displayName>
+</concept>
+<concept code="702900003">
+<displayName lang="en-GB" type="PT">Paediatric clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric clinic (environment)</displayName>
+</concept>
+<concept code="702901004">
+<displayName lang="en-GB" type="PT">Paediatric dermatology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric dermatology clinic (environment)</displayName>
+</concept>
+<concept code="702902006">
+<displayName lang="en-GB" type="PT">Paediatric ear, nose and throat clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric ear, nose and throat clinic (environment)</displayName>
+</concept>
+<concept code="702903001">
+<displayName lang="en-GB" type="PT">Paediatric endocrinology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric endocrinology clinic (environment)</displayName>
+</concept>
+<concept code="702904007">
+<displayName lang="en-GB" type="PT">Paediatric gastroenterology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric gastroenterology clinic (environment)</displayName>
+</concept>
+<concept code="702905008">
+<displayName lang="en-GB" type="PT">Paediatric haematology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric hematology clinic (environment)</displayName>
+</concept>
+<concept code="702906009">
+<displayName lang="en-GB" type="PT">Paediatric infectious disease clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric infectious disease clinic (environment)</displayName>
+</concept>
+<concept code="702907000">
+<displayName lang="en-GB" type="PT">Paediatric rheumatology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric rheumatology clinic (environment)</displayName>
+</concept>
+<concept code="702908005">
+<displayName lang="en-GB" type="PT">Paediatric urology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric urology clinic (environment)</displayName>
+</concept>
+<concept code="702909002">
+<displayName lang="en-GB" type="PT">Paediatric oncology clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric oncology clinic (environment)</displayName>
+</concept>
+<concept code="702910007">
+<displayName lang="en" type="PT">Pelvic floor clinic</displayName>
+<displayName lang="en" type="FSN">Pelvic floor clinic (environment)</displayName>
+</concept>
+<concept code="702911006">
+<displayName lang="en" type="PT">Podiatry clinic</displayName>
+<displayName lang="en" type="FSN">Podiatry clinic (environment)</displayName>
+</concept>
+<concept code="702912004">
+<displayName lang="en" type="PT">Preventive medicine clinic</displayName>
+<displayName lang="en" type="FSN">Preventive medicine clinic (environment)</displayName>
+</concept>
+<concept code="702913009">
+<displayName lang="en" type="PT">Proctology clinic</displayName>
+<displayName lang="en" type="FSN">Proctology clinic (environment)</displayName>
+</concept>
+<concept code="702914003">
+<displayName lang="en" type="PT">Psychiatry clinic</displayName>
+<displayName lang="en" type="FSN">Psychiatry clinic (environment)</displayName>
+</concept>
+<concept code="702915002">
+<displayName lang="en" type="PT">Psychology clinic</displayName>
+<displayName lang="en" type="FSN">Psychology clinic (environment)</displayName>
+</concept>
+<concept code="702916001">
+<displayName lang="en" type="PT">Rehabilitation clinic</displayName>
+<displayName lang="en" type="FSN">Rehabilitation clinic (environment)</displayName>
+</concept>
+<concept code="702917005">
+<displayName lang="en" type="PT">Respiratory disease clinic</displayName>
+<displayName lang="en" type="FSN">Respiratory disease clinic (environment)</displayName>
+</concept>
+<concept code="702918000">
+<displayName lang="en" type="PT">Rheumatology clinic</displayName>
+<displayName lang="en" type="FSN">Rheumatology clinic (environment)</displayName>
+</concept>
+<concept code="702919008">
+<displayName lang="en" type="PT">Schizophrenia clinic</displayName>
+<displayName lang="en" type="FSN">Schizophrenia clinic (environment)</displayName>
+</concept>
+<concept code="702920002">
+<displayName lang="en" type="PT">Seizure clinic</displayName>
+<displayName lang="en" type="FSN">Seizure clinic (environment)</displayName>
+</concept>
+<concept code="702921003">
+<displayName lang="en" type="PT">Sexual health clinic</displayName>
+<displayName lang="en" type="FSN">Sexual health clinic (environment)</displayName>
+</concept>
+<concept code="702922005">
+<displayName lang="en" type="PT">Speech and language therapy clinic</displayName>
+<displayName lang="en" type="FSN">Speech and language therapy clinic (environment)</displayName>
+</concept>
+<concept code="702923000">
+<displayName lang="en" type="PT">Sports medicine clinic</displayName>
+<displayName lang="en" type="FSN">Sports medicine clinic (environment)</displayName>
+</concept>
+<concept code="702924006">
+<displayName lang="en" type="PT">Stroke clinic</displayName>
+<displayName lang="en" type="FSN">Stroke clinic (environment)</displayName>
+</concept>
+<concept code="702925007">
+<displayName lang="en" type="PT">Swallow clinic</displayName>
+<displayName lang="en" type="FSN">Swallow clinic (environment)</displayName>
+</concept>
+<concept code="702926008">
+<displayName lang="en" type="PT">Tourette syndrome clinic</displayName>
+<displayName lang="en" type="FSN">Tourette syndrome clinic (environment)</displayName>
+</concept>
+<concept code="702927004">
+<displayName lang="en" type="PT">Urgent care clinic</displayName>
+<displayName lang="en" type="FSN">Urgent care clinic (environment)</displayName>
+</concept>
+<concept code="702928009">
+<displayName lang="en" type="PT">Urology clinic</displayName>
+<displayName lang="en" type="FSN">Urology clinic (environment)</displayName>
+</concept>
+<concept code="702929001">
+<displayName lang="en" type="PT">Vertigo clinic</displayName>
+<displayName lang="en" type="FSN">Vertigo clinic (environment)</displayName>
+</concept>
+<concept code="702930006">
+<displayName lang="en" type="PT">Plastic surgery clinic</displayName>
+<displayName lang="en" type="FSN">Plastic surgery clinic (environment)</displayName>
+</concept>
+<concept code="702931005">
+<displayName lang="en" type="PT">Oncology clinic</displayName>
+<displayName lang="en" type="FSN">Oncology clinic (environment)</displayName>
+</concept>
+<concept code="702932003">
+<displayName lang="en" type="PT">Oral and maxillofacial surgery clinic</displayName>
+<displayName lang="en" type="FSN">Oral and maxillofacial surgery clinic (environment)</displayName>
+</concept>
+<concept code="702933008">
+<displayName lang="en-GB" type="PT">Orthopaedic clinic</displayName>
+<displayName lang="en" type="FSN">Orthopedic clinic (environment)</displayName>
+</concept>
+<concept code="702934002">
+<displayName lang="en-GB" type="PT">Paediatric surgery clinic</displayName>
+<displayName lang="en" type="FSN">Pediatric surgery clinic (environment)</displayName>
+</concept>
+<concept code="702935001">
+<displayName lang="en" type="PT">Physiotherapy clinic</displayName>
+<displayName lang="en" type="FSN">Physiotherapy clinic (environment)</displayName>
+</concept>
+<concept code="703069008">
+<displayName lang="en" type="PT">Nurse practitioner clinic</displayName>
+<displayName lang="en" type="FSN">Nurse practitioner clinic (environment)</displayName>
+</concept>
+<concept code="711106004">
+<displayName lang="en" type="PT">Air ambulance</displayName>
+<displayName lang="en" type="FSN">Air ambulance (environment)</displayName>
+</concept>
+<concept code="711188001">
+<displayName lang="en" type="PT">Transplant clinic</displayName>
+<displayName lang="en" type="FSN">Transplant clinic (environment)</displayName>
+</concept>
+<concept code="198931000000104">
+<displayName lang="en-GB" type="PT">Gynaecology outreach clinic</displayName>
+<displayName lang="en-GB" type="FSN">Gynaecology outreach clinic (environment)</displayName>
+</concept>
+<concept code="198941000000108">
+<displayName lang="en-GB" type="PT">General surgery outreach clinic</displayName>
+<displayName lang="en-GB" type="FSN">General surgery outreach clinic (environment)</displayName>
+</concept>
+<concept code="198951000000106">
+<displayName lang="en-GB" type="PT">Psychiatric outreach clinic</displayName>
+<displayName lang="en-GB" type="FSN">Psychiatric outreach clinic (environment)</displayName>
+</concept>
+<concept code="198961000000109">
+<displayName lang="en-GB" type="PT">General medicine outreach clinic</displayName>
+<displayName lang="en-GB" type="FSN">General medicine outreach clinic (environment)</displayName>
+</concept>
+<concept code="198971000000102">
+<displayName lang="en-GB" type="PT">Asthma outreach clinic</displayName>
+<displayName lang="en-GB" type="FSN">Asthma outreach clinic (environment)</displayName>
+</concept>
+<concept code="203951000000101">
+<displayName lang="en-GB" type="PT">Diabetic antenatal clinic</displayName>
+<displayName lang="en-GB" type="FSN">Diabetic antenatal clinic (environment)</displayName>
+</concept>
+<concept code="312351000000101">
+<displayName lang="en" type="PT">Ambulance service care setting</displayName>
+<displayName lang="en" type="FSN">Ambulance service care setting (environment)</displayName>
+</concept>
+<concept code="312361000000103">
+<displayName lang="en" type="PT">Primary care out of hours service care setting</displayName>
+<displayName lang="en" type="FSN">Primary care out of hours service care setting (environment)</displayName>
+</concept>
+<concept code="312371000000105">
+<displayName lang="en" type="PT">Social care setting</displayName>
+<displayName lang="en" type="FSN">Social care setting (environment)</displayName>
+</concept>
+<concept code="312391000000109">
+<displayName lang="en" type="PT">NHS Direct Contact Centre</displayName>
+<displayName lang="en" type="FSN">National Health Service Direct Contact Centre (environment)</displayName>
+</concept>
+<concept code="312401000000107">
+<displayName lang="en" type="PT">Urgent care centre</displayName>
+<displayName lang="en" type="FSN">Urgent care centre (environment)</displayName>
+</concept>
+<concept code="312411000000109">
+<displayName lang="en" type="PT">Minor injuries unit</displayName>
+<displayName lang="en" type="FSN">Minor injuries unit (environment)</displayName>
+</concept>
+<concept code="312471000000104">
+<displayName lang="en" type="PT">Community mental health care setting</displayName>
+<displayName lang="en" type="FSN">Community mental health care setting (environment)</displayName>
+</concept>
+<concept code="313161000000107">
+<displayName lang="en" type="PT">Out of hours service care setting</displayName>
+<displayName lang="en" type="FSN">Out of hours service care setting (environment)</displayName>
+</concept>
+<concept code="506341000000101">
+<displayName lang="en" type="PT">Specialist treatment area</displayName>
+<displayName lang="en" type="FSN">Specialist treatment area (environment)</displayName>
+</concept>
+<concept code="930711000000104">
+<displayName lang="en" type="PT">Group home managed by NHS</displayName>
+<displayName lang="en" type="FSN">Group home managed by National Health Service (environment)</displayName>
+</concept>
+<concept code="930721000000105">
+<displayName lang="en" type="PT">NHS day care facility on NHS hospital site</displayName>
+<displayName lang="en" type="FSN">National Health Service day care facility on National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930731000000107">
+<displayName lang="en" type="PT">NHS day care facility on other site</displayName>
+<displayName lang="en" type="FSN">National Health Service day care facility on other site (environment)</displayName>
+</concept>
+<concept code="930741000000103">
+<displayName lang="en" type="PT">NHS consultant clinic premises on NHS hospital site</displayName>
+<displayName lang="en" type="FSN">National Health Service consultant clinic premises on National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930751000000100">
+<displayName lang="en" type="PT">NHS consultant clinic premises off NHS hospital site</displayName>
+<displayName lang="en" type="FSN">National Health Service consultant clinic premises off National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930761000000102">
+<displayName lang="en" type="PT">Health clinic managed by NHS</displayName>
+<displayName lang="en" type="FSN">Health clinic managed by National Health Service (environment)</displayName>
+</concept>
+<concept code="930771000000109">
+<displayName lang="en-GB" type="PT">Resource centre on NHS hospital site</displayName>
+<displayName lang="en" type="FSN">Resource centre on National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930781000000106">
+<displayName lang="en-GB" type="PT">Resource centre managed by the NHS off NHS hospital site</displayName>
+<displayName lang="en" type="FSN">Resource centre managed by the National Health Service off National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930791000000108">
+<displayName lang="en" type="PT">Professional staff group department on NHS hospital site</displayName>
+<displayName lang="en" type="FSN">Professional staff group department on National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="930801000000107">
+<displayName lang="en" type="PT">Professional staff group department managed by the NHS off NHS hospital site</displayName>
+<displayName lang="en" type="FSN">Professional staff group department managed by the National Health Service off National Health Service hospital site (environment)</displayName>
+</concept>
+<concept code="980241000000100">
+<displayName lang="en" type="PT">Primary Care Trust site</displayName>
+<displayName lang="en" type="FSN">Primary Care Trust site (environment)</displayName>
+</concept>
+</vocabulary>

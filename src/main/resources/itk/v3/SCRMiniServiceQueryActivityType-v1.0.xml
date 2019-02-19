@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SCRMiniServiceQueryActivityType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.505">
+   <Description>
+            <p>A set of codes to indicate the type of activity report being requested.<br/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>Report By Date</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Report By Patient</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Report By Care Professional</displayName>
+   </concept>
+</vocabulary>

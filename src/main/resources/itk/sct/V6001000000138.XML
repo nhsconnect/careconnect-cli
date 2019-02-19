@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Mobility" type="Realm Concept" setId="67781000000131" version="6" id="6001000000138" refId="999001551000000100" memberCount="461" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="8510008">
+<displayName lang="en" type="PT">Reduced mobility</displayName>
+<displayName lang="en" type="FSN">Reduced mobility (finding)</displayName>
+<displayName lang="en" type="SY">Limitation of motion</displayName>
+<displayName lang="en" type="SY">Limited mobility</displayName>
+</concept>
+<concept code="40104005">
+<displayName lang="en" type="PT">Fall in home</displayName>
+<displayName lang="en" type="FSN">Fall in home (event)</displayName>
+</concept>
+<concept code="44188002">
+<displayName lang="en" type="PT">Fall in shower</displayName>
+<displayName lang="en" type="FSN">Fall in shower (event)</displayName>
+</concept>
+<concept code="74541001">
+<displayName lang="en" type="PT">Fall from bench</displayName>
+<displayName lang="en" type="FSN">Fall from bench (event)</displayName>
+</concept>
+<concept code="82971005">
+<displayName lang="en" type="PT">Impaired mobility</displayName>
+<displayName lang="en" type="FSN">Impaired mobility (finding)</displayName>
+<displayName lang="en" type="SY">Physical mobility impairment</displayName>
+</concept>
+<concept code="90619006">
+<displayName lang="en" type="PT">Fall in bathtub</displayName>
+<displayName lang="en" type="FSN">Fall in bathtub (event)</displayName>
+</concept>
+<concept code="102491009">
+<displayName lang="en" type="PT">Immobile</displayName>
+<displayName lang="en" type="FSN">Immobile (finding)</displayName>
+</concept>
+<concept code="105504002">
+<displayName lang="en" type="PT">Dependance on walking stick</displayName>
+<displayName lang="en" type="FSN">Dependence on walking stick (finding)</displayName>
+<displayName lang="en" type="SY">Dependance on cane</displayName>
+<displayName lang="en" type="SY">Dependence on walking stick</displayName>
+</concept>
+<concept code="129026007">
+<displayName lang="en" type="PT">Shopping independent</displayName>
+<displayName lang="en" type="FSN">Shopping independent (finding)</displayName>
+</concept>
+<concept code="129032002">
+<displayName lang="en" type="PT">Shopping dependent</displayName>
+<displayName lang="en" type="FSN">Shopping dependent (finding)</displayName>
+</concept>
+<concept code="129037008">
+<displayName lang="en" type="PT">Traveling assisted</displayName>
+<displayName lang="en" type="FSN">Traveling assisted (finding)</displayName>
+</concept>
+<concept code="129038003">
+<displayName lang="en" type="PT">Able to arise from chair without assistance</displayName>
+<displayName lang="en" type="FSN">Able to arise from chair without assistance (finding)</displayName>
+</concept>
+<concept code="129042000">
+<displayName lang="en" type="PT">Traveling independent</displayName>
+<displayName lang="en" type="FSN">Traveling independent (finding)</displayName>
+</concept>
+<concept code="129050009">
+<displayName lang="en" type="PT">Able to get out of bed without assistance</displayName>
+<displayName lang="en" type="FSN">Able to get out of bed without assistance (finding)</displayName>
+</concept>
+<concept code="129073001">
+<displayName lang="en" type="PT">Shopping assisted</displayName>
+<displayName lang="en" type="FSN">Shopping assisted (finding)</displayName>
+</concept>
+<concept code="129074007">
+<displayName lang="en" type="PT">Traveling dependent</displayName>
+<displayName lang="en" type="FSN">Traveling dependent (finding)</displayName>
+</concept>
+<concept code="129818000">
+<displayName lang="en" type="PT">Activity of daily living (ADL) alteration</displayName>
+<displayName lang="en" type="FSN">Activity of daily living alteration (finding)</displayName>
+<displayName lang="en" type="SY">Activity of daily living alteration</displayName>
+</concept>
+<concept code="129857008">
+<displayName lang="en" type="PT">Impaired wheelchair mobility</displayName>
+<displayName lang="en" type="FSN">Impaired wheelchair mobility (finding)</displayName>
+</concept>
+<concept code="129858003">
+<displayName lang="en" type="PT">Impaired transfer ability</displayName>
+<displayName lang="en" type="FSN">Impaired transfer ability (finding)</displayName>
+<displayName lang="en" type="SY">Transfer ability, impaired</displayName>
+</concept>
+<concept code="129859006">
+<displayName lang="en" type="PT">Impaired bed mobility</displayName>
+<displayName lang="en" type="FSN">Impaired bed mobility (finding)</displayName>
+</concept>
+<concept code="160679008">
+<displayName lang="en" type="PT">Mobility - social functioning</displayName>
+<displayName lang="en" type="FSN">Mobility - social functioning (finding)</displayName>
+</concept>
+<concept code="160680006">
+<displayName lang="en" type="PT">Fully mobile</displayName>
+<displayName lang="en" type="FSN">Fully mobile (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilising independently</displayName>
+<displayName lang="en-GB" type="SY">Mobilising without aids</displayName>
+</concept>
+<concept code="160681005">
+<displayName lang="en" type="PT">Mobile outside with aid</displayName>
+<displayName lang="en" type="FSN">Mobile outside with aid (finding)</displayName>
+</concept>
+<concept code="160682003">
+<displayName lang="en" type="PT">Mobile in home</displayName>
+<displayName lang="en" type="FSN">Mobile in home (finding)</displayName>
+</concept>
+<concept code="160683008">
+<displayName lang="en" type="PT">Needs walking aid in home</displayName>
+<displayName lang="en" type="FSN">Needs walking aid in home (finding)</displayName>
+</concept>
+<concept code="160684002">
+<displayName lang="en" type="PT">Confined to chair</displayName>
+<displayName lang="en" type="FSN">Confined to chair (finding)</displayName>
+<displayName lang="en" type="SY">Chair-fast</displayName>
+<displayName lang="en" type="SY">Chairbound</displayName>
+</concept>
+<concept code="160685001">
+<displayName lang="en" type="PT">Bed-ridden</displayName>
+<displayName lang="en" type="FSN">Bed-ridden (finding)</displayName>
+<displayName lang="en" type="SY">Bed-fast</displayName>
+<displayName lang="en" type="SY">Bedbound</displayName>
+<displayName lang="en" type="SY">Bedridden patient</displayName>
+<displayName lang="en" type="SY">Staying in bed</displayName>
+<displayName lang="en" type="SY">Stuck in bed</displayName>
+</concept>
+<concept code="160686000">
+<displayName lang="en" type="PT">Car owner</displayName>
+<displayName lang="en" type="FSN">Car owner (finding)</displayName>
+<displayName lang="en" type="SY">Has a car</displayName>
+</concept>
+<concept code="160687009">
+<displayName lang="en" type="PT">Has access to a car</displayName>
+<displayName lang="en" type="FSN">Has access to a car (finding)</displayName>
+</concept>
+<concept code="160689007">
+<displayName lang="en" type="PT">Housebound</displayName>
+<displayName lang="en" type="FSN">Housebound (finding)</displayName>
+</concept>
+<concept code="160690003">
+<displayName lang="en" type="PT">Depends on public transport</displayName>
+<displayName lang="en" type="FSN">Depends on public transport (finding)</displayName>
+</concept>
+<concept code="160692006">
+<displayName lang="en" type="PT">Mobility very poor</displayName>
+<displayName lang="en" type="FSN">Mobility very poor (finding)</displayName>
+</concept>
+<concept code="160693001">
+<displayName lang="en" type="PT">Mobility poor</displayName>
+<displayName lang="en" type="FSN">Mobility poor (finding)</displayName>
+<displayName lang="en" type="SY">Poor mobility</displayName>
+</concept>
+<concept code="160695008">
+<displayName lang="en" type="PT">Transport too expensive</displayName>
+<displayName lang="en" type="FSN">Transport too expensive (finding)</displayName>
+<displayName lang="en" type="SY">Transport economic problems</displayName>
+<displayName lang="en" type="SY">Transport financial problems</displayName>
+</concept>
+<concept code="160696009">
+<displayName lang="en" type="PT">Transport distance too great</displayName>
+<displayName lang="en" type="FSN">Transport distance too great (finding)</displayName>
+</concept>
+<concept code="160697000">
+<displayName lang="en" type="PT">Mobility fair</displayName>
+<displayName lang="en" type="FSN">Mobility fair (finding)</displayName>
+</concept>
+<concept code="161041005">
+<displayName lang="en" type="PT">Has orange disabled driver badge</displayName>
+<displayName lang="en" type="FSN">Has orange disabled driver badge (finding)</displayName>
+<displayName lang="en" type="SY">Has disabled driver badge</displayName>
+</concept>
+<concept code="161898004">
+<displayName lang="en" type="PT">Falls</displayName>
+<displayName lang="en" type="FSN">Falls (finding)</displayName>
+</concept>
+<concept code="165243005">
+<displayName lang="en" type="PT">Independent in wheelchair</displayName>
+<displayName lang="en" type="FSN">Independent in wheelchair (finding)</displayName>
+</concept>
+<concept code="165244004">
+<displayName lang="en" type="PT">Minimal help in wheelchair</displayName>
+<displayName lang="en" type="FSN">Minimal help in wheelchair (finding)</displayName>
+</concept>
+<concept code="165246002">
+<displayName lang="en" type="PT">Stairs - ability</displayName>
+<displayName lang="en" type="FSN">Stairs - ability (finding)</displayName>
+</concept>
+<concept code="165247006">
+<displayName lang="en" type="PT">Unable to climb stairs</displayName>
+<displayName lang="en" type="FSN">Unable to climb stairs (finding)</displayName>
+</concept>
+<concept code="165248001">
+<displayName lang="en" type="PT">Needs help on stairs</displayName>
+<displayName lang="en" type="FSN">Needs help on stairs (finding)</displayName>
+</concept>
+<concept code="165249009">
+<displayName lang="en" type="PT">Independent on stairs</displayName>
+<displayName lang="en" type="FSN">Independent on stairs (finding)</displayName>
+</concept>
+<concept code="165252001">
+<displayName lang="en" type="PT">No aid for walking</displayName>
+<displayName lang="en" type="FSN">No aid for walking (finding)</displayName>
+</concept>
+<concept code="165253006">
+<displayName lang="en" type="PT">Stick only for walking</displayName>
+<displayName lang="en" type="FSN">Stick only for walking (finding)</displayName>
+</concept>
+<concept code="165254000">
+<displayName lang="en" type="PT">Tripod/quadrupod: walking</displayName>
+<displayName lang="en" type="FSN">Tripod/quadrupod: walking (finding)</displayName>
+</concept>
+<concept code="165255004">
+<displayName lang="en" type="PT">Uses zimmer frame</displayName>
+<displayName lang="en" type="FSN">Uses zimmer frame (finding)</displayName>
+</concept>
+<concept code="225612007">
+<displayName lang="en" type="PT">Wheelchair bound</displayName>
+<displayName lang="en" type="FSN">Wheelchair bound (finding)</displayName>
+<displayName lang="en" type="SY">Dependent on wheelchair</displayName>
+<displayName lang="en" type="SY">Wheelchair dependence</displayName>
+</concept>
+<concept code="225985003">
+<displayName lang="en" type="PT">Optimum mobility</displayName>
+<displayName lang="en" type="FSN">Optimum mobility (finding)</displayName>
+</concept>
+<concept code="249994007">
+<displayName lang="en" type="PT">Crumples to floor</displayName>
+<displayName lang="en" type="FSN">Crumples to floor (finding)</displayName>
+</concept>
+<concept code="249995008">
+<displayName lang="en" type="PT">Legs give way - falling</displayName>
+<displayName lang="en" type="FSN">Legs give way - falling (finding)</displayName>
+</concept>
+<concept code="249997000">
+<displayName lang="en" type="PT">Falls like log</displayName>
+<displayName lang="en" type="FSN">Falls like log (finding)</displayName>
+</concept>
+<concept code="266934004">
+<displayName lang="en" type="PT">Transport problems</displayName>
+<displayName lang="en" type="FSN">Transport problems (finding)</displayName>
+</concept>
+<concept code="266978008">
+<displayName lang="en-GB" type="PT">Driving licence refused</displayName>
+<displayName lang="en" type="FSN">Driving license refused (finding)</displayName>
+<displayName lang="en-GB" type="SY">Driver&apos;s licence refused</displayName>
+</concept>
+<concept code="276050006">
+<displayName lang="en-GB" type="PT">Loss of driving licence</displayName>
+<displayName lang="en" type="FSN">Loss of driving license (finding)</displayName>
+</concept>
+<concept code="279992002">
+<displayName lang="en" type="PT">Recurrent falls</displayName>
+<displayName lang="en" type="FSN">Recurrent falls (finding)</displayName>
+</concept>
+<concept code="282145008">
+<displayName lang="en" type="PT">Unable to walk</displayName>
+<displayName lang="en" type="FSN">Unable to walk (finding)</displayName>
+</concept>
+<concept code="282149002">
+<displayName lang="en" type="PT">Able to walk on the flat</displayName>
+<displayName lang="en" type="FSN">Able to walk on the flat (finding)</displayName>
+<displayName lang="en" type="SY">Able to walk on flat surfaces</displayName>
+</concept>
+<concept code="282150002">
+<displayName lang="en" type="PT">Unable to walk on the flat</displayName>
+<displayName lang="en" type="FSN">Unable to walk on the flat (finding)</displayName>
+<displayName lang="en" type="SY">Unable to walk on flat surfaces</displayName>
+</concept>
+<concept code="282151003">
+<displayName lang="en" type="PT">Does walk on the flat</displayName>
+<displayName lang="en" type="FSN">Does walk on the flat (finding)</displayName>
+<displayName lang="en" type="SY">Does walk on flat surfaces</displayName>
+<displayName lang="en" type="SY">Walks on the flat</displayName>
+</concept>
+<concept code="282152005">
+<displayName lang="en" type="PT">Does not walk on the flat</displayName>
+<displayName lang="en" type="FSN">Does not walk on the flat (finding)</displayName>
+<displayName lang="en" type="SY">Does not walk on flat surfaces</displayName>
+</concept>
+<concept code="282153000">
+<displayName lang="en" type="PT">Difficulty walking on the flat</displayName>
+<displayName lang="en" type="FSN">Difficulty walking on the flat (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty walking on flat surfaces</displayName>
+</concept>
+<concept code="282155007">
+<displayName lang="en" type="PT">Able to walk up a slope</displayName>
+<displayName lang="en" type="FSN">Able to walk up a slope (finding)</displayName>
+</concept>
+<concept code="282156008">
+<displayName lang="en" type="PT">Unable to walk up a slope</displayName>
+<displayName lang="en" type="FSN">Unable to walk up a slope (finding)</displayName>
+</concept>
+<concept code="282157004">
+<displayName lang="en" type="PT">Does walk up a slope</displayName>
+<displayName lang="en" type="FSN">Does walk up a slope (finding)</displayName>
+<displayName lang="en" type="SY">Walks up a slope</displayName>
+</concept>
+<concept code="282158009">
+<displayName lang="en" type="PT">Does not walk up a slope</displayName>
+<displayName lang="en" type="FSN">Does not walk up a slope (finding)</displayName>
+</concept>
+<concept code="282159001">
+<displayName lang="en" type="PT">Difficulty walking up a slope</displayName>
+<displayName lang="en" type="FSN">Difficulty walking up a slope (finding)</displayName>
+</concept>
+<concept code="282161005">
+<displayName lang="en" type="PT">Able to walk down a slope</displayName>
+<displayName lang="en" type="FSN">Able to walk down a slope (finding)</displayName>
+</concept>
+<concept code="282162003">
+<displayName lang="en" type="PT">Unable to walk down a slope</displayName>
+<displayName lang="en" type="FSN">Unable to walk down a slope (finding)</displayName>
+</concept>
+<concept code="282163008">
+<displayName lang="en" type="PT">Does walk down a slope</displayName>
+<displayName lang="en" type="FSN">Does walk down a slope (finding)</displayName>
+<displayName lang="en" type="SY">Walks down a slope</displayName>
+</concept>
+<concept code="282164002">
+<displayName lang="en" type="PT">Does not walk down a slope</displayName>
+<displayName lang="en" type="FSN">Does not walk down a slope (finding)</displayName>
+</concept>
+<concept code="282165001">
+<displayName lang="en" type="PT">Difficulty walking down a slope</displayName>
+<displayName lang="en" type="FSN">Difficulty walking down a slope (finding)</displayName>
+</concept>
+<concept code="282167009">
+<displayName lang="en" type="PT">Able to walk up hill</displayName>
+<displayName lang="en" type="FSN">Able to walk up hill (finding)</displayName>
+<displayName lang="en" type="SY">Able to walk uphill</displayName>
+</concept>
+<concept code="282168004">
+<displayName lang="en" type="PT">Unable to walk up hill</displayName>
+<displayName lang="en" type="FSN">Unable to walk up hill (finding)</displayName>
+<displayName lang="en" type="SY">Unable to walk uphill</displayName>
+</concept>
+<concept code="282169007">
+<displayName lang="en" type="PT">Does walk up hill</displayName>
+<displayName lang="en" type="FSN">Does walk up hill (finding)</displayName>
+<displayName lang="en" type="SY">Does walk uphill</displayName>
+<displayName lang="en" type="SY">Walks up hill</displayName>
+</concept>
+<concept code="282170008">
+<displayName lang="en" type="PT">Does not walk up hill</displayName>
+<displayName lang="en" type="FSN">Does not walk up hill (finding)</displayName>
+<displayName lang="en" type="SY">Does not walk uphill</displayName>
+</concept>
+<concept code="282171007">
+<displayName lang="en" type="PT">Difficulty walking up hill</displayName>
+<displayName lang="en" type="FSN">Difficulty walking up hill (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty walking uphill</displayName>
+</concept>
+<concept code="282173005">
+<displayName lang="en" type="PT">Able to walk down hill</displayName>
+<displayName lang="en" type="FSN">Able to walk down hill (finding)</displayName>
+<displayName lang="en" type="SY">Able to walk downhill</displayName>
+</concept>
+<concept code="282174004">
+<displayName lang="en" type="PT">Unable to walk down hill</displayName>
+<displayName lang="en" type="FSN">Unable to walk down hill (finding)</displayName>
+<displayName lang="en" type="SY">Unable to walk downhill</displayName>
+</concept>
+<concept code="282175003">
+<displayName lang="en" type="PT">Does walk down hill</displayName>
+<displayName lang="en" type="FSN">Does walk down hill (finding)</displayName>
+<displayName lang="en" type="SY">Does walk downhill</displayName>
+<displayName lang="en" type="SY">Walks down hill</displayName>
+</concept>
+<concept code="282176002">
+<displayName lang="en" type="PT">Does not walk down hill</displayName>
+<displayName lang="en" type="FSN">Does not walk down hill (finding)</displayName>
+<displayName lang="en" type="SY">Does not walk downhill</displayName>
+</concept>
+<concept code="282177006">
+<displayName lang="en" type="PT">Difficulty walking down hill</displayName>
+<displayName lang="en" type="FSN">Difficulty walking down hill (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty walking downhill</displayName>
+</concept>
+<concept code="282179009">
+<displayName lang="en" type="PT">Able to walk up step</displayName>
+<displayName lang="en" type="FSN">Able to walk up step (finding)</displayName>
+</concept>
+<concept code="282180007">
+<displayName lang="en" type="PT">Unable to walk up step</displayName>
+<displayName lang="en" type="FSN">Unable to walk up step (finding)</displayName>
+</concept>
+<concept code="282181006">
+<displayName lang="en" type="PT">Does walk up step</displayName>
+<displayName lang="en" type="FSN">Does walk up step (finding)</displayName>
+<displayName lang="en" type="SY">Walks up step</displayName>
+</concept>
+<concept code="282182004">
+<displayName lang="en" type="PT">Does not walk up step</displayName>
+<displayName lang="en" type="FSN">Does not walk up step (finding)</displayName>
+</concept>
+<concept code="282183009">
+<displayName lang="en" type="PT">Difficulty walking up step</displayName>
+<displayName lang="en" type="FSN">Difficulty walking up step (finding)</displayName>
+</concept>
+<concept code="282185002">
+<displayName lang="en" type="PT">Able to walk down step</displayName>
+<displayName lang="en" type="FSN">Able to walk down step (finding)</displayName>
+</concept>
+<concept code="282186001">
+<displayName lang="en" type="PT">Unable to walk down step</displayName>
+<displayName lang="en" type="FSN">Unable to walk down step (finding)</displayName>
+</concept>
+<concept code="282187005">
+<displayName lang="en" type="PT">Does walk down step</displayName>
+<displayName lang="en" type="FSN">Does walk down step (finding)</displayName>
+<displayName lang="en" type="SY">Walks down step</displayName>
+</concept>
+<concept code="282188000">
+<displayName lang="en" type="PT">Does not walk down step</displayName>
+<displayName lang="en" type="FSN">Does not walk down step (finding)</displayName>
+</concept>
+<concept code="282189008">
+<displayName lang="en" type="PT">Difficulty walking down step</displayName>
+<displayName lang="en" type="FSN">Difficulty walking down step (finding)</displayName>
+</concept>
+<concept code="282192007">
+<displayName lang="en" type="PT">Able to walk up stairs</displayName>
+<displayName lang="en" type="FSN">Able to walk up stairs (finding)</displayName>
+<displayName lang="en" type="SY">Able to climb stairs</displayName>
+</concept>
+<concept code="282193002">
+<displayName lang="en" type="PT">Does walk up stairs</displayName>
+<displayName lang="en" type="FSN">Does walk up stairs (finding)</displayName>
+<displayName lang="en" type="SY">Climbs stairs</displayName>
+<displayName lang="en" type="SY">Does climb stairs</displayName>
+<displayName lang="en" type="SY">Walks up stairs</displayName>
+</concept>
+<concept code="282194008">
+<displayName lang="en" type="PT">Does not walk up stairs</displayName>
+<displayName lang="en" type="FSN">Does not walk up stairs (finding)</displayName>
+<displayName lang="en" type="SY">Does not climb stairs</displayName>
+</concept>
+<concept code="282195009">
+<displayName lang="en" type="PT">Difficulty walking up stairs</displayName>
+<displayName lang="en" type="FSN">Difficulty walking up stairs (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty climbing stairs</displayName>
+</concept>
+<concept code="282197001">
+<displayName lang="en" type="PT">Able to walk down stairs</displayName>
+<displayName lang="en" type="FSN">Able to walk down stairs (finding)</displayName>
+</concept>
+<concept code="282198006">
+<displayName lang="en" type="PT">Unable to walk down stairs</displayName>
+<displayName lang="en" type="FSN">Unable to walk down stairs (finding)</displayName>
+</concept>
+<concept code="282199003">
+<displayName lang="en" type="PT">Does walk down stairs</displayName>
+<displayName lang="en" type="FSN">Does walk down stairs (finding)</displayName>
+<displayName lang="en" type="SY">Walks down stairs</displayName>
+</concept>
+<concept code="282200000">
+<displayName lang="en" type="PT">Does not walk down stairs</displayName>
+<displayName lang="en" type="FSN">Does not walk down stairs (finding)</displayName>
+</concept>
+<concept code="282201001">
+<displayName lang="en" type="PT">Difficulty walking down stairs</displayName>
+<displayName lang="en" type="FSN">Difficulty walking down stairs (finding)</displayName>
+</concept>
+<concept code="282203003">
+<displayName lang="en" type="PT">Able to initiate walking</displayName>
+<displayName lang="en" type="FSN">Able to initiate walking (finding)</displayName>
+</concept>
+<concept code="282204009">
+<displayName lang="en" type="PT">Unable to initiate walking</displayName>
+<displayName lang="en" type="FSN">Unable to initiate walking (finding)</displayName>
+</concept>
+<concept code="282205005">
+<displayName lang="en" type="PT">Does initiate walking</displayName>
+<displayName lang="en" type="FSN">Does initiate walking (finding)</displayName>
+<displayName lang="en" type="SY">Initiates walking</displayName>
+</concept>
+<concept code="282206006">
+<displayName lang="en" type="PT">Does not initiate walking</displayName>
+<displayName lang="en" type="FSN">Does not initiate walking (finding)</displayName>
+</concept>
+<concept code="282207002">
+<displayName lang="en" type="PT">Difficulty initiating walking</displayName>
+<displayName lang="en" type="FSN">Difficulty initiating walking (finding)</displayName>
+</concept>
+<concept code="282209004">
+<displayName lang="en" type="PT">Able to stop walking</displayName>
+<displayName lang="en" type="FSN">Able to stop walking (finding)</displayName>
+</concept>
+<concept code="282210009">
+<displayName lang="en" type="PT">Unable to stop walking</displayName>
+<displayName lang="en" type="FSN">Unable to stop walking (finding)</displayName>
+</concept>
+<concept code="282211008">
+<displayName lang="en" type="PT">Does stop walking</displayName>
+<displayName lang="en" type="FSN">Does stop walking (finding)</displayName>
+<displayName lang="en" type="SY">Stops walking</displayName>
+</concept>
+<concept code="282212001">
+<displayName lang="en" type="PT">Does not stop walking</displayName>
+<displayName lang="en" type="FSN">Does not stop walking (finding)</displayName>
+</concept>
+<concept code="282213006">
+<displayName lang="en" type="PT">Difficulty in stopping walking</displayName>
+<displayName lang="en" type="FSN">Difficulty in stopping walking (finding)</displayName>
+</concept>
+<concept code="282215004">
+<displayName lang="en" type="PT">Able to start and stop walking spontaneously</displayName>
+<displayName lang="en" type="FSN">Able to start and stop walking spontaneously (finding)</displayName>
+</concept>
+<concept code="282216003">
+<displayName lang="en" type="PT">Unable to start and stop walking spontaneously</displayName>
+<displayName lang="en" type="FSN">Unable to start and stop walking spontaneously (finding)</displayName>
+</concept>
+<concept code="282218002">
+<displayName lang="en" type="PT">Does start and stop walking spontaneously</displayName>
+<displayName lang="en" type="FSN">Does start and stop walking spontaneously (finding)</displayName>
+<displayName lang="en" type="SY">Starts and stops walking spontaneously</displayName>
+</concept>
+<concept code="282219005">
+<displayName lang="en" type="PT">Does not start and stop walking spontaneously</displayName>
+<displayName lang="en" type="FSN">Does not start and stop walking spontaneously (finding)</displayName>
+</concept>
+<concept code="282220004">
+<displayName lang="en" type="PT">Difficulty in starting and stopping walking spontaneously</displayName>
+<displayName lang="en" type="FSN">Difficulty in starting and stopping walking spontaneously (finding)</displayName>
+</concept>
+<concept code="282222007">
+<displayName lang="en" type="PT">Able to walk on a narrow line</displayName>
+<displayName lang="en" type="FSN">Able to walk on a narrow line (finding)</displayName>
+</concept>
+<concept code="282223002">
+<displayName lang="en" type="PT">Unable to walk on a narrow line</displayName>
+<displayName lang="en" type="FSN">Unable to walk on a narrow line (finding)</displayName>
+</concept>
+<concept code="282224008">
+<displayName lang="en" type="PT">Does walk on a narrow line</displayName>
+<displayName lang="en" type="FSN">Does walk on a narrow line (finding)</displayName>
+<displayName lang="en" type="SY">Walks on a narrow line</displayName>
+</concept>
+<concept code="282225009">
+<displayName lang="en" type="PT">Does not walk on a narrow line</displayName>
+<displayName lang="en" type="FSN">Does not walk on a narrow line (finding)</displayName>
+</concept>
+<concept code="282226005">
+<displayName lang="en" type="PT">Difficulty walking on a narrow line</displayName>
+<displayName lang="en" type="FSN">Difficulty walking on a narrow line (finding)</displayName>
+</concept>
+<concept code="282228006">
+<displayName lang="en" type="PT">Able to walk heel to toe</displayName>
+<displayName lang="en" type="FSN">Able to walk heel to toe (finding)</displayName>
+</concept>
+<concept code="282229003">
+<displayName lang="en" type="PT">Unable to walk heel to toe</displayName>
+<displayName lang="en" type="FSN">Unable to walk heel to toe (finding)</displayName>
+</concept>
+<concept code="282230008">
+<displayName lang="en" type="PT">Does walk heel to toe</displayName>
+<displayName lang="en" type="FSN">Does walk heel to toe (finding)</displayName>
+<displayName lang="en" type="SY">Walks heel to toe</displayName>
+</concept>
+<concept code="282231007">
+<displayName lang="en" type="PT">Does not walk heel to toe</displayName>
+<displayName lang="en" type="FSN">Does not walk heel to toe (finding)</displayName>
+</concept>
+<concept code="282232000">
+<displayName lang="en" type="PT">Difficulty walking heel to toe</displayName>
+<displayName lang="en" type="FSN">Difficulty walking heel to toe (finding)</displayName>
+</concept>
+<concept code="282234004">
+<displayName lang="en" type="PT">Able to walk carrying large toy</displayName>
+<displayName lang="en" type="FSN">Able to walk carrying large toy (finding)</displayName>
+</concept>
+<concept code="282235003">
+<displayName lang="en" type="PT">Unable to walk carrying large toy</displayName>
+<displayName lang="en" type="FSN">Unable to walk carrying large toy (finding)</displayName>
+</concept>
+<concept code="282236002">
+<displayName lang="en" type="PT">Does walk carrying large toy</displayName>
+<displayName lang="en" type="FSN">Does walk carrying large toy (finding)</displayName>
+<displayName lang="en" type="SY">Walks carrying large toy</displayName>
+</concept>
+<concept code="282237006">
+<displayName lang="en" type="PT">Does not walk carrying large toy</displayName>
+<displayName lang="en" type="FSN">Does not walk carrying large toy (finding)</displayName>
+</concept>
+<concept code="282238001">
+<displayName lang="en" type="PT">Difficulty in walking carrying large toy</displayName>
+<displayName lang="en" type="FSN">Difficulty in walking carrying large toy (finding)</displayName>
+</concept>
+<concept code="282240006">
+<displayName lang="en" type="PT">Able to walk backward pulling large toy</displayName>
+<displayName lang="en" type="FSN">Able to walk backward pulling large toy (finding)</displayName>
+</concept>
+<concept code="282241005">
+<displayName lang="en" type="PT">Unable to walk backward pulling large toy</displayName>
+<displayName lang="en" type="FSN">Unable to walk backward pulling large toy (finding)</displayName>
+</concept>
+<concept code="282242003">
+<displayName lang="en" type="PT">Does walk backward pulling large toy</displayName>
+<displayName lang="en" type="FSN">Does walk backward pulling large toy (finding)</displayName>
+<displayName lang="en" type="SY">Walks backward pulling large toy</displayName>
+</concept>
+<concept code="282243008">
+<displayName lang="en" type="PT">Does not walk backward pulling large toy</displayName>
+<displayName lang="en" type="FSN">Does not walk backward pulling large toy (finding)</displayName>
+</concept>
+<concept code="282244002">
+<displayName lang="en" type="PT">Difficulty in walking backward pulling large toy</displayName>
+<displayName lang="en" type="FSN">Difficulty in walking backward pulling large toy (finding)</displayName>
+</concept>
+<concept code="282547008">
+<displayName lang="en" type="PT">Able to avoid obstacles when running</displayName>
+<displayName lang="en" type="FSN">Able to avoid obstacles when running (finding)</displayName>
+</concept>
+<concept code="282548003">
+<displayName lang="en" type="PT">Unable to avoid obstacles when running</displayName>
+<displayName lang="en" type="FSN">Unable to avoid obstacles when running (finding)</displayName>
+</concept>
+<concept code="282549006">
+<displayName lang="en" type="PT">Does avoid obstacles when running</displayName>
+<displayName lang="en" type="FSN">Does avoid obstacles when running (finding)</displayName>
+<displayName lang="en" type="SY">Avoids obstacles when running</displayName>
+</concept>
+<concept code="282550006">
+<displayName lang="en" type="PT">Does not avoid obstacles when running</displayName>
+<displayName lang="en" type="FSN">Does not avoid obstacles when running (finding)</displayName>
+</concept>
+<concept code="282551005">
+<displayName lang="en" type="PT">Difficulty avoiding obstacles when running</displayName>
+<displayName lang="en" type="FSN">Difficulty avoiding obstacles when running (finding)</displayName>
+</concept>
+<concept code="282553008">
+<displayName lang="en" type="PT">Able to negotiate corners when running</displayName>
+<displayName lang="en" type="FSN">Able to negotiate corners when running (finding)</displayName>
+</concept>
+<concept code="282554002">
+<displayName lang="en" type="PT">Unable to negotiate corners when running</displayName>
+<displayName lang="en" type="FSN">Unable to negotiate corners when running (finding)</displayName>
+</concept>
+<concept code="282555001">
+<displayName lang="en" type="PT">Does negotiate corners when running</displayName>
+<displayName lang="en" type="FSN">Does negotiate corners when running (finding)</displayName>
+<displayName lang="en" type="SY">Negotiates corners when running</displayName>
+</concept>
+<concept code="282556000">
+<displayName lang="en" type="PT">Does not negotiate corners when running</displayName>
+<displayName lang="en" type="FSN">Does not negotiate corners when running (finding)</displayName>
+</concept>
+<concept code="282557009">
+<displayName lang="en" type="PT">Difficulty negotiating corners when running</displayName>
+<displayName lang="en" type="FSN">Difficulty negotiating corners when running (finding)</displayName>
+</concept>
+<concept code="298344006">
+<displayName lang="en" type="PT">Elderly fall</displayName>
+<displayName lang="en" type="FSN">Elderly fall (finding)</displayName>
+<displayName lang="en" type="SY">Geriatric fall</displayName>
+</concept>
+<concept code="298345007">
+<displayName lang="en" type="PT">Does not fall</displayName>
+<displayName lang="en" type="FSN">Does not fall (finding)</displayName>
+</concept>
+<concept code="298347004">
+<displayName lang="en" type="PT">Falls infrequently</displayName>
+<displayName lang="en" type="FSN">Falls infrequently (finding)</displayName>
+</concept>
+<concept code="300601003">
+<displayName lang="en" type="PT">Able to use local amenities</displayName>
+<displayName lang="en" type="FSN">Able to use local amenities (finding)</displayName>
+</concept>
+<concept code="300602005">
+<displayName lang="en" type="PT">Unable to use local amenities</displayName>
+<displayName lang="en" type="FSN">Unable to use local amenities (finding)</displayName>
+</concept>
+<concept code="300603000">
+<displayName lang="en" type="PT">Does use local amenities</displayName>
+<displayName lang="en" type="FSN">Does use local amenities (finding)</displayName>
+<displayName lang="en" type="SY">Uses local amenities</displayName>
+</concept>
+<concept code="300604006">
+<displayName lang="en" type="PT">Does not use local amenities</displayName>
+<displayName lang="en" type="FSN">Does not use local amenities (finding)</displayName>
+</concept>
+<concept code="300605007">
+<displayName lang="en" type="PT">Difficulty using amenities</displayName>
+<displayName lang="en" type="FSN">Difficulty using amenities (finding)</displayName>
+</concept>
+<concept code="300607004">
+<displayName lang="en" type="PT">Able to perform travelling activities</displayName>
+<displayName lang="en" type="FSN">Able to perform travelling activities (finding)</displayName>
+<displayName lang="en" type="SY">Able to carry out travelling activities</displayName>
+</concept>
+<concept code="300608009">
+<displayName lang="en" type="PT">Unable to perform travelling activities</displayName>
+<displayName lang="en" type="FSN">Unable to perform travelling activities (finding)</displayName>
+<displayName lang="en" type="SY">Unable to carry out travelling activities</displayName>
+</concept>
+<concept code="300609001">
+<displayName lang="en" type="PT">Does perform travelling activities</displayName>
+<displayName lang="en" type="FSN">Does perform travelling activities (finding)</displayName>
+<displayName lang="en" type="SY">Does carry out travelling activities</displayName>
+<displayName lang="en" type="SY">Performs travelling activities</displayName>
+</concept>
+<concept code="300610006">
+<displayName lang="en" type="PT">Does not perform travelling activities</displayName>
+<displayName lang="en" type="FSN">Does not perform travelling activities (finding)</displayName>
+<displayName lang="en" type="SY">Does not carry out travelling activities</displayName>
+</concept>
+<concept code="300611005">
+<displayName lang="en" type="PT">Difficulty performing travelling activities</displayName>
+<displayName lang="en" type="FSN">Difficulty performing travelling activities (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty carrying out travelling activities</displayName>
+</concept>
+<concept code="300613008">
+<displayName lang="en" type="PT">Able to travel on foot</displayName>
+<displayName lang="en" type="FSN">Able to travel on foot (finding)</displayName>
+</concept>
+<concept code="300614002">
+<displayName lang="en" type="PT">Unable to travel on foot</displayName>
+<displayName lang="en" type="FSN">Unable to travel on foot (finding)</displayName>
+</concept>
+<concept code="300615001">
+<displayName lang="en" type="PT">Does travel on foot</displayName>
+<displayName lang="en" type="FSN">Does travel on foot (finding)</displayName>
+<displayName lang="en" type="SY">Travels on foot</displayName>
+</concept>
+<concept code="300616000">
+<displayName lang="en" type="PT">Does not travel on foot</displayName>
+<displayName lang="en" type="FSN">Does not travel on foot (finding)</displayName>
+</concept>
+<concept code="300618004">
+<displayName lang="en" type="PT">Difficulty travelling on foot</displayName>
+<displayName lang="en" type="FSN">Difficulty travelling on foot (finding)</displayName>
+</concept>
+<concept code="300621002">
+<displayName lang="en" type="PT">Able to use public transport</displayName>
+<displayName lang="en" type="FSN">Able to use public transport (finding)</displayName>
+</concept>
+<concept code="300622009">
+<displayName lang="en" type="PT">Unable to use public transport</displayName>
+<displayName lang="en" type="FSN">Unable to use public transport (finding)</displayName>
+</concept>
+<concept code="300623004">
+<displayName lang="en" type="PT">Does uses public transport</displayName>
+<displayName lang="en" type="FSN">Does uses public transport (finding)</displayName>
+<displayName lang="en" type="SY">Uses public transport</displayName>
+</concept>
+<concept code="300624005">
+<displayName lang="en" type="PT">Does not use public transport</displayName>
+<displayName lang="en" type="FSN">Does not use public transport (finding)</displayName>
+</concept>
+<concept code="300625006">
+<displayName lang="en" type="PT">Difficulty using public transport</displayName>
+<displayName lang="en" type="FSN">Difficulty using public transport (finding)</displayName>
+</concept>
+<concept code="300627003">
+<displayName lang="en" type="PT">Able to use private transport</displayName>
+<displayName lang="en" type="FSN">Able to use private transport (finding)</displayName>
+</concept>
+<concept code="300628008">
+<displayName lang="en" type="PT">Unable to use private transport</displayName>
+<displayName lang="en" type="FSN">Unable to use private transport (finding)</displayName>
+</concept>
+<concept code="300629000">
+<displayName lang="en" type="PT">Does use private transport</displayName>
+<displayName lang="en" type="FSN">Does use private transport (finding)</displayName>
+<displayName lang="en" type="SY">Uses private transport</displayName>
+</concept>
+<concept code="300631009">
+<displayName lang="en" type="PT">Does not use private transport</displayName>
+<displayName lang="en" type="FSN">Does not use private transport (finding)</displayName>
+</concept>
+<concept code="300632002">
+<displayName lang="en" type="PT">Difficulty using private transport</displayName>
+<displayName lang="en" type="FSN">Difficulty using private transport (finding)</displayName>
+</concept>
+<concept code="300634001">
+<displayName lang="en" type="PT">Able to drive a car</displayName>
+<displayName lang="en" type="FSN">Able to drive a car (finding)</displayName>
+</concept>
+<concept code="300635000">
+<displayName lang="en" type="PT">Unable to drive a car</displayName>
+<displayName lang="en" type="FSN">Unable to drive a car (finding)</displayName>
+</concept>
+<concept code="300636004">
+<displayName lang="en" type="PT">Does drive a car</displayName>
+<displayName lang="en" type="FSN">Does drive a car (finding)</displayName>
+<displayName lang="en" type="SY">Drives a car</displayName>
+</concept>
+<concept code="300637008">
+<displayName lang="en" type="PT">Does not drive a car</displayName>
+<displayName lang="en" type="FSN">Does not drive a car (finding)</displayName>
+</concept>
+<concept code="300638003">
+<displayName lang="en" type="PT">Difficulty driving a car</displayName>
+<displayName lang="en" type="FSN">Difficulty driving a car (finding)</displayName>
+</concept>
+<concept code="300640008">
+<displayName lang="en" type="PT">Able to ride a motorbike</displayName>
+<displayName lang="en" type="FSN">Able to ride a motorbike (finding)</displayName>
+</concept>
+<concept code="300641007">
+<displayName lang="en" type="PT">Unable to ride a motorbike</displayName>
+<displayName lang="en" type="FSN">Unable to ride a motorbike (finding)</displayName>
+</concept>
+<concept code="300642000">
+<displayName lang="en" type="PT">Does ride a motorbike</displayName>
+<displayName lang="en" type="FSN">Does ride a motorbike (finding)</displayName>
+<displayName lang="en" type="SY">Rides a motorbike</displayName>
+</concept>
+<concept code="300643005">
+<displayName lang="en" type="PT">Does not ride a motorbike</displayName>
+<displayName lang="en" type="FSN">Does not ride a motorbike (finding)</displayName>
+</concept>
+<concept code="300644004">
+<displayName lang="en" type="PT">Difficulty riding a motorbike</displayName>
+<displayName lang="en" type="FSN">Difficulty riding a motorbike (finding)</displayName>
+</concept>
+<concept code="300646002">
+<displayName lang="en" type="PT">Able to ride a bicycle</displayName>
+<displayName lang="en" type="FSN">Able to ride a bicycle (finding)</displayName>
+<displayName lang="en" type="SY">Able to ride a bike</displayName>
+</concept>
+<concept code="300647006">
+<displayName lang="en" type="PT">Unable to ride a bicycle</displayName>
+<displayName lang="en" type="FSN">Unable to ride a bicycle (finding)</displayName>
+<displayName lang="en" type="SY">Unable to ride a bike</displayName>
+</concept>
+<concept code="300648001">
+<displayName lang="en" type="PT">Does ride a bicycle</displayName>
+<displayName lang="en" type="FSN">Does ride a bicycle (finding)</displayName>
+<displayName lang="en" type="SY">Rides a bicycle</displayName>
+<displayName lang="en" type="SY">Rides a bike</displayName>
+</concept>
+<concept code="300649009">
+<displayName lang="en" type="PT">Does not ride a bicycle</displayName>
+<displayName lang="en" type="FSN">Does not ride a bicycle (finding)</displayName>
+<displayName lang="en" type="SY">Does not ride a bike</displayName>
+</concept>
+<concept code="300650009">
+<displayName lang="en" type="PT">Difficulty riding a bicycle</displayName>
+<displayName lang="en" type="FSN">Difficulty riding a bicycle (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty riding a bike</displayName>
+</concept>
+<concept code="300652001">
+<displayName lang="en-GB" type="PT">Able to organise a journey</displayName>
+<displayName lang="en" type="FSN">Able to organize a journey (finding)</displayName>
+</concept>
+<concept code="300653006">
+<displayName lang="en-GB" type="PT">Unable to organise a journey</displayName>
+<displayName lang="en" type="FSN">Unable to organize a journey (finding)</displayName>
+</concept>
+<concept code="300654000">
+<displayName lang="en-GB" type="PT">Does organise a journey</displayName>
+<displayName lang="en" type="FSN">Does organize a journey (finding)</displayName>
+<displayName lang="en-GB" type="SY">Organises a journey</displayName>
+</concept>
+<concept code="300655004">
+<displayName lang="en-GB" type="PT">Does not organise a journey</displayName>
+<displayName lang="en" type="FSN">Does not organize a journey (finding)</displayName>
+</concept>
+<concept code="300656003">
+<displayName lang="en-GB" type="PT">Difficulty organising a journey</displayName>
+<displayName lang="en" type="FSN">Difficulty organizing a journey (finding)</displayName>
+</concept>
+<concept code="300658002">
+<displayName lang="en" type="PT">Able to perform activities involved in using transport</displayName>
+<displayName lang="en" type="FSN">Able to perform activities involved in using transport (finding)</displayName>
+</concept>
+<concept code="300659005">
+<displayName lang="en" type="PT">Unable to perform activities involved in using transport</displayName>
+<displayName lang="en" type="FSN">Unable to perform activities involved in using transport (finding)</displayName>
+</concept>
+<concept code="300660000">
+<displayName lang="en" type="PT">Does perform activities involved in using transport</displayName>
+<displayName lang="en" type="FSN">Does perform activities involved in using transport (finding)</displayName>
+<displayName lang="en" type="SY">Performs activities involved in using transport</displayName>
+</concept>
+<concept code="300661001">
+<displayName lang="en" type="PT">Does not perform activities involved in using transport</displayName>
+<displayName lang="en" type="FSN">Does not perform activities involved in using transport (finding)</displayName>
+</concept>
+<concept code="300662008">
+<displayName lang="en" type="PT">Difficulty performing activities involved in using transport</displayName>
+<displayName lang="en" type="FSN">Difficulty performing activities involved in using transport (finding)</displayName>
+</concept>
+<concept code="300664009">
+<displayName lang="en" type="PT">Able to perform road safety drill</displayName>
+<displayName lang="en" type="FSN">Able to perform road safety drill (finding)</displayName>
+</concept>
+<concept code="300665005">
+<displayName lang="en" type="PT">Unable to perform road safety drill</displayName>
+<displayName lang="en" type="FSN">Unable to perform road safety drill (finding)</displayName>
+</concept>
+<concept code="300666006">
+<displayName lang="en" type="PT">Does perform road safety drill</displayName>
+<displayName lang="en" type="FSN">Does perform road safety drill (finding)</displayName>
+<displayName lang="en" type="SY">Performs road safety drill</displayName>
+</concept>
+<concept code="300667002">
+<displayName lang="en" type="PT">Does not perform road safety drill</displayName>
+<displayName lang="en" type="FSN">Does not perform road safety drill (finding)</displayName>
+</concept>
+<concept code="300668007">
+<displayName lang="en" type="PT">Difficulty performing road safety drill</displayName>
+<displayName lang="en" type="FSN">Difficulty performing road safety drill (finding)</displayName>
+</concept>
+<concept code="300670003">
+<displayName lang="en" type="PT">Able to cross the road</displayName>
+<displayName lang="en" type="FSN">Able to cross the road (finding)</displayName>
+</concept>
+<concept code="300671004">
+<displayName lang="en" type="PT">Unable to cross the road</displayName>
+<displayName lang="en" type="FSN">Unable to cross the road (finding)</displayName>
+</concept>
+<concept code="300672006">
+<displayName lang="en" type="PT">Does cross the road</displayName>
+<displayName lang="en" type="FSN">Does cross the road (finding)</displayName>
+<displayName lang="en" type="SY">Crosses the road</displayName>
+</concept>
+<concept code="300673001">
+<displayName lang="en" type="PT">Does not cross the road</displayName>
+<displayName lang="en" type="FSN">Does not cross the road (finding)</displayName>
+</concept>
+<concept code="300674007">
+<displayName lang="en" type="PT">Difficulty crossing the road</displayName>
+<displayName lang="en" type="FSN">Difficulty crossing the road (finding)</displayName>
+</concept>
+<concept code="300676009">
+<displayName lang="en" type="PT">Able to use pedestrian crossing</displayName>
+<displayName lang="en" type="FSN">Able to use pedestrian crossing (finding)</displayName>
+</concept>
+<concept code="300677000">
+<displayName lang="en" type="PT">Unable to use pedestrian crossing</displayName>
+<displayName lang="en" type="FSN">Unable to use pedestrian crossing (finding)</displayName>
+</concept>
+<concept code="300678005">
+<displayName lang="en" type="PT">Does use pedestrian crossing</displayName>
+<displayName lang="en" type="FSN">Does use pedestrian crossing (finding)</displayName>
+<displayName lang="en" type="SY">Uses pedestrian crossing</displayName>
+</concept>
+<concept code="300679002">
+<displayName lang="en" type="PT">Does not use pedestrian crossing</displayName>
+<displayName lang="en" type="FSN">Does not use pedestrian crossing (finding)</displayName>
+</concept>
+<concept code="300680004">
+<displayName lang="en" type="PT">Difficulty using pedestrian crossing</displayName>
+<displayName lang="en" type="FSN">Difficulty using pedestrian crossing (finding)</displayName>
+</concept>
+<concept code="300719004">
+<displayName lang="en" type="PT">Able to perform shopping activities</displayName>
+<displayName lang="en" type="FSN">Able to perform shopping activities (finding)</displayName>
+<displayName lang="en" type="SY">Able to carry out shopping activities</displayName>
+</concept>
+<concept code="300720005">
+<displayName lang="en" type="PT">Unable to perform shopping activities</displayName>
+<displayName lang="en" type="FSN">Unable to perform shopping activities (finding)</displayName>
+<displayName lang="en" type="SY">Unable to carry out shopping activities</displayName>
+</concept>
+<concept code="300721009">
+<displayName lang="en" type="PT">Does perform shopping activities</displayName>
+<displayName lang="en" type="FSN">Does perform shopping activities (finding)</displayName>
+<displayName lang="en" type="SY">Does carry out shopping activities</displayName>
+<displayName lang="en" type="SY">Performs shopping activities</displayName>
+</concept>
+<concept code="300722002">
+<displayName lang="en" type="PT">Does not perform shopping activities</displayName>
+<displayName lang="en" type="FSN">Does not perform shopping activities (finding)</displayName>
+<displayName lang="en" type="SY">Does not carry out shopping activities</displayName>
+</concept>
+<concept code="300723007">
+<displayName lang="en" type="PT">Difficulty performing shopping activities</displayName>
+<displayName lang="en" type="FSN">Difficulty performing shopping activities (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty carrying out shopping activities</displayName>
+</concept>
+<concept code="301473004">
+<displayName lang="en" type="PT">Able to negotiate obstacles</displayName>
+<displayName lang="en" type="FSN">Able to negotiate obstacles (finding)</displayName>
+</concept>
+<concept code="301474005">
+<displayName lang="en" type="PT">Unable to negotiate obstacles</displayName>
+<displayName lang="en" type="FSN">Unable to negotiate obstacles (finding)</displayName>
+</concept>
+<concept code="301475006">
+<displayName lang="en" type="PT">Does negotiate obstacles</displayName>
+<displayName lang="en" type="FSN">Does negotiate obstacles (finding)</displayName>
+<displayName lang="en" type="SY">Negotiates obstacles</displayName>
+</concept>
+<concept code="301476007">
+<displayName lang="en" type="PT">Does not negotiate obstacles</displayName>
+<displayName lang="en" type="FSN">Does not negotiate obstacles (finding)</displayName>
+</concept>
+<concept code="301477003">
+<displayName lang="en" type="PT">Difficulty negotiating obstacles</displayName>
+<displayName lang="en" type="FSN">Difficulty negotiating obstacles (finding)</displayName>
+</concept>
+<concept code="301479000">
+<displayName lang="en" type="PT">Able to avoid obstacles in path</displayName>
+<displayName lang="en" type="FSN">Able to avoid obstacles in path (finding)</displayName>
+</concept>
+<concept code="301480002">
+<displayName lang="en" type="PT">Unable to avoid obstacles in path</displayName>
+<displayName lang="en" type="FSN">Unable to avoid obstacles in path (finding)</displayName>
+</concept>
+<concept code="301481003">
+<displayName lang="en" type="PT">Does avoid obstacles in path</displayName>
+<displayName lang="en" type="FSN">Does avoid obstacles in path (finding)</displayName>
+<displayName lang="en" type="SY">Avoids obstacles in path</displayName>
+</concept>
+<concept code="301482005">
+<displayName lang="en" type="PT">Does not avoid obstacles in path</displayName>
+<displayName lang="en" type="FSN">Does not avoid obstacles in path (finding)</displayName>
+</concept>
+<concept code="301483000">
+<displayName lang="en" type="PT">Difficulty avoiding obstacles in path</displayName>
+<displayName lang="en" type="FSN">Difficulty avoiding obstacles in path (finding)</displayName>
+</concept>
+<concept code="301485007">
+<displayName lang="en" type="PT">Able to negotiate corners</displayName>
+<displayName lang="en" type="FSN">Able to negotiate corners (finding)</displayName>
+</concept>
+<concept code="301486008">
+<displayName lang="en" type="PT">Unable to negotiate corners</displayName>
+<displayName lang="en" type="FSN">Unable to negotiate corners (finding)</displayName>
+</concept>
+<concept code="301487004">
+<displayName lang="en" type="PT">Does negotiate corners</displayName>
+<displayName lang="en" type="FSN">Does negotiate corners (finding)</displayName>
+<displayName lang="en" type="SY">Negotiates corners</displayName>
+</concept>
+<concept code="301488009">
+<displayName lang="en" type="PT">Does not negotiate corners</displayName>
+<displayName lang="en" type="FSN">Does not negotiate corners (finding)</displayName>
+</concept>
+<concept code="301489001">
+<displayName lang="en" type="PT">Difficulty negotiating corners</displayName>
+<displayName lang="en" type="FSN">Difficulty negotiating corners (finding)</displayName>
+</concept>
+<concept code="301491009">
+<displayName lang="en" type="PT">Able to negotiate curbs</displayName>
+<displayName lang="en" type="FSN">Able to negotiate curbs (finding)</displayName>
+</concept>
+<concept code="301492002">
+<displayName lang="en" type="PT">Unable to negotiate curbs</displayName>
+<displayName lang="en" type="FSN">Unable to negotiate curbs (finding)</displayName>
+</concept>
+<concept code="301493007">
+<displayName lang="en" type="PT">Does negotiate curbs</displayName>
+<displayName lang="en" type="FSN">Does negotiate curbs (finding)</displayName>
+<displayName lang="en" type="SY">Negotiates curbs</displayName>
+</concept>
+<concept code="301494001">
+<displayName lang="en" type="PT">Does not negotiate curbs</displayName>
+<displayName lang="en" type="FSN">Does not negotiate curbs (finding)</displayName>
+</concept>
+<concept code="301495000">
+<displayName lang="en" type="PT">Difficulty negotiating curbs</displayName>
+<displayName lang="en" type="FSN">Difficulty negotiating curbs (finding)</displayName>
+</concept>
+<concept code="301497008">
+<displayName lang="en-GB" type="PT">Able to mobilise indoors</displayName>
+<displayName lang="en" type="FSN">Able to mobilize indoors (finding)</displayName>
+</concept>
+<concept code="301498003">
+<displayName lang="en-GB" type="PT">Unable to mobilise indoors</displayName>
+<displayName lang="en" type="FSN">Unable to mobilize indoors (finding)</displayName>
+</concept>
+<concept code="301499006">
+<displayName lang="en-GB" type="PT">Does mobilise indoors</displayName>
+<displayName lang="en" type="FSN">Does mobilize indoors (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilises indoors</displayName>
+</concept>
+<concept code="301500002">
+<displayName lang="en-GB" type="PT">Does not mobilise indoors</displayName>
+<displayName lang="en" type="FSN">Does not mobilize indoors (finding)</displayName>
+</concept>
+<concept code="301501003">
+<displayName lang="en-GB" type="PT">Difficulty mobilising indoors</displayName>
+<displayName lang="en" type="FSN">Difficulty mobilizing indoors (finding)</displayName>
+</concept>
+<concept code="301503000">
+<displayName lang="en" type="PT">Able to get in and out of shower</displayName>
+<displayName lang="en" type="FSN">Able to get in and out of shower (finding)</displayName>
+</concept>
+<concept code="301504006">
+<displayName lang="en" type="PT">Unable to get in and out of shower</displayName>
+<displayName lang="en" type="FSN">Unable to get in and out of shower (finding)</displayName>
+</concept>
+<concept code="301505007">
+<displayName lang="en" type="PT">Does get in and out of shower</displayName>
+<displayName lang="en" type="FSN">Does get in and out of shower (finding)</displayName>
+<displayName lang="en" type="SY">Gets in and out of shower</displayName>
+</concept>
+<concept code="301506008">
+<displayName lang="en" type="PT">Does not get in and out of shower</displayName>
+<displayName lang="en" type="FSN">Does not get in and out of shower (finding)</displayName>
+</concept>
+<concept code="301507004">
+<displayName lang="en" type="PT">Difficulty getting in and out of shower</displayName>
+<displayName lang="en" type="FSN">Difficulty getting in and out of shower (finding)</displayName>
+</concept>
+<concept code="301509001">
+<displayName lang="en" type="PT">Able to get into shower</displayName>
+<displayName lang="en" type="FSN">Able to get into shower (finding)</displayName>
+</concept>
+<concept code="301510006">
+<displayName lang="en" type="PT">Unable to get into shower</displayName>
+<displayName lang="en" type="FSN">Unable to get into shower (finding)</displayName>
+</concept>
+<concept code="301511005">
+<displayName lang="en" type="PT">Does get into shower</displayName>
+<displayName lang="en" type="FSN">Does get into shower (finding)</displayName>
+<displayName lang="en" type="SY">Gets into shower</displayName>
+</concept>
+<concept code="301512003">
+<displayName lang="en" type="PT">Does not get into shower</displayName>
+<displayName lang="en" type="FSN">Does not get into shower (finding)</displayName>
+</concept>
+<concept code="301514002">
+<displayName lang="en" type="PT">Difficulty getting into shower</displayName>
+<displayName lang="en" type="FSN">Difficulty getting into shower (finding)</displayName>
+</concept>
+<concept code="301516000">
+<displayName lang="en" type="PT">Able to get out of shower</displayName>
+<displayName lang="en" type="FSN">Able to get out of shower (finding)</displayName>
+</concept>
+<concept code="301517009">
+<displayName lang="en" type="PT">Unable to get out of shower</displayName>
+<displayName lang="en" type="FSN">Unable to get out of shower (finding)</displayName>
+</concept>
+<concept code="301518004">
+<displayName lang="en" type="PT">Does get out of shower</displayName>
+<displayName lang="en" type="FSN">Does get out of shower (finding)</displayName>
+<displayName lang="en" type="SY">Gets out of shower</displayName>
+</concept>
+<concept code="301519007">
+<displayName lang="en" type="PT">Does not get out of shower</displayName>
+<displayName lang="en" type="FSN">Does not get out of shower (finding)</displayName>
+</concept>
+<concept code="301520001">
+<displayName lang="en" type="PT">Difficulty getting out of shower</displayName>
+<displayName lang="en" type="FSN">Difficulty getting out of shower (finding)</displayName>
+</concept>
+<concept code="301522009">
+<displayName lang="en" type="PT">Able to get in and out of bath</displayName>
+<displayName lang="en" type="FSN">Able to get in and out of bath (finding)</displayName>
+</concept>
+<concept code="301523004">
+<displayName lang="en" type="PT">Unable to get in and out of bath</displayName>
+<displayName lang="en" type="FSN">Unable to get in and out of bath (finding)</displayName>
+</concept>
+<concept code="301524005">
+<displayName lang="en" type="PT">Does get in and out of bath</displayName>
+<displayName lang="en" type="FSN">Does get in and out of bath (finding)</displayName>
+<displayName lang="en" type="SY">Gets in and out of bath</displayName>
+</concept>
+<concept code="301525006">
+<displayName lang="en" type="PT">Does not get in and out of bath</displayName>
+<displayName lang="en" type="FSN">Does not get in and out of bath (finding)</displayName>
+</concept>
+<concept code="301526007">
+<displayName lang="en" type="PT">Difficulty getting in and out of bath</displayName>
+<displayName lang="en" type="FSN">Difficulty getting in and out of bath (finding)</displayName>
+</concept>
+<concept code="301528008">
+<displayName lang="en" type="PT">Able to get in bath</displayName>
+<displayName lang="en" type="FSN">Able to get in bath (finding)</displayName>
+</concept>
+<concept code="301529000">
+<displayName lang="en" type="PT">Unable to get in bath</displayName>
+<displayName lang="en" type="FSN">Unable to get in bath (finding)</displayName>
+</concept>
+<concept code="301530005">
+<displayName lang="en" type="PT">Does get in bath</displayName>
+<displayName lang="en" type="FSN">Does get in bath (finding)</displayName>
+<displayName lang="en" type="SY">Gets in bath</displayName>
+</concept>
+<concept code="301531009">
+<displayName lang="en" type="PT">Does not get in bath</displayName>
+<displayName lang="en" type="FSN">Does not get in bath (finding)</displayName>
+</concept>
+<concept code="301532002">
+<displayName lang="en" type="PT">Difficulty getting in bath</displayName>
+<displayName lang="en" type="FSN">Difficulty getting in bath (finding)</displayName>
+</concept>
+<concept code="301534001">
+<displayName lang="en" type="PT">Able to get out of bath</displayName>
+<displayName lang="en" type="FSN">Able to get out of bath (finding)</displayName>
+</concept>
+<concept code="301535000">
+<displayName lang="en" type="PT">Unable to get out of bath</displayName>
+<displayName lang="en" type="FSN">Unable to get out of bath (finding)</displayName>
+</concept>
+<concept code="301536004">
+<displayName lang="en" type="PT">Does get out of bath</displayName>
+<displayName lang="en" type="FSN">Does get out of bath (finding)</displayName>
+<displayName lang="en" type="SY">Gets out of bath</displayName>
+</concept>
+<concept code="301538003">
+<displayName lang="en" type="PT">Able to get on and off toilet</displayName>
+<displayName lang="en" type="FSN">Able to get on and off toilet (finding)</displayName>
+</concept>
+<concept code="301539006">
+<displayName lang="en" type="PT">Unable to get on and off toilet</displayName>
+<displayName lang="en" type="FSN">Unable to get on and off toilet (finding)</displayName>
+</concept>
+<concept code="301540008">
+<displayName lang="en" type="PT">Does get on and off toilet</displayName>
+<displayName lang="en" type="FSN">Does get on and off toilet (finding)</displayName>
+<displayName lang="en" type="SY">Gets on and off toilet</displayName>
+</concept>
+<concept code="301541007">
+<displayName lang="en" type="PT">Does not get on and off toilet</displayName>
+<displayName lang="en" type="FSN">Does not get on and off toilet (finding)</displayName>
+</concept>
+<concept code="301542000">
+<displayName lang="en" type="PT">Difficulty getting on and off toilet</displayName>
+<displayName lang="en" type="FSN">Difficulty getting on and off toilet (finding)</displayName>
+</concept>
+<concept code="301544004">
+<displayName lang="en" type="PT">Able to get on to toilet</displayName>
+<displayName lang="en" type="FSN">Able to get on to toilet (finding)</displayName>
+</concept>
+<concept code="301545003">
+<displayName lang="en" type="PT">Unable to get on to toilet</displayName>
+<displayName lang="en" type="FSN">Unable to get on to toilet (finding)</displayName>
+</concept>
+<concept code="301546002">
+<displayName lang="en" type="PT">Does get on to toilet</displayName>
+<displayName lang="en" type="FSN">Does get on to toilet (finding)</displayName>
+<displayName lang="en" type="SY">Gets on to toilet</displayName>
+</concept>
+<concept code="301547006">
+<displayName lang="en" type="PT">Does not get on to toilet</displayName>
+<displayName lang="en" type="FSN">Does not get on to toilet (finding)</displayName>
+</concept>
+<concept code="301548001">
+<displayName lang="en" type="PT">Difficulty getting on to toilet</displayName>
+<displayName lang="en" type="FSN">Difficulty getting on to toilet (finding)</displayName>
+</concept>
+<concept code="301550009">
+<displayName lang="en" type="PT">Able to get off toilet</displayName>
+<displayName lang="en" type="FSN">Able to get off toilet (finding)</displayName>
+</concept>
+<concept code="301551008">
+<displayName lang="en" type="PT">Unable to get off toilet</displayName>
+<displayName lang="en" type="FSN">Unable to get off toilet (finding)</displayName>
+</concept>
+<concept code="301552001">
+<displayName lang="en" type="PT">Does get off toilet</displayName>
+<displayName lang="en" type="FSN">Does get off toilet (finding)</displayName>
+<displayName lang="en" type="SY">Gets off toilet</displayName>
+</concept>
+<concept code="301553006">
+<displayName lang="en" type="PT">Does not get off toilet</displayName>
+<displayName lang="en" type="FSN">Does not get off toilet (finding)</displayName>
+</concept>
+<concept code="301555004">
+<displayName lang="en" type="PT">Difficulty getting off toilet</displayName>
+<displayName lang="en" type="FSN">Difficulty getting off toilet (finding)</displayName>
+</concept>
+<concept code="301557007">
+<displayName lang="en" type="PT">Able to move around supporting self on furniture</displayName>
+<displayName lang="en" type="FSN">Able to move around supporting self on furniture (finding)</displayName>
+</concept>
+<concept code="301558002">
+<displayName lang="en" type="PT">Unable to move around supporting self on furniture</displayName>
+<displayName lang="en" type="FSN">Unable to move around supporting self on furniture (finding)</displayName>
+</concept>
+<concept code="301559005">
+<displayName lang="en" type="PT">Does move around supporting self on furniture</displayName>
+<displayName lang="en" type="FSN">Does move around supporting self on furniture (finding)</displayName>
+<displayName lang="en" type="SY">Moves around supporting self on furniture</displayName>
+</concept>
+<concept code="301560000">
+<displayName lang="en" type="PT">Does not move around supporting self on furniture</displayName>
+<displayName lang="en" type="FSN">Does not move around supporting self on furniture (finding)</displayName>
+</concept>
+<concept code="301561001">
+<displayName lang="en" type="PT">Difficulty moving around supporting self on furniture</displayName>
+<displayName lang="en" type="FSN">Difficulty moving around supporting self on furniture (finding)</displayName>
+</concept>
+<concept code="301563003">
+<displayName lang="en-GB" type="PT">Able to mobilise outside</displayName>
+<displayName lang="en" type="FSN">Able to mobilize outside (finding)</displayName>
+</concept>
+<concept code="301564009">
+<displayName lang="en-GB" type="PT">Unable to mobilise outside</displayName>
+<displayName lang="en" type="FSN">Unable to mobilize outside (finding)</displayName>
+</concept>
+<concept code="301565005">
+<displayName lang="en-GB" type="PT">Does mobilise outside</displayName>
+<displayName lang="en" type="FSN">Does mobilize outside (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilises outside</displayName>
+</concept>
+<concept code="301566006">
+<displayName lang="en-GB" type="PT">Does not mobilise outside</displayName>
+<displayName lang="en" type="FSN">Does not mobilize outside (finding)</displayName>
+</concept>
+<concept code="301568007">
+<displayName lang="en-GB" type="PT">Difficulty mobilising outside</displayName>
+<displayName lang="en" type="FSN">Difficulty mobilizing outside (finding)</displayName>
+</concept>
+<concept code="301570003">
+<displayName lang="en-GB" type="PT">Able to mobilise using mobility aids</displayName>
+<displayName lang="en" type="FSN">Able to mobilize using mobility aids (finding)</displayName>
+</concept>
+<concept code="301571004">
+<displayName lang="en-GB" type="PT">Unable to mobilise using mobility aids</displayName>
+<displayName lang="en" type="FSN">Unable to mobilize using mobility aids (finding)</displayName>
+</concept>
+<concept code="301572006">
+<displayName lang="en-GB" type="PT">Does mobilise using aids</displayName>
+<displayName lang="en" type="FSN">Does mobilize using aids (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilises using mobility aids</displayName>
+</concept>
+<concept code="301573001">
+<displayName lang="en-GB" type="PT">Does not mobilise using mobility aids</displayName>
+<displayName lang="en" type="FSN">Does not mobilize using mobility aids (finding)</displayName>
+</concept>
+<concept code="301574007">
+<displayName lang="en-GB" type="PT">Difficulty mobilising using mobility aids</displayName>
+<displayName lang="en" type="FSN">Difficulty mobilizing using mobility aids (finding)</displayName>
+</concept>
+<concept code="301576009">
+<displayName lang="en-GB" type="PT">Able to mobilise using wheelchair</displayName>
+<displayName lang="en" type="FSN">Able to mobilize using wheelchair (finding)</displayName>
+</concept>
+<concept code="301577000">
+<displayName lang="en-GB" type="PT">Unable to mobilise using wheelchair</displayName>
+<displayName lang="en" type="FSN">Unable to mobilize using wheelchair (finding)</displayName>
+</concept>
+<concept code="301578005">
+<displayName lang="en-GB" type="PT">Does mobilise using wheelchair</displayName>
+<displayName lang="en" type="FSN">Does mobilize using wheelchair (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilises using wheelchair</displayName>
+</concept>
+<concept code="301579002">
+<displayName lang="en-GB" type="PT">Does not mobilise using wheelchair</displayName>
+<displayName lang="en" type="FSN">Does not mobilize using wheelchair (finding)</displayName>
+</concept>
+<concept code="301580004">
+<displayName lang="en-GB" type="PT">Difficulty mobilising using wheelchair</displayName>
+<displayName lang="en" type="FSN">Difficulty mobilizing using wheelchair (finding)</displayName>
+</concept>
+<concept code="301582007">
+<displayName lang="en" type="PT">Able to manage steps and stairs</displayName>
+<displayName lang="en" type="FSN">Able to manage steps and stairs (finding)</displayName>
+</concept>
+<concept code="301583002">
+<displayName lang="en" type="PT">Unable to manage steps and stairs</displayName>
+<displayName lang="en" type="FSN">Unable to manage steps and stairs (finding)</displayName>
+</concept>
+<concept code="301584008">
+<displayName lang="en" type="PT">Does manage steps and stairs</displayName>
+<displayName lang="en" type="FSN">Does manage steps and stairs (finding)</displayName>
+<displayName lang="en" type="SY">Manages steps and stairs</displayName>
+</concept>
+<concept code="301585009">
+<displayName lang="en" type="PT">Does not manage steps and stairs</displayName>
+<displayName lang="en" type="FSN">Does not manage steps and stairs (finding)</displayName>
+</concept>
+<concept code="301586005">
+<displayName lang="en" type="PT">Difficulty managing steps and stairs</displayName>
+<displayName lang="en" type="FSN">Difficulty managing steps and stairs (finding)</displayName>
+</concept>
+<concept code="301588006">
+<displayName lang="en" type="PT">Able to manage stairs</displayName>
+<displayName lang="en" type="FSN">Able to manage stairs (finding)</displayName>
+</concept>
+<concept code="301589003">
+<displayName lang="en" type="PT">Unable to manage stairs</displayName>
+<displayName lang="en" type="FSN">Unable to manage stairs (finding)</displayName>
+</concept>
+<concept code="301590007">
+<displayName lang="en" type="PT">Does manage stairs</displayName>
+<displayName lang="en" type="FSN">Does manage stairs (finding)</displayName>
+<displayName lang="en" type="SY">Manages stairs</displayName>
+</concept>
+<concept code="301591006">
+<displayName lang="en" type="PT">Does not manage stairs</displayName>
+<displayName lang="en" type="FSN">Does not manage stairs (finding)</displayName>
+</concept>
+<concept code="301592004">
+<displayName lang="en" type="PT">Difficulty managing stairs</displayName>
+<displayName lang="en" type="FSN">Difficulty managing stairs (finding)</displayName>
+</concept>
+<concept code="301594003">
+<displayName lang="en" type="PT">Able to manage stairs on all fours</displayName>
+<displayName lang="en" type="FSN">Able to manage stairs on all fours (finding)</displayName>
+</concept>
+<concept code="301595002">
+<displayName lang="en" type="PT">Unable to manage stairs on all fours</displayName>
+<displayName lang="en" type="FSN">Unable to manage stairs on all fours (finding)</displayName>
+</concept>
+<concept code="301596001">
+<displayName lang="en" type="PT">Does manage stairs on all fours</displayName>
+<displayName lang="en" type="FSN">Does manage stairs on all fours (finding)</displayName>
+<displayName lang="en" type="SY">Manages stairs on all fours</displayName>
+</concept>
+<concept code="301597005">
+<displayName lang="en" type="PT">Does not manage stairs on all fours</displayName>
+<displayName lang="en" type="FSN">Does not manage stairs on all fours (finding)</displayName>
+</concept>
+<concept code="301598000">
+<displayName lang="en" type="PT">Difficulty managing stairs on all fours</displayName>
+<displayName lang="en" type="FSN">Difficulty managing stairs on all fours (finding)</displayName>
+</concept>
+<concept code="301600006">
+<displayName lang="en" type="PT">Able to manage stairs on bottom</displayName>
+<displayName lang="en" type="FSN">Able to manage stairs on bottom (finding)</displayName>
+</concept>
+<concept code="301601005">
+<displayName lang="en" type="PT">Unable to manage stairs on bottom</displayName>
+<displayName lang="en" type="FSN">Unable to manage stairs on bottom (finding)</displayName>
+</concept>
+<concept code="301602003">
+<displayName lang="en" type="PT">Does manage stairs on bottom</displayName>
+<displayName lang="en" type="FSN">Does manage stairs on bottom (finding)</displayName>
+<displayName lang="en" type="SY">Manages stairs on bottom</displayName>
+</concept>
+<concept code="301603008">
+<displayName lang="en" type="PT">Does not manage stairs on bottom</displayName>
+<displayName lang="en" type="FSN">Does not manage stairs on bottom (finding)</displayName>
+</concept>
+<concept code="301604002">
+<displayName lang="en" type="PT">Difficulty managing stairs on bottom</displayName>
+<displayName lang="en" type="FSN">Difficulty managing stairs on bottom (finding)</displayName>
+</concept>
+<concept code="301606000">
+<displayName lang="en" type="PT">Able to manage stairs backwards</displayName>
+<displayName lang="en" type="FSN">Able to manage stairs backwards (finding)</displayName>
+</concept>
+<concept code="301607009">
+<displayName lang="en" type="PT">Unable to manage stairs backwards</displayName>
+<displayName lang="en" type="FSN">Unable to manage stairs backwards (finding)</displayName>
+</concept>
+<concept code="301608004">
+<displayName lang="en" type="PT">Does manage stairs backwards</displayName>
+<displayName lang="en" type="FSN">Does manage stairs backwards (finding)</displayName>
+</concept>
+<concept code="301609007">
+<displayName lang="en" type="PT">Does not manage stairs backwards</displayName>
+<displayName lang="en" type="FSN">Does not manage stairs backwards (finding)</displayName>
+</concept>
+<concept code="301610002">
+<displayName lang="en" type="PT">Difficulty managing stairs backwards</displayName>
+<displayName lang="en" type="FSN">Difficulty managing stairs backwards (finding)</displayName>
+</concept>
+<concept code="301612005">
+<displayName lang="en" type="PT">Able to manage steps</displayName>
+<displayName lang="en" type="FSN">Able to manage steps (finding)</displayName>
+</concept>
+<concept code="301613000">
+<displayName lang="en" type="PT">Unable to manage steps</displayName>
+<displayName lang="en" type="FSN">Unable to manage steps (finding)</displayName>
+</concept>
+<concept code="301614006">
+<displayName lang="en" type="PT">Does manage steps</displayName>
+<displayName lang="en" type="FSN">Does manage steps (finding)</displayName>
+<displayName lang="en" type="SY">Manages steps</displayName>
+</concept>
+<concept code="301615007">
+<displayName lang="en" type="PT">Does not manage steps</displayName>
+<displayName lang="en" type="FSN">Does not manage steps (finding)</displayName>
+</concept>
+<concept code="301616008">
+<displayName lang="en" type="PT">Difficulty managing steps</displayName>
+<displayName lang="en" type="FSN">Difficulty managing steps (finding)</displayName>
+</concept>
+<concept code="301619001">
+<displayName lang="en" type="PT">Able to use lift</displayName>
+<displayName lang="en" type="FSN">Able to use lift (finding)</displayName>
+</concept>
+<concept code="301620007">
+<displayName lang="en" type="PT">Unable to use lift</displayName>
+<displayName lang="en" type="FSN">Unable to use lift (finding)</displayName>
+</concept>
+<concept code="301621006">
+<displayName lang="en" type="PT">Does use lift</displayName>
+<displayName lang="en" type="FSN">Does use lift (finding)</displayName>
+<displayName lang="en" type="SY">Uses lift</displayName>
+</concept>
+<concept code="301622004">
+<displayName lang="en" type="PT">Does not use lift</displayName>
+<displayName lang="en" type="FSN">Does not use lift (finding)</displayName>
+</concept>
+<concept code="301623009">
+<displayName lang="en" type="PT">Difficulty using lift</displayName>
+<displayName lang="en" type="FSN">Difficulty using lift (finding)</displayName>
+</concept>
+<concept code="301625002">
+<displayName lang="en" type="PT">Able to use stair lift</displayName>
+<displayName lang="en" type="FSN">Able to use stair lift (finding)</displayName>
+</concept>
+<concept code="301626001">
+<displayName lang="en" type="PT">Unable to use stair lift</displayName>
+<displayName lang="en" type="FSN">Unable to use stair lift (finding)</displayName>
+</concept>
+<concept code="301627005">
+<displayName lang="en" type="PT">Does use stair lift</displayName>
+<displayName lang="en" type="FSN">Does use stair lift (finding)</displayName>
+<displayName lang="en" type="SY">Uses stair lift</displayName>
+</concept>
+<concept code="301628000">
+<displayName lang="en" type="PT">Does not use stair lift</displayName>
+<displayName lang="en" type="FSN">Does not use stair lift (finding)</displayName>
+</concept>
+<concept code="301629008">
+<displayName lang="en" type="PT">Difficulty using stair lift</displayName>
+<displayName lang="en" type="FSN">Difficulty using stair lift (finding)</displayName>
+</concept>
+<concept code="301631004">
+<displayName lang="en" type="PT">Able to use escalator</displayName>
+<displayName lang="en" type="FSN">Able to use escalator (finding)</displayName>
+</concept>
+<concept code="301632006">
+<displayName lang="en" type="PT">Unable to use escalator</displayName>
+<displayName lang="en" type="FSN">Unable to use escalator (finding)</displayName>
+</concept>
+<concept code="301633001">
+<displayName lang="en" type="PT">Does use escalator</displayName>
+<displayName lang="en" type="FSN">Does use escalator (finding)</displayName>
+<displayName lang="en" type="SY">Uses escalator</displayName>
+</concept>
+<concept code="301634007">
+<displayName lang="en" type="PT">Does not use escalator</displayName>
+<displayName lang="en" type="FSN">Does not use escalator (finding)</displayName>
+</concept>
+<concept code="301635008">
+<displayName lang="en" type="PT">Difficulty using escalator</displayName>
+<displayName lang="en" type="FSN">Difficulty using escalator (finding)</displayName>
+</concept>
+<concept code="301637000">
+<displayName lang="en" type="PT">Able to get on and off furniture</displayName>
+<displayName lang="en" type="FSN">Able to get on and off furniture (finding)</displayName>
+</concept>
+<concept code="301638005">
+<displayName lang="en" type="PT">Unable to get on and off furniture</displayName>
+<displayName lang="en" type="FSN">Unable to get on and off furniture (finding)</displayName>
+</concept>
+<concept code="301639002">
+<displayName lang="en" type="PT">Does get on and off furniture</displayName>
+<displayName lang="en" type="FSN">Does get on and off furniture (finding)</displayName>
+<displayName lang="en" type="SY">Gets on and off furniture</displayName>
+</concept>
+<concept code="301640000">
+<displayName lang="en" type="PT">Does not get on and off furniture</displayName>
+<displayName lang="en" type="FSN">Does not get on and off furniture (finding)</displayName>
+</concept>
+<concept code="301641001">
+<displayName lang="en" type="PT">Difficulty getting on and off furniture</displayName>
+<displayName lang="en" type="FSN">Difficulty getting on and off furniture (finding)</displayName>
+</concept>
+<concept code="301644009">
+<displayName lang="en" type="PT">Able to get in and out of a chair</displayName>
+<displayName lang="en" type="FSN">Able to get in and out of a chair (finding)</displayName>
+</concept>
+<concept code="301645005">
+<displayName lang="en" type="PT">Unable to get in and out of a chair</displayName>
+<displayName lang="en" type="FSN">Unable to get in and out of a chair (finding)</displayName>
+</concept>
+<concept code="301646006">
+<displayName lang="en" type="PT">Does get in and out of a chair</displayName>
+<displayName lang="en" type="FSN">Does get in and out of a chair (finding)</displayName>
+<displayName lang="en" type="SY">Gets in and out of a chair</displayName>
+</concept>
+<concept code="301647002">
+<displayName lang="en" type="PT">Does not get in and out of a chair</displayName>
+<displayName lang="en" type="FSN">Does not get in and out of a chair (finding)</displayName>
+</concept>
+<concept code="301648007">
+<displayName lang="en" type="PT">Difficulty getting in and out of a chair</displayName>
+<displayName lang="en" type="FSN">Difficulty getting in and out of a chair (finding)</displayName>
+</concept>
+<concept code="301656005">
+<displayName lang="en" type="PT">Able to get out of a chair</displayName>
+<displayName lang="en" type="FSN">Able to get out of a chair (finding)</displayName>
+</concept>
+<concept code="301657001">
+<displayName lang="en" type="PT">Unable to get out of a chair</displayName>
+<displayName lang="en" type="FSN">Unable to get out of a chair (finding)</displayName>
+</concept>
+<concept code="301658006">
+<displayName lang="en" type="PT">Does get out of a chair</displayName>
+<displayName lang="en" type="FSN">Does get out of a chair (finding)</displayName>
+<displayName lang="en" type="SY">Gets out of a chair</displayName>
+</concept>
+<concept code="301659003">
+<displayName lang="en" type="PT">Does not get out of a chair</displayName>
+<displayName lang="en" type="FSN">Does not get out of a chair (finding)</displayName>
+</concept>
+<concept code="301660008">
+<displayName lang="en" type="PT">Difficulty getting out of a chair</displayName>
+<displayName lang="en" type="FSN">Difficulty getting out of a chair (finding)</displayName>
+</concept>
+<concept code="301662000">
+<displayName lang="en" type="PT">Able to get on and off a bed</displayName>
+<displayName lang="en" type="FSN">Able to get on and off a bed (finding)</displayName>
+</concept>
+<concept code="301663005">
+<displayName lang="en" type="PT">Unable to get on and off a bed</displayName>
+<displayName lang="en" type="FSN">Unable to get on and off a bed (finding)</displayName>
+</concept>
+<concept code="301664004">
+<displayName lang="en" type="PT">Does get on and off a bed</displayName>
+<displayName lang="en" type="FSN">Does get on and off a bed (finding)</displayName>
+<displayName lang="en" type="SY">Gets on and off a bed</displayName>
+</concept>
+<concept code="301665003">
+<displayName lang="en" type="PT">Does not get on and off a bed</displayName>
+<displayName lang="en" type="FSN">Does not get on and off a bed (finding)</displayName>
+</concept>
+<concept code="301666002">
+<displayName lang="en" type="PT">Difficulty get on and off a bed</displayName>
+<displayName lang="en" type="FSN">Difficulty get on and off a bed (finding)</displayName>
+</concept>
+<concept code="301668001">
+<displayName lang="en" type="PT">Able to get on a bed</displayName>
+<displayName lang="en" type="FSN">Able to get on a bed (finding)</displayName>
+</concept>
+<concept code="301670005">
+<displayName lang="en" type="PT">Unable to get on a bed</displayName>
+<displayName lang="en" type="FSN">Unable to get on a bed (finding)</displayName>
+</concept>
+<concept code="301671009">
+<displayName lang="en" type="PT">Does get on a bed</displayName>
+<displayName lang="en" type="FSN">Does get on a bed (finding)</displayName>
+<displayName lang="en" type="SY">Gets on a bed</displayName>
+</concept>
+<concept code="301672002">
+<displayName lang="en" type="PT">Does not get on a bed</displayName>
+<displayName lang="en" type="FSN">Does not get on a bed (finding)</displayName>
+</concept>
+<concept code="301673007">
+<displayName lang="en" type="PT">Difficulty getting on a bed</displayName>
+<displayName lang="en" type="FSN">Difficulty getting on a bed (finding)</displayName>
+</concept>
+<concept code="301675000">
+<displayName lang="en" type="PT">Able to get off a bed</displayName>
+<displayName lang="en" type="FSN">Able to get off a bed (finding)</displayName>
+</concept>
+<concept code="301676004">
+<displayName lang="en" type="PT">Unable to get off a bed</displayName>
+<displayName lang="en" type="FSN">Unable to get off a bed (finding)</displayName>
+</concept>
+<concept code="301677008">
+<displayName lang="en" type="PT">Does get off a bed</displayName>
+<displayName lang="en" type="FSN">Does get off a bed (finding)</displayName>
+<displayName lang="en" type="SY">Gets off a bed</displayName>
+</concept>
+<concept code="301678003">
+<displayName lang="en" type="PT">Does not get off a bed</displayName>
+<displayName lang="en" type="FSN">Does not get off a bed (finding)</displayName>
+</concept>
+<concept code="301679006">
+<displayName lang="en" type="PT">Difficulty getting off a bed</displayName>
+<displayName lang="en" type="FSN">Difficulty getting off a bed (finding)</displayName>
+</concept>
+<concept code="301681008">
+<displayName lang="en" type="PT">Able to move in bed</displayName>
+<displayName lang="en" type="FSN">Able to move in bed (finding)</displayName>
+</concept>
+<concept code="301682001">
+<displayName lang="en" type="PT">Unable to move in bed</displayName>
+<displayName lang="en" type="FSN">Unable to move in bed (finding)</displayName>
+</concept>
+<concept code="301683006">
+<displayName lang="en" type="PT">Does move in bed</displayName>
+<displayName lang="en" type="FSN">Does move in bed (finding)</displayName>
+<displayName lang="en" type="SY">Moves in bed</displayName>
+</concept>
+<concept code="301684000">
+<displayName lang="en" type="PT">Does not move in bed</displayName>
+<displayName lang="en" type="FSN">Does not move in bed (finding)</displayName>
+</concept>
+<concept code="301685004">
+<displayName lang="en" type="PT">Difficulty moving in bed</displayName>
+<displayName lang="en" type="FSN">Difficulty moving in bed (finding)</displayName>
+</concept>
+<concept code="301687007">
+<displayName lang="en" type="PT">Able to roll over in bed</displayName>
+<displayName lang="en" type="FSN">Able to roll over in bed (finding)</displayName>
+<displayName lang="en" type="SY">Able to turn over in bed</displayName>
+</concept>
+<concept code="301688002">
+<displayName lang="en" type="PT">Unable to roll over in bed</displayName>
+<displayName lang="en" type="FSN">Unable to roll over in bed (finding)</displayName>
+<displayName lang="en" type="SY">Unable to turn over in bed</displayName>
+</concept>
+<concept code="301689005">
+<displayName lang="en" type="PT">Does roll over in bed</displayName>
+<displayName lang="en" type="FSN">Does roll over in bed (finding)</displayName>
+<displayName lang="en" type="SY">Rolls over in bed</displayName>
+</concept>
+<concept code="301690001">
+<displayName lang="en" type="PT">Does not roll over in bed</displayName>
+<displayName lang="en" type="FSN">Does not roll over in bed (finding)</displayName>
+<displayName lang="en" type="SY">Does not turn over in bed</displayName>
+</concept>
+<concept code="301691002">
+<displayName lang="en" type="PT">Difficulty rolling over in bed</displayName>
+<displayName lang="en" type="FSN">Difficulty rolling over in bed (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty turning over in bed</displayName>
+</concept>
+<concept code="301693004">
+<displayName lang="en" type="PT">Able to move up and down bed</displayName>
+<displayName lang="en" type="FSN">Able to move up and down bed (finding)</displayName>
+</concept>
+<concept code="301694005">
+<displayName lang="en" type="PT">Unable to move up and down bed</displayName>
+<displayName lang="en" type="FSN">Unable to move up and down bed (finding)</displayName>
+</concept>
+<concept code="301695006">
+<displayName lang="en" type="PT">Does move up and down bed</displayName>
+<displayName lang="en" type="FSN">Does move up and down bed (finding)</displayName>
+<displayName lang="en" type="SY">Moves up and down bed</displayName>
+</concept>
+<concept code="301696007">
+<displayName lang="en" type="PT">Does not move up and down bed</displayName>
+<displayName lang="en" type="FSN">Does not move up and down bed (finding)</displayName>
+</concept>
+<concept code="301697003">
+<displayName lang="en" type="PT">Difficulty moving up and down bed</displayName>
+<displayName lang="en" type="FSN">Difficulty moving up and down bed (finding)</displayName>
+</concept>
+<concept code="302042005">
+<displayName lang="en-GB" type="PT">Able to mobilise</displayName>
+<displayName lang="en" type="FSN">Able to mobilize (finding)</displayName>
+</concept>
+<concept code="302043000">
+<displayName lang="en-GB" type="PT">Unable to mobilise</displayName>
+<displayName lang="en" type="FSN">Unable to mobilize (finding)</displayName>
+</concept>
+<concept code="302044006">
+<displayName lang="en-GB" type="PT">Does mobilise</displayName>
+<displayName lang="en" type="FSN">Does mobilize (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mobilises</displayName>
+</concept>
+<concept code="302045007">
+<displayName lang="en-GB" type="PT">Does not mobilise</displayName>
+<displayName lang="en" type="FSN">Does not mobilize (finding)</displayName>
+</concept>
+<concept code="302046008">
+<displayName lang="en-GB" type="PT">Difficulty mobilising</displayName>
+<displayName lang="en" type="FSN">Difficulty mobilizing (finding)</displayName>
+</concept>
+<concept code="302146005">
+<displayName lang="en" type="PT">Access to transport and related findings</displayName>
+<displayName lang="en" type="FSN">Access to transport and related findings (finding)</displayName>
+<displayName lang="en" type="SY">Access to transport and related observations</displayName>
+</concept>
+<concept code="303493002">
+<displayName lang="en" type="PT">Able to turn onto side in bed</displayName>
+<displayName lang="en" type="FSN">Able to turn onto side in bed (finding)</displayName>
+</concept>
+<concept code="303494008">
+<displayName lang="en" type="PT">Unable to turn onto side in bed</displayName>
+<displayName lang="en" type="FSN">Unable to turn onto side in bed (finding)</displayName>
+</concept>
+<concept code="303495009">
+<displayName lang="en" type="PT">Does turn onto side in bed</displayName>
+<displayName lang="en" type="FSN">Does turn onto side in bed (finding)</displayName>
+<displayName lang="en" type="SY">Turns onto side in bed</displayName>
+</concept>
+<concept code="303496005">
+<displayName lang="en" type="PT">Does not turn onto side in bed</displayName>
+<displayName lang="en" type="FSN">Does not turn onto side in bed (finding)</displayName>
+</concept>
+<concept code="303498006">
+<displayName lang="en" type="PT">Difficulty turning onto side in bed</displayName>
+<displayName lang="en" type="FSN">Difficulty turning onto side in bed (finding)</displayName>
+</concept>
+<concept code="307109002">
+<displayName lang="en" type="PT">No car</displayName>
+<displayName lang="en" type="FSN">No car (finding)</displayName>
+</concept>
+<concept code="401194005">
+<displayName lang="en" type="PT">Get up and go test - normal</displayName>
+<displayName lang="en" type="FSN">Get up and go test - normal (finding)</displayName>
+</concept>
+<concept code="401195006">
+<displayName lang="en" type="PT">Get up and go test - abnormal</displayName>
+<displayName lang="en" type="FSN">Get up and go test - abnormal (finding)</displayName>
+</concept>
+<concept code="404911003">
+<displayName lang="en" type="PT">Unexplained recurrent falls</displayName>
+<displayName lang="en" type="FSN">Unexplained recurrent falls (finding)</displayName>
+</concept>
+<concept code="404912005">
+<displayName lang="en" type="PT">Unexplained falls</displayName>
+<displayName lang="en" type="FSN">Unexplained falls (finding)</displayName>
+</concept>
+<concept code="408561005">
+<displayName lang="en" type="PT">Falls caused by medication</displayName>
+<displayName lang="en" type="FSN">Falls caused by medication (finding)</displayName>
+</concept>
+<concept code="413121008">
+<displayName lang="en" type="PT">Dependent on helper pushing wheelchair</displayName>
+<displayName lang="en" type="FSN">Dependent on helper pushing wheelchair (finding)</displayName>
+</concept>
+<concept code="413288008">
+<displayName lang="en" type="PT">Has access to public transport vehicle</displayName>
+<displayName lang="en" type="FSN">Has access to public transport vehicle (finding)</displayName>
+</concept>
+<concept code="419024006">
+<displayName lang="en" type="PT">Transport unavailable</displayName>
+<displayName lang="en" type="FSN">Transport unavailable (finding)</displayName>
+<displayName lang="en" type="SY">Transportation unavailable</displayName>
+</concept>
+<concept code="420066004">
+<displayName lang="en" type="PT">Transport delay</displayName>
+<displayName lang="en" type="FSN">Transport delay (finding)</displayName>
+<displayName lang="en" type="SY">Transportation delay</displayName>
+</concept>
+<concept code="428415003">
+<displayName lang="en" type="PT">Temporarily housebound</displayName>
+<displayName lang="en" type="FSN">Temporarily housebound (finding)</displayName>
+</concept>
+<concept code="431188001">
+<displayName lang="en" type="PT">Transfers using hoist</displayName>
+<displayName lang="en" type="FSN">Transfers using hoist (finding)</displayName>
+<displayName lang="en" type="SY">Does transfer using hoist</displayName>
+</concept>
+<concept code="439831002">
+<displayName lang="en" type="PT">Medically unable to go on vacation</displayName>
+<displayName lang="en" type="FSN">Medically unable to go on vacation (finding)</displayName>
+<displayName lang="en" type="SY">Medically unable to go on holiday</displayName>
+</concept>
+<concept code="441867005">
+<displayName lang="en" type="PT">No longer drives a car</displayName>
+<displayName lang="en" type="FSN">No longer drives a car (finding)</displayName>
+</concept>
+<concept code="443320005">
+<displayName lang="en" type="PT">Uses single walking stick</displayName>
+<displayName lang="en" type="FSN">Uses single walking stick (finding)</displayName>
+</concept>
+<concept code="443392007">
+<displayName lang="en" type="PT">Uses single crutch for walking</displayName>
+<displayName lang="en" type="FSN">Uses single crutch for walking (finding)</displayName>
+</concept>
+<concept code="443663000">
+<displayName lang="en" type="PT">Uses two crutches for walking</displayName>
+<displayName lang="en" type="FSN">Uses two crutches for walking (finding)</displayName>
+</concept>
+<concept code="443699005">
+<displayName lang="en" type="PT">Uses two walking sticks</displayName>
+<displayName lang="en" type="FSN">Uses two walking sticks (finding)</displayName>
+</concept>
+<concept code="446497005">
+<displayName lang="en-GB" type="PT">Has driver&apos;s licence</displayName>
+<displayName lang="en" type="FSN">Has driver&apos;s license (finding)</displayName>
+<displayName lang="en-GB" type="SY">Has driving licence</displayName>
+<displayName lang="en-GB" type="SY">Holds driving licence</displayName>
+</concept>
+<concept code="700412002">
+<displayName lang="en-GB" type="PT">Does not have driving licence</displayName>
+<displayName lang="en" type="FSN">Does not have driving license (finding)</displayName>
+</concept>
+<concept code="707261001">
+<displayName lang="en" type="PT">Deterioration in ability to walk up stairs</displayName>
+<displayName lang="en" type="FSN">Deterioration in ability to walk up stairs (finding)</displayName>
+</concept>
+<concept code="707270003">
+<displayName lang="en" type="PT">Able to get up from floor</displayName>
+<displayName lang="en" type="FSN">Able to get up from floor (finding)</displayName>
+</concept>
+<concept code="711387003">
+<displayName lang="en" type="PT">Deterioration in ability to walk</displayName>
+<displayName lang="en" type="FSN">Deterioration in ability to walk (finding)</displayName>
+</concept>
+<concept code="201771000000108">
+<displayName lang="en-GB" type="PT">Able to walk short distances</displayName>
+<displayName lang="en-GB" type="FSN">Able to walk short distances (finding)</displayName>
+</concept>
+<concept code="242591000000103">
+<displayName lang="en" type="PT">Patient unable to get up unaided</displayName>
+<displayName lang="en" type="FSN">Patient unable to get up unaided (finding)</displayName>
+</concept>
+<concept code="279651000000104">
+<displayName lang="en-GB" type="PT">Disqualified from driving due to excess alcohol</displayName>
+<displayName lang="en-GB" type="FSN">Disqualified from driving due to excess alcohol (finding)</displayName>
+</concept>
+<concept code="320301000000109">
+<displayName lang="en" type="PT">Unable to walk long distances</displayName>
+<displayName lang="en" type="FSN">Unable to walk long distances (finding)</displayName>
+</concept>
+<concept code="353991000000105">
+<displayName lang="en" type="PT">No fear of falls</displayName>
+<displayName lang="en" type="FSN">No fear of falls (finding)</displayName>
+</concept>
+<concept code="761461000000103">
+<displayName lang="en" type="PT">Able to mobilise using mobility scooter</displayName>
+<displayName lang="en" type="FSN">Able to mobilise using mobility scooter (finding)</displayName>
+</concept>
+<concept code="761741000000109">
+<displayName lang="en" type="PT">Application for disabled parking permit accepted</displayName>
+<displayName lang="en" type="FSN">Application for disabled parking permit accepted (finding)</displayName>
+<displayName lang="en" type="SY">Blue Badge permit application accepted</displayName>
+</concept>
+<concept code="761751000000107">
+<displayName lang="en" type="PT">Application for disabled parking permit rejected</displayName>
+<displayName lang="en" type="FSN">Application for disabled parking permit rejected (finding)</displayName>
+<displayName lang="en" type="SY">Blue Badge permit application rejected</displayName>
+</concept>
+<concept code="761761000000105">
+<displayName lang="en" type="PT">Has applied for disabled parking permit</displayName>
+<displayName lang="en" type="FSN">Has applied for disabled parking permit (finding)</displayName>
+<displayName lang="en" type="SY">Blue Badge permit applied for</displayName>
+</concept>
+<concept code="761771000000103">
+<displayName lang="en" type="PT">Holds disabled parking permit</displayName>
+<displayName lang="en" type="FSN">Holds disabled parking permit (finding)</displayName>
+<displayName lang="en" type="SY">Blue Badge permit holder</displayName>
+</concept>
+<concept code="762291000000104">
+<displayName lang="en" type="PT">Unable to mobilise using mobility scooter</displayName>
+<displayName lang="en" type="FSN">Unable to mobilise using mobility scooter (finding)</displayName>
+</concept>
+<concept code="771671000000101">
+<displayName lang="en" type="PT">Needs assistance with shopping</displayName>
+<displayName lang="en" type="FSN">Needs assistance with shopping (finding)</displayName>
+<displayName lang="en" type="SY">Needs help with shopping</displayName>
+</concept>
+<concept code="784661000000101">
+<displayName lang="en" type="PT">Does not drive a vehicle</displayName>
+<displayName lang="en" type="FSN">Does not drive a vehicle (finding)</displayName>
+</concept>
+<concept code="855001000000103">
+<displayName lang="en" type="PT">Transport needs met by service</displayName>
+<displayName lang="en" type="FSN">Transport needs met by service (finding)</displayName>
+</concept>
+<concept code="914031000000109">
+<displayName lang="en" type="PT">Uses orthotic shoes</displayName>
+<displayName lang="en" type="FSN">Uses orthotic shoes (finding)</displayName>
+</concept>
+<concept code="939741000000109">
+<displayName lang="en" type="PT">Able to shop online</displayName>
+<displayName lang="en" type="FSN">Able to shop online (finding)</displayName>
+</concept>
+<concept code="939751000000107">
+<displayName lang="en" type="PT">Able to shop in supermarket</displayName>
+<displayName lang="en" type="FSN">Able to shop in supermarket (finding)</displayName>
+</concept>
+<concept code="939761000000105">
+<displayName lang="en" type="PT">Able to shop at shopping centre</displayName>
+<displayName lang="en" type="FSN">Able to shop at shopping mall (finding)</displayName>
+<displayName lang="en" type="SY">Able to shop at shopping mall</displayName>
+</concept>
+<concept code="939771000000103">
+<displayName lang="en" type="PT">Able to shop at corner shop</displayName>
+<displayName lang="en" type="FSN">Able to shop at corner shop (finding)</displayName>
+</concept>
+<concept code="940421000000102">
+<displayName lang="en" type="PT">Able to use through floor lift</displayName>
+<displayName lang="en" type="FSN">Able to use through floor lift (finding)</displayName>
+</concept>
+<concept code="941771000000100">
+<displayName lang="en" type="PT">Able to get into bed without assistance</displayName>
+<displayName lang="en" type="FSN">Able to get into bed without assistance (finding)</displayName>
+</concept>
+<concept code="943451000000104">
+<displayName lang="en" type="PT">Able to access where car is parked</displayName>
+<displayName lang="en" type="FSN">Able to access where car is parked (finding)</displayName>
+</concept>
+<concept code="943511000000104">
+<displayName lang="en" type="PT">Able to mobilise over uneven ground</displayName>
+<displayName lang="en" type="FSN">Able to mobilise over uneven ground (finding)</displayName>
+</concept>
+<concept code="943531000000107">
+<displayName lang="en" type="PT">Able to manage external steps</displayName>
+<displayName lang="en" type="FSN">Able to manage external steps (finding)</displayName>
+</concept>
+<concept code="943541000000103">
+<displayName lang="en" type="PT">Able to manage internal steps</displayName>
+<displayName lang="en" type="FSN">Able to manage internal steps (finding)</displayName>
+</concept>
+<concept code="943551000000100">
+<displayName lang="en" type="PT">Able to manage external stairs</displayName>
+<displayName lang="en" type="FSN">Able to manage external stairs (finding)</displayName>
+</concept>
+<concept code="943561000000102">
+<displayName lang="en" type="PT">Able to manage internal stairs</displayName>
+<displayName lang="en" type="FSN">Able to manage internal stairs (finding)</displayName>
+</concept>
+<concept code="943571000000109">
+<displayName lang="en" type="PT">Able to mobilise using outdoor motorised wheelchair</displayName>
+<displayName lang="en" type="FSN">Able to mobilise using outdoor motorised wheelchair (finding)</displayName>
+</concept>
+<concept code="943581000000106">
+<displayName lang="en" type="PT">Able to mobilise using indoor motorised wheelchair</displayName>
+<displayName lang="en" type="FSN">Able to mobilise using indoor motorised wheelchair (finding)</displayName>
+</concept>
+</vocabulary>

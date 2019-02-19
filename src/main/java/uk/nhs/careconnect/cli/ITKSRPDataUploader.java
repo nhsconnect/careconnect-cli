@@ -1,27 +1,24 @@
 package uk.nhs.careconnect.cli;
 
 import ca.uhn.fhir.context.FhirContext;
-import ca.uhn.fhir.context.FhirVersionEnum;
 import ca.uhn.fhir.rest.client.api.IGenericClient;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.StringUtils;
+import org.hl7.fhir.dstu3.model.CodeSystem;
 import org.hl7.fhir.dstu3.model.ValueSet;
+import org.hl7.fhir.dstu3.model.Bundle;
 import org.hl7.fhir.instance.model.api.IIdType;
 import uk.nhs.careconnect.itksrp.Vocabulary;
-import uk.nhs.careconnect.itksrp.VocabularyToFHIRValueSet;
-import uk.nhs.careconnect.itksrp.index.VocabularyIndex;
-import uk.nhs.careconnect.itksrp.index.vocabulary;
+import uk.nhs.careconnect.itksrp.VocabularyToFHIRCodeSystem;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.List;
 
 import static org.apache.commons.lang3.StringUtils.isBlank;
 import static org.apache.commons.lang3.StringUtils.isNotBlank;
@@ -35,6 +32,8 @@ public class ITKSRPDataUploader extends BaseCommand {
 	private ArrayList<ValueSet> valueSets = new ArrayList<>();
 
     private FhirContext ctx;
+
+	IGenericClient client;
 
 	@Override
 	public String getCommandDescription() {
@@ -61,15 +60,11 @@ public class ITKSRPDataUploader extends BaseCommand {
 		opt.setRequired(false);
 		options.addOption(opt);
 
-        opt = new Option("d", "data", true, "Local folder containing ITK SRP download to use to upload");
-        opt.setRequired(true);
-        options.addOption(opt);
-
 		return options;
 	}
 
 	@Override
-	public void run(CommandLine theCommandLine) throws ParseException {
+	public void run(CommandLine theCommandLine) throws Exception {
 		String targetServer = theCommandLine.getOptionValue("t");
 		if (isBlank(targetServer)) {
 			throw new ParseException("No target server (-t) specified");
@@ -89,69 +84,87 @@ public class ITKSRPDataUploader extends BaseCommand {
 				}
 			}
 		}
+		client = ctx.newRestfulGenericClient(targetServer);
 
-		callLoadFolders(theCommandLine.getOptionValue("d") +"/Vocabulary/HL7v2/","HL7v2.XML","itk-hl7v2-");
-        callLoadFolders(theCommandLine.getOptionValue("d") +"/Vocabulary/HL7v3/","HL7v3.XML","itk-hl7v3-");
-        callLoadFolders(theCommandLine.getOptionValue("d")+"/Vocabulary/SNOMEDCT/","SNOMEDCT.XML","itk-snct-");
+		loadFolder("itk/v2");
+		loadFolder("itk/v3");
+		loadFolder("itk/sct");
 
-		if (ctx.getVersion().getVersion() == FhirVersionEnum.DSTU2_HL7ORG) {
-			uploadValueSetsStu3(targetServer);
+
+
+	}
+
+	public void loadFolder(String folder) throws Exception {
+		List<String> filenames = new ArrayList<>();
+
+		try (
+				InputStream in = getResourceAsStream(folder);
+				BufferedReader br = new BufferedReader(new InputStreamReader(in))) {
+			String resource;
+
+			while ((resource = br.readLine()) != null) {
+				filenames.add(resource);
+
+				loadFile(folder,resource);
+			}
+		}
+
+
+	}
+
+	private InputStream getResourceAsStream(String resource) {
+		final InputStream in
+				= getContextClassLoader().getResourceAsStream(resource);
+
+		return in == null ? getClass().getResourceAsStream(resource) : in;
+	}
+
+	private ClassLoader getContextClassLoader() {
+		return Thread.currentThread().getContextClassLoader();
+	}
+
+	public void loadFile(String folder, String filename) {
+		InputStream inputStream =
+				Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
+		Reader reader = new InputStreamReader(inputStream);
+		VocabularyToFHIRCodeSystem converter = new VocabularyToFHIRCodeSystem(ctx);
+
+		try {
+
+
+			JAXBContext jcvocab = JAXBContext.newInstance(Vocabulary.class);
+			Unmarshaller unmarshallerVocab = jcvocab.createUnmarshaller();
+			Vocabulary vocab = (Vocabulary) unmarshallerVocab.unmarshal(inputStream);
+
+			String name = vocab.getName();
+
+			System.out.println(vocab.getName()+ " Version: "+vocab.getVersion());
+			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("created") ) && name!=null) {
+
+				// Don't process SNOMED
+				if (!folder.contains("sct") && !vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15")) {
+					CodeSystem codeSystem = converter.process(vocab,folder);
+					System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(codeSystem));
+
+					Bundle results = client.search().forResource(CodeSystem.class).where(CodeSystem.URL.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
+					if (results.getEntry().size()>0) {
+						client.update().resource(codeSystem).withId(results.getEntry().get(0).getId()).execute();
+					} else {
+						client.create().resource(codeSystem).execute();
+					}
+
+				}
+
+
+			}
+		} catch (Exception ex) {
+			System.out.println(ex.getMessage());
 		}
 
 	}
-	private void callLoadFolders(String path, String indexFile, String prefix) {
-        try {
-            File index = new File(path+indexFile);
-            FileInputStream fis = new FileInputStream(index);
-            JAXBContext jc = JAXBContext.newInstance(VocabularyIndex.class);
-            Unmarshaller unmarshaller = jc.createUnmarshaller();
-            VocabularyIndex vocabIndex = (VocabularyIndex) unmarshaller.unmarshal(fis);
 
-          //  System.out.println(vocabIndex.getVocabularyName());
-            File folder = new File(path+"XML");
-            VocabularyToFHIRValueSet converter = new VocabularyToFHIRValueSet(ctx);
 
-            for (final File fileEntry : folder.listFiles()) {
-                if (!fileEntry.isDirectory()) {
 
-                    System.out.println(fileEntry.getName());
-                    try {
-
-                        FileInputStream fisVocab = new FileInputStream(fileEntry);
-                        JAXBContext jcvocab = JAXBContext.newInstance(Vocabulary.class);
-                        Unmarshaller unmarshallerVocab = jcvocab.createUnmarshaller();
-                        Vocabulary vocab = (Vocabulary) unmarshallerVocab.unmarshal(fisVocab);
-
-                        String name = null;
-                        for (vocabulary voc : vocabIndex.getVocabulary()) {
-                            if (voc.getId().equals(vocab.getId())) {
-                                name = voc.getName()+"-"+voc.getVersion().replace(".","-");
-                                name = name.replace(" ","");
-                                name = StringUtils.lowerCase(name).replace("/","-");
-                                name = name.replace("'","");
-
-                                break;
-                            }
-                        }
-                        System.out.println(name);
-                        if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("created") ) && name!=null) {
-
-                            ValueSet valueSet = converter.process(vocab, name, prefix);
-                            if (valueSet !=null) {
-                                valueSets.add(valueSet);
-                            }
-                        }
-                    } catch (Exception ex) {
-                        System.out.println(ex.getMessage());
-                    }
-
-                }
-            }
-        } catch (Exception ex) {
-            System.out.println(ex.getMessage());
-        }
-
-	}
 
 	private void uploadValueSetsStu3(String targetServer) throws CommandFailureException {
 		IGenericClient client = newClient(ctx, targetServer);

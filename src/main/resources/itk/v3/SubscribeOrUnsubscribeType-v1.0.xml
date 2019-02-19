@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SubscribeOrUnsubscribeType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.497">
+   <Description>
+            <span>A set of codes to indicate whether this is a subscribe or unsubscribe request.</span>
+         </Description>
+   <concept code="1">
+      <displayName>Subscribe</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Unsubscribe</displayName>
+   </concept>
+</vocabulary>

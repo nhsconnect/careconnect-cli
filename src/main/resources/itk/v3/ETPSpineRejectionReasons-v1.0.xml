@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ETPSpineRejectionReasons" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.22">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.22</p>
+            <p>Describes reasons for refusing to allow the returning of a prescription rather than dispensing it and reasons why a prescription to be placed in the ETP System to be dispensed has been rejected.</p>
+            <p>This code system is maintained externally in the External Interface Specification V6.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AbnormalFlags" version="1.0" status="created"
+            id="2.16.840.1.113883.12.78">
+   <Description>This table contains a lookup indicating the normalcy status of the result. 
+					Table type: User</Description>
+   <concept code="&lt;">
+      <displayName>Below absolute low-off instrument scale</displayName>
+   </concept>
+   <concept code="&gt;">
+      <displayName>Above absolute high-off instrument scale</displayName>
+   </concept>
+   <concept code="A">
+      <displayName>Abnormal (applies to non-numeric results)</displayName>
+   </concept>
+   <concept code="AA">
+      <displayName>Very abnormal (applies to non-numeric units, analogous to panic limits for numeric units)</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Better--use when direction not relevant</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Significant change down</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Above high normal</displayName>
+   </concept>
+   <concept code="HH">
+      <displayName>Above upper panic limits</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Intermediate. Indicates for microbiology susceptibilities only.</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Below low normal</displayName>
+   </concept>
+   <concept code="LL">
+      <displayName>Below lower panic limits</displayName>
+   </concept>
+   <concept code="MS">
+      <displayName>Moderately susceptible. Indicates for microbiology susceptibilities only.</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Normal (applies to non-numeric results)</displayName>
+   </concept>
+   <concept code="null">
+      <displayName>No range defined, or normal ranges don't apply</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Resistant. Indicates for microbiology susceptibilities only.</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Susceptible. Indicates for microbiology susceptibilities only.</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Significant change up</displayName>
+   </concept>
+   <concept code="VS">
+      <displayName>Very susceptible. Indicates for microbiology susceptibilities only.</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Worse--use when direction not relevant</displayName>
+   </concept>
+   <concept code="CC">
+      <displayName>Highly Significant Change</displayName>
+   </concept>
+   <concept code="UU">
+      <displayName>Highly Significant Change Up</displayName>
+   </concept>
+   <concept code="DD">
+      <displayName>Highly Significant Change Down</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Significant Change</displayName>
+   </concept>
+</vocabulary>

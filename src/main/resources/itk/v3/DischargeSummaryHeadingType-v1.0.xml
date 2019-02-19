@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeSummaryHeadingType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.288">
+   <Description>
+            <p>Headings as specified in DH Clinical Directorate RCP Extract Matrix</p>
+         </Description>
+   <concept code="DIS01">
+      <displayName>GP details</displayName>
+   </concept>
+   <concept code="DIS02">
+      <displayName>GP name</displayName>
+   </concept>
+   <concept code="DIS03">
+      <displayName>GP practice address</displayName>
+   </concept>
+   <concept code="DIS04">
+      <displayName>GP practice code</displayName>
+   </concept>
+   <concept code="DIS05">
+      <displayName>Patient details</displayName>
+   </concept>
+   <concept code="DIS06">
+      <displayName>Patient surname, forename</displayName>
+   </concept>
+   <concept code="DIS07">
+      <displayName>Name known as</displayName>
+   </concept>
+   <concept code="DIS08">
+      <displayName>Date of birth</displayName>
+   </concept>
+   <concept code="DIS09">
+      <displayName>Gender</displayName>
+   </concept>
+   <concept code="DIS10">
+      <displayName>NHS Number</displayName>
+   </concept>
+   <concept code="DIS11">
+      <displayName>Patient address</displayName>
+   </concept>
+   <concept code="DIS12">
+      <displayName>Patient telephone number(s)</displayName>
+   </concept>
+   <concept code="DIS13">
+      <displayName>Admission details</displayName>
+   </concept>
+   <concept code="DIS14">
+      <displayName>Method of admission</displayName>
+   </concept>
+   <concept code="DIS15">
+      <displayName>Source of admission</displayName>
+   </concept>
+   <concept code="DIS16">
+      <displayName>Hospital site</displayName>
+   </concept>
+   <concept code="DIS17">
+      <displayName>Responsible trust</displayName>
+   </concept>
+   <concept code="DIS18">
+      <displayName>Date of admission</displayName>
+   </concept>
+   <concept code="DIS19">
+      <displayName>Time of admission</displayName>
+   </concept>
+   <concept code="DIS20">
+      <displayName>Discharge details</displayName>
+   </concept>
+   <concept code="DIS21">
+      <displayName>Date of discharge</displayName>
+   </concept>
+   <concept code="DIS22">
+      <displayName>Time of discharge</displayName>
+   </concept>
+   <concept code="DIS23">
+      <displayName>Discharge method</displayName>
+   </concept>
+   <concept code="DIS24">
+      <displayName>Discharge destination</displayName>
+   </concept>
+   <concept code="DIS25">
+      <displayName>type of destination</displayName>
+   </concept>
+   <concept code="DIS26">
+      <displayName>destination address</displayName>
+   </concept>
+   <concept code="DIS27">
+      <displayName>living alone</displayName>
+   </concept>
+   <concept code="DIS28">
+      <displayName>Discharging consultant</displayName>
+   </concept>
+   <concept code="DIS29">
+      <displayName>Discharging speciality/department</displayName>
+   </concept>
+   <concept code="DIS30">
+      <displayName>Clinical information</displayName>
+   </concept>
+   <concept code="DIS31">
+      <displayName>Diagnosis at discharge</displayName>
+   </concept>
+   <concept code="DIS32">
+      <displayName>Operations and procedures</displayName>
+   </concept>
+   <concept code="DIS33">
+      <displayName>Reason for admission and Presenting complaints</displayName>
+   </concept>
+   <concept code="DIS34">
+      <displayName>Mental capacity</displayName>
+   </concept>
+   <concept code="DIS35">
+      <displayName>Advance decisions to refuse treatment and Resuscitation status</displayName>
+   </concept>
+   <concept code="DIS36">
+      <displayName>Allergies</displayName>
+   </concept>
+   <concept code="DIS37">
+      <displayName>New</displayName>
+   </concept>
+   <concept code="DIS38">
+      <displayName>Historic</displayName>
+   </concept>
+   <concept code="DIS39">
+      <displayName>Risks and warnings</displayName>
+   </concept>
+   <concept code="DIS40">
+      <displayName>Clinical narrative</displayName>
+   </concept>
+   <concept code="DIS41">
+      <displayName>Relevant investigations and results</displayName>
+   </concept>
+   <concept code="DIS42">
+      <displayName>Relevant treatments and changes made to treatments</displayName>
+   </concept>
+   <concept code="DIS43">
+      <displayName>Measures of physical ability and cognitive function</displayName>
+   </concept>
+   <concept code="DIS44">
+      <displayName>Medication changes</displayName>
+   </concept>
+   <concept code="DIS45">
+      <displayName>Discharge medications</displayName>
+   </concept>
+   <concept code="DIS46">
+      <displayName>Medication recommendations</displayName>
+   </concept>
+   <concept code="DIS47">
+      <displayName>Advice, recommendations and future plan</displayName>
+   </concept>
+   <concept code="DIS48">
+      <displayName>Hospital</displayName>
+   </concept>
+   <concept code="DIS49">
+      <displayName>GP</displayName>
+   </concept>
+   <concept code="DIS50">
+      <displayName>Community and specialist services</displayName>
+   </concept>
+   <concept code="DIS51">
+      <displayName>Information given to patient and/or authorised representative</displayName>
+   </concept>
+   <concept code="DIS52">
+      <displayName>Patient&#146;s concerns, expectations and wishes</displayName>
+   </concept>
+   <concept code="DIS53">
+      <displayName>Results Awaited</displayName>
+   </concept>
+   <concept code="DIS54">
+      <displayName>Person completing summary</displayName>
+   </concept>
+   <concept code="DIS55">
+      <displayName>Doctor&#146;s name</displayName>
+   </concept>
+   <concept code="DIS56">
+      <displayName>Grade</displayName>
+   </concept>
+   <concept code="DIS57">
+      <displayName>Specialty</displayName>
+   </concept>
+   <concept code="DIS58">
+      <displayName>Doctor&#146;s signature</displayName>
+   </concept>
+   <concept code="DIS59">
+      <displayName>Date of completion of discharge record</displayName>
+   </concept>
+   <concept code="DIS60">
+      <displayName>Distribution list</displayName>
+   </concept>
+</vocabulary>

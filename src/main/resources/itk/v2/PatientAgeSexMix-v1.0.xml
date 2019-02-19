@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PatientAgeSexMix" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.24">
+   <Description>Patient Age Sex Mix: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1a">
+      <displayName>Neonates - Males</displayName>
+   </concept>
+   <concept code="1b">
+      <displayName>Neonates - Females</displayName>
+   </concept>
+   <concept code="1c">
+      <displayName>Neonates - Either sex</displayName>
+   </concept>
+   <concept code="2a">
+      <displayName>Children and/or adolescents - Males</displayName>
+   </concept>
+   <concept code="2b">
+      <displayName>Children and/or adolescents - Females</displayName>
+   </concept>
+   <concept code="2c">
+      <displayName>Children and/or adolescents - Either sex</displayName>
+   </concept>
+   <concept code="3a">
+      <displayName>Elderly - Males</displayName>
+   </concept>
+   <concept code="3b">
+      <displayName>Elderly - Females</displayName>
+   </concept>
+   <concept code="3c">
+      <displayName>Elderly - Either sex</displayName>
+   </concept>
+   <concept code="8a">
+      <displayName>Any age - Males</displayName>
+   </concept>
+   <concept code="8b">
+      <displayName>Any age - Females</displayName>
+   </concept>
+   <concept code="8c">
+      <displayName>Any age - Either sex</displayName>
+   </concept>
+</vocabulary>

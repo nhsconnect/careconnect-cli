@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Discharge" type="Realm Concept" setId="68301000000138" version="17" id="1961000000132" refId="999000721000000107" memberCount="420" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="1889001">
+<displayName lang="en" type="PT">Patient transfer, in-hospital, unit-to-unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer, in-hospital, unit-to-unit (procedure)</displayName>
+</concept>
+<concept code="1917008">
+<displayName lang="en" type="PT">Patient discharge, deceased, medicolegal case</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, medicolegal case (procedure)</displayName>
+</concept>
+<concept code="3133002">
+<displayName lang="en" type="PT">Patient discharge, deceased, autopsy</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, autopsy (procedure)</displayName>
+</concept>
+<concept code="3929005">
+<displayName lang="en" type="PT">Patient transfer, in-hospital, bed-to-bed</displayName>
+<displayName lang="en" type="FSN">Patient transfer, in-hospital, bed-to-bed (procedure)</displayName>
+</concept>
+<concept code="10161009">
+<displayName lang="en" type="PT">Patient discharge, to home, with assistance</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, with assistance (procedure)</displayName>
+</concept>
+<concept code="12616003">
+<displayName lang="en" type="PT">Patient discharge, escaped from custody</displayName>
+<displayName lang="en" type="FSN">Patient discharge, escaped from custody (procedure)</displayName>
+</concept>
+<concept code="19712007">
+<displayName lang="en" type="PT">Patient transfer, to another health care facility</displayName>
+<displayName lang="en" type="FSN">Patient transfer, to another health care facility (procedure)</displayName>
+</concept>
+<concept code="20541009">
+<displayName lang="en" type="PT">Patient on pass</displayName>
+<displayName lang="en" type="FSN">Patient on pass (procedure)</displayName>
+</concept>
+<concept code="28260004">
+<displayName lang="en" type="PT">Patient transfer, to another health care facility, type unclassified, explain by report</displayName>
+<displayName lang="en" type="FSN">Patient transfer, to another health care facility, type unclassified, explain by report (procedure)</displayName>
+</concept>
+<concept code="34596002">
+<displayName lang="en" type="PT">Patient discharge, elopement</displayName>
+<displayName lang="en" type="FSN">Patient discharge, elopement (procedure)</displayName>
+</concept>
+<concept code="37729005">
+<displayName lang="en" type="PT">Patient transfer, in-hospital</displayName>
+<displayName lang="en" type="FSN">Patient transfer, in-hospital (procedure)</displayName>
+</concept>
+<concept code="41819004">
+<displayName lang="en" type="PT">Patient discharge, deceased, donation of body</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, donation of body (procedure)</displayName>
+</concept>
+<concept code="47031007">
+<displayName lang="en" type="PT">Patient discharge, type unclassified, explain by report</displayName>
+<displayName lang="en" type="FSN">Patient discharge, type unclassified, explain by report (procedure)</displayName>
+</concept>
+<concept code="50861005">
+<displayName lang="en" type="PT">Patient discharge, to legal custody</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to legal custody (procedure)</displayName>
+</concept>
+<concept code="54330000">
+<displayName lang="en" type="PT">Patient transfer, to another health care facility, definitive</displayName>
+<displayName lang="en" type="FSN">Patient transfer, to another health care facility, definitive (procedure)</displayName>
+</concept>
+<concept code="54773006">
+<displayName lang="en" type="PT">Patient transfer, to another health care facility, temporary</displayName>
+<displayName lang="en" type="FSN">Patient transfer, to another health care facility, temporary (procedure)</displayName>
+</concept>
+<concept code="57976004">
+<displayName lang="en" type="PT">Patient transfer, in-hospital, service-to-service</displayName>
+<displayName lang="en" type="FSN">Patient transfer, in-hospital, service-to-service (procedure)</displayName>
+</concept>
+<concept code="58000006">
+<displayName lang="en" type="PT">Patient discharge</displayName>
+<displayName lang="en" type="FSN">Patient discharge (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge procedure</displayName>
+</concept>
+<concept code="65537008">
+<displayName lang="en" type="PT">Patient discharge, to home, routine</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, routine (procedure)</displayName>
+</concept>
+<concept code="79779006">
+<displayName lang="en" type="PT">Patient discharge, deceased, no autopsy</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, no autopsy (procedure)</displayName>
+</concept>
+<concept code="86400002">
+<displayName lang="en" type="PT">Patient discharge, to home, ambulatory</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, ambulatory (procedure)</displayName>
+</concept>
+<concept code="89334003">
+<displayName lang="en" type="PT">Patient discharge, deceased, to anatomic board</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, to anatomic board (procedure)</displayName>
+</concept>
+<concept code="107724000">
+<displayName lang="en" type="PT">Patient transfer</displayName>
+<displayName lang="en" type="FSN">Patient transfer (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer care</displayName>
+<displayName lang="en" type="SY">Transfer of patient</displayName>
+<displayName lang="en" type="SY">Transfer of patient procedure</displayName>
+</concept>
+<concept code="183672007">
+<displayName lang="en" type="PT">Delayed discharge to nursing home</displayName>
+<displayName lang="en" type="FSN">Delayed discharge to nursing home (procedure)</displayName>
+</concept>
+<concept code="183955003">
+<displayName lang="en" type="PT">Patient self-discharge</displayName>
+<displayName lang="en" type="FSN">Patient self-discharge (procedure)</displayName>
+</concept>
+<concept code="225928004">
+<displayName lang="en" type="PT">Patient self-discharge against medical advice</displayName>
+<displayName lang="en" type="FSN">Patient self-discharge against medical advice (procedure)</displayName>
+<displayName lang="en" type="SY">Patient discharge against medical advice</displayName>
+</concept>
+<concept code="306382007">
+<displayName lang="en" type="PT">Discharge by health worker</displayName>
+<displayName lang="en" type="FSN">Discharge by health worker (procedure)</displayName>
+</concept>
+<concept code="306383002">
+<displayName lang="en-GB" type="PT">Discharge by counsellor</displayName>
+<displayName lang="en" type="FSN">Discharge by counselor (procedure)</displayName>
+</concept>
+<concept code="306385009">
+<displayName lang="en-GB" type="PT">Discharge by bereavement counsellor</displayName>
+<displayName lang="en" type="FSN">Discharge by bereavement counselor (procedure)</displayName>
+</concept>
+<concept code="306386005">
+<displayName lang="en-GB" type="PT">Discharge by genetic counsellor</displayName>
+<displayName lang="en" type="FSN">Discharge by genetic counselor (procedure)</displayName>
+</concept>
+<concept code="306387001">
+<displayName lang="en-GB" type="PT">Discharge by marriage guidance counsellor</displayName>
+<displayName lang="en" type="FSN">Discharge by marriage guidance counselor (procedure)</displayName>
+</concept>
+<concept code="306388006">
+<displayName lang="en-GB" type="PT">Discharge by mental health counsellor</displayName>
+<displayName lang="en" type="FSN">Discharge by mental health counselor (procedure)</displayName>
+</concept>
+<concept code="306390007">
+<displayName lang="en" type="PT">Discharge by Accident and Emergency doctor</displayName>
+<displayName lang="en" type="FSN">Discharge by Accident and Emergency doctor (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by A &amp; E doctor</displayName>
+<displayName lang="en" type="SY">Discharge by casualty doctor</displayName>
+</concept>
+<concept code="306391006">
+<displayName lang="en-GB" type="PT">Discharge by anaesthetist</displayName>
+<displayName lang="en" type="FSN">Discharge by anesthetist (procedure)</displayName>
+</concept>
+<concept code="306392004">
+<displayName lang="en" type="PT">Discharge by clinical oncologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical oncologist (procedure)</displayName>
+</concept>
+<concept code="306393009">
+<displayName lang="en" type="PT">Discharge by radiotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by radiotherapist (procedure)</displayName>
+</concept>
+<concept code="306394003">
+<displayName lang="en" type="PT">Discharge by family planning doctor</displayName>
+<displayName lang="en" type="FSN">Discharge by family planning doctor (procedure)</displayName>
+</concept>
+<concept code="306396001">
+<displayName lang="en" type="PT">Discharge by own GP</displayName>
+<displayName lang="en" type="FSN">Discharge by own general practitioner (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by own general practitioner</displayName>
+</concept>
+<concept code="306397005">
+<displayName lang="en" type="PT">Discharge by partner of GP</displayName>
+<displayName lang="en" type="FSN">Discharge by partner of general practitioner (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by partner of general practitioner</displayName>
+</concept>
+<concept code="306404005">
+<displayName lang="en" type="PT">Discharge by intensive care specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by intensive care specialist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by ITU specialist</displayName>
+</concept>
+<concept code="306405006">
+<displayName lang="en" type="PT">Discharge by adult intensive care specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by adult intensive care specialist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by adult ITU specialist</displayName>
+</concept>
+<concept code="306406007">
+<displayName lang="en-GB" type="PT">Discharge by paediatric intensive care specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric intensive care specialist (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge by paediatric ITU specialist</displayName>
+</concept>
+<concept code="306407003">
+<displayName lang="en" type="PT">Discharge by pain management specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by pain management specialist (procedure)</displayName>
+</concept>
+<concept code="306408008">
+<displayName lang="en" type="PT">Discharge by pathologist</displayName>
+<displayName lang="en" type="FSN">Discharge by pathologist (procedure)</displayName>
+</concept>
+<concept code="306409000">
+<displayName lang="en" type="PT">Discharge by blood transfusion doctor</displayName>
+<displayName lang="en" type="FSN">Discharge by blood transfusion doctor (procedure)</displayName>
+</concept>
+<concept code="306410005">
+<displayName lang="en" type="PT">Discharge by chemical pathologist</displayName>
+<displayName lang="en" type="FSN">Discharge by chemical pathologist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by clinical biochemist</displayName>
+</concept>
+<concept code="306411009">
+<displayName lang="en" type="PT">Discharge by general pathologist</displayName>
+<displayName lang="en" type="FSN">Discharge by general pathologist (procedure)</displayName>
+</concept>
+<concept code="306412002">
+<displayName lang="en-GB" type="PT">Discharge by haematologist</displayName>
+<displayName lang="en" type="FSN">Discharge by hematologist (procedure)</displayName>
+</concept>
+<concept code="306413007">
+<displayName lang="en" type="PT">Discharge by immunopathologist</displayName>
+<displayName lang="en" type="FSN">Discharge by immunopathologist (procedure)</displayName>
+</concept>
+<concept code="306414001">
+<displayName lang="en" type="PT">Discharge by medical microbiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by medical microbiologist (procedure)</displayName>
+</concept>
+<concept code="306415000">
+<displayName lang="en" type="PT">Discharge by neuropathologist</displayName>
+<displayName lang="en" type="FSN">Discharge by neuropathologist (procedure)</displayName>
+</concept>
+<concept code="306416004">
+<displayName lang="en" type="PT">Discharge by physician</displayName>
+<displayName lang="en" type="FSN">Discharge by physician (procedure)</displayName>
+</concept>
+<concept code="306417008">
+<displayName lang="en" type="PT">Discharge by clinical allergist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical allergist (procedure)</displayName>
+</concept>
+<concept code="306418003">
+<displayName lang="en" type="PT">Discharge by cardiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by cardiologist (procedure)</displayName>
+</concept>
+<concept code="306419006">
+<displayName lang="en" type="PT">Discharge by chest physician</displayName>
+<displayName lang="en" type="FSN">Discharge by chest physician (procedure)</displayName>
+</concept>
+<concept code="306420000">
+<displayName lang="en" type="PT">Discharge by thoracic physician</displayName>
+<displayName lang="en" type="FSN">Discharge by thoracic physician (procedure)</displayName>
+</concept>
+<concept code="306422008">
+<displayName lang="en-GB" type="PT">Discharge by clinical haematologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical hematologist (procedure)</displayName>
+</concept>
+<concept code="306423003">
+<displayName lang="en" type="PT">Discharge by clinical immunologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical immunologist (procedure)</displayName>
+</concept>
+<concept code="306424009">
+<displayName lang="en" type="PT">Discharge by clinical neurophysiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical neurophysiologist (procedure)</displayName>
+</concept>
+<concept code="306425005">
+<displayName lang="en" type="PT">Discharge by clinical pharmacologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical pharmacologist (procedure)</displayName>
+</concept>
+<concept code="306426006">
+<displayName lang="en" type="PT">Discharge by clinical physiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical physiologist (procedure)</displayName>
+</concept>
+<concept code="306427002">
+<displayName lang="en" type="PT">Discharge by dermatologist</displayName>
+<displayName lang="en" type="FSN">Discharge by dermatologist (procedure)</displayName>
+</concept>
+<concept code="306428007">
+<displayName lang="en" type="PT">Discharge by endocrinologist</displayName>
+<displayName lang="en" type="FSN">Discharge by endocrinologist (procedure)</displayName>
+</concept>
+<concept code="306429004">
+<displayName lang="en" type="PT">Discharge by gastroenterologist</displayName>
+<displayName lang="en" type="FSN">Discharge by gastroenterologist (procedure)</displayName>
+</concept>
+<concept code="306430009">
+<displayName lang="en" type="PT">Discharge by general physician</displayName>
+<displayName lang="en" type="FSN">Discharge by general physician (procedure)</displayName>
+</concept>
+<concept code="306431008">
+<displayName lang="en" type="PT">Discharge by geneticist</displayName>
+<displayName lang="en" type="FSN">Discharge by geneticist (procedure)</displayName>
+</concept>
+<concept code="306432001">
+<displayName lang="en" type="PT">Discharge by clinical geneticist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical geneticist (procedure)</displayName>
+</concept>
+<concept code="306433006">
+<displayName lang="en" type="PT">Discharge by clinical cytogeneticist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical cytogeneticist (procedure)</displayName>
+</concept>
+<concept code="306434000">
+<displayName lang="en" type="PT">Discharge by clinical molecular geneticist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical molecular geneticist (procedure)</displayName>
+</concept>
+<concept code="306435004">
+<displayName lang="en" type="PT">Discharge by genitourinary medicine physician</displayName>
+<displayName lang="en" type="FSN">Discharge by genitourinary medicine physician (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by GU medicine physician</displayName>
+<displayName lang="en" type="SY">Discharge by sexually transmittable diseases physician</displayName>
+</concept>
+<concept code="306436003">
+<displayName lang="en" type="PT">Discharge by care of the elderly physician</displayName>
+<displayName lang="en" type="FSN">Discharge by care of the elderly physician (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by geriatric medicine physician</displayName>
+</concept>
+<concept code="306437007">
+<displayName lang="en" type="PT">Discharge by infectious diseases physician</displayName>
+<displayName lang="en" type="FSN">Discharge by infectious diseases physician (procedure)</displayName>
+</concept>
+<concept code="306438002">
+<displayName lang="en" type="PT">Discharge by medical ophthalmologist</displayName>
+<displayName lang="en" type="FSN">Discharge by medical ophthalmologist (procedure)</displayName>
+</concept>
+<concept code="306439005">
+<displayName lang="en" type="PT">Discharge by nephrologist</displayName>
+<displayName lang="en" type="FSN">Discharge by nephrologist (procedure)</displayName>
+</concept>
+<concept code="306440007">
+<displayName lang="en" type="PT">Discharge by neurologist</displayName>
+<displayName lang="en" type="FSN">Discharge by neurologist (procedure)</displayName>
+</concept>
+<concept code="306441006">
+<displayName lang="en" type="PT">Discharge by nuclear medicine physician</displayName>
+<displayName lang="en" type="FSN">Discharge by nuclear medicine physician (procedure)</displayName>
+</concept>
+<concept code="306442004">
+<displayName lang="en" type="PT">Discharge by palliative care physician</displayName>
+<displayName lang="en" type="FSN">Discharge by palliative care physician (procedure)</displayName>
+</concept>
+<concept code="306443009">
+<displayName lang="en" type="PT">Discharge by rehabilitation physician</displayName>
+<displayName lang="en" type="FSN">Discharge by rehabilitation physician (procedure)</displayName>
+</concept>
+<concept code="306444003">
+<displayName lang="en" type="PT">Discharge by rheumatologist</displayName>
+<displayName lang="en" type="FSN">Discharge by rheumatologist (procedure)</displayName>
+</concept>
+<concept code="306445002">
+<displayName lang="en-GB" type="PT">Discharge by paediatrician</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatrician (procedure)</displayName>
+</concept>
+<concept code="306446001">
+<displayName lang="en-GB" type="PT">Discharge by community paediatrician</displayName>
+<displayName lang="en" type="FSN">Discharge by community pediatrician (procedure)</displayName>
+</concept>
+<concept code="306447005">
+<displayName lang="en" type="PT">Discharge by neonatologist</displayName>
+<displayName lang="en" type="FSN">Discharge by neonatologist (procedure)</displayName>
+</concept>
+<concept code="306448000">
+<displayName lang="en-GB" type="PT">Discharge by paediatric neurologist</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric neurologist (procedure)</displayName>
+</concept>
+<concept code="306449008">
+<displayName lang="en-GB" type="PT">Discharge by paediatric oncologist</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric oncologist (procedure)</displayName>
+</concept>
+<concept code="306450008">
+<displayName lang="en-GB" type="PT">Discharge by obstetrician and gynaecologist</displayName>
+<displayName lang="en" type="FSN">Discharge by obstetrician and gynecologist (procedure)</displayName>
+</concept>
+<concept code="306451007">
+<displayName lang="en-GB" type="PT">Discharge by gynaecologist</displayName>
+<displayName lang="en" type="FSN">Discharge by gynecologist (procedure)</displayName>
+</concept>
+<concept code="306452000">
+<displayName lang="en" type="PT">Discharge by obstetrician</displayName>
+<displayName lang="en" type="FSN">Discharge by obstetrician (procedure)</displayName>
+</concept>
+<concept code="306453005">
+<displayName lang="en" type="PT">Discharge by psychiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by psychiatrist (procedure)</displayName>
+</concept>
+<concept code="306454004">
+<displayName lang="en" type="PT">Discharge by child and adolescent psychiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by child and adolescent psychiatrist (procedure)</displayName>
+</concept>
+<concept code="306455003">
+<displayName lang="en" type="PT">Discharge by forensic psychiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by forensic psychiatrist (procedure)</displayName>
+</concept>
+<concept code="306456002">
+<displayName lang="en" type="PT">Discharge by liaison psychiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by liaison psychiatrist (procedure)</displayName>
+</concept>
+<concept code="306457006">
+<displayName lang="en" type="PT">Discharge by psychogeriatrician</displayName>
+<displayName lang="en" type="FSN">Discharge by psychogeriatrician (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by old age psychiatrist</displayName>
+<displayName lang="en" type="SY">Discharge by psychiatrist for the elderly mentally ill</displayName>
+</concept>
+<concept code="306458001">
+<displayName lang="en" type="PT">Discharge by psychiatrist for mental handicap</displayName>
+<displayName lang="en" type="FSN">Discharge by psychiatrist for mental handicap (procedure)</displayName>
+</concept>
+<concept code="306459009">
+<displayName lang="en" type="PT">Discharge by rehabilitation psychiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by rehabilitation psychiatrist (procedure)</displayName>
+</concept>
+<concept code="306460004">
+<displayName lang="en" type="PT">Discharge by radiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by radiologist (procedure)</displayName>
+</concept>
+<concept code="306461000">
+<displayName lang="en" type="PT">Discharge by occupational health physician</displayName>
+<displayName lang="en" type="FSN">Discharge by occupational health physician (procedure)</displayName>
+</concept>
+<concept code="306462007">
+<displayName lang="en" type="PT">Discharge by surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by surgeon (procedure)</displayName>
+</concept>
+<concept code="306463002">
+<displayName lang="en" type="PT">Discharge by breast surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by breast surgeon (procedure)</displayName>
+</concept>
+<concept code="306464008">
+<displayName lang="en" type="PT">Discharge by cardiothoracic surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by cardiothoracic surgeon (procedure)</displayName>
+</concept>
+<concept code="306465009">
+<displayName lang="en" type="PT">Discharge by thoracic surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by thoracic surgeon (procedure)</displayName>
+</concept>
+<concept code="306466005">
+<displayName lang="en" type="PT">Discharge by cardiac surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by cardiac surgeon (procedure)</displayName>
+</concept>
+<concept code="306467001">
+<displayName lang="en" type="PT">Discharge by dental surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by dental surgeon (procedure)</displayName>
+</concept>
+<concept code="306468006">
+<displayName lang="en" type="PT">Discharge by orthodontist</displayName>
+<displayName lang="en" type="FSN">Discharge by orthodontist (procedure)</displayName>
+</concept>
+<concept code="306469003">
+<displayName lang="en-GB" type="PT">Discharge by paediatric dentist</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric dentist (procedure)</displayName>
+</concept>
+<concept code="306470002">
+<displayName lang="en" type="PT">Discharge by restorative dentist</displayName>
+<displayName lang="en" type="FSN">Discharge by restorative dentist (procedure)</displayName>
+</concept>
+<concept code="306471003">
+<displayName lang="en" type="PT">Discharge by ear, nose and throat surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by ear, nose and throat surgeon (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by ENT surgeon</displayName>
+</concept>
+<concept code="306472005">
+<displayName lang="en" type="PT">Discharge by endocrine surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by endocrine surgeon (procedure)</displayName>
+</concept>
+<concept code="306473000">
+<displayName lang="en" type="PT">Discharge by gastrointestinal surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by gastrointestinal surgeon (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by GI surgeon</displayName>
+</concept>
+<concept code="306474006">
+<displayName lang="en" type="PT">Discharge by general gastrointestinal surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by general gastrointestinal surgeon (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by general GI surgeon</displayName>
+</concept>
+<concept code="306475007">
+<displayName lang="en" type="PT">Discharge by upper gastrointestinal surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by upper gastrointestinal surgeon (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by upper GI surgeon</displayName>
+</concept>
+<concept code="306476008">
+<displayName lang="en" type="PT">Discharge by colorectal surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by colorectal surgeon (procedure)</displayName>
+</concept>
+<concept code="306477004">
+<displayName lang="en" type="PT">Discharge by general surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by general surgeon (procedure)</displayName>
+</concept>
+<concept code="306478009">
+<displayName lang="en" type="PT">Discharge by hand surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by hand surgeon (procedure)</displayName>
+</concept>
+<concept code="306479001">
+<displayName lang="en" type="PT">Discharge by hepatobiliary surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by hepatobiliary surgeon (procedure)</displayName>
+</concept>
+<concept code="306480003">
+<displayName lang="en" type="PT">Discharge by neurosurgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by neurosurgeon (procedure)</displayName>
+</concept>
+<concept code="306481004">
+<displayName lang="en" type="PT">Discharge by ophthalmologist</displayName>
+<displayName lang="en" type="FSN">Discharge by ophthalmologist (procedure)</displayName>
+</concept>
+<concept code="306482006">
+<displayName lang="en" type="PT">Discharge by oral surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by oral surgeon (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by maxillofacial surgeon</displayName>
+</concept>
+<concept code="306483001">
+<displayName lang="en-GB" type="PT">Discharge by orthopaedic surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by orthopedic surgeon (procedure)</displayName>
+</concept>
+<concept code="306484007">
+<displayName lang="en-GB" type="PT">Discharge by paediatric surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric surgeon (procedure)</displayName>
+</concept>
+<concept code="306486009">
+<displayName lang="en" type="PT">Discharge by pancreatic surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by pancreatic surgeon (procedure)</displayName>
+</concept>
+<concept code="306487000">
+<displayName lang="en" type="PT">Discharge by plastic surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by plastic surgeon (procedure)</displayName>
+</concept>
+<concept code="306488005">
+<displayName lang="en" type="PT">Discharge by transplant surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by transplant surgeon (procedure)</displayName>
+</concept>
+<concept code="306489002">
+<displayName lang="en" type="PT">Discharge by trauma surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by trauma surgeon (procedure)</displayName>
+</concept>
+<concept code="306490006">
+<displayName lang="en" type="PT">Discharge by urologist</displayName>
+<displayName lang="en" type="FSN">Discharge by urologist (procedure)</displayName>
+</concept>
+<concept code="306491005">
+<displayName lang="en" type="PT">Discharge by vascular surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by vascular surgeon (procedure)</displayName>
+</concept>
+<concept code="306492003">
+<displayName lang="en" type="PT">Discharge by nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by nurse (procedure)</displayName>
+</concept>
+<concept code="306493008">
+<displayName lang="en" type="PT">Discharge by agency nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by agency nurse (procedure)</displayName>
+</concept>
+<concept code="306494002">
+<displayName lang="en" type="PT">Discharge by clinical nurse specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by clinical nurse specialist (procedure)</displayName>
+</concept>
+<concept code="306495001">
+<displayName lang="en" type="PT">Discharge by breast care nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by breast care nurse (procedure)</displayName>
+</concept>
+<concept code="306496000">
+<displayName lang="en" type="PT">Discharge by cardiac rehabilitation nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by cardiac rehabilitation nurse (procedure)</displayName>
+</concept>
+<concept code="306497009">
+<displayName lang="en" type="PT">Discharge by contact tracing nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by contact tracing nurse (procedure)</displayName>
+</concept>
+<concept code="306498004">
+<displayName lang="en" type="PT">Discharge by continence nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by continence nurse (procedure)</displayName>
+</concept>
+<concept code="306499007">
+<displayName lang="en" type="PT">Discharge by diabetic liaison nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by diabetic liaison nurse (procedure)</displayName>
+</concept>
+<concept code="306500003">
+<displayName lang="en" type="PT">Discharge by genitourinary nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by genitourinary nurse (procedure)</displayName>
+</concept>
+<concept code="306501004">
+<displayName lang="en-GB" type="PT">Discharge by lymphoedema care nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by lymphedema care nurse (procedure)</displayName>
+</concept>
+<concept code="306502006">
+<displayName lang="en-GB" type="PT">Discharge by nurse behavioural therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by nurse behavioral therapist (procedure)</displayName>
+</concept>
+<concept code="306503001">
+<displayName lang="en" type="PT">Discharge by nurse psychotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by nurse psychotherapist (procedure)</displayName>
+</concept>
+<concept code="306504007">
+<displayName lang="en" type="PT">Discharge by pain management nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by pain management nurse (procedure)</displayName>
+</concept>
+<concept code="306505008">
+<displayName lang="en-GB" type="PT">Discharge by paediatric nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by pediatric nurse (procedure)</displayName>
+</concept>
+<concept code="306506009">
+<displayName lang="en" type="PT">Discharge by psychiatric nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by psychiatric nurse (procedure)</displayName>
+</concept>
+<concept code="306507000">
+<displayName lang="en" type="PT">Discharge by oncology nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by oncology nurse (procedure)</displayName>
+</concept>
+<concept code="306508005">
+<displayName lang="en" type="PT">Discharge by rheumatology nurse specialist</displayName>
+<displayName lang="en" type="FSN">Discharge by rheumatology nurse specialist (procedure)</displayName>
+</concept>
+<concept code="306509002">
+<displayName lang="en" type="PT">Discharge by stoma nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by stoma nurse (procedure)</displayName>
+</concept>
+<concept code="306510007">
+<displayName lang="en" type="PT">Discharge by stomatherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by stomatherapist (procedure)</displayName>
+</concept>
+<concept code="306511006">
+<displayName lang="en" type="PT">Discharge by community-based nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based nurse (procedure)</displayName>
+</concept>
+<concept code="306512004">
+<displayName lang="en" type="PT">Discharge by community nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by community nurse (procedure)</displayName>
+</concept>
+<concept code="306513009">
+<displayName lang="en" type="PT">Discharge by community psychiatric nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by community psychiatric nurse (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by CPN</displayName>
+</concept>
+<concept code="306514003">
+<displayName lang="en" type="PT">Discharge by company nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by company nurse (procedure)</displayName>
+</concept>
+<concept code="306515002">
+<displayName lang="en" type="PT">Discharge by district nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by district nurse (procedure)</displayName>
+</concept>
+<concept code="306516001">
+<displayName lang="en" type="PT">Discharge by health visitor</displayName>
+<displayName lang="en" type="FSN">Discharge by health visitor (procedure)</displayName>
+</concept>
+<concept code="306517005">
+<displayName lang="en" type="PT">Discharge by practice nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by practice nurse (procedure)</displayName>
+</concept>
+<concept code="306518000">
+<displayName lang="en" type="PT">Discharge by liaison nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by liaison nurse (procedure)</displayName>
+</concept>
+<concept code="306519008">
+<displayName lang="en" type="PT">Discharge by nurse practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge by nurse practitioner (procedure)</displayName>
+</concept>
+<concept code="306520002">
+<displayName lang="en" type="PT">Discharge by outreach nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by outreach nurse (procedure)</displayName>
+</concept>
+<concept code="306521003">
+<displayName lang="en" type="PT">Discharge by research nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by research nurse (procedure)</displayName>
+</concept>
+<concept code="306522005">
+<displayName lang="en" type="PT">Discharge by midwife</displayName>
+<displayName lang="en" type="FSN">Discharge by midwife (procedure)</displayName>
+</concept>
+<concept code="306523000">
+<displayName lang="en" type="PT">Discharge by community-based midwife</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based midwife (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community midwife</displayName>
+</concept>
+<concept code="306524006">
+<displayName lang="en" type="PT">Discharge by hospital-based midwife</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based midwife (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital midwife</displayName>
+</concept>
+<concept code="306525007">
+<displayName lang="en" type="PT">Discharge by educational psychologist</displayName>
+<displayName lang="en" type="FSN">Discharge by educational psychologist (procedure)</displayName>
+</concept>
+<concept code="306526008">
+<displayName lang="en" type="PT">Discharge by psychotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by psychotherapist (procedure)</displayName>
+</concept>
+<concept code="306527004">
+<displayName lang="en" type="PT">Discharge by professional allied to medicine</displayName>
+<displayName lang="en" type="FSN">Discharge by professional allied to medicine (procedure)</displayName>
+</concept>
+<concept code="306528009">
+<displayName lang="en" type="PT">Discharge by arts therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by arts therapist (procedure)</displayName>
+</concept>
+<concept code="306530006">
+<displayName lang="en" type="PT">Discharge by dance therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by dance therapist (procedure)</displayName>
+</concept>
+<concept code="306531005">
+<displayName lang="en" type="PT">Discharge by drama therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by drama therapist (procedure)</displayName>
+</concept>
+<concept code="306532003">
+<displayName lang="en" type="PT">Discharge by music therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by music therapist (procedure)</displayName>
+</concept>
+<concept code="306533008">
+<displayName lang="en" type="PT">Discharge by play therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by play therapist (procedure)</displayName>
+</concept>
+<concept code="306534002">
+<displayName lang="en" type="PT">Discharge by audiologist</displayName>
+<displayName lang="en" type="FSN">Discharge by audiologist (procedure)</displayName>
+</concept>
+<concept code="306535001">
+<displayName lang="en" type="PT">Discharge by audiology technician</displayName>
+<displayName lang="en" type="FSN">Discharge by audiology technician (procedure)</displayName>
+</concept>
+<concept code="306536000">
+<displayName lang="en" type="PT">Discharge by podiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by podiatrist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by chiropodist</displayName>
+</concept>
+<concept code="306538004">
+<displayName lang="en" type="PT">Discharge by community-based podiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based podiatrist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community chiropodist</displayName>
+<displayName lang="en" type="SY">Discharge by community podiatrist</displayName>
+<displayName lang="en" type="SY">Discharge by community-based chiropodist</displayName>
+</concept>
+<concept code="306539007">
+<displayName lang="en" type="PT">Discharge by hospital-based podiatrist</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based podiatrist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital chiropodist</displayName>
+<displayName lang="en" type="SY">Discharge by hospital podiatrist</displayName>
+<displayName lang="en" type="SY">Discharge by hospital-based chiropodist</displayName>
+</concept>
+<concept code="306540009">
+<displayName lang="en" type="PT">Discharge by dietitian</displayName>
+<displayName lang="en" type="FSN">Discharge by dietitian (procedure)</displayName>
+</concept>
+<concept code="306541008">
+<displayName lang="en" type="PT">Discharge by hospital-based dietitian</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based dietitian (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital dietitian</displayName>
+</concept>
+<concept code="306542001">
+<displayName lang="en" type="PT">Discharge by community-based dietitian</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based dietitian (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community dietitian</displayName>
+</concept>
+<concept code="306543006">
+<displayName lang="en" type="PT">Discharge by occupational therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by occupational therapist (procedure)</displayName>
+</concept>
+<concept code="306544000">
+<displayName lang="en" type="PT">Discharge by community-based occupational therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based occupational therapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community occupational therapist</displayName>
+</concept>
+<concept code="306545004">
+<displayName lang="en" type="PT">Discharge by social services department occupational therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by social services department occupational therapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by SSD occupational therapist</displayName>
+</concept>
+<concept code="306546003">
+<displayName lang="en" type="PT">Discharge by hospital-based occupational therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based occupational therapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital occupational therapist</displayName>
+</concept>
+<concept code="306547007">
+<displayName lang="en" type="PT">Discharge by optometrist</displayName>
+<displayName lang="en" type="FSN">Discharge by optometrist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by optician</displayName>
+</concept>
+<concept code="306548002">
+<displayName lang="en" type="PT">Discharge by orthoptist</displayName>
+<displayName lang="en" type="FSN">Discharge by orthoptist (procedure)</displayName>
+</concept>
+<concept code="306549005">
+<displayName lang="en" type="PT">Discharge by orthotist</displayName>
+<displayName lang="en" type="FSN">Discharge by orthotist (procedure)</displayName>
+</concept>
+<concept code="306550005">
+<displayName lang="en" type="PT">Discharge by surgical fitter</displayName>
+<displayName lang="en" type="FSN">Discharge by surgical fitter (procedure)</displayName>
+</concept>
+<concept code="306551009">
+<displayName lang="en" type="PT">Discharge by physiotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by physiotherapist (procedure)</displayName>
+</concept>
+<concept code="306552002">
+<displayName lang="en" type="PT">Discharge by community-based physiotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based physiotherapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community physiotherapist</displayName>
+</concept>
+<concept code="306553007">
+<displayName lang="en" type="PT">Discharge by hospital-based physiotherapist</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based physiotherapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital physiotherapist</displayName>
+</concept>
+<concept code="306554001">
+<displayName lang="en" type="PT">Discharge by radiographer</displayName>
+<displayName lang="en" type="FSN">Discharge by radiographer (procedure)</displayName>
+</concept>
+<concept code="306555000">
+<displayName lang="en" type="PT">Discharge by diagnostic radiographer</displayName>
+<displayName lang="en" type="FSN">Discharge by diagnostic radiographer (procedure)</displayName>
+</concept>
+<concept code="306556004">
+<displayName lang="en" type="PT">Discharge by therapeutic radiographer</displayName>
+<displayName lang="en" type="FSN">Discharge by therapeutic radiographer (procedure)</displayName>
+</concept>
+<concept code="306557008">
+<displayName lang="en" type="PT">Discharge by speech and language therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by speech and language therapist (procedure)</displayName>
+</concept>
+<concept code="306558003">
+<displayName lang="en" type="PT">Discharge by community-based speech and language therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by community-based speech and language therapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by community speech and language therapist</displayName>
+</concept>
+<concept code="306559006">
+<displayName lang="en" type="PT">Discharge by hospital-based speech and language therapist</displayName>
+<displayName lang="en" type="FSN">Discharge by hospital-based speech and language therapist (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by hospital speech and language therapist</displayName>
+</concept>
+<concept code="306560001">
+<displayName lang="en" type="PT">Self-discharge</displayName>
+<displayName lang="en" type="FSN">Self-discharge (procedure)</displayName>
+<displayName lang="en" type="SY">Taking own discharge</displayName>
+</concept>
+<concept code="306561002">
+<displayName lang="en" type="PT">Discharge from establishment</displayName>
+<displayName lang="en" type="FSN">Discharge from establishment (procedure)</displayName>
+</concept>
+<concept code="306562009">
+<displayName lang="en" type="PT">Discharge from service</displayName>
+<displayName lang="en" type="FSN">Discharge from service (procedure)</displayName>
+</concept>
+<concept code="306563004">
+<displayName lang="en" type="PT">Discharge from Accident and Emergency service</displayName>
+<displayName lang="en" type="FSN">Discharge from Accident and Emergency service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from A &amp; E service</displayName>
+<displayName lang="en" type="SY">Discharge from casualty service</displayName>
+</concept>
+<concept code="306564005">
+<displayName lang="en-GB" type="PT">Discharge from anaesthetic service</displayName>
+<displayName lang="en" type="FSN">Discharge from anesthetic service (procedure)</displayName>
+</concept>
+<concept code="306565006">
+<displayName lang="en" type="PT">Discharge from clinical oncology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical oncology service (procedure)</displayName>
+</concept>
+<concept code="306566007">
+<displayName lang="en" type="PT">Discharge from radiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from radiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306567003">
+<displayName lang="en" type="PT">Discharge from family planning service</displayName>
+<displayName lang="en" type="FSN">Discharge from family planning service (procedure)</displayName>
+</concept>
+<concept code="306568008">
+<displayName lang="en" type="PT">Discharge from intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from intensive care service (procedure)</displayName>
+</concept>
+<concept code="306569000">
+<displayName lang="en" type="PT">Discharge from adult intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from adult intensive care service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from adult ITU service</displayName>
+</concept>
+<concept code="306570004">
+<displayName lang="en-GB" type="PT">Discharge from paediatric intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric intensive care service (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge from paediatric ITU</displayName>
+</concept>
+<concept code="306571000">
+<displayName lang="en" type="PT">Discharge from medical service</displayName>
+<displayName lang="en" type="FSN">Discharge from medical service (procedure)</displayName>
+</concept>
+<concept code="306572007">
+<displayName lang="en" type="PT">Discharge from clinical allergy service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical allergy service (procedure)</displayName>
+</concept>
+<concept code="306573002">
+<displayName lang="en" type="PT">Discharge from audiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from audiology service (procedure)</displayName>
+</concept>
+<concept code="306574008">
+<displayName lang="en" type="PT">Discharge from cardiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiology service (procedure)</displayName>
+</concept>
+<concept code="306575009">
+<displayName lang="en" type="PT">Discharge from chest medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from chest medicine service (procedure)</displayName>
+</concept>
+<concept code="306576005">
+<displayName lang="en" type="PT">Discharge from respiratory medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from respiratory medicine service (procedure)</displayName>
+</concept>
+<concept code="306577001">
+<displayName lang="en" type="PT">Discharge from thoracic medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from thoracic medicine service (procedure)</displayName>
+</concept>
+<concept code="306578006">
+<displayName lang="en" type="PT">Discharge from clinical immunology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical immunology service (procedure)</displayName>
+</concept>
+<concept code="306579003">
+<displayName lang="en" type="PT">Discharge from clinical neurophysiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical neurophysiology service (procedure)</displayName>
+</concept>
+<concept code="306580000">
+<displayName lang="en" type="PT">Discharge from clinical pharmacology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical pharmacology service (procedure)</displayName>
+</concept>
+<concept code="306581001">
+<displayName lang="en" type="PT">Discharge from clinical physiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical physiology service (procedure)</displayName>
+</concept>
+<concept code="306582008">
+<displayName lang="en" type="PT">Discharge from dermatology service</displayName>
+<displayName lang="en" type="FSN">Discharge from dermatology service (procedure)</displayName>
+</concept>
+<concept code="306583003">
+<displayName lang="en" type="PT">Discharge from endocrinology service</displayName>
+<displayName lang="en" type="FSN">Discharge from endocrinology service (procedure)</displayName>
+</concept>
+<concept code="306584009">
+<displayName lang="en" type="PT">Discharge from gastroenterology service</displayName>
+<displayName lang="en" type="FSN">Discharge from gastroenterology service (procedure)</displayName>
+</concept>
+<concept code="306585005">
+<displayName lang="en" type="PT">Discharge from general medical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general medical service (procedure)</displayName>
+</concept>
+<concept code="306586006">
+<displayName lang="en" type="PT">Discharge from genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from genetics service (procedure)</displayName>
+</concept>
+<concept code="306588007">
+<displayName lang="en" type="PT">Discharge from clinical genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical genetics service (procedure)</displayName>
+</concept>
+<concept code="306589004">
+<displayName lang="en" type="PT">Discharge from clinical cytogenetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical cytogenetics service (procedure)</displayName>
+</concept>
+<concept code="306590008">
+<displayName lang="en" type="PT">Discharge from clinical molecular genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical molecular genetics service (procedure)</displayName>
+</concept>
+<concept code="306591007">
+<displayName lang="en" type="PT">Discharge from genitourinary medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from genitourinary medicine service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from GU medicine service</displayName>
+<displayName lang="en" type="SY">Discharge from sexually transmittable diseases service</displayName>
+</concept>
+<concept code="306592000">
+<displayName lang="en" type="PT">Discharge from care of the elderly service</displayName>
+<displayName lang="en" type="FSN">Discharge from care of the elderly service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from geriatric medicine service</displayName>
+</concept>
+<concept code="306593005">
+<displayName lang="en" type="PT">Discharge from infectious diseases service</displayName>
+<displayName lang="en" type="FSN">Discharge from infectious diseases service (procedure)</displayName>
+</concept>
+<concept code="306594004">
+<displayName lang="en" type="PT">Discharge from nephrology service</displayName>
+<displayName lang="en" type="FSN">Discharge from nephrology service (procedure)</displayName>
+</concept>
+<concept code="306595003">
+<displayName lang="en" type="PT">Discharge from neurology service</displayName>
+<displayName lang="en" type="FSN">Discharge from neurology service (procedure)</displayName>
+</concept>
+<concept code="306596002">
+<displayName lang="en" type="PT">Discharge from nuclear medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from nuclear medicine service (procedure)</displayName>
+</concept>
+<concept code="306597006">
+<displayName lang="en" type="PT">Discharge from palliative care service</displayName>
+<displayName lang="en" type="FSN">Discharge from palliative care service (procedure)</displayName>
+</concept>
+<concept code="306598001">
+<displayName lang="en" type="PT">Discharge from rheumatology service</displayName>
+<displayName lang="en" type="FSN">Discharge from rheumatology service (procedure)</displayName>
+</concept>
+<concept code="306599009">
+<displayName lang="en-GB" type="PT">Discharge from paediatric service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric service (procedure)</displayName>
+</concept>
+<concept code="306600007">
+<displayName lang="en-GB" type="PT">Discharge from community paediatric service</displayName>
+<displayName lang="en" type="FSN">Discharge from community pediatric service (procedure)</displayName>
+</concept>
+<concept code="306601006">
+<displayName lang="en-GB" type="PT">Discharge from paediatric neurology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric neurology service (procedure)</displayName>
+</concept>
+<concept code="306602004">
+<displayName lang="en-GB" type="PT">Discharge from paediatric oncology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric oncology service (procedure)</displayName>
+</concept>
+<concept code="306603009">
+<displayName lang="en" type="PT">Discharge from special care baby service</displayName>
+<displayName lang="en" type="FSN">Discharge from special care baby service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from neonatal unit</displayName>
+<displayName lang="en" type="SY">Discharge from special care baby unit</displayName>
+</concept>
+<concept code="306604003">
+<displayName lang="en-GB" type="PT">Discharge from obstetrics and gynaecology service</displayName>
+<displayName lang="en" type="FSN">Discharge from obstetrics and gynecology service (procedure)</displayName>
+</concept>
+<concept code="306605002">
+<displayName lang="en" type="PT">Discharge from obstetrics service</displayName>
+<displayName lang="en" type="FSN">Discharge from obstetrics service (procedure)</displayName>
+</concept>
+<concept code="306606001">
+<displayName lang="en-GB" type="PT">Discharge from gynaecology service</displayName>
+<displayName lang="en" type="FSN">Discharge from gynecology service (procedure)</displayName>
+</concept>
+<concept code="306607005">
+<displayName lang="en" type="PT">Discharge from psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306608000">
+<displayName lang="en" type="PT">Discharge from child and adolescent psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from child and adolescent psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306609008">
+<displayName lang="en" type="PT">Discharge from forensic psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from forensic psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306610003">
+<displayName lang="en" type="PT">Discharge from liaison psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from liaison psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306611004">
+<displayName lang="en" type="PT">Discharge from mental handicap psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from mental handicap psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306612006">
+<displayName lang="en" type="PT">Discharge from psychogeriatrician service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychogeriatrician service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from elderly mentally ill service</displayName>
+<displayName lang="en" type="SY">Discharge from old age psychiatry service</displayName>
+</concept>
+<concept code="306613001">
+<displayName lang="en" type="PT">Discharge from rehabilitation psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from rehabilitation psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306614007">
+<displayName lang="en" type="PT">Discharge from pathology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pathology service (procedure)</displayName>
+</concept>
+<concept code="306615008">
+<displayName lang="en" type="PT">Discharge from blood transfusion service</displayName>
+<displayName lang="en" type="FSN">Discharge from blood transfusion service (procedure)</displayName>
+</concept>
+<concept code="306616009">
+<displayName lang="en" type="PT">Discharge from chemical pathology service</displayName>
+<displayName lang="en" type="FSN">Discharge from chemical pathology service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from clinical biochemistry service</displayName>
+</concept>
+<concept code="306617000">
+<displayName lang="en-GB" type="PT">Discharge from haematology service</displayName>
+<displayName lang="en" type="FSN">Discharge from hematology service (procedure)</displayName>
+</concept>
+<concept code="306618005">
+<displayName lang="en" type="PT">Discharge from pain management service</displayName>
+<displayName lang="en" type="FSN">Discharge from pain management service (procedure)</displayName>
+</concept>
+<concept code="306619002">
+<displayName lang="en" type="PT">Discharge from occupational health service</displayName>
+<displayName lang="en" type="FSN">Discharge from occupational health service (procedure)</displayName>
+</concept>
+<concept code="306620008">
+<displayName lang="en" type="PT">Discharge from psychotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychotherapy service (procedure)</displayName>
+</concept>
+<concept code="306621007">
+<displayName lang="en" type="PT">Discharge from professionals allied to medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from professionals allied to medicine service (procedure)</displayName>
+</concept>
+<concept code="306622000">
+<displayName lang="en" type="PT">Discharge from arts therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from arts therapy service (procedure)</displayName>
+</concept>
+<concept code="306623005">
+<displayName lang="en" type="PT">Discharge from podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from chiropody service</displayName>
+</concept>
+<concept code="306624004">
+<displayName lang="en" type="PT">Discharge from community podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from community podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from community chiropody service</displayName>
+</concept>
+<concept code="306625003">
+<displayName lang="en" type="PT">Discharge from hospital podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from hospital chiropody service</displayName>
+</concept>
+<concept code="306626002">
+<displayName lang="en" type="PT">Discharge from dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from dietetics service (procedure)</displayName>
+</concept>
+<concept code="306627006">
+<displayName lang="en" type="PT">Discharge from hospital dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital dietetics service (procedure)</displayName>
+</concept>
+<concept code="306628001">
+<displayName lang="en" type="PT">Discharge from community dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community dietetics service (procedure)</displayName>
+</concept>
+<concept code="306629009">
+<displayName lang="en" type="PT">Discharge from occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306630004">
+<displayName lang="en" type="PT">Discharge from hospital occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306631000">
+<displayName lang="en" type="PT">Discharge from community occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306632007">
+<displayName lang="en" type="PT">Discharge from orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306633002">
+<displayName lang="en" type="PT">Discharge from hospital orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306634008">
+<displayName lang="en" type="PT">Discharge from community orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306635009">
+<displayName lang="en" type="PT">Discharge from physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306636005">
+<displayName lang="en" type="PT">Discharge from hospital physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306637001">
+<displayName lang="en" type="PT">Discharge from community physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306638006">
+<displayName lang="en" type="PT">Discharge from speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306639003">
+<displayName lang="en" type="PT">Discharge from hospital speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306640001">
+<displayName lang="en" type="PT">Discharge from community speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306641002">
+<displayName lang="en" type="PT">Discharge from orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthotics service (procedure)</displayName>
+</concept>
+<concept code="306642009">
+<displayName lang="en" type="PT">Discharge from hospital orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital orthotics service (procedure)</displayName>
+</concept>
+<concept code="306643004">
+<displayName lang="en" type="PT">Discharge from community orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community orthotics service (procedure)</displayName>
+</concept>
+<concept code="306644005">
+<displayName lang="en" type="PT">Discharge from surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306645006">
+<displayName lang="en" type="PT">Discharge from hospital surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306646007">
+<displayName lang="en" type="PT">Discharge from community surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from community surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306647003">
+<displayName lang="en" type="PT">Discharge from radiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from radiology service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from X-ray service</displayName>
+</concept>
+<concept code="306648008">
+<displayName lang="en" type="PT">Discharge from surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from surgical service (procedure)</displayName>
+</concept>
+<concept code="306649000">
+<displayName lang="en" type="PT">Discharge from breast surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from breast surgery service (procedure)</displayName>
+</concept>
+<concept code="306650000">
+<displayName lang="en" type="PT">Discharge from cardiothoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiothoracic surgery service (procedure)</displayName>
+</concept>
+<concept code="306651001">
+<displayName lang="en" type="PT">Discharge from thoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from thoracic surgery service (procedure)</displayName>
+</concept>
+<concept code="306652008">
+<displayName lang="en" type="PT">Discharge from cardiac surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiac surgery service (procedure)</displayName>
+</concept>
+<concept code="306653003">
+<displayName lang="en" type="PT">Discharge from dental surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from dental surgery service (procedure)</displayName>
+</concept>
+<concept code="306654009">
+<displayName lang="en" type="PT">Discharge from orthodontics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthodontics service (procedure)</displayName>
+</concept>
+<concept code="306655005">
+<displayName lang="en-GB" type="PT">Discharge from paediatric dentistry service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric dentistry service (procedure)</displayName>
+</concept>
+<concept code="306656006">
+<displayName lang="en" type="PT">Discharge from restorative dentistry service</displayName>
+<displayName lang="en" type="FSN">Discharge from restorative dentistry service (procedure)</displayName>
+</concept>
+<concept code="306657002">
+<displayName lang="en" type="PT">Discharge from ear, nose and throat service</displayName>
+<displayName lang="en" type="FSN">Discharge from ear, nose and throat service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from ENT service</displayName>
+</concept>
+<concept code="306658007">
+<displayName lang="en" type="PT">Discharge from endocrine surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from endocrine surgery service (procedure)</displayName>
+</concept>
+<concept code="306659004">
+<displayName lang="en" type="PT">Discharge from gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from GI surgical service</displayName>
+</concept>
+<concept code="306660009">
+<displayName lang="en" type="PT">Discharge from general gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from general GI surgical service</displayName>
+</concept>
+<concept code="306661008">
+<displayName lang="en" type="PT">Discharge from upper gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from upper gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from upper GI surgical service</displayName>
+</concept>
+<concept code="306662001">
+<displayName lang="en" type="PT">Discharge from colorectal surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from colorectal surgery service (procedure)</displayName>
+</concept>
+<concept code="306663006">
+<displayName lang="en" type="PT">Discharge from general surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general surgical service (procedure)</displayName>
+</concept>
+<concept code="306664000">
+<displayName lang="en" type="PT">Discharge from hand surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from hand surgery service (procedure)</displayName>
+</concept>
+<concept code="306665004">
+<displayName lang="en" type="PT">Discharge from neurosurgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from neurosurgical service (procedure)</displayName>
+</concept>
+<concept code="306666003">
+<displayName lang="en" type="PT">Discharge from ophthalmology service</displayName>
+<displayName lang="en" type="FSN">Discharge from ophthalmology service (procedure)</displayName>
+</concept>
+<concept code="306667007">
+<displayName lang="en" type="PT">Discharge from oral surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from oral surgery service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from maxillofacial surgery service</displayName>
+</concept>
+<concept code="306668002">
+<displayName lang="en-GB" type="PT">Discharge from orthopaedic service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthopedic service (procedure)</displayName>
+</concept>
+<concept code="306669005">
+<displayName lang="en" type="PT">Discharge from pancreatic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from pancreatic surgery service (procedure)</displayName>
+</concept>
+<concept code="306670006">
+<displayName lang="en-GB" type="PT">Discharge from paediatric surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric surgical service (procedure)</displayName>
+</concept>
+<concept code="306671005">
+<displayName lang="en" type="PT">Discharge from plastic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from plastic surgery service (procedure)</displayName>
+</concept>
+<concept code="306672003">
+<displayName lang="en" type="PT">Discharge from transplant surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from transplant surgery service (procedure)</displayName>
+</concept>
+<concept code="306673008">
+<displayName lang="en" type="PT">Discharge from trauma service</displayName>
+<displayName lang="en" type="FSN">Discharge from trauma service (procedure)</displayName>
+</concept>
+<concept code="306674002">
+<displayName lang="en" type="PT">Discharge from urology service</displayName>
+<displayName lang="en" type="FSN">Discharge from urology service (procedure)</displayName>
+</concept>
+<concept code="306675001">
+<displayName lang="en" type="PT">Discharge from vascular surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from vascular surgery service (procedure)</displayName>
+</concept>
+<concept code="306676000">
+<displayName lang="en" type="PT">Discharge from hospice</displayName>
+<displayName lang="en" type="FSN">Discharge from hospice (procedure)</displayName>
+</concept>
+<concept code="306677009">
+<displayName lang="en" type="PT">Discharge from day hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from day hospital (procedure)</displayName>
+</concept>
+<concept code="306678004">
+<displayName lang="en" type="PT">Discharge from psychiatry day hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from psychiatry day hospital (procedure)</displayName>
+</concept>
+<concept code="306679007">
+<displayName lang="en" type="PT">Discharge from psychogeriatric day hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from psychogeriatric day hospital (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from elderly mentally ill day hospital</displayName>
+<displayName lang="en" type="SY">Discharge from old age psychiatry day hospital</displayName>
+</concept>
+<concept code="306680005">
+<displayName lang="en" type="PT">Discharge from care of the elderly day hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from care of the elderly day hospital (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from geriatric day hospital</displayName>
+</concept>
+<concept code="306681009">
+<displayName lang="en" type="PT">Discharge from hospice day hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from hospice day hospital (procedure)</displayName>
+</concept>
+<concept code="306682002">
+<displayName lang="en" type="PT">Discharge from ward</displayName>
+<displayName lang="en" type="FSN">Discharge from ward (procedure)</displayName>
+</concept>
+<concept code="306683007">
+<displayName lang="en" type="PT">Discharge from day ward</displayName>
+<displayName lang="en" type="FSN">Discharge from day ward (procedure)</displayName>
+</concept>
+<concept code="306684001">
+<displayName lang="en" type="PT">Case closure by social services department</displayName>
+<displayName lang="en" type="FSN">Case closure by social services department (procedure)</displayName>
+</concept>
+<concept code="306685000">
+<displayName lang="en" type="PT">Discharge to establishment</displayName>
+<displayName lang="en" type="FSN">Discharge to establishment (procedure)</displayName>
+</concept>
+<concept code="306689006">
+<displayName lang="en" type="PT">Discharge to home</displayName>
+<displayName lang="en" type="FSN">Discharge to home (procedure)</displayName>
+</concept>
+<concept code="306690002">
+<displayName lang="en" type="PT">Discharge to relative&apos;s home</displayName>
+<displayName lang="en" type="FSN">Discharge to relative&apos;s home (procedure)</displayName>
+</concept>
+<concept code="306691003">
+<displayName lang="en" type="PT">Discharge to residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to residential home (procedure)</displayName>
+</concept>
+<concept code="306692005">
+<displayName lang="en" type="PT">Discharge to private residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to private residential home (procedure)</displayName>
+</concept>
+<concept code="306693000">
+<displayName lang="en" type="PT">Discharge to part III residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to part III residential home (procedure)</displayName>
+</concept>
+<concept code="306694006">
+<displayName lang="en" type="PT">Discharge to nursing home</displayName>
+<displayName lang="en" type="FSN">Discharge to nursing home (procedure)</displayName>
+</concept>
+<concept code="306695007">
+<displayName lang="en" type="PT">Discharge to private nursing home</displayName>
+<displayName lang="en" type="FSN">Discharge to private nursing home (procedure)</displayName>
+</concept>
+<concept code="306696008">
+<displayName lang="en" type="PT">Discharge to part III accommodation</displayName>
+<displayName lang="en" type="FSN">Discharge to part III accommodation (procedure)</displayName>
+</concept>
+<concept code="306697004">
+<displayName lang="en" type="PT">Discharge to sheltered housing</displayName>
+<displayName lang="en" type="FSN">Discharge to sheltered housing (procedure)</displayName>
+</concept>
+<concept code="306698009">
+<displayName lang="en" type="PT">Discharge to warden controlled accommodation</displayName>
+<displayName lang="en" type="FSN">Discharge to warden controlled accommodation (procedure)</displayName>
+</concept>
+<concept code="306699001">
+<displayName lang="en" type="PT">Discharge to hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to hospital (procedure)</displayName>
+</concept>
+<concept code="306700000">
+<displayName lang="en" type="PT">Discharge to long stay hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to long stay hospital (procedure)</displayName>
+</concept>
+<concept code="306701001">
+<displayName lang="en" type="PT">Discharge to community hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to community hospital (procedure)</displayName>
+</concept>
+<concept code="306703003">
+<displayName lang="en" type="PT">Discharge to tertiary referral hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to tertiary referral hospital (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge to tertiary referral centre</displayName>
+</concept>
+<concept code="306705005">
+<displayName lang="en" type="PT">Discharge to police custody</displayName>
+<displayName lang="en" type="FSN">Discharge to police custody (procedure)</displayName>
+</concept>
+<concept code="306706006">
+<displayName lang="en" type="PT">Discharge to ward</displayName>
+<displayName lang="en" type="FSN">Discharge to ward (procedure)</displayName>
+</concept>
+<concept code="306707002">
+<displayName lang="en" type="PT">Discharge to day ward</displayName>
+<displayName lang="en" type="FSN">Discharge to day ward (procedure)</displayName>
+</concept>
+<concept code="306729003">
+<displayName lang="en" type="PT">Case closure by social worker</displayName>
+<displayName lang="en" type="FSN">Case closure by social worker (procedure)</displayName>
+</concept>
+<concept code="306733005">
+<displayName lang="en" type="PT">Discharge by general dental surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by general dental surgeon (procedure)</displayName>
+</concept>
+<concept code="306808003">
+<displayName lang="en" type="PT">Discharge from stroke service</displayName>
+<displayName lang="en" type="FSN">Discharge from stroke service (procedure)</displayName>
+</concept>
+<concept code="306809006">
+<displayName lang="en" type="PT">Discharge from young disabled service</displayName>
+<displayName lang="en" type="FSN">Discharge from young disabled service (procedure)</displayName>
+</concept>
+<concept code="306858005">
+<displayName lang="en" type="PT">Discharge by audiological physician</displayName>
+<displayName lang="en" type="FSN">Discharge by audiological physician (procedure)</displayName>
+</concept>
+<concept code="306862004">
+<displayName lang="en" type="PT">Discharge from dance therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from dance therapy service (procedure)</displayName>
+</concept>
+<concept code="306863009">
+<displayName lang="en" type="PT">Discharge from drama therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from drama therapy service (procedure)</displayName>
+</concept>
+<concept code="306864003">
+<displayName lang="en" type="PT">Discharge from music therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from music therapy service (procedure)</displayName>
+</concept>
+<concept code="307382004">
+<displayName lang="en" type="PT">Discharge from head injury rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from head injury rehabilitation service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from head injury rehabilitation</displayName>
+</concept>
+<concept code="307383009">
+<displayName lang="en" type="PT">Discharge from community rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from community rehabilitation service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from community rehabilitation</displayName>
+</concept>
+<concept code="307838002">
+<displayName lang="en" type="PT">Discharge by person</displayName>
+<displayName lang="en" type="FSN">Discharge by person (procedure)</displayName>
+</concept>
+<concept code="308018004">
+<displayName lang="en" type="PT">Discharge from rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from rehabilitation service (procedure)</displayName>
+</concept>
+<concept code="308283009">
+<displayName lang="en" type="PT">Discharge from hospital</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital (procedure)</displayName>
+</concept>
+<concept code="309568009">
+<displayName lang="en" type="PT">Delayed discharge - social services</displayName>
+<displayName lang="en" type="FSN">Delayed discharge - social services (procedure)</displayName>
+</concept>
+<concept code="310513006">
+<displayName lang="en" type="PT">Discharge by medical oncologist</displayName>
+<displayName lang="en" type="FSN">Discharge by medical oncologist (procedure)</displayName>
+</concept>
+<concept code="397821002">
+<displayName lang="en" type="PT">Patient transfer to intensive care unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to intensive care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer to ICU</displayName>
+</concept>
+<concept code="398068008">
+<displayName lang="en-GB" type="PT">Patient transfer to postoperative anaesthesia care unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to postoperative anesthesia care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer to PACU</displayName>
+</concept>
+<concept code="405807003">
+<displayName lang="en" type="PT">Discharge to convalescence</displayName>
+<displayName lang="en" type="FSN">Discharge to convalescence (procedure)</displayName>
+</concept>
+<concept code="406144005">
+<displayName lang="en" type="PT">Patient transfer to cardiac intensive care unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to cardiac intensive care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer to CICU</displayName>
+</concept>
+<concept code="413128002">
+<displayName lang="en" type="PT">Discharge from learning disability team</displayName>
+<displayName lang="en" type="FSN">Discharge from learning disability team (procedure)</displayName>
+</concept>
+<concept code="439141002">
+<displayName lang="en" type="PT">Discharge by mental health primary care worker</displayName>
+<displayName lang="en" type="FSN">Discharge by mental health primary care worker (procedure)</displayName>
+</concept>
+<concept code="443588004">
+<displayName lang="en" type="PT">Discharge by podiatric surgeon</displayName>
+<displayName lang="en" type="FSN">Discharge by podiatric surgeon (procedure)</displayName>
+</concept>
+<concept code="449214001">
+<displayName lang="en" type="PT">Transfer to stepdown unit</displayName>
+<displayName lang="en" type="FSN">Transfer to stepdown unit (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer to high dependency unit</displayName>
+<displayName lang="en" type="SY">Transfer to progressive care unit</displayName>
+</concept>
+<concept code="698512003">
+<displayName lang="en" type="PT">Patient transfer to neonatal unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to neonatal unit (procedure)</displayName>
+</concept>
+<concept code="700194007">
+<displayName lang="en" type="PT">Discharge from community care service</displayName>
+<displayName lang="en" type="FSN">Discharge from community care service (procedure)</displayName>
+</concept>
+<concept code="708252004">
+<displayName lang="en" type="PT">Discharge from virtual ward</displayName>
+<displayName lang="en" type="FSN">Discharge from virtual ward (procedure)</displayName>
+</concept>
+<concept code="711495003">
+<displayName lang="en" type="PT">Patient transfer to coronary care unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to coronary care unit (procedure)</displayName>
+</concept>
+<concept code="25131000000105">
+<displayName lang="en-GB" type="PT">Discharge from intermediate care</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from intermediate care (procedure)</displayName>
+</concept>
+<concept code="25241000000106">
+<displayName lang="en-GB" type="PT">Discharge from care</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care (procedure)</displayName>
+</concept>
+<concept code="88861000000105">
+<displayName lang="en-GB" type="PT">Discharge from care against professional advice</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care against professional advice (procedure)</displayName>
+</concept>
+<concept code="88881000000101">
+<displayName lang="en-GB" type="PT">Discharge from care in accordance with professional advice</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care in accordance with professional advice (procedure)</displayName>
+</concept>
+<concept code="166541000000100">
+<displayName lang="en-GB" type="PT">Supervised discharge (Mental Health Act 1995)</displayName>
+<displayName lang="en-GB" type="FSN">Supervised discharge (Mental Health Act 1995) (regime/therapy)</displayName>
+<displayName lang="en-GB" type="SY">Aftercare under Supervision (Mental Health Act 1995)</displayName>
+<displayName lang="en-GB" type="SY">Supervised discharge</displayName>
+</concept>
+<concept code="200201000000101">
+<displayName lang="en-GB" type="PT">Discharge from practice nurse heart failure clinic</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from practice nurse heart failure clinic (procedure)</displayName>
+</concept>
+<concept code="239531000000108">
+<displayName lang="en" type="PT">Patient transfer from hospital to hospital</displayName>
+<displayName lang="en" type="FSN">Patient transfer from hospital to hospital (procedure)</displayName>
+</concept>
+<concept code="239541000000104">
+<displayName lang="en" type="PT">Patient transfer to nursing home</displayName>
+<displayName lang="en" type="FSN">Patient transfer to nursing home (procedure)</displayName>
+</concept>
+<concept code="239551000000101">
+<displayName lang="en" type="PT">Patient transfer to outpatient department</displayName>
+<displayName lang="en" type="FSN">Patient transfer to outpatient department (procedure)</displayName>
+</concept>
+<concept code="239561000000103">
+<displayName lang="en" type="PT">Patient transfer to private home</displayName>
+<displayName lang="en" type="FSN">Patient transfer to private home (procedure)</displayName>
+</concept>
+<concept code="239571000000105">
+<displayName lang="en" type="PT">Patient transfer to psychiatric unit</displayName>
+<displayName lang="en" type="FSN">Patient transfer to psychiatric unit (procedure)</displayName>
+</concept>
+<concept code="239581000000107">
+<displayName lang="en" type="PT">Patient transfer to residential home</displayName>
+<displayName lang="en" type="FSN">Patient transfer to residential home (procedure)</displayName>
+</concept>
+<concept code="247181000000106">
+<displayName lang="en" type="PT">In-house counselling discharge</displayName>
+<displayName lang="en" type="FSN">In-house counselling discharge (procedure)</displayName>
+</concept>
+<concept code="247211000000107">
+<displayName lang="en" type="PT">In-house podiatry discharge</displayName>
+<displayName lang="en" type="FSN">In-house podiatry discharge (procedure)</displayName>
+<displayName lang="en" type="SY">In-house chiropody discharge</displayName>
+</concept>
+<concept code="247241000000108">
+<displayName lang="en" type="PT">In-house ophthalmology discharge</displayName>
+<displayName lang="en" type="FSN">In-house ophthalmology discharge (procedure)</displayName>
+</concept>
+<concept code="247281000000100">
+<displayName lang="en" type="PT">In-house ultrasound discharge</displayName>
+<displayName lang="en" type="FSN">In-house ultrasound discharge (procedure)</displayName>
+</concept>
+<concept code="247491000000102">
+<displayName lang="en" type="PT">In-house physiotherapy discharge</displayName>
+<displayName lang="en" type="FSN">In-house physiotherapy discharge (procedure)</displayName>
+</concept>
+<concept code="248961000000103">
+<displayName lang="en" type="PT">In-house psychiatry discharge</displayName>
+<displayName lang="en" type="FSN">In-house psychiatry discharge (procedure)</displayName>
+</concept>
+<concept code="307451000000109">
+<displayName lang="en" type="PT">Discharge by general practitioner with special interest</displayName>
+<displayName lang="en" type="FSN">Discharge by general practitioner with special interest (procedure)</displayName>
+<displayName lang="en" type="SY">Discharged by GP (general practitioner) with special interest</displayName>
+<displayName lang="en" type="SY">Discharged by GPwSI (general practitioner with special interest)</displayName>
+</concept>
+<concept code="342691000000109">
+<displayName lang="en" type="PT">Supervised discharge under section 25a of Mental Health Act 1995 (England and Wales)</displayName>
+<displayName lang="en" type="FSN">Supervised discharge under section 25a of Mental Health Act 1995 (England and Wales) (regime/therapy)</displayName>
+</concept>
+<concept code="343221000000104">
+<displayName lang="en" type="PT">Discharged by mental health primary care worker</displayName>
+<displayName lang="en" type="FSN">Discharged by mental health primary care worker (procedure)</displayName>
+</concept>
+<concept code="343961000000102">
+<displayName lang="en" type="PT">Facilitated early discharge from hospital</displayName>
+<displayName lang="en" type="FSN">Facilitated early discharge from hospital (procedure)</displayName>
+</concept>
+<concept code="376731000000101">
+<displayName lang="en" type="PT">In-house urology discharge</displayName>
+<displayName lang="en" type="FSN">In-house urology discharge (procedure)</displayName>
+</concept>
+<concept code="376921000000100">
+<displayName lang="en" type="PT">In-house rheumatology discharge</displayName>
+<displayName lang="en" type="FSN">In-house rheumatology discharge (procedure)</displayName>
+</concept>
+<concept code="401751000000103">
+<displayName lang="en" type="PT">Discharge by general practice registrar</displayName>
+<displayName lang="en" type="FSN">Discharge by general practice registrar (procedure)</displayName>
+</concept>
+<concept code="424191000000103">
+<displayName lang="en" type="PT">Discharge by co-operative GP (general practitioner)</displayName>
+<displayName lang="en" type="FSN">Discharge by co-operative general practitioner (procedure)</displayName>
+</concept>
+<concept code="431341000000109">
+<displayName lang="en-GB" type="PT">Discharge by deputising general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge by deputising general practitioner (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge by deputising GP (general practitioner)</displayName>
+</concept>
+<concept code="443291000000109">
+<displayName lang="en" type="PT">Discharge by associate general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge by associate general practitioner (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge by associate GP (general practitioner)</displayName>
+</concept>
+<concept code="455271000000109">
+<displayName lang="en" type="PT">Discharge by assistant general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge by assistant general practitioner (procedure)</displayName>
+</concept>
+<concept code="466881000000106">
+<displayName lang="en" type="PT">Discharge by locum general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge by locum general practitioner (procedure)</displayName>
+</concept>
+<concept code="765661000000102">
+<displayName lang="en" type="PT">Discharge from heart failure nurse service</displayName>
+<displayName lang="en" type="FSN">Discharge from heart failure nurse service (procedure)</displayName>
+</concept>
+<concept code="782351000000102">
+<displayName lang="en" type="PT">Discharge from primary healthcare team</displayName>
+<displayName lang="en" type="FSN">Discharge from primary healthcare team (procedure)</displayName>
+</concept>
+<concept code="787801000000108">
+<displayName lang="en" type="PT">In-house genitourinary medicine discharge</displayName>
+<displayName lang="en" type="FSN">In-house genitourinary medicine discharge (procedure)</displayName>
+</concept>
+<concept code="790241000000105">
+<displayName lang="en" type="PT">Discharge from care following non-attendance</displayName>
+<displayName lang="en" type="FSN">Discharge from care following non-attendance (procedure)</displayName>
+</concept>
+<concept code="791881000000107">
+<displayName lang="en" type="PT">Transfer to neonatal unit</displayName>
+<displayName lang="en" type="FSN">Transfer to neonatal unit (procedure)</displayName>
+</concept>
+<concept code="818361000000102">
+<displayName lang="en" type="PT">Discharge from community specialist palliative care</displayName>
+<displayName lang="en" type="FSN">Discharge from community specialist palliative care (procedure)</displayName>
+</concept>
+<concept code="818941000000102">
+<displayName lang="en" type="PT">Discharge from advanced primary nurse care</displayName>
+<displayName lang="en" type="FSN">Discharge from advanced primary nurse care (procedure)</displayName>
+</concept>
+<concept code="823851000000105">
+<displayName lang="en" type="PT">Discharge from hospital admission prevention service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital admission prevention service (procedure)</displayName>
+</concept>
+<concept code="839361000000103">
+<displayName lang="en" type="PT">Discharge from family nurse partnership team</displayName>
+<displayName lang="en" type="FSN">Discharge from family nurse partnership team (procedure)</displayName>
+</concept>
+<concept code="839721000000107">
+<displayName lang="en" type="PT">Discharge from in-house cardiology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house cardiology (procedure)</displayName>
+</concept>
+<concept code="839731000000109">
+<displayName lang="en" type="PT">Discharge from in-house dermatology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house dermatology (procedure)</displayName>
+</concept>
+<concept code="839741000000100">
+<displayName lang="en" type="PT">Discharge from in-house ear, nose and throat service</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house ear, nose and throat service (procedure)</displayName>
+<displayName lang="en" type="SY">In-house ENT (ear, nose, throat) discharge</displayName>
+</concept>
+<concept code="839751000000102">
+<displayName lang="en" type="PT">Discharge from in-house gynaecology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house gynaecology (procedure)</displayName>
+</concept>
+<concept code="839761000000104">
+<displayName lang="en" type="PT">Discharge from in-house orthopaedic service</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house orthopaedic service (procedure)</displayName>
+</concept>
+<concept code="845871000000102">
+<displayName lang="en" type="PT">Discharge from cancer primary healthcare multidisciplinary team</displayName>
+<displayName lang="en" type="FSN">Discharge from cancer primary healthcare multidisciplinary team (procedure)</displayName>
+</concept>
+<concept code="845911000000100">
+<displayName lang="en" type="PT">Discharge from voluntary service</displayName>
+<displayName lang="en" type="FSN">Discharge from voluntary service (procedure)</displayName>
+</concept>
+<concept code="845971000000105">
+<displayName lang="en" type="PT">Discharge from Social Services</displayName>
+<displayName lang="en" type="FSN">Discharge from Social Services (procedure)</displayName>
+</concept>
+<concept code="846061000000107">
+<displayName lang="en" type="PT">Discharge from community respiratory team</displayName>
+<displayName lang="en" type="FSN">Discharge from community respiratory team (procedure)</displayName>
+</concept>
+<concept code="846401000000101">
+<displayName lang="en" type="PT">Discharge by Macmillan nurse</displayName>
+<displayName lang="en" type="FSN">Discharge by Macmillan nurse (procedure)</displayName>
+</concept>
+<concept code="859381000000108">
+<displayName lang="en" type="PT">Discharge from mental health inreach service</displayName>
+<displayName lang="en" type="FSN">Discharge from mental health inreach service (procedure)</displayName>
+</concept>
+<concept code="862471000000100">
+<displayName lang="en" type="PT">Discharge from high dependency unit</displayName>
+<displayName lang="en" type="FSN">Discharge from high dependency unit (procedure)</displayName>
+</concept>
+<concept code="863371000000103">
+<displayName lang="en" type="PT">Transfer to high dependency unit</displayName>
+<displayName lang="en" type="FSN">Transfer to high dependency unit (procedure)</displayName>
+<displayName lang="en" type="SY">Transfer to HDU (high dependency unit)</displayName>
+</concept>
+<concept code="869781000000103">
+<displayName lang="en" type="PT">Discharge by psychologist</displayName>
+<displayName lang="en" type="FSN">Discharge by psychologist (procedure)</displayName>
+</concept>
+<concept code="870761000000105">
+<displayName lang="en" type="PT">Discharge from in-house diabetic foot screening</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house diabetic foot screening (procedure)</displayName>
+</concept>
+<concept code="870791000000104">
+<displayName lang="en" type="PT">Discharge from child and adolescent mental health service</displayName>
+<displayName lang="en" type="FSN">Discharge from child and adolescent mental health service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from CAMHS (child and adolescent mental health service)</displayName>
+</concept>
+<concept code="885581000000106">
+<displayName lang="en" type="PT">Discharge from school medical centre</displayName>
+<displayName lang="en" type="FSN">Discharge from school medical centre (procedure)</displayName>
+</concept>
+<concept code="898811000000106">
+<displayName lang="en" type="PT">Discharge from homeless advocacy service</displayName>
+<displayName lang="en" type="FSN">Discharge from homeless advocacy service (procedure)</displayName>
+</concept>
+<concept code="910491000000108">
+<displayName lang="en" type="PT">Transfer to maternal fetal medicine service</displayName>
+<displayName lang="en" type="FSN">Transfer to maternal fetal medicine service (procedure)</displayName>
+</concept>
+<concept code="927821000000100">
+<displayName lang="en" type="PT">Discharge from secondary care diabetes service</displayName>
+<displayName lang="en" type="FSN">Discharge from secondary care diabetes service (procedure)</displayName>
+</concept>
+<concept code="989501000000106">
+<displayName lang="en" type="PT">Discharge from Accident and Emergency service with advice for follow up treatment by general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge from Accident and Emergency service with advice for follow up treatment by general practitioner (procedure)</displayName>
+</concept>
+</vocabulary>

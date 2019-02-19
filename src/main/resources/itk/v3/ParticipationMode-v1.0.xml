@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ParticipationMode" version="1.0" status="active"
+            id="2.16.840.1.113883.5.1064">
+   <Description>
+            <p>
+               <p>The mode in which the participant took part in the act.</p>
+               <p>Examples: Physically present, over the telephone, written communication. </p>
+            </p>
+         </Description>
+   <concept code="TYPEWRIT">
+      <displayName>typewritten</displayName>
+   </concept>
+   <concept code="PHYSICAL">
+      <displayName>physical presence</displayName>
+   </concept>
+   <concept code="REMOTE">
+      <displayName>remote presence</displayName>
+   </concept>
+   <concept code="HANDWRIT">
+      <displayName>handwritten</displayName>
+   </concept>
+   <concept code="PHONE">
+      <displayName>telephone</displayName>
+   </concept>
+   <concept code="FAXWRIT">
+      <displayName>telefax</displayName>
+   </concept>
+   <concept code="DICTATE">
+      <displayName>dictated</displayName>
+   </concept>
+   <concept code="EMAILWRIT">
+      <displayName>email</displayName>
+   </concept>
+   <concept code="FACE">
+      <displayName>face-to-face</displayName>
+   </concept>
+   <concept code="ELECTRONIC">
+      <displayName>electronic data</displayName>
+   </concept>
+   <concept code="VERBAL">
+      <displayName>verbal</displayName>
+   </concept>
+   <concept code="VIDEOCONF">
+      <displayName>videoconferencing</displayName>
+   </concept>
+   <concept code="WRITTEN">
+      <displayName>written</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispenseClaimMessageType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.112">
+   <Description>
+            <p>Identifies the type and version of Dispense Claim Information message.</p>
+         </Description>
+   <concept code="PORX_MT142001UK05">
+      <displayName>Dispense Claim Information Message PORX_MT142001UK05</displayName>
+   </concept>
+   <concept code="PORX_MT142001UK30">
+      <displayName>Dispense Claim Information Message PORX_MT142001UK30</displayName>
+   </concept>
+   <concept code="PORX_MT142001UK31">
+      <displayName>Dispense Claim Information Message PORX_MT142001UK31</displayName>
+   </concept>
+</vocabulary>

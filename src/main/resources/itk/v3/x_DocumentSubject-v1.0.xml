@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_DocumentSubject" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.19368">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe type of subject of a document.</p>
+         </Description>
+   <concept code="PAT">
+      <displayName>patient</displayName>
+   </concept>
+   <concept code="PRS">
+      <displayName>personal relationship</displayName>
+   </concept>
+</vocabulary>

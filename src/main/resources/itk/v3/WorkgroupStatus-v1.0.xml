@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="WorkgroupStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.184">
+   <Description>
+            <p>Indicates information about the status of a workgroup.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Open</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Frozen</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Closed</displayName>
+   </concept>
+</vocabulary>

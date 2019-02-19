@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Do not attempt cardiopulmonary resuscitation preference findings" type="Realm Concept" setId="67221000000136" version="3" id="47711000000134" refId="999002191000000107" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="450475007">
+<displayName lang="en" type="PT">For cardiopulmonary resuscitation</displayName>
+<displayName lang="en" type="FSN">For cardiopulmonary resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">For attempted cardiopulmonary resuscitation</displayName>
+</concept>
+<concept code="450476008">
+<displayName lang="en" type="PT">Not for cardiopulmonary resuscitation</displayName>
+<displayName lang="en" type="FSN">Not for cardiopulmonary resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">Not for attempted cardiopulmonary resuscitation</displayName>
+</concept>
+</vocabulary>

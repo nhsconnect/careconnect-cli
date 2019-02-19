@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAObservationType" version="8.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.220">
+   <Description>
+            <p>A set of codes to identify observation type used in the CDA domains.</p>
+         </Description>
+   <concept code="RAF">
+      <displayName>ReAdmission Flag</displayName>
+   </concept>
+   <concept code="LAR">
+      <displayName>Last Assessment Review</displayName>
+   </concept>
+   <concept code="PAR">
+      <displayName>Planned Assessment Review</displayName>
+   </concept>
+   <concept code="CPF">
+      <displayName>Copy Provided Flag</displayName>
+   </concept>
+   <concept code="CPA">
+      <displayName>Care Plan Agreement</displayName>
+   </concept>
+   <concept code="CPED">
+      <displayName>Component Planned End Date</displayName>
+   </concept>
+   <concept code="NCR">
+      <displayName>Next Component Review</displayName>
+   </concept>
+   <concept code="LCR">
+      <displayName>Last Component Review</displayName>
+   </concept>
+   <concept code="CAFIS">
+      <displayName>CAF Information Set</displayName>
+   </concept>
+   <concept code="CTHT">
+      <displayName>Component Text Heading Type</displayName>
+   </concept>
+   <concept code="EDD">
+      <displayName>Estimated Discharge Date</displayName>
+   </concept>
+   <concept code="LCPR">
+      <displayName>Last Care Plan Review</displayName>
+   </concept>
+   <concept code="NCPR">
+      <displayName>Next Care Plan Review</displayName>
+   </concept>
+   <concept code="THT">
+      <displayName>Text Heading Type</displayName>
+   </concept>
+   <concept code="PDR">
+      <displayName>Procedure Date Reported</displayName>
+   </concept>
+   <concept code="DIRS">
+      <displayName>DI Report Status</displayName>
+   </concept>
+   <concept code="DIUI">
+      <displayName>Diagnostic Imaging Urgency Indicator</displayName>
+   </concept>
+   <concept code="NMHATD">
+      <displayName>Next Mental Health Act Tribunal Date</displayName>
+   </concept>
+   <concept code="ARRE">
+      <displayName>At Risk Register Entry</displayName>
+   </concept>
+   <concept code="PRC">
+      <displayName>ProtectionRegisterCategory</displayName>
+   </concept>
+   <concept code="CPDCFR">
+      <displayName>Care Process Date Commenced or First Review</displayName>
+   </concept>
+   <concept code="CPDCMRR">
+      <displayName>Care Process Date Concluded or Most Recent Review</displayName>
+   </concept>
+   <concept code="CPAD">
+      <displayName>Care Process Administration</displayName>
+   </concept>
+   <concept code="CRA">
+      <displayName>Care Review Administration</displayName>
+   </concept>
+   <concept code="CPDOPR">
+      <displayName>Care Process Date of Previous Review</displayName>
+   </concept>
+   <concept code="CPDONPR">
+      <displayName>Care Process Date of Next Planned Review</displayName>
+   </concept>
+   <concept code="OEAWP">
+      <displayName>Other Entity Associated With Patient</displayName>
+   </concept>
+   <concept code="CRS">
+      <displayName>Care Review Status</displayName>
+   </concept>
+   <concept code="SF">
+      <displayName>Sampling Frequency</displayName>
+   </concept>
+   <concept code="DMRPQ">
+      <displayName>Device Measurement Range Physical Quantity</displayName>
+   </concept>
+   <concept code="DMRST">
+      <displayName>Device Measurement Range String</displayName>
+   </concept>
+   <concept code="DRPQ">
+      <displayName>Device Resolution Physical Quantity</displayName>
+   </concept>
+   <concept code="DRST">
+      <displayName>Device Resolution String</displayName>
+   </concept>
+   <concept code="DAPQ">
+      <displayName>Device Accuracy Physical Quantity</displayName>
+   </concept>
+   <concept code="DAST">
+      <displayName>Device Accuracy String</displayName>
+   </concept>
+   <concept code="WSPO">
+      <displayName>Waveform Sample Period Observation</displayName>
+   </concept>
+   <concept code="TESOBS">
+      <displayName>Test Result Observation Series</displayName>
+   </concept>
+   <concept code="BPOBS">
+      <displayName>Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="BMIOBS">
+      <displayName>BMI Observation Series</displayName>
+   </concept>
+   <concept code="MBPOBS">
+      <displayName>Mean Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="TEMOBS">
+      <displayName>Temperature Observation Series</displayName>
+   </concept>
+   <concept code="HOBS">
+      <displayName>Height Observation Series</displayName>
+   </concept>
+   <concept code="WOBS">
+      <displayName>Weight Observation Series</displayName>
+   </concept>
+   <concept code="PULOBS">
+      <displayName>Pulse Observation Series</displayName>
+   </concept>
+   <concept code="THR">
+      <displayName>Threshold</displayName>
+   </concept>
+   <concept code="THRR">
+      <displayName>Threshold Rate</displayName>
+   </concept>
+   <concept code="DSTO">
+      <displayName>DST Outcome</displayName>
+   </concept>
+   <concept code="CO">
+      <displayName>Checklist Outcome</displayName>
+   </concept>
+   <concept code="CHCRS">
+      <displayName>CHC Referral Status</displayName>
+   </concept>
+   <concept code="DSTEO">
+      <displayName>DST Eligibility Outcome</displayName>
+   </concept>
+   <concept code="DDEF">
+      <displayName>Device Definition</displayName>
+   </concept>
+   <concept code="BCOBSSER">
+      <displayName>Blood Coagulation Observation Series</displayName>
+   </concept>
+   <concept code="BGOBSSER">
+      <displayName>Blood Glucose Observation Series</displayName>
+   </concept>
+   <concept code="BPOBSSER">
+      <displayName>Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="BMIOBSSER">
+      <displayName>Body Mass Index Observation Series</displayName>
+   </concept>
+   <concept code="BTOBSSER">
+      <displayName>Body Temperature Observation Series</displayName>
+   </concept>
+   <concept code="CMOBSSER">
+      <displayName>Carbon Monoxide Observation Series</displayName>
+   </concept>
+   <concept code="COBSSER">
+      <displayName>Cholesterol Observation Series</displayName>
+   </concept>
+   <concept code="FEVOBSSER">
+      <displayName>Forced Expiratory Volume of an Observation Series</displayName>
+   </concept>
+   <concept code="FVCOBSSER">
+      <displayName>Forced Vital Capacity Observation Series</displayName>
+   </concept>
+   <concept code="HOBSSER">
+      <displayName>Height Observation Series.</displayName>
+   </concept>
+   <concept code="MBPOBSSER">
+      <displayName>Mean Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="OSOBSSER">
+      <displayName>Oxygen Saturation Observation Series</displayName>
+   </concept>
+   <concept code="PFOBSSER">
+      <displayName>Peak Flow Observation Series</displayName>
+   </concept>
+   <concept code="PROBSSER">
+      <displayName>Pulse Rate Observation Series</displayName>
+   </concept>
+   <concept code="TOBSSER">
+      <displayName>Triglycerides Observation Series</displayName>
+   </concept>
+   <concept code="WOBSSER">
+      <displayName>Weight Observation Series</displayName>
+   </concept>
+   <concept code="THRI">
+      <displayName>Threshold Interpretation</displayName>
+   </concept>
+   <concept code="BPTHR">
+      <displayName>Blood Pressure Threshold</displayName>
+   </concept>
+   <concept code="WTHR">
+      <displayName>Weight Threshold</displayName>
+   </concept>
+   <concept code="PRTHR">
+      <displayName>Pulse Rate Threshold</displayName>
+   </concept>
+   <concept code="MBPTHR">
+      <displayName>Mean Blood Pressure Threshold</displayName>
+   </concept>
+   <concept code="BGTHR">
+      <displayName>Blood Glucose Threshold</displayName>
+   </concept>
+   <concept code="PFTHR">
+      <displayName>Peak Flow Threshold</displayName>
+   </concept>
+   <concept code="FVCTHR">
+      <displayName>Forced Vital Capacity Threshold</displayName>
+   </concept>
+   <concept code="BTTHR">
+      <displayName>Body Temperature Threshold</displayName>
+   </concept>
+   <concept code="BMITHR">
+      <displayName>Body Mass Index Threshold</displayName>
+   </concept>
+   <concept code="FEVTHR">
+      <displayName>FEV Threshold</displayName>
+   </concept>
+   <concept code="TTHR">
+      <displayName>Triglycerides Threshold</displayName>
+   </concept>
+   <concept code="CTHR">
+      <displayName>Cholesterol Threshold</displayName>
+   </concept>
+   <concept code="OSTHR">
+      <displayName>Oxygen Saturation Threshold</displayName>
+   </concept>
+   <concept code="CMTHR">
+      <displayName>Carbon Monoxide Threshold</displayName>
+   </concept>
+   <concept code="PTTHR">
+      <displayName>Prothrombin Time Threshold</displayName>
+   </concept>
+   <concept code="APTTTHR">
+      <displayName>Activated Partial Thromboplastin Time Threshold</displayName>
+   </concept>
+   <concept code="CSOBS">
+      <displayName>Cuff Size Observation</displayName>
+   </concept>
+   <concept code="GA">
+      <displayName>Gestational age</displayName>
+   </concept>
+   <concept code="HUO">
+      <displayName>Hips ultra sound outcome decision</displayName>
+   </concept>
+   <concept code="EMP">
+      <displayName>Expert management plan</displayName>
+   </concept>
+   <concept code="SCROT">
+      <displayName>Systolic rate of change threshold</displayName>
+   </concept>
+   <concept code="DROCT">
+      <displayName>Diastolic rate of change threshold</displayName>
+   </concept>
+   <concept code="APTTROCT">
+      <displayName>APTT rate of change threshold</displayName>
+   </concept>
+   <concept code="BGROCT">
+      <displayName>Blood glucose rate of change threshold</displayName>
+   </concept>
+   <concept code="BMIROCT">
+      <displayName>Body mass index rate of change threshold</displayName>
+   </concept>
+   <concept code="BTROCT">
+      <displayName>Body temperature rate of change threshold</displayName>
+   </concept>
+   <concept code="CMROCT">
+      <displayName>Carbon monoxide rate of change threshold</displayName>
+   </concept>
+   <concept code="CROCT">
+      <displayName>Cholesterol rate of change threshold</displayName>
+   </concept>
+   <concept code="FEVROCT">
+      <displayName>FEV rate of change threshold</displayName>
+   </concept>
+   <concept code="FVCROCT">
+      <displayName>Forced vital capacity rate of change threshold</displayName>
+   </concept>
+   <concept code="MBPROCT">
+      <displayName>Mean blood pressure rate of change threshold</displayName>
+   </concept>
+   <concept code="OSROCT">
+      <displayName>Oxygen saturation rate of change threshold</displayName>
+   </concept>
+   <concept code="PFROCT">
+      <displayName>Peak flow rate of change</displayName>
+   </concept>
+   <concept code="PTROCT">
+      <displayName>Prothrombin time rate of change threshold</displayName>
+   </concept>
+   <concept code="PRROCT">
+      <displayName>Pulse rate rate of change threshold</displayName>
+   </concept>
+   <concept code="TROCT">
+      <displayName>Triglycerides rate of change threshold</displayName>
+   </concept>
+   <concept code="WROCT">
+      <displayName>Weight rate of change threshold</displayName>
+   </concept>
+   <concept code="TFT">
+      <displayName>Telehealth finding type</displayName>
+   </concept>
+   <concept code="ART">
+      <displayName>Alert reason text</displayName>
+   </concept>
+   <concept code="BV">
+      <displayName>Base value</displayName>
+   </concept>
+   <concept code="THP">
+      <displayName>Telehealth Plan</displayName>
+   </concept>
+   <concept code="THPNR">
+      <displayName>Telehealth Plan Next Review</displayName>
+   </concept>
+   <concept code="THVSMF">
+      <displayName>Telehealth Vital Signs Monitoring Frequency</displayName>
+   </concept>
+   <concept code="THVSMFT">
+      <displayName>Telehealth Vital Signs Monitoring Frequency Text</displayName>
+   </concept>
+   <concept code="THMD">
+      <displayName>Telehealth Monitoring Duration</displayName>
+   </concept>
+   <concept code="THACCR">
+      <displayName>Telehealth Alert Care Contact Registration</displayName>
+   </concept>
+   <concept code="THRF">
+      <displayName>Telehealth Reporting Frequency</displayName>
+   </concept>
+   <concept code="OSTC">
+      <displayName>Overseas Travel Country</displayName>
+   </concept>
+   <concept code="DGD">
+      <displayName>Diagnosis Date</displayName>
+   </concept>
+   <concept code="PDD">
+      <displayName>Person Death Date</displayName>
+   </concept>
+   <concept code="EMPLD">
+      <displayName>Employment Details</displayName>
+   </concept>
+   <concept code="THVSMFP">
+      <displayName>Telehealth Vital Signs Monitoring Frequency PIVL</displayName>
+   </concept>
+   <concept code="THVSMFE">
+      <displayName>Telehealth Vital Signs Monitoring Frequency EIVL</displayName>
+   </concept>
+   <concept code="TCP">
+      <displayName>Telecare Plan</displayName>
+   </concept>
+   <concept code="TCPNR">
+      <displayName>Telecare Plan Next Review</displayName>
+   </concept>
+   <concept code="TCPSUAR">
+      <displayName>Telecare Plan Service User Aware Of Referral</displayName>
+   </concept>
+   <concept code="TCRCR">
+      <displayName>Telecare Responders Contact Registration</displayName>
+   </concept>
+   <concept code="NBBBD">
+      <displayName>New Born Baby Birth Details</displayName>
+   </concept>
+   <concept code="TCPC">
+      <displayName>Telecare Plan Consent</displayName>
+   </concept>
+   <concept code="TCKS">
+      <displayName>Telecare Key Safe</displayName>
+   </concept>
+   <concept code="LOCSTS">
+      <displayName>Location Status</displayName>
+   </concept>
+   <concept code="LABSNO">
+      <displayName>Laboratory Card Serial Number</displayName>
+   </concept>
+   <concept code="LABSNP">
+      <displayName>Previous Laboratory Card Serial Number</displayName>
+   </concept>
+   <concept code="PKUSSS">
+      <displayName>Phenylketonuria (PKU) Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="PKURTX">
+      <displayName>Phenylketonuria (PKU) Reason Text</displayName>
+   </concept>
+   <concept code="PKUSTX">
+      <displayName>Phenylketonuria (PKU) Supplementary Text</displayName>
+   </concept>
+   <concept code="SCDSSS">
+      <displayName>Sickle-cell disease (SCD) Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="SCDRTX">
+      <displayName>Sickle-cell disease (SCD) Reason Text</displayName>
+   </concept>
+   <concept code="SCDSTX">
+      <displayName>Sickle-cell disease (SCD) Supplementary Text</displayName>
+   </concept>
+   <concept code="CHTSSS">
+      <displayName>Congenital hypothyroidism (CHT) Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="CHTRTX">
+      <displayName>Congenital hypothyroidism (CHT) Reason Text</displayName>
+   </concept>
+   <concept code="CHTSTX">
+      <displayName>Congenital hypothyroidism (CHT) Supplementary Text</displayName>
+   </concept>
+   <concept code="CFSSS">
+      <displayName>Cystic fibrosis (CF) Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="CFRTX">
+      <displayName>Cystic fibrosis (CF) Reason Text</displayName>
+   </concept>
+   <concept code="CFSTX">
+      <displayName>Cystic fibrosis (CF) Supplementary Text</displayName>
+   </concept>
+   <concept code="MCDSSS">
+      <displayName>Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="MCDRTX">
+      <displayName>Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) Reason Text</displayName>
+   </concept>
+   <concept code="MCDSTX">
+      <displayName>Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) Supplementary Text</displayName>
+   </concept>
+   <concept code="TCKSC">
+      <displayName>Telecare Key Safe Combination</displayName>
+   </concept>
+   <concept code="SUAR">
+      <displayName>Service User Aware Of Referral</displayName>
+   </concept>
+   <concept code="BSSSS">
+      <displayName>Blood Spot Screening Status Sub-Code</displayName>
+   </concept>
+   <concept code="BSRTX">
+      <displayName>Blood Spot Reason Text</displayName>
+   </concept>
+   <concept code="BSSTX">
+      <displayName>Blood Spot Supplementary Text</displayName>
+   </concept>
+</vocabulary>

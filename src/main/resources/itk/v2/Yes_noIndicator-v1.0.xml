@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Yes/noIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.12.136">
+   <Description>This table has coded interpretation of Yes/No and is context sensitive 
+					Table type: HL7</Description>
+   <concept code="N">
+      <displayName>No</displayName>
+   </concept>
+   <concept code="Y">
+      <displayName>Yes</displayName>
+   </concept>
+</vocabulary>

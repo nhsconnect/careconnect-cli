@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NationalSystemCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.174">
+   <Description>
+            <p>Codes to represent national systems.</p>
+         </Description>
+   <concept code="DSA">
+      <displayName>Demographic Spine Application</displayName>
+   </concept>
+   <concept code="NSTS">
+      <displayName>NHS Strategic Tracing Service</displayName>
+   </concept>
+</vocabulary>

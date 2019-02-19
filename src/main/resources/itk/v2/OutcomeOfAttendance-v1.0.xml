@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OutcomeOfAttendance" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.22">
+   <Description>Outcome of Attendance: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Discharged from consultant's care (last attendance)</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Another appointment given</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Appointment to be made at a later date</displayName>
+   </concept>
+</vocabulary>

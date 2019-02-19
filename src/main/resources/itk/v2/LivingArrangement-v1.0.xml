@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LivingArrangement" version="1.0" status="created"
+            id="2.16.840.1.113883.12.220">
+   <Description>This table identifies the situation in which the person lives at his residential address.
+					Table type: User</Description>
+   <concept code="A">
+      <displayName>Alone</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Family</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Institution</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Relative</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Spouse Only</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unknown</displayName>
+   </concept>
+</vocabulary>

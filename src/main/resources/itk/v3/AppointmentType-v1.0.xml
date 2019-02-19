@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AppointmentType" version="1.0" status="deprecated"
+            id="2.16.840.1.113883.2.1.3.2.4.17.218">
+   <Description>
+            <p>The type of appointment.</p>
+         </Description>
+   <concept code="NextGPrc">
+      <displayName>Next General Practice appointment</displayName>
+   </concept>
+</vocabulary>

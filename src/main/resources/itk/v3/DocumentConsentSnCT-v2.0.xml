@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DocumentConsentSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p/>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the type of consent.<br/>
+                  <br/>
+                  <strong>Any code from the SNOMED CT UK <em>Document Consent subset</em> with subset original id 43961000000137.</strong>
+                  <br/>
+               </p>
+               <p>The use of this subset is <strong>Advisory</strong>,  as defined in the "Technical Guidance for Implementation of Templated  CDA Domains" document located under the Associated Specifications tab. <br/>
+               </p>
+               <p/>
+               <p/>
+            </p>
+         </Description>
+   <concept code="425691002">
+      <displayName>Consent given for electronic record sharing</displayName>
+   </concept>
+   <concept code="342591000000108">
+      <displayName>Consent given for electronic record sharing with carer</displayName>
+   </concept>
+   <concept code="417528008">
+      <displayName>Consent given for upload to local shared electronic record</displayName>
+   </concept>
+   <concept code="417370002">
+      <displayName>Consent given for upload to national shared electronic record</displayName>
+   </concept>
+   <concept code="319951000000105">
+      <displayName>Consent given to share patient data with specified third party</displayName>
+   </concept>
+   <concept code="320011000000108">
+      <displayName>Declined consent to share patient data with specified third party</displayName>
+   </concept>
+   <concept code="416409005">
+      <displayName>Refused consent for upload to local shared electronic record</displayName>
+   </concept>
+   <concept code="416308001">
+      <displayName>Refused consent for upload to national shared electronic record</displayName>
+   </concept>
+</vocabulary>

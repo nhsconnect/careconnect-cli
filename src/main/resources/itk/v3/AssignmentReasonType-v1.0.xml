@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AssignmentReasonType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.203">
+   <Description>
+            <p>Code used to indicate the type of reason for an assignment to a care provider.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Assignment of asylum seeker</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Assignment of immigrant</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Patient recently moved into area</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient wishes to move to another practice</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Regular rota assignment</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Removed from previous practice - immediate</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Removed from previous practice - ordinary</displayName>
+   </concept>
+</vocabulary>

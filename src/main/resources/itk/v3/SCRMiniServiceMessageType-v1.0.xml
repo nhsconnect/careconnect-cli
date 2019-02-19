@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SCRMiniServiceMessageType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.503">
+   <Description>
+            <p>A set of codes to indicate the Summary Care Record Mini Service's message type.</p>
+         </Description>
+   <concept code="01">
+      <displayName>getSCRStatusRequest</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>queryPTVRequest</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>querySCRRequest</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>querySCRActivityRequest</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>getSCRStatusResponse</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>queryPTVResponse</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>createPTVRequest</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>createPTVResponse</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>querySCRResponse</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>getRBACStatusRequest</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>getRBACStatusResponse</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>querySCRActivityResponse</displayName>
+   </concept>
+</vocabulary>

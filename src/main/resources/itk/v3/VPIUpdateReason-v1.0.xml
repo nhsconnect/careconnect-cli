@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="VPIUpdateReason" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.215">
+   <Description>
+            <p>The reason for updating a violent patient.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Violence classification changed</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient received a custodial sentence</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Change of LSMS</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Individual deceased</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Patient is violent again</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Notes amended</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Added associated violent individuals</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Updated following panel review</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Update by NHS SMS</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Other</displayName>
+   </concept>
+</vocabulary>

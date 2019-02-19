@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureCode" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.19.10">
+   <Description>
+            <p>Any code from one of the clinical coding systems listed below that describes a kind of procedure carried out on or with a person. For example an endoscopy, medication administration or operation to remove the gall-bladder. The code may include equivalent or broader codes from other coding systems.</p>
+	           <dl>
+		             <dt>
+			               <b>SNOMED CT UK</b>
+		             </dt>
+		             <dd>A code from Snomed-CT (UK) may be accompanied by additional qualifying codes from the same coding system.</dd>
+		             <dt>
+			               <b>Clinical Terms (Read Codes) v3</b>
+		             </dt>
+		             <dd>A code from Clinical Terms (Read codes) Version 3 may be accompanied by additional qualifying codes from the same coding system.</dd>
+		             <dt>
+			               <b>Read Codes Version 2</b>
+		             </dt>
+		             <dt>
+			               <b>Read Codes Four Byte Set</b>
+		             </dt>
+		             <dt>
+			               <b>Egton Codes</b>
+		             </dt>
+	           </dl>
+	           <p>An optional code from another of the coding systems described above, representing a mapping to the first code, may be used as a "translation".</p>
+	           <p>A translation code is not required if the data was originally recorded in Snomed-CT UK; otherwise the "translation" code should have an identical or more general meaning than the original code.</p>
+         </Description>
+</vocabulary>

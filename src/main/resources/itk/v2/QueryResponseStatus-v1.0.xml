@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryResponseStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.12.208">
+   <Description>This table defines the responding system to return a precise response status. It is useful when no data is found that matches the query parameters, but also no error. Table type: HL7</Description>
+   <concept code="AE">
+      <displayName>Application error</displayName>
+   </concept>
+   <concept code="AR">
+      <displayName>Application reject</displayName>
+   </concept>
+   <concept code="NF">
+      <displayName>No data found, no errors</displayName>
+   </concept>
+   <concept code="OK">
+      <displayName>Data found, no errors (this is the default)</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_RelAgentType" version="4.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.90.11.2">
+   <Description>
+            <p>Codes representing participations of agents associated with the patient in the context of a composition.</p>
+         </Description>
+   <concept code="DEV">
+      <displayName>Device</displayName>
+   </concept>
+   <concept code="DON">
+      <displayName>Donor</displayName>
+   </concept>
+   <concept code="ESC">
+      <displayName>Escort</displayName>
+   </concept>
+   <concept code="RESP">
+      <displayName>Responsible party</displayName>
+   </concept>
+   <concept code="REF">
+      <displayName>Referrer</displayName>
+   </concept>
+   <concept code="INF">
+      <displayName>Informant</displayName>
+   </concept>
+   <concept code="AUT">
+      <displayName>Author</displayName>
+   </concept>
+   <concept code="PRF">
+      <displayName>Performer</displayName>
+   </concept>
+   <concept code="DENT">
+      <displayName>Data Enterer</displayName>
+   </concept>
+   <concept code="PRCP">
+      <displayName>Primary information recipient</displayName>
+   </concept>
+   <concept code="RCV">
+      <displayName>Receiver</displayName>
+   </concept>
+   <concept code="ENT">
+      <displayName>Data Enterer</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrCategoryCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.900">
+   <Description>
+            <p>Where the EhrCompoundLevel attribute value is 'category', the vocabulary is used to name sections of an encounter record or composition, such as the history of the presenting complaint provided by the patient.</p>
+         </Description>
+   <concept code="9b0p.">
+      <displayName>Template</displayName>
+   </concept>
+   <concept code="9c0..">
+      <displayName>Record heading</displayName>
+   </concept>
+   <concept code="9c00.">
+      <displayName>Action plan (community)</displayName>
+   </concept>
+   <concept code="9c01.">
+      <displayName>Examination</displayName>
+   </concept>
+   <concept code="9c02.">
+      <displayName>Health administration</displayName>
+   </concept>
+   <concept code="9c03.">
+      <displayName>Heath needs (community)</displayName>
+   </concept>
+   <concept code="9c04.">
+      <displayName>History</displayName>
+   </concept>
+   <concept code="9c05.">
+      <displayName>Intervention</displayName>
+   </concept>
+   <concept code="9c06.">
+      <displayName>Management</displayName>
+   </concept>
+   <concept code="9c07.">
+      <displayName>Patient medication advice</displayName>
+   </concept>
+   <concept code="9c08.">
+      <displayName>Presenting complaint</displayName>
+   </concept>
+   <concept code="9c09.">
+      <displayName>Procedure codes (community)</displayName>
+   </concept>
+   <concept code="9c0A.">
+      <displayName>Protocol entry</displayName>
+   </concept>
+   <concept code="9c0B.">
+      <displayName>Referral</displayName>
+   </concept>
+   <concept code="9c0C.">
+      <displayName>Result</displayName>
+   </concept>
+   <concept code="9c0D.">
+      <displayName>Symptom</displayName>
+   </concept>
+   <concept code="90cF.">
+      <displayName>Test request</displayName>
+   </concept>
+   <concept code="9c0G.">
+      <displayName>Values (community)</displayName>
+   </concept>
+   <concept code="9c0H.">
+      <displayName>Follow-up</displayName>
+   </concept>
+   <concept code="9c0Y.">
+      <displayName>Other</displayName>
+   </concept>
+</vocabulary>

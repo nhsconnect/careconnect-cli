@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispenseHistoryRebuildMessageType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.113">
+   <Description>
+            <p>Identifies the type and version of the Dispense Notification or Dispense Notification with Claim Information message used to replace an abstract placeholder for rebuilding a dispense history.</p>
+         </Description>
+   <concept code="PORX_MT024001UK05">
+      <displayName>Dispense Notification Message PORX_MT024001UK05</displayName>
+   </concept>
+   <concept code="PORX_MT024001UK30">
+      <displayName>Dispense Notification Message PORX_MT024001UK30</displayName>
+   </concept>
+   <concept code="PORX_MT142004UK05">
+      <displayName>Dispense Notification with Claim Information Message PORX_MT142004UK05</displayName>
+   </concept>
+   <concept code="PORX_MT142004UK30">
+      <displayName>Dispense Notification with Claim Information Message PORX_MT142004UK30</displayName>
+   </concept>
+   <concept code="PORX_MT024001UK31">
+      <displayName>Dispense Notification Message PORX_MT024001UK31</displayName>
+   </concept>
+   <concept code="PORX_MT142004UK31">
+      <displayName>Dispense Notification with Claim Information Message PORX_MT142004UK31</displayName>
+   </concept>
+</vocabulary>

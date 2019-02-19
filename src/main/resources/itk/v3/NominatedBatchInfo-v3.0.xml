@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NominatedBatchInfo" version="3.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.14">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.14</p>
+            <p>Indicates whether the batch information item represents the actual number or the permitted maximum number of nominated prescriptions in the batch.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Batch information item represents the actual number of nominated prescriptions in the batch.</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Batch information item represents the maximum permitted number of nominated prescriptions in the batch.</displayName>
+   </concept>
+</vocabulary>

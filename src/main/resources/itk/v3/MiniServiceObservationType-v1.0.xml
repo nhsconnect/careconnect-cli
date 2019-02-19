@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MiniServiceObservationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.287">
+   <Description>
+            <p>A vocabulary to hold the observation types for the mini services.</p>
+         </Description>
+   <concept code="VI">
+      <displayName>Valid Identifier</displayName>
+   </concept>
+</vocabulary>

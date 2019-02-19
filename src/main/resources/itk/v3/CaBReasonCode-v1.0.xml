@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CaBReasonCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.153">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.153</p>
+            <p>This code allows an appointment request to be flagged as a 'diagnostic appointment request'. Only when an appointment request has a CaBReasonCode of '2' (Diagnostic) can it have attributes such as a 'diagnostic order' or 'diagnostic result'.</p>
+            <p>Values:</p>
+         </Description>
+   <concept code="1">
+      <displayName>General</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Diagnostic</displayName>
+   </concept>
+</vocabulary>

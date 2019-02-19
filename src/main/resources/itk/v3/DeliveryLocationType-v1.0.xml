@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DeliveryLocationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.173">
+   <Description>
+            <p>Assigned OID : 2.16.840.1.113883.2.1.3.2.4.17.173</p>
+            <p>The type of organization where a birth took place.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Domestic Address</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>NHS hospital - delivery facilities associated with consultant ward</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>NHS hospital - delivery facilities associated with consultant/GMP/midwife ward inclusive of any combination of two of the professionals mentioned</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>NHS hospital - delivery facilities associated with GMP ward</displayName>
+   </concept>
+   <concept code="0">
+      <displayName>NHS hospital - delivery facilities associated with midwife ward</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>NHS hospital - ward or unit without delivery facilities</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Other hospital or institution</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Private hospital</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>None of the above</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

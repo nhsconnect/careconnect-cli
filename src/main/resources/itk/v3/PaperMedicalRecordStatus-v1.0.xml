@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PaperMedicalRecordStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.212">
+   <Description>
+            <p>The status of the patient's paper medical record.</p>
+         </Description>
+   <concept code="C">
+      <displayName>Constructed</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Original</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Destroyed</displayName>
+   </concept>
+</vocabulary>

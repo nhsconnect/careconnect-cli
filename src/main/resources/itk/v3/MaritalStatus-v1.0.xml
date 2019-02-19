@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MaritalStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.82">
+   <Description>
+            <p>
+               <p>Default Scheme : NHS Data Model and Dictionary for England, PERSON MARITAL STATUS CODE.</p>
+               <p>A vocabulary that identifies the legal marital status of a person.<br/>
+               </p>
+            </p>
+         </Description>
+   <concept code="S">
+      <displayName>Single</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Married/Civil Partner</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Divorced/Person whose Civil Partnership has been dissolved</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Widowed/Surviving Civil Partner</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Separated</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not disclosed</displayName>
+   </concept>
+</vocabulary>

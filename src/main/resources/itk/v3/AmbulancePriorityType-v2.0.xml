@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AmbulancePriorityType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.329">
+   <Description>
+            <p>A vocabulary to support the priority type of a request to dispatch an ambulance.</p>
+         </Description>
+   <concept code="R1">
+      <displayName>Red 1</displayName>
+   </concept>
+   <concept code="R2">
+      <displayName>Red 2</displayName>
+   </concept>
+   <concept code="G2">
+      <displayName>Green 2</displayName>
+   </concept>
+   <concept code="G3">
+      <displayName>Green 3</displayName>
+   </concept>
+   <concept code="G4">
+      <displayName>Green 4</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RangeCriterionSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>This vocabulary is used to convey the Criteria that constrain the Interpretation Range. There may be multiple criteria applied to a quoted range.</p>
+            <p>The current scope provides an SnCT concept to which additional text may be added to convey details of the Range Criteria and for specific criteria related to the Reference Change Values that may be quoted.</p>
+         </Description>
+   <concept code="220221000000104">
+      <displayName>Range criteria (qualifier value)</displayName>
+   </concept>
+   <concept code="220231000000102">
+      <displayName>Reference change value 95% probability of significance (qualifier value)</displayName>
+   </concept>
+   <concept code="220241000000106">
+      <displayName>Reference change value 99% probability of significance (qualifier value)</displayName>
+   </concept>
+</vocabulary>

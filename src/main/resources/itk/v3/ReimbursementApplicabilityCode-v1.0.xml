@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReimbursementApplicabilityCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.269">
+   <Description>
+            <span>A set of codes to determine the reimbursement applicability.</span>
+         </Description>
+   <concept code="RMA">
+      <displayName>Reimbursement may apply as a result of this notification</displayName>
+   </concept>
+   <concept code="RNA">
+      <displayName>Reimbursement will not be sought as a result of this notification</displayName>
+   </concept>
+</vocabulary>

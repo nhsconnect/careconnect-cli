@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ParticipationFunction" version="1.0" status="active"
+            id="2.16.840.1.113883.5.88">
+   <Description>
+            <p>This vocabulary contains a set of codes describe the function of the participant. <br/>
+            </p>
+         </Description>
+   <concept code="ADMPHYS">
+      <displayName>admitting physician</displayName>
+   </concept>
+   <concept code="ANEST">
+      <displayName>anesthesist</displayName>
+   </concept>
+   <concept code="ANRS">
+      <displayName>anesthesia nurse</displayName>
+   </concept>
+   <concept code="ATTPHYS">
+      <displayName>attending physician</displayName>
+   </concept>
+   <concept code="DISPHYS">
+      <displayName>discharging physician</displayName>
+   </concept>
+   <concept code="FASST">
+      <displayName>first assistant surgeon</displayName>
+   </concept>
+   <concept code="MDWF">
+      <displayName>midwife</displayName>
+   </concept>
+   <concept code="NASST">
+      <displayName>nurse assistant</displayName>
+   </concept>
+   <concept code="PCP">
+      <displayName>primary care physician</displayName>
+   </concept>
+   <concept code="PRISURG">
+      <displayName>primary surgeon</displayName>
+   </concept>
+   <concept code="RNDPHYS">
+      <displayName>rounding physician</displayName>
+   </concept>
+   <concept code="SASST">
+      <displayName>second assistant surgeon</displayName>
+   </concept>
+   <concept code="SNRS">
+      <displayName>scrub nurse</displayName>
+   </concept>
+   <concept code="TASST">
+      <displayName>third assistant</displayName>
+   </concept>
+</vocabulary>

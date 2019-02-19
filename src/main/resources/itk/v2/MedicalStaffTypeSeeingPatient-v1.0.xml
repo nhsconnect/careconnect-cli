@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MedicalStaffTypeSeeingPatient" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.19">
+   <Description>Medical staff type seeing patient: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="01">
+      <displayName>Consultant</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Consultant firm</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Not applicable (e.g. ward attenders)</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EgtonCodes" version="1.0" status="active" id="2.16.840.1.113883.2.1.6.3">
+   <Description>
+            <p>A clinical terminology (i.e. coding system) owned by EMIS Ltd, a supplier of GP systems. It was designed to supplement the Read Codes. Its OID is
+2.16.840.1.113883.2.1.6.3.</p>
+            <p>Any code from the Egton Codes.</p>
+         </Description>
+</vocabulary>

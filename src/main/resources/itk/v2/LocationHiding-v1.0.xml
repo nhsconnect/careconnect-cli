@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LocationHiding" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.57">
+   <Description>Location Hiding: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>No location hiding</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Local location hiding</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>National S-flag determines location hiding</displayName>
+   </concept>
+</vocabulary>

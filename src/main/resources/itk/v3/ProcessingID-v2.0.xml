@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcessingID" version="2.0" status="created"
+            id="2.16.840.1.113883.11.103">
+   <Description>
+            <p>Code identifying the environment the message must be processed in.</p>
+         </Description>
+   <concept code="D">
+      <displayName>Debugging</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Production</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Training</displayName>
+   </concept>
+</vocabulary>

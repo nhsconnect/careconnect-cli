@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DICDADocumentSectionType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.243">
+   <Description>
+            <span style="width: 100%">A set of codes to identify the document section type of a Diagnostic Imaging Report.</span>
+         </Description>
+   <concept code="DI06">
+      <displayName>DICOM Object Catalog</displayName>
+   </concept>
+   <concept code="DI07">
+      <displayName>History</displayName>
+   </concept>
+   <concept code="DI08">
+      <displayName>Request</displayName>
+   </concept>
+   <concept code="DI09">
+      <displayName>Current Procedure Descriptions</displayName>
+   </concept>
+   <concept code="DI10">
+      <displayName>Prior Procedure Descriptions</displayName>
+   </concept>
+   <concept code="DI11">
+      <displayName>Previous Findings</displayName>
+   </concept>
+   <concept code="DI12">
+      <displayName>Findings</displayName>
+   </concept>
+   <concept code="DI13">
+      <displayName>Impressions</displayName>
+   </concept>
+   <concept code="DI14">
+      <displayName>Recommendations</displayName>
+   </concept>
+   <concept code="DI15">
+      <displayName>Conclusions</displayName>
+   </concept>
+   <concept code="DI16">
+      <displayName>Addendum</displayName>
+   </concept>
+   <concept code="DI17">
+      <displayName>Indications for Procedure</displayName>
+   </concept>
+   <concept code="DI18">
+      <displayName>Patient Presentation</displayName>
+   </concept>
+   <concept code="DI19">
+      <displayName>Complications</displayName>
+   </concept>
+   <concept code="DI20">
+      <displayName>Summary</displayName>
+   </concept>
+   <concept code="DI21">
+      <displayName>Key Images</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeNotificationDisagreeCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.273">
+   <Description>
+            <table width="100%" border="0"
+             id="current_codeSystemMainView:current_codeSystemView:CSForm:CSOutputPanel">
+               <tbody>
+                  <tr>
+                     <td class="W15">
+                        <span/>
+                        <br/>
+                     </td>
+                     <td class="W100">
+                        <span>A set of codes to describe the discharge notification disagreement.</span>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </Description>
+   <concept code="SSNR">
+      <displayName>Social Services cannot confirm agreement to the discharge date but the planned services are being arranged.  I will confirm closer to the discharge date.</displayName>
+   </concept>
+   <concept code="SSNA">
+      <displayName>Social Services cannot confirm agreement to the planned services and so cannot agree to the discharge date.</displayName>
+   </concept>
+   <concept code="APNC">
+      <displayName>Social Services cannot confirm agreement to the discharge date as the assessment process has not been completed.</displayName>
+   </concept>
+   <concept code="PFNA">
+      <displayName>Social Services cannot confirm agreement to the discharge date as the patient/family has not yet agreed to the planned services.</displayName>
+   </concept>
+   <concept code="NOTELIG">
+      <displayName>Social Services cannot confirm agreement to the discharge date as the patient/family is not eligible for services funded by social services.</displayName>
+   </concept>
+   <concept code="NF">
+      <displayName>Social Services cannot confirm agreement to the discharge date as public funding has not yet been agreed.</displayName>
+   </concept>
+   <concept code="NSTF">
+      <displayName>Social Services do not agree that it is safe to discharge the patient on the stated date.</displayName>
+   </concept>
+   <concept code="SNA">
+      <displayName>The previously arrange services to be provided by social services are not no longer available on discharge.</displayName>
+   </concept>
+   <concept code="PWC">
+      <displayName>The person has withdrawn their consent to social services involvement.</displayName>
+   </concept>
+   <concept code="DOO">
+      <displayName>Social services cannot confirm agreement to discharge date because awaiting services to be arranged.</displayName>
+   </concept>
+   <concept code="OFT">
+      <displayName>Other - Free Text</displayName>
+   </concept>
+</vocabulary>

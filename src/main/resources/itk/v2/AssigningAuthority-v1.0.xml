@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AssigningAuthority" version="1.0" status="created"
+            id="2.16.840.1.113883.12.363">
+   <Description>This table is list of unique identifier of the system (or organization or agency or department) that creates the data.
+					Table type: User</Description>
+   <concept code="NHS">
+      <displayName>NHS Number</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureDRGType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.416">
+   <Description>This table indicates a procedure's priority ranking relative to its DRG.
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>1st non-Operative</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>2nd non-Operative</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Major Operative</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>2nd Operative</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>3rd Operative</displayName>
+   </concept>
+</vocabulary>

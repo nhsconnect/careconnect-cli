@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrCompositionName" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.17">
+   <Description>
+            <p>Assigned OID : 2.16.840.1.113883.2.1.3.2.4.15</p>
+            <p>Set of composition names based on a superset of types already in use.</p>
+            <p>Note that if events such as repeat prescription issue, investigation requests, report filing occur within a consultation the entire interaction is recorded in a composition with the name applicable to that type of consultation note. The specific prescription issue, report and request compositions are intended for use only where these interactions occur without a direct patient contact or separated in time from such a contact.</p>
+         </Description>
+   <concept code="24561000000109">
+      <displayName>A+E report</displayName>
+   </concept>
+   <concept code="37361000000105">
+      <displayName>Additional Note</displayName>
+   </concept>
+   <concept code="37351000000107">
+      <displayName>Administration Note</displayName>
+   </concept>
+   <concept code="37341000000109">
+      <displayName>Alert Note</displayName>
+   </concept>
+   <concept code="37331000000100">
+      <displayName>Comment Note</displayName>
+   </concept>
+   <concept code="15611000000104">
+      <displayName>Diagnosis</displayName>
+   </concept>
+   <concept code="37321000000102">
+      <displayName>Community Nursing Note</displayName>
+   </concept>
+   <concept code="24571000000102">
+      <displayName>Community Nursing Report</displayName>
+   </concept>
+   <concept code="25561000000105">
+      <displayName>Data transferred from other system</displayName>
+   </concept>
+   <concept code="24581000000100">
+      <displayName>Day Case Report</displayName>
+   </concept>
+   <concept code="25571000000103">
+      <displayName>Discharge Report</displayName>
+   </concept>
+   <concept code="24591000000103">
+      <displayName>Other Report</displayName>
+   </concept>
+   <concept code="25581000000101">
+      <displayName>Discharge Summary Report</displayName>
+   </concept>
+   <concept code="37311000000108">
+      <displayName>Out of Hours, Non Practice Note</displayName>
+   </concept>
+   <concept code="37301000000106">
+      <displayName>Emergency Consultation Note</displayName>
+   </concept>
+   <concept code="37281000000105">
+      <displayName>Out of Hours, Practice Note</displayName>
+   </concept>
+   <concept code="37291000000107">
+      <displayName>Externally Entered Note</displayName>
+   </concept>
+   <concept code="24601000000109">
+      <displayName>Radiology Request</displayName>
+   </concept>
+   <concept code="25591000000104">
+      <displayName>Follow-up/Routine Visit Note</displayName>
+   </concept>
+   <concept code="25601000000105">
+      <displayName>G.O.S. 18 Report</displayName>
+   </concept>
+   <concept code="24611000000106">
+      <displayName>Radiology Result</displayName>
+   </concept>
+   <concept code="25611000000107">
+      <displayName>Referral Letter</displayName>
+   </concept>
+   <concept code="24621000000100">
+      <displayName>Health Authority Entry</displayName>
+   </concept>
+   <concept code="25631000000104">
+      <displayName>Health Visitor Note</displayName>
+   </concept>
+   <concept code="25621000000101">
+      <displayName>Repeat Issue Note</displayName>
+   </concept>
+   <concept code="25641000000108">
+      <displayName>Health Visitor Report</displayName>
+   </concept>
+   <concept code="24631000000103">
+      <displayName>Residential Home Visit Note</displayName>
+   </concept>
+   <concept code="25651000000106">
+      <displayName>Home Visit Note</displayName>
+   </concept>
+   <concept code="24641000000107">
+      <displayName>Investigation Result</displayName>
+   </concept>
+   <concept code="25661000000109">
+      <displayName>Social Services Report</displayName>
+   </concept>
+   <concept code="24651000000105">
+      <displayName>Hospital Admission Note</displayName>
+   </concept>
+   <concept code="24661000000108">
+      <displayName>Hospital Inpatient Report</displayName>
+   </concept>
+   <concept code="25671000000102">
+      <displayName>Surgery Consultation Note</displayName>
+   </concept>
+   <concept code="25681000000100">
+      <displayName>Hospital Outpatient Report</displayName>
+   </concept>
+   <concept code="25691000000103">
+      <displayName>Telephone call from a patient</displayName>
+   </concept>
+   <concept code="25701000000103">
+      <displayName>Hotel Visit Note</displayName>
+   </concept>
+   <concept code="24671000000101">
+      <displayName>Telephone call to a patient</displayName>
+   </concept>
+   <concept code="25711000000101">
+      <displayName>Initial post discharge review</displayName>
+   </concept>
+   <concept code="24681000000104">
+      <displayName>Telephone Consultation</displayName>
+   </concept>
+   <concept code="24691000000102">
+      <displayName>Laboratory Request</displayName>
+   </concept>
+   <concept code="24701000000102">
+      <displayName>Laboratory Result</displayName>
+   </concept>
+   <concept code="25741000000100">
+      <displayName>Third Party Consultation</displayName>
+   </concept>
+   <concept code="25731000000109">
+      <displayName>Mail from patient</displayName>
+   </concept>
+   <concept code="37271000000108">
+      <displayName>Twilight Visit Note</displayName>
+   </concept>
+   <concept code="24711000000100">
+      <displayName>Mail to patient</displayName>
+   </concept>
+   <concept code="24721000000106">
+      <displayName>Acute Visit Note</displayName>
+   </concept>
+   <concept code="24881000000103">
+      <displayName>NHS Direct Report</displayName>
+   </concept>
+   <concept code="25751000000102">
+      <displayName>Children's Home Visit Note</displayName>
+   </concept>
+   <concept code="25761000000104">
+      <displayName>Night Visit Note</displayName>
+   </concept>
+   <concept code="24731000000108">
+      <displayName>Clinic Note</displayName>
+   </concept>
+   <concept code="25771000000106">
+      <displayName>Night visit practice note</displayName>
+   </concept>
+   <concept code="25791000000105">
+      <displayName>Community Clinic Note</displayName>
+   </concept>
+   <concept code="25781000000108">
+      <displayName>OOH Report</displayName>
+   </concept>
+   <concept code="24741000000104">
+      <displayName>Night visit, deputising service note</displayName>
+   </concept>
+   <concept code="25801000000109">
+      <displayName>Night visit local rota note</displayName>
+   </concept>
+   <concept code="109341000000100">
+      <displayName>GP to GP communication transaction</displayName>
+   </concept>
+   <concept code="24751000000101">
+      <displayName>Nursing Home Visit Note</displayName>
+   </concept>
+   <concept code="25811000000106">
+      <displayName>OOH Attendance Note</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Newborn blood spot screening result status" type="Realm Concept" setId="67171000000130" version="2" id="61081000000135" refId="966281000000109" memberCount="59" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="427854007">
+<displayName lang="en" type="PT">Sickle cell trait not suspected</displayName>
+<displayName lang="en" type="FSN">Sickle cell trait not suspected (situation)</displayName>
+<displayName lang="en-GB" type="SY">Sickle cell disease not suspected</displayName>
+<displayName lang="en-GB" type="SY">Sickle cell not suspected</displayName>
+</concept>
+<concept code="428042006">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test declined</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test declined (situation)</displayName>
+<displayName lang="en" type="SY">Medium chain acyl-coenzyme A dehydrogenase deficiency screening declined</displayName>
+<displayName lang="en" type="SY">Medium-chain acyl-coenzyme A dehydrogenase deficiency (MCADD) screening test declined</displayName>
+</concept>
+<concept code="428273001">
+<displayName lang="en" type="PT">Cystic fibrosis not suspected</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not suspected (situation)</displayName>
+</concept>
+<concept code="428279002">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not suspected</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not suspected (situation)</displayName>
+<displayName lang="en" type="SY">Medium-chain acyl-coenzyme A dehydrogenase deficiency (MCADD) not suspected</displayName>
+</concept>
+<concept code="428299008">
+<displayName lang="en" type="PT">Sickle cell screening declined</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening declined (situation)</displayName>
+</concept>
+<concept code="428300000">
+<displayName lang="en" type="PT">Suspected congenital hypothyroidism</displayName>
+<displayName lang="en" type="FSN">Suspected congenital hypothyroidism (situation)</displayName>
+<displayName lang="en" type="SY">Suspected congenital hypothyroidism (CHT)</displayName>
+</concept>
+<concept code="428301001">
+<displayName lang="en" type="PT">Suspected cystic fibrosis</displayName>
+<displayName lang="en" type="FSN">Suspected cystic fibrosis (situation)</displayName>
+</concept>
+<concept code="428485006">
+<displayName lang="en" type="PT">Suspected sickle cell trait</displayName>
+<displayName lang="en" type="FSN">Suspected sickle cell trait (situation)</displayName>
+<displayName lang="en-GB" type="SY">Suspected sickle cell</displayName>
+<displayName lang="en-GB" type="SY">Suspected sickle cell disease</displayName>
+</concept>
+<concept code="428650003">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening declined</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening declined (situation)</displayName>
+<displayName lang="en" type="SY">Congenital hypothyroidism (CHT) screening declined</displayName>
+</concept>
+<concept code="428655008">
+<displayName lang="en" type="PT">Suspected phenylketonuria</displayName>
+<displayName lang="en" type="FSN">Suspected phenylketonuria (situation)</displayName>
+<displayName lang="en" type="SY">Suspected phenylketonuria (PKU)</displayName>
+</concept>
+<concept code="428841003">
+<displayName lang="en" type="PT">Cystic fibrosis screening declined</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening declined (situation)</displayName>
+</concept>
+<concept code="428999001">
+<displayName lang="en" type="PT">Congenital hypothyroidism not suspected</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not suspected (situation)</displayName>
+<displayName lang="en" type="SY">Congenital hypothyroidism (CHT) not suspected</displayName>
+</concept>
+<concept code="429106008">
+<displayName lang="en" type="PT">Phenylketonuria not suspected</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not suspected (situation)</displayName>
+<displayName lang="en" type="SY">Phenylketonuria (PKU) not suspected</displayName>
+</concept>
+<concept code="429244009">
+<displayName lang="en" type="PT">Suspected medium-chain acyl-coenzyme A dehydrogenase deficiency</displayName>
+<displayName lang="en" type="FSN">Suspected medium-chain acyl-coenzyme A dehydrogenase deficiency (situation)</displayName>
+<displayName lang="en" type="SY">Suspected medium-chain acyl-coenzyme A dehydrogenase deficiency (MCADD)</displayName>
+</concept>
+<concept code="429726000">
+<displayName lang="en" type="PT">Phenylketonuria screening declined</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening declined (situation)</displayName>
+<displayName lang="en" type="SY">Phenylketonuria (PKU) screening declined</displayName>
+</concept>
+<concept code="441520002">
+<displayName lang="en" type="PT">Carrier of cystic fibrosis gene mutation</displayName>
+<displayName lang="en" type="FSN">Carrier of cystic fibrosis gene mutation (finding)</displayName>
+<displayName lang="en" type="SY">Cystic fibrosis gene carrier</displayName>
+</concept>
+<concept code="442018007">
+<displayName lang="en" type="PT">Carrier of sickle cell gene mutation</displayName>
+<displayName lang="en" type="FSN">Carrier of sickle cell gene mutation (finding)</displayName>
+</concept>
+<concept code="302571000000101">
+<displayName lang="en" type="PT">Carrier of other haemoglobin type</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, carrier of other haemoglobin type (finding)</displayName>
+</concept>
+<concept code="302741000000103">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, phenylketonuria not screened for or screening incomplete (finding)</displayName>
+<displayName lang="en" type="SY">PKU (phenylketonuria) not screened for or screening incomplete</displayName>
+</concept>
+<concept code="302751000000100">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, sickle cell not screened for or screening incomplete (finding)</displayName>
+</concept>
+<concept code="302761000000102">
+<displayName lang="en" type="PT">Medium chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete (finding)</displayName>
+<displayName lang="en" type="SY">MCADD (medium chain acyl-coenzyme A dehydrogenase deficiency) not screened for or screening incomplete</displayName>
+</concept>
+<concept code="302771000000109">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, cystic fibrosis not screened for or screening incomplete (finding)</displayName>
+</concept>
+<concept code="302781000000106">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, congenital hypothyroidism not screened for or screening incomplete (finding)</displayName>
+<displayName lang="en" type="SY">CHT (congenital hypothyroidism) not screened for or screening incomplete</displayName>
+</concept>
+<concept code="384331000000103">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, phenylketonuria repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, phenylketonuria repeat screening with further sample required (finding)</displayName>
+<displayName lang="en" type="SY">PKU (phenylketonuria) repeat screening with further sample required</displayName>
+</concept>
+<concept code="384341000000107">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required (finding)</displayName>
+<displayName lang="en" type="SY">Cystic fibrosis repeat screening with further sample required</displayName>
+</concept>
+<concept code="384351000000105">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, sickle cell repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, sickle cell repeat screening with further sample required (finding)</displayName>
+<displayName lang="en" type="SY">Sickle cell repeat screening with further sample required</displayName>
+</concept>
+<concept code="384361000000108">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, congenital hypothyroidism repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, congenital hypothyroidism repeat screening with further sample required (finding)</displayName>
+<displayName lang="en" type="SY">CHT (congenital hypothyroidism) repeat screening with further sample required</displayName>
+</concept>
+<concept code="384371000000101">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency repeat screening with further sample required (finding)</displayName>
+<displayName lang="en" type="SY">MCADD (medium chain acyl-coenzyme A dehydrogenase deficiency) repeat screening with further sample required</displayName>
+</concept>
+<concept code="384381000000104">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, sickle cell not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, sickle cell not suspected and other disorders follow up required (finding)</displayName>
+<displayName lang="en" type="SY">Sickle cell not suspected and other disorders follow up required</displayName>
+</concept>
+<concept code="384391000000102">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, phenylketonuria not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, phenylketonuria not suspected and other disorders follow up required (finding)</displayName>
+<displayName lang="en" type="SY">PKU (phenylketonuria) not suspected and other disorders follow up required</displayName>
+</concept>
+<concept code="384401000000104">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required (finding)</displayName>
+<displayName lang="en" type="SY">Cystic fibrosis not suspected and other disorders follow up required</displayName>
+</concept>
+<concept code="384411000000102">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, congenital hypothyroidism not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, congenital hypothyroidism not suspected and other disorders follow up required (finding)</displayName>
+<displayName lang="en" type="SY">CHT (congenital hypothyroidism) not suspected and other disorders follow up required</displayName>
+</concept>
+<concept code="384421000000108">
+<displayName lang="en" type="PT">Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not suspected and other disorders follow up required (finding)</displayName>
+<displayName lang="en" type="SY">MCADD (medium chain acyl-coenzyme A dehydrogenase deficiency) not suspected and other disorders follow up required</displayName>
+</concept>
+<concept code="509581000000105">
+<displayName lang="en" type="PT">Newborn blood spot specimen received</displayName>
+<displayName lang="en" type="FSN">Newborn blood spot specimen received (finding)</displayName>
+</concept>
+<concept code="947451000000106">
+<displayName lang="en" type="PT">Suspected homocystinuria</displayName>
+<displayName lang="en" type="FSN">Suspected homocystinuria (situation)</displayName>
+</concept>
+<concept code="947831000000101">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening declined</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening declined (situation)</displayName>
+</concept>
+<concept code="947891000000100">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening declined</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening declined (situation)</displayName>
+</concept>
+<concept code="948051000000101">
+<displayName lang="en" type="PT">Homocystinuria screening declined</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening declined (situation)</displayName>
+</concept>
+<concept code="948351000000103">
+<displayName lang="en" type="PT">Haemoglobin S not suspected (by DNA), no other haemoglobin or thalassaemia excluded</displayName>
+<displayName lang="en" type="FSN">Haemoglobin S not suspected (by deoxyribonucleic acid), no other haemoglobin or thalassaemia excluded (situation)</displayName>
+</concept>
+<concept code="949261000000103">
+<displayName lang="en" type="PT">Maple syrup urine disease screening declined</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening declined (situation)</displayName>
+</concept>
+<concept code="949501000000104">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, repeat screening with further sample required (finding)</displayName>
+</concept>
+<concept code="949801000000101">
+<displayName lang="en" type="PT">Maple syrup urine disease not suspected</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not suspected (situation)</displayName>
+</concept>
+<concept code="949821000000105">
+<displayName lang="en" type="PT">Maple syrup urine disease not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not suspected and other disorders follow up required (situation)</displayName>
+</concept>
+<concept code="949841000000103">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete (finding)</displayName>
+</concept>
+<concept code="950121000000105">
+<displayName lang="en" type="PT">Suspected maple syrup urine disease</displayName>
+<displayName lang="en" type="FSN">Suspected maple syrup urine disease (situation)</displayName>
+</concept>
+<concept code="950141000000103">
+<displayName lang="en" type="PT">Homocystinuria not suspected</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not suspected (situation)</displayName>
+</concept>
+<concept code="950161000000102">
+<displayName lang="en" type="PT">Homocystinuria not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not suspected and other disorders follow up required (situation)</displayName>
+</concept>
+<concept code="950411000000106">
+<displayName lang="en" type="PT">Homocystinuria screening, repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, repeat screening with further sample required (finding)</displayName>
+</concept>
+<concept code="950681000000102">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete (finding)</displayName>
+</concept>
+<concept code="951121000000101">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, repeat screening with further sample required (finding)</displayName>
+</concept>
+<concept code="951541000000100">
+<displayName lang="en" type="PT">Isovaleric acidaemia not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not screened for or screening incomplete (finding)</displayName>
+</concept>
+<concept code="951701000000106">
+<displayName lang="en" type="PT">Suspected isovaleric acidaemia</displayName>
+<displayName lang="en" type="FSN">Suspected isovaleric acidaemia (situation)</displayName>
+</concept>
+<concept code="951741000000109">
+<displayName lang="en" type="PT">Isovaleric acidaemia not suspected</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not suspected (situation)</displayName>
+</concept>
+<concept code="951761000000105">
+<displayName lang="en" type="PT">Isovaleric acidaemia not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not suspected and other disorders follow up required (situation)</displayName>
+</concept>
+<concept code="951781000000101">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not suspected</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not suspected (situation)</displayName>
+</concept>
+<concept code="951801000000100">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not suspected and other disorders follow up required</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not suspected and other disorders follow up required (situation)</displayName>
+</concept>
+<concept code="951831000000106">
+<displayName lang="en" type="PT">Suspected glutaric aciduria type 1</displayName>
+<displayName lang="en" type="FSN">Suspected glutaric aciduria type 1 (situation)</displayName>
+</concept>
+<concept code="951941000000106">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, repeat screening with further sample required</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, repeat screening with further sample required (finding)</displayName>
+</concept>
+<concept code="952201000000106">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete (finding)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Standards for the clinical structure and content of patient records" type="Realm Concept" setId="67691000000135" version="5" id="55061000000137" refId="999001721000000100" memberCount="55" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="715851000000102">
+<displayName lang="en-GB" type="PT">Examination findings</displayName>
+<displayName lang="en" type="FSN">Examination findings (record artifact)</displayName>
+</concept>
+<concept code="716101000000104">
+<displayName lang="en-GB" type="PT">Reason for referral</displayName>
+<displayName lang="en" type="FSN">Reason for referral (record artifact)</displayName>
+</concept>
+<concept code="717121000000105">
+<displayName lang="en-GB" type="PT">History</displayName>
+<displayName lang="en" type="FSN">History (record artifact)</displayName>
+<displayName lang="en-GB" type="SY">History of</displayName>
+<displayName lang="en-GB" type="SY">Presenting complaint</displayName>
+</concept>
+<concept code="886711000000101">
+<displayName lang="en" type="PT">GP practice details</displayName>
+<displayName lang="en" type="FSN">General practitioner practice (record artifact)</displayName>
+<displayName lang="en" type="SY">GP practice</displayName>
+</concept>
+<concept code="886721000000107">
+<displayName lang="en" type="PT">Referral details</displayName>
+<displayName lang="en" type="FSN">Referral details (record artifact)</displayName>
+</concept>
+<concept code="886731000000109">
+<displayName lang="en" type="PT">Patient demographics</displayName>
+<displayName lang="en" type="FSN">Patient demographics (record artifact)</displayName>
+</concept>
+<concept code="886741000000100">
+<displayName lang="en" type="PT">Special requirements</displayName>
+<displayName lang="en" type="FSN">Special requirements (record artifact)</displayName>
+</concept>
+<concept code="886751000000102">
+<displayName lang="en" type="PT">Participation in research</displayName>
+<displayName lang="en" type="FSN">Participation in research (record artifact)</displayName>
+</concept>
+<concept code="886761000000104">
+<displayName lang="en" type="PT">Expectation of referral</displayName>
+<displayName lang="en" type="FSN">Expectation of referral (record artifact)</displayName>
+</concept>
+<concept code="886771000000106">
+<displayName lang="en" type="PT">Patient&apos;s expectation of referral</displayName>
+<displayName lang="en" type="FSN">Patient&apos;s expectation of referral (record artifact)</displayName>
+</concept>
+<concept code="886781000000108">
+<displayName lang="en" type="PT">Admission details</displayName>
+<displayName lang="en" type="FSN">Admission details (record artifact)</displayName>
+</concept>
+<concept code="886791000000105">
+<displayName lang="en" type="PT">Handover details</displayName>
+<displayName lang="en" type="FSN">Handover details (record artifact)</displayName>
+</concept>
+<concept code="886801000000109">
+<displayName lang="en" type="PT">Outpatient details</displayName>
+<displayName lang="en" type="FSN">Outpatient details (record artifact)</displayName>
+</concept>
+<concept code="886811000000106">
+<displayName lang="en" type="PT">Discharge details</displayName>
+<displayName lang="en" type="FSN">Discharge details (record artifact)</displayName>
+</concept>
+<concept code="886821000000100">
+<displayName lang="en" type="PT">Relevant clinical risk factors</displayName>
+<displayName lang="en" type="FSN">Relevant clinical risk factors (record artifact)</displayName>
+</concept>
+<concept code="886831000000103">
+<displayName lang="en" type="PT">Clinical risk assessment</displayName>
+<displayName lang="en" type="FSN">Clinical risk assessment (record artifact)</displayName>
+</concept>
+<concept code="886841000000107">
+<displayName lang="en" type="PT">Risk mitigation</displayName>
+<displayName lang="en" type="FSN">Risk mitigation (record artifact)</displayName>
+</concept>
+<concept code="886851000000105">
+<displayName lang="en" type="PT">Reason for contact</displayName>
+<displayName lang="en" type="FSN">Reason for contact (record artifact)</displayName>
+</concept>
+<concept code="886861000000108">
+<displayName lang="en" type="PT">Reason for admission</displayName>
+<displayName lang="en" type="FSN">Reason for admission (record artifact)</displayName>
+</concept>
+<concept code="886871000000101">
+<displayName lang="en" type="PT">Reason for handover</displayName>
+<displayName lang="en" type="FSN">Reason for handover (record artifact)</displayName>
+</concept>
+<concept code="886881000000104">
+<displayName lang="en" type="PT">Patient&apos;s reason for referral</displayName>
+<displayName lang="en" type="FSN">Patient&apos;s reason for referral (record artifact)</displayName>
+</concept>
+<concept code="886891000000102">
+<displayName lang="en" type="PT">Presenting complaints or issues</displayName>
+<displayName lang="en" type="FSN">Presenting complaints or issues (record artifact)</displayName>
+</concept>
+<concept code="886911000000104">
+<displayName lang="en" type="PT">Medical devices</displayName>
+<displayName lang="en" type="FSN">Medical devices (record artifact)</displayName>
+</concept>
+<concept code="886921000000105">
+<displayName lang="en" type="PT">Allergies and adverse reactions</displayName>
+<displayName lang="en" type="FSN">Allergies and adverse reaction (record artifact)</displayName>
+<displayName lang="en" type="SY">Allergies and adverse reaction</displayName>
+</concept>
+<concept code="886931000000107">
+<displayName lang="en" type="PT">Safety alerts</displayName>
+<displayName lang="en" type="FSN">Safety alerts (record artifact)</displayName>
+</concept>
+<concept code="886941000000103">
+<displayName lang="en" type="PT">Risks to self</displayName>
+<displayName lang="en" type="FSN">Risks to self (record artifact)</displayName>
+</concept>
+<concept code="886951000000100">
+<displayName lang="en" type="PT">Risks to others</displayName>
+<displayName lang="en" type="FSN">Risks to others (record artifact)</displayName>
+</concept>
+<concept code="886961000000102">
+<displayName lang="en" type="PT">Legal information</displayName>
+<displayName lang="en" type="FSN">Legal information (record artifact)</displayName>
+</concept>
+<concept code="886971000000109">
+<displayName lang="en" type="PT">Consent for treatment record</displayName>
+<displayName lang="en" type="FSN">Consent for treatment record (record artifact)</displayName>
+</concept>
+<concept code="886981000000106">
+<displayName lang="en" type="PT">Mental capacity assessment</displayName>
+<displayName lang="en" type="FSN">Mental capacity assessment (record artifact)</displayName>
+</concept>
+<concept code="886991000000108">
+<displayName lang="en" type="PT">Advance decisions about treatment</displayName>
+<displayName lang="en" type="FSN">Advance decisions about treatment (record artifact)</displayName>
+</concept>
+<concept code="887001000000102">
+<displayName lang="en" type="PT">Organ and tissue donation</displayName>
+<displayName lang="en" type="FSN">Organ and tissue donation (record artifact)</displayName>
+</concept>
+<concept code="887011000000100">
+<displayName lang="en" type="PT">Lasting or enduring power of attorney or similar</displayName>
+<displayName lang="en" type="FSN">Lasting or enduring power of attorney or similar (record artifact)</displayName>
+</concept>
+<concept code="887021000000106">
+<displayName lang="en" type="PT">Consent relating to child</displayName>
+<displayName lang="en" type="FSN">Consent relating to child (record artifact)</displayName>
+</concept>
+<concept code="887031000000108">
+<displayName lang="en" type="PT">Consent to information sharing</displayName>
+<displayName lang="en" type="FSN">Consent to information sharing (record artifact)</displayName>
+</concept>
+<concept code="887041000000104">
+<displayName lang="en" type="PT">Safeguarding issues</displayName>
+<displayName lang="en" type="FSN">Safeguarding issues (record artifact)</displayName>
+</concept>
+<concept code="887051000000101">
+<displayName lang="en" type="PT">Social context</displayName>
+<displayName lang="en" type="FSN">Social context (record artifact)</displayName>
+</concept>
+<concept code="887111000000104">
+<displayName lang="en" type="PT">Family history</displayName>
+<displayName lang="en" type="FSN">Family history (record artifact)</displayName>
+</concept>
+<concept code="887121000000105">
+<displayName lang="en" type="PT">Review of systems</displayName>
+<displayName lang="en" type="FSN">Review of systems (record artifact)</displayName>
+</concept>
+<concept code="887131000000107">
+<displayName lang="en" type="PT">Patient and carer concerns</displayName>
+<displayName lang="en" type="FSN">Patient and carer concerns (record artifact)</displayName>
+</concept>
+<concept code="887141000000103">
+<displayName lang="en" type="PT">Assessment scales</displayName>
+<displayName lang="en" type="FSN">Assessment scales (record artifact)</displayName>
+</concept>
+<concept code="887151000000100">
+<displayName lang="en" type="PT">Problems and issues</displayName>
+<displayName lang="en" type="FSN">Problems and issues (record artifact)</displayName>
+</concept>
+<concept code="887161000000102">
+<displayName lang="en" type="PT">Diagnoses</displayName>
+<displayName lang="en" type="FSN">Diagnoses (record artifact)</displayName>
+</concept>
+<concept code="887171000000109">
+<displayName lang="en" type="PT">Procedures</displayName>
+<displayName lang="en" type="FSN">Procedures (record artifact)</displayName>
+</concept>
+<concept code="887181000000106">
+<displayName lang="en" type="PT">Clinical summary</displayName>
+<displayName lang="en" type="FSN">Clinical summary (record artifact)</displayName>
+</concept>
+<concept code="887191000000108">
+<displayName lang="en" type="PT">Investigations and results</displayName>
+<displayName lang="en" type="FSN">Investigations and results (record artifact)</displayName>
+</concept>
+<concept code="887201000000105">
+<displayName lang="en" type="PT">Plan and requested actions</displayName>
+<displayName lang="en" type="FSN">Plan and requested actions (record artifact)</displayName>
+</concept>
+<concept code="887211000000107">
+<displayName lang="en" type="PT">Outstanding issues</displayName>
+<displayName lang="en" type="FSN">Outstanding issues (record artifact)</displayName>
+</concept>
+<concept code="887221000000101">
+<displayName lang="en" type="PT">Information given</displayName>
+<displayName lang="en" type="FSN">Information given (record artifact)</displayName>
+</concept>
+<concept code="887231000000104">
+<displayName lang="en" type="PT">Person completing record</displayName>
+<displayName lang="en" type="FSN">Person completing record (record artifact)</displayName>
+</concept>
+<concept code="887241000000108">
+<displayName lang="en" type="PT">Person handing over</displayName>
+<displayName lang="en" type="FSN">Person handing over (record artifact)</displayName>
+</concept>
+<concept code="887251000000106">
+<displayName lang="en" type="PT">Person receiving handover</displayName>
+<displayName lang="en" type="FSN">Person receiving handover (record artifact)</displayName>
+</concept>
+<concept code="887261000000109">
+<displayName lang="en" type="PT">Distribution list</displayName>
+<displayName lang="en" type="FSN">Distribution list (record artifact)</displayName>
+</concept>
+<concept code="887271000000102">
+<displayName lang="en" type="PT">Most senior healthcare professional present</displayName>
+<displayName lang="en" type="FSN">Most senior healthcare professional present (record artifact)</displayName>
+</concept>
+<concept code="933361000000108">
+<displayName lang="en" type="PT">Medications and medical devices</displayName>
+<displayName lang="en" type="FSN">Medications and medical devices (record artifact)</displayName>
+</concept>
+</vocabulary>

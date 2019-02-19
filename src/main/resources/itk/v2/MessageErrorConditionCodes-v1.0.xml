@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MessageErrorConditionCodes" version="1.0" status="created"
+            id="2.16.840.1.113883.12.357">
+   <Description>This table identifies an erroneous segment in another message.
+					Table type: HL7</Description>
+   <concept code="0">
+      <displayName>Message accepted</displayName>
+   </concept>
+   <concept code="100">
+      <displayName>Segment sequence error</displayName>
+   </concept>
+   <concept code="101">
+      <displayName>Required field missing</displayName>
+   </concept>
+   <concept code="102">
+      <displayName>Data type error</displayName>
+   </concept>
+   <concept code="103">
+      <displayName>Table value not found</displayName>
+   </concept>
+   <concept code="200">
+      <displayName>Unsupported message type</displayName>
+   </concept>
+   <concept code="201">
+      <displayName>Unsupported event code</displayName>
+   </concept>
+   <concept code="202">
+      <displayName>Unsupported processing id</displayName>
+   </concept>
+   <concept code="203">
+      <displayName>Unsupported version id</displayName>
+   </concept>
+   <concept code="204">
+      <displayName>Unknown key identifier</displayName>
+   </concept>
+   <concept code="205">
+      <displayName>Duplicate key identifier</displayName>
+   </concept>
+   <concept code="206">
+      <displayName>Application record locked</displayName>
+   </concept>
+   <concept code="207">
+      <displayName>Application internal error</displayName>
+   </concept>
+</vocabulary>

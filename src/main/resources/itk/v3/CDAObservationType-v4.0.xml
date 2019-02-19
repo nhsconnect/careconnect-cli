@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAObservationType" version="4.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.220">
+   <Description>
+            <p>A set of codes to identify observation type used in the CDA domains.</p>
+         </Description>
+   <concept code="RAF">
+      <displayName>ReAdmission Flag</displayName>
+   </concept>
+   <concept code="LAR">
+      <displayName>Last Assessment Review</displayName>
+   </concept>
+   <concept code="PAR">
+      <displayName>Planned Assessment Review</displayName>
+   </concept>
+   <concept code="CPF">
+      <displayName>Copy Provided Flag</displayName>
+   </concept>
+   <concept code="CPA">
+      <displayName>Care Plan Agreement</displayName>
+   </concept>
+   <concept code="CPED">
+      <displayName>Component Planned End Date</displayName>
+   </concept>
+   <concept code="NCR">
+      <displayName>Next Component Review</displayName>
+   </concept>
+   <concept code="LCR">
+      <displayName>Last Component Review</displayName>
+   </concept>
+   <concept code="CAFIS">
+      <displayName>CAF Information Set</displayName>
+   </concept>
+   <concept code="CTHT">
+      <displayName>Component Text Heading Type</displayName>
+   </concept>
+   <concept code="EDD">
+      <displayName>Estimated Discharge Date</displayName>
+   </concept>
+   <concept code="LCPR">
+      <displayName>Last Care Plan Review</displayName>
+   </concept>
+   <concept code="NCPR">
+      <displayName>Next Care Plan Review</displayName>
+   </concept>
+   <concept code="THT">
+      <displayName>Text Heading Type</displayName>
+   </concept>
+   <concept code="PDR">
+      <displayName>Procedure Date Reported</displayName>
+   </concept>
+   <concept code="DIRS">
+      <displayName>DI Report Status</displayName>
+   </concept>
+   <concept code="DIUI">
+      <displayName>Diagnostic Imaging Urgency Indicator</displayName>
+   </concept>
+   <concept code="NMHATD">
+      <displayName>Next Mental Health Act Tribunal Date</displayName>
+   </concept>
+   <concept code="ARRE">
+      <displayName>At Risk Register Entry</displayName>
+   </concept>
+   <concept code="PRC">
+      <displayName>ProtectionRegisterCategory</displayName>
+   </concept>
+   <concept code="CPDCFR">
+      <displayName>Care Process Date Commenced or First Review</displayName>
+   </concept>
+   <concept code="CPDCMRR">
+      <displayName>Care Process Date Concluded or Most Recent Review</displayName>
+   </concept>
+   <concept code="CPAD">
+      <displayName>Care Process Administration</displayName>
+   </concept>
+   <concept code="CRA">
+      <displayName>Care Review Administration</displayName>
+   </concept>
+   <concept code="CPDOPR">
+      <displayName>Care Process Date of Previous Review</displayName>
+   </concept>
+   <concept code="CPDONPR">
+      <displayName>Care Process Date of Next Planned Review</displayName>
+   </concept>
+   <concept code="OEAWP">
+      <displayName>Other Entity Associated With Patient</displayName>
+   </concept>
+   <concept code="CRS">
+      <displayName>Care Review Status</displayName>
+   </concept>
+   <concept code="SF">
+      <displayName>Sampling Frequency</displayName>
+   </concept>
+   <concept code="DMRPQ">
+      <displayName>Device Measurement Range Physical Quantity</displayName>
+   </concept>
+   <concept code="DMRST">
+      <displayName>Device Measurement Range String</displayName>
+   </concept>
+   <concept code="DRPQ">
+      <displayName>Device Resolution Physical Quantity</displayName>
+   </concept>
+   <concept code="DRST">
+      <displayName>Device Resolution String</displayName>
+   </concept>
+   <concept code="DAPQ">
+      <displayName>Device Accuracy Physical Quantity</displayName>
+   </concept>
+   <concept code="DAST">
+      <displayName>Device Accuracy String</displayName>
+   </concept>
+   <concept code="WSPO">
+      <displayName>Waveform Sample Period Observation</displayName>
+   </concept>
+   <concept code="TESOBS">
+      <displayName>Test Result Observation Series</displayName>
+   </concept>
+   <concept code="BPOBS">
+      <displayName>Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="BMIOBS">
+      <displayName>BMI Observation Series</displayName>
+   </concept>
+   <concept code="MBPOBS">
+      <displayName>Mean Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="TEMOBS">
+      <displayName>Temperature Observation Series</displayName>
+   </concept>
+   <concept code="HOBS">
+      <displayName>Height Observation Series</displayName>
+   </concept>
+   <concept code="WOBS">
+      <displayName>Weight Observation Series</displayName>
+   </concept>
+   <concept code="PULOBS">
+      <displayName>Pulse Observation Series</displayName>
+   </concept>
+   <concept code="THR">
+      <displayName>Threshold</displayName>
+   </concept>
+   <concept code="THRR">
+      <displayName>Threshold Rate</displayName>
+   </concept>
+   <concept code="DSTO">
+      <displayName>DST Outcome</displayName>
+   </concept>
+   <concept code="CO">
+      <displayName>Checklist Outcome</displayName>
+   </concept>
+   <concept code="CHCRS">
+      <displayName>CHC Referral Status</displayName>
+   </concept>
+   <concept code="DSTEO">
+      <displayName>DST Eligibility Outcome</displayName>
+   </concept>
+   <concept code="DDEF">
+      <displayName>Device Definition</displayName>
+   </concept>
+   <concept code="BCOBSSER">
+      <displayName>Blood Coagulation Observation Series</displayName>
+   </concept>
+   <concept code="BGOBSSER">
+      <displayName>Blood Glucose Observation Series</displayName>
+   </concept>
+   <concept code="BPOBSSER">
+      <displayName>Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="BMIOBSSER">
+      <displayName>Body Mass Index Observation Series</displayName>
+   </concept>
+   <concept code="BTOBSSER">
+      <displayName>Body Temperature Observation Series</displayName>
+   </concept>
+   <concept code="CMOBSSER">
+      <displayName>Carbon Monoxide Observation Series</displayName>
+   </concept>
+   <concept code="COBSSER">
+      <displayName>Cholesterol Observation Series</displayName>
+   </concept>
+   <concept code="FEVOBSSER">
+      <displayName>Forced Expiratory Volume of an Observation Series</displayName>
+   </concept>
+   <concept code="FVCOBSSER">
+      <displayName>Forced Vital Capacity Observation Series</displayName>
+   </concept>
+   <concept code="HOBSSER">
+      <displayName>Height Observation Series.</displayName>
+   </concept>
+   <concept code="MBPOBSSER">
+      <displayName>Mean Blood Pressure Observation Series</displayName>
+   </concept>
+   <concept code="OSOBSSER">
+      <displayName>Oxygen Saturation Observation Series</displayName>
+   </concept>
+   <concept code="PFOBSSER">
+      <displayName>Peak Flow Observation Series</displayName>
+   </concept>
+   <concept code="PROBSSER">
+      <displayName>Pulse Rate Observation Series</displayName>
+   </concept>
+   <concept code="TOBSSER">
+      <displayName>Triglycerides Observation Series</displayName>
+   </concept>
+   <concept code="WOBSSER">
+      <displayName>Weight Observation Series</displayName>
+   </concept>
+   <concept code="THRI">
+      <displayName>Threshold Interpretation</displayName>
+   </concept>
+   <concept code="BPTHR">
+      <displayName>Blood Pressure Threshold</displayName>
+   </concept>
+   <concept code="WTHR">
+      <displayName>Weight Threshold</displayName>
+   </concept>
+   <concept code="PRTHR">
+      <displayName>Pulse Rate Threshold</displayName>
+   </concept>
+   <concept code="MBPTHR">
+      <displayName>Mean Blood Pressure Threshold</displayName>
+   </concept>
+   <concept code="BGTHR">
+      <displayName>Blood Glucose Threshold</displayName>
+   </concept>
+   <concept code="PFTHR">
+      <displayName>Peak Flow Threshold</displayName>
+   </concept>
+   <concept code="FVCTHR">
+      <displayName>Forced Vital Capacity Threshold</displayName>
+   </concept>
+   <concept code="BTTHR">
+      <displayName>Body Temperature Threshold</displayName>
+   </concept>
+   <concept code="BMITHR">
+      <displayName>Body Mass Index Threshold</displayName>
+   </concept>
+   <concept code="FEVTHR">
+      <displayName>FEV Threshold</displayName>
+   </concept>
+   <concept code="TTHR">
+      <displayName>Triglycerides Threshold</displayName>
+   </concept>
+   <concept code="CTHR">
+      <displayName>Cholesterol Threshold</displayName>
+   </concept>
+   <concept code="OSTHR">
+      <displayName>Oxygen Saturation Threshold</displayName>
+   </concept>
+   <concept code="CMTHR">
+      <displayName>Carbon Monoxide Threshold</displayName>
+   </concept>
+   <concept code="PTTHR">
+      <displayName>Prothrombin Time Threshold</displayName>
+   </concept>
+   <concept code="APTTTHR">
+      <displayName>Activated Partial Thromboplastin Time Threshold</displayName>
+   </concept>
+   <concept code="CSOBS">
+      <displayName>Cuff Size Observation</displayName>
+   </concept>
+</vocabulary>

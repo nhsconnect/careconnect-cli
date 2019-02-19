@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="InteractionTypeSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: then <b>SNOMED CT</b> OID, qv the link</p>
+            <p>Any code from the UK subset of SnomedCT that describes a interaction method, i.e: the medium in which a care event took place, such as telephone, email , face-to-face, via telemetry</p>
+         </Description>
+   <concept code="185317003">
+      <displayName>telephone encounter</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS111EncounterCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.326">
+   <Description>
+            <p>
+               <p>
+                  <span class="Apple-style-span">A code that describes an encounter between a NHS111 professional and the patient (or patient's record). </span>
+               </p>
+               <p>
+                  <span class="Apple-style-span">The coded attribute that uses this vocabulary is defines as CNE and therefore should carry codes only from this vocabulary.</span>
+                  <br/>
+               </p>
+            </p>
+         </Description>
+   <concept code="NHS111Encounter">
+      <displayName>NHS111 Encounter</displayName>
+   </concept>
+</vocabulary>

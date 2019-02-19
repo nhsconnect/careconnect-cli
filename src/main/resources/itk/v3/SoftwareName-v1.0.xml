@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SoftwareName" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.333">
+   <Description>
+            <ul>
+               <li>This vocabulary is used to describe the software installed / running on the device or system. </li>
+               <li>This is a HL7 vocabulary and there are currently no codes defined by HL7 to describe software.  </li>
+               <li>Please refer to the tabular view for guidance on how to code software.  </li>
+            </ul>
+         </Description>
+</vocabulary>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Breathing" type="Realm Concept" setId="67911000000136" version="6" id="7701000000138" refId="999001431000000106" memberCount="91" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="17216000">
+<displayName lang="en-GB" type="PT">Dyspnoea, class I</displayName>
+<displayName lang="en" type="FSN">Dyspnea, class I (finding)</displayName>
+</concept>
+<concept code="20112008">
+<displayName lang="en-GB" type="PT">Dyspnoea leaning over</displayName>
+<displayName lang="en" type="FSN">Dyspnea leaning over (finding)</displayName>
+</concept>
+<concept code="20573003">
+<displayName lang="en" type="PT">Ineffective breathing pattern</displayName>
+<displayName lang="en" type="FSN">Ineffective breathing pattern (finding)</displayName>
+<displayName lang="en" type="SY">Breathing pattern impairment</displayName>
+<displayName lang="en" type="SY">Respiratory pattern impairment</displayName>
+</concept>
+<concept code="23141003">
+<displayName lang="en" type="PT">Gasping for breath</displayName>
+<displayName lang="en" type="FSN">Gasping for breath (finding)</displayName>
+<displayName lang="en" type="SY">Gasping</displayName>
+<displayName lang="en" type="SY">Gasping respiration</displayName>
+</concept>
+<concept code="24921003">
+<displayName lang="en-GB" type="PT">Dyspnoea raising arms</displayName>
+<displayName lang="en" type="FSN">Dyspnea raising arms (finding)</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea raizing arms</displayName>
+</concept>
+<concept code="25209001">
+<displayName lang="en-GB" type="PT">Inspiratory dyspnoea</displayName>
+<displayName lang="en" type="FSN">Inspiratory dyspnea (finding)</displayName>
+<displayName lang="en-GB" type="SY">Laryngeal dyspnoea</displayName>
+</concept>
+<concept code="30744009">
+<displayName lang="en-GB" type="PT">Platypnoea</displayName>
+<displayName lang="en" type="FSN">Platypnea (finding)</displayName>
+</concept>
+<concept code="34560001">
+<displayName lang="en-GB" type="PT">Expiratory dyspnoea</displayName>
+<displayName lang="en" type="FSN">Expiratory dyspnea (finding)</displayName>
+</concept>
+<concept code="34681009">
+<displayName lang="en" type="PT">Perinatal respiratory distress</displayName>
+<displayName lang="en" type="FSN">Perinatal respiratory distress (disorder)</displayName>
+</concept>
+<concept code="39950000">
+<displayName lang="en-GB" type="PT">Dyspnoea, class III</displayName>
+<displayName lang="en" type="FSN">Dyspnea, class III (finding)</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea, class 3</displayName>
+</concept>
+<concept code="46775006">
+<displayName lang="en" type="PT">Respiratory distress syndrome in the newborn</displayName>
+<displayName lang="en" type="FSN">Respiratory distress syndrome in the newborn (disorder)</displayName>
+<displayName lang="en" type="SY">Cardiorespiratory distress syndrome of newborn</displayName>
+<displayName lang="en" type="SY">Congenital alveolar dysplasia</displayName>
+<displayName lang="en" type="SY">HMD - Hyaline membrane disease</displayName>
+<displayName lang="en" type="SY">Hyaline membrane disease</displayName>
+<displayName lang="en" type="SY">IRDS - Idiopathic respiratory distress syndrome</displayName>
+<displayName lang="en" type="SY">IRDS of newborn</displayName>
+<displayName lang="en" type="SY">Idiopathic respiratory distress syndrome</displayName>
+<displayName lang="en" type="SY">Idiopathic respiratory distress syndrome of newborn</displayName>
+<displayName lang="en" type="SY">Neonatal respiratory distress syndrome</displayName>
+<displayName lang="en" type="SY">Pulmonary hypoperfusion syndrome of newborn</displayName>
+<displayName lang="en" type="SY">RDS - Respiratory distress syndrome of newborn</displayName>
+<displayName lang="en" type="SY">RDS of newborn</displayName>
+<displayName lang="en" type="SY">Respiratory distress syndrome in neonate</displayName>
+<displayName lang="en" type="SY">Respiratory distress syndrome of newborn</displayName>
+<displayName lang="en" type="SY">Wet lung disease of newborn</displayName>
+</concept>
+<concept code="55442000">
+<displayName lang="en-GB" type="PT">Paroxysmal nocturnal dyspnoea</displayName>
+<displayName lang="en" type="FSN">Paroxysmal nocturnal dyspnea (finding)</displayName>
+<displayName lang="en-GB" type="SY">PND - Paroxysmal nocturnal dyspnoea</displayName>
+</concept>
+<concept code="57769004">
+<displayName lang="en-GB" type="PT">Dyspnoea after eating</displayName>
+<displayName lang="en" type="FSN">Dyspnea after eating (finding)</displayName>
+</concept>
+<concept code="59265000">
+<displayName lang="en-GB" type="PT">Paroxysmal dyspnoea</displayName>
+<displayName lang="en" type="FSN">Paroxysmal dyspnea (finding)</displayName>
+</concept>
+<concept code="60845006">
+<displayName lang="en-GB" type="PT">Dyspnoea on exertion</displayName>
+<displayName lang="en" type="FSN">Dyspnea on exertion (finding)</displayName>
+<displayName lang="en" type="SY">Breathlessness on exertion</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea on effort</displayName>
+<displayName lang="en-GB" type="SY">Exertional dyspnoea</displayName>
+<displayName lang="en" type="SY">SOBOE - Shortness of breath on exertion</displayName>
+<displayName lang="en" type="SY">Short of breath on exertion</displayName>
+</concept>
+<concept code="62744007">
+<displayName lang="en-GB" type="PT">Orthopnoea</displayName>
+<displayName lang="en" type="FSN">Orthopnea (finding)</displayName>
+<displayName lang="en" type="SY">Breathlessness lying flat</displayName>
+</concept>
+<concept code="67750007">
+<displayName lang="en" type="PT">Ineffective airway clearance</displayName>
+<displayName lang="en" type="FSN">Ineffective airway clearance (finding)</displayName>
+<displayName lang="en" type="SY">Airway clearance impairment</displayName>
+</concept>
+<concept code="72365000">
+<displayName lang="en-GB" type="PT">Dyspnoea, class II</displayName>
+<displayName lang="en" type="FSN">Dyspnea, class II (finding)</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea, class 2</displayName>
+</concept>
+<concept code="73322006">
+<displayName lang="en-GB" type="PT">Dyspnoea, class IV</displayName>
+<displayName lang="en" type="FSN">Dyspnea, class IV (finding)</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea, class 4</displayName>
+</concept>
+<concept code="102577000">
+<displayName lang="en-GB" type="PT">Trepopnoea</displayName>
+<displayName lang="en" type="FSN">Trepopnea (finding)</displayName>
+</concept>
+<concept code="161939006">
+<displayName lang="en" type="PT">Breathless - moderate exertion</displayName>
+<displayName lang="en" type="FSN">Breathless - moderate exertion (finding)</displayName>
+</concept>
+<concept code="161940008">
+<displayName lang="en" type="PT">Breathless - mild exertion</displayName>
+<displayName lang="en" type="FSN">Breathless - mild exertion (finding)</displayName>
+</concept>
+<concept code="161941007">
+<displayName lang="en-GB" type="PT">Dyspnoea at rest</displayName>
+<displayName lang="en" type="FSN">Dyspnea at rest (finding)</displayName>
+<displayName lang="en" type="SY">Breathless - at rest</displayName>
+<displayName lang="en" type="SY">SOBAR - Shortness of breath at rest</displayName>
+</concept>
+<concept code="162890008">
+<displayName lang="en-GB" type="PT">O/E - dyspnoea</displayName>
+<displayName lang="en" type="FSN">On examination - dyspnea (finding)</displayName>
+<displayName lang="en" type="SY">On examination - dyspnea</displayName>
+</concept>
+<concept code="162891007">
+<displayName lang="en-GB" type="PT">O/E - orthopnoea</displayName>
+<displayName lang="en" type="FSN">On examination - orthopnea (finding)</displayName>
+<displayName lang="en" type="SY">On examination - orthopnea</displayName>
+</concept>
+<concept code="162892000">
+<displayName lang="en" type="PT">O/E - respiratory distress</displayName>
+<displayName lang="en" type="FSN">On examination - respiratory distress (finding)</displayName>
+<displayName lang="en" type="SY">On examination - respiratory distress</displayName>
+</concept>
+<concept code="230145002">
+<displayName lang="en" type="PT">Difficulty breathing</displayName>
+<displayName lang="en" type="FSN">Difficulty breathing (finding)</displayName>
+<displayName lang="en" type="SY">DIB - Difficulty in breathing</displayName>
+<displayName lang="en" type="SY">Respiration difficult</displayName>
+</concept>
+<concept code="248548009">
+<displayName lang="en-GB" type="PT">Nocturnal dyspnoea</displayName>
+<displayName lang="en" type="FSN">Nocturnal dyspnea (finding)</displayName>
+<displayName lang="en" type="SY">Short of breath at night</displayName>
+</concept>
+<concept code="248549001">
+<displayName lang="en-GB" type="PT">Laboured breathing</displayName>
+<displayName lang="en" type="FSN">Labored breathing (finding)</displayName>
+<displayName lang="en-GB" type="SY">Laboured respiration</displayName>
+</concept>
+<concept code="248551002">
+<displayName lang="en" type="PT">Cannot blow</displayName>
+<displayName lang="en" type="FSN">Cannot blow (finding)</displayName>
+<displayName lang="en" type="SY">Can&apos;t blow</displayName>
+</concept>
+<concept code="248552009">
+<displayName lang="en" type="PT">Winded</displayName>
+<displayName lang="en" type="FSN">Winded (finding)</displayName>
+</concept>
+<concept code="248591004">
+<displayName lang="en" type="PT">Unable to huff</displayName>
+<displayName lang="en" type="FSN">Unable to huff (finding)</displayName>
+</concept>
+<concept code="267036007">
+<displayName lang="en-GB" type="PT">Dyspnoea</displayName>
+<displayName lang="en" type="FSN">Dyspnea (finding)</displayName>
+<displayName lang="en" type="SY">Breathless</displayName>
+<displayName lang="en" type="SY">Breathlessness</displayName>
+<displayName lang="en" type="SY">SOB - Shortness of breath</displayName>
+<displayName lang="en" type="SY">Shortness of breath</displayName>
+</concept>
+<concept code="271825005">
+<displayName lang="en" type="PT">Respiratory distress</displayName>
+<displayName lang="en" type="FSN">Respiratory distress (finding)</displayName>
+<displayName lang="en" type="SY">Distressed breathing</displayName>
+</concept>
+<concept code="276362002">
+<displayName lang="en" type="PT">Breathing easily</displayName>
+<displayName lang="en" type="FSN">Breathing easily (finding)</displayName>
+<displayName lang="en" type="SY">Breathing freely</displayName>
+</concept>
+<concept code="276544005">
+<displayName lang="en-GB" type="PT">Apnoea of prematurity</displayName>
+<displayName lang="en" type="FSN">Apnea of prematurity (disorder)</displayName>
+</concept>
+<concept code="276545006">
+<displayName lang="en-GB" type="PT">Obstructive apnoea of newborn</displayName>
+<displayName lang="en" type="FSN">Obstructive apnea of newborn (disorder)</displayName>
+</concept>
+<concept code="276546007">
+<displayName lang="en-GB" type="PT">Prolonged apnoea of newborn</displayName>
+<displayName lang="en" type="FSN">Prolonged apnea of newborn (disorder)</displayName>
+</concept>
+<concept code="288848001">
+<displayName lang="en" type="PT">Able to breathe</displayName>
+<displayName lang="en" type="FSN">Able to breathe (finding)</displayName>
+</concept>
+<concept code="288849009">
+<displayName lang="en" type="PT">Unable to breathe</displayName>
+<displayName lang="en" type="FSN">Unable to breathe (finding)</displayName>
+</concept>
+<concept code="289096007">
+<displayName lang="en" type="PT">Able to take deep breaths</displayName>
+<displayName lang="en" type="FSN">Able to take deep breaths (finding)</displayName>
+</concept>
+<concept code="289097003">
+<displayName lang="en" type="PT">Unable to take deep breaths</displayName>
+<displayName lang="en" type="FSN">Unable to take deep breaths (finding)</displayName>
+</concept>
+<concept code="289098008">
+<displayName lang="en" type="PT">Does take deep breaths</displayName>
+<displayName lang="en" type="FSN">Does take deep breaths (finding)</displayName>
+<displayName lang="en" type="SY">Takes deep breaths</displayName>
+</concept>
+<concept code="289099000">
+<displayName lang="en" type="PT">Does not take deep breaths</displayName>
+<displayName lang="en" type="FSN">Does not take deep breaths (finding)</displayName>
+</concept>
+<concept code="289100008">
+<displayName lang="en" type="PT">Difficulty taking deep breaths</displayName>
+<displayName lang="en" type="FSN">Difficulty taking deep breaths (finding)</displayName>
+</concept>
+<concept code="289101007">
+<displayName lang="en" type="PT">Able to control breathing</displayName>
+<displayName lang="en" type="FSN">Able to control breathing (finding)</displayName>
+</concept>
+<concept code="289102000">
+<displayName lang="en" type="PT">Unable to control breathing</displayName>
+<displayName lang="en" type="FSN">Unable to control breathing (finding)</displayName>
+</concept>
+<concept code="289103005">
+<displayName lang="en" type="PT">Does control breathing</displayName>
+<displayName lang="en" type="FSN">Does control breathing (finding)</displayName>
+<displayName lang="en" type="SY">Controls breathing</displayName>
+</concept>
+<concept code="289104004">
+<displayName lang="en" type="PT">Does not control breathing</displayName>
+<displayName lang="en" type="FSN">Does not control breathing (finding)</displayName>
+</concept>
+<concept code="289105003">
+<displayName lang="en" type="PT">Difficulty controlling breathing</displayName>
+<displayName lang="en" type="FSN">Difficulty controlling breathing (finding)</displayName>
+</concept>
+<concept code="289109009">
+<displayName lang="en" type="PT">Able to huff</displayName>
+<displayName lang="en" type="FSN">Able to huff (finding)</displayName>
+</concept>
+<concept code="289110004">
+<displayName lang="en" type="PT">Does huff</displayName>
+<displayName lang="en" type="FSN">Does huff (finding)</displayName>
+<displayName lang="en" type="SY">Huffs</displayName>
+</concept>
+<concept code="289111000">
+<displayName lang="en" type="PT">Does not huff</displayName>
+<displayName lang="en" type="FSN">Does not huff (finding)</displayName>
+</concept>
+<concept code="289112007">
+<displayName lang="en" type="PT">Difficulty huffing</displayName>
+<displayName lang="en" type="FSN">Difficulty huffing (finding)</displayName>
+</concept>
+<concept code="289117001">
+<displayName lang="en" type="PT">Able to expectorate</displayName>
+<displayName lang="en" type="FSN">Able to expectorate (finding)</displayName>
+<displayName lang="en" type="SY">Able to clear chest</displayName>
+</concept>
+<concept code="289118006">
+<displayName lang="en" type="PT">Unable to expectorate</displayName>
+<displayName lang="en" type="FSN">Unable to expectorate (finding)</displayName>
+<displayName lang="en" type="SY">Unable to clear chest</displayName>
+</concept>
+<concept code="289119003">
+<displayName lang="en" type="PT">Does expectorate</displayName>
+<displayName lang="en" type="FSN">Does expectorate (finding)</displayName>
+<displayName lang="en" type="SY">Clears chest</displayName>
+<displayName lang="en" type="SY">Expectorates</displayName>
+</concept>
+<concept code="289120009">
+<displayName lang="en" type="PT">Does not expectorate</displayName>
+<displayName lang="en" type="FSN">Does not expectorate (finding)</displayName>
+<displayName lang="en" type="SY">Does not clear chest</displayName>
+</concept>
+<concept code="289121008">
+<displayName lang="en" type="PT">Difficulty expectorating</displayName>
+<displayName lang="en" type="FSN">Difficulty expectorating (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty clearing chest</displayName>
+</concept>
+<concept code="297216006">
+<displayName lang="en" type="PT">Increasing breathlessness</displayName>
+<displayName lang="en" type="FSN">Increasing breathlessness (finding)</displayName>
+</concept>
+<concept code="301239007">
+<displayName lang="en" type="PT">Able to clear sputum</displayName>
+<displayName lang="en" type="FSN">Able to clear sputum (finding)</displayName>
+</concept>
+<concept code="301240009">
+<displayName lang="en" type="PT">Difficulty to clear sputum</displayName>
+<displayName lang="en" type="FSN">Difficulty to clear sputum (finding)</displayName>
+</concept>
+<concept code="301241008">
+<displayName lang="en" type="PT">Unable to clear sputum</displayName>
+<displayName lang="en" type="FSN">Unable to clear sputum (finding)</displayName>
+</concept>
+<concept code="301242001">
+<displayName lang="en" type="PT">Does clear sputum</displayName>
+<displayName lang="en" type="FSN">Does clear sputum (finding)</displayName>
+</concept>
+<concept code="301243006">
+<displayName lang="en" type="PT">Does not clear sputum</displayName>
+<displayName lang="en" type="FSN">Does not clear sputum (finding)</displayName>
+</concept>
+<concept code="373895009">
+<displayName lang="en" type="PT">Acute respiratory distress</displayName>
+<displayName lang="en" type="FSN">Acute respiratory distress (finding)</displayName>
+</concept>
+<concept code="390870001">
+<displayName lang="en" type="PT">Short of breath dressing/undressing</displayName>
+<displayName lang="en" type="FSN">Short of breath dressing/undressing (finding)</displayName>
+</concept>
+<concept code="390871002">
+<displayName lang="en" type="PT">Breathless - strenuous exertion</displayName>
+<displayName lang="en" type="FSN">Breathless - strenuous exertion (finding)</displayName>
+</concept>
+<concept code="391120009">
+<displayName lang="en" type="PT">MRC Breathlessness Scale: grade 1</displayName>
+<displayName lang="en" type="FSN">Medical Research Council Breathlessness Scale grade 1 (finding)</displayName>
+<displayName lang="en" type="SY">Medical Research Council (MRC) Breathlessness Scale: grade 1</displayName>
+<displayName lang="en" type="SY">Medical Research Council Breathlessness Scale grade 1</displayName>
+</concept>
+<concept code="391123006">
+<displayName lang="en" type="PT">MRC Breathlessness Scale: grade 2</displayName>
+<displayName lang="en" type="FSN">Medical Research Council Breathlessness Scale grade 2 (finding)</displayName>
+<displayName lang="en" type="SY">Medical Research Council (MRC) Breathlessness Scale: grade 2</displayName>
+<displayName lang="en" type="SY">Medical Research Council Breathlessness Scale grade 2</displayName>
+</concept>
+<concept code="391124000">
+<displayName lang="en" type="PT">MRC Breathlessness Scale: grade 3</displayName>
+<displayName lang="en" type="FSN">Medical Research Council Breathlessness Scale: grade 3 (finding)</displayName>
+<displayName lang="en" type="SY">Medical Research Council Breathlessness Scale: grade 3</displayName>
+</concept>
+<concept code="391125004">
+<displayName lang="en" type="PT">MRC Breathlessness Scale: grade 4</displayName>
+<displayName lang="en" type="FSN">Medical Research Council Breathlessness Scale grade 4 (finding)</displayName>
+<displayName lang="en" type="SY">Medical Research Council (MRC) Breathlessness Scale: grade 4</displayName>
+<displayName lang="en" type="SY">Medical Research Council Breathlessness Scale grade 4</displayName>
+</concept>
+<concept code="391126003">
+<displayName lang="en" type="PT">MRC Breathlessness Scale: grade 5</displayName>
+<displayName lang="en" type="FSN">Medical Research Council Breathlessness Scale grade 5 (finding)</displayName>
+<displayName lang="en" type="SY">Medical Research Council (MRC) Breathlessness Scale: grade 5</displayName>
+<displayName lang="en" type="SY">Medical Research Council Breathlessness Scale grade 5</displayName>
+</concept>
+<concept code="401275008">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 0 none at all</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 0 none at all (finding)</displayName>
+</concept>
+<concept code="401279002">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 1 very slight</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 1 very slight (finding)</displayName>
+</concept>
+<concept code="401280004">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 2 slight</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 2 slight (finding)</displayName>
+</concept>
+<concept code="401281000">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 3 moderate</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 3 moderate (finding)</displayName>
+</concept>
+<concept code="401282007">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 4 somewhat severe</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 4 somewhat severe (finding)</displayName>
+</concept>
+<concept code="401284008">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 5 severe</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 5 severe (finding)</displayName>
+</concept>
+<concept code="401286005">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 6 severe (+)</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 6 severe (+) (finding)</displayName>
+</concept>
+<concept code="401290007">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 7 very severe</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 7 very severe (finding)</displayName>
+</concept>
+<concept code="401291006">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 8 very severe (+)</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 8 very severe (+) (finding)</displayName>
+</concept>
+<concept code="401292004">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 9 very, very severe (almost maximal)</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 9 very, very severe (almost maximal) (finding)</displayName>
+</concept>
+<concept code="401293009">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 10 maximal</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 10 maximal (finding)</displayName>
+</concept>
+<concept code="401323002">
+<displayName lang="en" type="PT">Borg Breathlessness Score: 0.5 very, very slight (just noticeable)</displayName>
+<displayName lang="en" type="FSN">Borg Breathlessness Score: 0.5 very, very slight (just noticeable) (finding)</displayName>
+</concept>
+<concept code="407588003">
+<displayName lang="en" type="PT">Unable to complete a sentence in one breath</displayName>
+<displayName lang="en" type="FSN">Unable to complete a sentence in one breath (finding)</displayName>
+</concept>
+<concept code="422177004">
+<displayName lang="en-GB" type="PT">Dyspnoea associated with AIDS</displayName>
+<displayName lang="en" type="FSN">Dyspnea associated with acquired immunodeficiency syndrome (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Dyspnoea associated with acquired immunodeficiency syndrome</displayName>
+</concept>
+<concept code="707540007">
+<displayName lang="en" type="PT">Acute respiratory distress in newborn</displayName>
+<displayName lang="en" type="FSN">Acute respiratory distress in newborn (disorder)</displayName>
+</concept>
+<concept code="707541006">
+<displayName lang="en" type="PT">Acute respiratory distress in newborn with surfactant disorder</displayName>
+<displayName lang="en" type="FSN">Acute respiratory distress in newborn with surfactant disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Neonatal acute respiratory distress with surfactant disorder</displayName>
+</concept>
+<concept code="852051000000107">
+<displayName lang="en" type="PT">Minimal breathlessness</displayName>
+<displayName lang="en" type="FSN">Minimal breathlessness (finding)</displayName>
+</concept>
+<concept code="928431000000100">
+<displayName lang="en" type="PT">Able to complete sentence in one breath</displayName>
+<displayName lang="en" type="FSN">Able to complete sentence in one breath (finding)</displayName>
+</concept>
+</vocabulary>

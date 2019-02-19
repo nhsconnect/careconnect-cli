@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SCReasonCode" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.22">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary SCReasonCode</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.22</p>
+            <p>A code indicating the reason for the change of status of the Legitimate Relationship.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Referral Cancellation (Closure)</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Workgroup Closure (Freeze)</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Patient is deceased (Freeze)</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Timed out through lack of use (Freeze)</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Further Timed out (Closure)</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Relationship Termination</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Closure of Case</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Referral acceptance</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Referral rejection</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Referral abandonment</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Referral discharge</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Patient registration</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Patient deregistration</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Self-referral cessation</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Closure of Subject Access Request</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryName" version="1.0" status="created" id="2.16.840.1.113883.12.471">
+   <Description>This table contains the name of the query.  These names are assigned by the function-specific chapters of HL7 specification.
+					Table type: User</Description>
+   <concept code="Q21">
+      <displayName>Get person demographics</displayName>
+   </concept>
+   <concept code="Q22">
+      <displayName>Find Candidates Query</displayName>
+   </concept>
+   <concept code="ZV1">
+      <displayName>Patient Demographics and Visit Query</displayName>
+   </concept>
+</vocabulary>

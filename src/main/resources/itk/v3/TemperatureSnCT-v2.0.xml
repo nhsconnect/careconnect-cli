@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TemperatureSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p> </p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the temperature.<br/>
+                  <br/>
+                  <strong>Any code from the SNOMED CT UK TemperatureSnCT subset with subset original id 45371000000130.<br/>
+                     <br/>
+                  </strong>The use of this subset is <strong>Advisory</strong>.<br/>
+                  <br/>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab.  <br/>
+               </p> 
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="307047009">
+      <displayName>Rectal temperature</displayName>
+   </concept>
+   <concept code="415945006">
+      <displayName>Oral temperature</displayName>
+   </concept>
+   <concept code="415974002">
+      <displayName>Tympanic temperature</displayName>
+   </concept>
+   <concept code="415929009">
+      <displayName>Groin temperature</displayName>
+   </concept>
+   <concept code="415882003">
+      <displayName>Axillary temperature</displayName>
+   </concept>
+   <concept code="276885007">
+      <displayName>Core body temperature</displayName>
+   </concept>
+   <concept code="415921007">
+      <displayName>Forehead skin strip temperature</displayName>
+   </concept>
+   <concept code="386725007">
+      <displayName>Body temperature</displayName>
+   </concept>
+</vocabulary>

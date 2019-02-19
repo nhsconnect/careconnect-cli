@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DocumentResponseType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.457">
+   <Description>
+            <p>
+               <p>A set of codes to indicate the response document type.</p>
+               <p>For local codes, the OID 2.16.840.1.113883.2.1.3.2.4.17.450 may be used.</p>
+               <span/>
+            </p>
+         </Description>
+   <concept code="861421000000109">
+      <displayName>End of Life Care Coordination Summary</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Supply" type="Realm Concept" setId="68851000000132" version="18" id="1301000000132" refId="999001021000000103" memberCount="1" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="373784005">
+<displayName lang="en" type="PT">Dispensing medication</displayName>
+<displayName lang="en" type="FSN">Dispensing medication (procedure)</displayName>
+</concept>
+</vocabulary>

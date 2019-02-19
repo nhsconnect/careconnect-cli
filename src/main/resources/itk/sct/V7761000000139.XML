@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Cognition" type="Realm Concept" setId="67971000000132" version="6" id="7761000000139" refId="999001481000000105" memberCount="607" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="216004">
+<displayName lang="en" type="PT">Delusion of persecution</displayName>
+<displayName lang="en" type="FSN">Delusion of persecution (finding)</displayName>
+<displayName lang="en" type="SY">Paranoid reaction</displayName>
+<displayName lang="en" type="SY">Persecutory delusion</displayName>
+</concept>
+<concept code="313005">
+<displayName lang="en" type="PT">D&#233;j&#224; vu</displayName>
+<displayName lang="en" type="FSN">D&#233;j&#224; vu (finding)</displayName>
+</concept>
+<concept code="2073000">
+<displayName lang="en" type="PT">Delusions</displayName>
+<displayName lang="en" type="FSN">Delusions (finding)</displayName>
+<displayName lang="en" type="SY">Delusional ideas</displayName>
+<displayName lang="en" type="SY">Delusional thoughts</displayName>
+</concept>
+<concept code="2496007">
+<displayName lang="en" type="PT">Acalculia</displayName>
+<displayName lang="en" type="FSN">Acalculia (finding)</displayName>
+</concept>
+<concept code="2899008">
+<displayName lang="en" type="PT">Thought block</displayName>
+<displayName lang="en" type="FSN">Thought block (finding)</displayName>
+<displayName lang="en" type="SY">Thought blocking</displayName>
+<displayName lang="en" type="SY">Thought deprivation</displayName>
+</concept>
+<concept code="3185000">
+<displayName lang="en" type="PT">Mood-congruent delusion</displayName>
+<displayName lang="en" type="FSN">Mood-congruent delusion (finding)</displayName>
+</concept>
+<concept code="4364002">
+<displayName lang="en" type="PT">Structure of associations</displayName>
+<displayName lang="en" type="FSN">Structure of associations (finding)</displayName>
+</concept>
+<concept code="4721006">
+<displayName lang="en" type="PT">Basic motor learning problem</displayName>
+<displayName lang="en" type="FSN">Basic motor learning problem (finding)</displayName>
+</concept>
+<concept code="6149008">
+<displayName lang="en" type="PT">Amnesia for remote events</displayName>
+<displayName lang="en" type="FSN">Amnesia for remote events (finding)</displayName>
+<displayName lang="en" type="SY">Loss of memory for remote events</displayName>
+<displayName lang="en" type="SY">Poor memory for remote events</displayName>
+</concept>
+<concept code="6349000">
+<displayName lang="en-GB" type="PT">Projection - mental defence mechanism</displayName>
+<displayName lang="en" type="FSN">Projection - mental defense mechanism (finding)</displayName>
+<displayName lang="en-GB" type="SY">Mental defence through projection</displayName>
+<displayName lang="en" type="SY">Symptom projection</displayName>
+<displayName lang="en" type="SY">Thought projection</displayName>
+</concept>
+<concept code="6471006">
+<displayName lang="en" type="PT">Suicidal thoughts</displayName>
+<displayName lang="en" type="FSN">Suicidal thoughts (finding)</displayName>
+</concept>
+<concept code="7684004">
+<displayName lang="en-GB" type="PT">Fantasising</displayName>
+<displayName lang="en" type="FSN">Fantasizing (finding)</displayName>
+</concept>
+<concept code="7865000">
+<displayName lang="en" type="PT">Reality testing</displayName>
+<displayName lang="en" type="FSN">Reality testing (finding)</displayName>
+</concept>
+<concept code="8330006">
+<displayName lang="en" type="PT">Delusion of infidelity</displayName>
+<displayName lang="en" type="FSN">Delusion of infidelity (finding)</displayName>
+<displayName lang="en" type="SY">Delusional jealousy</displayName>
+<displayName lang="en" type="SY">Pathological jealousy</displayName>
+</concept>
+<concept code="9288000">
+<displayName lang="en" type="PT">Irrelevant answer</displayName>
+<displayName lang="en" type="FSN">Irrelevant answer (finding)</displayName>
+</concept>
+<concept code="12332005">
+<displayName lang="en" type="PT">Pseudologia fantastica</displayName>
+<displayName lang="en" type="FSN">Pseudologia fantastica (finding)</displayName>
+</concept>
+<concept code="14003003">
+<displayName lang="en" type="PT">Monomania</displayName>
+<displayName lang="en" type="FSN">Monomania (finding)</displayName>
+</concept>
+<concept code="17842005">
+<displayName lang="en" type="PT">Confabulation</displayName>
+<displayName lang="en" type="FSN">Confabulation (finding)</displayName>
+<displayName lang="en" type="SY">Invents experiences to compensate for loss of memory</displayName>
+</concept>
+<concept code="18343006">
+<displayName lang="en" type="PT">Circumstantiality</displayName>
+<displayName lang="en" type="FSN">Circumstantiality (finding)</displayName>
+</concept>
+<concept code="20517006">
+<displayName lang="en" type="PT">Mental condensation</displayName>
+<displayName lang="en" type="FSN">Mental condensation (finding)</displayName>
+</concept>
+<concept code="21001001">
+<displayName lang="en" type="PT">D&#233;j&#224; pens&#233;</displayName>
+<displayName lang="en" type="FSN">D&#233;j&#224; pens&#233; (finding)</displayName>
+<displayName lang="en" type="SY">Deja pense</displayName>
+</concept>
+<concept code="23766009">
+<displayName lang="en" type="PT">Basic learning problem in reading</displayName>
+<displayName lang="en" type="FSN">Basic learning problem in reading (finding)</displayName>
+<displayName lang="en" type="SY">Reading problem</displayName>
+</concept>
+<concept code="25107009">
+<displayName lang="en" type="PT">Verbal repetition</displayName>
+<displayName lang="en" type="FSN">Verbal repetition (finding)</displayName>
+<displayName lang="en" type="SY">Repetitive speech</displayName>
+</concept>
+<concept code="25462005">
+<displayName lang="en" type="PT">Palinopsia</displayName>
+<displayName lang="en" type="FSN">Palinopsia (finding)</displayName>
+<displayName lang="en" type="SY">Visual perseveration</displayName>
+</concept>
+<concept code="26243003">
+<displayName lang="en" type="PT">Palinacousia</displayName>
+<displayName lang="en" type="FSN">Palinacousia (finding)</displayName>
+<displayName lang="en" type="SY">Acoustic perseveration</displayName>
+</concept>
+<concept code="26439000">
+<displayName lang="en" type="PT">Basic learning problem in arithmetic</displayName>
+<displayName lang="en" type="FSN">Basic learning problem in arithmetic (finding)</displayName>
+</concept>
+<concept code="26581009">
+<displayName lang="en" type="PT">Retrospective falsification</displayName>
+<displayName lang="en" type="FSN">Retrospective falsification (finding)</displayName>
+</concept>
+<concept code="26628009">
+<displayName lang="en" type="PT">Disturbance in thinking</displayName>
+<displayName lang="en" type="FSN">Disturbance in thinking (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal thinking</displayName>
+</concept>
+<concept code="28051002">
+<displayName lang="en" type="PT">Repetition of words</displayName>
+<displayName lang="en" type="FSN">Repetition of words (finding)</displayName>
+</concept>
+<concept code="28116007">
+<displayName lang="en" type="PT">Passivity of drive</displayName>
+<displayName lang="en" type="FSN">Passivity of drive (finding)</displayName>
+<displayName lang="en" type="SY">Delusion of being controlled</displayName>
+<displayName lang="en" type="SY">Delusion of replacement of will</displayName>
+<displayName lang="en" type="SY">Passivity experience</displayName>
+</concept>
+<concept code="28249008">
+<displayName lang="en" type="PT">Jamais vu</displayName>
+<displayName lang="en" type="FSN">Jamais vu (finding)</displayName>
+</concept>
+<concept code="28810003">
+<displayName lang="en" type="PT">Flight of ideas</displayName>
+<displayName lang="en" type="FSN">Flight of ideas (finding)</displayName>
+</concept>
+<concept code="30189004">
+<displayName lang="en" type="PT">Repetitive rocking movements</displayName>
+<displayName lang="en" type="FSN">Repetitive rocking movements (finding)</displayName>
+<displayName lang="en" type="SY">Body rocking</displayName>
+</concept>
+<concept code="30199009">
+<displayName lang="en" type="PT">Glossolalia</displayName>
+<displayName lang="en" type="FSN">Glossolalia (finding)</displayName>
+<displayName lang="en" type="SY">Speaking in tongues</displayName>
+</concept>
+<concept code="32541007">
+<displayName lang="en" type="PT">Paramnesia</displayName>
+<displayName lang="en" type="FSN">Paramnesia (finding)</displayName>
+</concept>
+<concept code="33254005">
+<displayName lang="en" type="PT">Uncompensated short term memory deficit</displayName>
+<displayName lang="en" type="FSN">Uncompensated short term memory deficit (finding)</displayName>
+</concept>
+<concept code="34883005">
+<displayName lang="en" type="PT">Autistic thinking</displayName>
+<displayName lang="en" type="FSN">Autistic thinking (finding)</displayName>
+</concept>
+<concept code="39416002">
+<displayName lang="en" type="PT">Non sequiturs</displayName>
+<displayName lang="en" type="FSN">Non sequiturs (finding)</displayName>
+</concept>
+<concept code="40077001">
+<displayName lang="en" type="PT">Magical thinking</displayName>
+<displayName lang="en" type="FSN">Magical thinking (finding)</displayName>
+</concept>
+<concept code="40277007">
+<displayName lang="en-GB" type="PT">Systematised delusion</displayName>
+<displayName lang="en" type="FSN">Systematized delusion (finding)</displayName>
+</concept>
+<concept code="40628008">
+<displayName lang="en" type="PT">Repetition of phrases</displayName>
+<displayName lang="en" type="FSN">Repetition of phrases (finding)</displayName>
+</concept>
+<concept code="40907002">
+<displayName lang="en" type="PT">Word salad</displayName>
+<displayName lang="en" type="FSN">Word salad (finding)</displayName>
+</concept>
+<concept code="41189006">
+<displayName lang="en" type="PT">Ideas of reference</displayName>
+<displayName lang="en" type="FSN">Ideas of reference (finding)</displayName>
+</concept>
+<concept code="41435003">
+<displayName lang="en" type="PT">Disturbance in structure of associations</displayName>
+<displayName lang="en" type="FSN">Disturbance in structure of associations (finding)</displayName>
+</concept>
+<concept code="41591006">
+<displayName lang="en" type="PT">Disorder of form of thought</displayName>
+<displayName lang="en" type="FSN">Disorder of form of thought (finding)</displayName>
+<displayName lang="en" type="SY">Disturbance in form of thinking</displayName>
+</concept>
+<concept code="41996009">
+<displayName lang="en" type="PT">Repetitive hand wringing</displayName>
+<displayName lang="en" type="FSN">Repetitive hand wringing (finding)</displayName>
+</concept>
+<concept code="42176003">
+<displayName lang="en" type="PT">Amnesia for recent events</displayName>
+<displayName lang="en" type="FSN">Amnesia for recent events (finding)</displayName>
+<displayName lang="en" type="SY">Loss of memory for recent events</displayName>
+<displayName lang="en" type="SY">No memory for recent events</displayName>
+</concept>
+<concept code="42688000">
+<displayName lang="en" type="PT">Preoccupation of thought</displayName>
+<displayName lang="en" type="FSN">Preoccupation of thought (finding)</displayName>
+<displayName lang="en" type="SY">Trend of thought</displayName>
+</concept>
+<concept code="44515000">
+<displayName lang="en" type="PT">Perseveration</displayName>
+<displayName lang="en" type="FSN">Perseveration (finding)</displayName>
+</concept>
+<concept code="44906001">
+<displayName lang="en" type="PT">Capgras&apos; syndrome</displayName>
+<displayName lang="en" type="FSN">Capgras&apos; syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Capgras syndrome</displayName>
+<displayName lang="en" type="SY">Delusional misidentification syndrome</displayName>
+</concept>
+<concept code="45418009">
+<displayName lang="en" type="PT">Basic learning problem in speaking</displayName>
+<displayName lang="en" type="FSN">Basic learning problem in speaking (finding)</displayName>
+</concept>
+<concept code="46781003">
+<displayName lang="en" type="PT">Basic learning problem in writing</displayName>
+<displayName lang="en" type="FSN">Basic learning problem in writing (finding)</displayName>
+</concept>
+<concept code="48167000">
+<displayName lang="en" type="PT">Amnesia</displayName>
+<displayName lang="en" type="FSN">Amnesia (finding)</displayName>
+<displayName lang="en" type="SY">LOM - Loss of memory</displayName>
+<displayName lang="en" type="SY">Loss of memory</displayName>
+<displayName lang="en" type="SY">Memory gone</displayName>
+<displayName lang="en" type="SY">Memory loss</displayName>
+<displayName lang="en" type="SY">Memory loss - amnesia</displayName>
+</concept>
+<concept code="49229003">
+<displayName lang="en" type="PT">D&#233;j&#224; entendu</displayName>
+<displayName lang="en" type="FSN">D&#233;j&#224; entendu (finding)</displayName>
+<displayName lang="en" type="SY">Deja entendu</displayName>
+</concept>
+<concept code="50532002">
+<displayName lang="en" type="PT">Noesis</displayName>
+<displayName lang="en" type="FSN">Noesis (finding)</displayName>
+</concept>
+<concept code="50543005">
+<displayName lang="en" type="PT">Thought insertion</displayName>
+<displayName lang="en" type="FSN">Thought insertion (finding)</displayName>
+</concept>
+<concept code="50829006">
+<displayName lang="en" type="PT">Basic learning problem</displayName>
+<displayName lang="en" type="FSN">Basic learning problem (finding)</displayName>
+</concept>
+<concept code="51474003">
+<displayName lang="en" type="PT">Disturbance in speed of associations</displayName>
+<displayName lang="en" type="FSN">Disturbance in speed of associations (finding)</displayName>
+</concept>
+<concept code="51921000">
+<displayName lang="en" type="PT">Retrograde amnesia</displayName>
+<displayName lang="en" type="FSN">Retrograde amnesia (finding)</displayName>
+<displayName lang="en" type="SY">RA - Retrograde amnesia</displayName>
+</concept>
+<concept code="53108004">
+<displayName lang="en" type="PT">Delusion of guilt</displayName>
+<displayName lang="en" type="FSN">Delusion of guilt (finding)</displayName>
+</concept>
+<concept code="53138005">
+<displayName lang="en" type="PT">Mood-incongruent delusion</displayName>
+<displayName lang="en" type="FSN">Mood-incongruent delusion (finding)</displayName>
+</concept>
+<concept code="53209001">
+<displayName lang="en" type="PT">Decisional conflict</displayName>
+<displayName lang="en" type="FSN">Decisional conflict (finding)</displayName>
+</concept>
+<concept code="53297005">
+<displayName lang="en" type="PT">Fregoli syndrome</displayName>
+<displayName lang="en" type="FSN">Fregoli syndrome (finding)</displayName>
+</concept>
+<concept code="53427000">
+<displayName lang="en" type="PT">Finger-flicking</displayName>
+<displayName lang="en" type="FSN">Finger-flicking (finding)</displayName>
+</concept>
+<concept code="54407007">
+<displayName lang="en" type="PT">Fast learner</displayName>
+<displayName lang="en" type="FSN">Fast learner (finding)</displayName>
+</concept>
+<concept code="54501006">
+<displayName lang="en" type="PT">Neologism</displayName>
+<displayName lang="en" type="FSN">Neologism (finding)</displayName>
+</concept>
+<concept code="54777007">
+<displayName lang="en" type="PT">Deficient knowledge</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge (finding)</displayName>
+<displayName lang="en" type="SY">Knowledge deficit</displayName>
+</concept>
+<concept code="55050000">
+<displayName lang="en" type="PT">Hypermnesia</displayName>
+<displayName lang="en" type="FSN">Hypermnesia (finding)</displayName>
+</concept>
+<concept code="55346003">
+<displayName lang="en" type="PT">Loosening of associations</displayName>
+<displayName lang="en" type="FSN">Loosening of associations (finding)</displayName>
+</concept>
+<concept code="55533009">
+<displayName lang="en" type="PT">Forgetful</displayName>
+<displayName lang="en" type="FSN">Forgetful (finding)</displayName>
+</concept>
+<concept code="55640002">
+<displayName lang="en" type="PT">Dyscalculia</displayName>
+<displayName lang="en" type="FSN">Dyscalculia (finding)</displayName>
+</concept>
+<concept code="55956009">
+<displayName lang="en" type="PT">Disturbance in content of thought</displayName>
+<displayName lang="en" type="FSN">Disturbance in content of thought (finding)</displayName>
+</concept>
+<concept code="56435009">
+<displayName lang="en" type="PT">Poverty of thought</displayName>
+<displayName lang="en" type="FSN">Poverty of thought (finding)</displayName>
+</concept>
+<concept code="56835001">
+<displayName lang="en" type="PT">Palikinesia</displayName>
+<displayName lang="en" type="FSN">Palikinesia (finding)</displayName>
+<displayName lang="en" type="SY">Palicinesia</displayName>
+<displayName lang="en" type="SY">Pathologic repetition of movements</displayName>
+</concept>
+<concept code="58585005">
+<displayName lang="en" type="PT">Autochthonous delusion</displayName>
+<displayName lang="en" type="FSN">Autochthonous delusion (finding)</displayName>
+</concept>
+<concept code="61861001">
+<displayName lang="en" type="PT">Speed of associations</displayName>
+<displayName lang="en" type="FSN">Speed of associations (finding)</displayName>
+</concept>
+<concept code="64336009">
+<displayName lang="en" type="PT">Incoherent thinking</displayName>
+<displayName lang="en" type="FSN">Incoherent thinking (finding)</displayName>
+<displayName lang="en" type="SY">Incoherence</displayName>
+</concept>
+<concept code="64514005">
+<displayName lang="en" type="PT">Delusional perception</displayName>
+<displayName lang="en" type="FSN">Delusional perception (finding)</displayName>
+<displayName lang="en" type="SY">Delusion associated with abnormal perception</displayName>
+</concept>
+<concept code="65135009">
+<displayName lang="en" type="PT">Knight&apos;s move in thought</displayName>
+<displayName lang="en" type="FSN">Knight&apos;s move in thought (finding)</displayName>
+<displayName lang="en" type="SY">Derailment of thought</displayName>
+<displayName lang="en" type="SY">Knight move thinking</displayName>
+</concept>
+<concept code="67348001">
+<displayName lang="en" type="PT">Delusional conclusion</displayName>
+<displayName lang="en" type="FSN">Delusional conclusion (finding)</displayName>
+</concept>
+<concept code="67698009">
+<displayName lang="en" type="PT">Obsessional thoughts</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts (finding)</displayName>
+<displayName lang="en" type="SY">Obsessional ruminations</displayName>
+</concept>
+<concept code="71426002">
+<displayName lang="en" type="PT">Erotographomania</displayName>
+<displayName lang="en" type="FSN">Erotographomania (finding)</displayName>
+</concept>
+<concept code="71573006">
+<displayName lang="en" type="PT">Concrete thinking</displayName>
+<displayName lang="en" type="FSN">Concrete thinking (finding)</displayName>
+</concept>
+<concept code="74396008">
+<displayName lang="en" type="PT">Tangential thinking</displayName>
+<displayName lang="en" type="FSN">Tangential thinking (finding)</displayName>
+</concept>
+<concept code="76789006">
+<displayName lang="en" type="PT">Information conversion problem</displayName>
+<displayName lang="en" type="FSN">Information conversion problem (finding)</displayName>
+</concept>
+<concept code="77303001">
+<displayName lang="en" type="PT">Delusion of poverty</displayName>
+<displayName lang="en" type="FSN">Delusion of poverty (finding)</displayName>
+</concept>
+<concept code="78205008">
+<displayName lang="en" type="PT">Irrational thoughts</displayName>
+<displayName lang="en" type="FSN">Irrational thoughts (finding)</displayName>
+</concept>
+<concept code="78633001">
+<displayName lang="en" type="PT">Altered thought processes</displayName>
+<displayName lang="en" type="FSN">Altered thought processes (finding)</displayName>
+<displayName lang="en" type="SY">Disturbed thought processes</displayName>
+<displayName lang="en" type="SY">Thought process alteration</displayName>
+</concept>
+<concept code="79015004">
+<displayName lang="en" type="PT">Worried</displayName>
+<displayName lang="en" type="FSN">Worried (finding)</displayName>
+<displayName lang="en" type="SY">Anxious cognitions</displayName>
+<displayName lang="en" type="SY">Worry</displayName>
+<displayName lang="en" type="SY">Worrying</displayName>
+</concept>
+<concept code="79427009">
+<displayName lang="en" type="PT">Unio mystica</displayName>
+<displayName lang="en" type="FSN">Unio mystica (finding)</displayName>
+</concept>
+<concept code="81215003">
+<displayName lang="en" type="PT">Overvalued idea</displayName>
+<displayName lang="en" type="FSN">Overvalued idea (finding)</displayName>
+</concept>
+<concept code="81511006">
+<displayName lang="en" type="PT">Basic learning problem in language</displayName>
+<displayName lang="en" type="FSN">Basic learning problem in language (finding)</displayName>
+</concept>
+<concept code="82791007">
+<displayName lang="en" type="PT">Bizarre delusion</displayName>
+<displayName lang="en" type="FSN">Bizarre delusion (finding)</displayName>
+</concept>
+<concept code="82870007">
+<displayName lang="en" type="PT">Pornographomania</displayName>
+<displayName lang="en" type="FSN">Pornographomania (finding)</displayName>
+</concept>
+<concept code="85173004">
+<displayName lang="en" type="PT">False recognition</displayName>
+<displayName lang="en" type="FSN">False recognition (finding)</displayName>
+<displayName lang="en" type="SY">Fausse reconnaissance</displayName>
+</concept>
+<concept code="86110000">
+<displayName lang="en" type="PT">Rumination - thoughts</displayName>
+<displayName lang="en" type="FSN">Rumination - thoughts (finding)</displayName>
+</concept>
+<concept code="86597007">
+<displayName lang="en" type="PT">Illogical thinking</displayName>
+<displayName lang="en" type="FSN">Illogical thinking (finding)</displayName>
+</concept>
+<concept code="86917003">
+<displayName lang="en" type="PT">Thought broadcast</displayName>
+<displayName lang="en" type="FSN">Thought broadcast (finding)</displayName>
+</concept>
+<concept code="87076008">
+<displayName lang="en" type="PT">Thought withdrawal</displayName>
+<displayName lang="en" type="FSN">Thought withdrawal (finding)</displayName>
+</concept>
+<concept code="88293003">
+<displayName lang="en" type="PT">Clang associations</displayName>
+<displayName lang="en" type="FSN">Clang associations (finding)</displayName>
+</concept>
+<concept code="88822006">
+<displayName lang="en" type="PT">Anterograde amnesia</displayName>
+<displayName lang="en" type="FSN">Anterograde amnesia (finding)</displayName>
+<displayName lang="en" type="SY">Antegrade amnesia</displayName>
+</concept>
+<concept code="88962006">
+<displayName lang="en" type="PT">Incomplete clearmindedness</displayName>
+<displayName lang="en" type="FSN">Incomplete clearmindedness (finding)</displayName>
+</concept>
+<concept code="89225005">
+<displayName lang="en" type="PT">Anxiety about blushing</displayName>
+<displayName lang="en" type="FSN">Anxiety about blushing (finding)</displayName>
+<displayName lang="en" type="SY">Fear of blushing</displayName>
+</concept>
+<concept code="89809008">
+<displayName lang="en" type="PT">Delusion of parasitosis</displayName>
+<displayName lang="en" type="FSN">Delusion of parasitosis (finding)</displayName>
+</concept>
+<concept code="90207007">
+<displayName lang="en" type="PT">Grinding teeth</displayName>
+<displayName lang="en" type="FSN">Grinding teeth (finding)</displayName>
+<displayName lang="en" type="SY">Grinding of teeth</displayName>
+<displayName lang="en" type="SY">Teeth gnashing</displayName>
+</concept>
+<concept code="102891000">
+<displayName lang="en" type="PT">Age-related cognitive decline</displayName>
+<displayName lang="en" type="FSN">Age-related cognitive decline (finding)</displayName>
+</concept>
+<concept code="102910004">
+<displayName lang="en" type="PT">Prelogical thinking</displayName>
+<displayName lang="en" type="FSN">Prelogical thinking (finding)</displayName>
+<displayName lang="en" type="SY">Archaic-paralogical thinking</displayName>
+</concept>
+<concept code="102911000">
+<displayName lang="en" type="PT">Thoughts of self harm</displayName>
+<displayName lang="en" type="FSN">Thoughts of self harm (finding)</displayName>
+</concept>
+<concept code="102941003">
+<displayName lang="en" type="PT">Alethia</displayName>
+<displayName lang="en" type="FSN">Alethia (finding)</displayName>
+<displayName lang="en" type="SY">Incapacity to forget</displayName>
+</concept>
+<concept code="110352000">
+<displayName lang="en" type="PT">Minimal cognitive impairment</displayName>
+<displayName lang="en" type="FSN">Minimal cognitive impairment (finding)</displayName>
+</concept>
+<concept code="110355003">
+<displayName lang="en" type="PT">Lack of thinking ability</displayName>
+<displayName lang="en" type="FSN">Lack of thinking ability (finding)</displayName>
+<displayName lang="en" type="SY">Lack of reasoning ability</displayName>
+</concept>
+<concept code="110356002">
+<displayName lang="en" type="PT">Below age of reasoning ability</displayName>
+<displayName lang="en" type="FSN">Below age of reasoning ability (finding)</displayName>
+</concept>
+<concept code="112088009">
+<displayName lang="en" type="PT">Egomania</displayName>
+<displayName lang="en" type="FSN">Egomania (finding)</displayName>
+<displayName lang="en" type="SY">Megalomania</displayName>
+</concept>
+<concept code="112090005">
+<displayName lang="en" type="PT">Eidetic images</displayName>
+<displayName lang="en" type="FSN">Eidetic images (finding)</displayName>
+</concept>
+<concept code="116340000">
+<displayName lang="en" type="PT">Disturbance of cognitive learning</displayName>
+<displayName lang="en" type="FSN">Disturbance of cognitive learning (finding)</displayName>
+</concept>
+<concept code="129862009">
+<displayName lang="en" type="PT">Deficient knowledge of diagnostic testing</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of diagnostic testing (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: diagnostic test</displayName>
+</concept>
+<concept code="129863004">
+<displayName lang="en" type="PT">Deficient knowledge of dietary regimen</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of dietary regimen (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: dietary regimen</displayName>
+</concept>
+<concept code="129864005">
+<displayName lang="en" type="PT">Deficient knowledge of disease process</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of disease process (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: disease process</displayName>
+</concept>
+<concept code="129865006">
+<displayName lang="en" type="PT">Deficient knowledge of fluid volume management</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of fluid volume management (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: fluid volume</displayName>
+</concept>
+<concept code="129866007">
+<displayName lang="en" type="PT">Deficient knowledge of medication regimen</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of medication regimen (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: medication regimen</displayName>
+</concept>
+<concept code="129867003">
+<displayName lang="en" type="PT">Deficient knowledge of safety precautions</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of safety precautions (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: safety precautions</displayName>
+</concept>
+<concept code="129868008">
+<displayName lang="en" type="PT">Deficient knowledge of therapeutic regimen</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of therapeutic regimen (finding)</displayName>
+<displayName lang="en" type="SY">Deficient knowledge: therapeutic regimen</displayName>
+</concept>
+<concept code="130964008">
+<displayName lang="en" type="PT">Impaired environmental interpretation syndrome</displayName>
+<displayName lang="en" type="FSN">Impaired environmental interpretation syndrome (finding)</displayName>
+</concept>
+<concept code="161129001">
+<displayName lang="en" type="PT">Learning difficulties</displayName>
+<displayName lang="en" type="FSN">Learning difficulties (finding)</displayName>
+<displayName lang="en" type="SY">LD - Learning difficulties</displayName>
+</concept>
+<concept code="162200009">
+<displayName lang="en" type="PT">Temporary loss of memory</displayName>
+<displayName lang="en" type="FSN">Temporary loss of memory (finding)</displayName>
+<displayName lang="en" type="SY">Temporary memory loss</displayName>
+</concept>
+<concept code="162314006">
+<displayName lang="en" type="PT">Harmful thoughts</displayName>
+<displayName lang="en" type="FSN">Harmful thoughts (finding)</displayName>
+</concept>
+<concept code="162315007">
+<displayName lang="en" type="PT">Morbid thoughts</displayName>
+<displayName lang="en" type="FSN">Morbid thoughts (finding)</displayName>
+</concept>
+<concept code="163929006">
+<displayName lang="en" type="PT">O/E - acalculia</displayName>
+<displayName lang="en" type="FSN">On examination - acalculia (finding)</displayName>
+<displayName lang="en" type="SY">On examination - acalculia</displayName>
+</concept>
+<concept code="165280004">
+<displayName lang="en" type="PT">Memory: own age not known</displayName>
+<displayName lang="en" type="FSN">Memory: own age not known (finding)</displayName>
+</concept>
+<concept code="165281000">
+<displayName lang="en" type="PT">Memory: own age known</displayName>
+<displayName lang="en" type="FSN">Memory: own age known (finding)</displayName>
+</concept>
+<concept code="165283002">
+<displayName lang="en" type="PT">Memory: present time not known</displayName>
+<displayName lang="en" type="FSN">Memory: present time not known (finding)</displayName>
+</concept>
+<concept code="165284008">
+<displayName lang="en" type="PT">Memory: present time known</displayName>
+<displayName lang="en" type="FSN">Memory: present time known (finding)</displayName>
+</concept>
+<concept code="165286005">
+<displayName lang="en" type="PT">Memory: present place not known</displayName>
+<displayName lang="en" type="FSN">Memory: present place not known (finding)</displayName>
+</concept>
+<concept code="165287001">
+<displayName lang="en" type="PT">Memory: present place known</displayName>
+<displayName lang="en" type="FSN">Memory: present place known (finding)</displayName>
+</concept>
+<concept code="165289003">
+<displayName lang="en" type="PT">Memory: present year not known</displayName>
+<displayName lang="en" type="FSN">Memory: present year not known (finding)</displayName>
+</concept>
+<concept code="165290007">
+<displayName lang="en" type="PT">Memory: present year known</displayName>
+<displayName lang="en" type="FSN">Memory: present year known (finding)</displayName>
+</concept>
+<concept code="165292004">
+<displayName lang="en" type="PT">Memory: own DOB not known</displayName>
+<displayName lang="en" type="FSN">Memory: own date of birth not known (finding)</displayName>
+<displayName lang="en" type="SY">Memory: own date of birth not known</displayName>
+</concept>
+<concept code="165293009">
+<displayName lang="en" type="PT">Memory: own DOB known</displayName>
+<displayName lang="en" type="FSN">Memory: own date of birth known (finding)</displayName>
+<displayName lang="en" type="SY">Memory: own date of birth known</displayName>
+</concept>
+<concept code="165295002">
+<displayName lang="en" type="PT">Memory: present month not knwn</displayName>
+<displayName lang="en" type="FSN">Memory: present month not knwn (finding)</displayName>
+</concept>
+<concept code="165296001">
+<displayName lang="en" type="PT">Memory: present month known</displayName>
+<displayName lang="en" type="FSN">Memory: present month known (finding)</displayName>
+</concept>
+<concept code="165298000">
+<displayName lang="en" type="PT">Memory: important event not kn</displayName>
+<displayName lang="en" type="FSN">Memory: important event not kn (finding)</displayName>
+</concept>
+<concept code="165299008">
+<displayName lang="en" type="PT">Memory: important event known</displayName>
+<displayName lang="en" type="FSN">Memory: important event known (finding)</displayName>
+</concept>
+<concept code="165301001">
+<displayName lang="en" type="PT">Memory: important person not known</displayName>
+<displayName lang="en" type="FSN">Memory: important person not known (finding)</displayName>
+</concept>
+<concept code="165302008">
+<displayName lang="en" type="PT">Memory: important person known</displayName>
+<displayName lang="en" type="FSN">Memory: important person known (finding)</displayName>
+</concept>
+<concept code="165304009">
+<displayName lang="en" type="PT">Memory: count down successful</displayName>
+<displayName lang="en" type="FSN">Memory: count down successful (finding)</displayName>
+</concept>
+<concept code="165305005">
+<displayName lang="en" type="PT">Memory: count down unsuccessful</displayName>
+<displayName lang="en" type="FSN">Memory: count down unsuccessful (finding)</displayName>
+</concept>
+<concept code="165307002">
+<displayName lang="en" type="PT">Memory: address recall success</displayName>
+<displayName lang="en" type="FSN">Memory: address recall success (finding)</displayName>
+</concept>
+<concept code="165308007">
+<displayName lang="en" type="PT">Memory: address recall unsuccessful</displayName>
+<displayName lang="en" type="FSN">Memory: address recall unsuccessful (finding)</displayName>
+</concept>
+<concept code="182891003">
+<displayName lang="en" type="PT">Patient misunderstood treatment instructions</displayName>
+<displayName lang="en" type="FSN">Patient misunderstood treatment instructions (finding)</displayName>
+</concept>
+<concept code="191992009">
+<displayName lang="en" type="PT">Repetitive routines</displayName>
+<displayName lang="en" type="FSN">Repetitive routines (finding)</displayName>
+</concept>
+<concept code="192071009">
+<displayName lang="en" type="PT">Mild memory disturbance</displayName>
+<displayName lang="en" type="FSN">Mild memory disturbance (finding)</displayName>
+</concept>
+<concept code="192072002">
+<displayName lang="en" type="PT">Organic memory impairment</displayName>
+<displayName lang="en" type="FSN">Organic memory impairment (disorder)</displayName>
+</concept>
+<concept code="224998004">
+<displayName lang="en" type="PT">Slow learner</displayName>
+<displayName lang="en" type="FSN">Slow learner (finding)</displayName>
+<displayName lang="en" type="SY">Learning delay</displayName>
+</concept>
+<concept code="225001006">
+<displayName lang="en" type="PT">Preoccupied with emotional problems</displayName>
+<displayName lang="en" type="FSN">Preoccupied with emotional problems (finding)</displayName>
+</concept>
+<concept code="225034008">
+<displayName lang="en" type="PT">Unpleasant memories</displayName>
+<displayName lang="en" type="FSN">Unpleasant memories (finding)</displayName>
+<displayName lang="en" type="SY">Negative memories</displayName>
+</concept>
+<concept code="225036005">
+<displayName lang="en" type="PT">Distortion of memory</displayName>
+<displayName lang="en" type="FSN">Distortion of memory (finding)</displayName>
+</concept>
+<concept code="225037001">
+<displayName lang="en" type="PT">Minor memory lapses</displayName>
+<displayName lang="en" type="FSN">Minor memory lapses (finding)</displayName>
+</concept>
+<concept code="225038006">
+<displayName lang="en" type="PT">Memory lapses</displayName>
+<displayName lang="en" type="FSN">Memory lapses (finding)</displayName>
+</concept>
+<concept code="225039003">
+<displayName lang="en" type="PT">Mixes past with present</displayName>
+<displayName lang="en" type="FSN">Mixes past with present (finding)</displayName>
+</concept>
+<concept code="225041002">
+<displayName lang="en" type="PT">Talks about the past</displayName>
+<displayName lang="en" type="FSN">Talks about the past (finding)</displayName>
+</concept>
+<concept code="225436004">
+<displayName lang="en" type="PT">Reflecting</displayName>
+<displayName lang="en" type="FSN">Reflecting (finding)</displayName>
+</concept>
+<concept code="225437008">
+<displayName lang="en" type="PT">Thinks realistically</displayName>
+<displayName lang="en" type="FSN">Thinks realistically (finding)</displayName>
+</concept>
+<concept code="225439006">
+<displayName lang="en" type="PT">Not confused</displayName>
+<displayName lang="en" type="FSN">Not confused (finding)</displayName>
+</concept>
+<concept code="225440008">
+<displayName lang="en" type="PT">Onset of confusion</displayName>
+<displayName lang="en" type="FSN">Onset of confusion (finding)</displayName>
+</concept>
+<concept code="225441007">
+<displayName lang="en" type="PT">Not wanting to think about something</displayName>
+<displayName lang="en" type="FSN">Not wanting to think about something (finding)</displayName>
+</concept>
+<concept code="225442000">
+<displayName lang="en" type="PT">Not wanting to think</displayName>
+<displayName lang="en" type="FSN">Not wanting to think (finding)</displayName>
+</concept>
+<concept code="225443005">
+<displayName lang="en" type="PT">Recovery of memory</displayName>
+<displayName lang="en" type="FSN">Recovery of memory (finding)</displayName>
+</concept>
+<concept code="225445003">
+<displayName lang="en" type="PT">Intrusive thoughts</displayName>
+<displayName lang="en" type="FSN">Intrusive thoughts (finding)</displayName>
+</concept>
+<concept code="225446002">
+<displayName lang="en" type="PT">Positive self thoughts</displayName>
+<displayName lang="en" type="FSN">Positive self thoughts (finding)</displayName>
+</concept>
+<concept code="225447006">
+<displayName lang="en" type="PT">Reappearance of old thoughts</displayName>
+<displayName lang="en" type="FSN">Reappearance of old thoughts (finding)</displayName>
+</concept>
+<concept code="225448001">
+<displayName lang="en" type="PT">Has imaginary friend</displayName>
+<displayName lang="en" type="FSN">Has imaginary friend (finding)</displayName>
+</concept>
+<concept code="225449009">
+<displayName lang="en" type="PT">Bizarre thoughts</displayName>
+<displayName lang="en" type="FSN">Bizarre thoughts (finding)</displayName>
+</concept>
+<concept code="225450009">
+<displayName lang="en" type="PT">Homicidal thoughts</displayName>
+<displayName lang="en" type="FSN">Homicidal thoughts (finding)</displayName>
+<displayName lang="en" type="SY">Homicidal ideation</displayName>
+</concept>
+<concept code="225451008">
+<displayName lang="en" type="PT">Believes television is bugged</displayName>
+<displayName lang="en" type="FSN">Believes television is bugged (finding)</displayName>
+</concept>
+<concept code="225452001">
+<displayName lang="en" type="PT">Paranoid delusion</displayName>
+<displayName lang="en" type="FSN">Paranoid delusion (finding)</displayName>
+</concept>
+<concept code="225635005">
+<displayName lang="en" type="PT">Anxiety about treatment</displayName>
+<displayName lang="en" type="FSN">Anxiety about treatment (finding)</displayName>
+</concept>
+<concept code="225636006">
+<displayName lang="en" type="PT">Anxiety about forced dependence</displayName>
+<displayName lang="en" type="FSN">Anxiety about forced dependence (finding)</displayName>
+</concept>
+<concept code="225637002">
+<displayName lang="en" type="PT">Anxiety about loss of control</displayName>
+<displayName lang="en" type="FSN">Anxiety about loss of control (finding)</displayName>
+</concept>
+<concept code="225638007">
+<displayName lang="en" type="PT">Anxiety about resuming sexual relations</displayName>
+<displayName lang="en" type="FSN">Anxiety about resuming sexual relations (finding)</displayName>
+<displayName lang="en" type="SY">Worried about resuming sexual relations</displayName>
+</concept>
+<concept code="225639004">
+<displayName lang="en" type="PT">Worried about not coping with baby</displayName>
+<displayName lang="en" type="FSN">Worried about not coping with baby (finding)</displayName>
+</concept>
+<concept code="225640002">
+<displayName lang="en" type="PT">Worried about being a bad father</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad father (finding)</displayName>
+</concept>
+<concept code="225641003">
+<displayName lang="en" type="PT">Worried about being a bad mother</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad mother (finding)</displayName>
+</concept>
+<concept code="225642005">
+<displayName lang="en" type="PT">Anxiety about not coping with parenthood</displayName>
+<displayName lang="en" type="FSN">Anxiety about not coping with parenthood (finding)</displayName>
+<displayName lang="en" type="SY">Worried about not coping with parenthood</displayName>
+</concept>
+<concept code="225643000">
+<displayName lang="en" type="PT">Anxiety about making mistakes</displayName>
+<displayName lang="en" type="FSN">Anxiety about making mistakes (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about getting it wrong</displayName>
+</concept>
+<concept code="225644006">
+<displayName lang="en" type="PT">Anxiety about altered body image</displayName>
+<displayName lang="en" type="FSN">Anxiety about altered body image (finding)</displayName>
+</concept>
+<concept code="225660005">
+<displayName lang="en" type="PT">Believes phones are bugged</displayName>
+<displayName lang="en" type="FSN">Believes phones are bugged (finding)</displayName>
+</concept>
+<concept code="225661009">
+<displayName lang="en" type="PT">Positive thoughts</displayName>
+<displayName lang="en" type="FSN">Positive thoughts (finding)</displayName>
+</concept>
+<concept code="225662002">
+<displayName lang="en" type="PT">Able to think clearly</displayName>
+<displayName lang="en" type="FSN">Able to think clearly (finding)</displayName>
+</concept>
+<concept code="229676007">
+<displayName lang="en" type="PT">Language-related cognitive disorder</displayName>
+<displayName lang="en" type="FSN">Language-related cognitive disorder (disorder)</displayName>
+</concept>
+<concept code="230736007">
+<displayName lang="en" type="PT">Transient global amnesia</displayName>
+<displayName lang="en" type="FSN">Transient global amnesia (finding)</displayName>
+<displayName lang="en" type="SY">TGA - Transient global amnesia</displayName>
+</concept>
+<concept code="231448004">
+<displayName lang="en" type="PT">Age-associated memory impairment</displayName>
+<displayName lang="en" type="FSN">Age-associated memory impairment (disorder)</displayName>
+<displayName lang="en" type="SY">AAMI - Age-associated memory impairment</displayName>
+<displayName lang="en" type="SY">Age-associated cognitive decline</displayName>
+<displayName lang="en" type="SY">BSF - Benign senescent forgetfulness</displayName>
+</concept>
+<concept code="247582001">
+<displayName lang="en" type="PT">Difficulty solving problems</displayName>
+<displayName lang="en" type="FSN">Difficulty solving problems (finding)</displayName>
+</concept>
+<concept code="247584000">
+<displayName lang="en" type="PT">Difficulty making plans</displayName>
+<displayName lang="en" type="FSN">Difficulty making plans (finding)</displayName>
+</concept>
+<concept code="247585004">
+<displayName lang="en" type="PT">Difficulty making decisions</displayName>
+<displayName lang="en" type="FSN">Difficulty making decisions (finding)</displayName>
+<displayName lang="en" type="SY">Indecision</displayName>
+</concept>
+<concept code="247587007">
+<displayName lang="en" type="PT">Long-term memory within normal limits</displayName>
+<displayName lang="en" type="FSN">Long-term memory within normal limits (finding)</displayName>
+<displayName lang="en" type="SY">Good long-term memory</displayName>
+<displayName lang="en" type="SY">No problems with long-term memory</displayName>
+</concept>
+<concept code="247588002">
+<displayName lang="en" type="PT">Poor long-term memory</displayName>
+<displayName lang="en" type="FSN">Poor long-term memory (finding)</displayName>
+<displayName lang="en" type="SY">Long-term memory loss</displayName>
+</concept>
+<concept code="247590001">
+<displayName lang="en" type="PT">Short-term memory within normal limits</displayName>
+<displayName lang="en" type="FSN">Short-term memory within normal limits (finding)</displayName>
+<displayName lang="en" type="SY">Good short-term memory</displayName>
+<displayName lang="en" type="SY">No problem with short-term memory</displayName>
+</concept>
+<concept code="247592009">
+<displayName lang="en" type="PT">Poor short-term memory</displayName>
+<displayName lang="en" type="FSN">Poor short-term memory (finding)</displayName>
+<displayName lang="en" type="SY">Short term memory loss</displayName>
+<displayName lang="en" type="SY">Short-term memory loss</displayName>
+</concept>
+<concept code="247593004">
+<displayName lang="en" type="PT">Forgets what was going to do</displayName>
+<displayName lang="en" type="FSN">Forgets what was going to do (finding)</displayName>
+</concept>
+<concept code="247594005">
+<displayName lang="en" type="PT">Forgets what was going to say</displayName>
+<displayName lang="en" type="FSN">Forgets what was going to say (finding)</displayName>
+</concept>
+<concept code="247595006">
+<displayName lang="en" type="PT">Forgets recent activities</displayName>
+<displayName lang="en" type="FSN">Forgets recent activities (finding)</displayName>
+</concept>
+<concept code="247596007">
+<displayName lang="en" type="PT">Forgets what has just done</displayName>
+<displayName lang="en" type="FSN">Forgets what has just done (finding)</displayName>
+</concept>
+<concept code="247597003">
+<displayName lang="en" type="PT">Forgets what has just said</displayName>
+<displayName lang="en" type="FSN">Forgets what has just said (finding)</displayName>
+</concept>
+<concept code="247598008">
+<displayName lang="en" type="PT">Forgets what has just read</displayName>
+<displayName lang="en" type="FSN">Forgets what has just read (finding)</displayName>
+</concept>
+<concept code="247599000">
+<displayName lang="en" type="PT">Forgets what has just seen</displayName>
+<displayName lang="en" type="FSN">Forgets what has just seen (finding)</displayName>
+</concept>
+<concept code="247600002">
+<displayName lang="en" type="PT">Forgets what has just heard</displayName>
+<displayName lang="en" type="FSN">Forgets what has just heard (finding)</displayName>
+</concept>
+<concept code="247602005">
+<displayName lang="en" type="PT">Memory function normal</displayName>
+<displayName lang="en" type="FSN">Memory function normal (finding)</displayName>
+<displayName lang="en" type="SY">Average memory</displayName>
+<displayName lang="en" type="SY">Global memory recall within normal limits</displayName>
+<displayName lang="en" type="SY">Good memory</displayName>
+<displayName lang="en" type="SY">Memory intact</displayName>
+<displayName lang="en" type="SY">Memory recall normal</displayName>
+<displayName lang="en" type="SY">No problem with memory</displayName>
+</concept>
+<concept code="247603000">
+<displayName lang="en" type="PT">Extremely efficient use of mnemonics</displayName>
+<displayName lang="en" type="FSN">Extremely efficient use of mnemonics (finding)</displayName>
+</concept>
+<concept code="247605007">
+<displayName lang="en" type="PT">Sharpened memory for remote events</displayName>
+<displayName lang="en" type="FSN">Sharpened memory for remote events (finding)</displayName>
+</concept>
+<concept code="247607004">
+<displayName lang="en" type="PT">Amnesia for day to day facts</displayName>
+<displayName lang="en" type="FSN">Amnesia for day to day facts (finding)</displayName>
+</concept>
+<concept code="247608009">
+<displayName lang="en" type="PT">Unable to remember today&apos;s date</displayName>
+<displayName lang="en" type="FSN">Unable to remember today&apos;s date (finding)</displayName>
+<displayName lang="en" type="SY">Cannot remember today&apos;s date</displayName>
+</concept>
+<concept code="247609001">
+<displayName lang="en" type="PT">Unable to remember name of reigning monarch</displayName>
+<displayName lang="en" type="FSN">Unable to remember name of reigning monarch (finding)</displayName>
+<displayName lang="en" type="SY">Cannot remember reigning monarch</displayName>
+<displayName lang="en" type="SY">Unable to remember name of current monarch</displayName>
+</concept>
+<concept code="247610006">
+<displayName lang="en" type="PT">Unable to remember name of current prime minister</displayName>
+<displayName lang="en" type="FSN">Unable to remember name of current prime minister (finding)</displayName>
+<displayName lang="en" type="SY">Cannot remember current prime minister</displayName>
+</concept>
+<concept code="247611005">
+<displayName lang="en" type="PT">Amnesia for important personal information</displayName>
+<displayName lang="en" type="FSN">Amnesia for important personal information (finding)</displayName>
+</concept>
+<concept code="247612003">
+<displayName lang="en" type="PT">Cannot remember names of intimates</displayName>
+<displayName lang="en" type="FSN">Cannot remember names of intimates (finding)</displayName>
+</concept>
+<concept code="247613008">
+<displayName lang="en" type="PT">Unable to remember own age</displayName>
+<displayName lang="en" type="FSN">Unable to remember own age (finding)</displayName>
+<displayName lang="en" type="SY">Cannot remember own age</displayName>
+</concept>
+<concept code="247614002">
+<displayName lang="en" type="PT">Cannot remember wedding anniversary</displayName>
+<displayName lang="en" type="FSN">Cannot remember wedding anniversary (finding)</displayName>
+</concept>
+<concept code="247615001">
+<displayName lang="en" type="PT">Cannot remember birth dates of children</displayName>
+<displayName lang="en" type="FSN">Cannot remember birth dates of children (finding)</displayName>
+</concept>
+<concept code="247616000">
+<displayName lang="en" type="PT">Cannot remember name of school</displayName>
+<displayName lang="en" type="FSN">Cannot remember name of school (finding)</displayName>
+</concept>
+<concept code="247617009">
+<displayName lang="en" type="PT">Impaired ability to learn new material</displayName>
+<displayName lang="en" type="FSN">Impaired ability to learn new material (finding)</displayName>
+</concept>
+<concept code="247620001">
+<displayName lang="en" type="PT">Increased thinking</displayName>
+<displayName lang="en" type="FSN">Increased thinking (finding)</displayName>
+</concept>
+<concept code="247621002">
+<displayName lang="en" type="PT">Expansive ideation</displayName>
+<displayName lang="en" type="FSN">Expansive ideation (finding)</displayName>
+</concept>
+<concept code="247622009">
+<displayName lang="en" type="PT">Sharpened thinking</displayName>
+<displayName lang="en" type="FSN">Sharpened thinking (finding)</displayName>
+</concept>
+<concept code="247623004">
+<displayName lang="en" type="PT">Exciting ideas</displayName>
+<displayName lang="en" type="FSN">Exciting ideas (finding)</displayName>
+</concept>
+<concept code="247624005">
+<displayName lang="en" type="PT">Unusually creative thinking</displayName>
+<displayName lang="en" type="FSN">Unusually creative thinking (finding)</displayName>
+</concept>
+<concept code="247627003">
+<displayName lang="en" type="PT">Slow flow of thought</displayName>
+<displayName lang="en" type="FSN">Slow flow of thought (finding)</displayName>
+</concept>
+<concept code="247630005">
+<displayName lang="en" type="PT">Pressure of thought</displayName>
+<displayName lang="en" type="FSN">Pressure of thought (finding)</displayName>
+<displayName lang="en" type="SY">Pressing thoughts</displayName>
+</concept>
+<concept code="247631009">
+<displayName lang="en" type="PT">Persistent thoughts</displayName>
+<displayName lang="en" type="FSN">Persistent thoughts (finding)</displayName>
+</concept>
+<concept code="247632002">
+<displayName lang="en" type="PT">Preoccupation</displayName>
+<displayName lang="en" type="FSN">Preoccupation (finding)</displayName>
+<displayName lang="en" type="SY">Preoccupation with ideas</displayName>
+</concept>
+<concept code="247633007">
+<displayName lang="en" type="PT">Preoccupation with compensation</displayName>
+<displayName lang="en" type="FSN">Preoccupation with compensation (finding)</displayName>
+</concept>
+<concept code="247634001">
+<displayName lang="en" type="PT">Preoccupation with litigation</displayName>
+<displayName lang="en" type="FSN">Preoccupation with litigation (finding)</displayName>
+</concept>
+<concept code="247635000">
+<displayName lang="en" type="PT">Sexual preoccupation</displayName>
+<displayName lang="en" type="FSN">Sexual preoccupation (finding)</displayName>
+</concept>
+<concept code="247636004">
+<displayName lang="en" type="PT">Preoccupation with appearance</displayName>
+<displayName lang="en" type="FSN">Preoccupation with appearance (finding)</displayName>
+</concept>
+<concept code="247637008">
+<displayName lang="en" type="PT">Preoccupation with body size</displayName>
+<displayName lang="en" type="FSN">Preoccupation with body size (finding)</displayName>
+</concept>
+<concept code="247638003">
+<displayName lang="en" type="PT">Preoccupation with specific bodily feature</displayName>
+<displayName lang="en" type="FSN">Preoccupation with specific bodily feature (finding)</displayName>
+<displayName lang="en" type="SY">Preoccupation with specific bodily appearance</displayName>
+</concept>
+<concept code="247640008">
+<displayName lang="en" type="PT">Unable to think clearly</displayName>
+<displayName lang="en" type="FSN">Unable to think clearly (finding)</displayName>
+<displayName lang="en" type="SY">Muddled thinking</displayName>
+<displayName lang="en" type="SY">Muddled thought</displayName>
+</concept>
+<concept code="247641007">
+<displayName lang="en" type="PT">Puzzled</displayName>
+<displayName lang="en" type="FSN">Puzzled (finding)</displayName>
+<displayName lang="en" type="SY">Bewildered</displayName>
+</concept>
+<concept code="247643005">
+<displayName lang="en" type="PT">Loud thoughts</displayName>
+<displayName lang="en" type="FSN">Loud thoughts (finding)</displayName>
+</concept>
+<concept code="247646002">
+<displayName lang="en" type="PT">Direction of thought</displayName>
+<displayName lang="en" type="FSN">Direction of thought (finding)</displayName>
+</concept>
+<concept code="247647006">
+<displayName lang="en" type="PT">Maintained direction of thought</displayName>
+<displayName lang="en" type="FSN">Maintained direction of thought (finding)</displayName>
+</concept>
+<concept code="247648001">
+<displayName lang="en" type="PT">Loss of direction of thought</displayName>
+<displayName lang="en" type="FSN">Loss of direction of thought (finding)</displayName>
+<displayName lang="en" type="SY">Diversion of thought</displayName>
+<displayName lang="en" type="SY">Sidetracked from flow of thought</displayName>
+</concept>
+<concept code="247650009">
+<displayName lang="en" type="PT">Planning suicide</displayName>
+<displayName lang="en" type="FSN">Planning suicide (finding)</displayName>
+<displayName lang="en" type="SY">Suicidal plans</displayName>
+</concept>
+<concept code="247651008">
+<displayName lang="en" type="PT">Obscene thoughts</displayName>
+<displayName lang="en" type="FSN">Obscene thoughts (finding)</displayName>
+</concept>
+<concept code="247652001">
+<displayName lang="en" type="PT">Sexually obscene thoughts</displayName>
+<displayName lang="en" type="FSN">Sexually obscene thoughts (finding)</displayName>
+<displayName lang="en" type="SY">Sexually perverse thoughts</displayName>
+</concept>
+<concept code="247653006">
+<displayName lang="en" type="PT">Negative automatic thoughts</displayName>
+<displayName lang="en" type="FSN">Negative automatic thoughts (finding)</displayName>
+</concept>
+<concept code="247654000">
+<displayName lang="en" type="PT">Fatuous thoughts</displayName>
+<displayName lang="en" type="FSN">Fatuous thoughts (finding)</displayName>
+</concept>
+<concept code="247655004">
+<displayName lang="en" type="PT">Disinhibited thoughts</displayName>
+<displayName lang="en" type="FSN">Disinhibited thoughts (finding)</displayName>
+</concept>
+<concept code="247657007">
+<displayName lang="en" type="PT">Poor grasp of abstract concepts</displayName>
+<displayName lang="en" type="FSN">Poor grasp of abstract concepts (finding)</displayName>
+</concept>
+<concept code="247658002">
+<displayName lang="en" type="PT">Creative thought</displayName>
+<displayName lang="en" type="FSN">Creative thought (finding)</displayName>
+</concept>
+<concept code="247661001">
+<displayName lang="en" type="PT">Gullible</displayName>
+<displayName lang="en" type="FSN">Gullible (finding)</displayName>
+</concept>
+<concept code="247662008">
+<displayName lang="en" type="PT">Suggestible</displayName>
+<displayName lang="en" type="FSN">Suggestible (finding)</displayName>
+</concept>
+<concept code="247667002">
+<displayName lang="en" type="PT">Grandiose delusions</displayName>
+<displayName lang="en" type="FSN">Grandiose delusions (finding)</displayName>
+<displayName lang="en" type="SY">Delusion of grandeur</displayName>
+</concept>
+<concept code="247668007">
+<displayName lang="en" type="PT">Delusion of grandiose ability</displayName>
+<displayName lang="en" type="FSN">Delusion of grandiose ability (finding)</displayName>
+</concept>
+<concept code="247669004">
+<displayName lang="en" type="PT">Delusion of grandiose identity</displayName>
+<displayName lang="en" type="FSN">Delusion of grandiose identity (finding)</displayName>
+</concept>
+<concept code="247670003">
+<displayName lang="en" type="PT">Delusion of special mission</displayName>
+<displayName lang="en" type="FSN">Delusion of special mission (finding)</displayName>
+</concept>
+<concept code="247671004">
+<displayName lang="en" type="PT">Religious delusion</displayName>
+<displayName lang="en" type="FSN">Religious delusion (finding)</displayName>
+</concept>
+<concept code="247675008">
+<displayName lang="en" type="PT">Delusion associated with smell</displayName>
+<displayName lang="en" type="FSN">Delusion associated with smell (finding)</displayName>
+</concept>
+<concept code="247676009">
+<displayName lang="en" type="PT">Delusion associated with sexual hallucinations</displayName>
+<displayName lang="en" type="FSN">Delusion associated with sexual hallucinations (finding)</displayName>
+</concept>
+<concept code="247677000">
+<displayName lang="en" type="PT">Bizarre delusion associated with bodily sensation</displayName>
+<displayName lang="en" type="FSN">Bizarre delusion associated with bodily sensation (finding)</displayName>
+</concept>
+<concept code="247678005">
+<displayName lang="en-GB" type="PT">Delusion of depersonalisation</displayName>
+<displayName lang="en" type="FSN">Delusion of depersonalization (finding)</displayName>
+</concept>
+<concept code="247679002">
+<displayName lang="en" type="PT">Nihilistic delusion</displayName>
+<displayName lang="en" type="FSN">Nihilistic delusion (finding)</displayName>
+<displayName lang="en" type="SY">Delire de negation</displayName>
+<displayName lang="en" type="SY">D&#233;lire de n&#233;gation</displayName>
+<displayName lang="en" type="SY">Nihilism</displayName>
+</concept>
+<concept code="247680004">
+<displayName lang="en" type="PT">Delusion concerning appearance</displayName>
+<displayName lang="en" type="FSN">Delusion concerning appearance (finding)</displayName>
+</concept>
+<concept code="247683002">
+<displayName lang="en" type="PT">Delusion of being loved</displayName>
+<displayName lang="en" type="FSN">Delusion of being loved (finding)</displayName>
+<displayName lang="en" type="SY">Erotic delusion</displayName>
+<displayName lang="en" type="SY">Erotomanic delusion</displayName>
+</concept>
+<concept code="247684008">
+<displayName lang="en" type="PT">Delusion of catastrophe</displayName>
+<displayName lang="en" type="FSN">Delusion of catastrophe (finding)</displayName>
+</concept>
+<concept code="247686005">
+<displayName lang="en" type="PT">Depressive delusion of catastrophe</displayName>
+<displayName lang="en" type="FSN">Depressive delusion of catastrophe (finding)</displayName>
+</concept>
+<concept code="247687001">
+<displayName lang="en" type="PT">Depressive delusion of poverty</displayName>
+<displayName lang="en" type="FSN">Depressive delusion of poverty (finding)</displayName>
+</concept>
+<concept code="247688006">
+<displayName lang="en" type="PT">Hypochondriacal delusion</displayName>
+<displayName lang="en" type="FSN">Hypochondriacal delusion (finding)</displayName>
+</concept>
+<concept code="247689003">
+<displayName lang="en" type="PT">Depressive hypochondriacal delusion</displayName>
+<displayName lang="en" type="FSN">Depressive hypochondriacal delusion (finding)</displayName>
+</concept>
+<concept code="247691006">
+<displayName lang="en" type="PT">Delusion of replacement of will by external force</displayName>
+<displayName lang="en" type="FSN">Delusion of replacement of will by external force (finding)</displayName>
+</concept>
+<concept code="247692004">
+<displayName lang="en" type="PT">Delusion of control of voice</displayName>
+<displayName lang="en" type="FSN">Delusion of control of voice (finding)</displayName>
+</concept>
+<concept code="247693009">
+<displayName lang="en" type="PT">Delusion of control of handwriting</displayName>
+<displayName lang="en" type="FSN">Delusion of control of handwriting (finding)</displayName>
+</concept>
+<concept code="247695002">
+<displayName lang="en" type="PT">Thought alienation</displayName>
+<displayName lang="en" type="FSN">Thought alienation (finding)</displayName>
+<displayName lang="en" type="SY">Delusion of control of thought</displayName>
+</concept>
+<concept code="247696001">
+<displayName lang="en" type="PT">Delusion of own appearance</displayName>
+<displayName lang="en" type="FSN">Delusion of own appearance (finding)</displayName>
+</concept>
+<concept code="247776002">
+<displayName lang="en" type="PT">Depressive preoccupation</displayName>
+<displayName lang="en" type="FSN">Depressive preoccupation (finding)</displayName>
+</concept>
+<concept code="247808006">
+<displayName lang="en" type="PT">Anxiety about body function or health</displayName>
+<displayName lang="en" type="FSN">Anxiety about body function or health (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about health</displayName>
+</concept>
+<concept code="247825008">
+<displayName lang="en-GB" type="PT">Anxiety about behaviour or performance</displayName>
+<displayName lang="en" type="FSN">Anxiety about behavior or performance (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about social functioning</displayName>
+</concept>
+<concept code="247872008">
+<displayName lang="en" type="PT">Obsessional thoughts of harm occurring to property</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of harm occurring to property (finding)</displayName>
+</concept>
+<concept code="247873003">
+<displayName lang="en" type="PT">Obsessional thoughts of being robbed</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of being robbed (finding)</displayName>
+</concept>
+<concept code="247874009">
+<displayName lang="en" type="PT">Obsessional thoughts of fire</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of fire (finding)</displayName>
+</concept>
+<concept code="247875005">
+<displayName lang="en" type="PT">Obsessional thoughts of explosions</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of explosions (finding)</displayName>
+</concept>
+<concept code="247876006">
+<displayName lang="en" type="PT">Obsessional thoughts of causing accidents</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of causing accidents (finding)</displayName>
+</concept>
+<concept code="247877002">
+<displayName lang="en" type="PT">Obsessional thoughts of poisoning</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of poisoning (finding)</displayName>
+</concept>
+<concept code="247878007">
+<displayName lang="en" type="PT">Obsessional thoughts of giving others illness</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of giving others illness (finding)</displayName>
+</concept>
+<concept code="247879004">
+<displayName lang="en" type="PT">Obsessional thoughts of contamination</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of contamination (finding)</displayName>
+</concept>
+<concept code="247880001">
+<displayName lang="en" type="PT">Obsessional thoughts of disease</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of disease (finding)</displayName>
+</concept>
+<concept code="247881002">
+<displayName lang="en" type="PT">Obsessional thoughts of dirt</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of dirt (finding)</displayName>
+</concept>
+<concept code="247882009">
+<displayName lang="en" type="PT">Obsessional thoughts of germs</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of germs (finding)</displayName>
+</concept>
+<concept code="247883004">
+<displayName lang="en" type="PT">Obsessional doubts</displayName>
+<displayName lang="en" type="FSN">Obsessional doubts (finding)</displayName>
+</concept>
+<concept code="247884005">
+<displayName lang="en" type="PT">Obsessional thoughts of incompletion</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of incompletion (finding)</displayName>
+</concept>
+<concept code="247885006">
+<displayName lang="en" type="PT">Obsessional thoughts of throwing things away</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of throwing things away (finding)</displayName>
+</concept>
+<concept code="247887003">
+<displayName lang="en" type="PT">Unable to resist obsessional thoughts</displayName>
+<displayName lang="en" type="FSN">Unable to resist obsessional thoughts (finding)</displayName>
+<displayName lang="en" type="SY">Inability to resist obsessional thoughts</displayName>
+</concept>
+<concept code="247922007">
+<displayName lang="en" type="PT">Flapping movements of hands</displayName>
+<displayName lang="en" type="FSN">Flapping movements of hands (finding)</displayName>
+</concept>
+<concept code="247923002">
+<displayName lang="en" type="PT">Flapping movements of arms</displayName>
+<displayName lang="en" type="FSN">Flapping movements of arms (finding)</displayName>
+</concept>
+<concept code="247924008">
+<displayName lang="en" type="PT">Repetitive spinning of whole body</displayName>
+<displayName lang="en" type="FSN">Repetitive spinning of whole body (finding)</displayName>
+</concept>
+<concept code="247925009">
+<displayName lang="en" type="PT">Repetitive spinning of objects</displayName>
+<displayName lang="en" type="FSN">Repetitive spinning of objects (finding)</displayName>
+</concept>
+<concept code="247926005">
+<displayName lang="en" type="PT">Repetitive touching of objects</displayName>
+<displayName lang="en" type="FSN">Repetitive touching of objects (finding)</displayName>
+</concept>
+<concept code="247927001">
+<displayName lang="en" type="PT">Repetitive complex twisting movements</displayName>
+<displayName lang="en" type="FSN">Repetitive complex twisting movements (finding)</displayName>
+</concept>
+<concept code="247928006">
+<displayName lang="en" type="PT">Repetitive complex twisting movements of fingers</displayName>
+<displayName lang="en" type="FSN">Repetitive complex twisting movements of fingers (finding)</displayName>
+</concept>
+<concept code="247929003">
+<displayName lang="en" type="PT">Repetitive complex twisting movements of limbs</displayName>
+<displayName lang="en" type="FSN">Repetitive complex twisting movements of limbs (finding)</displayName>
+</concept>
+<concept code="247930008">
+<displayName lang="en" type="PT">Repetitive complex twisting movements of whole body</displayName>
+<displayName lang="en" type="FSN">Repetitive complex twisting movements of whole body (finding)</displayName>
+</concept>
+<concept code="247931007">
+<displayName lang="en" type="PT">Repetitive complex twisting of objects near eyes</displayName>
+<displayName lang="en" type="FSN">Repetitive complex twisting of objects near eyes (finding)</displayName>
+</concept>
+<concept code="247932000">
+<displayName lang="en" type="PT">Repititive complex twisting of hands near eyes</displayName>
+<displayName lang="en" type="FSN">Repititive complex twisting of hands near eyes (finding)</displayName>
+</concept>
+<concept code="247933005">
+<displayName lang="en" type="PT">Flicking objects near eyes</displayName>
+<displayName lang="en" type="FSN">Flicking objects near eyes (finding)</displayName>
+</concept>
+<concept code="247934004">
+<displayName lang="en" type="PT">Flicking hands near eyes</displayName>
+<displayName lang="en" type="FSN">Flicking hands near eyes (finding)</displayName>
+</concept>
+<concept code="247936002">
+<displayName lang="en" type="PT">Repetitive pressing on eyes</displayName>
+<displayName lang="en" type="FSN">Repetitive pressing on eyes (finding)</displayName>
+</concept>
+<concept code="247937006">
+<displayName lang="en" type="PT">Repetitive chin tapping</displayName>
+<displayName lang="en" type="FSN">Repetitive chin tapping (finding)</displayName>
+</concept>
+<concept code="247939009">
+<displayName lang="en" type="PT">Repetitive rubbing of body parts</displayName>
+<displayName lang="en" type="FSN">Repetitive rubbing of body parts (finding)</displayName>
+</concept>
+<concept code="247940006">
+<displayName lang="en" type="PT">Repetitive tiptoe walking</displayName>
+<displayName lang="en" type="FSN">Repetitive tiptoe walking (finding)</displayName>
+</concept>
+<concept code="248235009">
+<displayName lang="en" type="PT">Preoccupied</displayName>
+<displayName lang="en" type="FSN">Preoccupied (finding)</displayName>
+</concept>
+<concept code="267073005">
+<displayName lang="en" type="PT">Suicidal</displayName>
+<displayName lang="en" type="FSN">Suicidal (finding)</displayName>
+</concept>
+<concept code="271559000">
+<displayName lang="en" type="PT">Obsessional thoughts of causing harm to others</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of causing harm to others (finding)</displayName>
+</concept>
+<concept code="271953006">
+<displayName lang="en" type="PT">Obsessional thoughts of causing harm to self</displayName>
+<displayName lang="en" type="FSN">Obsessional thoughts of causing harm to self (finding)</displayName>
+</concept>
+<concept code="275277000">
+<displayName lang="en" type="PT">Post-traumatic amnesia</displayName>
+<displayName lang="en" type="FSN">Post-traumatic amnesia (finding)</displayName>
+<displayName lang="en" type="SY">PTA - Post-traumatic amnesia</displayName>
+<displayName lang="en" type="SY">Posttraumatic amnesia</displayName>
+</concept>
+<concept code="275278005">
+<displayName lang="en" type="PT">Difficulty in remembering dates</displayName>
+<displayName lang="en" type="FSN">Difficulty in remembering dates (finding)</displayName>
+</concept>
+<concept code="276236009">
+<displayName lang="en" type="PT">Comments on own thoughts</displayName>
+<displayName lang="en" type="FSN">Comments on own thoughts (finding)</displayName>
+</concept>
+<concept code="276237000">
+<displayName lang="en" type="PT">Comments on own reading</displayName>
+<displayName lang="en" type="FSN">Comments on own reading (finding)</displayName>
+</concept>
+<concept code="276238005">
+<displayName lang="en" type="PT">Comments on own writing</displayName>
+<displayName lang="en" type="FSN">Comments on own writing (finding)</displayName>
+</concept>
+<concept code="276240000">
+<displayName lang="en" type="PT">Comments on own actions</displayName>
+<displayName lang="en" type="FSN">Comments on own actions (finding)</displayName>
+</concept>
+<concept code="276243003">
+<displayName lang="en" type="PT">Primary delusions</displayName>
+<displayName lang="en" type="FSN">Primary delusions (finding)</displayName>
+</concept>
+<concept code="276244009">
+<displayName lang="en" type="PT">Delusional memories</displayName>
+<displayName lang="en" type="FSN">Delusional memories (finding)</displayName>
+<displayName lang="en" type="SY">Retrospective delusions</displayName>
+</concept>
+<concept code="276294005">
+<displayName lang="en" type="PT">Isolated memory skills</displayName>
+<displayName lang="en" type="FSN">Isolated memory skills (finding)</displayName>
+</concept>
+<concept code="276303005">
+<displayName lang="en" type="PT">Preoccupation with death</displayName>
+<displayName lang="en" type="FSN">Preoccupation with death (finding)</displayName>
+</concept>
+<concept code="276304004">
+<displayName lang="en" type="PT">Preoccupation with disaster</displayName>
+<displayName lang="en" type="FSN">Preoccupation with disaster (finding)</displayName>
+</concept>
+<concept code="276305003">
+<displayName lang="en" type="PT">Preoccupation with ruin</displayName>
+<displayName lang="en" type="FSN">Preoccupation with ruin (finding)</displayName>
+</concept>
+<concept code="276360005">
+<displayName lang="en" type="PT">Preoccupation with body weight</displayName>
+<displayName lang="en" type="FSN">Preoccupation with body weight (finding)</displayName>
+</concept>
+<concept code="277818007">
+<displayName lang="en" type="PT">Anxiety about losing control of bowels</displayName>
+<displayName lang="en" type="FSN">Anxiety about losing control of bowels (finding)</displayName>
+</concept>
+<concept code="277819004">
+<displayName lang="en" type="PT">Anxiety about wetting self</displayName>
+<displayName lang="en" type="FSN">Anxiety about wetting self (finding)</displayName>
+</concept>
+<concept code="277820005">
+<displayName lang="en" type="PT">Anxiety about vomiting in public</displayName>
+<displayName lang="en" type="FSN">Anxiety about vomiting in public (finding)</displayName>
+</concept>
+<concept code="277821009">
+<displayName lang="en" type="PT">Anxiety about having a fit</displayName>
+<displayName lang="en" type="FSN">Anxiety about having a fit (finding)</displayName>
+</concept>
+<concept code="277822002">
+<displayName lang="en" type="PT">Anxiety about choking</displayName>
+<displayName lang="en" type="FSN">Anxiety about choking (finding)</displayName>
+</concept>
+<concept code="277823007">
+<displayName lang="en" type="PT">Anxiety about swallowing</displayName>
+<displayName lang="en" type="FSN">Anxiety about swallowing (finding)</displayName>
+</concept>
+<concept code="277824001">
+<displayName lang="en" type="PT">Anxiety about collapsing</displayName>
+<displayName lang="en" type="FSN">Anxiety about collapsing (finding)</displayName>
+</concept>
+<concept code="277825000">
+<displayName lang="en" type="PT">Anxiety about shaking</displayName>
+<displayName lang="en" type="FSN">Anxiety about shaking (finding)</displayName>
+</concept>
+<concept code="277826004">
+<displayName lang="en" type="PT">Anxiety about sweating</displayName>
+<displayName lang="en" type="FSN">Anxiety about sweating (finding)</displayName>
+</concept>
+<concept code="277827008">
+<displayName lang="en" type="PT">Anxiety about dying</displayName>
+<displayName lang="en" type="FSN">Anxiety about dying (finding)</displayName>
+</concept>
+<concept code="277828003">
+<displayName lang="en" type="PT">Anxiety about going crazy</displayName>
+<displayName lang="en" type="FSN">Anxiety about going crazy (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about going insane</displayName>
+<displayName lang="en" type="SY">Anxiety about going mad</displayName>
+</concept>
+<concept code="277829006">
+<displayName lang="en" type="PT">Anxiety about losing emotional control</displayName>
+<displayName lang="en" type="FSN">Anxiety about losing emotional control (finding)</displayName>
+</concept>
+<concept code="277831002">
+<displayName lang="en" type="PT">Anxiety about becoming fat</displayName>
+<displayName lang="en" type="FSN">Anxiety about becoming fat (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about obesity</displayName>
+</concept>
+<concept code="277833004">
+<displayName lang="en" type="PT">Anxiety about fainting</displayName>
+<displayName lang="en" type="FSN">Anxiety about fainting (finding)</displayName>
+</concept>
+<concept code="277834005">
+<displayName lang="en" type="PT">Anxiety about having a heart attack</displayName>
+<displayName lang="en" type="FSN">Anxiety about having a heart attack (finding)</displayName>
+</concept>
+<concept code="277838008">
+<displayName lang="en" type="PT">Anxiety about appearing ridiculous</displayName>
+<displayName lang="en" type="FSN">Anxiety about appearing ridiculous (finding)</displayName>
+</concept>
+<concept code="277839000">
+<displayName lang="en" type="PT">Anxiety about saying the wrong thing</displayName>
+<displayName lang="en" type="FSN">Anxiety about saying the wrong thing (finding)</displayName>
+</concept>
+<concept code="281136009">
+<displayName lang="en" type="PT">Able to think abstractly</displayName>
+<displayName lang="en" type="FSN">Able to think abstractly (finding)</displayName>
+</concept>
+<concept code="283878007">
+<displayName lang="en" type="PT">Impairment of registration</displayName>
+<displayName lang="en" type="FSN">Impairment of registration (finding)</displayName>
+<displayName lang="en" type="SY">Impairment of immediate recall</displayName>
+<displayName lang="en" type="SY">Impairment of primary memory</displayName>
+<displayName lang="en" type="SY">Impairment of working memory</displayName>
+</concept>
+<concept code="283880001">
+<displayName lang="en" type="PT">Momentary confabulation</displayName>
+<displayName lang="en" type="FSN">Momentary confabulation (finding)</displayName>
+</concept>
+<concept code="283881002">
+<displayName lang="en" type="PT">Fantastical confabulation</displayName>
+<displayName lang="en" type="FSN">Fantastical confabulation (finding)</displayName>
+</concept>
+<concept code="283902008">
+<displayName lang="en" type="PT">Has delayed recall</displayName>
+<displayName lang="en" type="FSN">Has delayed recall (finding)</displayName>
+</concept>
+<concept code="283989001">
+<displayName lang="en" type="PT">Intrusive memories</displayName>
+<displayName lang="en" type="FSN">Intrusive memories (finding)</displayName>
+</concept>
+<concept code="283990005">
+<displayName lang="en" type="PT">Pleasant memories</displayName>
+<displayName lang="en" type="FSN">Pleasant memories (finding)</displayName>
+<displayName lang="en" type="SY">Positive memories</displayName>
+</concept>
+<concept code="283995000">
+<displayName lang="en" type="PT">Verbal memory for events</displayName>
+<displayName lang="en" type="FSN">Verbal memory for events (finding)</displayName>
+</concept>
+<concept code="283997008">
+<displayName lang="en" type="PT">False memories</displayName>
+<displayName lang="en" type="FSN">False memories (finding)</displayName>
+</concept>
+<concept code="284515004">
+<displayName lang="en" type="PT">Repetitive flapping movements</displayName>
+<displayName lang="en" type="FSN">Repetitive flapping movements (finding)</displayName>
+</concept>
+<concept code="284516003">
+<displayName lang="en" type="PT">Repetitive spinning movements</displayName>
+<displayName lang="en" type="FSN">Repetitive spinning movements (finding)</displayName>
+</concept>
+<concept code="284517007">
+<displayName lang="en" type="PT">Repetitive flicking movements</displayName>
+<displayName lang="en" type="FSN">Repetitive flicking movements (finding)</displayName>
+</concept>
+<concept code="284518002">
+<displayName lang="en" type="PT">Repetitive tapping movements</displayName>
+<displayName lang="en" type="FSN">Repetitive tapping movements (finding)</displayName>
+</concept>
+<concept code="284519005">
+<displayName lang="en" type="PT">Repetitive finger tapping</displayName>
+<displayName lang="en" type="FSN">Repetitive finger tapping (finding)</displayName>
+</concept>
+<concept code="285187002">
+<displayName lang="en" type="PT">Able to remember own date of birth</displayName>
+<displayName lang="en" type="FSN">Able to remember own date of birth (finding)</displayName>
+</concept>
+<concept code="285188007">
+<displayName lang="en" type="PT">Unable to remember own date of birth</displayName>
+<displayName lang="en" type="FSN">Unable to remember own date of birth (finding)</displayName>
+</concept>
+<concept code="285189004">
+<displayName lang="en" type="PT">Able to remember own age</displayName>
+<displayName lang="en" type="FSN">Able to remember own age (finding)</displayName>
+</concept>
+<concept code="285190008">
+<displayName lang="en" type="PT">Able to remember day of the week</displayName>
+<displayName lang="en" type="FSN">Able to remember day of the week (finding)</displayName>
+</concept>
+<concept code="285191007">
+<displayName lang="en" type="PT">Unable to remember day of the week</displayName>
+<displayName lang="en" type="FSN">Unable to remember day of the week (finding)</displayName>
+</concept>
+<concept code="285193005">
+<displayName lang="en" type="PT">Able to remember month of year</displayName>
+<displayName lang="en" type="FSN">Able to remember month of year (finding)</displayName>
+</concept>
+<concept code="285194004">
+<displayName lang="en" type="PT">Unable to remember month of year</displayName>
+<displayName lang="en" type="FSN">Unable to remember month of year (finding)</displayName>
+</concept>
+<concept code="285196002">
+<displayName lang="en" type="PT">Able to remember current year</displayName>
+<displayName lang="en" type="FSN">Able to remember current year (finding)</displayName>
+</concept>
+<concept code="285197006">
+<displayName lang="en" type="PT">Unable to remember current year</displayName>
+<displayName lang="en" type="FSN">Unable to remember current year (finding)</displayName>
+</concept>
+<concept code="285198001">
+<displayName lang="en" type="PT">Able to remember name of reigning monarch</displayName>
+<displayName lang="en" type="FSN">Able to remember name of reigning monarch (finding)</displayName>
+<displayName lang="en" type="SY">Able to remember name of current monarch</displayName>
+</concept>
+<concept code="285199009">
+<displayName lang="en" type="PT">Able to remember name of current prime minister</displayName>
+<displayName lang="en" type="FSN">Able to remember name of current prime minister (finding)</displayName>
+</concept>
+<concept code="285205002">
+<displayName lang="en" type="PT">Able to remember today&apos;s date</displayName>
+<displayName lang="en" type="FSN">Able to remember today&apos;s date (finding)</displayName>
+</concept>
+<concept code="285207005">
+<displayName lang="en" type="PT">Able to recall random address at five minutes</displayName>
+<displayName lang="en" type="FSN">Able to recall random address at five minutes (finding)</displayName>
+</concept>
+<concept code="285208000">
+<displayName lang="en" type="PT">Unable to recall random address at five minutes</displayName>
+<displayName lang="en" type="FSN">Unable to recall random address at five minutes (finding)</displayName>
+</concept>
+<concept code="285209008">
+<displayName lang="en" type="PT">Able to reproduce geometric figure at five minutes</displayName>
+<displayName lang="en" type="FSN">Able to reproduce geometric figure at five minutes (finding)</displayName>
+</concept>
+<concept code="285210003">
+<displayName lang="en" type="PT">Unable to reproduce geometric figure at five minutes</displayName>
+<displayName lang="en" type="FSN">Unable to reproduce geometric figure at five minutes (finding)</displayName>
+</concept>
+<concept code="285211004">
+<displayName lang="en" type="PT">Able to recall five digit number at five minutes</displayName>
+<displayName lang="en" type="FSN">Able to recall five digit number at five minutes (finding)</displayName>
+</concept>
+<concept code="285212006">
+<displayName lang="en" type="PT">Unable to recall five digit number at five minutes</displayName>
+<displayName lang="en" type="FSN">Unable to recall five digit number at five minutes (finding)</displayName>
+</concept>
+<concept code="285213001">
+<displayName lang="en" type="PT">Memory aided by use of lists</displayName>
+<displayName lang="en" type="FSN">Memory aided by use of lists (finding)</displayName>
+</concept>
+<concept code="285214007">
+<displayName lang="en" type="PT">Memory aided by use of labels</displayName>
+<displayName lang="en" type="FSN">Memory aided by use of labels (finding)</displayName>
+</concept>
+<concept code="285215008">
+<displayName lang="en" type="PT">Memory aided by use of diary</displayName>
+<displayName lang="en" type="FSN">Memory aided by use of diary (finding)</displayName>
+</concept>
+<concept code="285216009">
+<displayName lang="en" type="PT">Reliving traumatic memories</displayName>
+<displayName lang="en" type="FSN">Reliving traumatic memories (finding)</displayName>
+</concept>
+<concept code="285218005">
+<displayName lang="en" type="PT">Able to remember motor skills</displayName>
+<displayName lang="en" type="FSN">Able to remember motor skills (finding)</displayName>
+</concept>
+<concept code="285219002">
+<displayName lang="en" type="PT">Unable to remember motor skills</displayName>
+<displayName lang="en" type="FSN">Unable to remember motor skills (finding)</displayName>
+</concept>
+<concept code="285220008">
+<displayName lang="en" type="PT">Able to remember new motor skills</displayName>
+<displayName lang="en" type="FSN">Able to remember new motor skills (finding)</displayName>
+</concept>
+<concept code="285221007">
+<displayName lang="en" type="PT">Unable to remember new motor skills</displayName>
+<displayName lang="en" type="FSN">Unable to remember new motor skills (finding)</displayName>
+</concept>
+<concept code="285222000">
+<displayName lang="en" type="PT">Able to remember old motor skills</displayName>
+<displayName lang="en" type="FSN">Able to remember old motor skills (finding)</displayName>
+</concept>
+<concept code="285223005">
+<displayName lang="en" type="PT">Unable to remember old motor skills</displayName>
+<displayName lang="en" type="FSN">Unable to remember old motor skills (finding)</displayName>
+</concept>
+<concept code="285224004">
+<displayName lang="en" type="PT">Able to remember objects</displayName>
+<displayName lang="en" type="FSN">Able to remember objects (finding)</displayName>
+</concept>
+<concept code="285225003">
+<displayName lang="en" type="PT">Unable to remember objects</displayName>
+<displayName lang="en" type="FSN">Unable to remember objects (finding)</displayName>
+</concept>
+<concept code="285227006">
+<displayName lang="en" type="PT">Able to remember faces</displayName>
+<displayName lang="en" type="FSN">Able to remember faces (finding)</displayName>
+</concept>
+<concept code="285228001">
+<displayName lang="en" type="PT">Unable to remember faces</displayName>
+<displayName lang="en" type="FSN">Unable to remember faces (finding)</displayName>
+</concept>
+<concept code="285229009">
+<displayName lang="en" type="PT">Able to remember sounds</displayName>
+<displayName lang="en" type="FSN">Able to remember sounds (finding)</displayName>
+</concept>
+<concept code="285230004">
+<displayName lang="en" type="PT">Unable to remember sounds</displayName>
+<displayName lang="en" type="FSN">Unable to remember sounds (finding)</displayName>
+</concept>
+<concept code="285241002">
+<displayName lang="en" type="PT">Lucid</displayName>
+<displayName lang="en" type="FSN">Lucid (finding)</displayName>
+</concept>
+<concept code="285242009">
+<displayName lang="en" type="PT">Bradyphrenia</displayName>
+<displayName lang="en" type="FSN">Bradyphrenia (finding)</displayName>
+</concept>
+<concept code="285243004">
+<displayName lang="en" type="PT">Sluggish thought</displayName>
+<displayName lang="en" type="FSN">Sluggish thought (finding)</displayName>
+</concept>
+<concept code="285245006">
+<displayName lang="en" type="PT">Arbitrary inference</displayName>
+<displayName lang="en" type="FSN">Arbitrary inference (finding)</displayName>
+</concept>
+<concept code="285246007">
+<displayName lang="en" type="PT">Selective abstraction</displayName>
+<displayName lang="en" type="FSN">Selective abstraction (finding)</displayName>
+</concept>
+<concept code="285247003">
+<displayName lang="en-GB" type="PT">Catastrophisation</displayName>
+<displayName lang="en" type="FSN">Catastrophization (finding)</displayName>
+</concept>
+<concept code="285248008">
+<displayName lang="en-GB" type="PT">Overgeneralisation</displayName>
+<displayName lang="en" type="FSN">Overgeneralization (finding)</displayName>
+</concept>
+<concept code="285249000">
+<displayName lang="en" type="PT">Black and white thinking</displayName>
+<displayName lang="en" type="FSN">Black and white thinking (finding)</displayName>
+<displayName lang="en" type="SY">All or nothing thinking</displayName>
+</concept>
+<concept code="285251001">
+<displayName lang="en" type="PT">Able to resist dangerous thoughts</displayName>
+<displayName lang="en" type="FSN">Able to resist dangerous thoughts (finding)</displayName>
+</concept>
+<concept code="285252008">
+<displayName lang="en" type="PT">Unable to resist dangerous thoughts</displayName>
+<displayName lang="en" type="FSN">Unable to resist dangerous thoughts (finding)</displayName>
+</concept>
+<concept code="285253003">
+<displayName lang="en" type="PT">Able to resist dangerous thoughts with ease</displayName>
+<displayName lang="en" type="FSN">Able to resist dangerous thoughts with ease (finding)</displayName>
+</concept>
+<concept code="285254009">
+<displayName lang="en" type="PT">Able to resist dangerous thoughts with difficulty</displayName>
+<displayName lang="en" type="FSN">Able to resist dangerous thoughts with difficulty (finding)</displayName>
+</concept>
+<concept code="285255005">
+<displayName lang="en" type="PT">Compulsion to act on dangerous thoughts</displayName>
+<displayName lang="en" type="FSN">Compulsion to act on dangerous thoughts (finding)</displayName>
+</concept>
+<concept code="285256006">
+<displayName lang="en" type="PT">Able to think independently</displayName>
+<displayName lang="en" type="FSN">Able to think independently (finding)</displayName>
+</concept>
+<concept code="285257002">
+<displayName lang="en" type="PT">Difficulty in thinking independently</displayName>
+<displayName lang="en" type="FSN">Difficulty in thinking independently (finding)</displayName>
+</concept>
+<concept code="285260009">
+<displayName lang="en" type="PT">Able to resist obsessional thoughts</displayName>
+<displayName lang="en" type="FSN">Able to resist obsessional thoughts (finding)</displayName>
+</concept>
+<concept code="285261008">
+<displayName lang="en" type="PT">Dangerous and harmful thoughts</displayName>
+<displayName lang="en" type="FSN">Dangerous and harmful thoughts (finding)</displayName>
+<displayName lang="en" type="SY">Evil rumination</displayName>
+</concept>
+<concept code="285262001">
+<displayName lang="en" type="PT">Thoughts of revenge</displayName>
+<displayName lang="en" type="FSN">Thoughts of revenge (finding)</displayName>
+</concept>
+<concept code="285263006">
+<displayName lang="en" type="PT">Thoughts of violence</displayName>
+<displayName lang="en" type="FSN">Thoughts of violence (finding)</displayName>
+</concept>
+<concept code="285264000">
+<displayName lang="en" type="PT">Thoughts of arson</displayName>
+<displayName lang="en" type="FSN">Thoughts of arson (finding)</displayName>
+</concept>
+<concept code="285265004">
+<displayName lang="en" type="PT">Dangerous plans</displayName>
+<displayName lang="en" type="FSN">Dangerous plans (finding)</displayName>
+</concept>
+<concept code="285266003">
+<displayName lang="en" type="PT">Dangerous fantasy</displayName>
+<displayName lang="en" type="FSN">Dangerous fantasy (finding)</displayName>
+</concept>
+<concept code="285267007">
+<displayName lang="en" type="PT">Thoughts of physical assault</displayName>
+<displayName lang="en" type="FSN">Thoughts of physical assault (finding)</displayName>
+</concept>
+<concept code="285268002">
+<displayName lang="en" type="PT">Thoughts of sexual violence</displayName>
+<displayName lang="en" type="FSN">Thoughts of sexual violence (finding)</displayName>
+</concept>
+<concept code="285269005">
+<displayName lang="en" type="PT">Thoughts of raping</displayName>
+<displayName lang="en" type="FSN">Thoughts of raping (finding)</displayName>
+</concept>
+<concept code="285270006">
+<displayName lang="en" type="PT">Plans to kill</displayName>
+<displayName lang="en" type="FSN">Plans to kill (finding)</displayName>
+<displayName lang="en" type="SY">Plans to murder</displayName>
+</concept>
+<concept code="285271005">
+<displayName lang="en" type="PT">Plans to assault</displayName>
+<displayName lang="en" type="FSN">Plans to assault (finding)</displayName>
+</concept>
+<concept code="285272003">
+<displayName lang="en" type="PT">Plans to commit sexual crime</displayName>
+<displayName lang="en" type="FSN">Plans to commit sexual crime (finding)</displayName>
+</concept>
+<concept code="285273008">
+<displayName lang="en" type="PT">Plans to rape</displayName>
+<displayName lang="en" type="FSN">Plans to rape (finding)</displayName>
+</concept>
+<concept code="285274002">
+<displayName lang="en" type="PT">Plans to set fire</displayName>
+<displayName lang="en" type="FSN">Plans to set fire (finding)</displayName>
+</concept>
+<concept code="285275001">
+<displayName lang="en" type="PT">Rape fantasy</displayName>
+<displayName lang="en" type="FSN">Rape fantasy (finding)</displayName>
+</concept>
+<concept code="285276000">
+<displayName lang="en" type="PT">Optimistic thoughts</displayName>
+<displayName lang="en" type="FSN">Optimistic thoughts (finding)</displayName>
+</concept>
+<concept code="285277009">
+<displayName lang="en" type="PT">Delusion of unworthiness</displayName>
+<displayName lang="en" type="FSN">Delusion of unworthiness (finding)</displayName>
+</concept>
+<concept code="285286004">
+<displayName lang="en" type="PT">Compulsion to act on thoughts</displayName>
+<displayName lang="en" type="FSN">Compulsion to act on thoughts (finding)</displayName>
+</concept>
+<concept code="285294006">
+<displayName lang="en" type="PT">Pleasant fantasy</displayName>
+<displayName lang="en" type="FSN">Pleasant fantasy (finding)</displayName>
+</concept>
+<concept code="285295007">
+<displayName lang="en" type="PT">Pornographic fantasy</displayName>
+<displayName lang="en" type="FSN">Pornographic fantasy (finding)</displayName>
+</concept>
+<concept code="285303006">
+<displayName lang="en" type="PT">Racing thoughts</displayName>
+<displayName lang="en" type="FSN">Racing thoughts (finding)</displayName>
+</concept>
+<concept code="285628005">
+<displayName lang="en" type="PT">Difficulty telling the time</displayName>
+<displayName lang="en" type="FSN">Difficulty telling the time (finding)</displayName>
+</concept>
+<concept code="285629002">
+<displayName lang="en" type="PT">Unable to tell the time</displayName>
+<displayName lang="en" type="FSN">Unable to tell the time (finding)</displayName>
+</concept>
+<concept code="285630007">
+<displayName lang="en" type="PT">Able to tell the time</displayName>
+<displayName lang="en" type="FSN">Able to tell the time (finding)</displayName>
+</concept>
+<concept code="286666002">
+<displayName lang="en-GB" type="PT">Delusional projection - mental defence mechanism</displayName>
+<displayName lang="en" type="FSN">Delusional projection - mental defense mechanism (finding)</displayName>
+<displayName lang="en" type="SY">Delusional projection</displayName>
+</concept>
+<concept code="302759005">
+<displayName lang="en" type="PT">Guilty ideas of reference</displayName>
+<displayName lang="en" type="FSN">Guilty ideas of reference (finding)</displayName>
+</concept>
+<concept code="302760000">
+<displayName lang="en" type="PT">Fast flow of thought</displayName>
+<displayName lang="en" type="FSN">Fast flow of thought (finding)</displayName>
+</concept>
+<concept code="304594002">
+<displayName lang="en" type="PT">Suicidal intent</displayName>
+<displayName lang="en" type="FSN">Suicidal intent (finding)</displayName>
+</concept>
+<concept code="304642007">
+<displayName lang="en" type="PT">Able to reason</displayName>
+<displayName lang="en" type="FSN">Able to reason (finding)</displayName>
+</concept>
+<concept code="304643002">
+<displayName lang="en" type="PT">Unable to reason</displayName>
+<displayName lang="en" type="FSN">Unable to reason (finding)</displayName>
+</concept>
+<concept code="304644008">
+<displayName lang="en" type="PT">Difficulty reasoning</displayName>
+<displayName lang="en" type="FSN">Difficulty reasoning (finding)</displayName>
+</concept>
+<concept code="304646005">
+<displayName lang="en" type="PT">Able to perform logical sequencing</displayName>
+<displayName lang="en" type="FSN">Able to perform logical sequencing (finding)</displayName>
+</concept>
+<concept code="304647001">
+<displayName lang="en" type="PT">Difficulty performing logical sequencing</displayName>
+<displayName lang="en" type="FSN">Difficulty performing logical sequencing (finding)</displayName>
+</concept>
+<concept code="304648006">
+<displayName lang="en" type="PT">Unable to perform logical sequencing</displayName>
+<displayName lang="en" type="FSN">Unable to perform logical sequencing (finding)</displayName>
+</concept>
+<concept code="304650003">
+<displayName lang="en" type="PT">Able to use decision making strategies</displayName>
+<displayName lang="en" type="FSN">Able to use decision making strategies (finding)</displayName>
+</concept>
+<concept code="304651004">
+<displayName lang="en" type="PT">Unable to use decision making strategies</displayName>
+<displayName lang="en" type="FSN">Unable to use decision making strategies (finding)</displayName>
+</concept>
+<concept code="304652006">
+<displayName lang="en" type="PT">Difficulty using decision making strategies</displayName>
+<displayName lang="en" type="FSN">Difficulty using decision making strategies (finding)</displayName>
+</concept>
+<concept code="304655008">
+<displayName lang="en" type="PT">Able to use visuospatial reasoning</displayName>
+<displayName lang="en" type="FSN">Able to use visuospatial reasoning (finding)</displayName>
+</concept>
+<concept code="304656009">
+<displayName lang="en" type="PT">Unable to use visuospatial reasoning</displayName>
+<displayName lang="en" type="FSN">Unable to use visuospatial reasoning (finding)</displayName>
+</concept>
+<concept code="304657000">
+<displayName lang="en" type="PT">Difficulty using visuospatial reasoning</displayName>
+<displayName lang="en" type="FSN">Difficulty using visuospatial reasoning (finding)</displayName>
+</concept>
+<concept code="304660007">
+<displayName lang="en" type="PT">Able to use arithmetic reasoning</displayName>
+<displayName lang="en" type="FSN">Able to use arithmetic reasoning (finding)</displayName>
+</concept>
+<concept code="304661006">
+<displayName lang="en" type="PT">Unable to use arithmetic reasoning</displayName>
+<displayName lang="en" type="FSN">Unable to use arithmetic reasoning (finding)</displayName>
+</concept>
+<concept code="304662004">
+<displayName lang="en" type="PT">Difficulty using arithmetic reasoning</displayName>
+<displayName lang="en" type="FSN">Difficulty using arithmetic reasoning (finding)</displayName>
+</concept>
+<concept code="304664003">
+<displayName lang="en" type="PT">Able to use verbal reasoning</displayName>
+<displayName lang="en" type="FSN">Able to use verbal reasoning (finding)</displayName>
+</concept>
+<concept code="304665002">
+<displayName lang="en" type="PT">Unable to use verbal reasoning</displayName>
+<displayName lang="en" type="FSN">Unable to use verbal reasoning (finding)</displayName>
+</concept>
+<concept code="304666001">
+<displayName lang="en" type="PT">Difficulty using verbal reasoning</displayName>
+<displayName lang="en" type="FSN">Difficulty using verbal reasoning (finding)</displayName>
+</concept>
+<concept code="304687006">
+<displayName lang="en" type="PT">Able to make considered choices</displayName>
+<displayName lang="en" type="FSN">Able to make considered choices (finding)</displayName>
+</concept>
+<concept code="304688001">
+<displayName lang="en" type="PT">Unable to make considered choices</displayName>
+<displayName lang="en" type="FSN">Unable to make considered choices (finding)</displayName>
+</concept>
+<concept code="304689009">
+<displayName lang="en" type="PT">Difficulty making considered choices</displayName>
+<displayName lang="en" type="FSN">Difficulty making considered choices (finding)</displayName>
+</concept>
+<concept code="307078008">
+<displayName lang="en" type="PT">Thought commentary</displayName>
+<displayName lang="en" type="FSN">Thought commentary (finding)</displayName>
+</concept>
+<concept code="307083000">
+<displayName lang="en" type="PT">Able to process information</displayName>
+<displayName lang="en" type="FSN">Able to process information (finding)</displayName>
+</concept>
+<concept code="307084006">
+<displayName lang="en" type="PT">Unable to process information</displayName>
+<displayName lang="en" type="FSN">Unable to process information (finding)</displayName>
+</concept>
+<concept code="307085007">
+<displayName lang="en" type="PT">Difficulty processing information</displayName>
+<displayName lang="en" type="FSN">Difficulty processing information (finding)</displayName>
+</concept>
+<concept code="307087004">
+<displayName lang="en-GB" type="PT">Able to analyse information</displayName>
+<displayName lang="en" type="FSN">Able to analyze information (finding)</displayName>
+</concept>
+<concept code="307088009">
+<displayName lang="en-GB" type="PT">Unable to analyse information</displayName>
+<displayName lang="en" type="FSN">Unable to analyze information (finding)</displayName>
+</concept>
+<concept code="307089001">
+<displayName lang="en" type="PT">Difficulty analysing information</displayName>
+<displayName lang="en" type="FSN">Difficulty analysing information (finding)</displayName>
+</concept>
+<concept code="307413004">
+<displayName lang="en" type="PT">Transient memory loss</displayName>
+<displayName lang="en" type="FSN">Transient memory loss (finding)</displayName>
+<displayName lang="en" type="SY">Transient amnesia</displayName>
+</concept>
+<concept code="309251006">
+<displayName lang="en" type="PT">Able to read</displayName>
+<displayName lang="en" type="FSN">Able to read (finding)</displayName>
+</concept>
+<concept code="309252004">
+<displayName lang="en" type="PT">Unable to read</displayName>
+<displayName lang="en" type="FSN">Unable to read (finding)</displayName>
+</concept>
+<concept code="309253009">
+<displayName lang="en" type="PT">Difficulty reading</displayName>
+<displayName lang="en" type="FSN">Difficulty reading (finding)</displayName>
+</concept>
+<concept code="311407009">
+<displayName lang="en" type="PT">Digit span forwards</displayName>
+<displayName lang="en" type="FSN">Digit span forwards (finding)</displayName>
+</concept>
+<concept code="311476004">
+<displayName lang="en" type="PT">Digit span reverse</displayName>
+<displayName lang="en" type="FSN">Digit span reverse (finding)</displayName>
+</concept>
+<concept code="311533004">
+<displayName lang="en" type="PT">Delayed verbal memory</displayName>
+<displayName lang="en" type="FSN">Delayed verbal memory (finding)</displayName>
+</concept>
+<concept code="311535006">
+<displayName lang="en" type="PT">Rigidity of thinking</displayName>
+<displayName lang="en" type="FSN">Rigidity of thinking (finding)</displayName>
+</concept>
+<concept code="311538008">
+<displayName lang="en" type="PT">Able to process information accurately</displayName>
+<displayName lang="en" type="FSN">Able to process information accurately (finding)</displayName>
+</concept>
+<concept code="311539000">
+<displayName lang="en" type="PT">Unable to process information accurately</displayName>
+<displayName lang="en" type="FSN">Unable to process information accurately (finding)</displayName>
+</concept>
+<concept code="311540003">
+<displayName lang="en" type="PT">Difficulty processing information accurately</displayName>
+<displayName lang="en" type="FSN">Difficulty processing information accurately (finding)</displayName>
+</concept>
+<concept code="311541004">
+<displayName lang="en" type="PT">Able to process information at normal speed</displayName>
+<displayName lang="en" type="FSN">Able to process information at normal speed (finding)</displayName>
+</concept>
+<concept code="311542006">
+<displayName lang="en" type="PT">Unable to process information at normal speed</displayName>
+<displayName lang="en" type="FSN">Unable to process information at normal speed (finding)</displayName>
+</concept>
+<concept code="311543001">
+<displayName lang="en" type="PT">Difficulty processing information at normal speed</displayName>
+<displayName lang="en" type="FSN">Difficulty processing information at normal speed (finding)</displayName>
+</concept>
+<concept code="386805003">
+<displayName lang="en" type="PT">Mild cognitive disorder</displayName>
+<displayName lang="en" type="FSN">Mild cognitive disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Mild cognitive impairment</displayName>
+</concept>
+<concept code="386806002">
+<displayName lang="en" type="PT">Impaired cognition</displayName>
+<displayName lang="en" type="FSN">Impaired cognition (finding)</displayName>
+<displayName lang="en" type="SY">Cognitive decline</displayName>
+<displayName lang="en" type="SY">Cognitive disturbance</displayName>
+<displayName lang="en" type="SY">Cognitive dysfunction</displayName>
+<displayName lang="en" type="SY">Cognitive impairment</displayName>
+</concept>
+<concept code="386807006">
+<displayName lang="en" type="PT">Memory impairment</displayName>
+<displayName lang="en" type="FSN">Memory impairment (finding)</displayName>
+<displayName lang="en" type="SY">Bad memory</displayName>
+<displayName lang="en" type="SY">Disturbance of memory</displayName>
+<displayName lang="en" type="SY">Dysmnesia</displayName>
+<displayName lang="en" type="SY">Impaired memory</displayName>
+<displayName lang="en" type="SY">Memory deficit</displayName>
+<displayName lang="en" type="SY">Memory dysfunction</displayName>
+<displayName lang="en" type="SY">Memory problem</displayName>
+<displayName lang="en" type="SY">Poor memory</displayName>
+</concept>
+<concept code="395662007">
+<displayName lang="en" type="PT">Able to comprehend concept of danger</displayName>
+<displayName lang="en" type="FSN">Able to comprehend concept of danger (finding)</displayName>
+<displayName lang="en" type="SY">Able to understand concept of danger</displayName>
+</concept>
+<concept code="395663002">
+<displayName lang="en" type="PT">Unable to comprehend concept of danger</displayName>
+<displayName lang="en" type="FSN">Unable to comprehend concept of danger (finding)</displayName>
+<displayName lang="en" type="SY">Unable to understand concept of danger</displayName>
+</concept>
+<concept code="395664008">
+<displayName lang="en" type="PT">Difficulty comprehending concept of danger</displayName>
+<displayName lang="en" type="FSN">Difficulty comprehending concept of danger (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty understanding concept of danger</displayName>
+</concept>
+<concept code="395689002">
+<displayName lang="en" type="PT">Transient epileptic amnesia</displayName>
+<displayName lang="en" type="FSN">Transient epileptic amnesia (finding)</displayName>
+</concept>
+<concept code="397588000">
+<displayName lang="en" type="PT">Demonstrates knowledge of expected responses to operative procedure</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of expected responses to operative procedure (finding)</displayName>
+</concept>
+<concept code="397598006">
+<displayName lang="en" type="PT">Demonstrates knowledge of nutritional requirements related to operative procedure</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of nutritional requirements related to operative procedure (finding)</displayName>
+</concept>
+<concept code="397629003">
+<displayName lang="en" type="PT">Participates in perioperative plan of care decisions</displayName>
+<displayName lang="en" type="FSN">Participates in perioperative plan of care decisions (finding)</displayName>
+</concept>
+<concept code="397675006">
+<displayName lang="en" type="PT">Demonstrates knowledge of wound healing process</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of wound healing process (finding)</displayName>
+</concept>
+<concept code="397699006">
+<displayName lang="en" type="PT">Demonstrates knowledge of medication management</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of medication management (finding)</displayName>
+</concept>
+<concept code="397724004">
+<displayName lang="en" type="PT">Demonstrates knowledge of pain management</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of pain management (finding)</displayName>
+</concept>
+<concept code="401010000">
+<displayName lang="en" type="PT">Patient concerned about eyesight</displayName>
+<displayName lang="en" type="FSN">Patient concerned about eyesight (finding)</displayName>
+</concept>
+<concept code="401229000">
+<displayName lang="en" type="PT">Thoughts of deliberate self harm</displayName>
+<displayName lang="en" type="FSN">Thoughts of deliberate self harm (finding)</displayName>
+</concept>
+<concept code="401230005">
+<displayName lang="en" type="PT">Plans for deliberate self harm without intent</displayName>
+<displayName lang="en" type="FSN">Plans for deliberate self harm without intent (finding)</displayName>
+</concept>
+<concept code="401231009">
+<displayName lang="en" type="PT">Intent of deliberate self harm with detailed plans</displayName>
+<displayName lang="en" type="FSN">Intent of deliberate self harm with detailed plans (finding)</displayName>
+</concept>
+<concept code="407629001">
+<displayName lang="en" type="PT">GDS level 1 - no cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 1 - no cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 1 - no cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 1 - no cognitive decline</displayName>
+</concept>
+<concept code="407630006">
+<displayName lang="en" type="PT">GDS level 2 - very mild cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 2 - very mild cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 2 - very mild cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 2 - very mild cognitive decline</displayName>
+</concept>
+<concept code="407631005">
+<displayName lang="en" type="PT">GDS level 3 - mild cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 3 - mild cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 3 - mild cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 3 - mild cognitive decline</displayName>
+</concept>
+<concept code="407632003">
+<displayName lang="en" type="PT">GDS level 4 - moderate cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 4 - moderate cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 4 - moderate cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 4 - moderate cognitive decline</displayName>
+</concept>
+<concept code="407633008">
+<displayName lang="en" type="PT">GDS level 5 - moderately severe cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 5 - moderately severe cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 5 - moderately severe cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 5 - moderately severe cognitive decline</displayName>
+</concept>
+<concept code="407634002">
+<displayName lang="en" type="PT">GDS level 6 - severe cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 6 - severe cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 6 - severe cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 6 - severe cognitive decline</displayName>
+</concept>
+<concept code="407635001">
+<displayName lang="en" type="PT">GDS level 7 - very severe cognitive decline</displayName>
+<displayName lang="en" type="FSN">Global Deterioration Scale level 7 - very severe cognitive decline (finding)</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale (GDS) level 7 - very severe cognitive decline</displayName>
+<displayName lang="en" type="SY">Global Deterioration Scale level 7 - very severe cognitive decline</displayName>
+</concept>
+<concept code="408364003">
+<displayName lang="en" type="PT">Patient does not understand why taking all medication</displayName>
+<displayName lang="en" type="FSN">Patient does not understand why taking all medication (finding)</displayName>
+</concept>
+<concept code="413088002">
+<displayName lang="en" type="PT">Poor visual sequential memory</displayName>
+<displayName lang="en" type="FSN">Poor visual sequential memory (finding)</displayName>
+</concept>
+<concept code="413089005">
+<displayName lang="en" type="PT">Poor auditory sequential memory</displayName>
+<displayName lang="en" type="FSN">Poor auditory sequential memory (finding)</displayName>
+</concept>
+<concept code="415806002">
+<displayName lang="en" type="PT">Using decision making strategies</displayName>
+<displayName lang="en" type="FSN">Using decision making strategies (finding)</displayName>
+</concept>
+<concept code="416106008">
+<displayName lang="en" type="PT">Disturbance of memory for order of events</displayName>
+<displayName lang="en" type="FSN">Disturbance of memory for order of events (finding)</displayName>
+</concept>
+<concept code="416611006">
+<displayName lang="en" type="PT">O/E - paranoid delusions</displayName>
+<displayName lang="en" type="FSN">On examination - paranoid delusions (finding)</displayName>
+<displayName lang="en" type="SY">On examination - paranoid delusions</displayName>
+</concept>
+<concept code="416687002">
+<displayName lang="en" type="PT">Flashbacks have stopped</displayName>
+<displayName lang="en" type="FSN">Flashbacks have stopped (finding)</displayName>
+</concept>
+<concept code="416890005">
+<displayName lang="en" type="PT">O/E - delusion of persecution</displayName>
+<displayName lang="en" type="FSN">On examination - delusion of persecution (finding)</displayName>
+<displayName lang="en" type="SY">On examination - delusion of persecution</displayName>
+</concept>
+<concept code="417233008">
+<displayName lang="en" type="PT">Paranoid ideation</displayName>
+<displayName lang="en" type="FSN">Paranoid ideation (finding)</displayName>
+</concept>
+<concept code="417754002">
+<displayName lang="en" type="PT">Repetitive tail chasing</displayName>
+<displayName lang="en" type="FSN">Repetitive tail chasing (finding)</displayName>
+<displayName lang="en" type="SY">Tail chasing</displayName>
+</concept>
+<concept code="417938007">
+<displayName lang="en" type="PT">Verbalizes prescribed activity plan</displayName>
+<displayName lang="en" type="FSN">Verbalizes prescribed activity plan (finding)</displayName>
+</concept>
+<concept code="418075002">
+<displayName lang="en" type="PT">Verbalizes plan for reduction of exercise barriers</displayName>
+<displayName lang="en" type="FSN">Verbalizes plan for reduction of exercise barriers (finding)</displayName>
+<displayName lang="en" type="SY">Describes plan for reduction of exercise barriers</displayName>
+</concept>
+<concept code="418428009">
+<displayName lang="en" type="PT">Verbalizes plan to support exercise</displayName>
+<displayName lang="en" type="FSN">Verbalizes plan to support exercise (finding)</displayName>
+<displayName lang="en" type="SY">Describes plan to support exercise</displayName>
+</concept>
+<concept code="418716000">
+<displayName lang="en" type="PT">Verbalizes essential medication characteristics</displayName>
+<displayName lang="en" type="FSN">Verbalizes essential medication characteristics (finding)</displayName>
+</concept>
+<concept code="418837001">
+<displayName lang="en" type="PT">Verbalizes chronic illness diagnosis and severity</displayName>
+<displayName lang="en" type="FSN">Verbalizes chronic illness diagnosis and severity (finding)</displayName>
+</concept>
+<concept code="419011006">
+<displayName lang="en" type="PT">Verbalizes medication compliance</displayName>
+<displayName lang="en" type="FSN">Verbalizes medication compliance (finding)</displayName>
+<displayName lang="en" type="SY">Verbalizes medication adherence</displayName>
+</concept>
+<concept code="419049005">
+<displayName lang="en" type="PT">Verbalizes medication refill plans</displayName>
+<displayName lang="en" type="FSN">Verbalizes medication refill plans (finding)</displayName>
+</concept>
+<concept code="419128007">
+<displayName lang="en" type="PT">Verbalizes plan for reduction of medication compliance barriers</displayName>
+<displayName lang="en" type="FSN">Verbalizes plan for reduction of medication compliance barriers (finding)</displayName>
+<displayName lang="en" type="SY">Verbalizes plan for reduction of medication adherence barriers</displayName>
+</concept>
+<concept code="419399001">
+<displayName lang="en" type="PT">Verbalizes discharge instructions regarding activity plan</displayName>
+<displayName lang="en" type="FSN">Verbalizes discharge instructions regarding activity plan (finding)</displayName>
+<displayName lang="en" type="SY">Describes discharge instructions regarding activity plan</displayName>
+</concept>
+<concept code="419606008">
+<displayName lang="en" type="PT">Verbalizes medication self-dose adjustment methods</displayName>
+<displayName lang="en" type="FSN">Verbalizes medication self-dose adjustment methods (finding)</displayName>
+</concept>
+<concept code="419849006">
+<displayName lang="en" type="PT">Verbalizes activity tolerance</displayName>
+<displayName lang="en" type="FSN">Verbalizes activity tolerance (finding)</displayName>
+</concept>
+<concept code="420169008">
+<displayName lang="en" type="PT">Verbalizes routine for medication administration</displayName>
+<displayName lang="en" type="FSN">Verbalizes routine for medication administration (finding)</displayName>
+</concept>
+<concept code="422713003">
+<displayName lang="en" type="PT">Limited recall of long past event</displayName>
+<displayName lang="en" type="FSN">Limited recall of long past event (finding)</displayName>
+<displayName lang="en" type="SY">Limited recall of past event of long ago</displayName>
+</concept>
+<concept code="422742006">
+<displayName lang="en" type="PT">Difficulty problem solving without conflict</displayName>
+<displayName lang="en" type="FSN">Difficulty problem solving without conflict (finding)</displayName>
+</concept>
+<concept code="423324006">
+<displayName lang="en" type="PT">Limited reasoning ability</displayName>
+<displayName lang="en" type="FSN">Limited reasoning ability (finding)</displayName>
+</concept>
+<concept code="423698005">
+<displayName lang="en" type="PT">Limited recall of recent event</displayName>
+<displayName lang="en" type="FSN">Limited recall of recent event (finding)</displayName>
+</concept>
+<concept code="423864004">
+<displayName lang="en" type="PT">Forgets to complete personal care</displayName>
+<displayName lang="en" type="FSN">Forgets to complete personal care (finding)</displayName>
+</concept>
+<concept code="423875000">
+<displayName lang="en" type="PT">Deficient knowledge of family planning methods</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of family planning methods (finding)</displayName>
+</concept>
+<concept code="423884000">
+<displayName lang="en-GB" type="PT">Repetitious behaviour</displayName>
+<displayName lang="en" type="FSN">Repetitious behavior (finding)</displayName>
+</concept>
+<concept code="424040008">
+<displayName lang="en" type="PT">Psychological pseudocyesis</displayName>
+<displayName lang="en" type="FSN">Psychological pseudocyesis (finding)</displayName>
+<displayName lang="en" type="SY">Delusion of pregnancy</displayName>
+<displayName lang="en" type="SY">Phantom pregnancy</displayName>
+</concept>
+<concept code="424100000">
+<displayName lang="en" type="PT">Limited ability to think abstractly</displayName>
+<displayName lang="en" type="FSN">Limited ability to think abstractly (finding)</displayName>
+<displayName lang="en" type="SY">Limited abstract thinking ability</displayName>
+</concept>
+<concept code="424537004">
+<displayName lang="en" type="PT">Deficient knowledge of preconception health practices</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of preconception health practices (finding)</displayName>
+</concept>
+<concept code="425104003">
+<displayName lang="en-GB" type="PT">Suicidal behaviour</displayName>
+<displayName lang="en" type="FSN">Suicidal behavior (finding)</displayName>
+</concept>
+<concept code="425805004">
+<displayName lang="en" type="PT">Cognitive developmental delay</displayName>
+<displayName lang="en" type="FSN">Cognitive developmental delay (disorder)</displayName>
+</concept>
+<concept code="431432003">
+<displayName lang="en" type="PT">Anxiety about loss of memory</displayName>
+<displayName lang="en" type="FSN">Anxiety about loss of memory (finding)</displayName>
+</concept>
+<concept code="433081000">
+<displayName lang="en" type="PT">Organic amnesia of language</displayName>
+<displayName lang="en" type="FSN">Organic amnesia of language (disorder)</displayName>
+<displayName lang="en" type="SY">Organic amnestic language disorder</displayName>
+</concept>
+<concept code="442212003">
+<displayName lang="en" type="PT">Residual cognitive deficit as late effect of cerebrovascular accident</displayName>
+<displayName lang="en" type="FSN">Residual cognitive deficit as late effect of cerebrovascular accident (disorder)</displayName>
+<displayName lang="en" type="SY">Residual cognitive deficit, late effect of stroke</displayName>
+</concept>
+<concept code="443265004">
+<displayName lang="en" type="PT">Cognitive disorder</displayName>
+<displayName lang="en" type="FSN">Cognitive disorder (disorder)</displayName>
+</concept>
+<concept code="449888003">
+<displayName lang="en" type="PT">Normal cognition</displayName>
+<displayName lang="en" type="FSN">Normal cognition (finding)</displayName>
+</concept>
+<concept code="609583009">
+<displayName lang="en" type="PT">Repetitive questioning</displayName>
+<displayName lang="en" type="FSN">Repetitive questioning (finding)</displayName>
+</concept>
+<concept code="698691002">
+<displayName lang="en" type="PT">Cognitive disorder in remission</displayName>
+<displayName lang="en" type="FSN">Cognitive disorder in remission (disorder)</displayName>
+</concept>
+<concept code="702535006">
+<displayName lang="en" type="PT">Anxiety about breathlessness</displayName>
+<displayName lang="en" type="FSN">Anxiety about breathlessness (finding)</displayName>
+</concept>
+<concept code="702955000">
+<displayName lang="en" type="PT">Moderate cognitive impairment</displayName>
+<displayName lang="en" type="FSN">Moderate cognitive impairment (finding)</displayName>
+</concept>
+<concept code="702956004">
+<displayName lang="en" type="PT">Severe cognitive impairment</displayName>
+<displayName lang="en" type="FSN">Severe cognitive impairment (finding)</displayName>
+</concept>
+<concept code="704375003">
+<displayName lang="en" type="PT">Deficient knowledge of breast feeding</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of breast feeding (finding)</displayName>
+</concept>
+<concept code="704377006">
+<displayName lang="en" type="PT">Deficient knowledge of peritoneal dialysis</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of peritoneal dialysis (finding)</displayName>
+</concept>
+<concept code="704379009">
+<displayName lang="en-GB" type="PT">Deficient knowledge of sexual behaviour</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of sexual behavior (finding)</displayName>
+</concept>
+<concept code="704381006">
+<displayName lang="en" type="PT">Deficient knowledge of oral hygiene</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of oral hygiene (finding)</displayName>
+</concept>
+<concept code="704383009">
+<displayName lang="en" type="PT">Deficient knowledge of child development</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of child development (finding)</displayName>
+</concept>
+<concept code="704400005">
+<displayName lang="en" type="PT">Deficient knowledge of community services</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of community services (finding)</displayName>
+</concept>
+<concept code="704402002">
+<displayName lang="en" type="PT">Deficient knowledge of physical therapy</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of physical therapy (finding)</displayName>
+</concept>
+<concept code="704403007">
+<displayName lang="en" type="PT">Deficient knowledge of fall prevention</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of fall prevention (finding)</displayName>
+</concept>
+<concept code="704404001">
+<displayName lang="en" type="PT">Deficient knowledge of pain management</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of pain management (finding)</displayName>
+</concept>
+<concept code="704406004">
+<displayName lang="en" type="PT">Deficient knowledge of symptom</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of symptom (finding)</displayName>
+</concept>
+<concept code="704446005">
+<displayName lang="en" type="PT">Deficient knowledge of exercise</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of exercise (finding)</displayName>
+</concept>
+<concept code="704491001">
+<displayName lang="en" type="PT">Deficient knowledge of traditional therapy</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of traditional therapy (finding)</displayName>
+</concept>
+<concept code="704680001">
+<displayName lang="en-GB" type="PT">Deficient knowledge of behaviour change process</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of behavior change process (finding)</displayName>
+</concept>
+<concept code="705086000">
+<displayName lang="en" type="PT">Deficient knowledge of patient controlled analgesia</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of patient controlled analgesia (finding)</displayName>
+</concept>
+<concept code="706869001">
+<displayName lang="en" type="PT">Deficient knowledge of medication</displayName>
+<displayName lang="en" type="FSN">Deficient knowledge of medication (finding)</displayName>
+</concept>
+<concept code="708571001">
+<displayName lang="en" type="PT">Demonstrates knowledge of who to contact in medical emergency</displayName>
+<displayName lang="en" type="FSN">Demonstrates knowledge of who to contact in medical emergency (finding)</displayName>
+</concept>
+<concept code="18541000119100">
+<displayName lang="en" type="PT">Borderline cognitive developmental delay</displayName>
+<displayName lang="en" type="FSN">Borderline cognitive developmental delay (disorder)</displayName>
+</concept>
+<concept code="141601000119107">
+<displayName lang="en" type="PT">Cognitive changes due to organic disorder</displayName>
+<displayName lang="en" type="FSN">Cognitive changes due to organic disorder (finding)</displayName>
+</concept>
+<concept code="141991000119109">
+<displayName lang="en" type="PT">Delusions in Alzheimer&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Delusions in Alzheimer&apos;s disease (disorder)</displayName>
+<displayName lang="en" type="SY">Delusions in Alzheimer disease</displayName>
+<displayName lang="en" type="SY">Delusions in Alzheimers disease</displayName>
+</concept>
+<concept code="323341000000102">
+<displayName lang="en" type="PT">Anxiety about lethargy</displayName>
+<displayName lang="en" type="FSN">Anxiety about lethargy (finding)</displayName>
+</concept>
+<concept code="323351000000104">
+<displayName lang="en" type="PT">Anxiety about mood</displayName>
+<displayName lang="en" type="FSN">Anxiety about mood (finding)</displayName>
+</concept>
+<concept code="334751000000101">
+<displayName lang="en" type="PT">Able to react to an emergency</displayName>
+<displayName lang="en" type="FSN">Able to react to an emergency (finding)</displayName>
+</concept>
+<concept code="334761000000103">
+<displayName lang="en" type="PT">Difficulty reacting to an emergency</displayName>
+<displayName lang="en" type="FSN">Difficulty reacting to an emergency (finding)</displayName>
+</concept>
+<concept code="334771000000105">
+<displayName lang="en" type="PT">Unable to react to an emergency</displayName>
+<displayName lang="en" type="FSN">Unable to react to an emergency (finding)</displayName>
+</concept>
+<concept code="334781000000107">
+<displayName lang="en" type="PT">Does react to an emergency</displayName>
+<displayName lang="en" type="FSN">Does react to an emergency (finding)</displayName>
+</concept>
+<concept code="334791000000109">
+<displayName lang="en" type="PT">Does not react to an emergency</displayName>
+<displayName lang="en" type="FSN">Does not react to an emergency (finding)</displayName>
+</concept>
+<concept code="844501000000106">
+<displayName lang="en" type="PT">Able to make informed choice</displayName>
+<displayName lang="en" type="FSN">Able to make informed choice (finding)</displayName>
+</concept>
+<concept code="857911000000109">
+<displayName lang="en" type="PT">Optimal cognitive function</displayName>
+<displayName lang="en" type="FSN">Optimal cognitive function (finding)</displayName>
+</concept>
+<concept code="900621000000109">
+<displayName lang="en" type="PT">Incomplete food and nutrition knowledge</displayName>
+<displayName lang="en" type="FSN">Incomplete food and nutrition knowledge (finding)</displayName>
+</concept>
+<concept code="939781000000101">
+<displayName lang="en" type="PT">Able to make decision on safe information to give over telephone</displayName>
+<displayName lang="en" type="FSN">Able to make decision on safe information to give over telephone (finding)</displayName>
+</concept>
+<concept code="939791000000104">
+<displayName lang="en" type="PT">Able to make decision on safe entry of visitors</displayName>
+<displayName lang="en" type="FSN">Able to make decision on safe entry of visitors (finding)</displayName>
+</concept>
+<concept code="944321000000103">
+<displayName lang="en" type="PT">Able to understand humour</displayName>
+<displayName lang="en" type="FSN">Able to understand humour (finding)</displayName>
+</concept>
+<concept code="944471000000105">
+<displayName lang="en" type="PT">Able to make decisions</displayName>
+<displayName lang="en" type="FSN">Able to make decisions (finding)</displayName>
+</concept>
+<concept code="944481000000107">
+<displayName lang="en" type="PT">Able to identify choices</displayName>
+<displayName lang="en" type="FSN">Able to identify choices (finding)</displayName>
+</concept>
+<concept code="944491000000109">
+<displayName lang="en" type="PT">Able to think creatively</displayName>
+<displayName lang="en" type="FSN">Able to think creatively (finding)</displayName>
+</concept>
+<concept code="944501000000103">
+<displayName lang="en" type="PT">Able to remember routines</displayName>
+<displayName lang="en" type="FSN">Able to remember routines (finding)</displayName>
+</concept>
+<concept code="944511000000101">
+<displayName lang="en" type="PT">Able to remember places</displayName>
+<displayName lang="en" type="FSN">Able to remember places (finding)</displayName>
+</concept>
+<concept code="944521000000107">
+<displayName lang="en" type="PT">Able to remember people</displayName>
+<displayName lang="en" type="FSN">Able to remember people (finding)</displayName>
+</concept>
+<concept code="944771000000103">
+<displayName lang="en" type="PT">Able to problem solve</displayName>
+<displayName lang="en" type="FSN">Able to problem solve (finding)</displayName>
+</concept>
+<concept code="944781000000101">
+<displayName lang="en" type="PT">Able to remember past events</displayName>
+<displayName lang="en" type="FSN">Able to remember past events (finding)</displayName>
+</concept>
+<concept code="944821000000109">
+<displayName lang="en" type="PT">Able to care for pressure areas</displayName>
+<displayName lang="en" type="FSN">Able to care for pressure areas (finding)</displayName>
+</concept>
+<concept code="944831000000106">
+<displayName lang="en" type="PT">Able to understand care for pressure areas</displayName>
+<displayName lang="en" type="FSN">Able to understand care for pressure areas (finding)</displayName>
+</concept>
+<concept code="944851000000104">
+<displayName lang="en" type="PT">Able to recognise need for pressure area care</displayName>
+<displayName lang="en" type="FSN">Able to recognise need for pressure area care (finding)</displayName>
+</concept>
+<concept code="944861000000101">
+<displayName lang="en" type="PT">To adapt to sensory changes in body part</displayName>
+<displayName lang="en" type="FSN">Able to adapt to sensory changes in body part (finding)</displayName>
+</concept>
+<concept code="945141000000107">
+<displayName lang="en" type="PT">Able to understand verbal language</displayName>
+<displayName lang="en" type="FSN">Able to understand verbal language (finding)</displayName>
+</concept>
+<concept code="945161000000108">
+<displayName lang="en" type="PT">Difficulty understanding verbal language</displayName>
+<displayName lang="en" type="FSN">Difficulty understanding verbal language (finding)</displayName>
+</concept>
+<concept code="945201000000100">
+<displayName lang="en" type="PT">Does not understand verbal language</displayName>
+<displayName lang="en" type="FSN">Does not understand verbal language (finding)</displayName>
+</concept>
+<concept code="945221000000109">
+<displayName lang="en" type="PT">Able to understand written language</displayName>
+<displayName lang="en" type="FSN">Able to understand written language (finding)</displayName>
+</concept>
+<concept code="945241000000102">
+<displayName lang="en" type="PT">Difficulty understanding written language</displayName>
+<displayName lang="en" type="FSN">Difficulty understanding written language (finding)</displayName>
+</concept>
+<concept code="945281000000105">
+<displayName lang="en" type="PT">Does not understand written language</displayName>
+<displayName lang="en" type="FSN">Does not understand written language (finding)</displayName>
+</concept>
+<concept code="950741000000102">
+<displayName lang="en" type="PT">Able to comprehend speech</displayName>
+<displayName lang="en" type="FSN">Able to comprehend speech (finding)</displayName>
+</concept>
+<concept code="950761000000101">
+<displayName lang="en" type="PT">Difficulty comprehending speech</displayName>
+<displayName lang="en" type="FSN">Difficulty comprehending speech (finding)</displayName>
+</concept>
+<concept code="950781000000105">
+<displayName lang="en" type="PT">Does comprehend speech</displayName>
+<displayName lang="en" type="FSN">Does comprehend speech (finding)</displayName>
+</concept>
+<concept code="950801000000106">
+<displayName lang="en" type="PT">Does not comprehend speech</displayName>
+<displayName lang="en" type="FSN">Does not comprehend speech (finding)</displayName>
+</concept>
+<concept code="950881000000101">
+<displayName lang="en" type="PT">Able to comprehend language</displayName>
+<displayName lang="en" type="FSN">Able to comprehend language (finding)</displayName>
+</concept>
+<concept code="950901000000103">
+<displayName lang="en" type="PT">Difficulty comprehending language</displayName>
+<displayName lang="en" type="FSN">Difficulty comprehending language (finding)</displayName>
+</concept>
+<concept code="950921000000107">
+<displayName lang="en" type="PT">Does comprehend language</displayName>
+<displayName lang="en" type="FSN">Does comprehend language (finding)</displayName>
+</concept>
+<concept code="950941000000100">
+<displayName lang="en" type="PT">Does not comprehend language</displayName>
+<displayName lang="en" type="FSN">Does not comprehend language (finding)</displayName>
+</concept>
+<concept code="951041000000107">
+<displayName lang="en" type="PT">Able to comprehend written material</displayName>
+<displayName lang="en" type="FSN">Able to comprehend written material (finding)</displayName>
+</concept>
+<concept code="951061000000108">
+<displayName lang="en" type="PT">Difficulty comprehending written material</displayName>
+<displayName lang="en" type="FSN">Difficulty comprehending written material (finding)</displayName>
+</concept>
+<concept code="951081000000104">
+<displayName lang="en" type="PT">Does comprehend written material</displayName>
+<displayName lang="en" type="FSN">Does comprehend written material (finding)</displayName>
+</concept>
+<concept code="951101000000105">
+<displayName lang="en" type="PT">Does not comprehend written material</displayName>
+<displayName lang="en" type="FSN">Does not comprehend written material (finding)</displayName>
+</concept>
+<concept code="955351000000105">
+<displayName lang="en" type="PT">Cognitive communication disorder</displayName>
+<displayName lang="en" type="FSN">Cognitive communication disorder (disorder)</displayName>
+</concept>
+</vocabulary>

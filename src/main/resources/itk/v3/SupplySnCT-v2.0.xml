@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SupplySnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A subset of SNOMED-CT intended for use in the UK representing a pharmaceutical product supply action (i.e. the dispensing of the requested product), and its current status (e.g. in progress, performed, abandoned).</p> 	
+            <p> 		
+               <strong>Any code from the SNOMED CT UK <em>Supply</em> subset with subset original id 1301000000132.</strong>
+            </p>
+            <p>The use of this subset is <strong>Mandatory </strong>as defined in latest version of "NPFIT-ELIBR-AREL-P1R2-0178 Technical Guidance for Implementation of Templated CDA Domains." </p>
+         </Description>
+</vocabulary>

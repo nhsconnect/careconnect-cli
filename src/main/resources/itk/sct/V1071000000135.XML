@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Services, care professionals and carers" type="Realm Concept" setId="68921000000132" version="19" id="1071000000135" refId="999000881000000104" memberCount="368" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="14345008">
+<displayName lang="en" type="PT">Parent/child conflict</displayName>
+<displayName lang="en" type="FSN">Parent/child conflict (finding)</displayName>
+</concept>
+<concept code="25622003">
+<displayName lang="en" type="PT">Support system deficit</displayName>
+<displayName lang="en" type="FSN">Support system deficit (finding)</displayName>
+<displayName lang="en" type="SY">Support issues</displayName>
+</concept>
+<concept code="33590004">
+<displayName lang="en" type="PT">Weak mother-infant attachment</displayName>
+<displayName lang="en" type="FSN">Weak mother-infant attachment (finding)</displayName>
+<displayName lang="en" type="SY">Weak parent-infant attachment</displayName>
+</concept>
+<concept code="52184009">
+<displayName lang="en" type="PT">Parent-child problem</displayName>
+<displayName lang="en" type="FSN">Parent-child problem (finding)</displayName>
+</concept>
+<concept code="52455008">
+<displayName lang="en" type="PT">Ineffective parenthood</displayName>
+<displayName lang="en" type="FSN">Ineffective parenthood (finding)</displayName>
+</concept>
+<concept code="105483008">
+<displayName lang="en" type="PT">Overprotective parent</displayName>
+<displayName lang="en" type="FSN">Overprotective parent (finding)</displayName>
+<displayName lang="en" type="SY">Parental overprotection</displayName>
+</concept>
+<concept code="129873002">
+<displayName lang="en" type="PT">Parental role conflict</displayName>
+<displayName lang="en" type="FSN">Parental role conflict (finding)</displayName>
+</concept>
+<concept code="160726006">
+<displayName lang="en" type="PT">Lives alone -no help available</displayName>
+<displayName lang="en" type="FSN">Lives alone -no help available (finding)</displayName>
+</concept>
+<concept code="160727002">
+<displayName lang="en" type="PT">Lives alone needs housekeeper</displayName>
+<displayName lang="en" type="FSN">Lives alone needs housekeeper (finding)</displayName>
+</concept>
+<concept code="160747005">
+<displayName lang="en" type="PT">No carers, though not alone</displayName>
+<displayName lang="en" type="FSN">No carers, though not alone (finding)</displayName>
+</concept>
+<concept code="160748000">
+<displayName lang="en" type="PT">Spouse unable to care for patient</displayName>
+<displayName lang="en" type="FSN">Spouse unable to care for patient (finding)</displayName>
+<displayName lang="en" type="SY">Spouse cannot care for patient</displayName>
+</concept>
+<concept code="160749008">
+<displayName lang="en" type="PT">Unable to care for sick parent</displayName>
+<displayName lang="en" type="FSN">Unable to care for sick parent (finding)</displayName>
+</concept>
+<concept code="160760004">
+<displayName lang="en" type="PT">Domiciliary services</displayName>
+<displayName lang="en" type="FSN">Domiciliary services (finding)</displayName>
+</concept>
+<concept code="160761000">
+<displayName lang="en" type="PT">District nurse attends</displayName>
+<displayName lang="en" type="FSN">District nurse attends (finding)</displayName>
+</concept>
+<concept code="160762007">
+<displayName lang="en" type="PT">Health visitor visits</displayName>
+<displayName lang="en" type="FSN">Health visitor visits (finding)</displayName>
+</concept>
+<concept code="160763002">
+<displayName lang="en" type="PT">Midwife attends</displayName>
+<displayName lang="en" type="FSN">Midwife attends (finding)</displayName>
+</concept>
+<concept code="160764008">
+<displayName lang="en" type="PT">Midwife attends 1-10 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 1-10 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160765009">
+<displayName lang="en" type="PT">Midwife attends 11-13 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 11-13 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160766005">
+<displayName lang="en" type="PT">Midwife attends 14-16 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 14-16 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160767001">
+<displayName lang="en" type="PT">Midwife attends 17-20 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 17-20 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160768006">
+<displayName lang="en" type="PT">Midwife attends 21-24 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 21-24 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160769003">
+<displayName lang="en" type="PT">Midwife attends 25-28 days post-discharge</displayName>
+<displayName lang="en" type="FSN">Midwife attends 25-28 days post-discharge (finding)</displayName>
+</concept>
+<concept code="160770002">
+<displayName lang="en" type="PT">Social worker involved</displayName>
+<displayName lang="en" type="FSN">Social worker involved (finding)</displayName>
+</concept>
+<concept code="160774006">
+<displayName lang="en" type="PT">Home help attends</displayName>
+<displayName lang="en" type="FSN">Home help attends (finding)</displayName>
+</concept>
+<concept code="160775007">
+<displayName lang="en" type="PT">Home help requested</displayName>
+<displayName lang="en" type="FSN">Home help requested (finding)</displayName>
+</concept>
+<concept code="160777004">
+<displayName lang="en" type="PT">Home help needed</displayName>
+<displayName lang="en" type="FSN">Home help needed (finding)</displayName>
+</concept>
+<concept code="160778009">
+<displayName lang="en" type="PT">Meals on wheels</displayName>
+<displayName lang="en" type="FSN">Meals on wheels (finding)</displayName>
+<displayName lang="en" type="SY">MOW - Meals on wheels</displayName>
+<displayName lang="en" type="SY">MOWS - Meals on wheels</displayName>
+</concept>
+<concept code="160779001">
+<displayName lang="en" type="PT">Domiciliary chiropody</displayName>
+<displayName lang="en" type="FSN">Domiciliary chiropody (finding)</displayName>
+</concept>
+<concept code="160780003">
+<displayName lang="en" type="PT">Domiciliary occupational therapy</displayName>
+<displayName lang="en" type="FSN">Domiciliary occupational therapy (finding)</displayName>
+<displayName lang="en" type="SY">Domiciliary O.T.</displayName>
+</concept>
+<concept code="160781004">
+<displayName lang="en" type="PT">District nurse involvement stopped</displayName>
+<displayName lang="en" type="FSN">District nurse involvement stopped (finding)</displayName>
+<displayName lang="en" type="SY">District nurse involv.stopped</displayName>
+</concept>
+<concept code="160782006">
+<displayName lang="en" type="PT">Health visitor involvement stopped</displayName>
+<displayName lang="en" type="FSN">Health visitor involvement stopped (finding)</displayName>
+<displayName lang="en" type="SY">Health visitor involv.stopped</displayName>
+</concept>
+<concept code="161037006">
+<displayName lang="en" type="PT">Domiciliary service not needed</displayName>
+<displayName lang="en" type="FSN">Domiciliary service not needed (finding)</displayName>
+</concept>
+<concept code="161064007">
+<displayName lang="en" type="PT">Child/parent violence</displayName>
+<displayName lang="en" type="FSN">Child/parent violence (finding)</displayName>
+</concept>
+<concept code="161083000">
+<displayName lang="en" type="PT">Help by relatives</displayName>
+<displayName lang="en" type="FSN">Help by relatives (finding)</displayName>
+</concept>
+<concept code="161102006">
+<displayName lang="en" type="PT">Diabetic association member</displayName>
+<displayName lang="en" type="FSN">Diabetic association member (finding)</displayName>
+</concept>
+<concept code="161103001">
+<displayName lang="en" type="PT">Schizophrenia association member</displayName>
+<displayName lang="en" type="FSN">Schizophrenia association member (finding)</displayName>
+<displayName lang="en" type="SY">Schizophrenia assoc&apos;n member</displayName>
+</concept>
+<concept code="161104007">
+<displayName lang="en" type="PT">Manic-depression association member</displayName>
+<displayName lang="en" type="FSN">Manic-depression association member (finding)</displayName>
+</concept>
+<concept code="161105008">
+<displayName lang="en" type="PT">Asthma society member</displayName>
+<displayName lang="en" type="FSN">Asthma society member (finding)</displayName>
+</concept>
+<concept code="161106009">
+<displayName lang="en" type="PT">Parkinson&apos;s Society member</displayName>
+<displayName lang="en" type="FSN">Parkinson&apos;s Society member (finding)</displayName>
+<displayName lang="en" type="SY">Parkinson Society member</displayName>
+</concept>
+<concept code="161107000">
+<displayName lang="en" type="PT">M.E.Association member</displayName>
+<displayName lang="en" type="FSN">Myalgic Encephalopathy Association member (finding)</displayName>
+<displayName lang="en" type="SY">Myalgic Encephalopathy Association member</displayName>
+</concept>
+<concept code="161108005">
+<displayName lang="en" type="PT">Alzheimer&apos;s disease society member</displayName>
+<displayName lang="en" type="FSN">Alzheimer&apos;s disease society member (finding)</displayName>
+<displayName lang="en" type="SY">Alzheimer disease society member</displayName>
+</concept>
+<concept code="169937006">
+<displayName lang="en" type="PT">Bonding problems</displayName>
+<displayName lang="en" type="FSN">Bonding problems (finding)</displayName>
+</concept>
+<concept code="183419004">
+<displayName lang="en" type="PT">Medical social worker involved</displayName>
+<displayName lang="en" type="FSN">Medical social worker involved (finding)</displayName>
+</concept>
+<concept code="183566003">
+<displayName lang="en" type="PT">Referred for radiotherapy</displayName>
+<displayName lang="en" type="FSN">Referred for radiotherapy (finding)</displayName>
+</concept>
+<concept code="184156005">
+<displayName lang="en" type="PT">Has a carer</displayName>
+<displayName lang="en" type="FSN">Has a carer (finding)</displayName>
+</concept>
+<concept code="224477006">
+<displayName lang="en" type="PT">Receives help from lay carer</displayName>
+<displayName lang="en" type="FSN">Receives help from lay carer (finding)</displayName>
+</concept>
+<concept code="224478001">
+<displayName lang="en" type="PT">Receives help from voluntary agency</displayName>
+<displayName lang="en" type="FSN">Receives help from voluntary agency (finding)</displayName>
+</concept>
+<concept code="224479009">
+<displayName lang="en" type="PT">Receives help from friend</displayName>
+<displayName lang="en" type="FSN">Receives help from friend (finding)</displayName>
+</concept>
+<concept code="224480007">
+<displayName lang="en" type="PT">Receives help from relative</displayName>
+<displayName lang="en" type="FSN">Receives help from relative (finding)</displayName>
+</concept>
+<concept code="224481006">
+<displayName lang="en-GB" type="PT">Receives help from neighbour</displayName>
+<displayName lang="en" type="FSN">Receives help from neighbor (finding)</displayName>
+</concept>
+<concept code="224482004">
+<displayName lang="en" type="PT">No help available from lay carer</displayName>
+<displayName lang="en" type="FSN">No help available from lay carer (finding)</displayName>
+</concept>
+<concept code="224483009">
+<displayName lang="en" type="PT">Relatives unable to care for patient</displayName>
+<displayName lang="en" type="FSN">Relatives unable to care for patient (finding)</displayName>
+</concept>
+<concept code="224489008">
+<displayName lang="en" type="PT">Carer is unwilling to care</displayName>
+<displayName lang="en" type="FSN">Carer is unwilling to care (finding)</displayName>
+</concept>
+<concept code="224490004">
+<displayName lang="en" type="PT">Carer is reluctant to care</displayName>
+<displayName lang="en" type="FSN">Carer is reluctant to care (finding)</displayName>
+</concept>
+<concept code="224491000">
+<displayName lang="en" type="PT">Carer is willing to care</displayName>
+<displayName lang="en" type="FSN">Carer is willing to care (finding)</displayName>
+</concept>
+<concept code="224492007">
+<displayName lang="en" type="PT">Carer is committed to care</displayName>
+<displayName lang="en" type="FSN">Carer is committed to care (finding)</displayName>
+</concept>
+<concept code="224493002">
+<displayName lang="en" type="PT">Carer willing to share care with professionals</displayName>
+<displayName lang="en" type="FSN">Carer willing to share care with professionals (finding)</displayName>
+</concept>
+<concept code="224495009">
+<displayName lang="en" type="PT">Carer readily available</displayName>
+<displayName lang="en" type="FSN">Carer readily available (finding)</displayName>
+</concept>
+<concept code="224496005">
+<displayName lang="en" type="PT">Carer not readily available</displayName>
+<displayName lang="en" type="FSN">Carer not readily available (finding)</displayName>
+</concept>
+<concept code="224498006">
+<displayName lang="en" type="PT">Living with carer</displayName>
+<displayName lang="en" type="FSN">Living with carer (finding)</displayName>
+<displayName lang="en" type="SY">Lives with carer</displayName>
+</concept>
+<concept code="224499003">
+<displayName lang="en" type="PT">Staying with carer</displayName>
+<displayName lang="en" type="FSN">Staying with carer (finding)</displayName>
+</concept>
+<concept code="224500007">
+<displayName lang="en" type="PT">Carer lives nearby</displayName>
+<displayName lang="en" type="FSN">Carer lives nearby (finding)</displayName>
+</concept>
+<concept code="224501006">
+<displayName lang="en" type="PT">Carer lives at a distance</displayName>
+<displayName lang="en" type="FSN">Carer lives at a distance (finding)</displayName>
+</concept>
+<concept code="224504003">
+<displayName lang="en" type="PT">Good informal care arrangements</displayName>
+<displayName lang="en" type="FSN">Good informal care arrangements (finding)</displayName>
+</concept>
+<concept code="224505002">
+<displayName lang="en" type="PT">Reasonable informal care arrangements</displayName>
+<displayName lang="en" type="FSN">Reasonable informal care arrangements (finding)</displayName>
+</concept>
+<concept code="224506001">
+<displayName lang="en" type="PT">Poor informal care arrangements</displayName>
+<displayName lang="en" type="FSN">Poor informal care arrangements (finding)</displayName>
+</concept>
+<concept code="224508000">
+<displayName lang="en" type="PT">Support from caring community</displayName>
+<displayName lang="en" type="FSN">Support from caring community (finding)</displayName>
+</concept>
+<concept code="224509008">
+<displayName lang="en" type="PT">Support from local milkman</displayName>
+<displayName lang="en" type="FSN">Support from local milkman (finding)</displayName>
+</concept>
+<concept code="224510003">
+<displayName lang="en" type="PT">Support from local postman</displayName>
+<displayName lang="en" type="FSN">Support from local postman (finding)</displayName>
+</concept>
+<concept code="224512006">
+<displayName lang="en" type="PT">Informal carer unsupported</displayName>
+<displayName lang="en" type="FSN">Informal carer unsupported (finding)</displayName>
+</concept>
+<concept code="224513001">
+<displayName lang="en" type="PT">Informal carer supported</displayName>
+<displayName lang="en" type="FSN">Informal carer supported (finding)</displayName>
+</concept>
+<concept code="224515008">
+<displayName lang="en" type="PT">Carer has own transport</displayName>
+<displayName lang="en" type="FSN">Carer has own transport (finding)</displayName>
+</concept>
+<concept code="224516009">
+<displayName lang="en" type="PT">Carer uses public transport</displayName>
+<displayName lang="en" type="FSN">Carer uses public transport (finding)</displayName>
+</concept>
+<concept code="224517000">
+<displayName lang="en" type="PT">No transport available to carer</displayName>
+<displayName lang="en" type="FSN">No transport available to carer (finding)</displayName>
+</concept>
+<concept code="224518005">
+<displayName lang="en" type="PT">Care breaking down</displayName>
+<displayName lang="en" type="FSN">Care breaking down (finding)</displayName>
+<displayName lang="en" type="SY">Breakdown in care</displayName>
+</concept>
+<concept code="224519002">
+<displayName lang="en" type="PT">Problem with informal carer</displayName>
+<displayName lang="en" type="FSN">Problem with informal carer (finding)</displayName>
+</concept>
+<concept code="224520008">
+<displayName lang="en" type="PT">Carer can no longer cope</displayName>
+<displayName lang="en" type="FSN">Carer can no longer cope (finding)</displayName>
+</concept>
+<concept code="224521007">
+<displayName lang="en" type="PT">Member of self-help group</displayName>
+<displayName lang="en" type="FSN">Member of self-help group (finding)</displayName>
+</concept>
+<concept code="225639004">
+<displayName lang="en" type="PT">Worried about not coping with baby</displayName>
+<displayName lang="en" type="FSN">Worried about not coping with baby (finding)</displayName>
+</concept>
+<concept code="225640002">
+<displayName lang="en" type="PT">Worried about being a bad father</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad father (finding)</displayName>
+</concept>
+<concept code="225641003">
+<displayName lang="en" type="PT">Worried about being a bad mother</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad mother (finding)</displayName>
+</concept>
+<concept code="225642005">
+<displayName lang="en" type="PT">Anxiety about not coping with parenthood</displayName>
+<displayName lang="en" type="FSN">Anxiety about not coping with parenthood (finding)</displayName>
+<displayName lang="en" type="SY">Worried about not coping with parenthood</displayName>
+</concept>
+<concept code="266942003">
+<displayName lang="en" type="PT">Voluntary worker attends</displayName>
+<displayName lang="en" type="FSN">Voluntary worker attends (finding)</displayName>
+</concept>
+<concept code="266946000">
+<displayName lang="en" type="PT">Looks after chronically sick relative</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick relative (finding)</displayName>
+</concept>
+<concept code="270472006">
+<displayName lang="en" type="PT">Maternal concern</displayName>
+<displayName lang="en" type="FSN">Maternal concern (finding)</displayName>
+<displayName lang="en" type="SY">Anxious mother</displayName>
+</concept>
+<concept code="276038000">
+<displayName lang="en" type="PT">No help available</displayName>
+<displayName lang="en" type="FSN">No help available (finding)</displayName>
+</concept>
+<concept code="276039008">
+<displayName lang="en" type="PT">No carer</displayName>
+<displayName lang="en" type="FSN">No carer (finding)</displayName>
+</concept>
+<concept code="276042002">
+<displayName lang="en" type="PT">Looks after chronically sick father</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick father (finding)</displayName>
+</concept>
+<concept code="276043007">
+<displayName lang="en" type="PT">Looks after chronically sick husband</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick husband (finding)</displayName>
+</concept>
+<concept code="276044001">
+<displayName lang="en" type="PT">Looks after chronically sick mother</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick mother (finding)</displayName>
+</concept>
+<concept code="276045000">
+<displayName lang="en" type="PT">Looks after chronically sick spouse</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick spouse (finding)</displayName>
+</concept>
+<concept code="276046004">
+<displayName lang="en" type="PT">Looks after chronically sick wife</displayName>
+<displayName lang="en" type="FSN">Looks after chronically sick wife (finding)</displayName>
+</concept>
+<concept code="276049006">
+<displayName lang="en" type="PT">Self-help group support</displayName>
+<displayName lang="en" type="FSN">Self-help group support (finding)</displayName>
+</concept>
+<concept code="300894000">
+<displayName lang="en" type="PT">Parental anxiety</displayName>
+<displayName lang="en" type="FSN">Parental anxiety (finding)</displayName>
+<displayName lang="en" type="SY">Anxious parents</displayName>
+</concept>
+<concept code="301887005">
+<displayName lang="en" type="PT">Needs assistance at home</displayName>
+<displayName lang="en" type="FSN">Needs assistance at home (finding)</displayName>
+</concept>
+<concept code="302173006">
+<displayName lang="en" type="PT">Provision of voluntary service</displayName>
+<displayName lang="en" type="FSN">Provision of voluntary service (finding)</displayName>
+</concept>
+<concept code="305791003">
+<displayName lang="en" type="PT">Seen by service</displayName>
+<displayName lang="en" type="FSN">Seen by service (finding)</displayName>
+</concept>
+<concept code="305792005">
+<displayName lang="en-GB" type="PT">Seen by anaesthetic service</displayName>
+<displayName lang="en" type="FSN">Seen by anesthetic service (finding)</displayName>
+</concept>
+<concept code="305793000">
+<displayName lang="en" type="PT">Seen by clinical oncology service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical oncology service (finding)</displayName>
+</concept>
+<concept code="305794006">
+<displayName lang="en" type="PT">Seen by radiotherapy service</displayName>
+<displayName lang="en" type="FSN">Seen by radiotherapy service (finding)</displayName>
+</concept>
+<concept code="305795007">
+<displayName lang="en" type="PT">Seen by family planning service</displayName>
+<displayName lang="en" type="FSN">Seen by family planning service (finding)</displayName>
+</concept>
+<concept code="305796008">
+<displayName lang="en" type="PT">Seen by intensive care service</displayName>
+<displayName lang="en" type="FSN">Seen by intensive care service (finding)</displayName>
+</concept>
+<concept code="305797004">
+<displayName lang="en" type="PT">Seen by adult intensive care service</displayName>
+<displayName lang="en" type="FSN">Seen by adult intensive care service (finding)</displayName>
+</concept>
+<concept code="305798009">
+<displayName lang="en-GB" type="PT">Seen by paediatric intensive care service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric intensive care service (finding)</displayName>
+</concept>
+<concept code="305799001">
+<displayName lang="en" type="PT">Seen by pain management service</displayName>
+<displayName lang="en" type="FSN">Seen by pain management service (finding)</displayName>
+</concept>
+<concept code="305800002">
+<displayName lang="en" type="PT">Seen by medical service</displayName>
+<displayName lang="en" type="FSN">Seen by medical service (finding)</displayName>
+</concept>
+<concept code="305801003">
+<displayName lang="en" type="PT">Seen by clinical allergy service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical allergy service (finding)</displayName>
+</concept>
+<concept code="305802005">
+<displayName lang="en" type="PT">Seen by cardiology service</displayName>
+<displayName lang="en" type="FSN">Seen by cardiology service (finding)</displayName>
+</concept>
+<concept code="305803000">
+<displayName lang="en" type="PT">Seen by chest medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by chest medicine service (finding)</displayName>
+</concept>
+<concept code="305804006">
+<displayName lang="en" type="PT">Seen by thoracic medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by thoracic medicine service (finding)</displayName>
+</concept>
+<concept code="305805007">
+<displayName lang="en" type="PT">Seen by respiratory medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by respiratory medicine service (finding)</displayName>
+</concept>
+<concept code="305806008">
+<displayName lang="en" type="PT">Seen by clinical immunology service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical immunology service (finding)</displayName>
+</concept>
+<concept code="305807004">
+<displayName lang="en" type="PT">Seen by clinical neurophysiology service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical neurophysiology service (finding)</displayName>
+</concept>
+<concept code="305808009">
+<displayName lang="en" type="PT">Seen by clinical pharmacology service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical pharmacology service (finding)</displayName>
+</concept>
+<concept code="305809001">
+<displayName lang="en" type="PT">Seen by clinical physiology service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical physiology service (finding)</displayName>
+</concept>
+<concept code="305810006">
+<displayName lang="en" type="PT">Seen by dermatology service</displayName>
+<displayName lang="en" type="FSN">Seen by dermatology service (finding)</displayName>
+</concept>
+<concept code="305811005">
+<displayName lang="en" type="PT">Seen by endocrinology service</displayName>
+<displayName lang="en" type="FSN">Seen by endocrinology service (finding)</displayName>
+</concept>
+<concept code="305812003">
+<displayName lang="en" type="PT">Seen by gastroenterology service</displayName>
+<displayName lang="en" type="FSN">Seen by gastroenterology service (finding)</displayName>
+</concept>
+<concept code="305813008">
+<displayName lang="en" type="PT">Seen by general medical service</displayName>
+<displayName lang="en" type="FSN">Seen by general medical service (finding)</displayName>
+</concept>
+<concept code="305814002">
+<displayName lang="en" type="PT">Seen by genetics service</displayName>
+<displayName lang="en" type="FSN">Seen by genetics service (finding)</displayName>
+</concept>
+<concept code="305815001">
+<displayName lang="en" type="PT">Seen by clinical genetics service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical genetics service (finding)</displayName>
+</concept>
+<concept code="305816000">
+<displayName lang="en" type="PT">Seen by clinical cytogenetics service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical cytogenetics service (finding)</displayName>
+</concept>
+<concept code="305817009">
+<displayName lang="en" type="PT">Seen by clinical molecular genetics service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical molecular genetics service (finding)</displayName>
+</concept>
+<concept code="305818004">
+<displayName lang="en" type="PT">Seen by genitourinary medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by genitourinary medicine service (finding)</displayName>
+</concept>
+<concept code="305819007">
+<displayName lang="en" type="PT">Seen by care of the elderly service</displayName>
+<displayName lang="en" type="FSN">Seen by care of the elderly service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by geriatric medicine service</displayName>
+</concept>
+<concept code="305820001">
+<displayName lang="en" type="PT">Seen by infectious diseases service</displayName>
+<displayName lang="en" type="FSN">Seen by infectious diseases service (finding)</displayName>
+</concept>
+<concept code="305821002">
+<displayName lang="en" type="PT">Seen by nephrology service</displayName>
+<displayName lang="en" type="FSN">Seen by nephrology service (finding)</displayName>
+</concept>
+<concept code="305822009">
+<displayName lang="en" type="PT">Seen by neurology service</displayName>
+<displayName lang="en" type="FSN">Seen by neurology service (finding)</displayName>
+</concept>
+<concept code="305823004">
+<displayName lang="en" type="PT">Seen by nuclear medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by nuclear medicine service (finding)</displayName>
+</concept>
+<concept code="305824005">
+<displayName lang="en" type="PT">Seen by palliative care medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by palliative care medicine service (finding)</displayName>
+</concept>
+<concept code="305825006">
+<displayName lang="en" type="PT">Seen by rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Seen by rehabilitation service (finding)</displayName>
+</concept>
+<concept code="305826007">
+<displayName lang="en" type="PT">Seen by rheumatology service</displayName>
+<displayName lang="en" type="FSN">Seen by rheumatology service (finding)</displayName>
+</concept>
+<concept code="305827003">
+<displayName lang="en-GB" type="PT">Seen by paediatric service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric service (finding)</displayName>
+</concept>
+<concept code="305828008">
+<displayName lang="en-GB" type="PT">Seen by paediatric neurology service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric neurology service (finding)</displayName>
+</concept>
+<concept code="305829000">
+<displayName lang="en-GB" type="PT">Seen by paediatric oncology service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric oncology service (finding)</displayName>
+</concept>
+<concept code="305830005">
+<displayName lang="en" type="PT">Seen by special care baby service</displayName>
+<displayName lang="en" type="FSN">Seen by special care baby service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by neonatal service</displayName>
+</concept>
+<concept code="305831009">
+<displayName lang="en" type="PT">Seen by blood transfusion service</displayName>
+<displayName lang="en" type="FSN">Seen by blood transfusion service (finding)</displayName>
+</concept>
+<concept code="305832002">
+<displayName lang="en" type="PT">Seen by chemical pathology service</displayName>
+<displayName lang="en" type="FSN">Seen by chemical pathology service (finding)</displayName>
+</concept>
+<concept code="305833007">
+<displayName lang="en" type="PT">Seen by clinical biochemistry service</displayName>
+<displayName lang="en" type="FSN">Seen by clinical biochemistry service (finding)</displayName>
+</concept>
+<concept code="305834001">
+<displayName lang="en" type="PT">Seen by general pathology service</displayName>
+<displayName lang="en" type="FSN">Seen by general pathology service (finding)</displayName>
+</concept>
+<concept code="305835000">
+<displayName lang="en-GB" type="PT">Seen by haematology service</displayName>
+<displayName lang="en" type="FSN">Seen by hematology service (finding)</displayName>
+</concept>
+<concept code="305836004">
+<displayName lang="en" type="PT">Seen by medical microbiology service</displayName>
+<displayName lang="en" type="FSN">Seen by medical microbiology service (finding)</displayName>
+</concept>
+<concept code="305837008">
+<displayName lang="en" type="PT">Seen by neuropathology service</displayName>
+<displayName lang="en" type="FSN">Seen by neuropathology service (finding)</displayName>
+</concept>
+<concept code="305838003">
+<displayName lang="en" type="PT">Seen by professional allied to medicine service</displayName>
+<displayName lang="en" type="FSN">Seen by professional allied to medicine service (finding)</displayName>
+</concept>
+<concept code="305839006">
+<displayName lang="en" type="PT">Seen by arts therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by arts therapy service (finding)</displayName>
+</concept>
+<concept code="305840008">
+<displayName lang="en" type="PT">Seen by art therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by art therapy service (finding)</displayName>
+</concept>
+<concept code="305841007">
+<displayName lang="en" type="PT">Seen by dance therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by dance therapy service (finding)</displayName>
+</concept>
+<concept code="305842000">
+<displayName lang="en" type="PT">Seen by drama therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by drama therapy service (finding)</displayName>
+</concept>
+<concept code="305843005">
+<displayName lang="en" type="PT">Seen by music therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by music therapy service (finding)</displayName>
+</concept>
+<concept code="305844004">
+<displayName lang="en" type="PT">Seen by play therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by play therapy service (finding)</displayName>
+</concept>
+<concept code="305845003">
+<displayName lang="en" type="PT">Seen by audiology service</displayName>
+<displayName lang="en" type="FSN">Seen by audiology service (finding)</displayName>
+</concept>
+<concept code="305846002">
+<displayName lang="en" type="PT">Seen by podiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by podiatry service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by chiropody service</displayName>
+</concept>
+<concept code="305847006">
+<displayName lang="en" type="PT">Seen by community-based podiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by community-based podiatry service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community chiropody service</displayName>
+<displayName lang="en" type="SY">Seen by community podiatry service</displayName>
+</concept>
+<concept code="305848001">
+<displayName lang="en" type="PT">Seen by hospital-based podiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by hospital-based podiatry service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by hospital chiropody service</displayName>
+<displayName lang="en" type="SY">Seen by hospital podiatry service</displayName>
+</concept>
+<concept code="305849009">
+<displayName lang="en" type="PT">Seen by dietetics service</displayName>
+<displayName lang="en" type="FSN">Seen by dietetics service (finding)</displayName>
+</concept>
+<concept code="305850009">
+<displayName lang="en" type="PT">Seen by community-based dietetics service</displayName>
+<displayName lang="en" type="FSN">Seen by community-based dietetics service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community dietetics service</displayName>
+</concept>
+<concept code="305851008">
+<displayName lang="en" type="PT">Seen by hospital-based dietetics service</displayName>
+<displayName lang="en" type="FSN">Seen by hospital-based dietetics service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by hospital dietetics service</displayName>
+</concept>
+<concept code="305852001">
+<displayName lang="en" type="PT">Seen by occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by occupational therapy service (finding)</displayName>
+</concept>
+<concept code="305853006">
+<displayName lang="en" type="PT">Seen by community-based occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by community-based occupational therapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community occupational therapy service</displayName>
+</concept>
+<concept code="305854000">
+<displayName lang="en" type="PT">Seen in social services occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Seen in social services occupational therapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by SSD occupational therapy service</displayName>
+</concept>
+<concept code="305855004">
+<displayName lang="en" type="PT">Seen by hospital-based occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by hospital-based occupational therapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by hospital occupational therapy service</displayName>
+</concept>
+<concept code="305856003">
+<displayName lang="en" type="PT">Seen by optometry service</displayName>
+<displayName lang="en" type="FSN">Seen by optometry service (finding)</displayName>
+</concept>
+<concept code="305857007">
+<displayName lang="en" type="PT">Seen by orthoptics service</displayName>
+<displayName lang="en" type="FSN">Seen by orthoptics service (finding)</displayName>
+</concept>
+<concept code="305858002">
+<displayName lang="en" type="PT">Seen by orthotics service</displayName>
+<displayName lang="en" type="FSN">Seen by orthotics service (finding)</displayName>
+</concept>
+<concept code="305859005">
+<displayName lang="en" type="PT">Seen by surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Seen by surgical fitting service (finding)</displayName>
+</concept>
+<concept code="305860000">
+<displayName lang="en" type="PT">Seen by community-based physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Seen by community-based physiotherapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community physiotherapy service</displayName>
+</concept>
+<concept code="305861001">
+<displayName lang="en" type="PT">Seen by hospital-based physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Seen by hospital-based physiotherapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by hospital physiotherapy service</displayName>
+</concept>
+<concept code="305862008">
+<displayName lang="en" type="PT">Seen by speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by speech and language therapy service (finding)</displayName>
+</concept>
+<concept code="305863003">
+<displayName lang="en" type="PT">Seen by community-based speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by community-based speech and language therapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community speech and language therapy service</displayName>
+</concept>
+<concept code="305864009">
+<displayName lang="en" type="PT">Seen by hospital base speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Seen by hospital base speech and language therapy service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by hospital speech and language therapy service</displayName>
+</concept>
+<concept code="305865005">
+<displayName lang="en" type="PT">Seen by psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by psychiatry service (finding)</displayName>
+</concept>
+<concept code="305866006">
+<displayName lang="en" type="PT">Seen by child and adolescent psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by child and adolescent psychiatry service (finding)</displayName>
+</concept>
+<concept code="305867002">
+<displayName lang="en" type="PT">Seen by forensic psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by forensic psychiatry service (finding)</displayName>
+</concept>
+<concept code="305868007">
+<displayName lang="en" type="PT">Seen by liaison psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by liaison psychiatry service (finding)</displayName>
+</concept>
+<concept code="305869004">
+<displayName lang="en" type="PT">Seen by mental handicap psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by mental handicap psychiatry service (finding)</displayName>
+</concept>
+<concept code="305870003">
+<displayName lang="en" type="PT">Seen by psychogeriatric service</displayName>
+<displayName lang="en" type="FSN">Seen by psychogeriatric service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by elderly mentally ill service</displayName>
+<displayName lang="en" type="SY">Seen by old age psychiatry service</displayName>
+</concept>
+<concept code="305871004">
+<displayName lang="en" type="PT">Seen by rehabilitation psychiatry service</displayName>
+<displayName lang="en" type="FSN">Seen by rehabilitation psychiatry service (finding)</displayName>
+</concept>
+<concept code="305872006">
+<displayName lang="en" type="PT">Seen by public health service</displayName>
+<displayName lang="en" type="FSN">Seen by public health service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by community medicine service</displayName>
+</concept>
+<concept code="305873001">
+<displayName lang="en-GB" type="PT">Seen by obstetrics and gynaecology service</displayName>
+<displayName lang="en" type="FSN">Seen by obstetrics and gynecology service (finding)</displayName>
+</concept>
+<concept code="305874007">
+<displayName lang="en-GB" type="PT">Seen by gynaecology service</displayName>
+<displayName lang="en" type="FSN">Seen by gynecology service (finding)</displayName>
+</concept>
+<concept code="305875008">
+<displayName lang="en" type="PT">Seen by pregnancy termination service</displayName>
+<displayName lang="en" type="FSN">Seen by pregnancy termination service (finding)</displayName>
+</concept>
+<concept code="305876009">
+<displayName lang="en" type="PT">Seen by obstetrics service</displayName>
+<displayName lang="en" type="FSN">Seen by obstetrics service (finding)</displayName>
+</concept>
+<concept code="305877000">
+<displayName lang="en" type="PT">Seen by occupational health service</displayName>
+<displayName lang="en" type="FSN">Seen by occupational health service (finding)</displayName>
+</concept>
+<concept code="305878005">
+<displayName lang="en" type="PT">Seen by psychotherapy service</displayName>
+<displayName lang="en" type="FSN">Seen by psychotherapy service (finding)</displayName>
+</concept>
+<concept code="305879002">
+<displayName lang="en" type="PT">Seen by breast screening service</displayName>
+<displayName lang="en" type="FSN">Seen by breast screening service (finding)</displayName>
+</concept>
+<concept code="305881000">
+<displayName lang="en" type="PT">Seen by ultrasonography service</displayName>
+<displayName lang="en" type="FSN">Seen by ultrasonography service (finding)</displayName>
+</concept>
+<concept code="305882007">
+<displayName lang="en" type="PT">Seen by magnetic resonance imaging service</displayName>
+<displayName lang="en" type="FSN">Seen by magnetic resonance imaging service (finding)</displayName>
+</concept>
+<concept code="305883002">
+<displayName lang="en-GB" type="PT">Seen by computerised tomography service</displayName>
+<displayName lang="en" type="FSN">Seen by computerized tomography service (finding)</displayName>
+</concept>
+<concept code="305884008">
+<displayName lang="en" type="PT">Seen by surgical service</displayName>
+<displayName lang="en" type="FSN">Seen by surgical service (finding)</displayName>
+</concept>
+<concept code="305885009">
+<displayName lang="en" type="PT">Seen by breast surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by breast surgery service (finding)</displayName>
+</concept>
+<concept code="305886005">
+<displayName lang="en" type="PT">Seen by cardiothoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by cardiothoracic surgery service (finding)</displayName>
+</concept>
+<concept code="305887001">
+<displayName lang="en" type="PT">Seen by dental surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by dental surgery service (finding)</displayName>
+</concept>
+<concept code="305888006">
+<displayName lang="en" type="PT">Seen by ear, nose and throat service</displayName>
+<displayName lang="en" type="FSN">Seen by ear, nose and throat service (finding)</displayName>
+</concept>
+<concept code="305889003">
+<displayName lang="en" type="PT">Seen by endocrine surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by endocrine surgery service (finding)</displayName>
+</concept>
+<concept code="305890007">
+<displayName lang="en" type="PT">Seen by gastrointestinal surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by gastrointestinal surgery service (finding)</displayName>
+</concept>
+<concept code="305891006">
+<displayName lang="en" type="PT">Seen by general surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by general surgery service (finding)</displayName>
+</concept>
+<concept code="305892004">
+<displayName lang="en" type="PT">Seen by hand surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by hand surgery service (finding)</displayName>
+</concept>
+<concept code="305893009">
+<displayName lang="en" type="PT">Seen by hepatobiliary surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by hepatobiliary surgery service (finding)</displayName>
+</concept>
+<concept code="305894003">
+<displayName lang="en" type="PT">Seen by neurosurgery service</displayName>
+<displayName lang="en" type="FSN">Seen by neurosurgery service (finding)</displayName>
+</concept>
+<concept code="305895002">
+<displayName lang="en" type="PT">Seen by ophthalmology service</displayName>
+<displayName lang="en" type="FSN">Seen by ophthalmology service (finding)</displayName>
+</concept>
+<concept code="305896001">
+<displayName lang="en" type="PT">Seen by oral surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by oral surgery service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by maxillofacial surgery service</displayName>
+</concept>
+<concept code="305897005">
+<displayName lang="en-GB" type="PT">Seen by orthopaedic service</displayName>
+<displayName lang="en" type="FSN">Seen by orthopedic service (finding)</displayName>
+</concept>
+<concept code="305898000">
+<displayName lang="en" type="PT">Seen by pancreatic surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by pancreatic surgery service (finding)</displayName>
+</concept>
+<concept code="305899008">
+<displayName lang="en-GB" type="PT">Seen by paediatric surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric surgery service (finding)</displayName>
+</concept>
+<concept code="305900003">
+<displayName lang="en" type="PT">Seen by plastic surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by plastic surgery service (finding)</displayName>
+</concept>
+<concept code="305901004">
+<displayName lang="en" type="PT">Seen by transplant surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by transplant surgery service (finding)</displayName>
+</concept>
+<concept code="305902006">
+<displayName lang="en" type="PT">Seen by trauma service</displayName>
+<displayName lang="en" type="FSN">Seen by trauma service (finding)</displayName>
+</concept>
+<concept code="305903001">
+<displayName lang="en" type="PT">Seen by urology service</displayName>
+<displayName lang="en" type="FSN">Seen by urology service (finding)</displayName>
+</concept>
+<concept code="305904007">
+<displayName lang="en" type="PT">Seen by vascular surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by vascular surgery service (finding)</displayName>
+</concept>
+<concept code="305905008">
+<displayName lang="en" type="PT">Seen by social services</displayName>
+<displayName lang="en" type="FSN">Seen by social services (finding)</displayName>
+</concept>
+<concept code="306374007">
+<displayName lang="en" type="PT">Seen by orthodontics service</displayName>
+<displayName lang="en" type="FSN">Seen by orthodontics service (finding)</displayName>
+</concept>
+<concept code="306375008">
+<displayName lang="en-GB" type="PT">Seen by paediatric dentistry service</displayName>
+<displayName lang="en" type="FSN">Seen by pediatric dentistry service (finding)</displayName>
+</concept>
+<concept code="306376009">
+<displayName lang="en" type="PT">Seen by restorative dentistry service</displayName>
+<displayName lang="en" type="FSN">Seen by restorative dentistry service (finding)</displayName>
+</concept>
+<concept code="306377000">
+<displayName lang="en" type="PT">Seen by general gastrointestinal surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by general gastrointestinal surgery service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by general GI surgery service</displayName>
+</concept>
+<concept code="306378005">
+<displayName lang="en" type="PT">Seen by upper gastrointestinal surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by upper gastrointestinal surgery service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by upper GI surgery service</displayName>
+</concept>
+<concept code="306379002">
+<displayName lang="en" type="PT">Seen by colorectal surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by colorectal surgery service (finding)</displayName>
+</concept>
+<concept code="306380004">
+<displayName lang="en" type="PT">Seen by thoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by thoracic surgery service (finding)</displayName>
+</concept>
+<concept code="306381000">
+<displayName lang="en" type="PT">Seen by cardiac surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by cardiac surgery service (finding)</displayName>
+</concept>
+<concept code="306739009">
+<displayName lang="en" type="PT">Seen by general dental surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by general dental surgery service (finding)</displayName>
+</concept>
+<concept code="306810001">
+<displayName lang="en" type="PT">Seen by stroke service</displayName>
+<displayName lang="en" type="FSN">Seen by stroke service (finding)</displayName>
+</concept>
+<concept code="306811002">
+<displayName lang="en" type="PT">Seen by service for young disabled people</displayName>
+<displayName lang="en" type="FSN">Seen by service for young disabled people (finding)</displayName>
+</concept>
+<concept code="308032002">
+<displayName lang="en" type="PT">Seen by radiology service</displayName>
+<displayName lang="en" type="FSN">Seen by radiology service (finding)</displayName>
+</concept>
+<concept code="308033007">
+<displayName lang="en" type="PT">Seen by pathology service</displayName>
+<displayName lang="en" type="FSN">Seen by pathology service (finding)</displayName>
+</concept>
+<concept code="308035000">
+<displayName lang="en" type="PT">Seen by physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Seen by physiotherapy service (finding)</displayName>
+</concept>
+<concept code="309018005">
+<displayName lang="en" type="PT">Referred to service</displayName>
+<displayName lang="en" type="FSN">Referred to service (finding)</displayName>
+</concept>
+<concept code="312385000">
+<displayName lang="en" type="PT">Child minding service</displayName>
+<displayName lang="en" type="FSN">Child minding service (finding)</displayName>
+</concept>
+<concept code="312386004">
+<displayName lang="en" type="PT">Babysitting service</displayName>
+<displayName lang="en" type="FSN">Babysitting service (finding)</displayName>
+</concept>
+<concept code="401141001">
+<displayName lang="en" type="PT">Parental concern about child</displayName>
+<displayName lang="en" type="FSN">Parental concern about child (finding)</displayName>
+</concept>
+<concept code="405781008">
+<displayName lang="en" type="PT">Complex care needs</displayName>
+<displayName lang="en" type="FSN">Complex care needs (finding)</displayName>
+</concept>
+<concept code="406157002">
+<displayName lang="en" type="PT">Likely to maintain appropriate contact with services</displayName>
+<displayName lang="en" type="FSN">Likely to maintain appropriate contact with services (finding)</displayName>
+</concept>
+<concept code="406160009">
+<displayName lang="en" type="PT">Impaired parenting</displayName>
+<displayName lang="en" type="FSN">Impaired parenting (finding)</displayName>
+<displayName lang="en" type="SY">Deficient parenting</displayName>
+</concept>
+<concept code="406161008">
+<displayName lang="en" type="PT">Alteration in parenting</displayName>
+<displayName lang="en" type="FSN">Alteration in parenting (finding)</displayName>
+<displayName lang="en" type="SY">Parenting alteration</displayName>
+</concept>
+<concept code="406542000">
+<displayName lang="en" type="PT">Improvement in friendships and/or relationships</displayName>
+<displayName lang="en" type="FSN">Improvement in friendships and/or relationships (finding)</displayName>
+</concept>
+<concept code="406545003">
+<displayName lang="en" type="PT">24 hour support available</displayName>
+<displayName lang="en" type="FSN">24 hour support available (finding)</displayName>
+</concept>
+<concept code="406546002">
+<displayName lang="en" type="PT">Relatives involved with care</displayName>
+<displayName lang="en" type="FSN">Relatives involved with care (finding)</displayName>
+</concept>
+<concept code="406552001">
+<displayName lang="en" type="PT">Self management of mental health problems</displayName>
+<displayName lang="en" type="FSN">Self management of mental health problems (finding)</displayName>
+</concept>
+<concept code="406553006">
+<displayName lang="en" type="PT">Active informal support network available</displayName>
+<displayName lang="en" type="FSN">Active informal support network available (finding)</displayName>
+</concept>
+<concept code="408509005">
+<displayName lang="en" type="PT">Referred for wheelchair assessment</displayName>
+<displayName lang="en" type="FSN">Referred for wheelchair assessment (finding)</displayName>
+</concept>
+<concept code="413119003">
+<displayName lang="en" type="PT">Stroke group member</displayName>
+<displayName lang="en" type="FSN">Stroke group member (finding)</displayName>
+</concept>
+<concept code="413290009">
+<displayName lang="en" type="PT">Seen by acute healthcare service</displayName>
+<displayName lang="en" type="FSN">Seen by acute healthcare service (finding)</displayName>
+</concept>
+<concept code="413306008">
+<displayName lang="en" type="PT">Informal referral - signposted to other agency</displayName>
+<displayName lang="en" type="FSN">Informal referral - signposted to other agency (finding)</displayName>
+</concept>
+<concept code="413332002">
+<displayName lang="en" type="PT">No access to services</displayName>
+<displayName lang="en" type="FSN">No access to services (finding)</displayName>
+</concept>
+<concept code="414041006">
+<displayName lang="en" type="PT">Does not have a carer</displayName>
+<displayName lang="en" type="FSN">Does not have a carer (finding)</displayName>
+</concept>
+<concept code="416276004">
+<displayName lang="en" type="PT">Referred to social services for adult protection</displayName>
+<displayName lang="en" type="FSN">Referred to social services for adult protection (situation)</displayName>
+</concept>
+<concept code="416974006">
+<displayName lang="en-GB" type="PT">Referred for exercise programme</displayName>
+<displayName lang="en" type="FSN">Referred for exercise program (finding)</displayName>
+</concept>
+<concept code="422596007">
+<displayName lang="en" type="PT">Caregiver difficulty interpreting non-verbal communication</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty interpreting non-verbal communication (finding)</displayName>
+</concept>
+<concept code="422615001">
+<displayName lang="en" type="PT">Caregiver difficulty providing physical care</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty providing physical care (finding)</displayName>
+</concept>
+<concept code="422708002">
+<displayName lang="en" type="PT">Lacks adequate physical care</displayName>
+<displayName lang="en" type="FSN">Lacks adequate physical care (finding)</displayName>
+</concept>
+<concept code="422734005">
+<displayName lang="en" type="PT">Abusive caretaking</displayName>
+<displayName lang="en" type="FSN">Abusive caretaking (finding)</displayName>
+</concept>
+<concept code="422750002">
+<displayName lang="en" type="PT">Caregiver difficulty providing cognitive learning experiences</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty providing cognitive learning experiences (finding)</displayName>
+</concept>
+<concept code="422786001">
+<displayName lang="en" type="PT">Lacks emotional support</displayName>
+<displayName lang="en" type="FSN">Lacks emotional support (finding)</displayName>
+</concept>
+<concept code="422787005">
+<displayName lang="en" type="PT">Caregiver difficulty providing physical safety</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty providing physical safety (finding)</displayName>
+</concept>
+<concept code="422913006">
+<displayName lang="en" type="PT">Neglectful parenting</displayName>
+<displayName lang="en" type="FSN">Neglectful parenting (finding)</displayName>
+</concept>
+<concept code="423080005">
+<displayName lang="en" type="PT">Caregiver difficulty providing emotional nurturance</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty providing emotional nurturance (finding)</displayName>
+</concept>
+<concept code="423217007">
+<displayName lang="en" type="PT">Delayed healthcare provision resulting in neglect</displayName>
+<displayName lang="en" type="FSN">Delayed healthcare provision resulting in neglect (finding)</displayName>
+</concept>
+<concept code="423320002">
+<displayName lang="en" type="PT">Caregiver difficulty providing healthcare</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty providing healthcare (finding)</displayName>
+</concept>
+<concept code="423385005">
+<displayName lang="en" type="PT">Difficulty bonding with unborn baby</displayName>
+<displayName lang="en" type="FSN">Difficulty bonding with unborn baby (finding)</displayName>
+</concept>
+<concept code="423754004">
+<displayName lang="en" type="PT">Difficulty with caretaking responsibilities</displayName>
+<displayName lang="en" type="FSN">Difficulty with caretaking responsibilities (finding)</displayName>
+</concept>
+<concept code="423797009">
+<displayName lang="en" type="PT">Inadequate healthcare</displayName>
+<displayName lang="en" type="FSN">Inadequate healthcare provision (finding)</displayName>
+<displayName lang="en" type="SY">Inadequate healthcare provision</displayName>
+</concept>
+<concept code="424166009">
+<displayName lang="en" type="PT">Dissatisfaction with caretaking responsibilities</displayName>
+<displayName lang="en" type="FSN">Dissatisfaction with caretaking responsibilities (finding)</displayName>
+</concept>
+<concept code="424364004">
+<displayName lang="en" type="PT">Dissatisfaction with parenting responsibilities</displayName>
+<displayName lang="en" type="FSN">Dissatisfaction with parenting responsibilities (finding)</displayName>
+</concept>
+<concept code="424759000">
+<displayName lang="en" type="PT">Neglectful caretaking</displayName>
+<displayName lang="en" type="FSN">Neglectful caretaking (finding)</displayName>
+</concept>
+<concept code="424826008">
+<displayName lang="en" type="PT">Unrealistic expectations regarding growth and development</displayName>
+<displayName lang="en" type="FSN">Unrealistic expectations regarding growth and development (finding)</displayName>
+<displayName lang="en" type="SY">Expectations incongruent with stage of growth and development</displayName>
+</concept>
+<concept code="424896002">
+<displayName lang="en" type="PT">Difficulty with parenting responsibilities</displayName>
+<displayName lang="en" type="FSN">Difficulty with parenting responsibilities (finding)</displayName>
+</concept>
+<concept code="425022003">
+<displayName lang="en" type="PT">Inadequate social support</displayName>
+<displayName lang="en" type="FSN">Inadequate social support (finding)</displayName>
+</concept>
+<concept code="425129009">
+<displayName lang="en" type="PT">Caregiver difficulty interpreting verbal communication</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty interpreting verbal communication (finding)</displayName>
+</concept>
+<concept code="425183007">
+<displayName lang="en" type="PT">No one at home to receive patient</displayName>
+<displayName lang="en" type="FSN">No one at home to receive patient (finding)</displayName>
+</concept>
+<concept code="425275009">
+<displayName lang="en" type="PT">Abusive parenting</displayName>
+<displayName lang="en" type="FSN">Abusive parenting (finding)</displayName>
+</concept>
+<concept code="425686003">
+<displayName lang="en" type="PT">Cared for by spouse</displayName>
+<displayName lang="en" type="FSN">Cared for by spouse (finding)</displayName>
+</concept>
+<concept code="425928002">
+<displayName lang="en" type="PT">Cared for by family</displayName>
+<displayName lang="en" type="FSN">Cared for by family (finding)</displayName>
+</concept>
+<concept code="426024008">
+<displayName lang="en" type="PT">Cared for by night nurse</displayName>
+<displayName lang="en" type="FSN">Cared for by night nurse (finding)</displayName>
+</concept>
+<concept code="426031007">
+<displayName lang="en" type="PT">Nursing assistance required</displayName>
+<displayName lang="en" type="FSN">Nursing assistance required (finding)</displayName>
+</concept>
+<concept code="426201006">
+<displayName lang="en" type="PT">Interpreter not available</displayName>
+<displayName lang="en" type="FSN">Interpreter not available (finding)</displayName>
+</concept>
+<concept code="427454004">
+<displayName lang="en-GB" type="PT">Cared for by neighbours</displayName>
+<displayName lang="en" type="FSN">Cared for by neighbors (finding)</displayName>
+</concept>
+<concept code="441874000">
+<displayName lang="en" type="PT">Seen by palliative care service</displayName>
+<displayName lang="en" type="FSN">Seen by palliative care service (finding)</displayName>
+</concept>
+<concept code="443317002">
+<displayName lang="en" type="PT">Parent provides full-time care</displayName>
+<displayName lang="en" type="FSN">Parent provides full-time care (finding)</displayName>
+</concept>
+<concept code="443617006">
+<displayName lang="en" type="PT">Parent provides part-time care</displayName>
+<displayName lang="en" type="FSN">Parent provides part-time care (finding)</displayName>
+</concept>
+<concept code="473447008">
+<displayName lang="en" type="PT">Exerting inappropriate parental pressure</displayName>
+<displayName lang="en" type="FSN">Exerting inappropriate parental pressure (finding)</displayName>
+</concept>
+<concept code="698017003">
+<displayName lang="en" type="PT">Cared for by male head of household</displayName>
+<displayName lang="en" type="FSN">Cared for by male head of household (finding)</displayName>
+</concept>
+<concept code="700048007">
+<displayName lang="en" type="PT">Cared for by female head of household</displayName>
+<displayName lang="en" type="FSN">Cared for by female head of household (finding)</displayName>
+</concept>
+<concept code="702469009">
+<displayName lang="en" type="PT">Father has sole parental responsibility</displayName>
+<displayName lang="en" type="FSN">Father has sole parental responsibility (finding)</displayName>
+</concept>
+<concept code="702470005">
+<displayName lang="en" type="PT">Carer has sole parental responsibility</displayName>
+<displayName lang="en" type="FSN">Carer has sole parental responsibility (finding)</displayName>
+</concept>
+<concept code="704089001">
+<displayName lang="en" type="PT">Seen by spinal surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by spinal surgery service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by spine surgery service</displayName>
+</concept>
+<concept code="704305004">
+<displayName lang="en" type="PT">Impairment of caregiver child attachment</displayName>
+<displayName lang="en" type="FSN">Impairment of caregiver child attachment (finding)</displayName>
+<displayName lang="en" type="SY">Impaired caregiver child attachment</displayName>
+</concept>
+<concept code="704489009">
+<displayName lang="en" type="PT">Lack of family support</displayName>
+<displayName lang="en" type="FSN">Lack of family support (finding)</displayName>
+</concept>
+<concept code="705039004">
+<displayName lang="en" type="PT">Conflicting attitude of caregiver</displayName>
+<displayName lang="en" type="FSN">Conflicting attitude of caregiver (finding)</displayName>
+</concept>
+<concept code="705044006">
+<displayName lang="en" type="PT">Caregiver difficulty performing caretaking</displayName>
+<displayName lang="en" type="FSN">Caregiver difficulty performing caretaking (finding)</displayName>
+</concept>
+<concept code="707284008">
+<displayName lang="en" type="PT">Support available in first 24 hours post discharge</displayName>
+<displayName lang="en" type="FSN">Support available in first 24 hours post discharge (finding)</displayName>
+</concept>
+<concept code="707810004">
+<displayName lang="en" type="PT">Cares for self</displayName>
+<displayName lang="en" type="FSN">Cares for self (finding)</displayName>
+</concept>
+<concept code="708014007">
+<displayName lang="en" type="PT">Does not have an informal carer</displayName>
+<displayName lang="en" type="FSN">Does not have an informal carer (finding)</displayName>
+</concept>
+<concept code="25201000000108">
+<displayName lang="en-GB" type="PT">Seen by rapid response team</displayName>
+<displayName lang="en-GB" type="FSN">Seen by rapid response team (finding)</displayName>
+</concept>
+<concept code="25211000000105">
+<displayName lang="en" type="PT">Seen by respiratory rapid response team</displayName>
+<displayName lang="en" type="FSN">Seen by respiratory rapid response team (finding)</displayName>
+</concept>
+<concept code="25411000000109">
+<displayName lang="en-GB" type="PT">Referred to community specialist palliative care team</displayName>
+<displayName lang="en-GB" type="FSN">Referred to community specialist palliative care team (finding)</displayName>
+</concept>
+<concept code="109121000000109">
+<displayName lang="en-GB" type="PT">Epilepsy society member</displayName>
+<displayName lang="en" type="FSN">Epilepsy society member (finding)</displayName>
+</concept>
+<concept code="151921000119105">
+<displayName lang="en" type="PT">Cares for sick or handicapped family member</displayName>
+<displayName lang="en" type="FSN">Cares for sick or handicapped family member (finding)</displayName>
+<displayName lang="en" type="SY">Care of sick or handicapped person in family</displayName>
+</concept>
+<concept code="199361000000101">
+<displayName lang="en-GB" type="PT">Is no longer a carer</displayName>
+<displayName lang="en" type="FSN">Is no longer a carer (finding)</displayName>
+</concept>
+<concept code="199741000000103">
+<displayName lang="en-GB" type="PT">Parent is informal carer</displayName>
+<displayName lang="en" type="FSN">Parent is informal carer (finding)</displayName>
+</concept>
+<concept code="200881000000105">
+<displayName lang="en-GB" type="PT">Referred for assessment of need for oxygen therapy</displayName>
+<displayName lang="en-GB" type="FSN">Referred for assessment of need for oxygen therapy (finding)</displayName>
+</concept>
+<concept code="201481000000104">
+<displayName lang="en-GB" type="PT">Under care of social services</displayName>
+<displayName lang="en-GB" type="FSN">Under care of social services (finding)</displayName>
+</concept>
+<concept code="201511000000105">
+<displayName lang="en-GB" type="PT">Under care of palliative care service</displayName>
+<displayName lang="en-GB" type="FSN">Under care of palliative care service (finding)</displayName>
+</concept>
+<concept code="203791000000106">
+<displayName lang="en-GB" type="PT">Referred to heart failure education group</displayName>
+<displayName lang="en-GB" type="FSN">Referred to heart failure education group (finding)</displayName>
+</concept>
+<concept code="204091000000106">
+<displayName lang="en-GB" type="PT">Child is informal carer</displayName>
+<displayName lang="en" type="FSN">Child is informal carer (finding)</displayName>
+</concept>
+<concept code="204101000000103">
+<displayName lang="en-GB" type="PT">Relative is informal carer</displayName>
+<displayName lang="en" type="FSN">Relative is informal carer (finding)</displayName>
+</concept>
+<concept code="204121000000107">
+<displayName lang="en-GB" type="PT">Partner is informal carer</displayName>
+<displayName lang="en" type="FSN">Partner is informal carer (finding)</displayName>
+</concept>
+<concept code="204141000000100">
+<displayName lang="en-GB" type="PT">Friend is informal carer</displayName>
+<displayName lang="en" type="FSN">Friend is informal carer (finding)</displayName>
+</concept>
+<concept code="242671000000101">
+<displayName lang="en" type="PT">Has domestic support</displayName>
+<displayName lang="en" type="FSN">Has domestic support (finding)</displayName>
+</concept>
+<concept code="247731000000106">
+<displayName lang="en" type="PT">Referred to hepatology service</displayName>
+<displayName lang="en" type="FSN">Referred to hepatology service (finding)</displayName>
+</concept>
+<concept code="248241000000107">
+<displayName lang="en" type="PT">No longer has a carer</displayName>
+<displayName lang="en" type="FSN">No longer has a carer (finding)</displayName>
+</concept>
+<concept code="276221000000100">
+<displayName lang="en" type="PT">Referred for health coaching</displayName>
+<displayName lang="en" type="FSN">Referred for health coaching (finding)</displayName>
+</concept>
+<concept code="288231000119101">
+<displayName lang="en" type="PT">Cares for dependent relative at home</displayName>
+<displayName lang="en" type="FSN">Cares for dependent relative at home (finding)</displayName>
+<displayName lang="en" type="SY">Dependent relative needing care at home</displayName>
+</concept>
+<concept code="293591000000102">
+<displayName lang="en" type="PT">Seen by child and adolescent mental health service</displayName>
+<displayName lang="en" type="FSN">Seen by child and adolescent mental health service (finding)</displayName>
+<displayName lang="en" type="SY">Seen by CAMHS (child and adolescent mental health service)</displayName>
+</concept>
+<concept code="320311000000106">
+<displayName lang="en" type="PT">Carer having difficulty coping</displayName>
+<displayName lang="en" type="FSN">Carer having difficulty coping (finding)</displayName>
+</concept>
+<concept code="323861000000106">
+<displayName lang="en" type="PT">Adequate support provided by carer</displayName>
+<displayName lang="en" type="FSN">Adequate support provided by carer (finding)</displayName>
+</concept>
+<concept code="323871000000104">
+<displayName lang="en" type="PT">Limited support provided by carer</displayName>
+<displayName lang="en" type="FSN">Limited support provided by carer (finding)</displayName>
+</concept>
+<concept code="323881000000102">
+<displayName lang="en" type="PT">Extensive support provided by carer</displayName>
+<displayName lang="en" type="FSN">Extensive support provided by carer (finding)</displayName>
+</concept>
+<concept code="323981000000109">
+<displayName lang="en" type="PT">Inadequate support provided by carer</displayName>
+<displayName lang="en" type="FSN">Inadequate support provided by carer (finding)</displayName>
+</concept>
+<concept code="375851000000108">
+<displayName lang="en" type="PT">Referred for chronic obstructive pulmonary disease structured smoking assessment</displayName>
+<displayName lang="en" type="FSN">Referred for chronic obstructive pulmonary disease structured smoking assessment (finding)</displayName>
+</concept>
+<concept code="383111000000107">
+<displayName lang="en" type="PT">Seen by hepatobiliary and pancreatic surgery service</displayName>
+<displayName lang="en" type="FSN">Seen by hepatobiliary and pancreatic surgery service (finding)</displayName>
+</concept>
+<concept code="506401000000109">
+<displayName lang="en" type="PT">Not a carer</displayName>
+<displayName lang="en" type="FSN">Not a carer (finding)</displayName>
+</concept>
+<concept code="513901000000109">
+<displayName lang="en" type="PT">Informal carer needing support plan</displayName>
+<displayName lang="en" type="FSN">Informal carer needing support plan (finding)</displayName>
+<displayName lang="en" type="SY">Carer needing support plan</displayName>
+</concept>
+<concept code="515581000000105">
+<displayName lang="en" type="PT">Seen by urgent care team</displayName>
+<displayName lang="en" type="FSN">Seen by urgent care team (finding)</displayName>
+</concept>
+<concept code="520461000000103">
+<displayName lang="en" type="PT">Communication assistance from carer requested</displayName>
+<displayName lang="en" type="FSN">Communication assistance from carer requested (finding)</displayName>
+</concept>
+<concept code="728721000000100">
+<displayName lang="en" type="PT">Carer from Black and minority ethnic group</displayName>
+<displayName lang="en" type="FSN">Carer from Black and minority ethnic group (finding)</displayName>
+</concept>
+<concept code="751311000000102">
+<displayName lang="en" type="PT">Has an informal carer</displayName>
+<displayName lang="en" type="FSN">Has an informal carer (finding)</displayName>
+</concept>
+<concept code="751331000000105">
+<displayName lang="en" type="PT">No longer has an informal carer</displayName>
+<displayName lang="en" type="FSN">No longer has an informal carer (finding)</displayName>
+</concept>
+<concept code="755391000000109">
+<displayName lang="en" type="PT">Has an older carer</displayName>
+<displayName lang="en" type="FSN">Has an older carer (finding)</displayName>
+</concept>
+<concept code="755471000000104">
+<displayName lang="en" type="PT">Has a parent carer</displayName>
+<displayName lang="en" type="FSN">Has a parent carer (finding)</displayName>
+</concept>
+<concept code="790681000000104">
+<displayName lang="en" type="PT">Respite care available</displayName>
+<displayName lang="en" type="FSN">Respite care available (finding)</displayName>
+</concept>
+<concept code="791561000000101">
+<displayName lang="en" type="PT">Under care of service</displayName>
+<displayName lang="en" type="FSN">Under care of service (finding)</displayName>
+</concept>
+<concept code="791571000000108">
+<displayName lang="en" type="PT">Under care of drug misuse service</displayName>
+<displayName lang="en" type="FSN">Under care of drug misuse service (finding)</displayName>
+</concept>
+<concept code="791581000000105">
+<displayName lang="en" type="PT">Under care of probation service</displayName>
+<displayName lang="en" type="FSN">Under care of probation service (finding)</displayName>
+</concept>
+<concept code="791591000000107">
+<displayName lang="en" type="PT">Under care of prison service</displayName>
+<displayName lang="en" type="FSN">Under care of prison service (finding)</displayName>
+</concept>
+<concept code="791601000000101">
+<displayName lang="en" type="PT">Under care of psychiatric service</displayName>
+<displayName lang="en" type="FSN">Under care of psychiatric service (finding)</displayName>
+</concept>
+<concept code="791611000000104">
+<displayName lang="en" type="PT">Under care of Sure Start service</displayName>
+<displayName lang="en" type="FSN">Under care of Sure Start service (finding)</displayName>
+</concept>
+<concept code="794081000000104">
+<displayName lang="en" type="PT">Under care of vulnerable women service</displayName>
+<displayName lang="en" type="FSN">Under care of vulnerable women service (finding)</displayName>
+</concept>
+<concept code="809191000000104">
+<displayName lang="en" type="PT">Parent of child in care</displayName>
+<displayName lang="en" type="FSN">Parent of child in care (finding)</displayName>
+</concept>
+<concept code="818091000000106">
+<displayName lang="en" type="PT">Has a paid carer</displayName>
+<displayName lang="en" type="FSN">Has a paid carer (finding)</displayName>
+</concept>
+<concept code="823411000000109">
+<displayName lang="en" type="PT">Has voluntary carer</displayName>
+<displayName lang="en" type="FSN">Has voluntary carer (finding)</displayName>
+</concept>
+<concept code="823801000000109">
+<displayName lang="en" type="PT">Under care of hospital admission prevention service</displayName>
+<displayName lang="en" type="FSN">Under care of hospital admission prevention service (finding)</displayName>
+</concept>
+<concept code="824401000000105">
+<displayName lang="en" type="PT">Carer of person with dementia</displayName>
+<displayName lang="en" type="FSN">Carer of person with dementia (finding)</displayName>
+</concept>
+<concept code="837681000000107">
+<displayName lang="en" type="PT">Under care of health visiting service</displayName>
+<displayName lang="en" type="FSN">Under care of health visiting service (finding)</displayName>
+</concept>
+<concept code="837701000000109">
+<displayName lang="en" type="PT">Under care of health visiting service - Universal</displayName>
+<displayName lang="en" type="FSN">Under care of health visiting service - Universal (finding)</displayName>
+</concept>
+<concept code="837711000000106">
+<displayName lang="en" type="PT">Under care of health visiting service - Universal plus</displayName>
+<displayName lang="en" type="FSN">Under care of health visiting service - Universal plus (finding)</displayName>
+</concept>
+<concept code="837721000000100">
+<displayName lang="en" type="PT">Under care of health visiting service - Universal partnership plus</displayName>
+<displayName lang="en" type="FSN">Under care of health visiting service - Universal partnership plus (finding)</displayName>
+</concept>
+<concept code="839061000000101">
+<displayName lang="en" type="PT">Carer has complex care needs</displayName>
+<displayName lang="en" type="FSN">Carer has complex care needs (finding)</displayName>
+</concept>
+<concept code="844681000000100">
+<displayName lang="en" type="PT">Has socially isolated carer</displayName>
+<displayName lang="en" type="FSN">Has socially isolated carer (finding)</displayName>
+</concept>
+<concept code="846861000000100">
+<displayName lang="en" type="PT">Under care of renal service</displayName>
+<displayName lang="en" type="FSN">Under care of renal service (finding)</displayName>
+</concept>
+<concept code="859391000000105">
+<displayName lang="en" type="PT">Seen by primary care mental health team</displayName>
+<displayName lang="en" type="FSN">Seen by primary care mental health team (finding)</displayName>
+</concept>
+<concept code="864101000000106">
+<displayName lang="en" type="PT">Under care of child and adolescent mental health service</displayName>
+<displayName lang="en" type="FSN">Under care of child and adolescent mental health service (finding)</displayName>
+<displayName lang="en" type="SY">Under care of CAMHS (child and adolescent mental health service)</displayName>
+</concept>
+<concept code="866391000000106">
+<displayName lang="en" type="PT">Seen by community drug team</displayName>
+<displayName lang="en" type="FSN">Seen by community drug team (finding)</displayName>
+</concept>
+<concept code="873651000000107">
+<displayName lang="en" type="PT">Good parenting skills</displayName>
+<displayName lang="en" type="FSN">Good parenting skills (finding)</displayName>
+</concept>
+<concept code="877071000000102">
+<displayName lang="en" type="PT">Coeliac UK member</displayName>
+<displayName lang="en" type="FSN">Coeliac United Kingdom member (finding)</displayName>
+</concept>
+<concept code="906101000000109">
+<displayName lang="en" type="PT">Attends parent support group</displayName>
+<displayName lang="en" type="FSN">Attends parent support group (finding)</displayName>
+</concept>
+<concept code="907151000000108">
+<displayName lang="en" type="PT">Seen by Parkinson&apos;s disease service</displayName>
+<displayName lang="en" type="FSN">Seen by Parkinson&apos;s disease service (finding)</displayName>
+</concept>
+<concept code="912551000000100">
+<displayName lang="en" type="PT">Under care of autism assessment service</displayName>
+<displayName lang="en" type="FSN">Under care of autism assessment service (finding)</displayName>
+</concept>
+<concept code="919011000000100">
+<displayName lang="en" type="PT">Under care of school nursing service</displayName>
+<displayName lang="en" type="FSN">Under care of school nursing service (finding)</displayName>
+</concept>
+<concept code="919031000000108">
+<displayName lang="en" type="PT">Under care of school nursing service - Universal</displayName>
+<displayName lang="en" type="FSN">Under care of school nursing service - Universal (finding)</displayName>
+</concept>
+<concept code="919091000000109">
+<displayName lang="en" type="PT">Under care of school nursing service - Universal plus</displayName>
+<displayName lang="en" type="FSN">Under care of school nursing service - Universal plus (finding)</displayName>
+</concept>
+<concept code="919141000000103">
+<displayName lang="en" type="PT">Under care of school nursing service - Universal partnership plus</displayName>
+<displayName lang="en" type="FSN">Under care of school nursing service - Universal partnership plus (finding)</displayName>
+</concept>
+<concept code="921321000000102">
+<displayName lang="en" type="PT">Seen by community falls team</displayName>
+<displayName lang="en" type="FSN">Seen by community falls team (finding)</displayName>
+</concept>
+<concept code="931251000000101">
+<displayName lang="en" type="PT">Under care of Youth Justice Service</displayName>
+<displayName lang="en" type="FSN">Under care of Youth Justice Service (finding)</displayName>
+</concept>
+<concept code="931271000000105">
+<displayName lang="en" type="PT">Primary carer has poor support network</displayName>
+<displayName lang="en" type="FSN">Primary carer has poor support network (finding)</displayName>
+</concept>
+<concept code="931641000000102">
+<displayName lang="en" type="PT">Primary carer displays emotional warmth and love to child</displayName>
+<displayName lang="en" type="FSN">Primary carer displays emotional warmth and love to child (finding)</displayName>
+</concept>
+<concept code="931901000000109">
+<displayName lang="en" type="PT">Under care of adult care service</displayName>
+<displayName lang="en" type="FSN">Under care of adult care service (finding)</displayName>
+</concept>
+<concept code="933081000000101">
+<displayName lang="en" type="PT">Under care of Prevention Matters service</displayName>
+<displayName lang="en" type="FSN">Under care of Prevention Matters service (finding)</displayName>
+</concept>
+<concept code="933581000000105">
+<displayName lang="en" type="PT">No longer carer of patient with dementia</displayName>
+<displayName lang="en" type="FSN">No longer carer of patient with dementia (finding)</displayName>
+</concept>
+<concept code="938591000000100">
+<displayName lang="en" type="PT">Seen by learning disability team</displayName>
+<displayName lang="en" type="FSN">Seen by learning disability team (finding)</displayName>
+</concept>
+<concept code="966891000000105">
+<displayName lang="en" type="PT">Under care of advanced community care service</displayName>
+<displayName lang="en" type="FSN">Under care of advanced community care service (finding)</displayName>
+</concept>
+</vocabulary>

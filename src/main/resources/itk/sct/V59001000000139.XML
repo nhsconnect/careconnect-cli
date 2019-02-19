@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Health Protection electronic notifications - user initiated" type="Realm Concept" setId="67471000000136" version="3" id="59001000000139" refId="999002161000000101" memberCount="33" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="4089001">
+<displayName lang="en-GB" type="PT">Meningococcaemia</displayName>
+<displayName lang="en" type="FSN">Meningococcemia (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Meningococcal septicaemia</displayName>
+</concept>
+<concept code="4834000">
+<displayName lang="en" type="PT">Typhoid fever</displayName>
+<displayName lang="en" type="FSN">Typhoid fever (disorder)</displayName>
+<displayName lang="en" type="SY">Infection by Salmonella typhi</displayName>
+</concept>
+<concept code="14168008">
+<displayName lang="en" type="PT">Rabies</displayName>
+<displayName lang="en" type="FSN">Rabies (disorder)</displayName>
+<displayName lang="en" type="SY">Hydrophobia</displayName>
+<displayName lang="en" type="SY">Lyssa</displayName>
+</concept>
+<concept code="14189004">
+<displayName lang="en" type="PT">Measles</displayName>
+<displayName lang="en" type="FSN">Measles (disorder)</displayName>
+<displayName lang="en" type="SY">Morbilli</displayName>
+<displayName lang="en" type="SY">Rubeola</displayName>
+</concept>
+<concept code="16541001">
+<displayName lang="en" type="PT">Yellow fever</displayName>
+<displayName lang="en" type="FSN">Yellow fever (disorder)</displayName>
+<displayName lang="en" type="SY">YF - Yellow fever</displayName>
+</concept>
+<concept code="27836007">
+<displayName lang="en" type="PT">Pertussis</displayName>
+<displayName lang="en" type="FSN">Pertussis (disorder)</displayName>
+<displayName lang="en" type="SY">Infection due to Bordetella pertussis</displayName>
+<displayName lang="en" type="SY">WC - Whooping cough</displayName>
+<displayName lang="en" type="SY">Whooping cough</displayName>
+</concept>
+<concept code="30242009">
+<displayName lang="en" type="PT">Scarlet fever</displayName>
+<displayName lang="en" type="FSN">Scarlet fever (disorder)</displayName>
+<displayName lang="en" type="SY">Scarlatina</displayName>
+</concept>
+<concept code="36653000">
+<displayName lang="en" type="PT">Rubella</displayName>
+<displayName lang="en" type="FSN">Rubella (disorder)</displayName>
+<displayName lang="en" type="SY">German measles</displayName>
+</concept>
+<concept code="36989005">
+<displayName lang="en" type="PT">Mumps</displayName>
+<displayName lang="en" type="FSN">Mumps (disorder)</displayName>
+</concept>
+<concept code="56717001">
+<displayName lang="en" type="PT">Tuberculosis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Tuberculosis</displayName>
+</concept>
+<concept code="58750007">
+<displayName lang="en" type="PT">Plague</displayName>
+<displayName lang="en" type="FSN">Plague (disorder)</displayName>
+<displayName lang="en" type="SY">Black death</displayName>
+<displayName lang="en" type="SY">Infection by Yersinia pestis</displayName>
+<displayName lang="en" type="SY">Pest</displayName>
+<displayName lang="en" type="SY">Pestilential fever</displayName>
+</concept>
+<concept code="61462000">
+<displayName lang="en" type="PT">Malaria</displayName>
+<displayName lang="en" type="FSN">Malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Paludism</displayName>
+<displayName lang="en" type="SY">Plasmodiosis</displayName>
+</concept>
+<concept code="63650001">
+<displayName lang="en" type="PT">Cholera</displayName>
+<displayName lang="en" type="FSN">Cholera (disorder)</displayName>
+<displayName lang="en" type="SY">Vibrio cholerae infection</displayName>
+</concept>
+<concept code="67924001">
+<displayName lang="en" type="PT">Smallpox</displayName>
+<displayName lang="en" type="FSN">Smallpox (disorder)</displayName>
+<displayName lang="en" type="SY">Variola</displayName>
+</concept>
+<concept code="75258004">
+<displayName lang="en" type="PT">Food poisoning</displayName>
+<displayName lang="en" type="FSN">Food poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">FP - Food poisoning</displayName>
+</concept>
+<concept code="75702008">
+<displayName lang="en" type="PT">Brucellosis</displayName>
+<displayName lang="en" type="FSN">Brucellosis (disorder)</displayName>
+<displayName lang="en" type="SY">Cyprus fever</displayName>
+<displayName lang="en" type="SY">Gibraltar fever</displayName>
+<displayName lang="en" type="SY">Malta fever</displayName>
+<displayName lang="en" type="SY">Mediterranean fever</displayName>
+<displayName lang="en" type="SY">Rock fever</displayName>
+<displayName lang="en" type="SY">Undulant fever</displayName>
+</concept>
+<concept code="76902006">
+<displayName lang="en" type="PT">Tetanus</displayName>
+<displayName lang="en" type="FSN">Tetanus (disorder)</displayName>
+</concept>
+<concept code="81004002">
+<displayName lang="en" type="PT">Leprosy</displayName>
+<displayName lang="en" type="FSN">Leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Hansen&apos;s disease</displayName>
+<displayName lang="en" type="SY">Infection due to Mycobacterium leprae</displayName>
+<displayName lang="en" type="SY">Mycobacterium leprae infection</displayName>
+</concept>
+<concept code="85904008">
+<displayName lang="en" type="PT">Paratyphoid fever</displayName>
+<displayName lang="en" type="FSN">Paratyphoid fever (disorder)</displayName>
+</concept>
+<concept code="111407006">
+<displayName lang="en-GB" type="PT">Haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="FSN">Hemolytic uremic syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Gasser&apos;s syndrome</displayName>
+<displayName lang="en-GB" type="SY">HUS - Haemolytic uraemic syndrome</displayName>
+</concept>
+<concept code="195889001">
+<displayName lang="en" type="PT">Legionella pneumonia</displayName>
+<displayName lang="en" type="FSN">Legionella pneumonia (disorder)</displayName>
+<displayName lang="en" type="SY">Legionnaire&apos;s disease</displayName>
+<displayName lang="en" type="SY">Legionnaires disease</displayName>
+<displayName lang="en" type="SY">Legionnaires&apos; disease</displayName>
+</concept>
+<concept code="235862008">
+<displayName lang="en" type="PT">Hepatitis due to infection</displayName>
+<displayName lang="en" type="FSN">Hepatitis due to infection (disorder)</displayName>
+</concept>
+<concept code="240523007">
+<displayName lang="en-GB" type="PT">Viral haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Viral hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">VHF - Viral haemorrhagic fever</displayName>
+</concept>
+<concept code="240613006">
+<displayName lang="en" type="PT">Typhus group rickettsial disease</displayName>
+<displayName lang="en" type="FSN">Typhus group rickettsial disease (disorder)</displayName>
+<displayName lang="en" type="SY">Typhus</displayName>
+</concept>
+<concept code="397428000">
+<displayName lang="en" type="PT">Diphtheria</displayName>
+<displayName lang="en" type="FSN">Diphtheria (disorder)</displayName>
+</concept>
+<concept code="398102009">
+<displayName lang="en" type="PT">Acute poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Acute poliomyelitis (disorder)</displayName>
+<displayName lang="en" type="SY">PM - Poliomyelitis</displayName>
+<displayName lang="en" type="SY">Polio</displayName>
+<displayName lang="en" type="SY">Poliomyelitis</displayName>
+</concept>
+<concept code="398447004">
+<displayName lang="en" type="PT">Severe acute respiratory syndrome</displayName>
+<displayName lang="en" type="FSN">Severe acute respiratory syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">SARS</displayName>
+<displayName lang="en" type="SY">SARS-CoV infection</displayName>
+</concept>
+<concept code="406614006">
+<displayName lang="en-GB" type="PT">Invasive Group A beta-haemolytic streptococcal disease</displayName>
+<displayName lang="en" type="FSN">Invasive Group A beta-hemolytic streptococcal disease (disorder)</displayName>
+<displayName lang="en" type="SY">Group A streptococcal infection, invasive</displayName>
+</concept>
+<concept code="409498004">
+<displayName lang="en" type="PT">Anthrax</displayName>
+<displayName lang="en" type="FSN">Anthrax (disorder)</displayName>
+<displayName lang="en" type="SY">Charbon</displayName>
+<displayName lang="en" type="SY">Infection due to Bacillus anthracis</displayName>
+<displayName lang="en" type="SY">Milzbrand</displayName>
+<displayName lang="en" type="SY">Splenic fever</displayName>
+</concept>
+<concept code="414531002">
+<displayName lang="en" type="PT">Botulism</displayName>
+<displayName lang="en" type="FSN">Intoxication with Clostridium botulinum toxin (disorder)</displayName>
+<displayName lang="en" type="SY">Intoxication with Clostridium botulinum toxin</displayName>
+</concept>
+<concept code="821491000000101">
+<displayName lang="en" type="PT">Infectious haemorrhagic diarrhoea</displayName>
+<displayName lang="en" type="FSN">Infectious haemorrhagic diarrhoea (disorder)</displayName>
+<displayName lang="en" type="SY">Infectious bloody diarrhoea</displayName>
+</concept>
+<concept code="822021000000103">
+<displayName lang="en" type="PT">Acute encephalitis</displayName>
+<displayName lang="en" type="FSN">Acute encephalitis (disorder)</displayName>
+</concept>
+<concept code="822031000000101">
+<displayName lang="en" type="PT">Acute meningitis</displayName>
+<displayName lang="en" type="FSN">Acute meningitis (disorder)</displayName>
+</concept>
+</vocabulary>

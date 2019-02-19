@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TransportNeed" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.38">
+   <Description>
+            <p>Default scheme: NHS DataDictionary</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.38</p>
+            <p>The type of transport required for the care transfer.</p>
+         </Description>
+   <concept code="a">
+      <displayName>Stretcher (synonym 'ambulance'). The PATIENT is recumbent, semi-recumbent, a maternity case or is likely to need intensive ambulance aid during the journey.</displayName>
+   </concept>
+   <concept code="b">
+      <displayName>Crew of 2 (synonym 'car 2'). The PATIENT can travel sitting but needs the assistance of a driver and attendant to get into or out of the vehicle.</displayName>
+   </concept>
+   <concept code="c">
+      <displayName>Crew of 1 (synonym 'car'). The PATIENT can travel sitting and only needs the assistance of a driver to get into or out of the vehicle.</displayName>
+   </concept>
+</vocabulary>

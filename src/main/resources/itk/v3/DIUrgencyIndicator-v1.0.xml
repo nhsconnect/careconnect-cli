@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DIUrgencyIndicator" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.242">
+   <Description>
+            <p>A set of codes indicating the type of Diagnostic Imaging Report Urgency Indicator.</p>
+         </Description>
+   <concept code="DI24">
+      <displayName>Routine</displayName>
+   </concept>
+   <concept code="DI25">
+      <displayName>Urgent</displayName>
+   </concept>
+</vocabulary>

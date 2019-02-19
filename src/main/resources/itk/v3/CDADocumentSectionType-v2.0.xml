@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDADocumentSectionType" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.223">
+   <Description>
+            <p>
+               <span style="width: 100%">A set of codes to identify the document section type.</span>
+            </p> 
+            <p>Individual domains may specify the codes to use as follows:</p> 
+            <ul> 
+               <li>For HSCI Overview Assessment Document codes from the vocabulary <b>CAFInformationSet</b>  (OID=<span style="width: 100%">2.16.840.1.113883.2.1.3.2.4.17.222</span>)should be used. <br/> 
+               </li> 
+               <li>For Diagnostic Imaging Report codes from the vocabulary <b>DICDADocumentSectionType</b> (OID=2.16.840.1.113883.2.1.3.2.4.17.243) should be used.</li> 
+               <li>For Care Plan codes from the vocabulary <b>TextHeadingType</b> (OID=2.16.840.1.113883.2.1.3.2.4.17.225) should be used.<br/> 
+               </li> 
+            </ul> Where no guidance is given on the use of these attributes by the domain's documentation, then  use of this vocabulary is                         prohibited.</Description>
+</vocabulary>

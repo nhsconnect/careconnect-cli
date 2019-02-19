@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISRecordType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.471">
+   <Description>
+            <p>A set of codes to describe whether a record returned by the Child Protection Information Sharing (CP-IS) service is valid or invalid.</p>
+         </Description>
+   <concept code="VR">
+      <displayName>Valid CP-IS Record</displayName>
+   </concept>
+   <concept code="IR">
+      <displayName>Invalid CP-IS Record</displayName>
+   </concept>
+</vocabulary>

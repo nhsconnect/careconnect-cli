@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SuperSpecialty" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.137">
+   <Description>
+            <p>Assigned OID:</p>
+            <p>2.16.840.1.113883.2.1.3.2.4.17.137</p>
+            <p>This describes the categorisation of services above the level of specialty (treatment function code).</p>
+         </Description>
+</vocabulary>

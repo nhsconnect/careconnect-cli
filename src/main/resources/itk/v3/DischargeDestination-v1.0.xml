@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeDestination" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.40">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary <i>Discharge Destination</i>
+            </p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.40</p>
+            <p>A code representing the destination of a patient on completion of a Hospital Provider Spell, or a note that the PATIENT died or was a still birth. This is the most appropriate vocabulary that currently supports the disposition/discharge described in the ED &amp; OOH domains. This vocabulary needs to be refined.</p>
+         </Description>
+   <concept code="19">
+      <displayName>Usual place of residence unless listed below, for example, a private dwelling whether owner occupied or owned by local authority, housing association or other landlord. This includes wardened accommodation but not residential accommodation where health care is provided. It also includes PATIENTS with no fixed abode.</displayName>
+   </concept>
+   <concept code="29">
+      <displayName>Temporary place of residence when usually resident elsewhere (includes hotel, residential educational establishment)</displayName>
+   </concept>
+   <concept code="30">
+      <displayName>Repatriation from high security psychiatric accommodation in an NHS hospital provider (NHS trust)</displayName>
+   </concept>
+   <concept code="37">
+      <displayName>Court</displayName>
+   </concept>
+   <concept code="38">
+      <displayName>Penal establishment or police station</displayName>
+   </concept>
+   <concept code="48">
+      <displayName>High Security Psychiatric Hospital, Scotland</displayName>
+   </concept>
+   <concept code="49">
+      <displayName>NHS other hospital provider - high security psychiatric accommodation</displayName>
+   </concept>
+   <concept code="50">
+      <displayName>NHS other hospital provider - medium secure unit</displayName>
+   </concept>
+   <concept code="51">
+      <displayName>NHS other hospital provider - ward for general patients or the younger physically disabled</displayName>
+   </concept>
+   <concept code="52">
+      <displayName>NHS other hospital provider - ward for maternity patients or neonates</displayName>
+   </concept>
+   <concept code="53">
+      <displayName>NHS other hospital provider - ward for patients who are mentally ill or have learning disabilities</displayName>
+   </concept>
+   <concept code="54">
+      <displayName>NHS run care home</displayName>
+   </concept>
+   <concept code="65">
+      <displayName>Local Authority residential accommodation i.e. where care is provided</displayName>
+   </concept>
+   <concept code="66">
+      <displayName>Local Authority foster care</displayName>
+   </concept>
+   <concept code="79">
+      <displayName>Not applicable - patient died or still birth</displayName>
+   </concept>
+   <concept code="84">
+      <displayName>Non-NHS run hospital - medium secure unit</displayName>
+   </concept>
+   <concept code="85">
+      <displayName>Non-NHS (other than Local Authority) run care home</displayName>
+   </concept>
+   <concept code="87">
+      <displayName>Non-NHS run hospital</displayName>
+   </concept>
+   <concept code="88">
+      <displayName>Non-NHS (other than Local Authority) run Hospice</displayName>
+   </concept>
+</vocabulary>

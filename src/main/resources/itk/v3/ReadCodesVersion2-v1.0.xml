@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReadCodesVersion2" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.6.2">
+   <Description>
+            <p>A clinical terminology (i.e. coding system) owned by the NHS. It is the forerunner of the Clinical Terms (Read) Version 3. Its OID is 2.16.840.1.113883.2.1.6.2.</p>
+            <p>Any code from the Read Codes Version2.</p>
+         </Description>
+</vocabulary>

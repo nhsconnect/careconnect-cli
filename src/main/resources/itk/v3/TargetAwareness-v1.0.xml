@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TargetAwareness" version="1.0" status="active"
+            id="2.16.840.1.113883.5.137">
+   <Description>
+            <p>
+               <p>This vocabulary contains a set of codes to describe the extent to which the subject is aware of a situation.    </p>
+               <p>For example, a patient / carer's awareness of a problem / diagnosis.<br/>
+               </p>
+            </p>
+         </Description>
+   <concept code="D">
+      <displayName>denying</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>full awareness</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>incapable</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>marginal</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>partial</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>uninformed</displayName>
+   </concept>
+</vocabulary>

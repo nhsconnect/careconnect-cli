@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DataQualityInvestigationReason" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.248">
+   <Description>
+            <p>A list of codes indicating the reason type for the data quality investigation.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Potential Duplicate</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Potential Confusion</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Under DQ Investigation</displayName>
+   </concept>
+</vocabulary>

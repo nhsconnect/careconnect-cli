@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SCRConsentToStore" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.58">
+   <Description>SCR Consent to Store: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="No">
+      <displayName>Patient does not wish to have a Summary Care Record.</displayName>
+   </concept>
+   <concept code="NULL">
+      <displayName>Patient must be asked every time for permission to view their Summary Care Record.</displayName>
+   </concept>
+   <concept code="Yes">
+      <displayName>Patient need not be asked every time for permission to view their Summary Care Record.</displayName>
+   </concept>
+</vocabulary>

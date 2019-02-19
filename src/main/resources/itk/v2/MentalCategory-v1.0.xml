@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MentalCategory" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.49">
+   <Description>Mental Category: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Mental illness</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Mental impairment</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Severe mental impairment</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Psychopathic disorder</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Not specified</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

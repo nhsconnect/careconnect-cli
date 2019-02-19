@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Newborn blood spot screening result substatus" type="Realm Concept" setId="67181000000132" version="2" id="61091000000138" refId="966291000000106" memberCount="198" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="931981000000104">
+<displayName lang="en" type="PT">Result consistent with haemoglobin C carrier</displayName>
+<displayName lang="en" type="FSN">Result consistent with haemoglobin C carrier (finding)</displayName>
+</concept>
+<concept code="932021000000108">
+<displayName lang="en" type="PT">Result consistent with haemoglobin D carrier</displayName>
+<displayName lang="en" type="FSN">Result consistent with haemoglobin D carrier (finding)</displayName>
+</concept>
+<concept code="932061000000100">
+<displayName lang="en" type="PT">Result consistent with haemoglobin E carrier</displayName>
+<displayName lang="en" type="FSN">Result consistent with haemoglobin E carrier (finding)</displayName>
+</concept>
+<concept code="932101000000103">
+<displayName lang="en" type="PT">Result consistent with haemoglobin O-Arab carrier</displayName>
+<displayName lang="en" type="FSN">Result consistent with haemoglobin O-Arab carrier (finding)</displayName>
+</concept>
+<concept code="946021000000105">
+<displayName lang="en" type="PT">Phenylketonuria screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="946041000000103">
+<displayName lang="en" type="PT">Phenylketonuria screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="946061000000102">
+<displayName lang="en" type="PT">Phenylketonuria screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="946081000000106">
+<displayName lang="en" type="PT">Phenylketonuria screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="946161000000101">
+<displayName lang="en" type="PT">Phenylketonuria screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="946181000000105">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="946201000000109">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="946221000000100">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="946281000000104">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="946361000000104">
+<displayName lang="en" type="PT">Phenylketonuria screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="946381000000108">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="946431000000102">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="946451000000109">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="946481000000103">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="946501000000107">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="946521000000103">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="946541000000105">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="946601000000106">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="946621000000102">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="946661000000105">
+<displayName lang="en" type="PT">Phenylketonuria not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="947011000000101">
+<displayName lang="en" type="PT">Phenylketonuria screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="947031000000109">
+<displayName lang="en" type="PT">Cystic fibrosis screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="947041000000100">
+<displayName lang="en" type="PT">Cystic fibrosis screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947061000000104">
+<displayName lang="en" type="PT">Cystic fibrosis screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="947081000000108">
+<displayName lang="en" type="PT">Cystic fibrosis screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947101000000102">
+<displayName lang="en" type="PT">Cystic fibrosis screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="947121000000106">
+<displayName lang="en" type="PT">Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="947141000000104">
+<displayName lang="en" type="PT">Cystic fibrosis screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="947161000000103">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="947181000000107">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="947201000000106">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="947221000000102">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: possible faecal contamination</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: possible faecal contamination (finding)</displayName>
+</concept>
+<concept code="947241000000109">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="947261000000105">
+<displayName lang="en" type="PT">Phenylketonuria screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="947281000000101">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="947301000000100">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="947321000000109">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="947341000000102">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="947361000000101">
+<displayName lang="en" type="PT">Cystic fibrosis screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="947381000000105">
+<displayName lang="en" type="PT">Cystic fibrosis screening, inconclusive result</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening, inconclusive result (finding)</displayName>
+</concept>
+<concept code="947401000000105">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete: more than 8 weeks, too old for screening</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not screened for or screening incomplete: more than 8 weeks, too old for screening (finding)</displayName>
+</concept>
+<concept code="947421000000101">
+<displayName lang="en" type="PT">Homocystinuria screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="947491000000103">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="947511000000106">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="947531000000103">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="947551000000105">
+<displayName lang="en" type="PT">Cystic fibrosis not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="947591000000102">
+<displayName lang="en" type="PT">Sickle cell screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="947611000000105">
+<displayName lang="en" type="PT">Sickle cell screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947631000000102">
+<displayName lang="en" type="PT">Sickle cell screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="947651000000109">
+<displayName lang="en" type="PT">Sickle cell screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947671000000100">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="947691000000101">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947711000000104">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="947731000000107">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947751000000100">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="947771000000109">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947791000000108">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="947811000000109">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="947951000000103">
+<displayName lang="en" type="PT">Sickle cell screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="947971000000107">
+<displayName lang="en" type="PT">Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="947991000000106">
+<displayName lang="en" type="PT">Sickle cell screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="948011000000100">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="948031000000108">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="948071000000105">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="948241000000108">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete, over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Sickle cell not screened for or screening incomplete, over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="948261000000109">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Sickle cell not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="948281000000100">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Sickle cell not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="948301000000104">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Sickle cell not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="948321000000108">
+<displayName lang="en" type="PT">Sickle cell not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Sickle cell not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="948421000000100">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="948441000000107">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="948461000000108">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="948481000000104">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="948501000000108">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="948521000000104">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="948541000000106">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="948561000000107">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="948581000000103">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="948601000000107">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="948641000000105">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="948661000000106">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="948681000000102">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, too premature for testing</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, too premature for testing (finding)</displayName>
+</concept>
+<concept code="948721000000109">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening, borderline result</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening, borderline result (finding)</displayName>
+</concept>
+<concept code="948741000000102">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="948761000000101">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="948781000000105">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="948801000000106">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="948821000000102">
+<displayName lang="en" type="PT">Congenital hypothyroidism not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="948841000000109">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="948861000000105">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="948881000000101">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="948901000000103">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="948941000000100">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="948981000000108">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="949001000000105">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="949021000000101">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="949041000000108">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="949081000000100">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="949121000000102">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="949141000000109">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="949161000000105">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="949181000000101">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="949201000000102">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="949281000000107">
+<displayName lang="en" type="PT">Maple syrup urine disease screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="949381000000103">
+<displayName lang="en" type="PT">Maple syrup urine disease screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="949441000000100">
+<displayName lang="en" type="PT">Maple syrup urine disease screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="949461000000104">
+<displayName lang="en" type="PT">Maple syrup urine disease screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="949541000000101">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="949581000000109">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="949601000000100">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="949641000000102">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="949661000000101">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="949681000000105">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="949701000000107">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="949721000000103">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="949741000000105">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="949761000000106">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="949781000000102">
+<displayName lang="en" type="PT">Maple syrup urine disease screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="949861000000102">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="949941000000107">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="949981000000104">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="950021000000106">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="950041000000104">
+<displayName lang="en" type="PT">Maple syrup urine disease not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Maple syrup urine disease not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="950271000000102">
+<displayName lang="en" type="PT">Homocystinuria screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="950351000000103">
+<displayName lang="en" type="PT">Homocystinuria screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="950371000000107">
+<displayName lang="en" type="PT">Homocystinuria screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="950391000000106">
+<displayName lang="en" type="PT">Homocystinuria screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="950461000000108">
+<displayName lang="en" type="PT">Homocystinuria screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="950481000000104">
+<displayName lang="en" type="PT">Homocystinuria screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="950501000000108">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="950521000000104">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="950541000000106">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="950561000000107">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="950581000000103">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="950601000000107">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="950621000000103">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="950641000000105">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="950661000000106">
+<displayName lang="en" type="PT">Homocystinuria screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Homocystinuria screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="950701000000100">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="950721000000109">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="950821000000102">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="950841000000109">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="950861000000105">
+<displayName lang="en" type="PT">Homocystinuria not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Homocystinuria not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="950961000000104">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="950981000000108">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="951001000000109">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="951021000000100">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="951141000000108">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="951241000000103">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="951321000000103">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="951361000000106">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="951381000000102">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="951401000000102">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="951421000000106">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="951441000000104">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="951461000000103">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="951481000000107">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="951501000000103">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="951521000000107">
+<displayName lang="en" type="PT">Isovaleric acidaemia screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="951581000000108">
+<displayName lang="en" type="PT">Isovaleric acidaemia not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="951601000000104">
+<displayName lang="en" type="PT">Isovaleric acidaemia, not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia, not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="951621000000108">
+<displayName lang="en" type="PT">Isovaleric acidaemia not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="951641000000101">
+<displayName lang="en" type="PT">Isovaleric acidaemia not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="951661000000100">
+<displayName lang="en" type="PT">Isovaleric acidaemia not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Isovaleric acidaemia not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="951861000000101">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening declined, no history of being screened</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening declined, no history of being screened (situation)</displayName>
+</concept>
+<concept code="951881000000105">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening declined, screened in UK (as reported by parents) with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening declined, screened in United Kingdom (as reported by parents) with no evidence of result (situation)</displayName>
+</concept>
+<concept code="951901000000108">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening declined, screened outside UK with evidence of result</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening declined, screened outside United Kingdom with evidence of result (situation)</displayName>
+</concept>
+<concept code="951921000000104">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening declined, screened outside UK with no evidence of result</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening declined, screened outside United Kingdom with no evidence of result (situation)</displayName>
+</concept>
+<concept code="951961000000107">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, too young for reliable screening</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, too young for reliable screening (finding)</displayName>
+</concept>
+<concept code="951981000000103">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, sample taken too soon after blood transfusion (less than 72 hours)</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, sample taken too soon after blood transfusion (less than 72 hours) (finding)</displayName>
+</concept>
+<concept code="952001000000103">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, insufficient sample</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, insufficient sample (finding)</displayName>
+</concept>
+<concept code="952021000000107">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample (blood quality): incorrect blood application</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample (blood quality): incorrect blood application (finding)</displayName>
+</concept>
+<concept code="952041000000100">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+<concept code="952061000000104">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: day 0 and day 5 on same card</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: day 0 and day 5 on same card (finding)</displayName>
+</concept>
+<concept code="952081000000108">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="952101000000102">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="952121000000106">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="952141000000104">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="952161000000103">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="952181000000107">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="952221000000102">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete: over 1 year old, too old for screening</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete: over 1 year old, too old for screening (finding)</displayName>
+</concept>
+<concept code="952241000000109">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete, moved out of area</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete, moved out of area (finding)</displayName>
+</concept>
+<concept code="952261000000105">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete, not contactable, reasonable efforts made</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete, not contactable, reasonable efforts made (finding)</displayName>
+</concept>
+<concept code="952281000000101">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete, baby died</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete, baby died (finding)</displayName>
+</concept>
+<concept code="952301000000100">
+<displayName lang="en" type="PT">Glutaric aciduria type 1 not screened for or screening incomplete, not required, previous valid result</displayName>
+<displayName lang="en" type="FSN">Glutaric aciduria type 1 not screened for or screening incomplete, not required, previous valid result (finding)</displayName>
+</concept>
+<concept code="952321000000109">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: NHS number missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: National Health Service number missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="952341000000102">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: date of sample missing/not accurately recorded</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: date of sample missing/not accurately recorded (finding)</displayName>
+</concept>
+<concept code="952361000000101">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: date of birth not accurately matched</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: date of birth not accurately matched (finding)</displayName>
+</concept>
+<concept code="952381000000105">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: expired card used</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: expired card used (finding)</displayName>
+</concept>
+<concept code="952401000000105">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: more than 14 days in transit, too old for analysis</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: more than 14 days in transit, too old for analysis (finding)</displayName>
+</concept>
+<concept code="952421000000101">
+<displayName lang="en" type="PT">Sickle cell screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="952521000000100">
+<displayName lang="en" type="PT">Sickle cell screening, too premature for testing</displayName>
+<displayName lang="en" type="FSN">Sickle cell screening, too premature for testing (finding)</displayName>
+</concept>
+<concept code="955961000000109">
+<displayName lang="en" type="PT">Medium chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: damaged in transit</displayName>
+<displayName lang="en" type="FSN">Medium chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample: damaged in transit (finding)</displayName>
+</concept>
+<concept code="955991000000103">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): compressed/damaged</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): compressed/damaged (finding)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="BackOfficeWorkItemType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.217">
+   <Description>
+            <p>An indicator for the residential status of a patient.</p>
+         </Description>
+   <concept code="1">
+      <displayName>General Request</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Investigate Death Status</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Investigate Gender</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Investigate Multiple Registrations</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Investigate Removal</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Suspected Duplicate or Confusion</displayName>
+   </concept>
+</vocabulary>

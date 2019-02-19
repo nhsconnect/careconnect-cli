@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="BusinessSectionType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.159">
+   <Description>
+            <p>Indicates the business section heading which the text and coded entry are categorised by.</p>
+         </Description>
+   <concept code="GI">
+      <displayName>General Information</displayName>
+   </concept>
+   <concept code="CCI">
+      <displayName>Current Care Event Information</displayName>
+   </concept>
+   <concept code="RFP">
+      <displayName>Recommendation and Future Plan</displayName>
+   </concept>
+   <concept code="AI">
+      <displayName>Administrative Information</displayName>
+   </concept>
+   <concept code="PI">
+      <displayName>Presenting Information</displayName>
+   </concept>
+   <concept code="CCEI">
+      <displayName>Current Care Event Information</displayName>
+   </concept>
+   <concept code="AFRP">
+      <displayName>Advice, Recommendations and Future Plan</displayName>
+   </concept>
+   <concept code="ARFP">
+      <displayName>Advice, Recommendations and Future Plan</displayName>
+   </concept>
+</vocabulary>

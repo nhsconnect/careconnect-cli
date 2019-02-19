@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Sleep" type="Realm Concept" setId="67881000000136" version="6" id="7671000000137" refId="999001621000000106" memberCount="245" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="3745000">
+<displayName lang="en" type="PT">Sleep-wake schedule disorder</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder</displayName>
+<displayName lang="en" type="SY">Sleep rhythm problem</displayName>
+</concept>
+<concept code="3972004">
+<displayName lang="en" type="PT">Primary insomnia</displayName>
+<displayName lang="en" type="FSN">Primary insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Idiopathic insomnia</displayName>
+</concept>
+<concept code="12262002">
+<displayName lang="en" type="PT">Restless sleep</displayName>
+<displayName lang="en" type="FSN">Restless sleep (finding)</displayName>
+<displayName lang="en" type="SY">Tosses and turns in sleep</displayName>
+<displayName lang="en" type="SY">Tossing and turning during sleep</displayName>
+</concept>
+<concept code="17402007">
+<displayName lang="en" type="PT">Pavor diurnus</displayName>
+<displayName lang="en" type="FSN">Pavor diurnus (disorder)</displayName>
+<displayName lang="en" type="SY">Day terrors</displayName>
+</concept>
+<concept code="22574000">
+<displayName lang="en" type="PT">Cocaine-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Cocaine-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Cocaine induced sleep disorder</displayName>
+</concept>
+<concept code="24121004">
+<displayName lang="en" type="PT">Insomnia disorder related to another mental disorder</displayName>
+<displayName lang="en" type="FSN">Insomnia disorder related to another mental disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Insomnia due to mental disorder</displayName>
+</concept>
+<concept code="24825006">
+<displayName lang="en" type="PT">Central alveolar hypoventilation syndrome</displayName>
+<displayName lang="en" type="FSN">Central alveolar hypoventilation syndrome (disorder)</displayName>
+</concept>
+<concept code="25753007">
+<displayName lang="en" type="PT">Amphetamine-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Amphetamine-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Amphetamine induced sleep disorder</displayName>
+</concept>
+<concept code="26677001">
+<displayName lang="en" type="PT">Sleep pattern disturbance</displayName>
+<displayName lang="en" type="FSN">Sleep pattern disturbance (finding)</displayName>
+<displayName lang="en" type="SY">Disturbed sleep pattern</displayName>
+</concept>
+<concept code="27405005">
+<displayName lang="en-GB" type="PT">Central sleep apnoea syndrome</displayName>
+<displayName lang="en" type="FSN">Central sleep apnea syndrome (disorder)</displayName>
+<displayName lang="en-GB" type="SY">CSA - Central sleep apnoea</displayName>
+<displayName lang="en-GB" type="SY">Central sleep apnoea</displayName>
+</concept>
+<concept code="29373008">
+<displayName lang="en" type="PT">Light sleep</displayName>
+<displayName lang="en" type="FSN">Light sleep (finding)</displayName>
+<displayName lang="en" type="SY">Dysnystaxis</displayName>
+</concept>
+<concept code="31537005">
+<displayName lang="en" type="PT">Sleep-wake schedule disorder, advanced phase type</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder, advanced phase type (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, advanced sleep phase</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, advanced sleep phase type</displayName>
+</concept>
+<concept code="36124002">
+<displayName lang="en" type="PT">Primary hypersomnia</displayName>
+<displayName lang="en" type="FSN">Primary hypersomnia (disorder)</displayName>
+</concept>
+<concept code="36321004">
+<displayName lang="en" type="PT">Sleeptalking</displayName>
+<displayName lang="en" type="FSN">Sleeptalking (finding)</displayName>
+<displayName lang="en" type="SY">Sleep talking</displayName>
+<displayName lang="en" type="SY">Somniloquism</displayName>
+</concept>
+<concept code="39898005">
+<displayName lang="en" type="PT">Sleep disorder</displayName>
+<displayName lang="en" type="FSN">Sleep disorder (disorder)</displayName>
+</concept>
+<concept code="41016007">
+<displayName lang="en" type="PT">Twilight sleep</displayName>
+<displayName lang="en" type="FSN">Twilight sleep (finding)</displayName>
+</concept>
+<concept code="41083005">
+<displayName lang="en" type="PT">Alcohol-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Alcohol-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Alcohol induced sleep disorder</displayName>
+</concept>
+<concept code="41975002">
+<displayName lang="en-GB" type="PT">Insomnia with sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Insomnia with sleep apnea (disorder)</displayName>
+</concept>
+<concept code="44186003">
+<displayName lang="en" type="PT">Dyssomnia</displayName>
+<displayName lang="en" type="FSN">Dyssomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep disturbance</displayName>
+<displayName lang="en" type="SY">Sleep problem</displayName>
+</concept>
+<concept code="44455001">
+<displayName lang="en" type="PT">Hypersomnia disorder related to a known organic factor</displayName>
+<displayName lang="en" type="FSN">Hypersomnia disorder related to a known organic factor (disorder)</displayName>
+</concept>
+<concept code="44780000">
+<displayName lang="en" type="PT">Hypnagogic hallucinations</displayName>
+<displayName lang="en" type="FSN">Hypnagogic hallucinations (finding)</displayName>
+</concept>
+<concept code="48091006">
+<displayName lang="en" type="PT">Prolonged sleep</displayName>
+<displayName lang="en" type="FSN">Prolonged sleep (finding)</displayName>
+</concept>
+<concept code="50702007">
+<displayName lang="en-GB" type="PT">Sleep-wake schedule disorder, disorganised type</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder, disorganized type (disorder)</displayName>
+</concept>
+<concept code="53888004">
+<displayName lang="en-GB" type="PT">Disturbance in sleep behaviour</displayName>
+<displayName lang="en" type="FSN">Disturbance in sleep behavior (finding)</displayName>
+</concept>
+<concept code="54230003">
+<displayName lang="en" type="PT">Mixed insomnia</displayName>
+<displayName lang="en" type="FSN">Mixed insomnia (disorder)</displayName>
+</concept>
+<concept code="54532007">
+<displayName lang="en" type="PT">Sleep-wake schedule disorder, frequently changing type</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder, frequently changing type (disorder)</displayName>
+</concept>
+<concept code="56194001">
+<displayName lang="en" type="PT">Caffeine-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Caffeine-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Caffeine induced sleep disorder</displayName>
+</concept>
+<concept code="58690002">
+<displayName lang="en" type="PT">Parasomnia</displayName>
+<displayName lang="en" type="FSN">Parasomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Parasomnia (sleep disorder)</displayName>
+</concept>
+<concept code="59050008">
+<displayName lang="en" type="PT">Initial insomnia</displayName>
+<displayName lang="en" type="FSN">Initial insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Cannot get off to sleep</displayName>
+<displayName lang="en" type="SY">Difficulty falling asleep</displayName>
+<displayName lang="en" type="SY">Difficulty getting to sleep</displayName>
+<displayName lang="en" type="SY">Difficulty in sleep initiation</displayName>
+<displayName lang="en" type="SY">Vesperal insomnia</displayName>
+</concept>
+<concept code="60380001">
+<displayName lang="en" type="PT">Narcolepsy</displayName>
+<displayName lang="en" type="FSN">Narcolepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Gelineau&apos;s syndrome</displayName>
+<displayName lang="en" type="SY">Narcoleptic syndrome</displayName>
+<displayName lang="en" type="SY">Paroxysmal sleep</displayName>
+</concept>
+<concept code="67062000">
+<displayName lang="en" type="PT">Terminal insomnia</displayName>
+<displayName lang="en" type="FSN">Terminal insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Early waking</displayName>
+<displayName lang="en" type="SY">Matutinal insomnia</displayName>
+<displayName lang="en" type="SY">Wakes and cannot sleep again</displayName>
+<displayName lang="en" type="SY">Wakes early</displayName>
+</concept>
+<concept code="67233009">
+<displayName lang="en" type="PT">Middle insomnia</displayName>
+<displayName lang="en" type="FSN">Middle insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Broken sleep</displayName>
+<displayName lang="en" type="SY">Difficulty in sleep maintenance</displayName>
+<displayName lang="en" type="SY">Difficulty staying asleep</displayName>
+<displayName lang="en" type="SY">Fitful sleep</displayName>
+<displayName lang="en" type="SY">Interrupted sleep</displayName>
+<displayName lang="en" type="SY">Keeps waking up</displayName>
+<displayName lang="en" type="SY">Night waking</displayName>
+</concept>
+<concept code="69020003">
+<displayName lang="en" type="PT">Abnormal rapid eye movement sleep</displayName>
+<displayName lang="en" type="FSN">Abnormal rapid eye movement sleep (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal REM sleep</displayName>
+</concept>
+<concept code="69690008">
+<displayName lang="en" type="PT">Hypnapompic hallucinations</displayName>
+<displayName lang="en" type="FSN">Hypnapompic hallucinations (finding)</displayName>
+</concept>
+<concept code="73430006">
+<displayName lang="en-GB" type="PT">Sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Sleep apnea (disorder)</displayName>
+<displayName lang="en-GB" type="SY">SAS - Sleep apnoea syndrome</displayName>
+<displayName lang="en-GB" type="SY">Sleep apnoea syndrome</displayName>
+<displayName lang="en-GB" type="SY">Sleep hypopnoea</displayName>
+</concept>
+<concept code="77692006">
+<displayName lang="en" type="PT">Hypersomnia</displayName>
+<displayName lang="en" type="FSN">Hypersomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Excessive sleep</displayName>
+<displayName lang="en" type="SY">Excessive sleepiness</displayName>
+<displayName lang="en" type="SY">Hypersomnia (excessive sleeping)</displayName>
+<displayName lang="en" type="SY">Sleeps too much</displayName>
+</concept>
+<concept code="78275009">
+<displayName lang="en-GB" type="PT">Obstructive sleep apnoea syndrome</displayName>
+<displayName lang="en" type="FSN">Obstructive sleep apnea syndrome (disorder)</displayName>
+<displayName lang="en-GB" type="SY">OSA - Obstructive sleep apnoea</displayName>
+<displayName lang="en-GB" type="SY">Obstructive sleep apnoea</displayName>
+</concept>
+<concept code="79280005">
+<displayName lang="en-GB" type="PT">Hypersomnia with sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Hypersomnia with sleep apnea (disorder)</displayName>
+</concept>
+<concept code="80495009">
+<displayName lang="en" type="PT">Sleep walking disorder</displayName>
+<displayName lang="en" type="FSN">Sleep walking disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep walking</displayName>
+<displayName lang="en" type="SY">Sleepwalking</displayName>
+<displayName lang="en" type="SY">Sleepwalking disorder</displayName>
+<displayName lang="en" type="SY">Somnambulism</displayName>
+</concept>
+<concept code="80623000">
+<displayName lang="en" type="PT">Sleep-wake schedule disorder, delayed phase type</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder, delayed phase type (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, delayed sleep phase</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, delayed sleep phase type</displayName>
+<displayName lang="en" type="SY">Delayed sleep phase syndrome</displayName>
+</concept>
+<concept code="81608000">
+<displayName lang="en" type="PT">Insomnia disorder related to known organic factor</displayName>
+<displayName lang="en" type="FSN">Insomnia disorder related to known organic factor (disorder)</displayName>
+<displayName lang="en" type="SY">Organic insomnia</displayName>
+</concept>
+<concept code="83157008">
+<displayName lang="en" type="PT">Fatal familial insomnia</displayName>
+<displayName lang="en" type="FSN">Fatal familial insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">FFI - Familial fatal insomnia</displayName>
+<displayName lang="en" type="SY">Familial fatal insomnia</displayName>
+</concept>
+<concept code="85418005">
+<displayName lang="en" type="PT">Dream disorder</displayName>
+<displayName lang="en" type="FSN">Dream disorder (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal dreaming</displayName>
+<displayName lang="en" type="SY">Abnormal dreams</displayName>
+</concept>
+<concept code="88926005">
+<displayName lang="en" type="PT">Opioid-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Opioid-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Opioid induced sleep disorder</displayName>
+</concept>
+<concept code="88982005">
+<displayName lang="en" type="PT">Rebound insomnia</displayName>
+<displayName lang="en" type="FSN">Rebound insomnia (disorder)</displayName>
+</concept>
+<concept code="89415002">
+<displayName lang="en" type="PT">Hypersomnia disorder related to another mental disorder</displayName>
+<displayName lang="en" type="FSN">Hypersomnia disorder related to another mental disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Hypersomnia due to mental disorder</displayName>
+<displayName lang="en" type="SY">Hypersomnia due to psychological disorder</displayName>
+</concept>
+<concept code="89675003">
+<displayName lang="en" type="PT">Sleep terror disorder</displayName>
+<displayName lang="en" type="FSN">Sleep terror disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep terrors</displayName>
+</concept>
+<concept code="95631006">
+<displayName lang="en" type="PT">Drowsiness of the newborn</displayName>
+<displayName lang="en" type="FSN">Drowsiness of the newborn (disorder)</displayName>
+<displayName lang="en" type="SY">Neonatal drowsiness</displayName>
+<displayName lang="en" type="SY">Neonatal somnolence</displayName>
+<displayName lang="en" type="SY">Somnolence of the newborn</displayName>
+</concept>
+<concept code="102549009">
+<displayName lang="en" type="PT">Cramp in lower leg associated with rest</displayName>
+<displayName lang="en" type="FSN">Cramp in lower leg associated with rest (finding)</displayName>
+<displayName lang="en" type="SY">Night cramps</displayName>
+<displayName lang="en" type="SY">Nocturnal lower leg cramp</displayName>
+<displayName lang="en" type="SY">Sleep related lower leg cramp</displayName>
+</concept>
+<concept code="103287009">
+<displayName lang="en" type="PT">Vertigo on awakening</displayName>
+<displayName lang="en" type="FSN">Vertigo on awakening (finding)</displayName>
+<displayName lang="en" type="SY">Matutinal vertigo</displayName>
+</concept>
+<concept code="111488004">
+<displayName lang="en" type="PT">Kleine-Levin syndrome</displayName>
+<displayName lang="en" type="FSN">Kleine-Levin syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Kleine Levin syndrome</displayName>
+</concept>
+<concept code="111489007">
+<displayName lang="en" type="PT">Breathing-related sleep disorder</displayName>
+<displayName lang="en" type="FSN">Breathing-related sleep disorder (disorder)</displayName>
+</concept>
+<concept code="130989002">
+<displayName lang="en" type="PT">Sleep deprivation</displayName>
+<displayName lang="en" type="FSN">Sleep deprivation (finding)</displayName>
+<displayName lang="en" type="SY">Lack of adequate sleep</displayName>
+</concept>
+<concept code="161869003">
+<displayName lang="en" type="PT">Not tired</displayName>
+<displayName lang="en" type="FSN">Not tired (situation)</displayName>
+</concept>
+<concept code="162204000">
+<displayName lang="en" type="PT">Late insomnia</displayName>
+<displayName lang="en" type="FSN">Late insomnia (disorder)</displayName>
+</concept>
+<concept code="162207007">
+<displayName lang="en" type="PT">C/O nightmares</displayName>
+<displayName lang="en" type="FSN">Complaining of nightmares (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of nightmares</displayName>
+<displayName lang="en" type="SY">Nightmares - symptom</displayName>
+</concept>
+<concept code="162704004">
+<displayName lang="en" type="PT">O/E - drowsy</displayName>
+<displayName lang="en" type="FSN">On examination - drowsy (finding)</displayName>
+<displayName lang="en" type="SY">On examination - drowsy</displayName>
+</concept>
+<concept code="170631002">
+<displayName lang="en" type="PT">Asthma disturbing sleep</displayName>
+<displayName lang="en" type="FSN">Asthma disturbing sleep (finding)</displayName>
+</concept>
+<concept code="170632009">
+<displayName lang="en" type="PT">Asthma causing night waking</displayName>
+<displayName lang="en" type="FSN">Asthma causing night waking (finding)</displayName>
+</concept>
+<concept code="170633004">
+<displayName lang="en" type="PT">Asthma disturbs sleep weekly</displayName>
+<displayName lang="en" type="FSN">Asthma disturbs sleep weekly (finding)</displayName>
+</concept>
+<concept code="170634005">
+<displayName lang="en" type="PT">Asthma disturbs sleep frequently</displayName>
+<displayName lang="en" type="FSN">Asthma disturbs sleep frequently (finding)</displayName>
+</concept>
+<concept code="170635006">
+<displayName lang="en" type="PT">Asthma not disturbing sleep</displayName>
+<displayName lang="en" type="FSN">Asthma not disturbing sleep (finding)</displayName>
+</concept>
+<concept code="170636007">
+<displayName lang="en" type="PT">Asthma never disturbs sleep</displayName>
+<displayName lang="en" type="FSN">Asthma never disturbs sleep (finding)</displayName>
+</concept>
+<concept code="191997003">
+<displayName lang="en" type="PT">Persistent insomnia</displayName>
+<displayName lang="en" type="FSN">Persistent insomnia (disorder)</displayName>
+</concept>
+<concept code="191999000">
+<displayName lang="en" type="PT">Persistent hypersomnia</displayName>
+<displayName lang="en" type="FSN">Persistent hypersomnia (disorder)</displayName>
+</concept>
+<concept code="192000006">
+<displayName lang="en" type="PT">Work shift change</displayName>
+<displayName lang="en" type="FSN">Work shift change (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, shift work type</displayName>
+</concept>
+<concept code="192003008">
+<displayName lang="en" type="PT">Sleep drunkenness</displayName>
+<displayName lang="en" type="FSN">Sleep drunkenness (disorder)</displayName>
+</concept>
+<concept code="192004002">
+<displayName lang="en" type="PT">Repeated rapid eye movement sleep interruptions</displayName>
+<displayName lang="en" type="FSN">Repeated rapid eye movement sleep interruptions (disorder)</displayName>
+</concept>
+<concept code="192007009">
+<displayName lang="en" type="PT">Short-sleeper</displayName>
+<displayName lang="en" type="FSN">Short-sleeper (disorder)</displayName>
+</concept>
+<concept code="192008004">
+<displayName lang="en" type="PT">Reversed sleep-wake cycle</displayName>
+<displayName lang="en" type="FSN">Reversed sleep-wake cycle (disorder)</displayName>
+<displayName lang="en" type="SY">Inversion of sleep rhythm</displayName>
+<displayName lang="en" type="SY">Sleep rhythm inversion</displayName>
+</concept>
+<concept code="192454004">
+<displayName lang="en" type="PT">Nonorganic insomnia</displayName>
+<displayName lang="en" type="FSN">Nonorganic insomnia (disorder)</displayName>
+</concept>
+<concept code="193042000">
+<displayName lang="en" type="PT">Cataplexy and narcolepsy</displayName>
+<displayName lang="en" type="FSN">Cataplexy and narcolepsy (disorder)</displayName>
+</concept>
+<concept code="193462001">
+<displayName lang="en" type="PT">Insomnia</displayName>
+<displayName lang="en" type="FSN">Insomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Sleeplessness</displayName>
+</concept>
+<concept code="194437008">
+<displayName lang="en" type="PT">Disorders of initiating and maintaining sleep</displayName>
+<displayName lang="en" type="FSN">Disorders of initiating and maintaining sleep (disorder)</displayName>
+</concept>
+<concept code="194439006">
+<displayName lang="en" type="PT">Disorders of excessive somnolence</displayName>
+<displayName lang="en" type="FSN">Disorders of excessive somnolence (disorder)</displayName>
+<displayName lang="en" type="SY">Disorder of excessive somnolence</displayName>
+</concept>
+<concept code="198437004">
+<displayName lang="en" type="PT">Menopausal sleeplessness</displayName>
+<displayName lang="en" type="FSN">Menopausal sleeplessness (disorder)</displayName>
+</concept>
+<concept code="224960004">
+<displayName lang="en" type="PT">Tired</displayName>
+<displayName lang="en" type="FSN">Tired (finding)</displayName>
+</concept>
+<concept code="225522006">
+<displayName lang="en" type="PT">Feels dreams are real</displayName>
+<displayName lang="en" type="FSN">Feels dreams are real (finding)</displayName>
+</concept>
+<concept code="230414008">
+<displayName lang="en" type="PT">Epilepsy with grand mal seizures on awakening</displayName>
+<displayName lang="en" type="FSN">Epilepsy with grand mal seizures on awakening (disorder)</displayName>
+</concept>
+<concept code="230439004">
+<displayName lang="en" type="PT">Epilepsy with continuous spike wave during slow-wave sleep</displayName>
+<displayName lang="en" type="FSN">Epilepsy with continuous spike wave during slow-wave sleep (disorder)</displayName>
+<displayName lang="en" type="SY">ESSS - Epilepsy with continuous spike wave during slow-wave sleep</displayName>
+<displayName lang="en" type="SY">Electrical status epilepticus of slow-wave sleep</displayName>
+</concept>
+<concept code="230488004">
+<displayName lang="en" type="PT">Hypersomnia of non-organic origin</displayName>
+<displayName lang="en" type="FSN">Hypersomnia of non-organic origin (disorder)</displayName>
+<displayName lang="en" type="SY">Hypersomnia, nonorganic</displayName>
+</concept>
+<concept code="230489007">
+<displayName lang="en" type="PT">Excessive daytime sleepiness - normal night sleep</displayName>
+<displayName lang="en" type="FSN">Excessive daytime sleepiness - normal night sleep (disorder)</displayName>
+</concept>
+<concept code="230490003">
+<displayName lang="en" type="PT">Excessive day and night-time sleepiness</displayName>
+<displayName lang="en" type="FSN">Excessive day and night-time sleepiness (disorder)</displayName>
+<displayName lang="en" type="SY">24 hour hypersomnolence</displayName>
+</concept>
+<concept code="230491004">
+<displayName lang="en" type="PT">Postviral excessive daytime sleepiness</displayName>
+<displayName lang="en" type="FSN">Postviral excessive daytime sleepiness (disorder)</displayName>
+</concept>
+<concept code="230492006">
+<displayName lang="en" type="PT">Excess daytime sleepiness with sleep paralysis</displayName>
+<displayName lang="en" type="FSN">Excess daytime sleepiness with sleep paralysis (disorder)</displayName>
+</concept>
+<concept code="230493001">
+<displayName lang="en-GB" type="PT">Mixed sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Mixed sleep apnea (disorder)</displayName>
+</concept>
+<concept code="230494007">
+<displayName lang="en-GB" type="PT">Alveolar sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Alveolar sleep apnea (disorder)</displayName>
+</concept>
+<concept code="230495008">
+<displayName lang="en" type="PT">Transient sleep-wake rhythm disorder</displayName>
+<displayName lang="en" type="FSN">Transient sleep-wake rhythm disorder (disorder)</displayName>
+</concept>
+<concept code="230496009">
+<displayName lang="en" type="PT">Non-24 hour sleep-wake cycle</displayName>
+<displayName lang="en" type="FSN">Non-24 hour sleep-wake cycle (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, free running</displayName>
+<displayName lang="en" type="SY">Circadian rhythm sleep disorder, free-running type</displayName>
+<displayName lang="en" type="SY">Free-running sleep-wake cycle disorder</displayName>
+</concept>
+<concept code="230497000">
+<displayName lang="en" type="PT">Sleep-related head banging</displayName>
+<displayName lang="en" type="FSN">Sleep-related head banging (disorder)</displayName>
+</concept>
+<concept code="230498005">
+<displayName lang="en" type="PT">Sleep-related painful erections</displayName>
+<displayName lang="en" type="FSN">Sleep-related painful erections (disorder)</displayName>
+</concept>
+<concept code="230499002">
+<displayName lang="en" type="PT">Sleep-related respiratory failure</displayName>
+<displayName lang="en" type="FSN">Sleep-related respiratory failure (disorder)</displayName>
+<displayName lang="en" type="SY">Ondine syndrome</displayName>
+<displayName lang="en" type="SY">Ondine&apos;s curse</displayName>
+</concept>
+<concept code="230500006">
+<displayName lang="en" type="PT">Sleep-related dystonia</displayName>
+<displayName lang="en" type="FSN">Sleep-related dystonia (disorder)</displayName>
+</concept>
+<concept code="247951006">
+<displayName lang="en" type="PT">Reaction to sudden wakening</displayName>
+<displayName lang="en" type="FSN">Reaction to sudden wakening (disorder)</displayName>
+</concept>
+<concept code="247953009">
+<displayName lang="en" type="PT">Detailed recall of dream</displayName>
+<displayName lang="en" type="FSN">Detailed recall of dream (finding)</displayName>
+<displayName lang="en" type="SY">Vivid dream</displayName>
+</concept>
+<concept code="247954003">
+<displayName lang="en" type="PT">Repetitive dreams</displayName>
+<displayName lang="en" type="FSN">Repetitive dreams (finding)</displayName>
+</concept>
+<concept code="247955002">
+<displayName lang="en-GB" type="PT">Low level of awareness whilst sleep walking</displayName>
+<displayName lang="en" type="FSN">Low level of awareness while sleep walking (finding)</displayName>
+</concept>
+<concept code="247956001">
+<displayName lang="en-GB" type="PT">Low level of reactivity whilst sleep walking</displayName>
+<displayName lang="en" type="FSN">Low level of reactivity while sleep walking (finding)</displayName>
+</concept>
+<concept code="247957005">
+<displayName lang="en-GB" type="PT">Low level of motor skill whilst sleep walking</displayName>
+<displayName lang="en" type="FSN">Low level of motor skill while sleep walking (finding)</displayName>
+</concept>
+<concept code="247958000">
+<displayName lang="en-GB" type="PT">Blank, staring face whilst sleep walking</displayName>
+<displayName lang="en" type="FSN">Blank, staring face while sleep walking (finding)</displayName>
+</concept>
+<concept code="247959008">
+<displayName lang="en-GB" type="PT">Unresponsive to communication whilst sleep walking</displayName>
+<displayName lang="en" type="FSN">Unresponsive to communication while sleep walking (finding)</displayName>
+</concept>
+<concept code="247960003">
+<displayName lang="en" type="PT">Not easily wakened from sleep walking</displayName>
+<displayName lang="en" type="FSN">Not easily wakened from sleep walking (finding)</displayName>
+</concept>
+<concept code="247961004">
+<displayName lang="en" type="PT">No recollection of sleep walk</displayName>
+<displayName lang="en" type="FSN">No recollection of sleep walk (finding)</displayName>
+</concept>
+<concept code="247962006">
+<displayName lang="en" type="PT">Sleep automatism</displayName>
+<displayName lang="en" type="FSN">Sleep automatism (disorder)</displayName>
+</concept>
+<concept code="248218005">
+<displayName lang="en" type="PT">Awake</displayName>
+<displayName lang="en" type="FSN">Awake (finding)</displayName>
+<displayName lang="en" type="SY">Clear consciousness</displayName>
+<displayName lang="en" type="SY">Wide awake</displayName>
+</concept>
+<concept code="248219002">
+<displayName lang="en" type="PT">Keeps falling asleep</displayName>
+<displayName lang="en" type="FSN">Keeps falling asleep (finding)</displayName>
+</concept>
+<concept code="248220008">
+<displayName lang="en" type="PT">Asleep</displayName>
+<displayName lang="en" type="FSN">Asleep (finding)</displayName>
+<displayName lang="en" type="SY">Sleeping</displayName>
+</concept>
+<concept code="248255005">
+<displayName lang="en" type="PT">Cannot sleep at all</displayName>
+<displayName lang="en" type="FSN">Cannot sleep at all (finding)</displayName>
+<displayName lang="en" type="SY">Unable to sleep</displayName>
+</concept>
+<concept code="248256006">
+<displayName lang="en" type="PT">Not getting enough sleep</displayName>
+<displayName lang="en" type="FSN">Not getting enough sleep (disorder)</displayName>
+<displayName lang="en" type="SY">Hyposomnia</displayName>
+<displayName lang="en" type="SY">Insufficient sleep syndrome</displayName>
+<displayName lang="en" type="SY">Short of sleep</displayName>
+</concept>
+<concept code="248258007">
+<displayName lang="en" type="PT">Circumstances interfere with sleep</displayName>
+<displayName lang="en" type="FSN">Circumstances interfere with sleep (disorder)</displayName>
+</concept>
+<concept code="248259004">
+<displayName lang="en" type="PT">Symptoms interfere with sleep</displayName>
+<displayName lang="en" type="FSN">Symptoms interfere with sleep (disorder)</displayName>
+</concept>
+<concept code="248260009">
+<displayName lang="en" type="PT">Unrefreshed by sleep</displayName>
+<displayName lang="en" type="FSN">Unrefreshed by sleep (disorder)</displayName>
+</concept>
+<concept code="248261008">
+<displayName lang="en" type="PT">Oversleeps</displayName>
+<displayName lang="en" type="FSN">Oversleeps (disorder)</displayName>
+<displayName lang="en" type="SY">Can&apos;t wake up</displayName>
+<displayName lang="en" type="SY">Cannot wake up</displayName>
+</concept>
+<concept code="248262001">
+<displayName lang="en" type="PT">Always sleepy</displayName>
+<displayName lang="en" type="FSN">Always sleepy (disorder)</displayName>
+</concept>
+<concept code="248268002">
+<displayName lang="en" type="PT">Tires quickly</displayName>
+<displayName lang="en" type="FSN">Tires quickly (finding)</displayName>
+<displayName lang="en" type="SY">Easily tired</displayName>
+<displayName lang="en" type="SY">Rapidly tired</displayName>
+</concept>
+<concept code="248269005">
+<displayName lang="en" type="PT">Tired on least exertion</displayName>
+<displayName lang="en" type="FSN">Tired on least exertion (finding)</displayName>
+</concept>
+<concept code="251453002">
+<displayName lang="en" type="PT">Small sharp transients during sleep</displayName>
+<displayName lang="en" type="FSN">Small sharp transients during sleep (finding)</displayName>
+</concept>
+<concept code="267031002">
+<displayName lang="en" type="PT">Tiredness symptom</displayName>
+<displayName lang="en" type="FSN">Tiredness symptom (finding)</displayName>
+</concept>
+<concept code="267032009">
+<displayName lang="en" type="PT">Tired all the time</displayName>
+<displayName lang="en" type="FSN">Tired all the time (finding)</displayName>
+<displayName lang="en" type="SY">TATT - Tired all the time</displayName>
+</concept>
+<concept code="267088000">
+<displayName lang="en" type="PT">Gets drowsiness</displayName>
+<displayName lang="en" type="FSN">Gets drowsiness (finding)</displayName>
+</concept>
+<concept code="268652009">
+<displayName lang="en" type="PT">Transient insomnia</displayName>
+<displayName lang="en" type="FSN">Transient insomnia (disorder)</displayName>
+</concept>
+<concept code="268653004">
+<displayName lang="en" type="PT">Transient hypersomnia</displayName>
+<displayName lang="en" type="FSN">Transient hypersomnia (disorder)</displayName>
+</concept>
+<concept code="268654005">
+<displayName lang="en" type="PT">Repetitive intrusions of sleep</displayName>
+<displayName lang="en" type="FSN">Repetitive intrusions of sleep (disorder)</displayName>
+<displayName lang="en" type="SY">Repetitive sleep intrusions</displayName>
+</concept>
+<concept code="268722008">
+<displayName lang="en" type="PT">Non-organic disorder of the sleep-wake schedule</displayName>
+<displayName lang="en" type="FSN">Non-organic disorder of the sleep-wake schedule (disorder)</displayName>
+</concept>
+<concept code="270487001">
+<displayName lang="en" type="PT">Non-organic sleep disorder</displayName>
+<displayName lang="en" type="FSN">Non-organic sleep disorder (disorder)</displayName>
+</concept>
+<concept code="271782001">
+<displayName lang="en" type="PT">Drowsy</displayName>
+<displayName lang="en" type="FSN">Drowsy (finding)</displayName>
+<displayName lang="en" type="SY">Drowsiness</displayName>
+<displayName lang="en" type="SY">Mental status, drowsy</displayName>
+<displayName lang="en" type="SY">Sleepiness</displayName>
+<displayName lang="en" type="SY">Sleepy</displayName>
+<displayName lang="en" type="SY">Somnolence</displayName>
+<displayName lang="en" type="SY">Somnolence (sleepiness)</displayName>
+</concept>
+<concept code="271793004">
+<displayName lang="en" type="PT">Irregular sleep-wake pattern</displayName>
+<displayName lang="en" type="FSN">Irregular sleep-wake pattern (disorder)</displayName>
+</concept>
+<concept code="271794005">
+<displayName lang="en" type="PT">Disorder of sleep-wake cycle</displayName>
+<displayName lang="en" type="FSN">Disorder of sleep-wake cycle (disorder)</displayName>
+<displayName lang="en" type="SY">Circadian dysregulation</displayName>
+<displayName lang="en" type="SY">Disorder of sleep-wake schedule</displayName>
+<displayName lang="en" type="SY">Disorders of the sleep-wake schedule</displayName>
+<displayName lang="en" type="SY">Disturbed nyctohemeral rhythm</displayName>
+</concept>
+<concept code="272026007">
+<displayName lang="en" type="PT">C/O - somnolence</displayName>
+<displayName lang="en" type="FSN">Complaining of somnolence (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of somnolence</displayName>
+</concept>
+<concept code="272062008">
+<displayName lang="en" type="PT">C/O - &quot;tired all the time&quot;</displayName>
+<displayName lang="en" type="FSN">Complaining of &quot;tired all the time&quot; (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of &quot;tired all the time&quot;</displayName>
+</concept>
+<concept code="274950005">
+<displayName lang="en" type="PT">Sleep-related bruxism</displayName>
+<displayName lang="en" type="FSN">Sleep-related bruxism (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep related bruxism (grinding teeth)</displayName>
+<displayName lang="en" type="SY">Teeth grinding at night</displayName>
+<displayName lang="en-GB" type="SY">Teeth grinding whilst asleep</displayName>
+</concept>
+<concept code="277180005">
+<displayName lang="en" type="PT">Sleep paralysis</displayName>
+<displayName lang="en" type="FSN">Sleep paralysis (disorder)</displayName>
+</concept>
+<concept code="277181009">
+<displayName lang="en" type="PT">Sleep starts</displayName>
+<displayName lang="en" type="FSN">Sleep starts (disorder)</displayName>
+</concept>
+<concept code="301345002">
+<displayName lang="en" type="PT">Difficulty sleeping</displayName>
+<displayName lang="en" type="FSN">Difficulty sleeping (finding)</displayName>
+<displayName lang="en" type="SY">Poor sleep</displayName>
+</concept>
+<concept code="313432002">
+<displayName lang="en" type="PT">Post-ictal drowsiness</displayName>
+<displayName lang="en" type="FSN">Post-ictal drowsiness (finding)</displayName>
+</concept>
+<concept code="314109004">
+<displayName lang="en" type="PT">Feeling tired</displayName>
+<displayName lang="en" type="FSN">Feeling tired (finding)</displayName>
+</concept>
+<concept code="314938000">
+<displayName lang="en" type="PT">Poor sleep pattern</displayName>
+<displayName lang="en" type="FSN">Poor sleep pattern (finding)</displayName>
+</concept>
+<concept code="314939008">
+<displayName lang="en" type="PT">Good sleep pattern</displayName>
+<displayName lang="en" type="FSN">Good sleep pattern (finding)</displayName>
+</concept>
+<concept code="315243006">
+<displayName lang="en" type="PT">Intermittent drowsiness</displayName>
+<displayName lang="en" type="FSN">Intermittent drowsiness (finding)</displayName>
+</concept>
+<concept code="361208003">
+<displayName lang="en-GB" type="PT">Primary sleep apnoea of newborn</displayName>
+<displayName lang="en" type="FSN">Primary sleep apnea of newborn (disorder)</displayName>
+</concept>
+<concept code="363314000">
+<displayName lang="en" type="PT">Substance-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Substance-induced sleep disorder (disorder)</displayName>
+</concept>
+<concept code="370971007">
+<displayName lang="en" type="PT">Somnolence syndrome</displayName>
+<displayName lang="en" type="FSN">Somnolence syndrome (disorder)</displayName>
+</concept>
+<concept code="372947007">
+<displayName lang="en" type="PT">Excessive somnolence</displayName>
+<displayName lang="en" type="FSN">Excessive somnolence (finding)</displayName>
+</concept>
+<concept code="399040002">
+<displayName lang="en" type="PT">Congenital central hypoventilation</displayName>
+<displayName lang="en" type="FSN">Congenital central hypoventilation (disorder)</displayName>
+<displayName lang="en" type="SY">CCHS - Congenital central hypoventilation</displayName>
+<displayName lang="en" type="SY">Congenital pulmonary hypoventilation</displayName>
+</concept>
+<concept code="401161007">
+<displayName lang="en" type="PT">Delayed onset of sleep</displayName>
+<displayName lang="en" type="FSN">Delayed onset of sleep (finding)</displayName>
+</concept>
+<concept code="401236004">
+<displayName lang="en" type="PT">Early morning waking</displayName>
+<displayName lang="en" type="FSN">Early morning waking (disorder)</displayName>
+</concept>
+<concept code="405360006">
+<displayName lang="en-GB" type="PT">Dreaming/nightmare under general anaesthesia</displayName>
+<displayName lang="en" type="FSN">Dreaming/nightmare under general anesthesia (finding)</displayName>
+</concept>
+<concept code="407666007">
+<displayName lang="en" type="PT">Nocturnal sleep-related eating disorder</displayName>
+<displayName lang="en" type="FSN">Nocturnal sleep-related eating disorder (disorder)</displayName>
+</concept>
+<concept code="413638006">
+<displayName lang="en" type="PT">Benign neonatal sleep myoclonus</displayName>
+<displayName lang="en" type="FSN">Benign neonatal sleep myoclonus (disorder)</displayName>
+</concept>
+<concept code="415238003">
+<displayName lang="en-GB" type="PT">REM sleep behaviour disorder</displayName>
+<displayName lang="en" type="FSN">Rapid eye movement sleep behavior disorder (disorder)</displayName>
+<displayName lang="en" type="SY">REM sleep disorder</displayName>
+<displayName lang="en-GB" type="SY">Rapid eye movement sleep behaviour disorder</displayName>
+</concept>
+<concept code="416067004">
+<displayName lang="en" type="PT">C/O - unpleasant dreams</displayName>
+<displayName lang="en" type="FSN">Complaining of unpleasant dreams (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of unpleasant dreams</displayName>
+</concept>
+<concept code="416196001">
+<displayName lang="en" type="PT">C/O - dreams</displayName>
+<displayName lang="en" type="FSN">Complaining of dreams (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of dreams</displayName>
+</concept>
+<concept code="416593000">
+<displayName lang="en" type="PT">C/O - vivid dreams</displayName>
+<displayName lang="en" type="FSN">Complaining of vivid dreams (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of vivid dreams</displayName>
+</concept>
+<concept code="417142009">
+<displayName lang="en" type="PT">C/O - sweet/pleasant dreams</displayName>
+<displayName lang="en" type="FSN">Complaining of sweet/pleasant dreams (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of sweet/pleasant dreams</displayName>
+</concept>
+<concept code="417616008">
+<displayName lang="en" type="PT">C/O - bizarre dreams</displayName>
+<displayName lang="en" type="FSN">Complaining of bizarre dreams (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of bizarre dreams</displayName>
+</concept>
+<concept code="418424006">
+<displayName lang="en" type="PT">Post-radiotherapy somnolence syndrome</displayName>
+<displayName lang="en" type="FSN">Post-radiotherapy somnolence syndrome (disorder)</displayName>
+</concept>
+<concept code="418475009">
+<displayName lang="en" type="PT">Drug-induced sleep disorder</displayName>
+<displayName lang="en" type="FSN">Drug-induced sleep disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Drug induced sleep disorder</displayName>
+</concept>
+<concept code="418763003">
+<displayName lang="en" type="PT">Periodic limb movement disorder</displayName>
+<displayName lang="en" type="FSN">Periodic limb movement disorder (disorder)</displayName>
+</concept>
+<concept code="418955009">
+<displayName lang="en" type="PT">Organic sleep disorder</displayName>
+<displayName lang="en" type="FSN">Organic sleep disorder (disorder)</displayName>
+</concept>
+<concept code="419145002">
+<displayName lang="en" type="PT">Nightmares</displayName>
+<displayName lang="en" type="FSN">Nightmares (finding)</displayName>
+</concept>
+<concept code="419581008">
+<displayName lang="en" type="PT">Bizarre dreams</displayName>
+<displayName lang="en" type="FSN">Bizarre dreams (finding)</displayName>
+</concept>
+<concept code="419748005">
+<displayName lang="en" type="PT">Unpleasant dreams</displayName>
+<displayName lang="en" type="FSN">Unpleasant dreams (finding)</displayName>
+</concept>
+<concept code="422483008">
+<displayName lang="en" type="PT">Rest pattern disrupts family lifestyle</displayName>
+<displayName lang="en" type="FSN">Rest pattern disrupts family lifestyle (finding)</displayName>
+</concept>
+<concept code="422730001">
+<displayName lang="en" type="PT">Insufficient rest/sleep for physical condition</displayName>
+<displayName lang="en" type="FSN">Insufficient rest/sleep for physical condition (finding)</displayName>
+</concept>
+<concept code="423052008">
+<displayName lang="en" type="PT">Frequent night waking</displayName>
+<displayName lang="en" type="FSN">Frequent night waking (finding)</displayName>
+</concept>
+<concept code="423439006">
+<displayName lang="en" type="PT">Sleep pattern disrupts family lifestyle</displayName>
+<displayName lang="en" type="FSN">Sleep pattern disrupts family lifestyle (finding)</displayName>
+</concept>
+<concept code="423502007">
+<displayName lang="en" type="PT">Difficulty with postpartum rest pattern</displayName>
+<displayName lang="en" type="FSN">Difficulty with postpartum rest pattern (finding)</displayName>
+</concept>
+<concept code="423834007">
+<displayName lang="en" type="PT">Difficulty with prenatal rest pattern</displayName>
+<displayName lang="en" type="FSN">Difficulty with prenatal rest pattern (finding)</displayName>
+</concept>
+<concept code="425202006">
+<displayName lang="en" type="PT">Insufficient rest/sleep for age</displayName>
+<displayName lang="en" type="FSN">Insufficient rest/sleep for age (finding)</displayName>
+</concept>
+<concept code="425476007">
+<displayName lang="en" type="PT">Non-organic parasomnia</displayName>
+<displayName lang="en" type="FSN">Non-organic parasomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Parasomnia (sleep disorder), non organic</displayName>
+<displayName lang="en" type="SY">Parasomnia, psychogenic</displayName>
+</concept>
+<concept code="425832009">
+<displayName lang="en" type="PT">Psychophysiologic insomnia</displayName>
+<displayName lang="en" type="FSN">Psychophysiologic insomnia (disorder)</displayName>
+</concept>
+<concept code="425881006">
+<displayName lang="en" type="PT">Limit-setting sleep disorder</displayName>
+<displayName lang="en" type="FSN">Limit-setting sleep disorder (disorder)</displayName>
+</concept>
+<concept code="426451004">
+<displayName lang="en" type="PT">Recurrent hypersomnia</displayName>
+<displayName lang="en" type="FSN">Recurrent hypersomnia (disorder)</displayName>
+</concept>
+<concept code="426542005">
+<displayName lang="en" type="PT">Sleep hypoventilation due to lower airway obstruction</displayName>
+<displayName lang="en" type="FSN">Sleep hypoventilation due to lower airway obstruction (disorder)</displayName>
+</concept>
+<concept code="426824009">
+<displayName lang="en" type="PT">Sleep-onset association disorder</displayName>
+<displayName lang="en" type="FSN">Sleep-onset association disorder (disorder)</displayName>
+</concept>
+<concept code="426943005">
+<displayName lang="en" type="PT">Hypersomnia disorder related to menstruation</displayName>
+<displayName lang="en" type="FSN">Hypersomnia disorder related to menstruation (disorder)</displayName>
+<displayName lang="en" type="SY">Hypersomnia, menstrual</displayName>
+</concept>
+<concept code="427426006">
+<displayName lang="en" type="PT">Sleep attack</displayName>
+<displayName lang="en" type="FSN">Sleep attack (disorder)</displayName>
+</concept>
+<concept code="427448000">
+<displayName lang="en" type="PT">Ready for enhanced sleep pattern</displayName>
+<displayName lang="en" type="FSN">Ready for enhanced sleep pattern (finding)</displayName>
+<displayName lang="en" type="SY">Readiness for enhanced sleep</displayName>
+<displayName lang="en" type="SY">Readiness for enhanced sleep pattern</displayName>
+</concept>
+<concept code="427745001">
+<displayName lang="en" type="PT">Sleep state misperception</displayName>
+<displayName lang="en" type="FSN">Sleep state misperception (finding)</displayName>
+<displayName lang="en" type="SY">Paradoxical insomnia</displayName>
+</concept>
+<concept code="428708005">
+<displayName lang="en" type="PT">Secondary parasomnia</displayName>
+<displayName lang="en" type="FSN">Secondary parasomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Parasomnia, due to medical condition</displayName>
+</concept>
+<concept code="429038000">
+<displayName lang="en" type="PT">Pain onset during sleep</displayName>
+<displayName lang="en" type="FSN">Pain onset during sleep (finding)</displayName>
+</concept>
+<concept code="429266002">
+<displayName lang="en" type="PT">Sleep-related groaning</displayName>
+<displayName lang="en" type="FSN">Sleep-related groaning (disorder)</displayName>
+<displayName lang="en" type="SY">Catathrenia</displayName>
+</concept>
+<concept code="429276004">
+<displayName lang="en" type="PT">Environmental sleep disorder</displayName>
+<displayName lang="en" type="FSN">Environmental sleep disorder (disorder)</displayName>
+</concept>
+<concept code="429456008">
+<displayName lang="en" type="PT">Hypoventilation during sleep due to neuromuscular disorder</displayName>
+<displayName lang="en" type="FSN">Hypoventilation during sleep due to neuromuscular disorder (disorder)</displayName>
+</concept>
+<concept code="429571005">
+<displayName lang="en" type="PT">Sleep-related dissociative disorder</displayName>
+<displayName lang="en" type="FSN">Sleep-related dissociative disorder (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep related dissociative disorder</displayName>
+</concept>
+<concept code="430337004">
+<displayName lang="en-GB" type="PT">Family history of sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Family history of sleep apnea (situation)</displayName>
+</concept>
+<concept code="430390000">
+<displayName lang="en-GB" type="PT">Sleep-related neurogenic tachypnoea</displayName>
+<displayName lang="en" type="FSN">Sleep-related neurogenic tachypnea (disorder)</displayName>
+</concept>
+<concept code="430893009">
+<displayName lang="en" type="PT">Sleep related rhythmic movement disorder</displayName>
+<displayName lang="en" type="FSN">Sleep related rhythmic movement disorder (disorder)</displayName>
+</concept>
+<concept code="433206003">
+<displayName lang="en" type="PT">Able to sleep</displayName>
+<displayName lang="en" type="FSN">Able to sleep (finding)</displayName>
+</concept>
+<concept code="441830002">
+<displayName lang="en" type="PT">Confusional arousal disorder</displayName>
+<displayName lang="en" type="FSN">Confusional arousal disorder (disorder)</displayName>
+</concept>
+<concept code="441877007">
+<displayName lang="en" type="PT">Sleep dysfunction with sleep stage disturbance</displayName>
+<displayName lang="en" type="FSN">Sleep dysfunction with sleep stage disturbance (disorder)</displayName>
+</concept>
+<concept code="441910000">
+<displayName lang="en" type="PT">Idiopathic sleep related non-obstructive alveolar hypoventilation</displayName>
+<displayName lang="en" type="FSN">Idiopathic sleep related non-obstructive alveolar hypoventilation (disorder)</displayName>
+</concept>
+<concept code="441976002">
+<displayName lang="en" type="PT">Organic parasomnia</displayName>
+<displayName lang="en" type="FSN">Organic parasomnia (disorder)</displayName>
+</concept>
+<concept code="442120007">
+<displayName lang="en" type="PT">Recurrent isolated sleep paralysis</displayName>
+<displayName lang="en" type="FSN">Recurrent isolated sleep paralysis (disorder)</displayName>
+</concept>
+<concept code="442164004">
+<displayName lang="en-GB" type="PT">Organic sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Organic sleep apnea (disorder)</displayName>
+</concept>
+<concept code="442176004">
+<displayName lang="en" type="PT">Sleep dysfunction with arousal disturbance</displayName>
+<displayName lang="en" type="FSN">Sleep dysfunction with arousal disturbance (disorder)</displayName>
+</concept>
+<concept code="442292004">
+<displayName lang="en" type="PT">Idiopathic hypersomnia without long sleep time</displayName>
+<displayName lang="en" type="FSN">Idiopathic hypersomnia without long sleep time (disorder)</displayName>
+</concept>
+<concept code="442416002">
+<displayName lang="en" type="PT">Idiopathic hypersomnia associated with long sleep time</displayName>
+<displayName lang="en" type="FSN">Idiopathic hypersomnia associated with long sleep time (disorder)</displayName>
+<displayName lang="en" type="SY">Idiopathic hypersomnia with long sleep time</displayName>
+</concept>
+<concept code="442549008">
+<displayName lang="en" type="PT">High altitude periodic breathing</displayName>
+<displayName lang="en" type="FSN">Periodic breathing of sleep at high altitude (finding)</displayName>
+<displayName lang="en" type="SY">Periodic breathing of sleep at high altitude</displayName>
+</concept>
+<concept code="443483005">
+<displayName lang="en" type="PT">Inadequate sleep hygiene</displayName>
+<displayName lang="en" type="FSN">Inadequate sleep hygiene (finding)</displayName>
+</concept>
+<concept code="443484004">
+<displayName lang="en" type="PT">Decreased need for sleep</displayName>
+<displayName lang="en" type="FSN">Decreased need for sleep (finding)</displayName>
+</concept>
+<concept code="443664006">
+<displayName lang="en" type="PT">Long sleeper syndrome</displayName>
+<displayName lang="en" type="FSN">Long sleeper syndrome (disorder)</displayName>
+</concept>
+<concept code="443760008">
+<displayName lang="en" type="PT">Sleep hypoventilation</displayName>
+<displayName lang="en" type="FSN">Sleep hypoventilation (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep related hypoventilation</displayName>
+</concept>
+<concept code="445112001">
+<displayName lang="en" type="PT">Sleep related hallucinations</displayName>
+<displayName lang="en" type="FSN">Sleep related hallucinations (finding)</displayName>
+</concept>
+<concept code="445140006">
+<displayName lang="en" type="PT">Periodic leg movements of sleep</displayName>
+<displayName lang="en" type="FSN">Periodic leg movements of sleep (finding)</displayName>
+</concept>
+<concept code="449160007">
+<displayName lang="en" type="PT">Exploding head syndrome</displayName>
+<displayName lang="en" type="FSN">Exploding head syndrome (disorder)</displayName>
+</concept>
+<concept code="472819006">
+<displayName lang="en" type="PT">Adjustment insomnia</displayName>
+<displayName lang="en" type="FSN">Adjustment insomnia (disorder)</displayName>
+</concept>
+<concept code="697914005">
+<displayName lang="en" type="PT">Pulmonary hypertension due to sleep-disordered breathing</displayName>
+<displayName lang="en" type="FSN">Pulmonary hypertension due to sleep-disordered breathing (disorder)</displayName>
+</concept>
+<concept code="702980000">
+<displayName lang="en" type="PT">Sleep pattern unknown</displayName>
+<displayName lang="en" type="FSN">Sleep pattern unknown (finding)</displayName>
+</concept>
+<concept code="704414005">
+<displayName lang="en" type="PT">At risk of sleep impairment</displayName>
+<displayName lang="en" type="FSN">At risk of sleep impairment (finding)</displayName>
+<displayName lang="en" type="SY">At risk of impaired sleep</displayName>
+</concept>
+<concept code="711565008">
+<displayName lang="en-GB" type="PT">Dream enactment behaviour</displayName>
+<displayName lang="en" type="FSN">Dream enactment behavior (disorder)</displayName>
+</concept>
+<concept code="141000119100">
+<displayName lang="en" type="PT">Daytime somnolence</displayName>
+<displayName lang="en" type="FSN">Daytime somnolence (finding)</displayName>
+</concept>
+<concept code="1091000119108">
+<displayName lang="en-GB" type="PT">Obstructive sleep apnoea of child</displayName>
+<displayName lang="en" type="FSN">Obstructive sleep apnea of child (disorder)</displayName>
+</concept>
+<concept code="1101000119103">
+<displayName lang="en-GB" type="PT">Obstructive sleep apnoea of adult</displayName>
+<displayName lang="en" type="FSN">Obstructive sleep apnea of adult (disorder)</displayName>
+</concept>
+<concept code="3731000119107">
+<displayName lang="en" type="PT">Idiopathic hypersomnia</displayName>
+<displayName lang="en" type="FSN">Idiopathic hypersomnia (disorder)</displayName>
+</concept>
+<concept code="4681000119100">
+<displayName lang="en" type="PT">Sleep disturbance in infancy</displayName>
+<displayName lang="en" type="FSN">Sleep disturbance in infancy (disorder)</displayName>
+</concept>
+<concept code="9741000119101">
+<displayName lang="en-GB" type="PT">Primary central sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Primary central sleep apnea (disorder)</displayName>
+</concept>
+<concept code="28011000119104">
+<displayName lang="en" type="PT">Sleep wake schedule disorder, delayed phase type</displayName>
+<displayName lang="en" type="FSN">Sleep-wake schedule disorder, delayed phase (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep-wake schedule disorder, delayed phase</displayName>
+<displayName lang="en" type="SY">Sleepwake schedule disorder, delayed phase</displayName>
+</concept>
+<concept code="31491000119109">
+<displayName lang="en" type="PT">Disruptions of 24 hour sleep-wake cycle</displayName>
+<displayName lang="en" type="FSN">Disruptions of 24 hour sleep-wake cycle (disorder)</displayName>
+</concept>
+<concept code="31771000119102">
+<displayName lang="en" type="PT">Daytime hypersomnia</displayName>
+<displayName lang="en" type="FSN">Daytime hypersomnia (disorder)</displayName>
+</concept>
+<concept code="34101000119105">
+<displayName lang="en" type="PT">Nocturnal myoclonus</displayName>
+<displayName lang="en" type="FSN">Nocturnal myoclonus (disorder)</displayName>
+</concept>
+<concept code="85721000119105">
+<displayName lang="en-GB" type="PT">Central sleep apnoea due to periodic breathing</displayName>
+<displayName lang="en" type="FSN">Central sleep apnea due to periodic breathing (disorder)</displayName>
+</concept>
+<concept code="89911000119102">
+<displayName lang="en-GB" type="PT">Sleep related hypoventilation or hypoxaemia</displayName>
+<displayName lang="en" type="FSN">Sleep related hypoventilation or hypoxemia (disorder)</displayName>
+</concept>
+<concept code="90011000119105">
+<displayName lang="en" type="PT">Organic sleep related movement disorder</displayName>
+<displayName lang="en" type="FSN">Organic sleep related movement disorder (disorder)</displayName>
+</concept>
+<concept code="90361000119105">
+<displayName lang="en-GB" type="PT">Behavioural insomnia of childhood</displayName>
+<displayName lang="en" type="FSN">Behavioral insomnia of childhood (disorder)</displayName>
+</concept>
+<concept code="91411000119105">
+<displayName lang="en" type="PT">Drug-induced insomnia</displayName>
+<displayName lang="en" type="FSN">Drug-induced insomnia (disorder)</displayName>
+</concept>
+<concept code="91461000119108">
+<displayName lang="en" type="PT">Circadian rhythm disorder caused by drug</displayName>
+<displayName lang="en" type="FSN">Circadian rhythm disorder caused by drug (disorder)</displayName>
+<displayName lang="en" type="SY">Drug induced circadian rhythm disorder</displayName>
+</concept>
+<concept code="91471000119102">
+<displayName lang="en" type="PT">Drug-induced hypersomnia</displayName>
+<displayName lang="en" type="FSN">Drug-induced hypersomnia (disorder)</displayName>
+<displayName lang="en" type="SY">Hypersomnia due to drug or substance</displayName>
+</concept>
+<concept code="91521000119104">
+<displayName lang="en" type="PT">Narcolepsy without cataplexy</displayName>
+<displayName lang="en" type="FSN">Narcolepsy without cataplexy (disorder)</displayName>
+</concept>
+<concept code="91561000119109">
+<displayName lang="en" type="PT">Parasomnia caused by drug</displayName>
+<displayName lang="en" type="FSN">Parasomnia caused by drug (disorder)</displayName>
+<displayName lang="en" type="SY">Drug induced parasomnia</displayName>
+</concept>
+<concept code="99711000119104">
+<displayName lang="en" type="PT">Organic sleep-wake cycle disorder</displayName>
+<displayName lang="en" type="FSN">Organic sleep-wake cycle disorder (disorder)</displayName>
+</concept>
+<concept code="104831000119109">
+<displayName lang="en-GB" type="PT">Drug induced central sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Drug induced central sleep apnea (disorder)</displayName>
+</concept>
+<concept code="105191000119100">
+<displayName lang="en" type="PT">Acquired central alveolar hypoventilation</displayName>
+<displayName lang="en" type="FSN">Acquired central alveolar hypoventilation (disorder)</displayName>
+</concept>
+<concept code="105491000119107">
+<displayName lang="en" type="PT">Primary hyposomnia</displayName>
+<displayName lang="en" type="FSN">Primary hyposomnia (disorder)</displayName>
+</concept>
+<concept code="105521000119109">
+<displayName lang="en" type="PT">Organic mixed sleep disorder</displayName>
+<displayName lang="en" type="FSN">Organic mixed sleep disorder (disorder)</displayName>
+</concept>
+<concept code="122711000119109">
+<displayName lang="en" type="PT">Hypnic headache</displayName>
+<displayName lang="en" type="FSN">Hypnic headache (disorder)</displayName>
+<displayName lang="en" type="SY">Hypnic headache (associated with sleep)</displayName>
+</concept>
+<concept code="198401000000104">
+<displayName lang="en-GB" type="PT">Chronic obstructive pulmonary disease disturbs sleep</displayName>
+<displayName lang="en-GB" type="FSN">Chronic obstructive pulmonary disease disturbs sleep (finding)</displayName>
+<displayName lang="en" type="SY">COPD (chronic obstructive pulmonary disease) disturbs sleep</displayName>
+</concept>
+<concept code="198411000000102">
+<displayName lang="en-GB" type="PT">Chronic obstructive pulmonary disease does not disturb sleep</displayName>
+<displayName lang="en-GB" type="FSN">Chronic obstructive pulmonary disease does not disturb sleep (finding)</displayName>
+<displayName lang="en" type="SY">COPD (chronic obstructive pulmonary disease) does not disturb sleep</displayName>
+</concept>
+<concept code="288081000119106">
+<displayName lang="en-GB" type="PT">Behavioural insomnia of childhood, combined type</displayName>
+<displayName lang="en" type="FSN">Behavioral insomnia of childhood, combined type (disorder)</displayName>
+</concept>
+<concept code="288091000119109">
+<displayName lang="en-GB" type="PT">Behavioural insomnia of childhood, limit setting type</displayName>
+<displayName lang="en" type="FSN">Behavioral insomnia of childhood, limit setting type (disorder)</displayName>
+</concept>
+<concept code="288101000119104">
+<displayName lang="en-GB" type="PT">Behavioural insomnia of childhood, sleep onset association type</displayName>
+<displayName lang="en" type="FSN">Behavioral insomnia of childhood, sleep onset association type (disorder)</displayName>
+</concept>
+<concept code="288581000119102">
+<displayName lang="en-GB" type="PT">Sleep related hypoxaemia</displayName>
+<displayName lang="en" type="FSN">Sleep related hypoxemia (disorder)</displayName>
+</concept>
+<concept code="799001000000105">
+<displayName lang="en" type="PT">Able to sleep with sedation</displayName>
+<displayName lang="en" type="FSN">Able to sleep with sedation (finding)</displayName>
+</concept>
+<concept code="799011000000107">
+<displayName lang="en" type="PT">Able to sleep without sedation</displayName>
+<displayName lang="en" type="FSN">Able to sleep without sedation (finding)</displayName>
+</concept>
+<concept code="887881000000101">
+<displayName lang="en" type="PT">On melatonin for sleep disorder</displayName>
+<displayName lang="en" type="FSN">On melatonin for sleep disorder (situation)</displayName>
+</concept>
+</vocabulary>

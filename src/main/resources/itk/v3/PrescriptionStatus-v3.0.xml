@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionStatus" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.35">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary TBA</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.35</p>
+            <p>Describes the status of a prescription or of an item on a prescription.</p>
+            <p>This will generally be present in an Observation act where the code attribute has an id value of "PS" from the <b>Prescription Annotation</b> vocabulary.</p>
+         </Description>
+   <concept code="0001">
+      <displayName>To be Dispensed</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>With Dispenser</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>With Dispenser - Active</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>Expired</displayName>
+   </concept>
+   <concept code="0005">
+      <displayName>Cancelled</displayName>
+   </concept>
+   <concept code="0006">
+      <displayName>Dispensed</displayName>
+   </concept>
+   <concept code="0007">
+      <displayName>Not Dispensed</displayName>
+   </concept>
+</vocabulary>

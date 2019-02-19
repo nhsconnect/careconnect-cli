@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthAlertClinicalInterpretation" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.476">
+   <Description>
+            <div id="Normalcontent">
+               <div id="imcontent">
+                  <div>
+                     <div id="imcontent">a vocabulary to describe the clinical severity of a telehealth  alert.</div>
+                  </div>
+               </div>
+            </div>
+         </Description>
+   <concept code="CSH">
+      <displayName>Clinical Severity: High</displayName>
+   </concept>
+   <concept code="CSM">
+      <displayName>Clinical Severity: Medium</displayName>
+   </concept>
+   <concept code="CSL">
+      <displayName>Clinical Severity: Low</displayName>
+   </concept>
+   <concept code="CSNA">
+      <displayName>Clinical Severity: None Applied</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NeonatalLevelOfCare" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.20">
+   <Description>Neonatal level of care: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>Normal Care</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Special Care</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Level 2 Intensive Care (High Dependency Intensive Care)</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Level 1 Intensive Care (Maximal Intensive Care)</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

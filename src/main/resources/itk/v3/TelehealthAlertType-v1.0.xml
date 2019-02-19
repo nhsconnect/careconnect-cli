@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthAlertType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.480">
+   <Description>
+            <p>A vocabulary to describe the type of telehealth alert.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Blood Coagulation Alert</displayName>
+   </concept>
+   <concept code="01L">
+      <displayName>Low Blood Coagulation Alert</displayName>
+   </concept>
+   <concept code="01H">
+      <displayName>High Blood Coagulation Alert</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Blood Glucose Alert</displayName>
+   </concept>
+   <concept code="02L">
+      <displayName>Low Blood Glucose Alert</displayName>
+   </concept>
+   <concept code="02H">
+      <displayName>High Blood Glucose Alert</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="03LS">
+      <displayName>Low Systolic Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="03HS">
+      <displayName>High Systolic Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="03LD">
+      <displayName>Low Diastolic Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="03HD">
+      <displayName>High Diastolic Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Body Mass Index Alert</displayName>
+   </concept>
+   <concept code="04L">
+      <displayName>Low Body Mass Index Alert</displayName>
+   </concept>
+   <concept code="04H">
+      <displayName>High Body Mass Index Alert</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Body Temperature Alert</displayName>
+   </concept>
+   <concept code="05L">
+      <displayName>Low Body Temperature Alert</displayName>
+   </concept>
+   <concept code="05H">
+      <displayName>High Body Temperature Alert</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Carbon Monoxide Alert</displayName>
+   </concept>
+   <concept code="06L">
+      <displayName>Low Carbon Monoxide Alert</displayName>
+   </concept>
+   <concept code="06H">
+      <displayName>High Carbon Monoxide Alert</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Cholesterol Alert</displayName>
+   </concept>
+   <concept code="07L">
+      <displayName>Low Cholesterol Alert</displayName>
+   </concept>
+   <concept code="07H">
+      <displayName>High Cholesterol Alert</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>FEV Alert</displayName>
+   </concept>
+   <concept code="08L">
+      <displayName>Low FEV Alert</displayName>
+   </concept>
+   <concept code="08H">
+      <displayName>High FEV Alert</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Forced Vital Capacity Alert</displayName>
+   </concept>
+   <concept code="09L">
+      <displayName>Low Forced Vital Capacity Alert</displayName>
+   </concept>
+   <concept code="09H">
+      <displayName>High Forced Vital Capacity Alert</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Mean Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="10L">
+      <displayName>Low Mean Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="10H">
+      <displayName>High Mean Blood Pressure Alert</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Oxygen Saturation Alert</displayName>
+   </concept>
+   <concept code="11L">
+      <displayName>Low Oxygen Saturation Alert</displayName>
+   </concept>
+   <concept code="11H">
+      <displayName>High Oxygen Saturation Alert</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Peak Flow Alert</displayName>
+   </concept>
+   <concept code="12L">
+      <displayName>Low Peak Flow Alert</displayName>
+   </concept>
+   <concept code="12H">
+      <displayName>High Peak Flow Alert</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Pulse Rate Alert</displayName>
+   </concept>
+   <concept code="13L">
+      <displayName>Low Pulse Rate Alert</displayName>
+   </concept>
+   <concept code="13H">
+      <displayName>High Pulse Rate Alert</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Triglycerides Alert</displayName>
+   </concept>
+   <concept code="14L">
+      <displayName>Low Triglycerides Alert</displayName>
+   </concept>
+   <concept code="14H">
+      <displayName>High Triglycerides Alert</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Weight Alert</displayName>
+   </concept>
+   <concept code="15L">
+      <displayName>Low Weight Alert</displayName>
+   </concept>
+   <concept code="15H">
+      <displayName>High Weight Alert</displayName>
+   </concept>
+</vocabulary>

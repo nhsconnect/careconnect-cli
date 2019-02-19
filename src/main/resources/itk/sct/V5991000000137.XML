@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Housing" type="Realm Concept" setId="67771000000134" version="6" id="5991000000137" refId="999001541000000103" memberCount="374" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="5549007">
+<displayName lang="en" type="PT">Living in temporary quarters</displayName>
+<displayName lang="en" type="FSN">Living in temporary quarters (finding)</displayName>
+</concept>
+<concept code="5794003">
+<displayName lang="en" type="PT">Country dweller</displayName>
+<displayName lang="en" type="FSN">Country dweller (finding)</displayName>
+</concept>
+<concept code="22978007">
+<displayName lang="en" type="PT">Impaired home maintenance management, chronic</displayName>
+<displayName lang="en" type="FSN">Impaired home maintenance management, chronic (finding)</displayName>
+</concept>
+<concept code="26533002">
+<displayName lang="en-GB" type="PT">Apartment block living</displayName>
+<displayName lang="en" type="FSN">Apartment building living (finding)</displayName>
+</concept>
+<concept code="31879006">
+<displayName lang="en" type="PT">Lives in a community</displayName>
+<displayName lang="en" type="FSN">Lives in a community (finding)</displayName>
+</concept>
+<concept code="32911000">
+<displayName lang="en" type="PT">Homeless</displayName>
+<displayName lang="en" type="FSN">Homeless (finding)</displayName>
+<displayName lang="en" type="SY">Living on the street</displayName>
+</concept>
+<concept code="37438006">
+<displayName lang="en" type="PT">Impaired home maintenance management, moderate</displayName>
+<displayName lang="en" type="FSN">Impaired home maintenance management, moderate (finding)</displayName>
+</concept>
+<concept code="41775005">
+<displayName lang="en" type="PT">At risk for impaired home maintenance management</displayName>
+<displayName lang="en" type="FSN">At risk for impaired home maintenance management (finding)</displayName>
+<displayName lang="en" type="SY">Im</displayName>
+</concept>
+<concept code="60585007">
+<displayName lang="en" type="PT">Slum area living</displayName>
+<displayName lang="en" type="FSN">Slum area living (finding)</displayName>
+</concept>
+<concept code="62709005">
+<displayName lang="en" type="PT">Suburban dweller</displayName>
+<displayName lang="en" type="FSN">Suburban dweller (finding)</displayName>
+</concept>
+<concept code="65421000">
+<displayName lang="en" type="PT">Living in tent</displayName>
+<displayName lang="en" type="FSN">Living in tent (finding)</displayName>
+</concept>
+<concept code="67972000">
+<displayName lang="en" type="PT">Single home living</displayName>
+<displayName lang="en" type="FSN">Single home living (finding)</displayName>
+</concept>
+<concept code="70147002">
+<displayName lang="en" type="PT">Living in trailer</displayName>
+<displayName lang="en" type="FSN">Living in trailer (finding)</displayName>
+</concept>
+<concept code="71092004">
+<displayName lang="en" type="PT">Retirement community</displayName>
+<displayName lang="en" type="FSN">Living in retirement community (finding)</displayName>
+<displayName lang="en" type="SY">Living in retirement community</displayName>
+</concept>
+<concept code="71099008">
+<displayName lang="en" type="PT">Living in residence with no sanitation</displayName>
+<displayName lang="en" type="FSN">Living in residence with no sanitation (finding)</displayName>
+</concept>
+<concept code="78153003">
+<displayName lang="en" type="PT">City dweller</displayName>
+<displayName lang="en" type="FSN">City dweller (finding)</displayName>
+<displayName lang="en" type="SY">Urban dweller</displayName>
+</concept>
+<concept code="80932001">
+<displayName lang="en" type="PT">Impaired home maintenance management, severe</displayName>
+<displayName lang="en" type="FSN">Impaired home maintenance management, severe (finding)</displayName>
+</concept>
+<concept code="81877007">
+<displayName lang="en" type="PT">Housing problems</displayName>
+<displayName lang="en" type="FSN">Housing problems (finding)</displayName>
+<displayName lang="en" type="SY">Accommodation unsuitable</displayName>
+<displayName lang="en" type="SY">Housing issues</displayName>
+<displayName lang="en" type="SY">Living conditions unsatisfactory</displayName>
+</concept>
+<concept code="82876001">
+<displayName lang="en" type="PT">Living in mobile home</displayName>
+<displayName lang="en" type="FSN">Living in mobile home (finding)</displayName>
+</concept>
+<concept code="87293001">
+<displayName lang="en" type="PT">Impaired home maintenance management, mild</displayName>
+<displayName lang="en" type="FSN">Impaired home maintenance management, mild (finding)</displayName>
+</concept>
+<concept code="105511003">
+<displayName lang="en" type="PT">Discord with lodgers</displayName>
+<displayName lang="en" type="FSN">Discord with lodgers (finding)</displayName>
+</concept>
+<concept code="105513000">
+<displayName lang="en-GB" type="PT">Problem with neighbours</displayName>
+<displayName lang="en" type="FSN">Problem with neighbors (finding)</displayName>
+</concept>
+<concept code="105526001">
+<displayName lang="en" type="PT">Homeless family</displayName>
+<displayName lang="en" type="FSN">Homeless family (finding)</displayName>
+</concept>
+<concept code="105527005">
+<displayName lang="en" type="PT">Living in residence with poor sanitation</displayName>
+<displayName lang="en" type="FSN">Living in residence with poor sanitation (finding)</displayName>
+</concept>
+<concept code="105528000">
+<displayName lang="en" type="PT">Living in inadequate housing</displayName>
+<displayName lang="en" type="FSN">Living in inadequate housing (finding)</displayName>
+</concept>
+<concept code="105529008">
+<displayName lang="en" type="PT">Lives alone</displayName>
+<displayName lang="en" type="FSN">Lives alone (finding)</displayName>
+<displayName lang="en" type="SY">Home alone</displayName>
+</concept>
+<concept code="105530003">
+<displayName lang="en" type="PT">Living in residential institution</displayName>
+<displayName lang="en" type="FSN">Living in residential institution (finding)</displayName>
+<displayName lang="en" type="SY">Residential establishment</displayName>
+<displayName lang="en" type="SY">Residential institution</displayName>
+</concept>
+<concept code="105531004">
+<displayName lang="en" type="PT">Housing unsatisfactory</displayName>
+<displayName lang="en" type="FSN">Housing unsatisfactory (finding)</displayName>
+</concept>
+<concept code="105532006">
+<displayName lang="en" type="PT">Overcrowded in house</displayName>
+<displayName lang="en" type="FSN">Overcrowded in house (finding)</displayName>
+<displayName lang="en" type="SY">Overcrowded in home</displayName>
+</concept>
+<concept code="105533001">
+<displayName lang="en" type="PT">Living in restricted space</displayName>
+<displayName lang="en" type="FSN">Living in restricted space (finding)</displayName>
+</concept>
+<concept code="105535008">
+<displayName lang="en" type="PT">Lack of heat in house</displayName>
+<displayName lang="en" type="FSN">Lack of heat in house (finding)</displayName>
+<displayName lang="en" type="SY">Lack of heat in home</displayName>
+</concept>
+<concept code="105536009">
+<displayName lang="en" type="PT">Living in housing without electricity</displayName>
+<displayName lang="en" type="FSN">Living in housing without electricity (finding)</displayName>
+</concept>
+<concept code="105537000">
+<displayName lang="en" type="PT">Living in housing with technical defects</displayName>
+<displayName lang="en" type="FSN">Living in housing with technical defects (finding)</displayName>
+</concept>
+<concept code="160700001">
+<displayName lang="en" type="PT">Homeless single person</displayName>
+<displayName lang="en" type="FSN">Homeless single person (finding)</displayName>
+</concept>
+<concept code="160701002">
+<displayName lang="en" type="PT">Social migrant</displayName>
+<displayName lang="en" type="FSN">Social migrant (finding)</displayName>
+<displayName lang="en" type="SY">Tramp</displayName>
+<displayName lang="en" type="SY">Vagabond</displayName>
+</concept>
+<concept code="160702009">
+<displayName lang="en" type="PT">Illegal migrant</displayName>
+<displayName lang="en" type="FSN">Illegal migrant (finding)</displayName>
+</concept>
+<concept code="160703004">
+<displayName lang="en" type="PT">Vagrant</displayName>
+<displayName lang="en" type="FSN">Vagrant (finding)</displayName>
+</concept>
+<concept code="160706007">
+<displayName lang="en" type="PT">Lack of space in house</displayName>
+<displayName lang="en" type="FSN">Lack of space in house (finding)</displayName>
+<displayName lang="en" type="SY">Lack of space in home</displayName>
+<displayName lang="en" type="SY">Living space insufficient for needs</displayName>
+</concept>
+<concept code="160707003">
+<displayName lang="en" type="PT">Inadequate sanitation</displayName>
+<displayName lang="en" type="FSN">Inadequate sanitation (finding)</displayName>
+</concept>
+<concept code="160708008">
+<displayName lang="en" type="PT">Stairs in house</displayName>
+<displayName lang="en" type="FSN">Stairs in house (finding)</displayName>
+<displayName lang="en" type="SY">Stairs to climb in house</displayName>
+</concept>
+<concept code="160712002">
+<displayName lang="en" type="PT">Multiple occupancy</displayName>
+<displayName lang="en" type="FSN">Multiple occupancy (finding)</displayName>
+</concept>
+<concept code="160713007">
+<displayName lang="en" type="PT">No indoor toilet</displayName>
+<displayName lang="en" type="FSN">No indoor toilet (finding)</displayName>
+</concept>
+<concept code="160715000">
+<displayName lang="en" type="PT">House infested</displayName>
+<displayName lang="en" type="FSN">House infested (finding)</displayName>
+<displayName lang="en" type="SY">Home infested</displayName>
+</concept>
+<concept code="160716004">
+<displayName lang="en" type="PT">House liable to vandalism</displayName>
+<displayName lang="en" type="FSN">House liable to vandalism (finding)</displayName>
+<displayName lang="en" type="SY">Home liable to vandalism</displayName>
+</concept>
+<concept code="160717008">
+<displayName lang="en" type="PT">Divorced couple sharing house</displayName>
+<displayName lang="en" type="FSN">Divorced couple sharing house (finding)</displayName>
+<displayName lang="en" type="SY">Lives with divorced spouse</displayName>
+</concept>
+<concept code="160718003">
+<displayName lang="en" type="PT">Children not allowed in house</displayName>
+<displayName lang="en" type="FSN">Children not allowed in house (finding)</displayName>
+</concept>
+<concept code="160720000">
+<displayName lang="en" type="PT">Harassment by landlord</displayName>
+<displayName lang="en" type="FSN">Harassment by landlord (finding)</displayName>
+</concept>
+<concept code="160721001">
+<displayName lang="en" type="PT">Housing unsuited to needs</displayName>
+<displayName lang="en" type="FSN">Housing unsuited to needs (finding)</displayName>
+<displayName lang="en" type="SY">Inappropriate housing</displayName>
+<displayName lang="en" type="SY">Living conditions unsuited to needs</displayName>
+</concept>
+<concept code="160724009">
+<displayName lang="en" type="PT">Independent housing, not alone</displayName>
+<displayName lang="en" type="FSN">Independent housing, not alone (finding)</displayName>
+</concept>
+<concept code="160725005">
+<displayName lang="en" type="PT">Lives alone - help available</displayName>
+<displayName lang="en" type="FSN">Lives alone - help available (finding)</displayName>
+</concept>
+<concept code="160726006">
+<displayName lang="en" type="PT">Lives alone -no help available</displayName>
+<displayName lang="en" type="FSN">Lives alone -no help available (finding)</displayName>
+</concept>
+<concept code="160727002">
+<displayName lang="en" type="PT">Lives alone needs housekeeper</displayName>
+<displayName lang="en" type="FSN">Lives alone needs housekeeper (finding)</displayName>
+</concept>
+<concept code="160729004">
+<displayName lang="en" type="PT">Lives in sheltered housing</displayName>
+<displayName lang="en" type="FSN">Lives in sheltered housing (finding)</displayName>
+<displayName lang="en" type="SY">Lives in sheltered accommodation</displayName>
+</concept>
+<concept code="160732001">
+<displayName lang="en" type="PT">Resident in part III accommodation</displayName>
+<displayName lang="en" type="FSN">Resident in part III accommodation (finding)</displayName>
+</concept>
+<concept code="160734000">
+<displayName lang="en" type="PT">Lives in a nursing home</displayName>
+<displayName lang="en" type="FSN">Lives in a nursing home (finding)</displayName>
+</concept>
+<concept code="160736003">
+<displayName lang="en" type="PT">Lives in a welfare home</displayName>
+<displayName lang="en" type="FSN">Lives in a welfare home (finding)</displayName>
+</concept>
+<concept code="160737007">
+<displayName lang="en" type="PT">Lives in an old peoples home</displayName>
+<displayName lang="en" type="FSN">Lives in an old peoples home (finding)</displayName>
+</concept>
+<concept code="160738002">
+<displayName lang="en" type="PT">Lives in a children&apos;s home</displayName>
+<displayName lang="en" type="FSN">Lives in a children&apos;s home (finding)</displayName>
+</concept>
+<concept code="160744003">
+<displayName lang="en" type="PT">Lives in bed and breakfast accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in bed and breakfast accommodation (finding)</displayName>
+<displayName lang="en" type="SY">BB - Lives in bed and breakfast accommodation</displayName>
+<displayName lang="en" type="SY">Living in B&amp;B accommodation</displayName>
+</concept>
+<concept code="160745002">
+<displayName lang="en" type="PT">Lives in lodgings</displayName>
+<displayName lang="en" type="FSN">Lives in lodgings (finding)</displayName>
+<displayName lang="en" type="SY">Living in lodgings</displayName>
+</concept>
+<concept code="160746001">
+<displayName lang="en" type="PT">Lives in a bedsit</displayName>
+<displayName lang="en" type="FSN">Lives in a bedsit (finding)</displayName>
+<displayName lang="en" type="SY">Living in bedsitter</displayName>
+</concept>
+<concept code="160750008">
+<displayName lang="en" type="PT">Rehoused</displayName>
+<displayName lang="en" type="FSN">Rehoused (finding)</displayName>
+</concept>
+<concept code="160751007">
+<displayName lang="en" type="PT">Eviction from dwelling</displayName>
+<displayName lang="en" type="FSN">Eviction from dwelling (finding)</displayName>
+<displayName lang="en" type="SY">Housing problems - eviction</displayName>
+</concept>
+<concept code="160752000">
+<displayName lang="en" type="PT">Eviction notice served</displayName>
+<displayName lang="en" type="FSN">Eviction notice served (finding)</displayName>
+</concept>
+<concept code="160753005">
+<displayName lang="en" type="PT">Evicted forcibly from house</displayName>
+<displayName lang="en" type="FSN">Evicted forcibly from house (finding)</displayName>
+</concept>
+<concept code="160754004">
+<displayName lang="en" type="PT">Tenant evicted</displayName>
+<displayName lang="en" type="FSN">Tenant evicted (finding)</displayName>
+</concept>
+<concept code="160756002">
+<displayName lang="en" type="PT">Lives with relatives</displayName>
+<displayName lang="en" type="FSN">Lives with relatives (finding)</displayName>
+</concept>
+<concept code="160757006">
+<displayName lang="en" type="PT">Elderly relative lives with family</displayName>
+<displayName lang="en" type="FSN">Elderly relative lives with family (finding)</displayName>
+</concept>
+<concept code="160774006">
+<displayName lang="en" type="PT">Home help attends</displayName>
+<displayName lang="en" type="FSN">Home help attends (finding)</displayName>
+</concept>
+<concept code="160775007">
+<displayName lang="en" type="PT">Home help requested</displayName>
+<displayName lang="en" type="FSN">Home help requested (finding)</displayName>
+</concept>
+<concept code="160777004">
+<displayName lang="en" type="PT">Home help needed</displayName>
+<displayName lang="en" type="FSN">Home help needed (finding)</displayName>
+</concept>
+<concept code="160936008">
+<displayName lang="en" type="PT">Houseowner - no mortgage</displayName>
+<displayName lang="en" type="FSN">Houseowner - no mortgage (finding)</displayName>
+</concept>
+<concept code="160937004">
+<displayName lang="en" type="PT">Houseowner with mortgage</displayName>
+<displayName lang="en" type="FSN">Houseowner with mortgage (finding)</displayName>
+</concept>
+<concept code="160938009">
+<displayName lang="en" type="PT">House rented from council</displayName>
+<displayName lang="en" type="FSN">House rented from council (finding)</displayName>
+</concept>
+<concept code="160939001">
+<displayName lang="en" type="PT">House rented from housing association</displayName>
+<displayName lang="en" type="FSN">House rented from housing association (finding)</displayName>
+</concept>
+<concept code="160940004">
+<displayName lang="en" type="PT">House rented from private landlord</displayName>
+<displayName lang="en" type="FSN">House rented from private landlord (finding)</displayName>
+</concept>
+<concept code="160941000">
+<displayName lang="en" type="PT">Telephone in house</displayName>
+<displayName lang="en" type="FSN">Telephone in house (finding)</displayName>
+</concept>
+<concept code="160942007">
+<displayName lang="en" type="PT">Public telephone only</displayName>
+<displayName lang="en" type="FSN">Public telephone only (finding)</displayName>
+</concept>
+<concept code="160943002">
+<displayName lang="en" type="PT">Lives in own home</displayName>
+<displayName lang="en" type="FSN">Lives in own home (finding)</displayName>
+<displayName lang="en" type="SY">Owner-occupier</displayName>
+</concept>
+<concept code="161036002">
+<displayName lang="en" type="PT">Housing adequate</displayName>
+<displayName lang="en" type="FSN">Housing adequate (finding)</displayName>
+</concept>
+<concept code="161039009">
+<displayName lang="en" type="PT">No benefits received</displayName>
+<displayName lang="en" type="FSN">No benefits received (finding)</displayName>
+</concept>
+<concept code="161040006">
+<displayName lang="en" type="PT">Entitled to benefits</displayName>
+<displayName lang="en" type="FSN">Entitled to benefits (finding)</displayName>
+<displayName lang="en" type="SY">Eligible for benefit</displayName>
+<displayName lang="en" type="SY">Should have benefit</displayName>
+</concept>
+<concept code="161050007">
+<displayName lang="en" type="PT">At risk accident in home</displayName>
+<displayName lang="en" type="FSN">At risk accident in home (finding)</displayName>
+</concept>
+<concept code="161051006">
+<displayName lang="en" type="PT">At risk violence in the home</displayName>
+<displayName lang="en" type="FSN">At risk violence in the home (finding)</displayName>
+</concept>
+<concept code="161056001">
+<displayName lang="en" type="PT">In care</displayName>
+<displayName lang="en" type="FSN">In care (finding)</displayName>
+</concept>
+<concept code="185955000">
+<displayName lang="en" type="PT">On urgent housing list</displayName>
+<displayName lang="en" type="FSN">On urgent housing list (finding)</displayName>
+</concept>
+<concept code="185956004">
+<displayName lang="en" type="PT">On housing list</displayName>
+<displayName lang="en" type="FSN">On housing list (finding)</displayName>
+</concept>
+<concept code="185957008">
+<displayName lang="en" type="PT">Awaiting housing improvement</displayName>
+<displayName lang="en" type="FSN">Awaiting housing improvement (finding)</displayName>
+</concept>
+<concept code="185960001">
+<displayName lang="en" type="PT">Housing problem solved</displayName>
+<displayName lang="en" type="FSN">Housing problem solved (finding)</displayName>
+</concept>
+<concept code="185961002">
+<displayName lang="en" type="PT">House fumigated</displayName>
+<displayName lang="en" type="FSN">House fumigated (finding)</displayName>
+</concept>
+<concept code="224131009">
+<displayName lang="en" type="PT">Lives with friends</displayName>
+<displayName lang="en" type="FSN">Lives with friends (finding)</displayName>
+</concept>
+<concept code="224132002">
+<displayName lang="en" type="PT">Lives with friend</displayName>
+<displayName lang="en" type="FSN">Lives with friend (finding)</displayName>
+</concept>
+<concept code="224133007">
+<displayName lang="en" type="PT">Lives with family</displayName>
+<displayName lang="en" type="FSN">Lives with family (finding)</displayName>
+</concept>
+<concept code="224134001">
+<displayName lang="en" type="PT">Lives with children</displayName>
+<displayName lang="en" type="FSN">Lives with children (finding)</displayName>
+</concept>
+<concept code="224135000">
+<displayName lang="en" type="PT">Lives with daughter</displayName>
+<displayName lang="en" type="FSN">Lives with daughter (finding)</displayName>
+</concept>
+<concept code="224136004">
+<displayName lang="en" type="PT">Lives with son</displayName>
+<displayName lang="en" type="FSN">Lives with son (finding)</displayName>
+</concept>
+<concept code="224137008">
+<displayName lang="en" type="PT">Lives with parents</displayName>
+<displayName lang="en" type="FSN">Lives with parents (finding)</displayName>
+</concept>
+<concept code="224139006">
+<displayName lang="en" type="PT">Lives with mother</displayName>
+<displayName lang="en" type="FSN">Lives with mother (finding)</displayName>
+</concept>
+<concept code="224140008">
+<displayName lang="en" type="PT">Lives with father</displayName>
+<displayName lang="en" type="FSN">Lives with father (finding)</displayName>
+</concept>
+<concept code="224141007">
+<displayName lang="en" type="PT">Lives with grandparents</displayName>
+<displayName lang="en" type="FSN">Lives with grandparents (finding)</displayName>
+</concept>
+<concept code="224142000">
+<displayName lang="en" type="PT">Lives with grandfather</displayName>
+<displayName lang="en" type="FSN">Lives with grandfather (finding)</displayName>
+</concept>
+<concept code="224143005">
+<displayName lang="en" type="PT">Lives with grandmother</displayName>
+<displayName lang="en" type="FSN">Lives with grandmother (finding)</displayName>
+</concept>
+<concept code="224144004">
+<displayName lang="en" type="PT">Lives with lodger</displayName>
+<displayName lang="en" type="FSN">Lives with lodger (finding)</displayName>
+</concept>
+<concept code="224145003">
+<displayName lang="en" type="PT">Lives as companion</displayName>
+<displayName lang="en" type="FSN">Lives as companion (finding)</displayName>
+</concept>
+<concept code="224146002">
+<displayName lang="en" type="PT">Lives as paid companion</displayName>
+<displayName lang="en" type="FSN">Lives as paid companion (finding)</displayName>
+</concept>
+<concept code="224147006">
+<displayName lang="en" type="PT">Lives as unpaid companion</displayName>
+<displayName lang="en" type="FSN">Lives as unpaid companion (finding)</displayName>
+</concept>
+<concept code="224148001">
+<displayName lang="en" type="PT">Lives in a school community</displayName>
+<displayName lang="en" type="FSN">Lives in a school community (finding)</displayName>
+</concept>
+<concept code="224149009">
+<displayName lang="en" type="PT">Lives in a commune</displayName>
+<displayName lang="en" type="FSN">Lives in a commune (finding)</displayName>
+</concept>
+<concept code="224157007">
+<displayName lang="en" type="PT">Public telephone facilities</displayName>
+<displayName lang="en" type="FSN">Public telephone facilities (finding)</displayName>
+</concept>
+<concept code="224169004">
+<displayName lang="en" type="PT">No household income</displayName>
+<displayName lang="en" type="FSN">No household income (finding)</displayName>
+</concept>
+<concept code="224170003">
+<displayName lang="en" type="PT">Low household income</displayName>
+<displayName lang="en" type="FSN">Low household income (finding)</displayName>
+</concept>
+<concept code="224171004">
+<displayName lang="en" type="PT">Moderate household income</displayName>
+<displayName lang="en" type="FSN">Moderate household income (finding)</displayName>
+</concept>
+<concept code="224172006">
+<displayName lang="en" type="PT">High household income</displayName>
+<displayName lang="en" type="FSN">High household income (finding)</displayName>
+</concept>
+<concept code="224194003">
+<displayName lang="en" type="PT">Not entitled to benefits</displayName>
+<displayName lang="en" type="FSN">Not entitled to benefits (finding)</displayName>
+<displayName lang="en" type="SY">Not eligible for benefit</displayName>
+</concept>
+<concept code="224195002">
+<displayName lang="en" type="PT">Entitlement to benefits uncertain</displayName>
+<displayName lang="en" type="FSN">Entitlement to benefits uncertain (finding)</displayName>
+</concept>
+<concept code="224197005">
+<displayName lang="en" type="PT">Not receiving all benefits due</displayName>
+<displayName lang="en" type="FSN">Not receiving all benefits due (finding)</displayName>
+</concept>
+<concept code="224198000">
+<displayName lang="en" type="PT">Delay in receiving benefits</displayName>
+<displayName lang="en" type="FSN">Delay in receiving benefits (finding)</displayName>
+</concept>
+<concept code="224199008">
+<displayName lang="en" type="PT">Loss of benefits</displayName>
+<displayName lang="en" type="FSN">Loss of benefits (finding)</displayName>
+</concept>
+<concept code="224211003">
+<displayName lang="en" type="PT">Does not own home</displayName>
+<displayName lang="en" type="FSN">Does not own home (finding)</displayName>
+</concept>
+<concept code="224212005">
+<displayName lang="en" type="PT">Home owned by family member</displayName>
+<displayName lang="en" type="FSN">Home owned by family member (finding)</displayName>
+<displayName lang="en" type="SY">Home owned by relative</displayName>
+</concept>
+<concept code="224213000">
+<displayName lang="en" type="PT">Lives in rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in rented accommodation (finding)</displayName>
+</concept>
+<concept code="224214006">
+<displayName lang="en" type="PT">Lives in furnished rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in furnished rented accommodation (finding)</displayName>
+</concept>
+<concept code="224215007">
+<displayName lang="en" type="PT">Lives in unfurnished rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in unfurnished rented accommodation (finding)</displayName>
+</concept>
+<concept code="224216008">
+<displayName lang="en" type="PT">Lives under a landlady scheme</displayName>
+<displayName lang="en" type="FSN">Lives under a landlady scheme (finding)</displayName>
+</concept>
+<concept code="224217004">
+<displayName lang="en" type="PT">Lives in tied accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in tied accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Accommodation tied to job</displayName>
+</concept>
+<concept code="224218009">
+<displayName lang="en" type="PT">Lives in hotel</displayName>
+<displayName lang="en" type="FSN">Lives in hotel (finding)</displayName>
+</concept>
+<concept code="224219001">
+<displayName lang="en" type="PT">Lives in independent group home</displayName>
+<displayName lang="en" type="FSN">Lives in independent group home (finding)</displayName>
+<displayName lang="en" type="SY">Lives in a community home</displayName>
+</concept>
+<concept code="224220007">
+<displayName lang="en" type="PT">Lives in supported home</displayName>
+<displayName lang="en" type="FSN">Lives in supported home (finding)</displayName>
+</concept>
+<concept code="224221006">
+<displayName lang="en" type="PT">Lives in warden controlled accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in warden controlled accommodation (finding)</displayName>
+</concept>
+<concept code="224222004">
+<displayName lang="en" type="PT">Lives in accommodation with resident warden</displayName>
+<displayName lang="en" type="FSN">Lives in accommodation with resident warden (finding)</displayName>
+</concept>
+<concept code="224223009">
+<displayName lang="en" type="PT">Lives in accommodation with visiting warden</displayName>
+<displayName lang="en" type="FSN">Lives in accommodation with visiting warden (finding)</displayName>
+<displayName lang="en" type="SY">Lives in accommodation with peripatetic warden</displayName>
+</concept>
+<concept code="224224003">
+<displayName lang="en" type="PT">Lives in staffed home</displayName>
+<displayName lang="en" type="FSN">Lives in staffed home (finding)</displayName>
+</concept>
+<concept code="224225002">
+<displayName lang="en" type="PT">Lives in hospital</displayName>
+<displayName lang="en" type="FSN">Lives in hospital (finding)</displayName>
+</concept>
+<concept code="224226001">
+<displayName lang="en" type="PT">No fixed abode</displayName>
+<displayName lang="en" type="FSN">No fixed abode (finding)</displayName>
+<displayName lang="en" type="SY">NFA - No fixed abode</displayName>
+</concept>
+<concept code="224228000">
+<displayName lang="en" type="PT">Living rough</displayName>
+<displayName lang="en" type="FSN">Living rough (finding)</displayName>
+</concept>
+<concept code="224229008">
+<displayName lang="en" type="PT">Sleeping out</displayName>
+<displayName lang="en" type="FSN">Sleeping out (finding)</displayName>
+<displayName lang="en" type="SY">Sleeping rough</displayName>
+</concept>
+<concept code="224231004">
+<displayName lang="en" type="PT">Sleeping in night shelter</displayName>
+<displayName lang="en" type="FSN">Sleeping in night shelter (finding)</displayName>
+</concept>
+<concept code="224232006">
+<displayName lang="en" type="PT">Sleeping at friends home</displayName>
+<displayName lang="en" type="FSN">Sleeping at friends home (finding)</displayName>
+</concept>
+<concept code="224233001">
+<displayName lang="en" type="PT">Sleeping in vehicle</displayName>
+<displayName lang="en" type="FSN">Sleeping in vehicle (finding)</displayName>
+</concept>
+<concept code="224234007">
+<displayName lang="en" type="PT">Home repossessed</displayName>
+<displayName lang="en" type="FSN">Home repossessed (finding)</displayName>
+</concept>
+<concept code="224236009">
+<displayName lang="en" type="PT">Not eligible for accommodation</displayName>
+<displayName lang="en" type="FSN">Not eligible for accommodation (finding)</displayName>
+</concept>
+<concept code="224237000">
+<displayName lang="en" type="PT">Eligible for accommodation</displayName>
+<displayName lang="en" type="FSN">Eligible for accommodation (finding)</displayName>
+</concept>
+<concept code="224239002">
+<displayName lang="en" type="PT">On waiting list for accommodation</displayName>
+<displayName lang="en" type="FSN">On waiting list for accommodation (finding)</displayName>
+</concept>
+<concept code="224241001">
+<displayName lang="en" type="PT">Not on waiting list for accommodation</displayName>
+<displayName lang="en" type="FSN">Not on waiting list for accommodation (finding)</displayName>
+</concept>
+<concept code="224243003">
+<displayName lang="en" type="PT">Communal areas in accommodation</displayName>
+<displayName lang="en" type="FSN">Communal areas in accommodation (finding)</displayName>
+</concept>
+<concept code="224244009">
+<displayName lang="en" type="PT">No communal areas in accommodation</displayName>
+<displayName lang="en" type="FSN">No communal areas in accommodation (finding)</displayName>
+</concept>
+<concept code="224246006">
+<displayName lang="en" type="PT">Private areas available in accommodation</displayName>
+<displayName lang="en" type="FSN">Private areas available in accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Space for privacy available</displayName>
+</concept>
+<concept code="224247002">
+<displayName lang="en" type="PT">Has own room</displayName>
+<displayName lang="en" type="FSN">Has own room (finding)</displayName>
+</concept>
+<concept code="224248007">
+<displayName lang="en" type="PT">Lack of space for privacy in accommodation</displayName>
+<displayName lang="en" type="FSN">Lack of space for privacy in accommodation (finding)</displayName>
+</concept>
+<concept code="224250004">
+<displayName lang="en" type="PT">Satisfactory living conditions</displayName>
+<displayName lang="en" type="FSN">Satisfactory living conditions (finding)</displayName>
+</concept>
+<concept code="224251000">
+<displayName lang="en" type="PT">Problem with condensation</displayName>
+<displayName lang="en" type="FSN">Problem with condensation (finding)</displayName>
+</concept>
+<concept code="224252007">
+<displayName lang="en" type="PT">Rising damp in home</displayName>
+<displayName lang="en" type="FSN">Rising damp in home (finding)</displayName>
+</concept>
+<concept code="224253002">
+<displayName lang="en" type="PT">Penetrating damp in home</displayName>
+<displayName lang="en" type="FSN">Penetrating damp in home (finding)</displayName>
+</concept>
+<concept code="224254008">
+<displayName lang="en" type="PT">Wet patches on wall in home</displayName>
+<displayName lang="en" type="FSN">Wet patches on wall in home (finding)</displayName>
+</concept>
+<concept code="224255009">
+<displayName lang="en-GB" type="PT">Mould growth in home</displayName>
+<displayName lang="en" type="FSN">Mold growth in home (finding)</displayName>
+</concept>
+<concept code="224256005">
+<displayName lang="en-GB" type="PT">Mould on surfaces in home</displayName>
+<displayName lang="en" type="FSN">Mold on surfaces in home (finding)</displayName>
+</concept>
+<concept code="224257001">
+<displayName lang="en-GB" type="PT">Mould on clothing in home</displayName>
+<displayName lang="en" type="FSN">Mold on clothing in home (finding)</displayName>
+</concept>
+<concept code="224258006">
+<displayName lang="en-GB" type="PT">Mould on bedding in home</displayName>
+<displayName lang="en" type="FSN">Mold on bedding in home (finding)</displayName>
+</concept>
+<concept code="224259003">
+<displayName lang="en" type="PT">Home subject to flooding</displayName>
+<displayName lang="en" type="FSN">Home subject to flooding (finding)</displayName>
+</concept>
+<concept code="224260008">
+<displayName lang="en" type="PT">Hazards in the home</displayName>
+<displayName lang="en" type="FSN">Hazards in the home (finding)</displayName>
+</concept>
+<concept code="224262000">
+<displayName lang="en" type="PT">House in good repair</displayName>
+<displayName lang="en" type="FSN">House in good repair (finding)</displayName>
+</concept>
+<concept code="224264004">
+<displayName lang="en" type="PT">Living space sufficient for needs</displayName>
+<displayName lang="en" type="FSN">Living space sufficient for needs (finding)</displayName>
+</concept>
+<concept code="224266002">
+<displayName lang="en-GB" type="PT">Home well personalised</displayName>
+<displayName lang="en" type="FSN">Home well personalized (finding)</displayName>
+</concept>
+<concept code="224267006">
+<displayName lang="en-GB" type="PT">Home poorly personalised</displayName>
+<displayName lang="en" type="FSN">Home poorly personalized (finding)</displayName>
+</concept>
+<concept code="224269009">
+<displayName lang="en" type="PT">Clean home</displayName>
+<displayName lang="en" type="FSN">Clean home (finding)</displayName>
+</concept>
+<concept code="224270005">
+<displayName lang="en" type="PT">Dirty home</displayName>
+<displayName lang="en" type="FSN">Dirty home (finding)</displayName>
+</concept>
+<concept code="224271009">
+<displayName lang="en" type="PT">Lives in squalid conditions</displayName>
+<displayName lang="en" type="FSN">Lives in squalid conditions (finding)</displayName>
+</concept>
+<concept code="224273007">
+<displayName lang="en" type="PT">Home tidy</displayName>
+<displayName lang="en" type="FSN">Home tidy (finding)</displayName>
+</concept>
+<concept code="224274001">
+<displayName lang="en" type="PT">Home untidy</displayName>
+<displayName lang="en" type="FSN">Home untidy (finding)</displayName>
+</concept>
+<concept code="224276004">
+<displayName lang="en" type="PT">Newly decorated accommodation</displayName>
+<displayName lang="en" type="FSN">Newly decorated accommodation (finding)</displayName>
+</concept>
+<concept code="224277008">
+<displayName lang="en" type="PT">Accommodation not decorated recently</displayName>
+<displayName lang="en" type="FSN">Accommodation not decorated recently (finding)</displayName>
+</concept>
+<concept code="225933000">
+<displayName lang="en" type="PT">At risk from fire</displayName>
+<displayName lang="en" type="FSN">At risk from fire (finding)</displayName>
+<displayName lang="en" type="SY">Fire risk</displayName>
+</concept>
+<concept code="225934006">
+<displayName lang="en" type="PT">Smokes in bed</displayName>
+<displayName lang="en" type="FSN">Smokes in bed (finding)</displayName>
+</concept>
+<concept code="225935007">
+<displayName lang="en" type="PT">Hides lit cigarettes in pockets</displayName>
+<displayName lang="en" type="FSN">Hides lit cigarettes in pockets (finding)</displayName>
+</concept>
+<concept code="225936008">
+<displayName lang="en" type="PT">Drops unextinguished cigarettes</displayName>
+<displayName lang="en" type="FSN">Drops unextinguished cigarettes (finding)</displayName>
+</concept>
+<concept code="225937004">
+<displayName lang="en" type="PT">Drops unextinguished matches</displayName>
+<displayName lang="en" type="FSN">Drops unextinguished matches (finding)</displayName>
+</concept>
+<concept code="228524006">
+<displayName lang="en" type="PT">Exposed to tobacco smoke at home</displayName>
+<displayName lang="en" type="FSN">Exposed to tobacco smoke at home (finding)</displayName>
+</concept>
+<concept code="247948004">
+<displayName lang="en" type="PT">Resistance to changes in household contents</displayName>
+<displayName lang="en" type="FSN">Resistance to changes in household contents (finding)</displayName>
+</concept>
+<concept code="248543000">
+<displayName lang="en" type="PT">Housing very unsatisfactory</displayName>
+<displayName lang="en" type="FSN">Housing very unsatisfactory (finding)</displayName>
+</concept>
+<concept code="266935003">
+<displayName lang="en" type="PT">Housing lack</displayName>
+<displayName lang="en" type="FSN">Housing lack (finding)</displayName>
+</concept>
+<concept code="266936002">
+<displayName lang="en" type="PT">House in poor repair</displayName>
+<displayName lang="en" type="FSN">House in poor repair (finding)</displayName>
+</concept>
+<concept code="266939009">
+<displayName lang="en" type="PT">Lives in residential hostel</displayName>
+<displayName lang="en" type="FSN">Lives in residential hostel (finding)</displayName>
+<displayName lang="en" type="SY">Living in hostel</displayName>
+</concept>
+<concept code="266940006">
+<displayName lang="en" type="PT">Lives in squat</displayName>
+<displayName lang="en" type="FSN">Lives in squat (finding)</displayName>
+<displayName lang="en" type="SY">Squatter</displayName>
+</concept>
+<concept code="267129008">
+<displayName lang="en" type="PT">Inadequate housing</displayName>
+<displayName lang="en" type="FSN">Inadequate housing (finding)</displayName>
+</concept>
+<concept code="270469004">
+<displayName lang="en" type="PT">Lives in warden attended accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in warden attended accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Warden attended</displayName>
+</concept>
+<concept code="275643002">
+<displayName lang="en" type="PT">Housing - awaiting action</displayName>
+<displayName lang="en" type="FSN">Housing - awaiting action (finding)</displayName>
+</concept>
+<concept code="276051005">
+<displayName lang="en" type="PT">Fixed equipment in home</displayName>
+<displayName lang="en" type="FSN">Fixed equipment in home (finding)</displayName>
+</concept>
+<concept code="276053008">
+<displayName lang="en" type="PT">Tenure of accommodation</displayName>
+<displayName lang="en" type="FSN">Tenure of accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Housing tenure</displayName>
+</concept>
+<concept code="276055001">
+<displayName lang="en" type="PT">Access to or within the residence</displayName>
+<displayName lang="en" type="FSN">Access to or within the residence (finding)</displayName>
+</concept>
+<concept code="286185000">
+<displayName lang="en" type="PT">Able to tidy house</displayName>
+<displayName lang="en" type="FSN">Able to tidy house (finding)</displayName>
+</concept>
+<concept code="286186004">
+<displayName lang="en" type="PT">Unable to tidy house</displayName>
+<displayName lang="en" type="FSN">Unable to tidy house (finding)</displayName>
+</concept>
+<concept code="286187008">
+<displayName lang="en" type="PT">Does tidy house</displayName>
+<displayName lang="en" type="FSN">Does tidy house (finding)</displayName>
+<displayName lang="en" type="SY">Tidies house</displayName>
+</concept>
+<concept code="286188003">
+<displayName lang="en" type="PT">Does not tidy house</displayName>
+<displayName lang="en" type="FSN">Does not tidy house (finding)</displayName>
+</concept>
+<concept code="286189006">
+<displayName lang="en" type="PT">Difficulty tidying house</displayName>
+<displayName lang="en" type="FSN">Difficulty tidying house (finding)</displayName>
+</concept>
+<concept code="286194006">
+<displayName lang="en" type="PT">Does close home securely</displayName>
+<displayName lang="en" type="FSN">Does close home securely (finding)</displayName>
+<displayName lang="en" type="SY">Closes house securely</displayName>
+</concept>
+<concept code="286201004">
+<displayName lang="en" type="PT">Does open home when secured</displayName>
+<displayName lang="en" type="FSN">Does open home when secured (finding)</displayName>
+<displayName lang="en" type="SY">Opens house when secured</displayName>
+</concept>
+<concept code="302145009">
+<displayName lang="en" type="PT">Owns own home</displayName>
+<displayName lang="en" type="FSN">Owns own home (finding)</displayName>
+<displayName lang="en" type="SY">Homeowner</displayName>
+</concept>
+<concept code="307104007">
+<displayName lang="en" type="PT">Lives with companion</displayName>
+<displayName lang="en" type="FSN">Lives with companion (finding)</displayName>
+</concept>
+<concept code="307106009">
+<displayName lang="en" type="PT">Lives in boarding school</displayName>
+<displayName lang="en" type="FSN">Lives in boarding school (finding)</displayName>
+</concept>
+<concept code="308899009">
+<displayName lang="en" type="PT">Unsatisfactory living conditions</displayName>
+<displayName lang="en" type="FSN">Unsatisfactory living conditions (finding)</displayName>
+<displayName lang="en-GB" type="SY">Unfavourable living conditions</displayName>
+</concept>
+<concept code="309681005">
+<displayName lang="en" type="PT">Lives in furnished rented flat</displayName>
+<displayName lang="en" type="FSN">Lives in furnished rented flat (finding)</displayName>
+</concept>
+<concept code="309682003">
+<displayName lang="en" type="PT">Poor housing</displayName>
+<displayName lang="en" type="FSN">Poor housing (finding)</displayName>
+</concept>
+<concept code="309683008">
+<displayName lang="en" type="PT">Slum housing</displayName>
+<displayName lang="en" type="FSN">Slum housing (finding)</displayName>
+</concept>
+<concept code="310855005">
+<displayName lang="en" type="PT">Housing report requested</displayName>
+<displayName lang="en" type="FSN">Housing report requested (finding)</displayName>
+</concept>
+<concept code="310856006">
+<displayName lang="en" type="PT">Housing report sent</displayName>
+<displayName lang="en" type="FSN">Housing report sent (finding)</displayName>
+</concept>
+<concept code="310857002">
+<displayName lang="en" type="PT">Housing report paid</displayName>
+<displayName lang="en" type="FSN">Housing report paid (finding)</displayName>
+</concept>
+<concept code="310869005">
+<displayName lang="en" type="PT">Planning to move</displayName>
+<displayName lang="en" type="FSN">Planning to move (finding)</displayName>
+</concept>
+<concept code="360875003">
+<displayName lang="en" type="PT">Moving to new residence</displayName>
+<displayName lang="en" type="FSN">Moving to new residence (finding)</displayName>
+</concept>
+<concept code="360885002">
+<displayName lang="en" type="PT">Change of residence status</displayName>
+<displayName lang="en" type="FSN">Change of residence status (finding)</displayName>
+</concept>
+<concept code="394923006">
+<displayName lang="en" type="PT">Lives in a residential home</displayName>
+<displayName lang="en" type="FSN">Lives in a residential home (finding)</displayName>
+</concept>
+<concept code="397756006">
+<displayName lang="en" type="PT">Lives in damp conditions</displayName>
+<displayName lang="en" type="FSN">Lives in damp conditions (finding)</displayName>
+</concept>
+<concept code="398081001">
+<displayName lang="en" type="PT">Damp in house</displayName>
+<displayName lang="en" type="FSN">Damp in house (finding)</displayName>
+<displayName lang="en" type="SY">Damp housing</displayName>
+<displayName lang="en" type="SY">Damp in home</displayName>
+</concept>
+<concept code="400985006">
+<displayName lang="en" type="PT">Needs help with housework</displayName>
+<displayName lang="en" type="FSN">Needs help with housework (finding)</displayName>
+</concept>
+<concept code="406129009">
+<displayName lang="en" type="PT">Environmental infestation of rodents</displayName>
+<displayName lang="en" type="FSN">Environmental infestation of rodents (finding)</displayName>
+</concept>
+<concept code="406130004">
+<displayName lang="en" type="PT">Environmental infestation of insects</displayName>
+<displayName lang="en" type="FSN">Environmental infestation of insects (finding)</displayName>
+</concept>
+<concept code="406131000">
+<displayName lang="en-GB" type="PT">Inadequate rubbish disposal</displayName>
+<displayName lang="en" type="FSN">Inadequate garbage disposal (finding)</displayName>
+<displayName lang="en" type="SY">Inadequate refuse disposal</displayName>
+</concept>
+<concept code="406132007">
+<displayName lang="en" type="PT">Living temporarily with relatives</displayName>
+<displayName lang="en" type="FSN">Living temporarily with relatives (finding)</displayName>
+</concept>
+<concept code="406133002">
+<displayName lang="en" type="PT">High community crime rate</displayName>
+<displayName lang="en" type="FSN">High community crime rate (finding)</displayName>
+<displayName lang="en" type="SY">High crime rate</displayName>
+<displayName lang="en" type="SY">High crime rate in locality</displayName>
+</concept>
+<concept code="408820001">
+<displayName lang="en" type="PT">Lives with husband</displayName>
+<displayName lang="en" type="FSN">Lives with husband (finding)</displayName>
+</concept>
+<concept code="408821002">
+<displayName lang="en" type="PT">Lives with partner</displayName>
+<displayName lang="en" type="FSN">Lives with partner (finding)</displayName>
+</concept>
+<concept code="412769006">
+<displayName lang="en" type="PT">Lives in mother and baby unit</displayName>
+<displayName lang="en" type="FSN">Lives in mother and baby unit (finding)</displayName>
+</concept>
+<concept code="413287003">
+<displayName lang="en" type="PT">More than 3 address changes in 12 months</displayName>
+<displayName lang="en" type="FSN">More than 3 address changes in 12 months (finding)</displayName>
+</concept>
+<concept code="413304006">
+<displayName lang="en" type="PT">Inadequate cooking facilities</displayName>
+<displayName lang="en" type="FSN">Inadequate cooking facilities (finding)</displayName>
+</concept>
+<concept code="413305007">
+<displayName lang="en" type="PT">Inadequate safety equipment</displayName>
+<displayName lang="en" type="FSN">Inadequate safety equipment (finding)</displayName>
+</concept>
+<concept code="413325006">
+<displayName lang="en" type="PT">Safe play area</displayName>
+<displayName lang="en" type="FSN">Safe play area (finding)</displayName>
+</concept>
+<concept code="414418009">
+<displayName lang="en" type="PT">Housed</displayName>
+<displayName lang="en" type="FSN">Housed (finding)</displayName>
+<displayName lang="en" type="SY">Living in house</displayName>
+</concept>
+<concept code="422423006">
+<displayName lang="en" type="PT">Cultural barrier impedes ability to use community resources</displayName>
+<displayName lang="en" type="FSN">Cultural barrier impedes ability to use community resources (finding)</displayName>
+</concept>
+<concept code="422438007">
+<displayName lang="en" type="PT">Inadequate exercise space</displayName>
+<displayName lang="en" type="FSN">Inadequate exercise space (finding)</displayName>
+</concept>
+<concept code="422454005">
+<displayName lang="en" type="PT">Unable to use communication device to communicate with community resources</displayName>
+<displayName lang="en" type="FSN">Unable to use communication device to communicate with community resources (finding)</displayName>
+</concept>
+<concept code="422491004">
+<displayName lang="en" type="PT">Housing contains exposed wiring</displayName>
+<displayName lang="en" type="FSN">Housing contains exposed wiring (finding)</displayName>
+<displayName lang="en" type="SY">Residence contains exposed wiring</displayName>
+</concept>
+<concept code="422526001">
+<displayName lang="en" type="PT">Environment contains chemical hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains chemical hazards (finding)</displayName>
+</concept>
+<concept code="422555009">
+<displayName lang="en" type="PT">Environment with high pollution level</displayName>
+<displayName lang="en" type="FSN">Environment with high pollution level (finding)</displayName>
+</concept>
+<concept code="422651008">
+<displayName lang="en" type="PT">Limited access to community support services</displayName>
+<displayName lang="en" type="FSN">Limited access to community support services (finding)</displayName>
+</concept>
+<concept code="422663003">
+<displayName lang="en" type="PT">Environment contains dangerous animal</displayName>
+<displayName lang="en" type="FSN">Environment contains dangerous animal (finding)</displayName>
+</concept>
+<concept code="422700009">
+<displayName lang="en" type="PT">Environment contains contaminating agent</displayName>
+<displayName lang="en" type="FSN">Environment contains contaminating agent (finding)</displayName>
+</concept>
+<concept code="422712008">
+<displayName lang="en" type="PT">Housing contains unsafe equipment</displayName>
+<displayName lang="en" type="FSN">Housing contains unsafe equipment (finding)</displayName>
+<displayName lang="en" type="SY">Residence contains unsafe equipment</displayName>
+</concept>
+<concept code="422716006">
+<displayName lang="en" type="PT">Difficulty understanding community service provider role</displayName>
+<displayName lang="en" type="FSN">Difficulty understanding community service provider role (finding)</displayName>
+</concept>
+<concept code="422766000">
+<displayName lang="en" type="PT">Unsafe play area</displayName>
+<displayName lang="en" type="FSN">Unsafe play area (finding)</displayName>
+</concept>
+<concept code="422857009">
+<displayName lang="en" type="PT">Environment contains physical hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains physical hazards (finding)</displayName>
+</concept>
+<concept code="422883004">
+<displayName lang="en" type="PT">Housing contains unsafe appliance</displayName>
+<displayName lang="en" type="FSN">Housing contains unsafe appliance (finding)</displayName>
+<displayName lang="en" type="SY">Residence contains unsafe appliance</displayName>
+</concept>
+<concept code="422896003">
+<displayName lang="en-GB" type="PT">Environment contains mould</displayName>
+<displayName lang="en" type="FSN">Environment contains mold (finding)</displayName>
+</concept>
+<concept code="422923002">
+<displayName lang="en" type="PT">Inadequate community resources</displayName>
+<displayName lang="en" type="FSN">Inadequate community resources (finding)</displayName>
+</concept>
+<concept code="422935003">
+<displayName lang="en" type="PT">Environment contains biological hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains biological hazards (finding)</displayName>
+<displayName lang="en" type="SY">Exposure to environmental contaminants</displayName>
+</concept>
+<concept code="422941005">
+<displayName lang="en" type="PT">Unsafe exercise area</displayName>
+<displayName lang="en" type="FSN">Unsafe exercise area (finding)</displayName>
+</concept>
+<concept code="423098009">
+<displayName lang="en" type="PT">Steep stairs in house</displayName>
+<displayName lang="en" type="FSN">Steep stairs in house (finding)</displayName>
+</concept>
+<concept code="423107007">
+<displayName lang="en" type="PT">Environment contains radiological material hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains radiological material hazards (finding)</displayName>
+</concept>
+<concept code="423130001">
+<displayName lang="en" type="PT">Excessive pets</displayName>
+<displayName lang="en" type="FSN">Excessive pets (finding)</displayName>
+</concept>
+<concept code="423147000">
+<displayName lang="en" type="PT">Environment contains allergens</displayName>
+<displayName lang="en" type="FSN">Environment contains allergens (finding)</displayName>
+</concept>
+<concept code="423155007">
+<displayName lang="en" type="PT">Housing contains structural barriers to movement</displayName>
+<displayName lang="en" type="FSN">Housing contains structural barriers to movement (finding)</displayName>
+<displayName lang="en" type="SY">Residence contains structural barriers to movement</displayName>
+</concept>
+<concept code="423246000">
+<displayName lang="en" type="PT">Environment contains infectious agent</displayName>
+<displayName lang="en" type="FSN">Environment contains infectious agent (finding)</displayName>
+</concept>
+<concept code="423525008">
+<displayName lang="en" type="PT">Inadequate use of communication device to communicate with community resources</displayName>
+<displayName lang="en" type="FSN">Inadequate use of communication device to communicate with community resources (finding)</displayName>
+</concept>
+<concept code="423527000">
+<displayName lang="en" type="PT">Unsafe floor covering</displayName>
+<displayName lang="en" type="FSN">Unsafe floor covering (finding)</displayName>
+<displayName lang="en" type="SY">Unsafe floor mat</displayName>
+<displayName lang="en" type="SY">Unsafe rug</displayName>
+</concept>
+<concept code="423528005">
+<displayName lang="en" type="PT">Inadequate sewage disposal</displayName>
+<displayName lang="en" type="FSN">Inadequate sewage disposal (finding)</displayName>
+</concept>
+<concept code="423593006">
+<displayName lang="en" type="PT">Inadequate healthcare resources</displayName>
+<displayName lang="en" type="FSN">Inadequate healthcare resources (finding)</displayName>
+</concept>
+<concept code="423730009">
+<displayName lang="en" type="PT">Inadequate laundry facilities</displayName>
+<displayName lang="en" type="FSN">Inadequate laundry facilities (finding)</displayName>
+</concept>
+<concept code="423798004">
+<displayName lang="en" type="PT">Lack of cooling in house</displayName>
+<displayName lang="en" type="FSN">Lack of cooling in house (finding)</displayName>
+</concept>
+<concept code="423824003">
+<displayName lang="en" type="PT">Housing structurally unsound</displayName>
+<displayName lang="en" type="FSN">Housing structurally unsound (finding)</displayName>
+</concept>
+<concept code="423839002">
+<displayName lang="en" type="PT">Unavailable community resources</displayName>
+<displayName lang="en" type="FSN">Unavailable community resources (finding)</displayName>
+</concept>
+<concept code="423859003">
+<displayName lang="en" type="PT">Crowded living space</displayName>
+<displayName lang="en" type="FSN">Crowded living space (finding)</displayName>
+</concept>
+<concept code="423961006">
+<displayName lang="en" type="PT">Unsafe storage of dangerous objects</displayName>
+<displayName lang="en" type="FSN">Unsafe storage of dangerous objects (finding)</displayName>
+</concept>
+<concept code="424093009">
+<displayName lang="en" type="PT">Environment contains uncontrolled animal</displayName>
+<displayName lang="en" type="FSN">Environment contains uncontrolled animal (finding)</displayName>
+</concept>
+<concept code="424160003">
+<displayName lang="en" type="PT">Unsafe storage of dangerous substances</displayName>
+<displayName lang="en" type="FSN">Unsafe storage of dangerous substances (finding)</displayName>
+</concept>
+<concept code="424284003">
+<displayName lang="en-GB" type="PT">Environmental foul odour</displayName>
+<displayName lang="en" type="FSN">Environmental foul odor (finding)</displayName>
+</concept>
+<concept code="424393004">
+<displayName lang="en" type="PT">Reports of violence in the environment</displayName>
+<displayName lang="en" type="FSN">Reports of violence in the environment (finding)</displayName>
+</concept>
+<concept code="424415008">
+<displayName lang="en" type="PT">Dirty living conditions</displayName>
+<displayName lang="en" type="FSN">Dirty living conditions (finding)</displayName>
+<displayName lang="en" type="SY">Soiled living area</displayName>
+</concept>
+<concept code="424423005">
+<displayName lang="en" type="PT">Language barrier impedes ability to use community resources</displayName>
+<displayName lang="en" type="FSN">Language barrier impedes ability to use community resources (finding)</displayName>
+</concept>
+<concept code="424465004">
+<displayName lang="en" type="PT">Obstructed means of residential exit</displayName>
+<displayName lang="en" type="FSN">Obstructed means of residential exit (finding)</displayName>
+</concept>
+<concept code="424466003">
+<displayName lang="en" type="PT">Water supply insufficient</displayName>
+<displayName lang="en" type="FSN">Water supply insufficient (finding)</displayName>
+<displayName lang="en" type="SY">Inadequate water supply</displayName>
+</concept>
+<concept code="424629004">
+<displayName lang="en" type="PT">Transportation barrier impedes ability to use community resources</displayName>
+<displayName lang="en" type="FSN">Transportation barrier impedes ability to use community resources (finding)</displayName>
+</concept>
+<concept code="424661000">
+<displayName lang="en" type="PT">Cluttered living space</displayName>
+<displayName lang="en" type="FSN">Cluttered living space (finding)</displayName>
+</concept>
+<concept code="424681004">
+<displayName lang="en" type="PT">Environment contains infected animal</displayName>
+<displayName lang="en" type="FSN">Environment contains infected animal (finding)</displayName>
+</concept>
+<concept code="424746008">
+<displayName lang="en" type="PT">Unable to communicate concern to community service provider</displayName>
+<displayName lang="en" type="FSN">Unable to communicate concern to community service provider (finding)</displayName>
+</concept>
+<concept code="424771006">
+<displayName lang="en" type="PT">Insufficient means of residential exit</displayName>
+<displayName lang="en" type="FSN">Insufficient means of residential exit (finding)</displayName>
+</concept>
+<concept code="424839007">
+<displayName lang="en" type="PT">Inadequate community resources to encourage healthy living</displayName>
+<displayName lang="en" type="FSN">Inadequate community resources to encourage healthy living (finding)</displayName>
+<displayName lang="en" type="SY">Inadequate community resources to foster health</displayName>
+</concept>
+<concept code="424858003">
+<displayName lang="en" type="PT">Threats of violence in the environment</displayName>
+<displayName lang="en" type="FSN">Threats of violence in the environment (finding)</displayName>
+</concept>
+<concept code="424948003">
+<displayName lang="en" type="PT">Obstructed means of residential entrance</displayName>
+<displayName lang="en" type="FSN">Obstructed means of residential entrance (finding)</displayName>
+</concept>
+<concept code="424994000">
+<displayName lang="en" type="PT">Educational barrier impedes ability to use community resources</displayName>
+<displayName lang="en" type="FSN">Educational barrier impedes ability to use community resources (finding)</displayName>
+</concept>
+<concept code="425017003">
+<displayName lang="en" type="PT">Inadequate residential safety device</displayName>
+<displayName lang="en" type="FSN">Inadequate residential safety device (finding)</displayName>
+</concept>
+<concept code="425203001">
+<displayName lang="en" type="PT">Presence of lead-based paint</displayName>
+<displayName lang="en" type="FSN">Presence of lead-based paint (finding)</displayName>
+</concept>
+<concept code="425205008">
+<displayName lang="en" type="PT">Unsafe stairs in house</displayName>
+<displayName lang="en" type="FSN">Unsafe stairs in house (finding)</displayName>
+</concept>
+<concept code="425209002">
+<displayName lang="en" type="PT">Unfamiliar with process for obtaining community services</displayName>
+<displayName lang="en" type="FSN">Unfamiliar with process for obtaining community services (finding)</displayName>
+</concept>
+<concept code="425234002">
+<displayName lang="en" type="PT">Inadequate play space</displayName>
+<displayName lang="en" type="FSN">Inadequate play space (finding)</displayName>
+</concept>
+<concept code="425296002">
+<displayName lang="en" type="PT">Dissatisfaction with community resource services</displayName>
+<displayName lang="en" type="FSN">Dissatisfaction with community resource services (finding)</displayName>
+</concept>
+<concept code="425326006">
+<displayName lang="en" type="PT">Insufficient means of residential entrance</displayName>
+<displayName lang="en" type="FSN">Insufficient means of residential entrance (finding)</displayName>
+</concept>
+<concept code="425338002">
+<displayName lang="en" type="PT">Environment contains animals</displayName>
+<displayName lang="en" type="FSN">Environment contains animals (finding)</displayName>
+</concept>
+<concept code="429063000">
+<displayName lang="en" type="PT">Lives in bungalow</displayName>
+<displayName lang="en" type="FSN">Lives in bungalow (finding)</displayName>
+</concept>
+<concept code="430793000">
+<displayName lang="en" type="PT">Lives with roommate</displayName>
+<displayName lang="en" type="FSN">Lives with roommate (finding)</displayName>
+</concept>
+<concept code="438507006">
+<displayName lang="en" type="PT">Child lives with unrelated adult</displayName>
+<displayName lang="en" type="FSN">Child lives with unrelated adult (finding)</displayName>
+</concept>
+<concept code="443218005">
+<displayName lang="en" type="PT">Telecommunications device for the deaf installed in home</displayName>
+<displayName lang="en" type="FSN">Telecommunications device for the deaf installed in home (finding)</displayName>
+<displayName lang="en-GB" type="SY">Home telecommunications device for the deaf fitted</displayName>
+</concept>
+<concept code="443314009">
+<displayName lang="en" type="PT">Lives as illegal tenant</displayName>
+<displayName lang="en" type="FSN">Lives as illegal tenant (finding)</displayName>
+</concept>
+<concept code="447051007">
+<displayName lang="en" type="PT">Lives with spouse</displayName>
+<displayName lang="en" type="FSN">Lives with spouse (finding)</displayName>
+</concept>
+<concept code="447555007">
+<displayName lang="en" type="PT">Lives with wife</displayName>
+<displayName lang="en" type="FSN">Lives with wife (finding)</displayName>
+</concept>
+<concept code="609239004">
+<displayName lang="en" type="PT">Lives in noninstitutional accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in noninstitutional accommodation (finding)</displayName>
+</concept>
+<concept code="609240002">
+<displayName lang="en" type="PT">Lives in ground floor apartment</displayName>
+<displayName lang="en" type="FSN">Lives in ground floor apartment (finding)</displayName>
+<displayName lang="en" type="SY">Lives in ground floor flat</displayName>
+</concept>
+<concept code="609241003">
+<displayName lang="en" type="PT">Lives in apartment with elevator access</displayName>
+<displayName lang="en" type="FSN">Lives in apartment with elevator access (finding)</displayName>
+<displayName lang="en" type="SY">Lives in flat with elevator access</displayName>
+</concept>
+<concept code="609242005">
+<displayName lang="en" type="PT">Lives in apartment without elevator access</displayName>
+<displayName lang="en" type="FSN">Lives in apartment without elevator access (finding)</displayName>
+<displayName lang="en" type="SY">Lives in flat without elevator access</displayName>
+</concept>
+<concept code="609243000">
+<displayName lang="en" type="PT">Lives in semidetached house</displayName>
+<displayName lang="en" type="FSN">Lives in semidetached house (finding)</displayName>
+</concept>
+<concept code="609244006">
+<displayName lang="en" type="PT">Lives in terraced house</displayName>
+<displayName lang="en" type="FSN">Lives in terraced house (finding)</displayName>
+</concept>
+<concept code="609245007">
+<displayName lang="en" type="PT">Lives in detached house</displayName>
+<displayName lang="en" type="FSN">Lives in detached house (finding)</displayName>
+</concept>
+<concept code="700209003">
+<displayName lang="en" type="PT">Lives on boat</displayName>
+<displayName lang="en" type="FSN">Lives on boat (finding)</displayName>
+</concept>
+<concept code="702533004">
+<displayName lang="en" type="PT">Low risk environment for patient discharge</displayName>
+<displayName lang="en" type="FSN">Low risk environment for patient discharge (finding)</displayName>
+</concept>
+<concept code="704045001">
+<displayName lang="en" type="PT">Housing assessment completed</displayName>
+<displayName lang="en" type="FSN">Housing assessment completed (situation)</displayName>
+</concept>
+<concept code="704300009">
+<displayName lang="en" type="PT">Environmental safety problem</displayName>
+<displayName lang="en" type="FSN">Environmental safety problem (finding)</displayName>
+</concept>
+<concept code="704353000">
+<displayName lang="en" type="PT">At risk of environmental injury</displayName>
+<displayName lang="en" type="FSN">At risk of environmental injury (finding)</displayName>
+</concept>
+<concept code="706875005">
+<displayName lang="en" type="PT">Insufficient food supply</displayName>
+<displayName lang="en" type="FSN">Insufficient food supply (finding)</displayName>
+</concept>
+<concept code="165811000000108">
+<displayName lang="en-GB" type="PT">Lives on private site</displayName>
+<displayName lang="en" type="FSN">Lives on private site (finding)</displayName>
+</concept>
+<concept code="165821000000102">
+<displayName lang="en-GB" type="PT">Lives on council site</displayName>
+<displayName lang="en" type="FSN">Lives on council site (finding)</displayName>
+</concept>
+<concept code="176721000000106">
+<displayName lang="en-GB" type="PT">Lives on unofficial site</displayName>
+<displayName lang="en" type="FSN">Lives on unofficial site (finding)</displayName>
+</concept>
+<concept code="242701000000102">
+<displayName lang="en" type="PT">Lives in flat</displayName>
+<displayName lang="en" type="FSN">Lives in flat (finding)</displayName>
+</concept>
+<concept code="242711000000100">
+<displayName lang="en" type="PT">Lives in house</displayName>
+<displayName lang="en" type="FSN">Lives in house (finding)</displayName>
+</concept>
+<concept code="242721000000106">
+<displayName lang="en" type="PT">Lives in mobile home</displayName>
+<displayName lang="en" type="FSN">Lives in mobile home (finding)</displayName>
+</concept>
+<concept code="242731000000108">
+<displayName lang="en" type="PT">Has home alarm fitted</displayName>
+<displayName lang="en" type="FSN">Has home alarm fitted (finding)</displayName>
+</concept>
+<concept code="247521000000104">
+<displayName lang="en" type="PT">Living in temporary housing</displayName>
+<displayName lang="en" type="FSN">Living in temporary housing (finding)</displayName>
+</concept>
+<concept code="248171000000108">
+<displayName lang="en" type="PT">Lives in care home</displayName>
+<displayName lang="en" type="FSN">Lives in care home (finding)</displayName>
+</concept>
+<concept code="248181000000105">
+<displayName lang="en" type="PT">Child lives with parent</displayName>
+<displayName lang="en" type="FSN">Child lives with parent (finding)</displayName>
+</concept>
+<concept code="248201000000109">
+<displayName lang="en" type="PT">Child lives with another relative</displayName>
+<displayName lang="en" type="FSN">Child lives with another relative (finding)</displayName>
+</concept>
+<concept code="287291000000105">
+<displayName lang="en" type="PT">Lives in a children&apos;s unit</displayName>
+<displayName lang="en" type="FSN">Lives in a children&apos;s unit (finding)</displayName>
+</concept>
+<concept code="334541000000108">
+<displayName lang="en" type="PT">Home is insulated</displayName>
+<displayName lang="en" type="FSN">Home is insulated (finding)</displayName>
+</concept>
+<concept code="334551000000106">
+<displayName lang="en" type="PT">Home is partially insulated</displayName>
+<displayName lang="en" type="FSN">Home is partially insulated (finding)</displayName>
+</concept>
+<concept code="334561000000109">
+<displayName lang="en" type="PT">Home is not insulated</displayName>
+<displayName lang="en" type="FSN">Home is not insulated (finding)</displayName>
+</concept>
+<concept code="381751000000106">
+<displayName lang="en" type="PT">Sofa surfer - person of no fixed abode</displayName>
+<displayName lang="en" type="FSN">Sofa surfer - person of no fixed abode (finding)</displayName>
+</concept>
+<concept code="491751000000100">
+<displayName lang="en" type="PT">Lives in local authority rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in local authority rented accommodation (finding)</displayName>
+</concept>
+<concept code="491761000000102">
+<displayName lang="en" type="PT">Lives in housing association rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in housing association rented accommodation (finding)</displayName>
+</concept>
+<concept code="755961000000102">
+<displayName lang="en" type="PT">Not receiving statutory sick pay</displayName>
+<displayName lang="en" type="FSN">Not receiving statutory sick pay (finding)</displayName>
+<displayName lang="en" type="SY">Not receiving SSP (statutory sick pay)</displayName>
+</concept>
+<concept code="761291000000108">
+<displayName lang="en" type="PT">Frequent changes of address</displayName>
+<displayName lang="en" type="FSN">Frequent changes of address (finding)</displayName>
+</concept>
+<concept code="761421000000106">
+<displayName lang="en" type="PT">Able to cool home</displayName>
+<displayName lang="en" type="FSN">Able to cool home (finding)</displayName>
+</concept>
+<concept code="761441000000104">
+<displayName lang="en" type="PT">Able to heat home</displayName>
+<displayName lang="en" type="FSN">Able to heat home (finding)</displayName>
+</concept>
+<concept code="761601000000104">
+<displayName lang="en" type="PT">Carbon monoxide monitor in home</displayName>
+<displayName lang="en" type="FSN">Carbon monoxide monitor in home (finding)</displayName>
+</concept>
+<concept code="761611000000102">
+<displayName lang="en" type="PT">Concerned about heating home</displayName>
+<displayName lang="en" type="FSN">Concerned about heating home (finding)</displayName>
+</concept>
+<concept code="761651000000103">
+<displayName lang="en" type="PT">Difficulty cooling home</displayName>
+<displayName lang="en" type="FSN">Difficulty cooling home (finding)</displayName>
+</concept>
+<concept code="761671000000107">
+<displayName lang="en" type="PT">Difficulty heating home</displayName>
+<displayName lang="en" type="FSN">Difficulty heating home (finding)</displayName>
+</concept>
+<concept code="761801000000100">
+<displayName lang="en" type="PT">Does cool home</displayName>
+<displayName lang="en" type="FSN">Does cool home (finding)</displayName>
+</concept>
+<concept code="761821000000109">
+<displayName lang="en" type="PT">Does heat home</displayName>
+<displayName lang="en" type="FSN">Does heat home (finding)</displayName>
+</concept>
+<concept code="761871000000108">
+<displayName lang="en" type="PT">Does not cool home</displayName>
+<displayName lang="en" type="FSN">Does not cool home (finding)</displayName>
+</concept>
+<concept code="761921000000104">
+<displayName lang="en" type="PT">Does not heat home</displayName>
+<displayName lang="en" type="FSN">Does not heat home (finding)</displayName>
+</concept>
+<concept code="762041000000100">
+<displayName lang="en" type="PT">Heating appliance suitable for living environment</displayName>
+<displayName lang="en" type="FSN">Heating appliance suitable for living environment (finding)</displayName>
+</concept>
+<concept code="762051000000102">
+<displayName lang="en" type="PT">Heating appliance unsuitable for living environment</displayName>
+<displayName lang="en" type="FSN">Heating appliance unsuitable for living environment (finding)</displayName>
+</concept>
+<concept code="762131000000108">
+<displayName lang="en" type="PT">No carbon monoxide monitor in home</displayName>
+<displayName lang="en" type="FSN">No carbon monoxide monitor in home (finding)</displayName>
+</concept>
+<concept code="762141000000104">
+<displayName lang="en" type="PT">No smoke alarm in home</displayName>
+<displayName lang="en" type="FSN">No smoke alarm in home (finding)</displayName>
+</concept>
+<concept code="762201000000106">
+<displayName lang="en" type="PT">Smoke alarm in home</displayName>
+<displayName lang="en" type="FSN">Smoke alarm in home (finding)</displayName>
+</concept>
+<concept code="762251000000107">
+<displayName lang="en" type="PT">Unable to cool home</displayName>
+<displayName lang="en" type="FSN">Unable to cool home (finding)</displayName>
+</concept>
+<concept code="762271000000103">
+<displayName lang="en" type="PT">Unable to heat home</displayName>
+<displayName lang="en" type="FSN">Unable to heat home (finding)</displayName>
+</concept>
+<concept code="769541000000104">
+<displayName lang="en" type="PT">Fire safety equipment fitted in home</displayName>
+<displayName lang="en" type="FSN">Fire safety equipment fitted in home (finding)</displayName>
+</concept>
+<concept code="789811000000100">
+<displayName lang="en" type="PT">Receiving attendance allowance</displayName>
+<displayName lang="en" type="FSN">Receiving attendance allowance (finding)</displayName>
+</concept>
+<concept code="789821000000106">
+<displayName lang="en" type="PT">Receiving contributory employment and support allowance</displayName>
+<displayName lang="en" type="FSN">Receiving contributory employment and support allowance (finding)</displayName>
+</concept>
+<concept code="789831000000108">
+<displayName lang="en" type="PT">Receiving disability living allowance</displayName>
+<displayName lang="en" type="FSN">Receiving disability living allowance (finding)</displayName>
+</concept>
+<concept code="789841000000104">
+<displayName lang="en" type="PT">Receiving incapacity benefit</displayName>
+<displayName lang="en" type="FSN">Receiving incapacity benefit (finding)</displayName>
+</concept>
+<concept code="789851000000101">
+<displayName lang="en" type="PT">Receiving income-related employment and support allowance</displayName>
+<displayName lang="en" type="FSN">Receiving income-related employment and support allowance (finding)</displayName>
+</concept>
+<concept code="789861000000103">
+<displayName lang="en" type="PT">Receiving income support</displayName>
+<displayName lang="en" type="FSN">Receiving income support (finding)</displayName>
+</concept>
+<concept code="789871000000105">
+<displayName lang="en" type="PT">Receiving pension credit</displayName>
+<displayName lang="en" type="FSN">Receiving pension credit (finding)</displayName>
+</concept>
+<concept code="789881000000107">
+<displayName lang="en" type="PT">Receiving state pension</displayName>
+<displayName lang="en" type="FSN">Receiving state pension (finding)</displayName>
+</concept>
+<concept code="794111000000107">
+<displayName lang="en" type="PT">Receiving carer allowance</displayName>
+<displayName lang="en" type="FSN">Receiving carer allowance (finding)</displayName>
+<displayName lang="en" type="SY">Receiving carer&apos;s allowance</displayName>
+</concept>
+<concept code="807261000000105">
+<displayName lang="en" type="PT">Letter written to housing</displayName>
+<displayName lang="en" type="FSN">Letter written to housing (finding)</displayName>
+</concept>
+<concept code="807271000000103">
+<displayName lang="en" type="PT">Referred for part 3 accommodation</displayName>
+<displayName lang="en" type="FSN">Referred for part 3 accommodation (finding)</displayName>
+</concept>
+<concept code="807281000000101">
+<displayName lang="en" type="PT">On waiting list for part 3</displayName>
+<displayName lang="en" type="FSN">On waiting list for part 3 (finding)</displayName>
+</concept>
+<concept code="807291000000104">
+<displayName lang="en" type="PT">Referred for part 4 accommodation</displayName>
+<displayName lang="en" type="FSN">Referred for part 4 accommodation (finding)</displayName>
+</concept>
+<concept code="807301000000100">
+<displayName lang="en" type="PT">On waiting list for part 4</displayName>
+<displayName lang="en" type="FSN">On waiting list for part 4 (finding)</displayName>
+</concept>
+<concept code="859721000000108">
+<displayName lang="en" type="PT">Lives with adoptive parents</displayName>
+<displayName lang="en" type="FSN">Lives with adoptive parents (finding)</displayName>
+</concept>
+<concept code="859831000000104">
+<displayName lang="en" type="PT">Lives with biological parent and step parent</displayName>
+<displayName lang="en" type="FSN">Lives with biological parent and step parent (finding)</displayName>
+</concept>
+<concept code="859931000000108">
+<displayName lang="en" type="PT">Lives with biological parents</displayName>
+<displayName lang="en" type="FSN">Lives with biological parents (finding)</displayName>
+</concept>
+<concept code="864131000000100">
+<displayName lang="en" type="PT">Living in refuge</displayName>
+<displayName lang="en" type="FSN">Living in refuge (finding)</displayName>
+</concept>
+<concept code="900381000000103">
+<displayName lang="en" type="PT">Difficulty obtaining water</displayName>
+<displayName lang="en" type="FSN">Difficulty obtaining water (finding)</displayName>
+</concept>
+<concept code="910341000000109">
+<displayName lang="en" type="PT">Central heating in home</displayName>
+<displayName lang="en" type="FSN">Central heating in home (finding)</displayName>
+</concept>
+<concept code="910981000000102">
+<displayName lang="en" type="PT">No hot water in home</displayName>
+<displayName lang="en" type="FSN">No hot water in home (finding)</displayName>
+</concept>
+<concept code="920661000000105">
+<displayName lang="en" type="PT">Toilet downstairs</displayName>
+<displayName lang="en" type="FSN">Toilet downstairs (finding)</displayName>
+</concept>
+<concept code="920681000000101">
+<displayName lang="en" type="PT">Toilet upstairs</displayName>
+<displayName lang="en" type="FSN">Toilet upstairs (finding)</displayName>
+</concept>
+<concept code="920701000000104">
+<displayName lang="en" type="PT">Access to residence by steps</displayName>
+<displayName lang="en" type="FSN">Access to residence by steps (finding)</displayName>
+</concept>
+<concept code="920721000000108">
+<displayName lang="en" type="PT">No stairs in residence</displayName>
+<displayName lang="en" type="FSN">No stairs in residence (finding)</displayName>
+</concept>
+<concept code="922801000000106">
+<displayName lang="en" type="PT">Access to residence by stairs</displayName>
+<displayName lang="en" type="FSN">Access to residence by stairs (finding)</displayName>
+</concept>
+<concept code="963111000000103">
+<displayName lang="en" type="PT">Minor housing adaptation completed</displayName>
+<displayName lang="en" type="FSN">Minor housing adaptation completed (finding)</displayName>
+</concept>
+<concept code="963131000000106">
+<displayName lang="en" type="PT">Major housing adaptation completed</displayName>
+<displayName lang="en" type="FSN">Major housing adaptation completed (finding)</displayName>
+</concept>
+<concept code="979501000000100">
+<displayName lang="en" type="PT">Lives in Extra Care housing</displayName>
+<displayName lang="en" type="FSN">Lives in Extra Care housing (finding)</displayName>
+</concept>
+<concept code="987971000000103">
+<displayName lang="en" type="PT">Unsafe drinking water supply</displayName>
+<displayName lang="en" type="FSN">Unsafe drinking water supply (finding)</displayName>
+<displayName lang="en" type="SY">Inadequate drinking water supply</displayName>
+</concept>
+<concept code="989541000000109">
+<displayName lang="en" type="PT">Outside toilet</displayName>
+<displayName lang="en" type="FSN">Outside toilet (finding)</displayName>
+</concept>
+</vocabulary>

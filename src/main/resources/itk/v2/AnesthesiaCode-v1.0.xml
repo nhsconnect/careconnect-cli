@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AnesthesiaCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.19">
+   <Description>This contains a unique identifier of the anesthesia used during the procedure.
+					Table type: User</Description>
+   <concept code="Y80">
+      <displayName>General anaesthetic</displayName>
+   </concept>
+   <concept code="Y80.1">
+      <displayName>Inhalation anaesthetic using muscle relaxant</displayName>
+   </concept>
+   <concept code="Y80.2">
+      <displayName>Inhalation anaesthetic using endotracheal intubation NEC</displayName>
+   </concept>
+   <concept code="Y80.3">
+      <displayName>Inhalation anaesthetic NEC</displayName>
+   </concept>
+   <concept code="Y80.4">
+      <displayName>Intravenous anaesthetic NEC</displayName>
+   </concept>
+   <concept code="Y80.5">
+      <displayName>Rapid sequence induction of anaesthetic</displayName>
+   </concept>
+   <concept code="Y80.8">
+      <displayName>Other specified</displayName>
+   </concept>
+   <concept code="Y80.9">
+      <displayName>Unspecified</displayName>
+   </concept>
+   <concept code="Y81">
+      <displayName>Spinal anaesthetic</displayName>
+   </concept>
+   <concept code="Y81.1">
+      <displayName>Epidural anaesthetic using lumbar approach</displayName>
+   </concept>
+   <concept code="Y81.2">
+      <displayName>Epidural anaesthetic using sacral approach</displayName>
+   </concept>
+   <concept code="Y81.8">
+      <displayName>Other specified</displayName>
+   </concept>
+   <concept code="Y81.9">
+      <displayName>Unspecified</displayName>
+   </concept>
+   <concept code="Y82">
+      <displayName>Local anaesthetic</displayName>
+   </concept>
+   <concept code="Y82.1">
+      <displayName>Local anaesthetic nerve block</displayName>
+   </concept>
+   <concept code="Y82.2">
+      <displayName>Injection of local anaesthetic NEC</displayName>
+   </concept>
+   <concept code="Y82.3">
+      <displayName>Application of local anaesthetic NEC</displayName>
+   </concept>
+   <concept code="Y82.8">
+      <displayName>Other specified</displayName>
+   </concept>
+   <concept code="Y82.9">
+      <displayName>Unspecified</displayName>
+   </concept>
+   <concept code="Y84">
+      <displayName>Other anaesthetic</displayName>
+   </concept>
+   <concept code="Y84.1">
+      <displayName>Gas and air analgesia in labour</displayName>
+   </concept>
+   <concept code="Y84.2">
+      <displayName>Sedation NEC</displayName>
+   </concept>
+   <concept code="Y84.8">
+      <displayName>Other specified</displayName>
+   </concept>
+   <concept code="Y84.9">
+      <displayName>Unspecified</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="InitialRequesterRoleType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.303">
+   <Description>
+            <p>To indicate the role of the requester during the initial event of the Out of Practice episode.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Patient</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Self</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>GrandFather</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>GrandMother</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Spouse</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Other Relative</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Colleague</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Friend</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Neighbour</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Legal Guardian</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Community Nurse</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Doctor</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Ambulance Technician / Paramedic</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Social Services</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Police</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Carer in the community</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Carer in a Home</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Boyfriend</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Girlfriend</displayName>
+   </concept>
+   <concept code="20">
+      <displayName>Fiance</displayName>
+   </concept>
+   <concept code="21">
+      <displayName>Common Law Husband</displayName>
+   </concept>
+   <concept code="22">
+      <displayName>Common Law Wife</displayName>
+   </concept>
+   <concept code="23">
+      <displayName>Flat Mate</displayName>
+   </concept>
+   <concept code="24">
+      <displayName>Cohabitee</displayName>
+   </concept>
+   <concept code="25">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="26">
+      <displayName>StepFather</displayName>
+   </concept>
+   <concept code="27">
+      <displayName>StepMother</displayName>
+   </concept>
+   <concept code="28">
+      <displayName>StepSon</displayName>
+   </concept>
+   <concept code="29">
+      <displayName>StepDaughter</displayName>
+   </concept>
+   <concept code="30">
+      <displayName>Foster Mother</displayName>
+   </concept>
+   <concept code="31">
+      <displayName>Foster Father</displayName>
+   </concept>
+   <concept code="32">
+      <displayName>Foster Son</displayName>
+   </concept>
+   <concept code="33">
+      <displayName>Foster Daughter</displayName>
+   </concept>
+   <concept code="34">
+      <displayName>Step Brother</displayName>
+   </concept>
+   <concept code="35">
+      <displayName>Step Sister</displayName>
+   </concept>
+   <concept code="36">
+      <displayName>Foster Brother</displayName>
+   </concept>
+   <concept code="37">
+      <displayName>Foster Sister</displayName>
+   </concept>
+   <concept code="38">
+      <displayName>Polygamous Partner</displayName>
+   </concept>
+   <concept code="39">
+      <displayName>Adoptive Mother</displayName>
+   </concept>
+   <concept code="40">
+      <displayName>Adoptive Father</displayName>
+   </concept>
+   <concept code="41">
+      <displayName>Adoptive Sister</displayName>
+   </concept>
+   <concept code="42">
+      <displayName>Adoptive Brother</displayName>
+   </concept>
+   <concept code="43">
+      <displayName>Adoptive Son</displayName>
+   </concept>
+   <concept code="44">
+      <displayName>Adoptive Daughter</displayName>
+   </concept>
+   <concept code="45">
+      <displayName>Guest Accomodation Staff</displayName>
+   </concept>
+   <concept code="A">
+      <displayName>Aunt</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Brother</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Child unspecified</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Daughter</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Father</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Grandparent</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Husband</displayName>
+   </concept>
+   <concept code="K">
+      <displayName>Cousin</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Mother</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Nephew/neice</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Parent unspecified</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Sister</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Uncle</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Wife</displayName>
+   </concept>
+   <concept code="X">
+      <displayName>Grandchild unspecified</displayName>
+   </concept>
+   <concept code="Z">
+      <displayName>Son</displayName>
+   </concept>
+</vocabulary>

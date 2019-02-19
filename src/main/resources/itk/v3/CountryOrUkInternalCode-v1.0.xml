@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CountryOrUkInternalCode" version="1.0" status="active"
+            id="9.99.999.9.999999.9.9.9.9.9.99">
+   <Description>
+            <p>A code representing a country or a constituent internal part 
+				of the United Kingdom of Great Britain and Northern Ireland.</p>
+	           <p>Any code taken from: </p>
+	           <ul>
+		             <li>
+                  <b shape="rect">CountryCode</b>, or</li>
+		             <li>
+			               <b shape="rect">UkInternalCode</b>
+		             </li>
+	           </ul>
+         </Description>
+</vocabulary>

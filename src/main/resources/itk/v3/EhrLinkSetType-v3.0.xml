@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrLinkSetType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.19">
+   <Description>
+            <p>Identifies the type of link set.</p>
+            <p>Default OID:</p>
+            <p>The default OID for the SNOMED CT code values below is: 2.16.840.1.113883.2.1.3.2.4.15</p>
+         </Description>
+   <concept code="394774009">
+      <displayName>Active Problem</displayName>
+   </concept>
+   <concept code="394775005">
+      <displayName>Inactive Problem</displayName>
+   </concept>
+   <concept code="394776006">
+      <displayName>Unspecified Problem</displayName>
+   </concept>
+</vocabulary>

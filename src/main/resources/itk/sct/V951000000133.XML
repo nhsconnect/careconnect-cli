@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Encounter type" type="Realm Concept" setId="68901000000137" version="19" id="951000000133" refId="999000761000000104" memberCount="9" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="185202000">
+<displayName lang="en" type="PT">Seen in GP&apos;s surgery</displayName>
+<displayName lang="en" type="FSN">Seen in general practitioner surgery (finding)</displayName>
+<displayName lang="en" type="SY">Seen in general practitioner surgery</displayName>
+</concept>
+<concept code="185208001">
+<displayName lang="en" type="PT">Seen in work place</displayName>
+<displayName lang="en" type="FSN">Seen in work place (finding)</displayName>
+</concept>
+<concept code="185218006">
+<displayName lang="en" type="PT">Seen in nursing home</displayName>
+<displayName lang="en" type="FSN">Seen in nursing home (finding)</displayName>
+</concept>
+<concept code="185235005">
+<displayName lang="en" type="PT">Site of encounter: street</displayName>
+<displayName lang="en" type="FSN">Site of encounter: street (finding)</displayName>
+</concept>
+<concept code="185317003">
+<displayName lang="en" type="PT">Telephone encounter</displayName>
+<displayName lang="en" type="FSN">Telephone encounter (procedure)</displayName>
+</concept>
+<concept code="185320006">
+<displayName lang="en" type="PT">Encounter by computer link</displayName>
+<displayName lang="en" type="FSN">Encounter by computer link (procedure)</displayName>
+</concept>
+<concept code="270420001">
+<displayName lang="en" type="PT">Seen in own home</displayName>
+<displayName lang="en" type="FSN">Seen in own home (finding)</displayName>
+</concept>
+<concept code="308021002">
+<displayName lang="en" type="PT">Seen in clinic</displayName>
+<displayName lang="en" type="FSN">Seen in clinic (finding)</displayName>
+</concept>
+<concept code="308720009">
+<displayName lang="en" type="PT">Letter encounter</displayName>
+<displayName lang="en" type="FSN">Letter encounter (procedure)</displayName>
+</concept>
+</vocabulary>

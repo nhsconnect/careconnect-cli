@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ClinicalDashboardsObservationType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.286">
+   <Description>
+            <p>A list of codes which indicate the dashboard observation type.</p>
+         </Description>
+   <concept code="OUTC">
+      <displayName>Outcome Description</displayName>
+   </concept>
+   <concept code="PAA">
+      <displayName>Priority After Assessment</displayName>
+   </concept>
+   <concept code="CN">
+      <displayName>Case Number</displayName>
+   </concept>
+   <concept code="DF">
+      <displayName>Delete Flag</displayName>
+   </concept>
+   <concept code="CONTY">
+      <displayName>Contact Type</displayName>
+   </concept>
+   <concept code="CDATE">
+      <displayName>Created Date</displayName>
+   </concept>
+   <concept code="MDATE">
+      <displayName>Modified Date</displayName>
+   </concept>
+   <concept code="WIEF">
+      <displayName>Walk In Encounter Type</displayName>
+   </concept>
+   <concept code="CENC">
+      <displayName>Cancelled Encounter</displayName>
+   </concept>
+   <concept code="CREA">
+      <displayName>Cancellation Reason</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Presenting Complaint</displayName>
+   </concept>
+   <concept code="DIAG">
+      <displayName>Diagnosis</displayName>
+   </concept>
+   <concept code="PIF">
+      <displayName>Prescribed Items</displayName>
+   </concept>
+   <concept code="OVS">
+      <displayName>Overseas Visitor Status</displayName>
+   </concept>
+   <concept code="AFLAG">
+      <displayName>Archive Flag</displayName>
+   </concept>
+   <concept code="INVES">
+      <displayName>Investigations</displayName>
+   </concept>
+   <concept code="TREAT">
+      <displayName>Treatment</displayName>
+   </concept>
+   <concept code="ITC">
+      <displayName>Initial Triage Category</displayName>
+   </concept>
+   <concept code="MEDSUP">
+      <displayName>Medication Supply</displayName>
+   </concept>
+   <concept code="DM">
+      <displayName>Disposal Method</displayName>
+   </concept>
+   <concept code="ITL">
+      <displayName>Incident Location Type</displayName>
+   </concept>
+   <concept code="SD">
+      <displayName>Secondary Diagnosis</displayName>
+   </concept>
+   <concept code="DSS">
+      <displayName>Discharge Summary Status</displayName>
+   </concept>
+   <concept code="AC">
+      <displayName>Ambulance Crew</displayName>
+   </concept>
+   <concept code="AS">
+      <displayName>Ambulance Station</displayName>
+   </concept>
+   <concept code="AD">
+      <displayName>Ambulance Data</displayName>
+   </concept>
+   <concept code="ALT">
+      <displayName>Activity Location Type</displayName>
+   </concept>
+   <concept code="ARRMOD">
+      <displayName>Arrival Mode</displayName>
+   </concept>
+   <concept code="RS">
+      <displayName>Referral Source</displayName>
+   </concept>
+   <concept code="ATTCAT">
+      <displayName>Attendance Category</displayName>
+   </concept>
+   <concept code="AEDT">
+      <displayName>Accident and Emergency Department Type</displayName>
+   </concept>
+   <concept code="DDT">
+      <displayName>Discharge Date Time</displayName>
+   </concept>
+   <concept code="FSDT">
+      <displayName>First Seen Date Time</displayName>
+   </concept>
+   <concept code="PD">
+      <displayName>Primary Diagnosis</displayName>
+   </concept>
+   <concept code="AEPG">
+      <displayName>Accident and Emergency Patient Group</displayName>
+   </concept>
+</vocabulary>

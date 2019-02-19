@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.106">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.106</p>
+            <p>Indicates whether the associated medication administration is of a dose, cycle or course.</p>
+         </Description>
+   <concept code="DO">
+      <displayName>administration of a dose</displayName>
+   </concept>
+   <concept code="CY">
+      <displayName>administration of a cycle of doses</displayName>
+   </concept>
+   <concept code="CO">
+      <displayName>administration of a complete course</displayName>
+   </concept>
+</vocabulary>

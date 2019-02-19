@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EBSResponseCodes" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.100">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.100</p>
+            <p>A code system carrying a list of EBS issue/error codes.</p>
+            <p>This code system is maintained externally by Atos Origin and listed in Appendix A of the current version of Choose and Book Compliance (EBS-AN\BA\BA011).</p>
+         </Description>
+</vocabulary>

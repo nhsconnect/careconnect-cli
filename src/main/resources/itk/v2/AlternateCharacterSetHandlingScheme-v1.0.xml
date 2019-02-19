@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AlternateCharacterSetHandlingScheme" version="1.0" status="created"
+            id="2.16.840.1.113883.12.356">
+   <Description>This table defines alternative character sets are used (as specified in the second or later components of  MSH-18 character sets), and if any special handling scheme is needed. Table type: HL7</Description>
+   <concept code="null">
+      <displayName>This is the default, indicating that there is no character set switching occurring in this message.</displayName>
+   </concept>
+   <concept code="2.3">
+      <displayName>The character set switching mode specified in HL7 2.5, section 2.7.2</displayName>
+   </concept>
+   <concept code="ISO 2022-1994">
+      <displayName>This standard is titled Information Technology - Character Code Structure and Extension Technique.</displayName>
+   </concept>
+</vocabulary>

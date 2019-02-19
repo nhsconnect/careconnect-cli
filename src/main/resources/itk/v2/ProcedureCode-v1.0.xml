@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.88">
+   <Description>This table contains a unique identifier assigned to the procedure, if any, associated with the charge.
+					Table type: User</Description>
+</vocabulary>

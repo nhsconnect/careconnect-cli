@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RequesterRelationshipType" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.162">
+   <Description>
+            <p>Indicates the relationship of the person to the patient when sealing of information has been requested by someone other than the patient.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Parent/Legal Guardian of child</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Clinician on behalf of an adult</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Clinician on behalf of a child</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Power of Attorney</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Court Appointed</displayName>
+   </concept>
+   <concept code="0">
+      <displayName>Patient</displayName>
+   </concept>
+</vocabulary>

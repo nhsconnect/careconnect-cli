@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SystemRoleType" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.205">
+   <Description>
+            <p>To indicate the role of a Computer System.</p>
+         </Description>
+   <concept code="SND">
+      <displayName>Sending System</displayName>
+   </concept>
+   <concept code="REQ">
+      <displayName>Requesting System</displayName>
+   </concept>
+   <concept code="OSY">
+      <displayName>Originating System</displayName>
+   </concept>
+</vocabulary>

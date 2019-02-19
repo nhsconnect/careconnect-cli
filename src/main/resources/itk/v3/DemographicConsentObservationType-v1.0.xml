@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DemographicConsentObservationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.164">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.164</p>
+            <p>To indicate the type of observed consent information.</p>
+         </Description>
+   <concept code="4">
+      <displayName>Consent to NHS Care Record sharing</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Call centre call-back consent</displayName>
+   </concept>
+</vocabulary>

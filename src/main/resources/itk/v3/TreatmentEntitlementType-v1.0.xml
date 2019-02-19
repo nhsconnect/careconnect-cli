@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TreatmentEntitlementType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.210">
+   <Description>
+            <p>A vocab to indicate if and how the user is entitled to free treatment.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Entitlement1</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Entitlement2</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Entitlement3</displayName>
+   </concept>
+</vocabulary>

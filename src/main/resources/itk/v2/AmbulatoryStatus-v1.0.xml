@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AmbulatoryStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.12.9">
+   <Description>A set of codes which represents any permanent or transient handicapped conditions of the subject.
+					Table type: User</Description>
+   <concept code="A0">
+      <displayName>No functional limitations</displayName>
+   </concept>
+   <concept code="A1">
+      <displayName>Ambulates with assistive device</displayName>
+   </concept>
+   <concept code="A2">
+      <displayName>Wheelchair/stretcher bound</displayName>
+   </concept>
+   <concept code="A3">
+      <displayName>Comatose; non-responsive</displayName>
+   </concept>
+   <concept code="A4">
+      <displayName>Disoriented</displayName>
+   </concept>
+   <concept code="A5">
+      <displayName>Vision impaired</displayName>
+   </concept>
+   <concept code="A6">
+      <displayName>Hearing impaired</displayName>
+   </concept>
+   <concept code="A7">
+      <displayName>Speech impaired</displayName>
+   </concept>
+   <concept code="A8">
+      <displayName>Non-English speaking</displayName>
+   </concept>
+   <concept code="A9">
+      <displayName>Functional level unknown</displayName>
+   </concept>
+   <concept code="B1">
+      <displayName>Oxygen therapy</displayName>
+   </concept>
+   <concept code="B2">
+      <displayName>Special equipment (tubes, IVs, catheters)</displayName>
+   </concept>
+   <concept code="B3">
+      <displayName>Amputee</displayName>
+   </concept>
+   <concept code="B4">
+      <displayName>Mastectomy</displayName>
+   </concept>
+   <concept code="B5">
+      <displayName>Paraplegic</displayName>
+   </concept>
+   <concept code="B6">
+      <displayName>Pregnant</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NameType" version="1.0" status="created" id="2.16.840.1.113883.12.200">
+   <Description>This table contain codes that represents the type of name.
+					Table type: HL7</Description>
+   <concept code="A">
+      <displayName>Alias Name</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Name at Birth</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Adopted Name</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Display Name</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Licensing Name</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Legal Name</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Maiden Name</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Nickname /Call me Name/Street Name</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Name of Partner/Spouse (retained for backward compatibility only)</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Registered Name (animals only)</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Coded Pseudo-Name to ensure anonymity</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Indigenous/Tribal/Community Name</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unspecified</displayName>
+   </concept>
+</vocabulary>

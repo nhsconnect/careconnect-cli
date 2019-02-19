@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrativeGender" version="1.0" status="created"
+            id="2.16.840.1.113883.5.1">
+   <Description>
+            <p>This vocabulary describes the gender of a person used for administrative purposes (as opposed to clinical gender).</p>
+         </Description>
+   <concept code="F">
+      <displayName>Female</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Male</displayName>
+   </concept>
+   <concept code="UN">
+      <displayName>Undifferentiated</displayName>
+   </concept>
+</vocabulary>

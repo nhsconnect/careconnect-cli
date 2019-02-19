@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LegalStatusClassification" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.42">
+   <Description>
+            <p>This vocabulary identifies the statutory classification under the Mental Health Act 1983 (England and Wales) under which an individual is sectioned.</p>
+            <p>Note: This vocabulary is currently under review.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Informal</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Formally detained under Mental Health Act Section 2</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Formally detained under Mental Health Act Section 3</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Formally detained under Mental Health Act Section 4</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Formally detained under Mental Health Act Section 5 (2)</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Formally detained under Mental Health Act Section 5 (4)</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Formally detained under Mental Health Act Section 35</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Formally detained under Mental Health Act Section 36</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Formally detained under Mental Health Act Section 37 with section 41 restrictions</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Formally detained under Mental Health Act Section 37</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Formally detained under Mental Health Act Section 38</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Formally detained under Mental Health Act Section 44</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Formally detained under Mental Health Act Section 46</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Formally detained under Mental Health Act Section 47 with section 49 restrictions</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Formally detained under Mental Health Act Section 47</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Formally detained under Mental Health Act Section 48 with section 49 restrictions</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Formally detained under Mental Health Act Section 48</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Formally detained under Mental Health Act Section 135</displayName>
+   </concept>
+   <concept code="20">
+      <displayName>Formally detained under Mental Health Act Section 136</displayName>
+   </concept>
+   <concept code="31">
+      <displayName>Formally detained under Criminal Procedure(Insanity) Act 1964 as amended by the Criminal Procedures (Insanity and Unfitness to Plead) Act 1991</displayName>
+   </concept>
+   <concept code="32">
+      <displayName>Formally detained under other Acts</displayName>
+   </concept>
+   <concept code="33">
+      <displayName>Supervised Discharge (Mental Health (Patients in the Community) Act 1995)</displayName>
+   </concept>
+   <concept code="34">
+      <displayName>Formally detained under Mental Health Act Section 45A</displayName>
+   </concept>
+   <concept code="35">
+      <displayName>Subject to guardianship under Mental Health Act Section 7</displayName>
+   </concept>
+   <concept code="36">
+      <displayName>Subject to guardianship under Mental Health Act Section 37</displayName>
+   </concept>
+</vocabulary>

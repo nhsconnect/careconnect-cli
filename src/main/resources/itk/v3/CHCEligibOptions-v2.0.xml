@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHCEligibOptions" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.427">
+   <Description>
+            <p>A vocabulary to represent the continuing healthcare eligibility options.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Not eligible for National Health Service continuing healthcare</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>National Health Service continuing healthcare assessment in progress</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Not yet been screened under the Continuing Healthcare Assessment</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>The person has refused consent to be screened under the Continuing Healthcare Assessment</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Continuing healthcare will not be required</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Continuing healthcare review is underway</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Continuing healthcare has not been considered yet</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Continuing healthcare review requirement is not known yet</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Continuing healthcare review needs to be started</displayName>
+   </concept>
+</vocabulary>

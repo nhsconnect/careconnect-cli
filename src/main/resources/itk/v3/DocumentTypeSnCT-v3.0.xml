@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DocumentTypeSnCT" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>When using a single SNOMED CT code that describes a type of document then:<br/>
+               <ul>
+                  <li>
+                     <strong>Any code from the SNOMED CT UK <em>Document type</em> subset with subset original id 1061000000133</strong>
+                  </li>
+                  <li>
+                     <strong> The OID to use is 2.16.840.1.113883.2.1.3.2.4.15</strong>
+                  </li>
+               </ul>
+               <p>
+                  <br/>      When using a compositional expression consisting of multiple codes from SNOMED CT that describes a type of document then:<br/>
+               </p>
+               <ul>
+                  <li>
+                     <strong>A code from the SNOMED CT UK <em>Correspondence Document type </em>subset with subset original id 44041000000135</strong>
+                  </li>
+                  <li>
+                     <strong> A code from the SNOMED CT UK <em>Correspondence CareSetting</em>
+                        <em>type </em>subset with subset original id 43971000000130 </strong>
+                  </li>
+                  <li>
+                     <strong>The OID to use is 2.16.840.1.113883.2.1.3.2.4.15.1 </strong>
+                  </li>
+                  <li>
+                     <strong>Further guidance on the format of the compositional expression is available on request.
+                     </strong>
+                  </li>
+               </ul>
+               <p>A single code from a suitable alternative vocabulary:</p>
+               <ul>
+                  <li>
+                     <strong>When using an alternative vocabulary code, then the OID shall contain the OID of the alternative vocabulary     </strong>
+                  </li>
+                  <li>
+                     <strong>When no ID is available for the alternative vocabulary, then the OID "2.16.840.1.113883.2.1.3.2.4.17.337" shall be used</strong>
+                     <br/>
+                  </li>
+               </ul>
+            </p>
+         </Description>
+</vocabulary>

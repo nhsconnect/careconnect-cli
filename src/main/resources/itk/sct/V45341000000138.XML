@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Telehealth Disposition" type="Realm Concept" setId="68071000000130" version="7" id="45341000000138" refId="999000921000000105" memberCount="8" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="184081006">
+<displayName lang="en" type="PT">Patient has moved away</displayName>
+<displayName lang="en" type="FSN">Patient has moved away (finding)</displayName>
+</concept>
+<concept code="184087005">
+<displayName lang="en" type="PT">Patient temporarily left</displayName>
+<displayName lang="en" type="FSN">Patient temporarily left (finding)</displayName>
+</concept>
+<concept code="184091000">
+<displayName lang="en" type="PT">Patient in hospital</displayName>
+<displayName lang="en" type="FSN">Patient in hospital (finding)</displayName>
+</concept>
+<concept code="184092007">
+<displayName lang="en" type="PT">Patient in institution temporarily</displayName>
+<displayName lang="en" type="FSN">Patient in institution temporarily (finding)</displayName>
+</concept>
+<concept code="397709008">
+<displayName lang="en" type="PT">Patient died</displayName>
+<displayName lang="en" type="FSN">Patient died (finding)</displayName>
+</concept>
+<concept code="750451000000101">
+<displayName lang="en" type="PT">Telehealth monitoring declined</displayName>
+<displayName lang="en" type="FSN">Telehealth monitoring declined (situation)</displayName>
+</concept>
+<concept code="886611000000107">
+<displayName lang="en" type="PT">Telehealth monitoring not appropriate</displayName>
+<displayName lang="en" type="FSN">Telehealth monitoring not appropriate (finding)</displayName>
+</concept>
+<concept code="942661000000109">
+<displayName lang="en" type="PT">Telehealth monitoring suspended</displayName>
+<displayName lang="en" type="FSN">Telehealth monitoring suspended (situation)</displayName>
+</concept>
+</vocabulary>

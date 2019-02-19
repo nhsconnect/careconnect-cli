@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispenseReturnReason" version="5.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.28">
+   <Description>
+            <p>
+               <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.28</p>
+               <p>Describes reasons for returning a prescription rather than dispensing it.</p>
+               <p>This will generally be present in an Observation act where the code attribute has an id value of "RR" from the <b>Prescription Annotation</b> vocabulary.</p>
+            </p>
+         </Description>
+   <concept code="0001">
+      <displayName>Patient non-attendance</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Unable to dispense medication on prescriptions</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Patient requested release</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>Another dispenser requested release on behalf of the patient</displayName>
+   </concept>
+   <concept code="0005">
+      <displayName>Invalid digital signature</displayName>
+   </concept>
+   <concept code="0006">
+      <displayName>Rejected due to version problem</displayName>
+   </concept>
+   <concept code="0007">
+      <displayName>Prescription otherwise invalid or unreadable</displayName>
+   </concept>
+   <concept code="0008">
+      <displayName>Prescription expired</displayName>
+   </concept>
+   <concept code="0009">
+      <displayName>Return requested by prescriber</displayName>
+   </concept>
+</vocabulary>

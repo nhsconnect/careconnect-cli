@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ParticipationType" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.90.11.1">
+   <Description>
+            <p>This vocabulary contains a set of codes that describe participations of agents associated with the patient.</p>
+         </Description>
+   <concept code="ADM">
+      <displayName>Admitter</displayName>
+   </concept>
+   <concept code="ATND">
+      <displayName>Attender</displayName>
+   </concept>
+   <concept code="CON">
+      <displayName>Consultant</displayName>
+   </concept>
+   <concept code="DIS">
+      <displayName>Discharger</displayName>
+   </concept>
+   <concept code="ESC">
+      <displayName>Escort</displayName>
+   </concept>
+   <concept code="REF">
+      <displayName>Referrer</displayName>
+   </concept>
+   <concept code="IND">
+      <displayName>Indirect target</displayName>
+   </concept>
+   <concept code="BEN">
+      <displayName>Beneficiary</displayName>
+   </concept>
+   <concept code="COV">
+      <displayName>Coverage target</displayName>
+   </concept>
+   <concept code="HLD">
+      <displayName>Holder</displayName>
+   </concept>
+   <concept code="RCT">
+      <displayName>Record target</displayName>
+   </concept>
+   <concept code="RCV">
+      <displayName>Receiver</displayName>
+   </concept>
+   <concept code="AUT">
+      <displayName>Author (originator)</displayName>
+   </concept>
+   <concept code="ENT">
+      <displayName>Data entry person</displayName>
+   </concept>
+   <concept code="INF">
+      <displayName>Informant</displayName>
+   </concept>
+   <concept code="WIT">
+      <displayName>Witness</displayName>
+   </concept>
+   <concept code="NOT">
+      <displayName>Ugent notification contact</displayName>
+   </concept>
+   <concept code="PRCP">
+      <displayName>Primary information recipient</displayName>
+   </concept>
+   <concept code="REFB">
+      <displayName>Referred by</displayName>
+   </concept>
+   <concept code="REFT">
+      <displayName>Referred to</displayName>
+   </concept>
+   <concept code="TRC">
+      <displayName>Tracker</displayName>
+   </concept>
+   <concept code="PRF">
+      <displayName>Performer</displayName>
+   </concept>
+   <concept code="DIST">
+      <displayName>Distributor</displayName>
+   </concept>
+   <concept code="PPRF">
+      <displayName>Primary performer</displayName>
+   </concept>
+   <concept code="SPRF">
+      <displayName>Secondary performer</displayName>
+   </concept>
+   <concept code="DIR">
+      <displayName>Direct target</displayName>
+   </concept>
+   <concept code="CSM">
+      <displayName>Consumable</displayName>
+   </concept>
+   <concept code="TPA">
+      <displayName>Therapeutic agent</displayName>
+   </concept>
+   <concept code="DEV">
+      <displayName>Device</displayName>
+   </concept>
+   <concept code="NRD">
+      <displayName>Non-reuseable device</displayName>
+   </concept>
+   <concept code="RDV">
+      <displayName>Reusable device</displayName>
+   </concept>
+   <concept code="SBJ">
+      <displayName>Subject</displayName>
+   </concept>
+   <concept code="SPC">
+      <displayName>Specimen</displayName>
+   </concept>
+   <concept code="BBY">
+      <displayName>Baby</displayName>
+   </concept>
+   <concept code="DON">
+      <displayName>Donor</displayName>
+   </concept>
+   <concept code="PRD">
+      <displayName>Product</displayName>
+   </concept>
+   <concept code="LOC">
+      <displayName>Location</displayName>
+   </concept>
+   <concept code="DST">
+      <displayName>Destination</displayName>
+   </concept>
+   <concept code="ELOC">
+      <displayName>Entry location</displayName>
+   </concept>
+   <concept code="ORG">
+      <displayName>Origin</displayName>
+   </concept>
+   <concept code="RML">
+      <displayName>Remote</displayName>
+   </concept>
+   <concept code="VIA">
+      <displayName>Via</displayName>
+   </concept>
+   <concept code="VRF">
+      <displayName>Verifier</displayName>
+   </concept>
+   <concept code="AUTHEN">
+      <displayName>Authenticator</displayName>
+   </concept>
+   <concept code="LA">
+      <displayName>Legal authenticator</displayName>
+   </concept>
+   <concept code="CST">
+      <displayName>Custodian</displayName>
+   </concept>
+   <concept code="RESP">
+      <displayName>Responsible party</displayName>
+   </concept>
+   <concept code="DENT">
+      <displayName>Data Enterer</displayName>
+   </concept>
+</vocabulary>

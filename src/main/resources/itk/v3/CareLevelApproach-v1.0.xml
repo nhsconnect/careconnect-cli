@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CareLevelApproach" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.238">
+   <Description>
+            <p>A set of codes indicating the care level approach being used.<br/>
+            </p>
+         </Description>
+   <concept code="SL">
+      <displayName>Single Level</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Standard</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>Enhanced</displayName>
+   </concept>
+</vocabulary>

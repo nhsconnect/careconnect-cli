@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Accommodation Type" type="Realm Concept" setId="67821000000137" version="6" id="6161000000138" refId="999001371000000102" memberCount="34" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="65421000">
+<displayName lang="en" type="PT">Living in tent</displayName>
+<displayName lang="en" type="FSN">Living in tent (finding)</displayName>
+</concept>
+<concept code="70147002">
+<displayName lang="en" type="PT">Living in trailer</displayName>
+<displayName lang="en" type="FSN">Living in trailer (finding)</displayName>
+</concept>
+<concept code="82876001">
+<displayName lang="en" type="PT">Living in mobile home</displayName>
+<displayName lang="en" type="FSN">Living in mobile home (finding)</displayName>
+</concept>
+<concept code="105530003">
+<displayName lang="en" type="PT">Living in residential institution</displayName>
+<displayName lang="en" type="FSN">Living in residential institution (finding)</displayName>
+<displayName lang="en" type="SY">Residential establishment</displayName>
+<displayName lang="en" type="SY">Residential institution</displayName>
+</concept>
+<concept code="160729004">
+<displayName lang="en" type="PT">Lives in sheltered housing</displayName>
+<displayName lang="en" type="FSN">Lives in sheltered housing (finding)</displayName>
+<displayName lang="en" type="SY">Lives in sheltered accommodation</displayName>
+</concept>
+<concept code="160734000">
+<displayName lang="en" type="PT">Lives in a nursing home</displayName>
+<displayName lang="en" type="FSN">Lives in a nursing home (finding)</displayName>
+</concept>
+<concept code="160738002">
+<displayName lang="en" type="PT">Lives in a children&apos;s home</displayName>
+<displayName lang="en" type="FSN">Lives in a children&apos;s home (finding)</displayName>
+</concept>
+<concept code="160746001">
+<displayName lang="en" type="PT">Lives in a bedsit</displayName>
+<displayName lang="en" type="FSN">Lives in a bedsit (finding)</displayName>
+<displayName lang="en" type="SY">Living in bedsitter</displayName>
+</concept>
+<concept code="224148001">
+<displayName lang="en" type="PT">Lives in a school community</displayName>
+<displayName lang="en" type="FSN">Lives in a school community (finding)</displayName>
+</concept>
+<concept code="224218009">
+<displayName lang="en" type="PT">Lives in hotel</displayName>
+<displayName lang="en" type="FSN">Lives in hotel (finding)</displayName>
+</concept>
+<concept code="224222004">
+<displayName lang="en" type="PT">Lives in accommodation with resident warden</displayName>
+<displayName lang="en" type="FSN">Lives in accommodation with resident warden (finding)</displayName>
+</concept>
+<concept code="224223009">
+<displayName lang="en" type="PT">Lives in accommodation with visiting warden</displayName>
+<displayName lang="en" type="FSN">Lives in accommodation with visiting warden (finding)</displayName>
+<displayName lang="en" type="SY">Lives in accommodation with peripatetic warden</displayName>
+</concept>
+<concept code="224225002">
+<displayName lang="en" type="PT">Lives in hospital</displayName>
+<displayName lang="en" type="FSN">Lives in hospital (finding)</displayName>
+</concept>
+<concept code="224228000">
+<displayName lang="en" type="PT">Living rough</displayName>
+<displayName lang="en" type="FSN">Living rough (finding)</displayName>
+</concept>
+<concept code="224231004">
+<displayName lang="en" type="PT">Sleeping in night shelter</displayName>
+<displayName lang="en" type="FSN">Sleeping in night shelter (finding)</displayName>
+</concept>
+<concept code="224233001">
+<displayName lang="en" type="PT">Sleeping in vehicle</displayName>
+<displayName lang="en" type="FSN">Sleeping in vehicle (finding)</displayName>
+</concept>
+<concept code="266939009">
+<displayName lang="en" type="PT">Lives in residential hostel</displayName>
+<displayName lang="en" type="FSN">Lives in residential hostel (finding)</displayName>
+<displayName lang="en" type="SY">Living in hostel</displayName>
+</concept>
+<concept code="307106009">
+<displayName lang="en" type="PT">Lives in boarding school</displayName>
+<displayName lang="en" type="FSN">Lives in boarding school (finding)</displayName>
+</concept>
+<concept code="394923006">
+<displayName lang="en" type="PT">Lives in a residential home</displayName>
+<displayName lang="en" type="FSN">Lives in a residential home (finding)</displayName>
+</concept>
+<concept code="412769006">
+<displayName lang="en" type="PT">Lives in mother and baby unit</displayName>
+<displayName lang="en" type="FSN">Lives in mother and baby unit (finding)</displayName>
+</concept>
+<concept code="429063000">
+<displayName lang="en" type="PT">Lives in bungalow</displayName>
+<displayName lang="en" type="FSN">Lives in bungalow (finding)</displayName>
+</concept>
+<concept code="609240002">
+<displayName lang="en" type="PT">Lives in ground floor apartment</displayName>
+<displayName lang="en" type="FSN">Lives in ground floor apartment (finding)</displayName>
+<displayName lang="en" type="SY">Lives in ground floor flat</displayName>
+</concept>
+<concept code="609241003">
+<displayName lang="en" type="PT">Lives in apartment with elevator access</displayName>
+<displayName lang="en" type="FSN">Lives in apartment with elevator access (finding)</displayName>
+<displayName lang="en" type="SY">Lives in flat with elevator access</displayName>
+</concept>
+<concept code="609242005">
+<displayName lang="en" type="PT">Lives in apartment without elevator access</displayName>
+<displayName lang="en" type="FSN">Lives in apartment without elevator access (finding)</displayName>
+<displayName lang="en" type="SY">Lives in flat without elevator access</displayName>
+</concept>
+<concept code="609243000">
+<displayName lang="en" type="PT">Lives in semidetached house</displayName>
+<displayName lang="en" type="FSN">Lives in semidetached house (finding)</displayName>
+</concept>
+<concept code="609244006">
+<displayName lang="en" type="PT">Lives in terraced house</displayName>
+<displayName lang="en" type="FSN">Lives in terraced house (finding)</displayName>
+</concept>
+<concept code="609245007">
+<displayName lang="en" type="PT">Lives in detached house</displayName>
+<displayName lang="en" type="FSN">Lives in detached house (finding)</displayName>
+</concept>
+<concept code="700209003">
+<displayName lang="en" type="PT">Lives on boat</displayName>
+<displayName lang="en" type="FSN">Lives on boat (finding)</displayName>
+</concept>
+<concept code="242711000000100">
+<displayName lang="en" type="PT">Lives in house</displayName>
+<displayName lang="en" type="FSN">Lives in house (finding)</displayName>
+</concept>
+<concept code="242721000000106">
+<displayName lang="en" type="PT">Lives in mobile home</displayName>
+<displayName lang="en" type="FSN">Lives in mobile home (finding)</displayName>
+</concept>
+<concept code="248171000000108">
+<displayName lang="en" type="PT">Lives in care home</displayName>
+<displayName lang="en" type="FSN">Lives in care home (finding)</displayName>
+</concept>
+<concept code="287291000000105">
+<displayName lang="en" type="PT">Lives in a children&apos;s unit</displayName>
+<displayName lang="en" type="FSN">Lives in a children&apos;s unit (finding)</displayName>
+</concept>
+<concept code="381751000000106">
+<displayName lang="en" type="PT">Sofa surfer - person of no fixed abode</displayName>
+<displayName lang="en" type="FSN">Sofa surfer - person of no fixed abode (finding)</displayName>
+</concept>
+<concept code="864131000000100">
+<displayName lang="en" type="PT">Living in refuge</displayName>
+<displayName lang="en" type="FSN">Living in refuge (finding)</displayName>
+</concept>
+</vocabulary>

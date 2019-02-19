@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CRETypeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Describes the NPfIT Care Record Element Types which may be assigned to Clinical Statements.</p>
+	           <p>The vocabulary shall be drawn from the relevant part of <b>Snomed CT</b>. This vocabulary supersedes the CREType vocabulary used prior to MIM 3.1.2.</p>
+         </Description>
+   <concept code="162931000000103">
+      <displayName>Care Record Elements</displayName>
+   </concept>
+</vocabulary>

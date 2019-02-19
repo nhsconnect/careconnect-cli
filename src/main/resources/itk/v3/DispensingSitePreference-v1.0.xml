@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispensingSitePreference" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.21">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.21</p>
+            <p>Describes the nature of the role played by an agent (in this case a pharmacy) when supplying medication.</p>
+            <p>Note:1) Message coding reflects the PDS code scheme for P1R2.</p>
+            <p/>
+            <p>2) The role of Agent is a place holder, not an actual specified pharmacy</p>
+         </Description>
+   <concept code="P1">
+      <displayName>Other (for example, nominated community pharmacy other than P2 or P3)</displayName>
+   </concept>
+   <concept code="P2">
+      <displayName>Appliance Contractor</displayName>
+   </concept>
+   <concept code="P3">
+      <displayName>Dispensing Doctor</displayName>
+   </concept>
+   <concept code="0001">
+      <displayName>Other (for example, nominated community pharmacy other than P2 or P3)</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Appliance Contractor</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Oxygen Contractor</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>None</displayName>
+   </concept>
+</vocabulary>

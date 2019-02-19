@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrMedicationState" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.1.5.14.11.2">
+   <Description>
+            <p>Indicates whether an action is still pending against an authorisation or order.</p>
+         </Description>
+   <concept code="ZZACTIVE">
+      <displayName>Active</displayName>
+   </concept>
+   <concept code="ZZCOMPLETE">
+      <displayName>Complete</displayName>
+   </concept>
+   <concept code="ZZNULLIFIED">
+      <displayName>Nullified</displayName>
+   </concept>
+   <concept code="ZZOBSOLETE">
+      <displayName>Obsolete</displayName>
+   </concept>
+   <concept code="active">
+      <displayName>Active</displayName>
+   </concept>
+   <concept code="completed">
+      <displayName>Completed</displayName>
+   </concept>
+   <concept code="nullified">
+      <displayName>Nullified</displayName>
+   </concept>
+   <concept code="obsolete">
+      <displayName>Obsolete</displayName>
+   </concept>
+</vocabulary>

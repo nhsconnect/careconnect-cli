@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHAISRemovalCancellationCode" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.207">
+   <Description>
+            <p>Indicates the reason why a registration removal was not applied to current data.<br/>
+            </p>
+         </Description>
+   <concept code="P">
+      <displayName>Pending</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Cancelled</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHSEdiMessageTypeCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.6.11">
+   <Description>
+            <p>The value for these codes is the coded representation of the MessageType codes applicable to the original message. The coding system indicates the source of the message type and hence of the code for identifying that type (e.g. HL7, NHS, etc). UK NHS EDI Message Types are represented using the convention shown in the NHS GP-HA links specification.</p>
+	           <p>This combines the following elements separated by the colon (:) character.</p>
+	           <ul>
+		             <li>Message type</li>
+		             <li>Message version number</li>
+		             <li>Message release number</li>
+		             <li>Controlling Agency</li>
+		             <li>Association assigned code</li>
+	           </ul>
+	           <p>For example: <br/>
+		             <code>&amp;lt;code root="2.16.840.1.113883.2.1.6.11" extension="FHSREG:0:1:FH:FHS001"/&amp;gt;</code>
+	           </p>
+         </Description>
+</vocabulary>

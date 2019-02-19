@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Ambulance Request Type" type="Realm Concept" setId="68121000000130" version="8" id="43951000000135" refId="999000301000000102" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="828791000000100">
+<displayName lang="en" type="PT">NHS 111 Interim Ambulance Request</displayName>
+<displayName lang="en" type="FSN">National Health Service 111 Interim Ambulance Request (record artifact)</displayName>
+</concept>
+<concept code="828801000000101">
+<displayName lang="en" type="PT">NHS 111 Final Ambulance Request</displayName>
+<displayName lang="en" type="FSN">National Health Service 111 Final Ambulance Request (record artifact)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHCRejectionReason" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.282">
+   <Description>
+            <p>A set of codes to support the NHS Continuing Healthcare assessment document rejection.</p>
+         </Description>
+   <concept code="NOCHCE">
+      <displayName>Not eligible for Continuing Healthcare</displayName>
+   </concept>
+   <concept code="ASWT">
+      <displayName>Assessment sent to the incorrect person /  team</displayName>
+   </concept>
+   <concept code="NOFTE">
+      <displayName>Not eligible for Fast Track</displayName>
+   </concept>
+   <concept code="NEI">
+      <displayName>Not enough information to complete the assessment</displayName>
+   </concept>
+</vocabulary>

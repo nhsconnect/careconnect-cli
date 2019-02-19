@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISMiniServiceResponseCode" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.499">
+   <Description>
+            <p>
+               <p/>
+               <p>A vocabulary to support CP-IS Mini Service response codes. </p>
+               <p>This vocabulary contains CP-IS and Generic Spine Mini Service business responses. The Generic Spine Mini Service (SMSP) codes have been integrated into this vocabulary.</p>
+               <p>The GenericMiniServiceResponseCode vocabulary can be found available on request..</p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="CPIS-0001">
+      <displayName>No Match (NRF)</displayName>
+   </concept>
+   <concept code="CPIS-9999">
+      <displayName>Generic CP-IS service errors</displayName>
+   </concept>
+   <concept code="SMSP-0000">
+      <displayName>Success</displayName>
+   </concept>
+   <concept code="SMSP-0001">
+      <displayName>Input message validation error</displayName>
+   </concept>
+   <concept code="SMSP-0002">
+      <displayName>Response message validation error</displayName>
+   </concept>
+   <concept code="SMSP-0003">
+      <displayName>Data returned from local store, Spine unavailable</displayName>
+   </concept>
+   <concept code="SMSP-0004">
+      <displayName>Could not connect to Spine</displayName>
+   </concept>
+   <concept code="SMSP-0005">
+      <displayName>Author credentials error</displayName>
+   </concept>
+   <concept code="SMSP-9999">
+      <displayName>Generic Spine Mini Service Provider software failure</displayName>
+   </concept>
+</vocabulary>

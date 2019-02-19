@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TestesExaminationResult" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.449">
+   <Description>
+            <p>A set of codes to indicate the outcome of a testes examination.</p>
+         </Description>
+   <concept code="00">
+      <displayName>Not tested</displayName>
+   </concept>
+   <concept code="01">
+      <displayName>No abnormalities</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Unilateral abnormality suspected (Right)</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Unilateral abnormality suspected (Left)</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Bi-lateral abnormality suspected</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Screen Declined</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Incomplete</displayName>
+   </concept>
+</vocabulary>

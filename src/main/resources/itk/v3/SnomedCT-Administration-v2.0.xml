@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SnomedCT-Administration" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.54">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.15</p>
+            <p>A subset of the <b>Snomed-CT</b> clinical terminology (i.e. coding system) intended for use in the UK associated with administration.</p>
+         </Description>
+   <concept code="225426007">
+      <displayName>administration of therapeutic substance (procedure)</displayName>
+   </concept>
+</vocabulary>

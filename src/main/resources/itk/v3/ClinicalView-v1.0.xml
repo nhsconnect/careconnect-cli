@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ClinicalView" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.55">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.55</p>
+            <p>An identifier for each of the clinical views that can be requested via a PSIS Summary Query.</p>
+         </Description>
+   <concept code="GS-01">
+      <displayName>Generic Summary</displayName>
+   </concept>
+   <concept code="PO-01">
+      <displayName>Problem Oriented View</displayName>
+   </concept>
+   <concept code="PV-01">
+      <displayName>Procedure</displayName>
+   </concept>
+   <concept code="FA-01">
+      <displayName>Future Activities</displayName>
+   </concept>
+   <concept code="CE-01">
+      <displayName>Care Event</displayName>
+   </concept>
+   <concept code="RW-01">
+      <displayName>Risks and Warnings</displayName>
+   </concept>
+   <concept code="MED-G01">
+      <displayName>General Medication</displayName>
+   </concept>
+   <concept code="MED-C01">
+      <displayName>Current Medication</displayName>
+   </concept>
+</vocabulary>

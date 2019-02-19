@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OrganizationRoleName" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.125">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.125</p>
+            <p>To identify the role of an organization where the information is not known to SDS.</p>
+         </Description>
+   <concept code="ALL">
+      <displayName>Allergy clinic</displayName>
+   </concept>
+   <concept code="AMB">
+      <displayName>Ambulance</displayName>
+   </concept>
+   <concept code="AMPUT">
+      <displayName>Amputee clinic</displayName>
+   </concept>
+   <concept code="BMTC">
+      <displayName>Bone marrow transplant clinic</displayName>
+   </concept>
+   <concept code="BMTU">
+      <displayName>Bone marrow transplant unit</displayName>
+   </concept>
+   <concept code="BREAST">
+      <displayName>Breast clinic</displayName>
+   </concept>
+   <concept code="CANC">
+      <displayName>Child and adolescent neurology clinic</displayName>
+   </concept>
+   <concept code="CAPC">
+      <displayName>Child and adolescent psychiatry clinic</displayName>
+   </concept>
+   <concept code="CARD">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Rehabilitation: Cardiac Facilities</displayName>
+   </concept>
+   <concept code="CATH">
+      <displayName>Cardiac catheterization lab</displayName>
+   </concept>
+   <concept code="CCU">
+      <displayName>Coronary care unit</displayName>
+   </concept>
+   <concept code="CHEST">
+      <displayName>Chest unit</displayName>
+   </concept>
+   <concept code="CHR">
+      <displayName>Chronic Care Facility</displayName>
+   </concept>
+   <concept code="COAG">
+      <displayName>Coagulation clinic</displayName>
+   </concept>
+   <concept code="CRS">
+      <displayName>Colon and rectal surgery clinic</displayName>
+   </concept>
+   <concept code="CVDX">
+      <displayName>Cardiovascular diagnostics or therapeutics unit</displayName>
+   </concept>
+   <concept code="DADDR">
+      <displayName>Delivery Address</displayName>
+   </concept>
+   <concept code="DERM">
+      <displayName>Dermatology clinic</displayName>
+   </concept>
+   <concept code="DX">
+      <displayName>Diagnostics or therapeutics unit</displayName>
+   </concept>
+   <concept code="ECHO">
+      <displayName>Echocardiography lab</displayName>
+   </concept>
+   <concept code="ENDO">
+      <displayName>Endocrinology clinic</displayName>
+   </concept>
+   <concept code="ENDOS">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Endoscopy</displayName>
+   </concept>
+   <concept code="ENT">
+      <displayName>Otorhinolaryngology clinic</displayName>
+   </concept>
+   <concept code="EPIL">
+      <displayName>Epilepsy unit</displayName>
+   </concept>
+   <concept code="ER">
+      <displayName>Emergency room</displayName>
+   </concept>
+   <concept code="ETU">
+      <displayName>Emergency trauma unit</displayName>
+   </concept>
+   <concept code="FMC">
+      <displayName>Family medicine clinic</displayName>
+   </concept>
+   <concept code="GACH">
+      <displayName>General acute care hospital</displayName>
+   </concept>
+   <concept code="GI">
+      <displayName>Gastroenterology clinic</displayName>
+   </concept>
+   <concept code="GIDX">
+      <displayName>Gastroenterology diagnostics or therapeutics lab</displayName>
+   </concept>
+   <concept code="GIM">
+      <displayName>General internal medicine clinic</displayName>
+   </concept>
+   <concept code="GYN">
+      <displayName>Gynecology clinic</displayName>
+   </concept>
+   <concept code="HAND">
+      <displayName>Hand clinic</displayName>
+   </concept>
+   <concept code="HD">
+      <displayName>Hemodialysis unit</displayName>
+   </concept>
+   <concept code="HEM">
+      <displayName>Hematology clinic</displayName>
+   </concept>
+   <concept code="HOSP">
+      <displayName>Hospital</displayName>
+   </concept>
+   <concept code="HTN">
+      <displayName>Hypertension clinic</displayName>
+   </concept>
+   <concept code="HU">
+      <displayName>Hospital unit</displayName>
+   </concept>
+   <concept code="ICU">
+      <displayName>Intensive care unit</displayName>
+   </concept>
+   <concept code="IEC">
+      <displayName>Impairment evaluation center</displayName>
+   </concept>
+   <concept code="INFD">
+      <displayName>Infectious disease clinic</displayName>
+   </concept>
+   <concept code="INV">
+      <displayName>Infertility clinic</displayName>
+   </concept>
+   <concept code="LYMPH">
+      <displayName>Lympedema clinic</displayName>
+   </concept>
+   <concept code="MGEN">
+      <displayName>Medical genetics clinic</displayName>
+   </concept>
+   <concept code="MHSP">
+      <displayName>Military Hospital</displayName>
+   </concept>
+   <concept code="MOBL">
+      <displayName>Mobile Unit</displayName>
+   </concept>
+   <concept code="NCCF">
+      <displayName>Nursing or custodial care facility</displayName>
+   </concept>
+   <concept code="NCCS">
+      <displayName>Neurology critical care and stroke unit</displayName>
+   </concept>
+   <concept code="NEPH">
+      <displayName>Nephrology clinic</displayName>
+   </concept>
+   <concept code="NEUR">
+      <displayName>Neurology clinic</displayName>
+   </concept>
+   <concept code="NS">
+      <displayName>Neurosurgery unit</displayName>
+   </concept>
+   <concept code="OB">
+      <displayName>Obstetrics clinic</displayName>
+   </concept>
+   <concept code="OF">
+      <displayName>Outpatient facility</displayName>
+   </concept>
+   <concept code="OMS">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Surgery, Oral/Maxillofacial</displayName>
+   </concept>
+   <concept code="ONCL">
+      <displayName>Medical oncology clinic</displayName>
+   </concept>
+   <concept code="OPH">
+      <displayName>Opthalmology clinic</displayName>
+   </concept>
+   <concept code="ORTHO">
+      <displayName>Orthopedics clinic</displayName>
+   </concept>
+   <concept code="PAINCL">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Pain</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Primary Care</displayName>
+   </concept>
+   <concept code="PEDC">
+      <displayName>Pediatrics clinic</displayName>
+   </concept>
+   <concept code="PEDCARD">
+      <displayName>Pediatric cardiology clinic</displayName>
+   </concept>
+   <concept code="PEDE">
+      <displayName>Pediatric endocrinology clinic</displayName>
+   </concept>
+   <concept code="PEDGI">
+      <displayName>Pediatric gastroenterology clinic</displayName>
+   </concept>
+   <concept code="PEDHEM">
+      <displayName>Pediatric hematology clinic</displayName>
+   </concept>
+   <concept code="PEDHO">
+      <displayName>Pediatric oncology clinic</displayName>
+   </concept>
+   <concept code="PEDICU">
+      <displayName>Pediatric intensive care unit</displayName>
+   </concept>
+   <concept code="PEDID">
+      <displayName>Pediatric infectious disease clinic</displayName>
+   </concept>
+   <concept code="PEDNEPH">
+      <displayName>Pediatric nephrology clinic</displayName>
+   </concept>
+   <concept code="PEDNICU">
+      <displayName>Pediatric neonatal intensive care unit</displayName>
+   </concept>
+   <concept code="PEDRHEUM">
+      <displayName>Pediatric rheumatology clinic</displayName>
+   </concept>
+   <concept code="PEDU">
+      <displayName>Pediatric unit</displayName>
+   </concept>
+   <concept code="PHARM">
+      <displayName>Pharmacy</displayName>
+   </concept>
+   <concept code="PHU">
+      <displayName>Hospital Units; Psychiatric Unit</displayName>
+   </concept>
+   <concept code="PLS">
+      <displayName>Plastic surgery clinic</displayName>
+   </concept>
+   <concept code="POD">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Podiatric</displayName>
+   </concept>
+   <concept code="PRC">
+      <displayName>Pain rehabilitation center</displayName>
+   </concept>
+   <concept code="PREV">
+      <displayName>Preventive medicine clinic</displayName>
+   </concept>
+   <concept code="PROCTO">
+      <displayName>Proctology clinic</displayName>
+   </concept>
+   <concept code="PROFF">
+      <displayName>Provider's Office</displayName>
+   </concept>
+   <concept code="PROS">
+      <displayName>Prosthodontics clinic</displayName>
+   </concept>
+   <concept code="PSI">
+      <displayName>Psychology clinic</displayName>
+   </concept>
+   <concept code="PSY">
+      <displayName>Psychiatry clinic</displayName>
+   </concept>
+   <concept code="PSYCHF">
+      <displayName>Psychatric Care Facility</displayName>
+   </concept>
+   <concept code="RADDX">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Centre; Radiology</displayName>
+   </concept>
+   <concept code="RH">
+      <displayName>Hospitals; Rehabilitation Hospital</displayName>
+   </concept>
+   <concept code="RHEUM">
+      <displayName>Rheumatology clinic</displayName>
+   </concept>
+   <concept code="RHU">
+      <displayName>Hospital Units; Rehabilitation Unit</displayName>
+   </concept>
+   <concept code="RTF">
+      <displayName>Residential treatment facility</displayName>
+   </concept>
+   <concept code="SLEEP">
+      <displayName>Sleep disorders unit</displayName>
+   </concept>
+   <concept code="SNF">
+      <displayName>Nursing &amp; Custodial Care Facilities; Skilled Nursing Facility</displayName>
+   </concept>
+   <concept code="SPMED">
+      <displayName>Sports medicine clinic</displayName>
+   </concept>
+   <concept code="SU">
+      <displayName>Surgery clinic</displayName>
+   </concept>
+   <concept code="SURF">
+      <displayName>Residential Treatment Facilities; Substance Use Rehabilitation Facility</displayName>
+   </concept>
+   <concept code="TR">
+      <displayName>Transplant clinic</displayName>
+   </concept>
+   <concept code="TRAVEL">
+      <displayName>Travel and geographic medicine clinic</displayName>
+   </concept>
+   <concept code="URO">
+      <displayName>Urology clinic</displayName>
+   </concept>
+   <concept code="WND">
+      <displayName>Wound clinic</displayName>
+   </concept>
+</vocabulary>

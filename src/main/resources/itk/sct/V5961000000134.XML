@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Care Plan Agreement" type="Realm Concept" setId="67741000000137" version="6" id="5961000000134" refId="999001461000000101" memberCount="29" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="413094005">
+<displayName lang="en" type="PT">Clinical management plan agreed</displayName>
+<displayName lang="en" type="FSN">Clinical management plan agreed (finding)</displayName>
+</concept>
+<concept code="415659002">
+<displayName lang="en" type="PT">Substance misuse clinical management plan agreed</displayName>
+<displayName lang="en" type="FSN">Substance misuse clinical management plan agreed (finding)</displayName>
+</concept>
+<concept code="702779007">
+<displayName lang="en" type="PT">Emergency health care plan agreed</displayName>
+<displayName lang="en" type="FSN">Emergency health care plan agreed (finding)</displayName>
+<displayName lang="en" type="SY">EHCP (Emergency health care plan) agreed</displayName>
+</concept>
+<concept code="707165003">
+<displayName lang="en" type="PT">Does not agree with care plan</displayName>
+<displayName lang="en" type="FSN">Does not agree with care plan (finding)</displayName>
+</concept>
+<concept code="782791000000106">
+<displayName lang="en" type="PT">Goal agreed</displayName>
+<displayName lang="en" type="FSN">Goal agreed (finding)</displayName>
+</concept>
+<concept code="782801000000105">
+<displayName lang="en" type="PT">Goal not agreed</displayName>
+<displayName lang="en" type="FSN">Goal not agreed (finding)</displayName>
+</concept>
+<concept code="802321000000106">
+<displayName lang="en" type="PT">Care plan agreed</displayName>
+<displayName lang="en" type="FSN">Care plan agreed (finding)</displayName>
+</concept>
+<concept code="811871000000107">
+<displayName lang="en" type="PT">Health and social care plan agreed</displayName>
+<displayName lang="en" type="FSN">Health and social care plan agreed (finding)</displayName>
+</concept>
+<concept code="811881000000109">
+<displayName lang="en" type="PT">Multiple sclerosis care plan agreed</displayName>
+<displayName lang="en" type="FSN">Multiple sclerosis care plan agreed (finding)</displayName>
+</concept>
+<concept code="811901000000107">
+<displayName lang="en" type="PT">Angina self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Angina self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="811921000000103">
+<displayName lang="en" type="PT">Asthma self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Asthma self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="811941000000105">
+<displayName lang="en" type="PT">Chronic kidney disease self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Chronic kidney disease self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="811961000000106">
+<displayName lang="en" type="PT">Chronic obstructive pulmonary disease self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Chronic obstructive pulmonary disease self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="811981000000102">
+<displayName lang="en" type="PT">Diabetes self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Diabetes self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="812001000000102">
+<displayName lang="en" type="PT">Heart failure self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Heart failure self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="812021000000106">
+<displayName lang="en" type="PT">Hypertension self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Hypertension self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="812041000000104">
+<displayName lang="en" type="PT">Stroke self-management plan agreed</displayName>
+<displayName lang="en" type="FSN">Stroke self-management plan agreed (finding)</displayName>
+</concept>
+<concept code="842421000000106">
+<displayName lang="en" type="PT">Acute stroke management plan agreed</displayName>
+<displayName lang="en" type="FSN">Acute stroke management plan agreed (finding)</displayName>
+</concept>
+<concept code="884451000000100">
+<displayName lang="en" type="PT">Continence treatment plan agreed</displayName>
+<displayName lang="en" type="FSN">Continence treatment plan agreed (finding)</displayName>
+</concept>
+<concept code="904941000000103">
+<displayName lang="en" type="PT">Subject actions in care plan not agreed</displayName>
+<displayName lang="en" type="FSN">Subject actions in care plan not agreed (finding)</displayName>
+<displayName lang="en" type="SY">Patient actions in care plan not agreed</displayName>
+<displayName lang="en" type="SY">Service user actions in care plan not agreed</displayName>
+</concept>
+<concept code="905141000000102">
+<displayName lang="en" type="PT">Need not agreed</displayName>
+<displayName lang="en" type="FSN">Need not agreed (finding)</displayName>
+</concept>
+<concept code="905151000000104">
+<displayName lang="en" type="PT">Need agreed</displayName>
+<displayName lang="en" type="FSN">Need agreed (finding)</displayName>
+</concept>
+<concept code="905161000000101">
+<displayName lang="en" type="PT">Subject actions in care plan agreed</displayName>
+<displayName lang="en" type="FSN">Subject actions in care plan agreed (finding)</displayName>
+<displayName lang="en" type="SY">Patient actions in care plan agreed</displayName>
+<displayName lang="en" type="SY">Service user actions in care plan agreed</displayName>
+</concept>
+<concept code="905171000000108">
+<displayName lang="en" type="PT">Healthcare professional actions in care plan not agreed</displayName>
+<displayName lang="en" type="FSN">Healthcare professional actions in care plan not agreed (finding)</displayName>
+</concept>
+<concept code="905181000000105">
+<displayName lang="en" type="PT">Healthcare professional actions in care plan agreed</displayName>
+<displayName lang="en" type="FSN">Healthcare professional actions in care plan agreed (finding)</displayName>
+</concept>
+<concept code="913681000000100">
+<displayName lang="en" type="PT">Admission avoidance care plan agreed</displayName>
+<displayName lang="en" type="FSN">Admission avoidance care plan agreed (finding)</displayName>
+</concept>
+<concept code="936901000000101">
+<displayName lang="en" type="PT">Advance care plan agreed</displayName>
+<displayName lang="en" type="FSN">Advance care plan agreed (finding)</displayName>
+</concept>
+<concept code="943001000000107">
+<displayName lang="en" type="PT">Safeguarding adults protection plan agreed</displayName>
+<displayName lang="en" type="FSN">Safeguarding adults protection plan agreed (finding)</displayName>
+</concept>
+<concept code="956841000000106">
+<displayName lang="en" type="PT">Dementia care plan agreed</displayName>
+<displayName lang="en" type="FSN">Dementia care plan agreed (finding)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrationSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A subset of SNOMED-CT intended for use in the UK representing the administration of a single dose, cycle or complete course of medication to a patient, and its status (e.g. planned, done, abandoned).  If required, it may indicate the route(s) (e.g. intravenous) and/or the site(s) of administration (e.g. left arm).</p> 	
+            <p> 		
+               <strong>Any code from the SNOMED CT UK <em>Administration Medication</em> subset with subset original id 1311000000134.</strong>
+            </p>
+            <p>The use of this subset is <strong>Mandatory </strong>as defined in latest version of "NPFIT-ELIBR-AREL-P1R2-0178 Technical Guidance for Implementation of Templated CDA Domains." </p>
+         </Description>
+</vocabulary>

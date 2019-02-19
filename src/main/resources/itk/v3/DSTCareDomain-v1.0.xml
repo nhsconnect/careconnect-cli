@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DSTCareDomain" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.277">
+   <Description>
+            <p>This vocab consists of the NHS Continuing Healthcare DST care domains.</p>
+         </Description>
+   <concept code="DSTBEH">
+      <displayName>Behaviour</displayName>
+   </concept>
+   <concept code="DSTCOG">
+      <displayName>Cognition</displayName>
+   </concept>
+   <concept code="DSTPSY">
+      <displayName>Psychological and Emotional Needs</displayName>
+   </concept>
+   <concept code="DSTCOM">
+      <displayName>Communication</displayName>
+   </concept>
+   <concept code="DSTMOB">
+      <displayName>Mobility</displayName>
+   </concept>
+   <concept code="DSTNUT">
+      <displayName>Nutrition - Food and Drink</displayName>
+   </concept>
+   <concept code="DSTCON">
+      <displayName>Continence</displayName>
+   </concept>
+   <concept code="DSTSKI">
+      <displayName>Skin (including tissue viability)</displayName>
+   </concept>
+   <concept code="DSTBRE">
+      <displayName>Breathing</displayName>
+   </concept>
+   <concept code="DSTMED">
+      <displayName>Drug Therapies and Medication - Symptom Control</displayName>
+   </concept>
+   <concept code="DSTCONS">
+      <displayName>Altered States of Consciousness</displayName>
+   </concept>
+   <concept code="DSTOSN">
+      <displayName>Other significant care needs</displayName>
+   </concept>
+</vocabulary>

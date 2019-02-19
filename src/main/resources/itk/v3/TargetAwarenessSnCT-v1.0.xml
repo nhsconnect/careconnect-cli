@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TargetAwarenessSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID the OID for the UK subset of SnomedCT, qv the link below.</p>
+            <p>Any code from the UK Subset of <b>SnomedCT</b> that describes the patient / carer's awareness of a problem / diagnosis.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DiagnosisClassification" version="1.0" status="created"
+            id="2.16.840.1.113883.12.228">
+   <Description>This table indicates if the patient information is for a diagnosis or a non-diagnosis code.
+					Table type: User</Description>
+   <concept code="C">
+      <displayName>Consultation</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Diagnosis</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Invasive procedure not classified elsewhere (I.V., catheter, etc.)</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Medication (antibiotic)</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Radiological scheduling (not using ICDA codes)</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Sign and symptom</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Tissue diagnosis</displayName>
+   </concept>
+</vocabulary>

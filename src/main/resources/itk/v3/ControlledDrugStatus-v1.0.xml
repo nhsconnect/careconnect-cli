@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ControlledDrugStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.264">
+   <Description><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>   </w:Compatibility>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>  </w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:LatentStyles DefLockedState="false" LatentStyleCount="156">  </w:LatentStyles> </xml><![endif]--> <!--  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-parent:""; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman"; 	mso-fareast-font-family:"Times New Roman";} @page Section1 	{size:612.0pt 792.0pt; 	margin:72.0pt 90.0pt 72.0pt 90.0pt; 	mso-header-margin:36.0pt; 	mso-footer-margin:36.0pt; 	mso-paper-source:0;} div.Section1 	{page:Section1;} --> <!--[if gte mso 10]> <style>  /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Table Normal"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:""; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman"; 	mso-ansi-language:#0400; 	mso-fareast-language:#0400; 	mso-bidi-language:#0400;} </style> <![endif]--><span style="font-size: 12pt; font-family: Arial">Identifies the controlled drug status for a medication.</span>
+         </Description>
+   <concept code="0000">
+      <displayName>No Controlled Drug Status</displayName>
+   </concept>
+   <concept code="0001">
+      <displayName>Schedule 1 (CD Lic)</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Schedule 2 (CD)</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Schedule 2 (CD Exempt Safe Custody)</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>Schedule 3 (CD No Register)</displayName>
+   </concept>
+   <concept code="0005">
+      <displayName>Schedule 3 (CD No Register Exempt Safe Custody)</displayName>
+   </concept>
+   <concept code="0006">
+      <displayName>Schedule 3 (CD No Register Phenobarbital)</displayName>
+   </concept>
+   <concept code="0007">
+      <displayName>Schedule 3 (CD No Register Temazepam)</displayName>
+   </concept>
+   <concept code="0008">
+      <displayName>Schedule 4 (CD Anab)</displayName>
+   </concept>
+   <concept code="0009">
+      <displayName>Schedule 4 (CD Benz)</displayName>
+   </concept>
+   <concept code="0010">
+      <displayName>Schedule 5 (CD Inv)</displayName>
+   </concept>
+</vocabulary>

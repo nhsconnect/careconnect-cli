@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HcpType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.92">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.92</p>
+            <p>Type of health care professional, e.g. GMP principal, practice nurse, hospital consultant.</p>
+         </Description>
+   <concept code="001">
+      <displayName>Chiropodist</displayName>
+   </concept>
+   <concept code="002">
+      <displayName>Community Optometrist</displayName>
+   </concept>
+   <concept code="003">
+      <displayName>Community Pharmacist</displayName>
+   </concept>
+   <concept code="004">
+      <displayName>Community Paediatric Nurse</displayName>
+   </concept>
+   <concept code="005.">
+      <displayName>Community Psychiatric Nurse</displayName>
+   </concept>
+   <concept code="006">
+      <displayName>Dietician</displayName>
+   </concept>
+   <concept code="007">
+      <displayName>District Nurse</displayName>
+   </concept>
+   <concept code="008">
+      <displayName>Deputising General Practitioner</displayName>
+   </concept>
+   <concept code="009">
+      <displayName>General Dental Practitioner</displayName>
+   </concept>
+   <concept code="010">
+      <displayName>General Practitioner Locum</displayName>
+   </concept>
+   <concept code="011">
+      <displayName>General Practitioner Principal</displayName>
+   </concept>
+   <concept code="012">
+      <displayName>General Practitioner Registrar</displayName>
+   </concept>
+   <concept code="013">
+      <displayName>Health Visitor</displayName>
+   </concept>
+   <concept code="014">
+      <displayName>Hospital Consultant</displayName>
+   </concept>
+   <concept code="015">
+      <displayName>Hospital Nurse</displayName>
+   </concept>
+   <concept code="016">
+      <displayName>Hospital Registrar</displayName>
+   </concept>
+   <concept code="017">
+      <displayName>Medical Secretary</displayName>
+   </concept>
+   <concept code="018">
+      <displayName>Hospital staff</displayName>
+   </concept>
+   <concept code="019">
+      <displayName>Midwife</displayName>
+   </concept>
+   <concept code="020">
+      <displayName>Nurse Practitioner</displayName>
+   </concept>
+   <concept code="021">
+      <displayName>Occupational Therapist</displayName>
+   </concept>
+   <concept code="022">
+      <displayName>Health Care Professional</displayName>
+   </concept>
+   <concept code="023">
+      <displayName>Practice Health Care Professional</displayName>
+   </concept>
+   <concept code="024">
+      <displayName>Practice Staff</displayName>
+   </concept>
+   <concept code="025">
+      <displayName>Regular Care Provider</displayName>
+   </concept>
+   <concept code="026">
+      <displayName>Physiotherapist</displayName>
+   </concept>
+   <concept code="027">
+      <displayName>Practice Manager</displayName>
+   </concept>
+   <concept code="028">
+      <displayName>Practice Nurse</displayName>
+   </concept>
+   <concept code="029">
+      <displayName>Psychiatric Social Worker</displayName>
+   </concept>
+   <concept code="030">
+      <displayName>Radiographer</displayName>
+   </concept>
+   <concept code="031">
+      <displayName>Radiologist</displayName>
+   </concept>
+   <concept code="032">
+      <displayName>Receptionist</displayName>
+   </concept>
+   <concept code="033">
+      <displayName>Social Worker</displayName>
+   </concept>
+   <concept code="034">
+      <displayName>Speech therapist</displayName>
+   </concept>
+   <concept code="999">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

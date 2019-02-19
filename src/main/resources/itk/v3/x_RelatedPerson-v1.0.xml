@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_RelatedPerson" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.110.11.1">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe the related person role.</p>
+         </Description>
+   <concept code="AGNT">
+      <displayName>Agent</displayName>
+   </concept>
+   <concept code="GUARD">
+      <displayName>Guardian</displayName>
+   </concept>
+   <concept code="PRS">
+      <displayName>Personal Relationship</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthVitalSignsMonitoringSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p/>
+               <p>A code that represents vital signs procedures.</p>
+               <p>
+                  <strong>This is a preliminary set of values. The full list of values will be published within a SNOMED CT subset (the ID has not yet been assigned) in  a future release of this DMS.   </strong>
+               </p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="33747003">
+      <displayName>glucose measurement, blood</displayName>
+   </concept>
+   <concept code="250554003">
+      <displayName>measurement of oxygen saturation at periphery</displayName>
+   </concept>
+   <concept code="29893006">
+      <displayName>peak expiratory flow measurement</displayName>
+   </concept>
+   <concept code="127783003">
+      <displayName>spirometry</displayName>
+   </concept>
+   <concept code="56342008">
+      <displayName>temperature taking</displayName>
+   </concept>
+   <concept code="841781000000106">
+      <displayName>assessment using body mass index</displayName>
+   </concept>
+   <concept code="440685005">
+      <displayName>calculation of international normalised ratio</displayName>
+   </concept>
+   <concept code="77068002">
+      <displayName>cholesterol measurement</displayName>
+   </concept>
+   <concept code="14740000">
+      <displayName>triglycerides measurement</displayName>
+   </concept>
+   <concept code="46973005">
+      <displayName>blood pressure taking</displayName>
+   </concept>
+   <concept code="39857003">
+      <displayName>weighing patient</displayName>
+   </concept>
+   <concept code="19821003">
+      <displayName>carboxyhemoglobin measurement</displayName>
+   </concept>
+   <concept code="424411004">
+      <displayName>peripheral pulse taking</displayName>
+   </concept>
+   <concept code="14456009">
+      <displayName>measuring height of patient</displayName>
+   </concept>
+</vocabulary>

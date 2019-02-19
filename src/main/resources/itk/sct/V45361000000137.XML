@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Blood Coagulation" type="Realm Concept" setId="68091000000134" version="7" id="45361000000137" refId="999000311000000100" memberCount="14" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="165581004">
+<displayName lang="en-GB" type="PT">International normalised ratio</displayName>
+<displayName lang="en" type="FSN">International normalized ratio (observable entity)</displayName>
+<displayName lang="en-GB" type="SY">INR - Internationalised ratio</displayName>
+<displayName lang="en-GB" type="SY">Internationalised ratio</displayName>
+</concept>
+<concept code="390792008">
+<displayName lang="en-GB" type="PT">Target international normalised ratio</displayName>
+<displayName lang="en" type="FSN">Target international normalized ratio (observable entity)</displayName>
+<displayName lang="en-GB" type="SY">INR - Target international normalised ratio</displayName>
+</concept>
+<concept code="440432009">
+<displayName lang="en-GB" type="PT">International normalised ratio result obtained using portable international normalised ratio monitoring device</displayName>
+<displayName lang="en" type="FSN">International normalized ratio result obtained using portable international normalized ratio monitoring device (observable entity)</displayName>
+</concept>
+<concept code="360471000000102">
+<displayName lang="en" type="PT">International normalised ratio using testing strip</displayName>
+<displayName lang="en" type="FSN">International normalised ratio using testing strip (observable entity)</displayName>
+<displayName lang="en" type="SY">Anticoagulation test using testing strip</displayName>
+</concept>
+<concept code="805861000000100">
+<displayName lang="en" type="PT">INR (international normalised ratio) target range</displayName>
+<displayName lang="en" type="FSN">International normalised ratio target range (observable entity)</displayName>
+</concept>
+<concept code="852471000000107">
+<displayName lang="en" type="PT">Prothrombin time</displayName>
+<displayName lang="en" type="FSN">Prothrombin time (observable entity)</displayName>
+</concept>
+<concept code="852481000000109">
+<displayName lang="en" type="PT">Target prothrombin time</displayName>
+<displayName lang="en" type="FSN">Target prothrombin time (observable entity)</displayName>
+</concept>
+<concept code="852491000000106">
+<displayName lang="en" type="PT">Maximum prothrombin time</displayName>
+<displayName lang="en" type="FSN">Maximum prothrombin time (observable entity)</displayName>
+</concept>
+<concept code="852501000000100">
+<displayName lang="en" type="PT">Minimum prothrombin time</displayName>
+<displayName lang="en" type="FSN">Minimum prothrombin time (observable entity)</displayName>
+</concept>
+<concept code="852511000000103">
+<displayName lang="en" type="PT">Activated partial thromboplastin time</displayName>
+<displayName lang="en" type="FSN">Activated partial thromboplastin time (observable entity)</displayName>
+</concept>
+<concept code="852521000000109">
+<displayName lang="en" type="PT">Target activated partial thromboplastin time</displayName>
+<displayName lang="en" type="FSN">Target activated partial thromboplastin time (observable entity)</displayName>
+</concept>
+<concept code="852531000000106">
+<displayName lang="en" type="PT">Maximum activated partial thromboplastin time</displayName>
+<displayName lang="en" type="FSN">Maximum activated partial thromboplastin time (observable entity)</displayName>
+</concept>
+<concept code="852541000000102">
+<displayName lang="en" type="PT">Minimum activated partial thromboplastin time</displayName>
+<displayName lang="en" type="FSN">Minimum activated partial thromboplastin time (observable entity)</displayName>
+</concept>
+<concept code="866421000000100">
+<displayName lang="en" type="PT">INR (international normalised ratio) percentage time in therapeutic range</displayName>
+<displayName lang="en" type="FSN">International normalised ratio time in therapeutic range expressed as percentage (observable entity)</displayName>
+<displayName lang="en" type="SY">INR (international normalised ratio) percentage TTR (time in therapeutic range)</displayName>
+</concept>
+</vocabulary>

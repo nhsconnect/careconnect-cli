@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SpecimenTypeSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the SnomedCT OID, qv the link below</p>
+            <p>A type of specimen taken from a person for subsequent analysis, e.g. a blood sample a breast tissue biopsy, a cervical smear</p>
+            <p>A code taken from <b>SNOMED CT</b>.</p>
+            <p>The code shall describe a kind of specimen taken from a person for subsequent analysis</p>
+            <p>A code from Snomed-CT (UK) may be accompanied by additional qualifying codes from the same coding system.</p>
+         </Description>
+</vocabulary>

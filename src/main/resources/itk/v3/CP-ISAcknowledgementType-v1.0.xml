@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISAcknowledgementType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.472">
+   <Description>
+            <p>A set of codes to indicate the Child Protection Information Sharing (CP-IS) service's acknowledgement type.</p>
+         </Description>
+   <concept code="CPISAF">
+      <displayName>CP-IS Acknowledgement File</displayName>
+   </concept>
+   <concept code="CPISAR">
+      <displayName>CP-IS Acknowledgement Record</displayName>
+   </concept>
+</vocabulary>

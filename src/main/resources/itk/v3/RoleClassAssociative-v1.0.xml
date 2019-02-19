@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RoleClassAssociative" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.19313">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe  a type of role that represents a general association between two entities.</p>
+         </Description>
+   <concept code="ACCESS">
+      <displayName>access</displayName>
+   </concept>
+   <concept code="ASSIGNED">
+      <displayName>assigned entity</displayName>
+   </concept>
+   <concept code="BIRTHPL">
+      <displayName>birthplace</displayName>
+   </concept>
+   <concept code="CAREGIVER">
+      <displayName>caregiver</displayName>
+   </concept>
+   <concept code="CASESBJ">
+      <displayName>case subject</displayName>
+   </concept>
+   <concept code="CIT">
+      <displayName>citizen</displayName>
+   </concept>
+   <concept code="CRINV">
+      <displayName>clinical research investigator</displayName>
+   </concept>
+   <concept code="CRSPNSR">
+      <displayName>clinical research sponsor</displayName>
+   </concept>
+   <concept code="COMPAR">
+      <displayName>commissioning party</displayName>
+   </concept>
+   <concept code="COVPTY">
+      <displayName>covered party</displayName>
+   </concept>
+   <concept code="DSDLOC">
+      <displayName>dedicated service delivery location</displayName>
+   </concept>
+   <concept code="ECON">
+      <displayName>emergency contact</displayName>
+   </concept>
+   <concept code="EMP">
+      <displayName>employee</displayName>
+   </concept>
+   <concept code="EXPR">
+      <displayName>exposed entity</displayName>
+   </concept>
+   <concept code="GUAR">
+      <displayName>guarantor</displayName>
+   </concept>
+   <concept code="GUARD">
+      <displayName>guardian</displayName>
+   </concept>
+   <concept code="HLTHCHRT">
+      <displayName>health chart</displayName>
+   </concept>
+   <concept code="HLD">
+      <displayName>held entity</displayName>
+   </concept>
+   <concept code="IDENT">
+      <displayName>identified entity</displayName>
+   </concept>
+   <concept code="ISDLOC">
+      <displayName>incidental service delivery location</displayName>
+   </concept>
+   <concept code="INVSBJ">
+      <displayName>investigation subject</displayName>
+   </concept>
+   <concept code="LIC">
+      <displayName>licensed entity</displayName>
+   </concept>
+   <concept code="MNT">
+      <displayName>maintained entity</displayName>
+   </concept>
+   <concept code="MANU">
+      <displayName>manufactured product</displayName>
+   </concept>
+   <concept code="MIL">
+      <displayName>military person</displayName>
+   </concept>
+   <concept code="NOK">
+      <displayName>next of kin</displayName>
+   </concept>
+   <concept code="NOT">
+      <displayName>notary public</displayName>
+   </concept>
+   <concept code="OWN">
+      <displayName>owned entity</displayName>
+   </concept>
+   <concept code="PAT">
+      <displayName>patient</displayName>
+   </concept>
+   <concept code="PAYEE">
+      <displayName>payee</displayName>
+   </concept>
+   <concept code="PAYOR">
+      <displayName>invoice payor</displayName>
+   </concept>
+   <concept code="POLHOLD">
+      <displayName>policy holder</displayName>
+   </concept>
+   <concept code="PROV">
+      <displayName>healthcare provider</displayName>
+   </concept>
+   <concept code="PRS">
+      <displayName>personal relationship</displayName>
+   </concept>
+   <concept code="QUAL">
+      <displayName>qualified entity</displayName>
+   </concept>
+   <concept code="RGPR">
+      <displayName>regulated product</displayName>
+   </concept>
+   <concept code="RESBJ">
+      <displayName>research subject</displayName>
+   </concept>
+   <concept code="RET">
+      <displayName>retailed material</displayName>
+   </concept>
+   <concept code="SDLOC">
+      <displayName>service delivery location</displayName>
+   </concept>
+   <concept code="SGNOFF">
+      <displayName>signing authority or officer</displayName>
+   </concept>
+   <concept code="SPNSR">
+      <displayName>sponsor</displayName>
+   </concept>
+   <concept code="STD">
+      <displayName>student</displayName>
+   </concept>
+   <concept code="TERR">
+      <displayName>territory of authority</displayName>
+   </concept>
+   <concept code="THER">
+      <displayName>therapeutic agent</displayName>
+   </concept>
+   <concept code="UNDWRT">
+      <displayName>underwriter</displayName>
+   </concept>
+   <concept code="WRTE">
+      <displayName>warranted product</displayName>
+   </concept>
+</vocabulary>

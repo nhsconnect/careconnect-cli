@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="General Physical Wellbeing" type="Realm Concept" setId="67901000000138" version="6" id="7691000000138" refId="999001531000000107" memberCount="240" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="6497000">
+<displayName lang="en" type="PT">Decreased body mass index</displayName>
+<displayName lang="en" type="FSN">Decreased body mass index (finding)</displayName>
+<displayName lang="en" type="SY">Decreased BMI (body mass index)</displayName>
+</concept>
+<concept code="8943002">
+<displayName lang="en" type="PT">Weight gain</displayName>
+<displayName lang="en" type="FSN">Weight gain (finding)</displayName>
+</concept>
+<concept code="10361001">
+<displayName lang="en" type="PT">Exhaustion delirium</displayName>
+<displayName lang="en" type="FSN">Exhaustion delirium (finding)</displayName>
+</concept>
+<concept code="12687004">
+<displayName lang="en" type="PT">Underexertion</displayName>
+<displayName lang="en" type="FSN">Underexertion (finding)</displayName>
+</concept>
+<concept code="13791008">
+<displayName lang="en" type="PT">Asthenia</displayName>
+<displayName lang="en" type="FSN">Asthenia (finding)</displayName>
+<displayName lang="en" type="SY">Debility</displayName>
+<displayName lang="en" type="SY">Feeling weak</displayName>
+<displayName lang="en" type="SY">General weakness</displayName>
+<displayName lang="en" type="SY">Lassitude</displayName>
+<displayName lang="en" type="SY">Weakness</displayName>
+<displayName lang="en" type="SY">Weakness - general</displayName>
+</concept>
+<concept code="17326005">
+<displayName lang="en" type="PT">Well in self</displayName>
+<displayName lang="en" type="FSN">Well in self (finding)</displayName>
+<displayName lang="en" type="SY">Feels well</displayName>
+<displayName lang="en" type="SY">Mental well-being</displayName>
+<displayName lang="en" type="SY">Normal mental condition</displayName>
+<displayName lang="en" type="SY">Normal psyche</displayName>
+<displayName lang="en" type="SY">Sense of well-being</displayName>
+</concept>
+<concept code="18726006">
+<displayName lang="en" type="PT">Senile asthenia</displayName>
+<displayName lang="en" type="FSN">Senile asthenia (finding)</displayName>
+</concept>
+<concept code="22495007">
+<displayName lang="en" type="PT">Abnormal weight</displayName>
+<displayName lang="en" type="FSN">Abnormal weight (finding)</displayName>
+</concept>
+<concept code="35425004">
+<displayName lang="en" type="PT">Normal body mass index</displayName>
+<displayName lang="en" type="FSN">Normal body mass index (finding)</displayName>
+<displayName lang="en" type="SY">Normal BMI (body mass index)</displayName>
+</concept>
+<concept code="36440009">
+<displayName lang="en" type="PT">Failure to gain weight</displayName>
+<displayName lang="en" type="FSN">Failure to gain weight (finding)</displayName>
+<displayName lang="en" type="SY">Not gaining weight</displayName>
+<displayName lang="en" type="SY">Not putting on weight</displayName>
+<displayName lang="en" type="SY">Poor weight gain</displayName>
+<displayName lang="en" type="SY">Unable to gain weight</displayName>
+</concept>
+<concept code="37567005">
+<displayName lang="en-GB" type="PT">Acenaesthesia</displayName>
+<displayName lang="en" type="FSN">Acenesthesia (finding)</displayName>
+<displayName lang="en" type="SY">Loss of sense of well-being</displayName>
+</concept>
+<concept code="43664005">
+<displayName lang="en" type="PT">Normal weight</displayName>
+<displayName lang="en" type="FSN">Normal weight (finding)</displayName>
+</concept>
+<concept code="48499001">
+<displayName lang="en" type="PT">Increased body mass index</displayName>
+<displayName lang="en" type="FSN">Increased body mass index (finding)</displayName>
+<displayName lang="en" type="SY">Increased BMI (body mass index)</displayName>
+</concept>
+<concept code="57494004">
+<displayName lang="en" type="PT">Senile exhaustion</displayName>
+<displayName lang="en" type="FSN">Senile exhaustion (finding)</displayName>
+</concept>
+<concept code="60119000">
+<displayName lang="en" type="PT">Exhaustion</displayName>
+<displayName lang="en" type="FSN">Exhaustion (finding)</displayName>
+<displayName lang="en" type="SY">Washed out</displayName>
+<displayName lang="en" type="SY">Worn out</displayName>
+</concept>
+<concept code="63976003">
+<displayName lang="en" type="PT">Normal variation in weight</displayName>
+<displayName lang="en" type="FSN">Normal variation in weight (finding)</displayName>
+</concept>
+<concept code="64113006">
+<displayName lang="en" type="PT">Exhaustion due to excessive exertion</displayName>
+<displayName lang="en" type="FSN">Exhaustion due to excessive exertion (finding)</displayName>
+<displayName lang="en" type="SY">Overexertion</displayName>
+</concept>
+<concept code="79915001">
+<displayName lang="en" type="PT">Fatigability</displayName>
+<displayName lang="en" type="FSN">Fatigability (finding)</displayName>
+</concept>
+<concept code="81302005">
+<displayName lang="en" type="PT">Worried well</displayName>
+<displayName lang="en" type="FSN">Worried well (finding)</displayName>
+<displayName lang="en" type="SY">Physically well but worried</displayName>
+<displayName lang="en" type="SY">Psyche disturbed with normal general body function</displayName>
+</concept>
+<concept code="82022002">
+<displayName lang="en" type="PT">Congenital debility of fetus</displayName>
+<displayName lang="en" type="FSN">Congenital debility of fetus (disorder)</displayName>
+<displayName lang="en" type="SY">Congenital debility of foetus</displayName>
+</concept>
+<concept code="83421005">
+<displayName lang="en" type="PT">Failure to lose weight</displayName>
+<displayName lang="en" type="FSN">Failure to lose weight (finding)</displayName>
+<displayName lang="en" type="SY">Unable to lose weight</displayName>
+</concept>
+<concept code="84229001">
+<displayName lang="en" type="PT">Fatigue</displayName>
+<displayName lang="en" type="FSN">Fatigue (finding)</displayName>
+<displayName lang="en" type="SY">Tiredness</displayName>
+<displayName lang="en" type="SY">Weariness</displayName>
+</concept>
+<concept code="84387000">
+<displayName lang="en" type="PT">Asymptomatic</displayName>
+<displayName lang="en" type="FSN">Asymptomatic (finding)</displayName>
+</concept>
+<concept code="84946008">
+<displayName lang="en" type="PT">Extreme exhaustion</displayName>
+<displayName lang="en" type="FSN">Extreme exhaustion (finding)</displayName>
+<displayName lang="en" type="SY">Prostration</displayName>
+</concept>
+<concept code="88164008">
+<displayName lang="en" type="PT">Exhaustion due to exposure</displayName>
+<displayName lang="en" type="FSN">Exhaustion due to exposure (finding)</displayName>
+</concept>
+<concept code="89362005">
+<displayName lang="en" type="PT">Weight loss</displayName>
+<displayName lang="en" type="FSN">Weight loss (finding)</displayName>
+</concept>
+<concept code="102492002">
+<displayName lang="en" type="PT">Failure to maintain weight</displayName>
+<displayName lang="en" type="FSN">Failure to maintain weight (finding)</displayName>
+<displayName lang="en" type="SY">Unable to maintain weight</displayName>
+</concept>
+<concept code="102499006">
+<displayName lang="en" type="PT">Fit and well</displayName>
+<displayName lang="en" type="FSN">Fit and well (finding)</displayName>
+<displayName lang="en" type="SY">Looks well</displayName>
+<displayName lang="en" type="SY">State of being healthy</displayName>
+</concept>
+<concept code="102500002">
+<displayName lang="en" type="PT">Good neonatal condition at birth</displayName>
+<displayName lang="en" type="FSN">Good neonatal condition at birth (finding)</displayName>
+<displayName lang="en" type="SY">Healthy newborn</displayName>
+</concept>
+<concept code="102501003">
+<displayName lang="en" type="PT">Well male newborn</displayName>
+<displayName lang="en" type="FSN">Well male newborn (finding)</displayName>
+<displayName lang="en" type="SY">Healthy male newborn</displayName>
+</concept>
+<concept code="102502005">
+<displayName lang="en" type="PT">Well female newborn</displayName>
+<displayName lang="en" type="FSN">Well female newborn (finding)</displayName>
+<displayName lang="en" type="SY">Healthy female newborn</displayName>
+</concept>
+<concept code="102503000">
+<displayName lang="en" type="PT">Well premature newborn</displayName>
+<displayName lang="en" type="FSN">Well premature newborn (finding)</displayName>
+<displayName lang="en" type="SY">Healthy premature newborn</displayName>
+</concept>
+<concept code="102504006">
+<displayName lang="en" type="PT">Well premature male newborn</displayName>
+<displayName lang="en" type="FSN">Well premature male newborn (finding)</displayName>
+<displayName lang="en" type="SY">Healthy premature male newborn</displayName>
+</concept>
+<concept code="102505007">
+<displayName lang="en" type="PT">Well premature female newborn</displayName>
+<displayName lang="en" type="FSN">Well premature female newborn (finding)</displayName>
+<displayName lang="en" type="SY">Healthy premature female newborn</displayName>
+</concept>
+<concept code="102506008">
+<displayName lang="en" type="PT">Well child</displayName>
+<displayName lang="en" type="FSN">Well child (finding)</displayName>
+<displayName lang="en" type="SY">Healthy child</displayName>
+</concept>
+<concept code="102507004">
+<displayName lang="en" type="PT">Well male child</displayName>
+<displayName lang="en" type="FSN">Well male child (finding)</displayName>
+<displayName lang="en" type="SY">Healthy male child</displayName>
+</concept>
+<concept code="102508009">
+<displayName lang="en" type="PT">Well female child</displayName>
+<displayName lang="en" type="FSN">Well female child (finding)</displayName>
+<displayName lang="en" type="SY">Healthy female child</displayName>
+</concept>
+<concept code="102509001">
+<displayName lang="en" type="PT">Well adolescent</displayName>
+<displayName lang="en" type="FSN">Well adolescent (finding)</displayName>
+<displayName lang="en" type="SY">Healthy adolescent</displayName>
+</concept>
+<concept code="102510006">
+<displayName lang="en" type="PT">Well male adolescent</displayName>
+<displayName lang="en" type="FSN">Well male adolescent (finding)</displayName>
+<displayName lang="en" type="SY">Healthy male adolescent</displayName>
+</concept>
+<concept code="102511005">
+<displayName lang="en" type="PT">Well female adolescent</displayName>
+<displayName lang="en" type="FSN">Well female adolescent (finding)</displayName>
+<displayName lang="en" type="SY">Healthy female adolescent</displayName>
+</concept>
+<concept code="102512003">
+<displayName lang="en" type="PT">Well adult</displayName>
+<displayName lang="en" type="FSN">Well adult (finding)</displayName>
+<displayName lang="en" type="SY">Healthy adult</displayName>
+</concept>
+<concept code="102513008">
+<displayName lang="en" type="PT">Well male adult</displayName>
+<displayName lang="en" type="FSN">Well male adult (finding)</displayName>
+<displayName lang="en" type="SY">Healthy male adult</displayName>
+</concept>
+<concept code="102514002">
+<displayName lang="en" type="PT">Well female adult</displayName>
+<displayName lang="en" type="FSN">Well female adult (finding)</displayName>
+<displayName lang="en" type="SY">Healthy female adult</displayName>
+</concept>
+<concept code="102515001">
+<displayName lang="en" type="PT">Well elder</displayName>
+<displayName lang="en" type="FSN">Well elder (finding)</displayName>
+<displayName lang="en" type="SY">Healthy elder</displayName>
+</concept>
+<concept code="102516000">
+<displayName lang="en" type="PT">Well male elder</displayName>
+<displayName lang="en" type="FSN">Well male elder (finding)</displayName>
+<displayName lang="en" type="SY">Healthy elderly male</displayName>
+<displayName lang="en" type="SY">Healthy male elder</displayName>
+</concept>
+<concept code="102517009">
+<displayName lang="en" type="PT">Well female elder</displayName>
+<displayName lang="en" type="FSN">Well female elder (finding)</displayName>
+<displayName lang="en" type="SY">Healthy elderly female</displayName>
+<displayName lang="en" type="SY">Healthy female elder</displayName>
+</concept>
+<concept code="105490003">
+<displayName lang="en" type="PT">Overwork</displayName>
+<displayName lang="en" type="FSN">Overwork (finding)</displayName>
+</concept>
+<concept code="135815002">
+<displayName lang="en" type="PT">General health good</displayName>
+<displayName lang="en" type="FSN">General health good (finding)</displayName>
+</concept>
+<concept code="135816001">
+<displayName lang="en" type="PT">General health excellent</displayName>
+<displayName lang="en" type="FSN">General health excellent (finding)</displayName>
+</concept>
+<concept code="135817005">
+<displayName lang="en" type="PT">General health fair</displayName>
+<displayName lang="en" type="FSN">General health fair (finding)</displayName>
+</concept>
+<concept code="135818000">
+<displayName lang="en" type="PT">General health poor</displayName>
+<displayName lang="en" type="FSN">General health poor (finding)</displayName>
+</concept>
+<concept code="135819008">
+<displayName lang="en" type="PT">General health very poor</displayName>
+<displayName lang="en" type="FSN">General health very poor (finding)</displayName>
+</concept>
+<concept code="161829004">
+<displayName lang="en" type="PT">Weight symptom</displayName>
+<displayName lang="en" type="FSN">Weight symptom (finding)</displayName>
+</concept>
+<concept code="161831008">
+<displayName lang="en" type="PT">Weight increasing</displayName>
+<displayName lang="en" type="FSN">Weight increasing (finding)</displayName>
+</concept>
+<concept code="161832001">
+<displayName lang="en" type="PT">Weight decreasing</displayName>
+<displayName lang="en" type="FSN">Weight decreasing (finding)</displayName>
+<displayName lang="en" type="SY">Losing weight</displayName>
+<displayName lang="en" type="SY">Progressive weight loss</displayName>
+</concept>
+<concept code="161833006">
+<displayName lang="en" type="PT">Abnormal weight gain</displayName>
+<displayName lang="en" type="FSN">Abnormal weight gain (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal increase in weight</displayName>
+</concept>
+<concept code="161873000">
+<displayName lang="en" type="PT">Heavy legs</displayName>
+<displayName lang="en" type="FSN">Heavy legs (finding)</displayName>
+</concept>
+<concept code="161874006">
+<displayName lang="en" type="PT">Heavy feeling</displayName>
+<displayName lang="en" type="FSN">Heavy feeling (finding)</displayName>
+<displayName lang="en" type="SY">Heaviness sensation</displayName>
+</concept>
+<concept code="161901003">
+<displayName lang="en" type="PT">Chronic sick</displayName>
+<displayName lang="en" type="FSN">Chronic sick (finding)</displayName>
+</concept>
+<concept code="162656002">
+<displayName lang="en" type="PT">Nil abnormal on examination</displayName>
+<displayName lang="en" type="FSN">Nil abnormal on examination (finding)</displayName>
+<displayName lang="en" type="SY">NAD on examination</displayName>
+</concept>
+<concept code="162666005">
+<displayName lang="en" type="PT">O/E looks ill</displayName>
+<displayName lang="en" type="FSN">On examination - looks ill (finding)</displayName>
+<displayName lang="en" type="SY">On examination - looks ill</displayName>
+</concept>
+<concept code="162690006">
+<displayName lang="en" type="PT">O/E - obese</displayName>
+<displayName lang="en" type="FSN">On examination - obese (finding)</displayName>
+<displayName lang="en" type="SY">On examination - obese</displayName>
+</concept>
+<concept code="162709009">
+<displayName lang="en" type="PT">O/E - collapsed</displayName>
+<displayName lang="en" type="FSN">On examination - collapsed (finding)</displayName>
+<displayName lang="en" type="SY">On examination - collapsed</displayName>
+</concept>
+<concept code="162710004">
+<displayName lang="en" type="PT">O/E - collapse -cardiac arrest</displayName>
+<displayName lang="en" type="FSN">On examination - collapse -cardiac arrest (disorder)</displayName>
+<displayName lang="en" type="SY">On examination - collapse -cardiac arrest</displayName>
+</concept>
+<concept code="162711000">
+<displayName lang="en" type="PT">On examination - collapse - respiratory arrest</displayName>
+<displayName lang="en" type="FSN">On examination - collapse - respiratory arrest (disorder)</displayName>
+</concept>
+<concept code="162712007">
+<displayName lang="en" type="PT">O/E - collapse - asphyxia</displayName>
+<displayName lang="en" type="FSN">On examination - collapse - asphyxia (disorder)</displayName>
+<displayName lang="en" type="SY">On examination - collapse - asphyxia</displayName>
+</concept>
+<concept code="162713002">
+<displayName lang="en" type="PT">O/E - collapse - syncope</displayName>
+<displayName lang="en" type="FSN">On examination - collapse - syncope (disorder)</displayName>
+<displayName lang="en" type="SY">O/E - syncopal collapse</displayName>
+<displayName lang="en" type="SY">On examination - collapse - syncope</displayName>
+</concept>
+<concept code="162763007">
+<displayName lang="en" type="PT">O/E - weight</displayName>
+<displayName lang="en" type="FSN">On examination - weight (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight</displayName>
+</concept>
+<concept code="162764001">
+<displayName lang="en" type="PT">O/E - weight greater than 20% below ideal</displayName>
+<displayName lang="en" type="FSN">On examination - weight greater than 20% below ideal (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight greater than 20% below ideal</displayName>
+</concept>
+<concept code="162765000">
+<displayName lang="en" type="PT">O/E -weight 10-20% below ideal</displayName>
+<displayName lang="en" type="FSN">On examination - weight 10-20% below ideal (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight 10-20% below ideal</displayName>
+</concept>
+<concept code="162766004">
+<displayName lang="en" type="PT">O/E - weight within 10% ideal</displayName>
+<displayName lang="en" type="FSN">On examination - weight within 10% ideal (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight within 10% ideal</displayName>
+</concept>
+<concept code="162769006">
+<displayName lang="en" type="PT">O/E - Underweight</displayName>
+<displayName lang="en" type="FSN">On examination - Underweight (finding)</displayName>
+<displayName lang="en" type="SY">On examination - Underweight</displayName>
+</concept>
+<concept code="162860001">
+<displayName lang="en" type="PT">Body mass index normal K/M2</displayName>
+<displayName lang="en" type="FSN">Body mass index normal K/M2 (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) normal K/M2</displayName>
+</concept>
+<concept code="162861002">
+<displayName lang="en" type="PT">Body mass index high K/M2</displayName>
+<displayName lang="en" type="FSN">Body mass index high K/M2 (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) high K/M2</displayName>
+</concept>
+<concept code="162862009">
+<displayName lang="en" type="PT">Body mass index low K/M2</displayName>
+<displayName lang="en" type="FSN">Body mass index low K/M2 (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) low K/M2</displayName>
+</concept>
+<concept code="162863004">
+<displayName lang="en" type="PT">Body mass index 25-29 - overweight</displayName>
+<displayName lang="en" type="FSN">Body mass index 25-29 - overweight (finding)</displayName>
+<displayName lang="en" type="SY">BMI 25-29 - overweight</displayName>
+</concept>
+<concept code="162864005">
+<displayName lang="en" type="PT">Body mass index 30+ - obesity</displayName>
+<displayName lang="en" type="FSN">Body mass index 30+ - obesity (finding)</displayName>
+<displayName lang="en" type="SY">BMI 30+ - obesity</displayName>
+</concept>
+<concept code="163143000">
+<displayName lang="en" type="PT">O/E - mouth - NAD</displayName>
+<displayName lang="en" type="FSN">On examination - mouth - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">On examination - mouth - NAD</displayName>
+<displayName lang="en" type="SY">On examination - mouth - no abnormality detected</displayName>
+</concept>
+<concept code="163324005">
+<displayName lang="en" type="PT">O/E - rectal examination - NAD</displayName>
+<displayName lang="en" type="FSN">On examination - rectal examination - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">On examination - rectal examination - NAD</displayName>
+<displayName lang="en" type="SY">On examination - rectal examination - no abnormality detected</displayName>
+</concept>
+<concept code="164561005">
+<displayName lang="en" type="PT">O/E - spine - NAD</displayName>
+<displayName lang="en" type="FSN">On examination - spine - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">On examination - spine - NAD</displayName>
+<displayName lang="en" type="SY">On examination - spine - no abnormality detected</displayName>
+</concept>
+<concept code="170006002">
+<displayName lang="en" type="PT">Child weight less than third centile</displayName>
+<displayName lang="en" type="FSN">Child weight less than third centile (finding)</displayName>
+</concept>
+<concept code="170007006">
+<displayName lang="en" type="PT">Child weight=3rd-9th centile</displayName>
+<displayName lang="en" type="FSN">Child weight equal to third-ninth centile (finding)</displayName>
+<displayName lang="en" type="SY">Child weight equal to third-ninth centile</displayName>
+<displayName lang="en" type="SY">Child weight=third-ninth centile</displayName>
+</concept>
+<concept code="170009009">
+<displayName lang="en" type="PT">Child weight=25th-49th centile</displayName>
+<displayName lang="en" type="FSN">Child weight=25th-49th centile (finding)</displayName>
+</concept>
+<concept code="170010004">
+<displayName lang="en" type="PT">Child weight=50th-74th centile</displayName>
+<displayName lang="en" type="FSN">Child weight=50th-74th centile (finding)</displayName>
+</concept>
+<concept code="170011000">
+<displayName lang="en" type="PT">Child weight=75th-89th centile</displayName>
+<displayName lang="en" type="FSN">Child weight=75th-89th centile (finding)</displayName>
+</concept>
+<concept code="170012007">
+<displayName lang="en" type="PT">Child weight=90th-96th centile</displayName>
+<displayName lang="en" type="FSN">Child weight=90th-96th centile (finding)</displayName>
+</concept>
+<concept code="170013002">
+<displayName lang="en" type="PT">Child weight greater than 97th centile</displayName>
+<displayName lang="en" type="FSN">Child weight greater than 97th centile (finding)</displayName>
+</concept>
+<concept code="213257006">
+<displayName lang="en" type="PT">Generally unwell</displayName>
+<displayName lang="en" type="FSN">Generally unwell (finding)</displayName>
+<displayName lang="en" type="SY">General feeling of illness</displayName>
+</concept>
+<concept code="214264003">
+<displayName lang="en" type="PT">Lethargy</displayName>
+<displayName lang="en" type="FSN">Lethargy (finding)</displayName>
+<displayName lang="en" type="SY">Lack of vitality</displayName>
+<displayName lang="en" type="SY">Lethargic</displayName>
+</concept>
+<concept code="224960004">
+<displayName lang="en" type="PT">Tired</displayName>
+<displayName lang="en" type="FSN">Tired (finding)</displayName>
+</concept>
+<concept code="224994002">
+<displayName lang="en" type="PT">Excessive weight gain</displayName>
+<displayName lang="en" type="FSN">Excessive weight gain (finding)</displayName>
+</concept>
+<concept code="238131007">
+<displayName lang="en" type="PT">Overweight</displayName>
+<displayName lang="en" type="FSN">Overweight (finding)</displayName>
+<displayName lang="en" type="SY">Patient overweight</displayName>
+</concept>
+<concept code="242015007">
+<displayName lang="en" type="PT">Exhaustion - physiological</displayName>
+<displayName lang="en" type="FSN">Exhaustion - physiological (finding)</displayName>
+</concept>
+<concept code="247779009">
+<displayName lang="en" type="PT">Excessive energy</displayName>
+<displayName lang="en" type="FSN">Excessive energy (finding)</displayName>
+</concept>
+<concept code="248264000">
+<displayName lang="en" type="PT">No complaints</displayName>
+<displayName lang="en" type="FSN">No complaints (finding)</displayName>
+</concept>
+<concept code="248268002">
+<displayName lang="en" type="PT">Tires quickly</displayName>
+<displayName lang="en" type="FSN">Tires quickly (finding)</displayName>
+<displayName lang="en" type="SY">Easily tired</displayName>
+<displayName lang="en" type="SY">Rapidly tired</displayName>
+</concept>
+<concept code="248269005">
+<displayName lang="en" type="PT">Tired on least exertion</displayName>
+<displayName lang="en" type="FSN">Tired on least exertion (finding)</displayName>
+</concept>
+<concept code="248270006">
+<displayName lang="en" type="PT">Quickly exhausted</displayName>
+<displayName lang="en" type="FSN">Quickly exhausted (finding)</displayName>
+<displayName lang="en" type="SY">Easily exhausted</displayName>
+<displayName lang="en" type="SY">Rapidly exhausted</displayName>
+</concept>
+<concept code="248271005">
+<displayName lang="en" type="PT">Exhausted on least exertion</displayName>
+<displayName lang="en" type="FSN">Exhausted on least exertion (finding)</displayName>
+</concept>
+<concept code="248272003">
+<displayName lang="en" type="PT">Energy</displayName>
+<displayName lang="en" type="FSN">Energy (finding)</displayName>
+<displayName lang="en" type="SY">Vitality</displayName>
+</concept>
+<concept code="248274002">
+<displayName lang="en" type="PT">Lack of energy</displayName>
+<displayName lang="en" type="FSN">Lack of energy (finding)</displayName>
+<displayName lang="en" type="SY">Lacking in energy</displayName>
+<displayName lang="en" type="SY">Loss of energy</displayName>
+</concept>
+<concept code="248276000">
+<displayName lang="en" type="PT">Stamina</displayName>
+<displayName lang="en" type="FSN">Stamina (finding)</displayName>
+</concept>
+<concept code="248277009">
+<displayName lang="en" type="PT">Lack of stamina</displayName>
+<displayName lang="en" type="FSN">Lack of stamina (finding)</displayName>
+</concept>
+<concept code="248278004">
+<displayName lang="en" type="PT">Attacks of weakness</displayName>
+<displayName lang="en" type="FSN">Attacks of weakness (finding)</displayName>
+</concept>
+<concept code="248279007">
+<displayName lang="en" type="PT">Frailty</displayName>
+<displayName lang="en" type="FSN">Frailty (finding)</displayName>
+</concept>
+<concept code="248332009">
+<displayName lang="en" type="PT">Weight fluctuates</displayName>
+<displayName lang="en" type="FSN">Weight fluctuates (finding)</displayName>
+</concept>
+<concept code="248342006">
+<displayName lang="en" type="PT">Underweight</displayName>
+<displayName lang="en" type="FSN">Underweight (finding)</displayName>
+<displayName lang="en" type="SY">Patient underweight</displayName>
+</concept>
+<concept code="262285001">
+<displayName lang="en" type="PT">Weight decreased</displayName>
+<displayName lang="en" type="FSN">Weight decreased (finding)</displayName>
+</concept>
+<concept code="262286000">
+<displayName lang="en" type="PT">Weight increased</displayName>
+<displayName lang="en" type="FSN">Weight increased (finding)</displayName>
+</concept>
+<concept code="267024001">
+<displayName lang="en" type="PT">Abnormal weight loss</displayName>
+<displayName lang="en" type="FSN">Abnormal weight loss (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal decrease in weight</displayName>
+</concept>
+<concept code="267031002">
+<displayName lang="en" type="PT">Tiredness symptom</displayName>
+<displayName lang="en" type="FSN">Tiredness symptom (finding)</displayName>
+</concept>
+<concept code="267032009">
+<displayName lang="en" type="PT">Tired all the time</displayName>
+<displayName lang="en" type="FSN">Tired all the time (finding)</displayName>
+<displayName lang="en" type="SY">TATT - Tired all the time</displayName>
+</concept>
+<concept code="267044007">
+<displayName lang="en" type="PT">Impaired exercise tolerance</displayName>
+<displayName lang="en" type="FSN">Impaired exercise tolerance (finding)</displayName>
+</concept>
+<concept code="267112005">
+<displayName lang="en" type="PT">Patient feels well</displayName>
+<displayName lang="en" type="FSN">Patient feels well (finding)</displayName>
+</concept>
+<concept code="268915006">
+<displayName lang="en" type="PT">O/E - weight 10-20% over ideal</displayName>
+<displayName lang="en" type="FSN">On examination - weight 10-20% over ideal (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight 10-20% over ideal</displayName>
+</concept>
+<concept code="268916007">
+<displayName lang="en" type="PT">O/E - weight greater than 20% over ideal</displayName>
+<displayName lang="en" type="FSN">On examination - weight greater than 20% over ideal (finding)</displayName>
+<displayName lang="en" type="SY">On examination - weight greater than 20% over ideal</displayName>
+</concept>
+<concept code="271398006">
+<displayName lang="en" type="PT">Weight steady</displayName>
+<displayName lang="en" type="FSN">Weight steady (finding)</displayName>
+<displayName lang="en" type="SY">Weight stable</displayName>
+<displayName lang="en" type="SY">Weight static</displayName>
+</concept>
+<concept code="271593001">
+<displayName lang="en" type="PT">Moribund</displayName>
+<displayName lang="en" type="FSN">Moribund (finding)</displayName>
+</concept>
+<concept code="271787007">
+<displayName lang="en" type="PT">Collapse</displayName>
+<displayName lang="en" type="FSN">Collapse (finding)</displayName>
+</concept>
+<concept code="271795006">
+<displayName lang="en" type="PT">Malaise and fatigue</displayName>
+<displayName lang="en" type="FSN">Malaise and fatigue (finding)</displayName>
+</concept>
+<concept code="271875007">
+<displayName lang="en" type="PT">Senile debility</displayName>
+<displayName lang="en" type="FSN">Senile debility (finding)</displayName>
+</concept>
+<concept code="272036004">
+<displayName lang="en" type="PT">C/O - debility - malaise</displayName>
+<displayName lang="en" type="FSN">Complaining of debility and malaise (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of debility and malaise</displayName>
+</concept>
+<concept code="272037008">
+<displayName lang="en" type="PT">C/O - overwork</displayName>
+<displayName lang="en" type="FSN">Complaining of overwork (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of overwork</displayName>
+</concept>
+<concept code="272060000">
+<displayName lang="en" type="PT">Fatigue - symptom</displayName>
+<displayName lang="en" type="FSN">Fatigue - symptom (finding)</displayName>
+</concept>
+<concept code="272062008">
+<displayName lang="en" type="PT">C/O - &quot;tired all the time&quot;</displayName>
+<displayName lang="en" type="FSN">Complaining of &quot;tired all the time&quot; (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of &quot;tired all the time&quot;</displayName>
+</concept>
+<concept code="274760009">
+<displayName lang="en" type="PT">Hand examination NAD</displayName>
+<displayName lang="en" type="FSN">Hand examination NAD (finding)</displayName>
+</concept>
+<concept code="274761008">
+<displayName lang="en" type="PT">Joint movement NAD</displayName>
+<displayName lang="en" type="FSN">Joint movement - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Joint movement - no abnormality detected</displayName>
+</concept>
+<concept code="274762001">
+<displayName lang="en" type="PT">Leg examination NAD</displayName>
+<displayName lang="en" type="FSN">Leg examination NAD (finding)</displayName>
+</concept>
+<concept code="274763006">
+<displayName lang="en" type="PT">Mouth examination NAD</displayName>
+<displayName lang="en" type="FSN">Mouth examination no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Mouth examination no abnormality detected</displayName>
+</concept>
+<concept code="274764000">
+<displayName lang="en" type="PT">Nail examination - NAD</displayName>
+<displayName lang="en" type="FSN">Nail examination - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Nail examination - no abnormality detected</displayName>
+</concept>
+<concept code="274765004">
+<displayName lang="en" type="PT">Rectal examination - NAD</displayName>
+<displayName lang="en" type="FSN">Rectal examination - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Rectal examination - no abnormality detected</displayName>
+</concept>
+<concept code="274766003">
+<displayName lang="en" type="PT">Skin examination - NAD</displayName>
+<displayName lang="en" type="FSN">Skin examination - no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Skin examination - no abnormality detected</displayName>
+</concept>
+<concept code="274767007">
+<displayName lang="en" type="PT">Spine examination NAD</displayName>
+<displayName lang="en" type="FSN">Spine examination: no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Spine examination: no abnormality detected</displayName>
+</concept>
+<concept code="275947003">
+<displayName lang="en" type="PT">O/E - overweight</displayName>
+<displayName lang="en" type="FSN">On examination - overweight (finding)</displayName>
+<displayName lang="en" type="SY">On examination - overweight</displayName>
+</concept>
+<concept code="276301007">
+<displayName lang="en" type="PT">Increased energy</displayName>
+<displayName lang="en" type="FSN">Increased energy (finding)</displayName>
+</concept>
+<concept code="278978003">
+<displayName lang="en" type="PT">Well baby</displayName>
+<displayName lang="en" type="FSN">Well baby (finding)</displayName>
+</concept>
+<concept code="281900007">
+<displayName lang="en" type="PT">No abnormality detected</displayName>
+<displayName lang="en" type="FSN">No abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">NAD - No abnormality detected</displayName>
+</concept>
+<concept code="282332003">
+<displayName lang="en" type="PT">No abnormality detected - examination result</displayName>
+<displayName lang="en" type="FSN">No abnormality detected - examination result (finding)</displayName>
+</concept>
+<concept code="301336003">
+<displayName lang="en" type="PT">Body weight problem</displayName>
+<displayName lang="en" type="FSN">Body weight problem (finding)</displayName>
+</concept>
+<concept code="302772006">
+<displayName lang="en" type="PT">Looks ill</displayName>
+<displayName lang="en" type="FSN">Looks ill (finding)</displayName>
+</concept>
+<concept code="309257005">
+<displayName lang="en" type="PT">Excessive weight loss</displayName>
+<displayName lang="en" type="FSN">Excessive weight loss (finding)</displayName>
+</concept>
+<concept code="309585006">
+<displayName lang="en" type="PT">Syncope and collapse</displayName>
+<displayName lang="en" type="FSN">Syncope and collapse (disorder)</displayName>
+</concept>
+<concept code="310252000">
+<displayName lang="en" type="PT">Body mass index less than 20</displayName>
+<displayName lang="en" type="FSN">Body mass index less than 20 (finding)</displayName>
+<displayName lang="en" type="SY">BMI less than 20</displayName>
+</concept>
+<concept code="314021002">
+<displayName lang="en" type="PT">Ophthalmic examination NAD</displayName>
+<displayName lang="en" type="FSN">Ophthalmic examination: no abnormality detected (finding)</displayName>
+<displayName lang="en" type="SY">Ophthalmic examination: no abnormality detected</displayName>
+</concept>
+<concept code="314109004">
+<displayName lang="en" type="PT">Feeling tired</displayName>
+<displayName lang="en" type="FSN">Feeling tired (finding)</displayName>
+</concept>
+<concept code="314669003">
+<displayName lang="en" type="PT">Child weight &lt; 0.4th centile</displayName>
+<displayName lang="en" type="FSN">Child weight &lt; 0.4th centile (finding)</displayName>
+</concept>
+<concept code="314670002">
+<displayName lang="en" type="PT">Child weight = 0.4th centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 0.4th centile (finding)</displayName>
+</concept>
+<concept code="314671003">
+<displayName lang="en" type="PT">Child weight 0.5th - 1.9th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 0.5th - 1.9th centile (finding)</displayName>
+</concept>
+<concept code="314672005">
+<displayName lang="en" type="PT">Child weight = 2nd centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 2nd centile (finding)</displayName>
+</concept>
+<concept code="314673000">
+<displayName lang="en" type="PT">Child weight 3rd - 8th centile</displayName>
+<displayName lang="en" type="FSN">Child weight third - eighth centile (finding)</displayName>
+<displayName lang="en" type="SY">Child weight third - eighth centile</displayName>
+</concept>
+<concept code="314674006">
+<displayName lang="en" type="PT">Child weight 9th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 9th centile (finding)</displayName>
+</concept>
+<concept code="314675007">
+<displayName lang="en" type="PT">Child weight 10th - 24th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 10th - 24th centile (finding)</displayName>
+</concept>
+<concept code="314676008">
+<displayName lang="en" type="PT">Child weight = 25th centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 25th centile (finding)</displayName>
+</concept>
+<concept code="314677004">
+<displayName lang="en" type="PT">Child weight 26th - 49th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 26th - 49th centile (finding)</displayName>
+</concept>
+<concept code="314678009">
+<displayName lang="en" type="PT">Child weight = 50th centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 50th centile (finding)</displayName>
+</concept>
+<concept code="314679001">
+<displayName lang="en" type="PT">Child weight 51st - 74th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 51st - 74th centile (finding)</displayName>
+</concept>
+<concept code="314680003">
+<displayName lang="en" type="PT">Child weight = 75th centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 75th centile (finding)</displayName>
+</concept>
+<concept code="314681004">
+<displayName lang="en" type="PT">Child weight 76th - 90th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 76th - 90th centile (finding)</displayName>
+</concept>
+<concept code="314682006">
+<displayName lang="en" type="PT">Child weight = 91st centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 91st centile (finding)</displayName>
+</concept>
+<concept code="314683001">
+<displayName lang="en" type="PT">Child weight 92nd - 97th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 92nd - 97th centile (finding)</displayName>
+</concept>
+<concept code="314684007">
+<displayName lang="en" type="PT">Child weight = 98th centile</displayName>
+<displayName lang="en" type="FSN">Child weight = 98th centile (finding)</displayName>
+</concept>
+<concept code="314685008">
+<displayName lang="en" type="PT">Child weight 98.1st - 99.6th centile</displayName>
+<displayName lang="en" type="FSN">Child weight 98.1st - 99.6th centile (finding)</displayName>
+</concept>
+<concept code="314686009">
+<displayName lang="en" type="PT">Child weight &gt; 99.6th centile</displayName>
+<displayName lang="en" type="FSN">Child weight &gt; 99.6th centile (finding)</displayName>
+</concept>
+<concept code="373931001">
+<displayName lang="en" type="PT">Sensation of heaviness in limbs</displayName>
+<displayName lang="en" type="FSN">Sensation of heaviness in limbs (finding)</displayName>
+</concept>
+<concept code="386705008">
+<displayName lang="en" type="PT">Lightheadedness</displayName>
+<displayName lang="en" type="FSN">Lightheadedness (finding)</displayName>
+<displayName lang="en" type="SY">Dizziness - light-headed</displayName>
+<displayName lang="en" type="SY">Feels light headed</displayName>
+<displayName lang="en" type="SY">Light-headedness</displayName>
+<displayName lang="en" type="SY">Lightheaded</displayName>
+</concept>
+<concept code="404641004">
+<displayName lang="en" type="PT">Giddiness</displayName>
+<displayName lang="en" type="FSN">Giddiness (finding)</displayName>
+</concept>
+<concept code="408512008">
+<displayName lang="en" type="PT">Body mass index 40+ - severely obese</displayName>
+<displayName lang="en" type="FSN">Body mass index 40+ - severely obese (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) 40+ - severely obese</displayName>
+<displayName lang="en" type="SY">Body mass index 40+ - morbidly obese</displayName>
+</concept>
+<concept code="412768003">
+<displayName lang="en" type="PT">Body mass index 20-24 - normal</displayName>
+<displayName lang="en" type="FSN">Body mass index 20-24 - normal (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) 20-24 - normal</displayName>
+</concept>
+<concept code="414915002">
+<displayName lang="en" type="PT">Obese</displayName>
+<displayName lang="en" type="FSN">Obese (finding)</displayName>
+</concept>
+<concept code="416446009">
+<displayName lang="en" type="PT">False sense of well-being</displayName>
+<displayName lang="en" type="FSN">False sense of well-being (finding)</displayName>
+</concept>
+<concept code="416528001">
+<displayName lang="en" type="PT">Intentional weight loss</displayName>
+<displayName lang="en" type="FSN">Intentional weight loss (finding)</displayName>
+</concept>
+<concept code="420900006">
+<displayName lang="en" type="PT">Fatigue associated with AIDS</displayName>
+<displayName lang="en" type="FSN">Fatigue associated with acquired immunodeficiency syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Fatigue associated with acquired immunodeficiency syndrome</displayName>
+</concept>
+<concept code="421695000">
+<displayName lang="en" type="PT">Abnormal weight loss associated with AIDS</displayName>
+<displayName lang="en" type="FSN">Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)</displayName>
+<displayName lang="en" type="SY">AIDS-associated abnormal weight loss</displayName>
+<displayName lang="en" type="SY">Abnormal weight loss associated with acquired immunodeficiency syndrome</displayName>
+</concept>
+<concept code="422003001">
+<displayName lang="en" type="PT">Cachexia associated with AIDS</displayName>
+<displayName lang="en" type="FSN">Cachexia associated with acquired immunodeficiency syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Cachexia associated with acquired immunodeficiency syndrome</displayName>
+<displayName lang="en" type="SY">HIV - Human immunodeficiency virus infection wasting syndrome</displayName>
+<displayName lang="en" type="SY">HIV disease resulting in wasting syndrome</displayName>
+<displayName lang="en" type="SY">Human immunodeficiency virus infection wasting syndrome</displayName>
+<displayName lang="en" type="SY">Slim disease</displayName>
+</concept>
+<concept code="422503008">
+<displayName lang="en" type="PT">Abnormal weight in relation to growth / age standard</displayName>
+<displayName lang="en" type="FSN">Abnormal weight in relation to growth / age standard (finding)</displayName>
+</concept>
+<concept code="422868009">
+<displayName lang="en" type="PT">Unexplained weight loss</displayName>
+<displayName lang="en" type="FSN">Unexplained weight loss (finding)</displayName>
+</concept>
+<concept code="426977000">
+<displayName lang="en" type="PT">Recent weight loss</displayName>
+<displayName lang="en" type="FSN">Recent weight loss (finding)</displayName>
+</concept>
+<concept code="427090001">
+<displayName lang="en" type="PT">Body mass index less than 16.5</displayName>
+<displayName lang="en" type="FSN">Body mass index less than 16.5 (finding)</displayName>
+<displayName lang="en" type="SY">BMI (body mass index) less than 16.5</displayName>
+</concept>
+<concept code="427572007">
+<displayName lang="en" type="PT">Recent weight gain</displayName>
+<displayName lang="en" type="FSN">Recent weight gain (finding)</displayName>
+</concept>
+<concept code="430237002">
+<displayName lang="en" type="PT">Abnormal intentional weight loss</displayName>
+<displayName lang="en" type="FSN">Abnormal intentional weight loss (finding)</displayName>
+</concept>
+<concept code="442099003">
+<displayName lang="en" type="PT">Psychogenic fatigue</displayName>
+<displayName lang="en" type="FSN">Psychogenic fatigue (finding)</displayName>
+</concept>
+<concept code="444042007">
+<displayName lang="en" type="PT">Postexertional fatigue</displayName>
+<displayName lang="en" type="FSN">Excessive postexertional fatigue (finding)</displayName>
+<displayName lang="en" type="SY">Excessive postexertional fatigue</displayName>
+<displayName lang="en-GB" type="SY">Post-exertion fatigue</displayName>
+<displayName lang="en-GB" type="SY">Post-exertional fatigue</displayName>
+</concept>
+<concept code="444471002">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation red zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation red zone (finding)</displayName>
+</concept>
+<concept code="444474005">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation blue zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation blue zone (finding)</displayName>
+</concept>
+<concept code="444488009">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation pink zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation pink zone (finding)</displayName>
+</concept>
+<concept code="444489001">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation purple zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation purple zone (finding)</displayName>
+</concept>
+<concept code="444496004">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation orange zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation orange zone (finding)</displayName>
+</concept>
+<concept code="444503000">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation green zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation green zone (finding)</displayName>
+</concept>
+<concept code="444504006">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation white zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation white zone (finding)</displayName>
+</concept>
+<concept code="444505007">
+<displayName lang="en-GB" type="PT">Broselow Luten paediatric weight estimation yellow zone</displayName>
+<displayName lang="en" type="FSN">Broselow Luten pediatric weight estimation yellow zone (finding)</displayName>
+</concept>
+<concept code="448765001">
+<displayName lang="en" type="PT">Unintentional weight loss</displayName>
+<displayName lang="en" type="FSN">Unintentional weight loss (finding)</displayName>
+</concept>
+<concept code="450451007">
+<displayName lang="en" type="PT">Overweight in childhood</displayName>
+<displayName lang="en" type="FSN">Overweight in childhood (finding)</displayName>
+<displayName lang="en" type="SY">Childhood overweight BMI greater than 85 percentile</displayName>
+</concept>
+<concept code="698884003">
+<displayName lang="en" type="PT">Involuntary weight gain</displayName>
+<displayName lang="en" type="FSN">Involuntary weight gain (finding)</displayName>
+</concept>
+<concept code="699205002">
+<displayName lang="en" type="PT">Involuntary weight loss</displayName>
+<displayName lang="en" type="FSN">Involuntary weight loss (finding)</displayName>
+</concept>
+<concept code="702787008">
+<displayName lang="en" type="PT">O/E - no neurodisabling condition detected</displayName>
+<displayName lang="en" type="FSN">No neurodisabling condition detected on examination (finding)</displayName>
+<displayName lang="en" type="SY">No neurodisabling condition detected on examination</displayName>
+</concept>
+<concept code="703941003">
+<displayName lang="en" type="PT">Improved exercise tolerance</displayName>
+<displayName lang="en" type="FSN">Improved exercise tolerance (finding)</displayName>
+</concept>
+<concept code="703979008">
+<displayName lang="en" type="PT">On examination of hip joint no abnormality detected</displayName>
+<displayName lang="en" type="FSN">On examination of hip joint no abnormality detected (finding)</displayName>
+</concept>
+<concept code="703980006">
+<displayName lang="en" type="PT">On examination of elbow joint no abnormality detected</displayName>
+<displayName lang="en" type="FSN">On examination of elbow joint no abnormality detected (finding)</displayName>
+</concept>
+<concept code="703981005">
+<displayName lang="en" type="PT">On examination of shoulder joint no abnormality detected</displayName>
+<displayName lang="en" type="FSN">On examination of shoulder joint no abnormality detected (finding)</displayName>
+</concept>
+<concept code="703982003">
+<displayName lang="en" type="PT">On examination of knee joint no abnormality detected</displayName>
+<displayName lang="en" type="FSN">On examination of knee joint no abnormality detected (finding)</displayName>
+</concept>
+<concept code="704369007">
+<displayName lang="en" type="PT">Fatigue due to treatment</displayName>
+<displayName lang="en" type="FSN">Fatigue due to treatment (finding)</displayName>
+<displayName lang="en" type="SY">Exhaustion from treatment</displayName>
+</concept>
+<concept code="711389000">
+<displayName lang="en" type="PT">Worsening exercise tolerance</displayName>
+<displayName lang="en" type="FSN">Worsening exercise tolerance (finding)</displayName>
+</concept>
+<concept code="351000119100">
+<displayName lang="en" type="PT">Childhood failure to gain weight</displayName>
+<displayName lang="en" type="FSN">Childhood failure to gain weight (finding)</displayName>
+</concept>
+<concept code="97201000119101">
+<displayName lang="en" type="PT">Fatigue due to chemotherapy or radiation therapy</displayName>
+<displayName lang="en" type="FSN">Fatigue due to chemotherapy or radiation therapy (finding)</displayName>
+</concept>
+<concept code="148871000119109">
+<displayName lang="en" type="PT">Weakness as a late effect of stroke</displayName>
+<displayName lang="en" type="FSN">Weakness as a late effect of cerebrovascular accident (disorder)</displayName>
+<displayName lang="en" type="SY">Weakness as a late effect of cerebrovascular accident</displayName>
+</concept>
+<concept code="151811000119109">
+<displayName lang="en" type="PT">Health condition feared but not present</displayName>
+<displayName lang="en" type="FSN">Health condition feared but not present (finding)</displayName>
+</concept>
+<concept code="241411000000101">
+<displayName lang="en" type="PT">Collapse - cause unknown</displayName>
+<displayName lang="en" type="FSN">Collapse from cause unknown (finding)</displayName>
+</concept>
+<concept code="888071000000109">
+<displayName lang="en" type="PT">O/E no neurodevelopmental condition detected</displayName>
+<displayName lang="en" type="FSN">No neurodevelopmental condition detected on examination (finding)</displayName>
+</concept>
+<concept code="900461000000104">
+<displayName lang="en" type="PT">Unintentional weight gain</displayName>
+<displayName lang="en" type="FSN">Unintentional weight gain (finding)</displayName>
+</concept>
+<concept code="913861000000108">
+<displayName lang="en" type="PT">Vision examination - no abnormality detected</displayName>
+<displayName lang="en" type="FSN">Vision examination - no abnormality detected (finding)</displayName>
+</concept>
+<concept code="914051000000102">
+<displayName lang="en" type="PT">Hearing examination - no abnormality detected</displayName>
+<displayName lang="en" type="FSN">Hearing examination - no abnormality detected (finding)</displayName>
+</concept>
+<concept code="914721000000105">
+<displayName lang="en" type="PT">Obese class I (body mass index 30.0 - 34.9)</displayName>
+<displayName lang="en" type="FSN">Obese class I (body mass index 30.0 - 34.9) (finding)</displayName>
+</concept>
+<concept code="914731000000107">
+<displayName lang="en" type="PT">Obese class II (body mass index 35.0 - 39.9)</displayName>
+<displayName lang="en" type="FSN">Obese class II (body mass index 35.0 - 39.9) (finding)</displayName>
+</concept>
+<concept code="914741000000103">
+<displayName lang="en" type="PT">Obese class III (body mass index equal to or greater than 40.0)</displayName>
+<displayName lang="en" type="FSN">Obese class III (body mass index equal to or greater than 40.0) (finding)</displayName>
+</concept>
+<concept code="920141000000102">
+<displayName lang="en" type="PT">Child body mass index less than 0.4th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index less than 0.4th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) less than 0.4th centile</displayName>
+</concept>
+<concept code="920161000000101">
+<displayName lang="en" type="PT">Child body mass index 0.4th-1.9th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 0.4th-1.9th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 0.4th-1.9th centile</displayName>
+</concept>
+<concept code="920181000000105">
+<displayName lang="en" type="PT">Child body mass index on 2nd centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 2nd centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 2nd centile</displayName>
+</concept>
+<concept code="920201000000109">
+<displayName lang="en" type="PT">Child body mass index 3rd-8th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 3rd-8th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 3rd-8th centile</displayName>
+</concept>
+<concept code="920231000000103">
+<displayName lang="en" type="PT">Child body mass index on 9th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 9th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 9th centile</displayName>
+</concept>
+<concept code="920251000000105">
+<displayName lang="en" type="PT">Child body mass index 10th-24th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 10th-24th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 10th-24th centile</displayName>
+</concept>
+<concept code="920271000000101">
+<displayName lang="en" type="PT">Child body mass index on 25th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 25th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 25th centile</displayName>
+</concept>
+<concept code="920291000000102">
+<displayName lang="en" type="PT">Child body mass index 26th-49th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 26th-49th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 26th-49th centile</displayName>
+</concept>
+<concept code="920311000000101">
+<displayName lang="en" type="PT">Child body mass index on 50th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 50th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 50th centile</displayName>
+</concept>
+<concept code="920841000000108">
+<displayName lang="en" type="PT">Child body mass index 51st-74th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 51st-74th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 51st-74th centile</displayName>
+</concept>
+<concept code="920931000000108">
+<displayName lang="en" type="PT">Child body mass index on 75th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 75th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 75th centile</displayName>
+</concept>
+<concept code="920951000000101">
+<displayName lang="en" type="PT">Child body mass index 76th-90th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 76th-90th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 76th-90th centile</displayName>
+</concept>
+<concept code="920971000000105">
+<displayName lang="en" type="PT">Child body mass index on 91st centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 91st centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 91st centile</displayName>
+</concept>
+<concept code="920991000000109">
+<displayName lang="en" type="PT">Child body mass index 92nd-97th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 92nd-97th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 92nd-97th centile</displayName>
+</concept>
+<concept code="921011000000105">
+<displayName lang="en" type="PT">Child body mass index on 98th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index on 98th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) on 98th centile</displayName>
+</concept>
+<concept code="921031000000102">
+<displayName lang="en" type="PT">Child body mass index 98.1st-99.6th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index 98.1st-99.6th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) 98.1st-99.6th centile</displayName>
+</concept>
+<concept code="921051000000109">
+<displayName lang="en" type="PT">Child body mass index greater than 99.6th centile</displayName>
+<displayName lang="en" type="FSN">Child body mass index greater than 99.6th centile (finding)</displayName>
+<displayName lang="en" type="SY">Child BMI (body mass index) greater than 99.6th centile</displayName>
+</concept>
+<concept code="925791000000100">
+<displayName lang="en" type="PT">Mild frailty</displayName>
+<displayName lang="en" type="FSN">Mild frailty (finding)</displayName>
+</concept>
+<concept code="925831000000107">
+<displayName lang="en" type="PT">Moderate frailty</displayName>
+<displayName lang="en" type="FSN">Moderate frailty (finding)</displayName>
+</concept>
+<concept code="925861000000102">
+<displayName lang="en" type="PT">Severe frailty</displayName>
+<displayName lang="en" type="FSN">Severe frailty (finding)</displayName>
+</concept>
+<concept code="939491000000109">
+<displayName lang="en" type="PT">Boxing medical examination - no abnormality detected</displayName>
+<displayName lang="en" type="FSN">Boxing medical examination - no abnormality detected (finding)</displayName>
+</concept>
+<concept code="939671000000107">
+<displayName lang="en" type="PT">Able to manage own energy levels</displayName>
+<displayName lang="en" type="FSN">Able to manage own energy levels (finding)</displayName>
+</concept>
+<concept code="939681000000109">
+<displayName lang="en" type="PT">Able to direct energy</displayName>
+<displayName lang="en" type="FSN">Able to direct energy (finding)</displayName>
+</concept>
+<concept code="939691000000106">
+<displayName lang="en" type="PT">Able to sustain energy level</displayName>
+<displayName lang="en" type="FSN">Able to sustain energy level (finding)</displayName>
+</concept>
+<concept code="939701000000106">
+<displayName lang="en" type="PT">Able to stop use of energy</displayName>
+<displayName lang="en" type="FSN">Able to stop use of energy (finding)</displayName>
+</concept>
+<concept code="944121000000101">
+<displayName lang="en" type="PT">Able to have functional level of stamina</displayName>
+<displayName lang="en" type="FSN">Able to have functional level of stamina (finding)</displayName>
+</concept>
+</vocabulary>

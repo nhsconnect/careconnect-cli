@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ResponderPriority" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.495">
+   <Description>
+            <p>ResponderPriority</p>
+         </Description>
+   <concept code="1">
+      <displayName>First responder</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Second responder</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Third responder</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Fourth responder</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Fifth responder</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Sixth responder</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Seventh responder</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Eighth responder</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Ninth responder</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Tenth responder</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Eleventh responder</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Twelth responder</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Thirteenth responder</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Fourteenth responder</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Fifteenth responder</displayName>
+   </concept>
+</vocabulary>

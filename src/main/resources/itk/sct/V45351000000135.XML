@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Laterality" type="Realm Concept" setId="68081000000132" version="7" id="45351000000135" refId="999000821000000100" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="7771000">
+<displayName lang="en" type="PT">Left</displayName>
+<displayName lang="en" type="FSN">Left (qualifier value)</displayName>
+<displayName lang="en" type="SY">Left lateral</displayName>
+<displayName lang="en" type="SY">Left side</displayName>
+<displayName lang="en" type="SY">Levo-</displayName>
+<displayName lang="en" type="SY">Lt - Left</displayName>
+</concept>
+<concept code="24028007">
+<displayName lang="en" type="PT">Right</displayName>
+<displayName lang="en" type="FSN">Right (qualifier value)</displayName>
+<displayName lang="en" type="SY">Dextro</displayName>
+<displayName lang="en" type="SY">Right lateral</displayName>
+<displayName lang="en" type="SY">Right side</displayName>
+<displayName lang="en" type="SY">Rt - Right</displayName>
+</concept>
+</vocabulary>

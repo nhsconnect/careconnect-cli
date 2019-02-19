@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CAFInformationSet" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.222">
+   <Description>
+            <p>This vocab consists of 3 levels of classification. The 7 Outcomes for adults come from the white paper Our Health, Our Care, Our Say. These have then been broken down into groups of domains, which breakdown further into sub-domains. This vocab is consistent with version 2.0 of the CAF information set produced by the Department of Health.</p>
+         </Description>
+   <concept code="WP1">
+      <displayName>Improved Health</displayName>
+   </concept>
+   <concept code="D1">
+      <displayName>My Physical Wellbeing</displayName>
+   </concept>
+   <concept code="SD1">
+      <displayName>My Disabilities, Impairments and Other Conditions</displayName>
+   </concept>
+   <concept code="SD2">
+      <displayName>My General Physical Wellbeing</displayName>
+   </concept>
+   <concept code="SD3">
+      <displayName>Sensory Impairment</displayName>
+   </concept>
+   <concept code="SD4">
+      <displayName>My Communication Needs</displayName>
+   </concept>
+   <concept code="SD5">
+      <displayName>Medications</displayName>
+   </concept>
+   <concept code="SD6">
+      <displayName>Lapses of Consciousness </displayName>
+   </concept>
+   <concept code="SD7">
+      <displayName>Skin Care/Wound Management</displayName>
+   </concept>
+   <concept code="SD8">
+      <displayName>Using the Toilet and Continence</displayName>
+   </concept>
+   <concept code="SD9">
+      <displayName>Breathing</displayName>
+   </concept>
+   <concept code="SD10">
+      <displayName>Swallowing and My Oral Health</displayName>
+   </concept>
+   <concept code="SD11">
+      <displayName>Sleeping</displayName>
+   </concept>
+   <concept code="SD12">
+      <displayName>Pain</displayName>
+   </concept>
+   <concept code="D2">
+      <displayName>My Mental, Psychological and Emotional Wellbeing</displayName>
+   </concept>
+   <concept code="SD13">
+      <displayName>My Mental Health Needs</displayName>
+   </concept>
+   <concept code="SD14">
+      <displayName>My Behaviour</displayName>
+   </concept>
+   <concept code="SD15">
+      <displayName>Memory, Thinking and Reasoning (Cognition)</displayName>
+   </concept>
+   <concept code="SD16">
+      <displayName>Mood</displayName>
+   </concept>
+   <concept code="SD17">
+      <displayName>Misusing Substances</displayName>
+   </concept>
+   <concept code="WP2">
+      <displayName>Improved Personal Dignity and Autonomy</displayName>
+   </concept>
+   <concept code="D3">
+      <displayName>Activities of Daily Living</displayName>
+   </concept>
+   <concept code="SD18">
+      <displayName>Dressing/Undressing</displayName>
+   </concept>
+   <concept code="SD19">
+      <displayName>Personal Hygiene</displayName>
+   </concept>
+   <concept code="SD20">
+      <displayName>Doing Housework/My Daily Tasks</displayName>
+   </concept>
+   <concept code="SD21">
+      <displayName>Eating and Drinking </displayName>
+   </concept>
+   <concept code="SD22">
+      <displayName>Mobility in my Home</displayName>
+   </concept>
+   <concept code="SD23">
+      <displayName>Mobility outside my Home</displayName>
+   </concept>
+   <concept code="SD24">
+      <displayName>Falls</displayName>
+   </concept>
+   <concept code="WP3">
+      <displayName>Exercise of Choice and Control</displayName>
+   </concept>
+   <concept code="D5">
+      <displayName>My Care Preferences</displayName>
+   </concept>
+   <concept code="WP4">
+      <displayName>Freedom from Discrimination or Harassment</displayName>
+   </concept>
+   <concept code="D6">
+      <displayName>Adult Protection</displayName>
+   </concept>
+   <concept code="SD25">
+      <displayName>My Sense of Security</displayName>
+   </concept>
+   <concept code="SD26">
+      <displayName>Abuse/Threats</displayName>
+   </concept>
+   <concept code="D7">
+      <displayName>Equal Treatment</displayName>
+   </concept>
+   <concept code="WP5">
+      <displayName>Improved Quality of Life</displayName>
+   </concept>
+   <concept code="D8">
+      <displayName>My Home</displayName>
+   </concept>
+   <concept code="SD27">
+      <displayName>My Housing Support Needs</displayName>
+   </concept>
+   <concept code="SD28">
+      <displayName>My Current Housing </displayName>
+   </concept>
+   <concept code="SD29">
+      <displayName>Heating my Home in Winter</displayName>
+   </concept>
+   <concept code="D9">
+      <displayName>Keeping Healthy</displayName>
+   </concept>
+   <concept code="D10">
+      <displayName>Being Cared For</displayName>
+   </concept>
+   <concept code="WP6">
+      <displayName>Making a Positive Contribution</displayName>
+   </concept>
+   <concept code="D11">
+      <displayName>Access to Education, Training and Employment </displayName>
+   </concept>
+   <concept code="D12">
+      <displayName>My Social Wellbeing</displayName>
+   </concept>
+   <concept code="SD30">
+      <displayName>My Caring Responsibilities</displayName>
+   </concept>
+   <concept code="SD31">
+      <displayName>My Relationships</displayName>
+   </concept>
+   <concept code="SD32">
+      <displayName>Involvement in my Community</displayName>
+   </concept>
+   <concept code="SD33">
+      <displayName>My Religious, Cultural and Spiritual Needs</displayName>
+   </concept>
+   <concept code="WP7">
+      <displayName>Economic Well-being</displayName>
+   </concept>
+   <concept code="D13">
+      <displayName>My Finances</displayName>
+   </concept>
+   <concept code="D4">
+      <displayName>Mobility</displayName>
+   </concept>
+</vocabulary>

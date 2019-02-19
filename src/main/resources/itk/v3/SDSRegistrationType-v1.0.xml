@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SDSRegistrationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.130">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.130</p>
+            <p>A code indicating the type of registration. The registry in this case is SDS (Spine Directory Services).</p>
+         </Description>
+   <concept code="01">
+      <displayName>Add User To Workgroup</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Remove User From Workgroup</displayName>
+   </concept>
+</vocabulary>

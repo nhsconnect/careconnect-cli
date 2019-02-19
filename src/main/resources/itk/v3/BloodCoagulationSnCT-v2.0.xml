@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="BloodCoagulationSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p> </p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the type of blood coagulation.</p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK BloodCoagulationSnCT subset with subset original id 45361000000137</strong>.</p>
+               <p>The use of this subset is <strong>Advisory</strong>.</p>
+               <p>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab. </p>
+               <p> </p>
+               <p> </p>
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="852471000000107">
+      <displayName>Prothrombin time</displayName>
+   </concept>
+   <concept code="852511000000103">
+      <displayName>Activated partial thromboplastin time</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AllergyIdentSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Subset of the Snomed-CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes identified allergies.</p>
+	           <p>
+		             <strong>Any code from the SNOMED CT UK <em>Allergy Propensity</em> subset with subset original id 1101000000130.</strong>
+	           </p>
+         </Description>
+</vocabulary>

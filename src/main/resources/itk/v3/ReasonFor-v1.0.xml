@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReasonFor" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.107">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.107</p>
+            <p>Indicates the reason for a change in state of a medication statement.</p>
+         </Description>
+   <concept code="RAMSR">
+      <displayName>Reason for aborting a medication supply request</displayName>
+   </concept>
+   <concept code="RMAR">
+      <displayName>Reason for creating a medication administration request</displayName>
+   </concept>
+   <concept code="RMR">
+      <displayName>Reason for a medication recommendation (can be to administer / avoid / discontinue / maintain / substitute medication, or change medication dosage)</displayName>
+   </concept>
+   <concept code="RNCMA">
+      <displayName>Reason for the non-completion of medication administration (either a dose or a course)</displayName>
+   </concept>
+   <concept code="RPMA">
+      <displayName>Reason for creating a planned medication</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AlternateCharacterSets" version="1.0" status="created"
+            id="2.16.840.1.113883.12.211">
+   <Description>This table contains the character set for the entire message.
+					Table type: HL7</Description>
+   <concept code="8859/1">
+      <displayName>The printable characters from the ISO 8859/1 Character set</displayName>
+   </concept>
+   <concept code="8859/2">
+      <displayName>The printable characters from the ISO 8859/2 Character set</displayName>
+   </concept>
+   <concept code="8859/3">
+      <displayName>The printable characters from the ISO 8859/3 Character set</displayName>
+   </concept>
+   <concept code="8859/4">
+      <displayName>The printable characters from the ISO 8859/4 Character set</displayName>
+   </concept>
+   <concept code="8859/5">
+      <displayName>The printable characters from the ISO 8859/5 Character set</displayName>
+   </concept>
+   <concept code="8859/6">
+      <displayName>The printable characters from the ISO 8859/6 Character set</displayName>
+   </concept>
+   <concept code="8859/7">
+      <displayName>The printable characters from the ISO 8859/7 Character set</displayName>
+   </concept>
+   <concept code="8859/8">
+      <displayName>The printable characters from the ISO 8859/8 Character set</displayName>
+   </concept>
+   <concept code="8859/9">
+      <displayName>The printable characters from the ISO 8859/9 Character set</displayName>
+   </concept>
+   <concept code="ASCII">
+      <displayName>The printable 7-bit ASCII character set.</displayName>
+   </concept>
+   <concept code="BIG-5">
+      <displayName>Code for Taiwanese Character Set (BIG-5)</displayName>
+   </concept>
+   <concept code="CNS 11643-1992">
+      <displayName>Code for Taiwanese Character Set (CNS 11643-1992)</displayName>
+   </concept>
+   <concept code="GB 18030-2000">
+      <displayName>Code for Chinese Character Set (GB 18030-2000)</displayName>
+   </concept>
+   <concept code="ISO IR14">
+      <displayName>Code for Information Exchange (one byte)(JIS X 0201-1976).</displayName>
+   </concept>
+   <concept code="ISO IR159">
+      <displayName>Code of the supplementary Japanese Graphic Character set for information interchange (JIS X 0212-1990).</displayName>
+   </concept>
+   <concept code="ISO IR87">
+      <displayName>Code for the Japanese Graphic Character set for information interchange (JIS X 0208-1990),</displayName>
+   </concept>
+   <concept code="KS X 1001">
+      <displayName>Code for Korean Character Set (KS X 1001)</displayName>
+   </concept>
+   <concept code="UNICODE">
+      <displayName>The world wide character standard from ISO/IEC 10646-1-1993</displayName>
+   </concept>
+   <concept code="UNICODE UTF-16">
+      <displayName>UCS Transformation Format, 16-bit form</displayName>
+   </concept>
+   <concept code="UNICODE UTF-32">
+      <displayName>UCS Transformation Format, 32-bit form</displayName>
+   </concept>
+   <concept code="UNICODE UTF-8">
+      <displayName>UCS Transformation Format, 8-bit form</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrObservationValueSignificance" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.74">
+   <Description>
+            <p>A code that may be conveyed as a value associated with an observation to indicate that a problem or diagnosis is regarded as having special significance.</p>
+            <p>For example an alert.</p>
+         </Description>
+   <concept code="386134007">
+      <displayName>Significant</displayName>
+   </concept>
+   <concept code="394847000">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

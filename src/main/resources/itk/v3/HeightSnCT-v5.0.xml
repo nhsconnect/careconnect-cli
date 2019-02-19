@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HeightSnCT" version="5.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p> </p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent a height measurement.<br/>
+                  <br/>
+                  <strong>Any code from the SNOMED CT UK HeightSnCT subset with subset original id 1371000000138.</strong>
+                  <br/>
+                  <br/>The use of this subset is <strong>Advisory</strong>.<br/>
+                  <br/>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab. </p>
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="248333004">
+      <displayName>Standing height</displayName>
+   </concept>
+</vocabulary>

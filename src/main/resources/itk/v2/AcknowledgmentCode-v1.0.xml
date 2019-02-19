@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AcknowledgmentCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.8">
+   <Description>A set of codes which represents the acknowledgment code.
+					Table type: HL7</Description>
+   <concept code="AA">
+      <displayName>Original mode: Application Accept - Enhanced mode: Application acknowledgment: Accept</displayName>
+   </concept>
+   <concept code="AE">
+      <displayName>Original mode: Application Error - Enhanced mode: Application acknowledgment: Error</displayName>
+   </concept>
+   <concept code="AR">
+      <displayName>Original mode: Application Reject - Enhanced mode: Application acknowledgment: Reject</displayName>
+   </concept>
+   <concept code="CA">
+      <displayName>Enhanced mode: Accept acknowledgment: Commit Accept</displayName>
+   </concept>
+   <concept code="CE">
+      <displayName>Enhanced mode: Accept acknowledgment: Commit Error</displayName>
+   </concept>
+   <concept code="CR">
+      <displayName>Enhanced mode: Accept acknowledgment: Commit Reject</displayName>
+   </concept>
+</vocabulary>

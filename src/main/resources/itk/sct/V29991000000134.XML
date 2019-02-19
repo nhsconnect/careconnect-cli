@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Care support needs" type="Realm Concept" setId="68051000000135" version="7" id="29991000000134" refId="999000371000000105" memberCount="126" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="60689008">
+<displayName lang="en" type="PT">Home care of patient</displayName>
+<displayName lang="en" type="FSN">Home care of patient (regime/therapy)</displayName>
+</concept>
+<concept code="90817005">
+<displayName lang="en" type="PT">Home care by visiting nurse</displayName>
+<displayName lang="en" type="FSN">Home care by visiting nurse (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Nursing care at home by visiting nurse</displayName>
+</concept>
+<concept code="105385000">
+<displayName lang="en" type="PT">Full-time nursing care at home by private nurse</displayName>
+<displayName lang="en" type="FSN">Full-time nursing care at home by private nurse (regime/therapy)</displayName>
+</concept>
+<concept code="105386004">
+<displayName lang="en" type="PT">Respite care of patient</displayName>
+<displayName lang="en" type="FSN">Respite care of patient (regime/therapy)</displayName>
+<displayName lang="en" type="SY">RC - Respite care</displayName>
+<displayName lang="en-GB" type="SY">Respite care - procedure</displayName>
+</concept>
+<concept code="105387008">
+<displayName lang="en" type="PT">Holiday relief care of patient</displayName>
+<displayName lang="en" type="FSN">Holiday relief care of patient (regime/therapy)</displayName>
+</concept>
+<concept code="105388003">
+<displayName lang="en" type="PT">General home assistance of patient</displayName>
+<displayName lang="en" type="FSN">General home assistance of patient (procedure)</displayName>
+</concept>
+<concept code="105389006">
+<displayName lang="en" type="PT">Personal care assistance at home</displayName>
+<displayName lang="en" type="FSN">Personal care assistance at home (procedure)</displayName>
+</concept>
+<concept code="135893005">
+<displayName lang="en" type="PT">Carer support</displayName>
+<displayName lang="en" type="FSN">Carer support (regime/therapy)</displayName>
+</concept>
+<concept code="183425000">
+<displayName lang="en" type="PT">Social care</displayName>
+<displayName lang="en" type="FSN">Social care (regime/therapy)</displayName>
+</concept>
+<concept code="183426004">
+<displayName lang="en" type="PT">Abandoned baby care</displayName>
+<displayName lang="en" type="FSN">Abandoned baby care (regime/therapy)</displayName>
+</concept>
+<concept code="183427008">
+<displayName lang="en" type="PT">Substitute mothering</displayName>
+<displayName lang="en" type="FSN">Substitute mothering (regime/therapy)</displayName>
+</concept>
+<concept code="183428003">
+<displayName lang="en" type="PT">Care of disabled</displayName>
+<displayName lang="en" type="FSN">Care of disabled (regime/therapy)</displayName>
+</concept>
+<concept code="183431002">
+<displayName lang="en" type="PT">Foster care</displayName>
+<displayName lang="en" type="FSN">Foster care (regime/therapy)</displayName>
+</concept>
+<concept code="183433004">
+<displayName lang="en" type="PT">Own child has been fostered</displayName>
+<displayName lang="en" type="FSN">Own child has been fostered (regime/therapy)</displayName>
+</concept>
+<concept code="183435006">
+<displayName lang="en" type="PT">Care from relatives</displayName>
+<displayName lang="en" type="FSN">Care from relatives (regime/therapy)</displayName>
+</concept>
+<concept code="183436007">
+<displayName lang="en" type="PT">Care from friends</displayName>
+<displayName lang="en" type="FSN">Care from friends (regime/therapy)</displayName>
+</concept>
+<concept code="183439000">
+<displayName lang="en" type="PT">Economic rehabilitation measures</displayName>
+<displayName lang="en" type="FSN">Economic rehabilitation measures (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Economic rehab. measures</displayName>
+</concept>
+<concept code="183444007">
+<displayName lang="en" type="PT">Referral for further care</displayName>
+<displayName lang="en" type="FSN">Referral for further care (procedure)</displayName>
+</concept>
+<concept code="183678006">
+<displayName lang="en" type="PT">Arrange care by relative</displayName>
+<displayName lang="en" type="FSN">Arrange care by relative (regime/therapy)</displayName>
+</concept>
+<concept code="183679003">
+<displayName lang="en-GB" type="PT">Arrange care by neighbour</displayName>
+<displayName lang="en" type="FSN">Arrange care by neighbor (regime/therapy)</displayName>
+</concept>
+<concept code="183680000">
+<displayName lang="en" type="PT">Arrange home help</displayName>
+<displayName lang="en" type="FSN">Arrange home help (regime/therapy)</displayName>
+</concept>
+<concept code="183681001">
+<displayName lang="en" type="PT">Arrange meals on wheels</displayName>
+<displayName lang="en" type="FSN">Arrange meals on wheels (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Meals-on-wheels provision</displayName>
+</concept>
+<concept code="183682008">
+<displayName lang="en" type="PT">Arrange care attender</displayName>
+<displayName lang="en" type="FSN">Arrange care attender (regime/therapy)</displayName>
+</concept>
+<concept code="225989009">
+<displayName lang="en" type="PT">Ensuring environmental adaptations prepared prior to hospital discharge</displayName>
+<displayName lang="en" type="FSN">Ensuring environmental adaptations prepared prior to hospital discharge (procedure)</displayName>
+</concept>
+<concept code="225990000">
+<displayName lang="en" type="PT">Ensuring home equipment available prior to hospital discharge</displayName>
+<displayName lang="en" type="FSN">Ensuring home equipment available prior to hospital discharge (procedure)</displayName>
+</concept>
+<concept code="266745008">
+<displayName lang="en" type="PT">Care of aged</displayName>
+<displayName lang="en" type="FSN">Care of aged (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Care of old</displayName>
+</concept>
+<concept code="275641000">
+<displayName lang="en" type="PT">Arrange care by others</displayName>
+<displayName lang="en" type="FSN">Arrange care by others (regime/therapy)</displayName>
+</concept>
+<concept code="308271007">
+<displayName lang="en" type="PT">Arrangement of care procedure</displayName>
+<displayName lang="en" type="FSN">Arrangement of care procedure (regime/therapy)</displayName>
+</concept>
+<concept code="315042007">
+<displayName lang="en" type="PT">Social support</displayName>
+<displayName lang="en" type="FSN">Social support (regime/therapy)</displayName>
+</concept>
+<concept code="315043002">
+<displayName lang="en" type="PT">Long term social support</displayName>
+<displayName lang="en" type="FSN">Long term social support (regime/therapy)</displayName>
+</concept>
+<concept code="315638005">
+<displayName lang="en" type="PT">Special needs support</displayName>
+<displayName lang="en" type="FSN">Special needs support (regime/therapy)</displayName>
+</concept>
+<concept code="370792002">
+<displayName lang="en" type="PT">Evaluation of environment for home care</displayName>
+<displayName lang="en" type="FSN">Evaluation of environment for home care (procedure)</displayName>
+<displayName lang="en" type="SY">Evaluates environment for home care</displayName>
+</concept>
+<concept code="370818008">
+<displayName lang="en" type="PT">Identification of expectations of home care</displayName>
+<displayName lang="en" type="FSN">Identification of expectations of home care (procedure)</displayName>
+<displayName lang="en" type="SY">Identifies expectations of home care</displayName>
+</concept>
+<concept code="370878002">
+<displayName lang="en-GB" type="PT">Provision of adult day centre care</displayName>
+<displayName lang="en" type="FSN">Provision of adult day center care (regime/therapy)</displayName>
+<displayName lang="en-GB" type="SY">Adult day centre care</displayName>
+<displayName lang="en-GB" type="SY">Provision of adult day centre</displayName>
+</concept>
+<concept code="384743009">
+<displayName lang="en" type="PT">Support system enhancement</displayName>
+<displayName lang="en" type="FSN">Support system enhancement (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Support system care</displayName>
+</concept>
+<concept code="385758005">
+<displayName lang="en" type="PT">Community special services assessment</displayName>
+<displayName lang="en" type="FSN">Community special services assessment (procedure)</displayName>
+<displayName lang="en" type="SY">Assess community special services</displayName>
+</concept>
+<concept code="385759002">
+<displayName lang="en" type="PT">Provision of community special services</displayName>
+<displayName lang="en" type="FSN">Provision of community special services (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Community resources treatments and procedures</displayName>
+<displayName lang="en" type="SY">Community special services care</displayName>
+</concept>
+<concept code="385761006">
+<displayName lang="en" type="PT">Community special services management</displayName>
+<displayName lang="en" type="FSN">Community special services management (procedure)</displayName>
+<displayName lang="en" type="SY">Community resources management</displayName>
+<displayName lang="en" type="SY">Manage community special services</displayName>
+</concept>
+<concept code="385763009">
+<displayName lang="en" type="PT">Hospice care</displayName>
+<displayName lang="en" type="FSN">Hospice care (regime/therapy)</displayName>
+</concept>
+<concept code="385766001">
+<displayName lang="en" type="PT">Meals on wheels provision assessment</displayName>
+<displayName lang="en" type="FSN">Meals on wheels provision assessment (procedure)</displayName>
+<displayName lang="en" type="SY">Assess meals-on-wheels</displayName>
+</concept>
+<concept code="385780008">
+<displayName lang="en" type="PT">Home health aide service assessment</displayName>
+<displayName lang="en" type="FSN">Home health aide service assessment (procedure)</displayName>
+<displayName lang="en" type="SY">Assess home health aide service</displayName>
+</concept>
+<concept code="385781007">
+<displayName lang="en" type="PT">Home health aide service</displayName>
+<displayName lang="en" type="FSN">Home health aide service (regime/therapy)</displayName>
+</concept>
+<concept code="385782000">
+<displayName lang="en" type="PT">Home health aide service education</displayName>
+<displayName lang="en" type="FSN">Home health aide service education (procedure)</displayName>
+<displayName lang="en" type="SY">Teach home health aide service</displayName>
+</concept>
+<concept code="385783005">
+<displayName lang="en" type="PT">Home health aide service management</displayName>
+<displayName lang="en" type="FSN">Home health aide service management (procedure)</displayName>
+<displayName lang="en" type="SY">Manage home health aide service</displayName>
+</concept>
+<concept code="385861004">
+<displayName lang="en" type="PT">Home situation analysis education</displayName>
+<displayName lang="en" type="FSN">Home situation analysis education (procedure)</displayName>
+<displayName lang="en" type="SY">Teach home situation analysis</displayName>
+</concept>
+<concept code="385983001">
+<displayName lang="en" type="PT">Employment related procedures</displayName>
+<displayName lang="en" type="FSN">Employment related procedures (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Employment treatments and procedures</displayName>
+</concept>
+<concept code="385985008">
+<displayName lang="en" type="PT">Housing related procedures</displayName>
+<displayName lang="en" type="FSN">Housing related procedures (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Home related procedures</displayName>
+<displayName lang="en" type="SY">Housing treatments and procedures</displayName>
+</concept>
+<concept code="386229000">
+<displayName lang="en" type="PT">Caregiver support</displayName>
+<displayName lang="en" type="FSN">Caregiver support (regime/therapy)</displayName>
+</concept>
+<concept code="386285009">
+<displayName lang="en" type="PT">Environmental management: community</displayName>
+<displayName lang="en" type="FSN">Environmental management: community (procedure)</displayName>
+</concept>
+<concept code="386286005">
+<displayName lang="en" type="PT">Environmental management: home preparation</displayName>
+<displayName lang="en" type="FSN">Environmental management: home preparation (procedure)</displayName>
+</concept>
+<concept code="386306006">
+<displayName lang="en" type="PT">Financial resource assistance</displayName>
+<displayName lang="en" type="FSN">Financial resource assistance (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Financial resource treatments and procedures</displayName>
+</concept>
+<concept code="386323002">
+<displayName lang="en" type="PT">Home maintenance assistance</displayName>
+<displayName lang="en" type="FSN">Home maintenance assistance (procedure)</displayName>
+</concept>
+<concept code="390825009">
+<displayName lang="en" type="PT">Mental health carers&apos; respite</displayName>
+<displayName lang="en" type="FSN">Mental health carers&apos; respite (regime/therapy)</displayName>
+</concept>
+<concept code="390826005">
+<displayName lang="en" type="PT">Mental health carers&apos; support</displayName>
+<displayName lang="en" type="FSN">Mental health carers&apos; support (regime/therapy)</displayName>
+</concept>
+<concept code="409071009">
+<displayName lang="en" type="PT">Medication administration during home visit</displayName>
+<displayName lang="en" type="FSN">Medication administration during home visit (regime/therapy)</displayName>
+</concept>
+<concept code="410268005">
+<displayName lang="en-GB" type="PT">Nursing care/supplementary health education, guidance, and counselling</displayName>
+<displayName lang="en" type="FSN">Nursing care/supplementary health education, guidance, and counseling (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Nursing care/supplementary health teaching, guidance, and counselling</displayName>
+</concept>
+<concept code="410296004">
+<displayName lang="en-GB" type="PT">Homemaking education, guidance, and counselling</displayName>
+<displayName lang="en" type="FSN">Homemaking education, guidance, and counseling (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Homemaking teaching, guidance, and counselling</displayName>
+<displayName lang="en-GB" type="SY">Housekeeping education, guidance and counselling</displayName>
+</concept>
+<concept code="410297008">
+<displayName lang="en-GB" type="PT">Housing education, guidance, and counselling</displayName>
+<displayName lang="en" type="FSN">Housing education, guidance, and counseling (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Home education, guidance, and counselling</displayName>
+<displayName lang="en-GB" type="SY">Housing teaching, guidance, and counselling</displayName>
+</concept>
+<concept code="410318000">
+<displayName lang="en-GB" type="PT">Support group education, guidance, and counselling</displayName>
+<displayName lang="en" type="FSN">Support group education, guidance, and counseling (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Support group teaching, guidance, and counselling</displayName>
+</concept>
+<concept code="410319008">
+<displayName lang="en-GB" type="PT">Support system education, guidance, and counselling</displayName>
+<displayName lang="en" type="FSN">Support system education, guidance, and counseling (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Support system teaching, guidance, and counselling</displayName>
+</concept>
+<concept code="410340009">
+<displayName lang="en" type="PT">Homemaking case management</displayName>
+<displayName lang="en" type="FSN">Homemaking case management (procedure)</displayName>
+<displayName lang="en" type="SY">Housekeeping case management</displayName>
+</concept>
+<concept code="410349005">
+<displayName lang="en" type="PT">Nursing care/supplementary case management</displayName>
+<displayName lang="en" type="FSN">Nursing care/supplementary case management (procedure)</displayName>
+</concept>
+<concept code="410391007">
+<displayName lang="en" type="PT">Homemaking surveillance</displayName>
+<displayName lang="en" type="FSN">Homemaking surveillance (regime/therapy)</displayName>
+<displayName lang="en" type="SY">Housekeeping surveillance</displayName>
+</concept>
+<concept code="410401003">
+<displayName lang="en" type="PT">Nursing care/supplementary surveillance</displayName>
+<displayName lang="en" type="FSN">Nursing care/supplementary surveillance (regime/therapy)</displayName>
+</concept>
+<concept code="415185004">
+<displayName lang="en-GB" type="PT">Provision of child day centre care</displayName>
+<displayName lang="en" type="FSN">Provision of child day center care (regime/therapy)</displayName>
+<displayName lang="en-GB" type="SY">Child day centre care</displayName>
+<displayName lang="en-GB" type="SY">Provision of child day centre</displayName>
+</concept>
+<concept code="416116000">
+<displayName lang="en" type="PT">Referral to home registered dietitian</displayName>
+<displayName lang="en" type="FSN">Referral to home registered dietitian (procedure)</displayName>
+</concept>
+<concept code="416414009">
+<displayName lang="en" type="PT">Referral for home intravenous medication administration</displayName>
+<displayName lang="en" type="FSN">Referral for home intravenous medication administration (procedure)</displayName>
+</concept>
+<concept code="416609002">
+<displayName lang="en" type="PT">Referral for home tube feeding instruction</displayName>
+<displayName lang="en" type="FSN">Referral for home tube feeding instruction (procedure)</displayName>
+</concept>
+<concept code="416790000">
+<displayName lang="en" type="PT">Referral for home physical therapy</displayName>
+<displayName lang="en" type="FSN">Referral for home physical therapy (procedure)</displayName>
+</concept>
+<concept code="417033000">
+<displayName lang="en" type="PT">Referral for home based phlebotomy</displayName>
+<displayName lang="en" type="FSN">Referral for home based phlebotomy (procedure)</displayName>
+</concept>
+<concept code="417105002">
+<displayName lang="en" type="PT">Referral for perinatal home care</displayName>
+<displayName lang="en" type="FSN">Referral for perinatal home care (procedure)</displayName>
+</concept>
+<concept code="417153003">
+<displayName lang="en" type="PT">Referral for home nurse visit</displayName>
+<displayName lang="en" type="FSN">Referral for home nurse visit (procedure)</displayName>
+</concept>
+<concept code="417511005">
+<displayName lang="en" type="PT">Referral to home health care service</displayName>
+<displayName lang="en" type="FSN">Referral to home health care service (procedure)</displayName>
+</concept>
+<concept code="423006001">
+<displayName lang="en" type="PT">Development of home medication compliance regimen</displayName>
+<displayName lang="en" type="FSN">Development of home medication compliance regimen (procedure)</displayName>
+<displayName lang="en" type="SY">Develop home medication adherence plan</displayName>
+</concept>
+<concept code="423899000">
+<displayName lang="en" type="PT">Provision of community outreach care</displayName>
+<displayName lang="en" type="FSN">Provision of community outreach care (procedure)</displayName>
+<displayName lang="en" type="SY">Community outreach worker service treatments and procedures</displayName>
+</concept>
+<concept code="698486008">
+<displayName lang="en" type="PT">Verification of carer in home for 24 hours post discharge</displayName>
+<displayName lang="en" type="FSN">Verification of carer in home for 24 hours post discharge (procedure)</displayName>
+</concept>
+<concept code="710156000">
+<displayName lang="en" type="PT">Promotion of social support</displayName>
+<displayName lang="en" type="FSN">Promotion of social support (procedure)</displayName>
+<displayName lang="en" type="SY">Promoting social support</displayName>
+</concept>
+<concept code="710242005">
+<displayName lang="en" type="PT">Consulting with home care service</displayName>
+<displayName lang="en" type="FSN">Consulting with home care service (procedure)</displayName>
+</concept>
+<concept code="710819007">
+<displayName lang="en" type="PT">Support for dignified dying</displayName>
+<displayName lang="en" type="FSN">Support for dignified dying (regime/therapy)</displayName>
+</concept>
+<concept code="710870003">
+<displayName lang="en" type="PT">Support for caregiver during weaning</displayName>
+<displayName lang="en" type="FSN">Support for caregiver during weaning (regime/therapy)</displayName>
+</concept>
+<concept code="710871004">
+<displayName lang="en" type="PT">Support for caregiver during toilet training</displayName>
+<displayName lang="en" type="FSN">Support for caregiver during toilet training (regime/therapy)</displayName>
+</concept>
+<concept code="711018006">
+<displayName lang="en" type="PT">Assessment of social support</displayName>
+<displayName lang="en" type="FSN">Assessment of social support (procedure)</displayName>
+</concept>
+<concept code="712502006">
+<displayName lang="en" type="PT">Multidimensional treatment foster care</displayName>
+<displayName lang="en" type="FSN">Multidimensional treatment foster care (regime/therapy)</displayName>
+</concept>
+<concept code="91941000000107">
+<displayName lang="en-GB" type="PT">Community care assessment</displayName>
+<displayName lang="en-GB" type="FSN">Community care assessment (regime/therapy)</displayName>
+</concept>
+<concept code="110661000000101">
+<displayName lang="en-GB" type="PT">Acute mental health home based care</displayName>
+<displayName lang="en-GB" type="FSN">Acute mental health home based care (regime/therapy)</displayName>
+</concept>
+<concept code="110711000000109">
+<displayName lang="en-GB" type="PT">Home treatment - mental health care</displayName>
+<displayName lang="en-GB" type="FSN">Home treatment - mental health care (regime/therapy)</displayName>
+</concept>
+<concept code="112951000000109">
+<displayName lang="en-GB" type="PT">Referral to intermediate care - hospital at home</displayName>
+<displayName lang="en-GB" type="FSN">Referral to intermediate care - hospital at home (procedure)</displayName>
+</concept>
+<concept code="112961000000107">
+<displayName lang="en-GB" type="PT">Referral to intermediate care - community rehabilitation</displayName>
+<displayName lang="en-GB" type="FSN">Referral to intermediate care - community rehabilitation (procedure)</displayName>
+</concept>
+<concept code="193011000000104">
+<displayName lang="en-GB" type="PT">Provision of home care or home help service</displayName>
+<displayName lang="en-GB" type="FSN">Provision of home care or home help service (regime/therapy)</displayName>
+</concept>
+<concept code="193021000000105">
+<displayName lang="en-GB" type="PT">Provision of home meals service</displayName>
+<displayName lang="en-GB" type="FSN">Provision of home meals service (regime/therapy)</displayName>
+</concept>
+<concept code="193081000000106">
+<displayName lang="en-GB" type="PT">Provision of nursing home care</displayName>
+<displayName lang="en-GB" type="FSN">Provision of nursing home care (regime/therapy)</displayName>
+</concept>
+<concept code="193091000000108">
+<displayName lang="en-GB" type="PT">Provision of intermediate care in own home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of intermediate care in own home (regime/therapy)</displayName>
+</concept>
+<concept code="193101000000100">
+<displayName lang="en-GB" type="PT">Provision of intermediate care in care home or hospital</displayName>
+<displayName lang="en-GB" type="FSN">Provision of intermediate care in care home or hospital (regime/therapy)</displayName>
+</concept>
+<concept code="193111000000103">
+<displayName lang="en-GB" type="PT">Provision of palliative care in own home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of palliative care in own home (regime/therapy)</displayName>
+</concept>
+<concept code="193121000000109">
+<displayName lang="en-GB" type="PT">Provision of palliative care in hospital, hospice or care home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of palliative care in hospital, hospice or care home (regime/therapy)</displayName>
+</concept>
+<concept code="193141000000102">
+<displayName lang="en-GB" type="PT">Provision of respite care in own home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of respite care in own home (regime/therapy)</displayName>
+</concept>
+<concept code="193151000000104">
+<displayName lang="en-GB" type="PT">Provision of respite care in care home or hospital</displayName>
+<displayName lang="en-GB" type="FSN">Provision of respite care in care home or hospital (regime/therapy)</displayName>
+</concept>
+<concept code="193211000000106">
+<displayName lang="en-GB" type="PT">Provision of continuing care in own home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of continuing care in own home (regime/therapy)</displayName>
+</concept>
+<concept code="193221000000100">
+<displayName lang="en-GB" type="PT">Provision of continuing care in hospital or care home</displayName>
+<displayName lang="en-GB" type="FSN">Provision of continuing care in hospital or care home (regime/therapy)</displayName>
+</concept>
+<concept code="193231000000103">
+<displayName lang="en-GB" type="PT">Provision of permanent nursing home care</displayName>
+<displayName lang="en-GB" type="FSN">Provision of permanent nursing home care (regime/therapy)</displayName>
+</concept>
+<concept code="294231000000103">
+<displayName lang="en" type="PT">Provision of telecare community alarm service</displayName>
+<displayName lang="en" type="FSN">Provision of telecare community alarm service (regime/therapy)</displayName>
+</concept>
+<concept code="299701000000103">
+<displayName lang="en" type="PT">Provision of continuing care in nursing home</displayName>
+<displayName lang="en" type="FSN">Provision of continuing care in nursing home (regime/therapy)</displayName>
+</concept>
+<concept code="304351000000106">
+<displayName lang="en" type="PT">Home support</displayName>
+<displayName lang="en" type="FSN">Home support (regime/therapy)</displayName>
+</concept>
+<concept code="304371000000102">
+<displayName lang="en" type="PT">Maximum level of support</displayName>
+<displayName lang="en" type="FSN">Maximum level of support (regime/therapy)</displayName>
+</concept>
+<concept code="304381000000100">
+<displayName lang="en" type="PT">Minimum level of support</displayName>
+<displayName lang="en" type="FSN">Minimum level of support (regime/therapy)</displayName>
+</concept>
+<concept code="323701000000101">
+<displayName lang="en" type="PT">Provision of social services care package</displayName>
+<displayName lang="en" type="FSN">Provision of social services care package (procedure)</displayName>
+</concept>
+<concept code="347421000000106">
+<displayName lang="en" type="PT">Community care</displayName>
+<displayName lang="en" type="FSN">Community care (regime/therapy)</displayName>
+</concept>
+<concept code="361721000000103">
+<displayName lang="en" type="PT">Provision of social services community based care package</displayName>
+<displayName lang="en" type="FSN">Provision of social services community based care package (procedure)</displayName>
+</concept>
+<concept code="401491000000101">
+<displayName lang="en" type="PT">Non NHS registered mental health nursing home/residential care</displayName>
+<displayName lang="en" type="FSN">Non National Health Service registered mental health nursing home/residential care (regime/therapy)</displayName>
+</concept>
+<concept code="431181000000104">
+<displayName lang="en" type="PT">Non NHS registered nursing home mental health care for older adults</displayName>
+<displayName lang="en" type="FSN">Non National Health Service registered nursing home mental health care for older adults (regime/therapy)</displayName>
+</concept>
+<concept code="466661000000101">
+<displayName lang="en" type="PT">NHS mental health nursing home/residential care</displayName>
+<displayName lang="en" type="FSN">National Health Service (NHS) mental health nursing home/residential care (regime/therapy)</displayName>
+<displayName lang="en" type="SY">National Health Service (NHS) mental health nursing home/residential care</displayName>
+</concept>
+<concept code="470521000000100">
+<displayName lang="en" type="PT">Non NHS residential mental health care - not in a mental nursing or registered home</displayName>
+<displayName lang="en" type="FSN">Non NHS residential mental health care - not in a mental nursing or registered home (regime/therapy)</displayName>
+</concept>
+<concept code="509091000000104">
+<displayName lang="en" type="PT">Notification of likely need for community care services under section 2 of the Community Care (Delayed Discharges etc) Act 2003</displayName>
+<displayName lang="en" type="FSN">Notification of likely need for community care services under section 2 of the Community Care (Delayed Discharges etc) Act 2003 (procedure)</displayName>
+<displayName lang="en" type="SY">Assessment notification under section 2 of the Community Care (Delayed Discharges etc) Act 2003</displayName>
+</concept>
+<concept code="509101000000107">
+<displayName lang="en" type="PT">Notification of discharge date under section 5 of the Community Care (Delayed Discharges etc) Act 2003</displayName>
+<displayName lang="en" type="FSN">Notification of discharge date under section 5 of the Community Care (Delayed Discharges etc) Act 2003 (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge notification under section 5 of the Community Care (Delayed Discharges etc) Act 2003</displayName>
+</concept>
+<concept code="781901000000106">
+<displayName lang="en" type="PT">Community care management</displayName>
+<displayName lang="en" type="FSN">Community care management (procedure)</displayName>
+</concept>
+<concept code="809441000000100">
+<displayName lang="en" type="PT">Referral to community multidisciplinary care team</displayName>
+<displayName lang="en" type="FSN">Referral to community multidisciplinary care team (procedure)</displayName>
+</concept>
+<concept code="854631000000101">
+<displayName lang="en" type="PT">Complex community care</displayName>
+<displayName lang="en" type="FSN">Complex community care (regime/therapy)</displayName>
+</concept>
+<concept code="889311000000109">
+<displayName lang="en" type="PT">Care home visit</displayName>
+<displayName lang="en" type="FSN">Care home visit (procedure)</displayName>
+</concept>
+<concept code="889331000000101">
+<displayName lang="en" type="PT">Care home visit for initial patient assessment</displayName>
+<displayName lang="en" type="FSN">Care home visit for initial patient assessment (procedure)</displayName>
+</concept>
+<concept code="889351000000108">
+<displayName lang="en" type="PT">Care home visit for follow-up patient review</displayName>
+<displayName lang="en" type="FSN">Care home visit for follow-up patient review (procedure)</displayName>
+</concept>
+<concept code="963091000000108">
+<displayName lang="en" type="PT">Request for minor housing adaptation</displayName>
+<displayName lang="en" type="FSN">Request for minor housing adaptation (procedure)</displayName>
+</concept>
+<concept code="963161000000101">
+<displayName lang="en" type="PT">Recommendation on major housing adaptation for Disabled Facilities Grant application</displayName>
+<displayName lang="en" type="FSN">Recommendation on major housing adaptation for Disabled Facilities Grant application (procedure)</displayName>
+</concept>
+<concept code="963201000000109">
+<displayName lang="en" type="PT">Request for Disabled Facilities Grant top up</displayName>
+<displayName lang="en" type="FSN">Request for Disabled Facilities Grant top up (procedure)</displayName>
+</concept>
+<concept code="983711000000104">
+<displayName lang="en" type="PT">Support for transitions at home and in community</displayName>
+<displayName lang="en" type="FSN">Support for transitions at home and in community (regime/therapy)</displayName>
+</concept>
+<concept code="990321000000101">
+<displayName lang="en" type="PT">Assessment of need for community care services under section 47 (1) National Health Service and Community Care Act 1990</displayName>
+<displayName lang="en" type="FSN">Assessment of need for community care services under section 47 (1) National Health Service and Community Care Act 1990 (procedure)</displayName>
+</concept>
+<concept code="990331000000104">
+<displayName lang="en" type="PT">Assessment of need for community care services under section 47 (2) National Health Service and Community Care Act 1990</displayName>
+<displayName lang="en" type="FSN">Assessment of need for community care services under section 47 (2) National Health Service and Community Care Act 1990 (procedure)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHCCancellationReasonCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.281">
+   <Description>
+            <p>A set of codes to support the issue of an NHS Continuing Healthcare cancellation notification.</p>
+         </Description>
+   <concept code="PD">
+      <displayName>The patient has died</displayName>
+   </concept>
+   <concept code="OCA">
+      <displayName>The patient wishes to make their own care arrangements</displayName>
+   </concept>
+   <concept code="MOA">
+      <displayName>The patient has moved out of area</displayName>
+   </concept>
+   <concept code="PWC">
+      <displayName>The patient has withdrawn consent to the assessment process</displayName>
+   </concept>
+</vocabulary>

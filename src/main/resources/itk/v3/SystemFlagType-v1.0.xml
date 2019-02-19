@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SystemFlagType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.327">
+   <Description>
+            <p>A vocabulary to support NHS 111 system generated flag types.</p>
+         </Description>
+   <concept code="TM">
+      <displayName>Patient has suffered trauma flag</displayName>
+   </concept>
+   <concept code="FR">
+      <displayName>Fire risk at incident location flag</displayName>
+   </concept>
+   <concept code="SC">
+      <displayName>Scene safe flag</displayName>
+   </concept>
+   <concept code="PL">
+      <displayName>Police in attendance or required at incident location flag</displayName>
+   </concept>
+   <concept code="TR">
+      <displayName>Patient is trapped flag</displayName>
+   </concept>
+</vocabulary>

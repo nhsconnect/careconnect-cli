@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DashboardMessageType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.310">
+   <Description>
+            <p>A set of codes to indicate the dashboard message type.</p>
+         </Description>
+   <concept code="AE">
+      <displayName>Accident and Emergency</displayName>
+   </concept>
+   <concept code="PMI">
+      <displayName>Patient Master Index</displayName>
+   </concept>
+   <concept code="OOHWIC">
+      <displayName>Out of Hours Walk In Centre</displayName>
+   </concept>
+   <concept code="INPAT">
+      <displayName>Inpatient</displayName>
+   </concept>
+   <concept code="DR">
+      <displayName>Disease Register</displayName>
+   </concept>
+</vocabulary>

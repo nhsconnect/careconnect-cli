@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NewbornBloodSpotScreeningTestProceduresSnCT" version="1.0"
+            status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the SNOMED CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes newborn blood spot screening test procedures. </p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK newborn blood spot screening test procedures subset with subset original id 61111000000134. </strong>
+               </p>
+               <p>
+                  <strong> NB: This subset ID, 61111000000134, has not yet been defined in a release of SNOMED CT.</strong>
+               </p>
+            </p>
+         </Description>
+   <concept code="314081000">
+      <displayName>Phenylketonuria screening test</displayName>
+   </concept>
+   <concept code="314090007">
+      <displayName>Sickle cell disease screening test</displayName>
+   </concept>
+   <concept code="314080004">
+      <displayName>Cystic fibrosis screening test</displayName>
+   </concept>
+   <concept code="400984005">
+      <displayName>Congenital hypothyroidism screening test</displayName>
+   </concept>
+   <concept code="428056008">
+      <displayName>Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test</displayName>
+   </concept>
+   <concept code="940221000000103">
+      <displayName>Maple syrup urine disease screening test</displayName>
+   </concept>
+   <concept code="940201000000107">
+      <displayName>Homocystinuria screening test</displayName>
+   </concept>
+   <concept code="940151000000102">
+      <displayName>Isovaleric acidaemia screening test</displayName>
+   </concept>
+   <concept code="940131000000109">
+      <displayName>Glutaric aciduria type 1 screening test</displayName>
+   </concept>
+</vocabulary>

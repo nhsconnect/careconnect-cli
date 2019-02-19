@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrRequestAckCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.101">
+   <Description>
+            <p>Assigned OID : 2.16.840.1.113883.2.1.3.2.4.17.101</p>
+            <p>
+               <b>Use of the codes</b>
+            </p>
+            <p>
+               <i>Positive Responses</i>
+            </p>
+            <p>When constructing a positive response to a received GP2GP Message no numeric error code is used, however the typeCode is used as follows:</p>
+            <p>
+               <tt>&amp;lt;acknowledgement typeCode = "AA"&amp;gt;</tt>
+            </p>
+            <p>In this case the ControlActEvent will not contain a 'reason' element</p>
+            <p>
+               <i>Negative Responses</i>
+            </p>
+            <p>When constructing a negative response to a received GP2GP Message the table of numeric codes in section 3 are available for use.</p>
+            <p>Here the Acknowledgement.typeCode is used as follows:</p>
+            <p>
+               <tt>&amp;lt;acknowledgement typeCode = "AE"&amp;gt;</tt>
+            </p>
+            <p>In addition the ControlActEvent.reason should be populated as follows (using the relevant code from the table, as highlighted in blue below):</p>
+         </Description>
+   <concept code="03">
+      <displayName>Record available but cannot be sent</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>record unavailable</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Record lost</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Patient not at surgery</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>GP2GP Messaging is not enabled on this system</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>The system's configuration prevents it from processing this message.</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>EHR Extract received without corresponding request.</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Failed to successfully generate EHR Extract.</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Failed to successfully integrate EHR Extract.</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Duplicate EHR Extract received.</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Unexpected condition.</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SealingStatus" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.158">
+   <Description>
+            <p>Indicates whether the information is sealed and what level of sealing is applied.</p>
+         </Description>
+   <concept code="0">
+      <displayName>Not sealed</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Sealed</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Sealed and locked</displayName>
+   </concept>
+</vocabulary>

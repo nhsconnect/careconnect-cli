@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SuspectedCongenitalAbnormalityType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.171">
+   <Description>
+            <p>
+               <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.171</p>
+               <p>Indicates if a congenital abnormality is suspected.</p>
+            </p>
+         </Description>
+   <concept code="N">
+      <displayName>No</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Uncertain - further review required</displayName>
+   </concept>
+   <concept code="Y">
+      <displayName>Yes</displayName>
+   </concept>
+</vocabulary>

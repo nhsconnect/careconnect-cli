@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DiagnosisTypeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the SNOMED CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes a diagnosis.</p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK <em>Diagnosis</em> subset with subset original id 1261000000136.</strong>
+               </p>
+            </p>
+         </Description>
+</vocabulary>

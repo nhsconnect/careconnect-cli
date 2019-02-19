@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Name/addressRepresentation" version="1.0" status="created"
+            id="2.16.840.1.113883.12.465">
+   <Description>This table contain codes for different name/address types and representations of the same name/address. e.g. I Ideographic etc. 
+					Table type: HL7</Description>
+   <concept code="A">
+      <displayName>Alphabetic (i.e., Default or some single-byte)</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Ideographic (i.e., Kanji)</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Phonetic (i.e., ASCII, Katakana, Hiragana, etc.)</displayName>
+   </concept>
+</vocabulary>

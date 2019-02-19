@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AllergyCode/Description" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.2">
+   <Description>Allergy Code/Description: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="Z88.0">
+      <displayName>Personal history of allergy to drugs medicaments and biological substances</displayName>
+   </concept>
+   <concept code="Z88.1">
+      <displayName>Personal history of allergy to penicillin</displayName>
+   </concept>
+   <concept code="Z88.2">
+      <displayName>Personal history of allergy to other antibiotic agents</displayName>
+   </concept>
+   <concept code="Z88.3">
+      <displayName>Personal history of allergy to sulfonamides</displayName>
+   </concept>
+   <concept code="Z88.4">
+      <displayName>Personal history of allergy to other anti-infective agents</displayName>
+   </concept>
+   <concept code="Z88.5">
+      <displayName>Personal history of allergy to anaesthetic agent</displayName>
+   </concept>
+   <concept code="Z88.6">
+      <displayName>Personal history of allergy to narcotic agent</displayName>
+   </concept>
+   <concept code="Z88.7">
+      <displayName>Personal history of allergy to analgesic agent</displayName>
+   </concept>
+   <concept code="Z88.8">
+      <displayName>Personal history of allergy to serum and vaccine</displayName>
+   </concept>
+   <concept code="Z88.9">
+      <displayName>Personal history of allergy to other drugs, medicaments and biological substances</displayName>
+   </concept>
+   <concept code="Z91.0">
+      <displayName>Personal history of allergy other than to drugs and biological substances</displayName>
+   </concept>
+</vocabulary>

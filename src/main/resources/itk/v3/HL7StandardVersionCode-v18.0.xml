@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HL7StandardVersionCode" version="18.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1">
+   <Description>
+            <p>Describes the version of HL7 V3 used to format the messages in a specific version of the MIM.</p>
+         </Description>
+   <concept code="V3NPfIT2.0">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT2.1">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT2.2">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT2.3">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.0">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.01">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.02">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.03">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.04">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.05">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.06">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.07">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.08">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.09">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT3.1.10">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.0.0">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.1">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.1.01">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.1.02">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.1.03">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.1.04">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT4.2.00">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT5.0">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT5.1">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT5.2">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT5.3">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="V3NPfIT5.4.00">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="3NPfIT5.5.00">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="3NPfIT6.1.00">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="3NPfIT6.1.01">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+   <concept code="3NPfIT5.5.01">
+      <displayName>Overall version description for UK use</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DosageChangeTypeSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the OID for the UK subset of <b>SnomedCT</b>, q.v.</p>
+            <p>Codes taken from the UK subset of SnomedCT representing that the dosage of an ongoing medication should be changed, e.g. from '1 tablet 3 times a day with food' to '2 tablets 3 times a day with food'.</p>
+            <p>Legend:</p>
+            <p>A code of TBA indicates that the SnCT code is not yet available.</p>
+            <p>+ after a code indicates that descendants of the code shall be used.</p>
+         </Description>
+   <concept code="395067002">
+      <displayName>optimisation of drug dosage (procedure)</displayName>
+   </concept>
+</vocabulary>

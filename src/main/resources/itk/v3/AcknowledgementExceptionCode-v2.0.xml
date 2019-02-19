@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AcknowledgementExceptionCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.32">
+   <Description>
+            <p>A code specifying the messaging error which has caused the message to be rejected by the receiver.      <p>The concepts defined by this code system are maintained externally by BT.  The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears.</p>
+            </p>
+         </Description>
+</vocabulary>

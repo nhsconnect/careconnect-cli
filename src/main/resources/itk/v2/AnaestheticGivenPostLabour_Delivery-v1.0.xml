@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AnaestheticGivenPostLabour/Delivery" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.4">
+   <Description>Anaesthetic Given Post Labour/Delivery: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>General anaesthetic, the administration by a doctor of an agent intended to produce unconsciousness</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Epidural or caudal anaesthetic, the injection of a local anaesthetic agent into the epidural space</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Spinal anaesthetic, the injection of a local anaesthetic agent into the subarachnoid space</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>General anaesthetic and epidural or caudal anaesthetic</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>General anaesthetic and spinal anaesthetic</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Epidural or caudal and spinal anaesthetic</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Anaesthetic other than in 1 to 6, or analgesic only</displayName>
+   </concept>
+</vocabulary>

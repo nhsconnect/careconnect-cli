@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EntityDeterminer" version="1.0" status="active"
+            id="2.16.840.1.113883.5.30">
+   <Description>
+            <p>This vocabulary contains a set of codes to distinguish whether any given Entity object represents a type of object  or specific one.<br/>
+            </p>
+         </Description>
+   <concept code="INSTANCE">
+      <displayName>specific</displayName>
+   </concept>
+   <concept code="KIND">
+      <displayName>described</displayName>
+   </concept>
+   <concept code="QUANTIFIED_KIND">
+      <displayName>described quantified</displayName>
+   </concept>
+</vocabulary>

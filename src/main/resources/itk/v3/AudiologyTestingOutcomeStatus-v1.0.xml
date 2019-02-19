@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AudiologyTestingOutcomeStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.466">
+   <Description>
+            <p>A set of codes to indicate the outcome of an audiology test, designed to measure the PCHI (Permanent Childhood Hearing Impairment) status.<br/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>No</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Yes - Confirmed PCHI bilateral</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Yes - Confirmed PCHI unilateral</displayName>
+   </concept>
+</vocabulary>

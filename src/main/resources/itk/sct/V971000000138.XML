@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Weight" type="Realm Concept" setId="68251000000131" version="19" id="971000000138" refId="999000971000000109" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="27113001">
+<displayName lang="en" type="PT">Body weight</displayName>
+<displayName lang="en" type="FSN">Body weight (observable entity)</displayName>
+<displayName lang="en-GB" type="SY">Weight</displayName>
+</concept>
+<concept code="364589006">
+<displayName lang="en" type="PT">Birth weight</displayName>
+<displayName lang="en" type="FSN">Birth weight (observable entity)</displayName>
+</concept>
+</vocabulary>

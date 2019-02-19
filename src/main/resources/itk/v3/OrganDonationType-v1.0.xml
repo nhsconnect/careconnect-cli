@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OrganDonationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.211">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary - Organ Donation Type. Values are aligned to those of the NHS Data Dictionary. <br/>
+            </p>
+         </Description>
+</vocabulary>

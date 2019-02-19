@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="P2PActType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.202">
+   <Description>
+            <span style="width: 100%">Used to identify the type of act used in common point to point messages.</span>
+         </Description>
+   <concept code="DTSPI">
+      <displayName>Data Transfer Service Payload Information</displayName>
+   </concept>
+   <concept code="DTSPB">
+      <displayName>Data Transfer Service Payload Body</displayName>
+   </concept>
+</vocabulary>

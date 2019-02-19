@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CarePlanAgreement" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.425">
+   <Description>
+            <p>A vocabulary detailing whether a person is in agreement with the plan of care which has been created for them.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Patient agrees to care support need</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Patient disagrees with care support need</displayName>
+   </concept>
+</vocabulary>

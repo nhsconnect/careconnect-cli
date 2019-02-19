@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryResponse" version="5.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.101.11.1">
+   <Description>
+            <p>A code classifying the general nature of a response to a query and carried by the QueryAck.queryResponseCode.</p>
+         </Description>
+   <concept code="ID">
+      <displayName>Issue detected</displayName>
+   </concept>
+   <concept code="NF">
+      <displayName>No data found</displayName>
+   </concept>
+   <concept code="OK">
+      <displayName>Data found</displayName>
+   </concept>
+</vocabulary>

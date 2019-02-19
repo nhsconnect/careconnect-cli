@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Employment Status" type="Realm Concept" setId="67861000000131" version="6" id="6921000000134" refId="999001511000000104" memberCount="57" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="73438004">
+<displayName lang="en" type="PT">Unemployed</displayName>
+<displayName lang="en" type="FSN">Unemployed (finding)</displayName>
+<displayName lang="en" type="SY">Out of work</displayName>
+<displayName lang="en" type="SY">U/E - Unemployed</displayName>
+<displayName lang="en" type="SY">UE - Unemployed</displayName>
+<displayName lang="en" type="SY">Without employment</displayName>
+</concept>
+<concept code="105493001">
+<displayName lang="en" type="PT">Retired</displayName>
+<displayName lang="en" type="FSN">Retired, life event (finding)</displayName>
+<displayName lang="en" type="SY">RT - Retired</displayName>
+<displayName lang="en" type="SY">Retired, life event</displayName>
+</concept>
+<concept code="105494007">
+<displayName lang="en" type="PT">Early retirement</displayName>
+<displayName lang="en" type="FSN">Early retirement, life event (finding)</displayName>
+<displayName lang="en" type="SY">Early retirement, life event</displayName>
+<displayName lang="en" type="SY">Retired early</displayName>
+</concept>
+<concept code="105495008">
+<displayName lang="en" type="PT">Forced retirement</displayName>
+<displayName lang="en" type="FSN">Forced retirement, life event (finding)</displayName>
+<displayName lang="en" type="SY">Forced retirement, life event</displayName>
+</concept>
+<concept code="105496009">
+<displayName lang="en" type="PT">Dismissed from job</displayName>
+<displayName lang="en" type="FSN">Dismissed from job (finding)</displayName>
+<displayName lang="en" type="SY">Discharged from job</displayName>
+<displayName lang="en" type="SY">Dismissal from employment</displayName>
+<displayName lang="en" type="SY">Redundancy</displayName>
+<displayName lang="en" type="SY">Sacked from job</displayName>
+</concept>
+<concept code="105498005">
+<displayName lang="en" type="PT">Voluntarily redundant</displayName>
+<displayName lang="en" type="FSN">Voluntarily redundant (finding)</displayName>
+<displayName lang="en" type="SY">Voluntary redundancy</displayName>
+</concept>
+<concept code="160895006">
+<displayName lang="en" type="PT">Stopped work</displayName>
+<displayName lang="en" type="FSN">Stopped work (finding)</displayName>
+</concept>
+<concept code="160898008">
+<displayName lang="en" type="PT">Medically retired</displayName>
+<displayName lang="en" type="FSN">Medically retired, life event (finding)</displayName>
+<displayName lang="en" type="SY">Ill health retirement</displayName>
+<displayName lang="en" type="SY">Medically retired, life event</displayName>
+<displayName lang="en" type="SY">Retired on medical grounds</displayName>
+<displayName lang="en" type="SY">Retirement on medical grounds</displayName>
+</concept>
+<concept code="160899000">
+<displayName lang="en" type="PT">Recently unemployed</displayName>
+<displayName lang="en" type="FSN">Recently unemployed (finding)</displayName>
+</concept>
+<concept code="160900005">
+<displayName lang="en" type="PT">Chronic unemployment</displayName>
+<displayName lang="en" type="FSN">Chronic unemployment (finding)</displayName>
+</concept>
+<concept code="160901009">
+<displayName lang="en" type="PT">Made redundant</displayName>
+<displayName lang="en" type="FSN">Made redundant (finding)</displayName>
+<displayName lang="en" type="SY">Redundant</displayName>
+</concept>
+<concept code="160902002">
+<displayName lang="en" type="PT">Works after retirement</displayName>
+<displayName lang="en" type="FSN">Works after retirement (finding)</displayName>
+</concept>
+<concept code="160906004">
+<displayName lang="en" type="PT">Self-employed</displayName>
+<displayName lang="en" type="FSN">Self-employed (finding)</displayName>
+<displayName lang="en" type="SY">Works for self</displayName>
+</concept>
+<concept code="160907008">
+<displayName lang="en" type="PT">On Government training scheme</displayName>
+<displayName lang="en" type="FSN">On Government training scheme (finding)</displayName>
+</concept>
+<concept code="160908003">
+<displayName lang="en" type="PT">Retired on investment income</displayName>
+<displayName lang="en" type="FSN">Retired on investment income, life event (finding)</displayName>
+<displayName lang="en" type="SY">Retired on investment income, life event</displayName>
+</concept>
+<concept code="160920006">
+<displayName lang="en" type="PT">Works away from home</displayName>
+<displayName lang="en" type="FSN">Works away from home (finding)</displayName>
+</concept>
+<concept code="224363007">
+<displayName lang="en" type="PT">Employed</displayName>
+<displayName lang="en" type="FSN">Employed (finding)</displayName>
+<displayName lang="en" type="SY">In employment</displayName>
+<displayName lang="en" type="SY">In work</displayName>
+</concept>
+<concept code="224364001">
+<displayName lang="en" type="PT">In paid casual work</displayName>
+<displayName lang="en" type="FSN">In paid casual work (finding)</displayName>
+</concept>
+<concept code="224365000">
+<displayName lang="en" type="PT">In paid seasonal work</displayName>
+<displayName lang="en" type="FSN">In paid seasonal work (finding)</displayName>
+</concept>
+<concept code="224366004">
+<displayName lang="en" type="PT">In sheltered work</displayName>
+<displayName lang="en" type="FSN">In sheltered work (finding)</displayName>
+<displayName lang="en" type="SY">Attends sheltered work facility</displayName>
+</concept>
+<concept code="224367008">
+<displayName lang="en" type="PT">On work experience</displayName>
+<displayName lang="en" type="FSN">On work experience (finding)</displayName>
+</concept>
+<concept code="224368003">
+<displayName lang="en" type="PT">On a work placement scheme</displayName>
+<displayName lang="en" type="FSN">On a work placement scheme (finding)</displayName>
+<displayName lang="en" type="SY">On a work opportunity scheme</displayName>
+<displayName lang="en" type="SY">On a work-related project scheme</displayName>
+</concept>
+<concept code="224369006">
+<displayName lang="en" type="PT">On a youth training scheme</displayName>
+<displayName lang="en" type="FSN">On a youth training scheme (finding)</displayName>
+</concept>
+<concept code="224370007">
+<displayName lang="en" type="PT">On a government work scheme</displayName>
+<displayName lang="en" type="FSN">On a government work scheme (finding)</displayName>
+</concept>
+<concept code="224371006">
+<displayName lang="en" type="PT">On a pathway to employment scheme</displayName>
+<displayName lang="en" type="FSN">On a pathway to employment scheme (finding)</displayName>
+</concept>
+<concept code="224372004">
+<displayName lang="en" type="PT">Does voluntary work</displayName>
+<displayName lang="en" type="FSN">Does voluntary work (finding)</displayName>
+<displayName lang="en" type="SY">Voluntary work</displayName>
+</concept>
+<concept code="224379008">
+<displayName lang="en" type="PT">Semi-retired</displayName>
+<displayName lang="en" type="FSN">Semi-retired (finding)</displayName>
+</concept>
+<concept code="224410000">
+<displayName lang="en" type="PT">Works away part of week</displayName>
+<displayName lang="en" type="FSN">Works away part of week (finding)</displayName>
+</concept>
+<concept code="224411001">
+<displayName lang="en" type="PT">Works away most of week</displayName>
+<displayName lang="en" type="FSN">Works away most of week (finding)</displayName>
+</concept>
+<concept code="224456008">
+<displayName lang="en" type="PT">On leave from work</displayName>
+<displayName lang="en" type="FSN">On leave from work (finding)</displayName>
+</concept>
+<concept code="224457004">
+<displayName lang="en" type="PT">On maternity leave</displayName>
+<displayName lang="en" type="FSN">On maternity leave (finding)</displayName>
+<displayName lang="en" type="SY">Maternity leave</displayName>
+</concept>
+<concept code="224458009">
+<displayName lang="en" type="PT">On paternity leave</displayName>
+<displayName lang="en" type="FSN">On paternity leave (finding)</displayName>
+</concept>
+<concept code="224459001">
+<displayName lang="en" type="PT">On sick leave from work</displayName>
+<displayName lang="en" type="FSN">On sick leave from work (finding)</displayName>
+<displayName lang="en" type="SY">On sickness absence from work</displayName>
+</concept>
+<concept code="224460006">
+<displayName lang="en" type="PT">On compassionate leave</displayName>
+<displayName lang="en" type="FSN">On compassionate leave (finding)</displayName>
+</concept>
+<concept code="224461005">
+<displayName lang="en" type="PT">On unpaid leave</displayName>
+<displayName lang="en" type="FSN">On unpaid leave (finding)</displayName>
+</concept>
+<concept code="224462003">
+<displayName lang="en" type="PT">Suspended from work</displayName>
+<displayName lang="en" type="FSN">Suspended from work (finding)</displayName>
+</concept>
+<concept code="224472000">
+<displayName lang="en" type="PT">Leaving job</displayName>
+<displayName lang="en" type="FSN">Leaving job (finding)</displayName>
+</concept>
+<concept code="224473005">
+<displayName lang="en" type="PT">About to retire from job</displayName>
+<displayName lang="en" type="FSN">About to retire from job (finding)</displayName>
+<displayName lang="en" type="SY">Retiring soon</displayName>
+</concept>
+<concept code="224474004">
+<displayName lang="en" type="PT">Unfair dismissal from job</displayName>
+<displayName lang="en" type="FSN">Unfair dismissal from job (finding)</displayName>
+</concept>
+<concept code="266956001">
+<displayName lang="en" type="PT">Loss of job</displayName>
+<displayName lang="en" type="FSN">Loss of job (finding)</displayName>
+<displayName lang="en" type="SY">Lost job</displayName>
+</concept>
+<concept code="266962006">
+<displayName lang="en" type="PT">Returned to work</displayName>
+<displayName lang="en" type="FSN">Returned to work (finding)</displayName>
+<displayName lang="en" type="SY">RTW - Returned to work</displayName>
+</concept>
+<concept code="276059007">
+<displayName lang="en" type="PT">Giving up work</displayName>
+<displayName lang="en" type="FSN">Giving up work (finding)</displayName>
+</concept>
+<concept code="276061003">
+<displayName lang="en" type="PT">Unpaid work</displayName>
+<displayName lang="en" type="FSN">Unpaid work (finding)</displayName>
+</concept>
+<concept code="276062005">
+<displayName lang="en" type="PT">Returned to work after illness</displayName>
+<displayName lang="en" type="FSN">Returned to work after illness (finding)</displayName>
+</concept>
+<concept code="276063000">
+<displayName lang="en" type="PT">Returned to work after family</displayName>
+<displayName lang="en" type="FSN">Returned to work after family (finding)</displayName>
+</concept>
+<concept code="276065007">
+<displayName lang="en" type="PT">Returned to work after retired</displayName>
+<displayName lang="en" type="FSN">Returned to work after retired (finding)</displayName>
+</concept>
+<concept code="307096004">
+<displayName lang="en" type="PT">On a voluntary sector employment scheme</displayName>
+<displayName lang="en" type="FSN">On a voluntary sector employment scheme (finding)</displayName>
+</concept>
+<concept code="307110007">
+<displayName lang="en" type="PT">Changing job</displayName>
+<displayName lang="en" type="FSN">Changing job (finding)</displayName>
+</concept>
+<concept code="307112004">
+<displayName lang="en" type="PT">On secondment from work</displayName>
+<displayName lang="en" type="FSN">On secondment from work (finding)</displayName>
+</concept>
+<concept code="406156006">
+<displayName lang="en" type="PT">In paid employment</displayName>
+<displayName lang="en" type="FSN">In paid employment (finding)</displayName>
+</concept>
+<concept code="440337002">
+<displayName lang="en" type="PT">Temporarily unable to perform work activities due to medical condition</displayName>
+<displayName lang="en" type="FSN">Temporarily unable to perform work activities due to medical condition (finding)</displayName>
+</concept>
+<concept code="440584001">
+<displayName lang="en" type="PT">Permanently unable to perform work activities due to medical condition</displayName>
+<displayName lang="en" type="FSN">Permanently unable to perform work activities due to medical condition (finding)</displayName>
+</concept>
+<concept code="700149001">
+<displayName lang="en" type="PT">On parental leave</displayName>
+<displayName lang="en" type="FSN">On parental leave (finding)</displayName>
+</concept>
+<concept code="335881000000104">
+<displayName lang="en" type="PT">In supported work</displayName>
+<displayName lang="en" type="FSN">In supported work (finding)</displayName>
+</concept>
+<concept code="342301000000105">
+<displayName lang="en" type="PT">Permanently unable to work</displayName>
+<displayName lang="en" type="FSN">Permanently unable to work (finding)</displayName>
+</concept>
+<concept code="342311000000107">
+<displayName lang="en" type="PT">Temporarily unable to work</displayName>
+<displayName lang="en" type="FSN">Temporarily unable to work (finding)</displayName>
+</concept>
+<concept code="762061000000104">
+<displayName lang="en" type="PT">In therapeutic work</displayName>
+<displayName lang="en" type="FSN">In therapeutic work (finding)</displayName>
+</concept>
+</vocabulary>

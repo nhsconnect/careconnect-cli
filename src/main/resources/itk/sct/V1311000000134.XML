@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Administration of medication" type="Realm Concept" setId="68931000000134" version="18" id="1311000000134" refId="999000231000000102" memberCount="38" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="18629005">
+<displayName lang="en" type="PT">Administration of medication</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament</displayName>
+<displayName lang="en" type="SY">Giving medication</displayName>
+<displayName lang="en" type="SY">Medication administration</displayName>
+<displayName lang="en" type="SY">Medication administration treatments and procedures</displayName>
+<displayName lang="en" type="SY">Medication treatment</displayName>
+</concept>
+<concept code="243132000">
+<displayName lang="en" type="PT">Inhaled drug administration</displayName>
+<displayName lang="en" type="FSN">Inhaled drug administration (procedure)</displayName>
+<displayName lang="en" type="SY">Medication administration: inhalation</displayName>
+</concept>
+<concept code="386350007">
+<displayName lang="en" type="PT">Administration of drug or medicament via otic route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via otic route (procedure)</displayName>
+</concept>
+<concept code="386351006">
+<displayName lang="en" type="PT">Administration of drug or medicament via enteral tube</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via enteral tube (procedure)</displayName>
+</concept>
+<concept code="386352004">
+<displayName lang="en" type="PT">Administration of drug or medicament via epidural route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via epidural route (procedure)</displayName>
+<displayName lang="en" type="SY">Medication administration: epidural</displayName>
+</concept>
+<concept code="386353009">
+<displayName lang="en" type="PT">Administration of drug or medicament via ophthalmic route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via ophthalmic route (procedure)</displayName>
+</concept>
+<concept code="386355002">
+<displayName lang="en" type="PT">Medication administration: intradermal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intradermal route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via intradermal route</displayName>
+</concept>
+<concept code="386356001">
+<displayName lang="en" type="PT">Medication administration: intramuscular</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intramuscular route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via intramuscular route</displayName>
+<displayName lang="en" type="SY">Medication administration: intramuscular (IM)</displayName>
+</concept>
+<concept code="386357005">
+<displayName lang="en" type="PT">Medication administration: intraosseous</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intraosseous route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via intraosseous route</displayName>
+</concept>
+<concept code="386358000">
+<displayName lang="en" type="PT">Medication administration: intravenous</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intravenous route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via intravenous route</displayName>
+<displayName lang="en" type="SY">Medication administration: intravenous (IV)</displayName>
+</concept>
+<concept code="386359008">
+<displayName lang="en" type="PT">Medication administration: oral</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via oral route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via oral route</displayName>
+</concept>
+<concept code="386360003">
+<displayName lang="en" type="PT">Medication administration: rectal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via rectal route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via rectal route</displayName>
+</concept>
+<concept code="386362006">
+<displayName lang="en" type="PT">Medication administration: subcutaneous</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via subcutaneous route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via subcutaneous route</displayName>
+</concept>
+<concept code="386363001">
+<displayName lang="en" type="PT">Medication administration: vaginal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via vaginal route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via vaginal route</displayName>
+</concept>
+<concept code="386364007">
+<displayName lang="en" type="PT">Medication administration: ventricular reservoir</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via ventricular reservoir (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via ventricular reservoir</displayName>
+</concept>
+<concept code="406172003">
+<displayName lang="en" type="PT">Medication administration: nasal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via nasal route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via nasal route</displayName>
+<displayName lang="en" type="SY">Intranasal administration of therapeutic substance</displayName>
+</concept>
+<concept code="406188003">
+<displayName lang="en" type="PT">Medication administration: intrathecal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intrathecal route (procedure)</displayName>
+<displayName lang="en" type="SY">Administration of drug or medicament via intrathecal route</displayName>
+</concept>
+<concept code="418207003">
+<displayName lang="en" type="PT">Treatment administration by irrigation</displayName>
+<displayName lang="en" type="FSN">Treatment administration by irrigation (procedure)</displayName>
+</concept>
+<concept code="428952008">
+<displayName lang="en" type="PT">Intermittent subcutaneous infusion of therapeutic substance</displayName>
+<displayName lang="en" type="FSN">Intermittent subcutaneous infusion of therapeutic substance (procedure)</displayName>
+</concept>
+<concept code="429624006">
+<displayName lang="en" type="PT">Intermittent intravenous infusion of therapeutic substance</displayName>
+<displayName lang="en" type="FSN">Intermittent intravenous infusion of therapeutic substance (procedure)</displayName>
+</concept>
+<concept code="431464005">
+<displayName lang="en" type="PT">Administration of substance into bladder via intravesical route</displayName>
+<displayName lang="en" type="FSN">Administration of substance into bladder via intravesical route (procedure)</displayName>
+</concept>
+<concept code="431465006">
+<displayName lang="en" type="PT">Administration of substance via nasogastric route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via nasogastric route (procedure)</displayName>
+</concept>
+<concept code="431673005">
+<displayName lang="en" type="PT">Administration of substance via gastric stoma</displayName>
+<displayName lang="en" type="FSN">Administration of substance via gastric stoma (procedure)</displayName>
+</concept>
+<concept code="431695009">
+<displayName lang="en" type="PT">Administration of drug or medicament to skin via topical route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament to skin via topical route (procedure)</displayName>
+</concept>
+<concept code="431952007">
+<displayName lang="en" type="PT">Administration of substance via buccal route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via buccal route (procedure)</displayName>
+</concept>
+<concept code="432021006">
+<displayName lang="en" type="PT">Administration of substance via intracavernous route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via intracavernous route (procedure)</displayName>
+</concept>
+<concept code="432054008">
+<displayName lang="en" type="PT">Infusion of drug or medicament via intravenous route</displayName>
+<displayName lang="en" type="FSN">Infusion of drug or medicament via intravenous route (procedure)</displayName>
+</concept>
+<concept code="432080009">
+<displayName lang="en" type="PT">Administration of substance via intraspinal route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via intraspinal route (procedure)</displayName>
+</concept>
+<concept code="432844008">
+<displayName lang="en" type="PT">Administration of substance via gingival route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via gingival route (procedure)</displayName>
+</concept>
+<concept code="432907007">
+<displayName lang="en" type="PT">Administration of substance via urethral route</displayName>
+<displayName lang="en" type="FSN">Administration of substance via urethral route (procedure)</displayName>
+</concept>
+<concept code="432977006">
+<displayName lang="en" type="PT">Administration of drug or medicament via intraarterial route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intraarterial route (procedure)</displayName>
+</concept>
+<concept code="433205004">
+<displayName lang="en" type="PT">Administration of drug or medicament via intrapleural route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via intrapleural route (procedure)</displayName>
+</concept>
+<concept code="433215005">
+<displayName lang="en" type="PT">Administration of drug or medicament by intravenous push</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament by intravenous push (procedure)</displayName>
+</concept>
+<concept code="433853007">
+<displayName lang="en" type="PT">Infusion of drug or medicament via intravenous drip</displayName>
+<displayName lang="en" type="FSN">Infusion of drug or medicament via intravenous drip (procedure)</displayName>
+</concept>
+<concept code="228611000000105">
+<displayName lang="en" type="PT">Transdermal administration of therapeutic substance</displayName>
+<displayName lang="en" type="FSN">Transdermal administration of therapeutic substance (procedure)</displayName>
+</concept>
+<concept code="801351000000105">
+<displayName lang="en" type="PT">Continuous intravenous infusion of therapeutic substance</displayName>
+<displayName lang="en" type="FSN">Continuous intravenous infusion of therapeutic substance (procedure)</displayName>
+</concept>
+<concept code="801361000000108">
+<displayName lang="en" type="PT">Continuous subcutaneous infusion of therapeutic substance</displayName>
+<displayName lang="en" type="FSN">Continuous subcutaneous infusion of therapeutic substance (procedure)</displayName>
+</concept>
+<concept code="867251000000108">
+<displayName lang="en" type="PT">Administration of drug or medicament via sublingual route</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via sublingual route (procedure)</displayName>
+</concept>
+</vocabulary>

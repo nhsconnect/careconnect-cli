@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HealthSpaceBusinessSectionType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.175">
+   <Description>
+            <p>Indicates the HealthSpace business section heading which the text and coded entry are categorised by.</p>
+         </Description>
+   <concept code="PACO">
+      <displayName>Patient Comments</displayName>
+   </concept>
+   <concept code="DTRQ">
+      <displayName>Dietary Requirements</displayName>
+   </concept>
+   <concept code="FAPR">
+      <displayName>Faith Preferences</displayName>
+   </concept>
+   <concept code="DSRQ">
+      <displayName>Disability Requirements</displayName>
+   </concept>
+</vocabulary>

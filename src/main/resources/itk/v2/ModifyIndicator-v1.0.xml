@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ModifyIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.12.395">
+   <Description>This table specifies whether the subscription is new or is being modified.
+					Table type: HL7</Description>
+   <concept code="M">
+      <displayName>Modified Subscription</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>New Subscription</displayName>
+   </concept>
+</vocabulary>

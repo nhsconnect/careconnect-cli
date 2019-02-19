@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Allergy Propensity" type="Realm Concept" setId="68461000000133" version="19" id="1101000000130" refId="999000291000000101" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="414285001">
+<displayName lang="en" type="PT">Food allergy</displayName>
+<displayName lang="en" type="FSN">Food allergy (disorder)</displayName>
+</concept>
+<concept code="416098002">
+<displayName lang="en" type="PT">Drug allergy</displayName>
+<displayName lang="en" type="FSN">Drug allergy (disorder)</displayName>
+<displayName lang="en" type="SY">Allergy to drug</displayName>
+<displayName lang="en" type="SY">Medication allergy</displayName>
+<displayName lang="en" type="SY">Medicine allergy</displayName>
+</concept>
+<concept code="419199007">
+<displayName lang="en" type="PT">Allergy to substance</displayName>
+<displayName lang="en" type="FSN">Allergy to substance (disorder)</displayName>
+</concept>
+</vocabulary>

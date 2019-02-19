@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="IntendedManagement" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.51">
+   <Description>Intended Management: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>PATIENT to stay in hospital for at least one night</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>PATIENT not to stay in hospital overnight</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>PATIENT to be admitted for a planned sequence of admissions each involving at least one overnight stay</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>PATIENT to be admitted for a planned sequence of admissions which do not involve an overnight stay</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>PATIENT to be admitted regularly for a planned sequence of nights who returns home for the remainder of the 24 hour period</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

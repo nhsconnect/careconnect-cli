@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="StatusDisplayValue" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.134">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.134</p>
+            <p>This describes the coded Valid Status values for release 3 are listed. In brackets are the status meaning values they relate to.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Requested</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Eligible</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Not Eligible</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Do Not Provide</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Unable to Fulfil at this time</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Booked</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Cancel, No Longer Required</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>No Longer Required</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Resolved</displayName>
+   </concept>
+</vocabulary>

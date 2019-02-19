@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PatientClass" version="1.0" status="created" id="2.16.840.1.113883.12.4">
+   <Description>A set of codes used by systems to categorize patients by site.  It does not have a consistent industry-wide definition.  It is subject to site specific variations.
+					Table type: User</Description>
+   <concept code="B">
+      <displayName>Obstetrics</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Commercial Account</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>Emergency</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Inpatient</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not Applicable</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Outpatient</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Preadmit</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Recurring patient</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unknown</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Waiting List</displayName>
+   </concept>
+</vocabulary>

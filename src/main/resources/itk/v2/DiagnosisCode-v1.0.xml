@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DiagnosisCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.51">
+   <Description>This contains the primary diagnosis code for billing purposes.  ICD9 CM is assumed for all diagnosis codes. ICD10 can also be used. Table type: User</Description>
+</vocabulary>

@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oids>
+   <oid oid="1.0.3166.1.2.3" name="ISOCountryCode" description="ISOCountryCode"/>
+   <oid oid="1.2.826.0.1285.0" name="Root OID of the NHS Spine Directory Service"
+        description="Identifiers of People, Roles, Organisations, Devices etc. held on the NHS Spine Directory Service."/>
+   <oid oid="1.2.826.0.1285.0.1.10" name="NHS SDS Organisation Id"
+        description="Organisation Id."/>
+   <oid oid="1.2.826.0.1285.0.2.0.65" name="NHS SDS"
+        description="User's Unique Identifier."/>
+   <oid oid="1.2.826.0.1285.0.2.0.67" name="NHS SDS" description="Role Profile Code."/>
+   <oid oid="1.2.826.0.1285.0.2.0.107" name="NHS SDS"
+        description="Accredited System Identifier."/>
+   <oid oid="1.2.826.0.1285.0.2.0.109" name="NHS SDS" description="Workgroups."/>
+   <oid oid="1.2.826.0.1285.0.2.1.54" name="NHS SDS"
+        description="NACS Practitioner Code."/>
+   <oid oid="1.2.826.0.1285.0.2.1.104" name="NHS SDS" description="Job Role Id."/>
+   <oid oid="2.16.840.1.113883.1.11.11610" name="x_ActRelationshipDocument"
+        description="x_ActRelationshipDocument"/>
+   <oid oid="2.16.840.1.113883.1.11.16100" name="PlaceEntityType"
+        description="PlaceEntityType"/>
+   <oid oid="2.16.840.1.113883.1.11.16926" name="x_BasicConfidentialityKind"
+        description="x_BasicConfidentialityKind"/>
+   <oid oid="2.16.840.1.113883.1.11.19313" name="RoleClassAssociative"
+        description="RoleClassAssociative"/>
+   <oid oid="2.16.840.1.113883.1.11.19368" name="x_DocumentSubject"
+        description="x_DocumentSubject"/>
+   <oid oid="2.16.840.1.113883.1.11.19563" name="PersonalRelationshipRoleType"
+        description="PersonalRelationshipRoleType vocabulary to describe the relationship between the patient and the named subject person."/>
+   <oid oid="2.16.840.1.113883.1.11.19600" name="x_EncounterParticipant"
+        description="x_EncounterParticipant"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2" name="NPfIT"
+        description="Code that has been allocated by HL7 UK to NPfIT"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.1" name="eBS Unique Booking Reference Numbers"
+        description="Identifiers used by the eBooking Service to identify each Service Request."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.2" name="eBS Clinics"
+        description="Codes used by the eBooking Service to identify the 'clinics' that may make appointment slots available for use by the Service."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.3" name="NHAIS Temporary NHS Numbers"
+        description="Temporary identifiers of patients in the UK National Health Service that are issued by an NHAIS registration authority."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.4" name="PDS Temporary NHS Numbers"
+        description="Temporary identifiers of patients in the UK National Health Service that are issued by PDS. [Deprecated from MIM v3.1.09 - any NHS numbers issued by PDS shall use OID 2.16.840.1.113883.2.1.4.1]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.5" name="NHAIS system user IDs"
+        description="Identifiers of registered NHAIS users."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.6" name="NHAIS cyphers"
+        description="NHAIS cyphers."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.7" name="PDS Request Response Codes"
+        description="Types of successful PDS Query Responses. [Deprecated from MIM v3.0 - use 2.16.840.1.113883.2.1.3.2.4.17.42 instead]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.8" name="National Pharmacy code"
+        description="Identifiers used to identify pharmacies. [Deprecated from MIM v3.1.10 - use NHS OCS Organisation Codes OID 2.16.840.1.113883.2.1.4.3 instead]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.9" name="Old format NHS Numbers"
+        description="Identifiers of patients in the UK National Health Service that have been replaced by the current 10 digit numbers."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.10" name="NPfIT Messaging Endpoint ids"
+        description="Sending and Receiving Business Applications for NPfIT messages. [Deprecated from MIM v3.0 when SDS identifiers will be used]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.11" name="NHS SDS"
+        description="Identifiers of People, Roles, Organisations, Devices etc. held on the NHS Spine Directory Service. [Deprecated from MIM v3.1.03]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.12" name="NPfIT HL7 artefacts"
+        description="Identifiers for HL7 artefacts created by NPfIT. These include Trigger Events, Interactions, RMIMs, Example Messages etc."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.13" name="Legitimate Relationships"
+        description="Identifiers of the type of a Legitimate Relationship. [Deprecated from MIM v3.0 - use 2.16.840.1.113883.2.1.3.2.4.16.11 instead]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.14" name="ClinicalTermsReadV3"
+        description="Version 3 of the Read Codes, commonly known as Clinical Terms Version 3."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.15" name="SnomedCT"
+        description="UK Edition of SNOMED Clinical Terms. [Deprecated title SnomedCTUK]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.15.1" name="CompositionalGrammarStatementSnCT"
+        description="Compositional Grammar Statement"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16" name="NHS Data Dictionary Root OID"
+        description="Definitions and coding of data items within the NHS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.1" name="InformationSensitivity"
+        description="The sensitivity of patient information on PDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.2" name="Consent"
+        description="A persons consent to something (e.g. access to their information, organ donation)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.4" name="CorrespondenceCode"
+        description="Flags whether correspondence to be copied to person."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.5" name="DeathNotification"
+        description="The sources of a death notification relating to a patient."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.6" name="EthnicCategory"
+        description="A person's ethnic category (as perceived by themselves)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.7" name="HealthSpaceRegistration"
+        description="Possible statuses of a person's Health Space registration."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.8" name="Interpretation"
+        description="Someone's interpretation of the normality of a clinical finding. Originally issued with OID 2.16.840.1.113883.2.1.6.5 by PMIP."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.11" name="LRType"
+        description="Legitimate Relationship types [this OID supersedes 2.16.840.1.113883.2.1.3.2.4.13]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.12" name="NhaisRegistration"
+        description="Indicates that the patient has no current NHAIS posting."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.13" name="NOKCode"
+        description="Flags whether the person is next of kin or not."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.14" name="PersonalCareRole"
+        description="A person's roles in the care of an individual patient."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.15" name="PersonRelationshipType"
+        description="Relationships between one person and another."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.16" name="PreferredContactmethod"
+        description="Preferred methods of contacting people."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.17"
+        name="PreferredWrittenCommunicationFormat"
+        description="A person's preferred written communication format."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.18" name="ReasonForApptCancel"
+        description="Reason why an appointment was cancelled."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.19" name="ReasonForDna"
+        description="Reasons why a person did not attend an appointment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.20" name="RegisteringAuthorityType"
+        description="Types of registering authority."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.21" name="ReligiousAffiliation"
+        description="Types of personal religious affiliations."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.22" name="SCReasonCode"
+        description="Reasons why a Legitimate Relationship status may change."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.23" name="Section117AppliesFlag"
+        description="Whether section 117 of the MHA applies to this summary."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.24" name="ServiceTypeRequested"
+        description="Types of service requested by referrers."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.25" name="Sex"
+        description="The administrative sex of a person."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.26" name="SupervisedDischargeFlag"
+        description="Whether it was a supervised discharge or not."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.27" name="CancellationReason"
+        description="Why a prescription or prescription item was cancelled."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.28" name="DispenseReturnReason"
+        description="Why a prescription was returned rather than dispensed."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.29" name="DispensingEndorsement"
+        description="The Dispensing Endorsement types a dispenser may use."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.30" name="MedicationChargePayment"
+        description="Values in ETP message codes table 14."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.31" name="NotDispensedReason"
+        description="Why a prescription item was not dispensed."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.32" name="PrescriberEndorsement"
+        description="Endorsement types a prescriber may apply to a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.33" name="PrescriptionChargeExemption"
+        description="Why someone need not pay prescription charges."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.34"
+        name="PrescriptionReleaseRejectionReason"
+        description="Reasons for rejecting a request to release a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.35" name="PrescriptionStatus"
+        description="Statuses of a prescription or an item on a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.36" name="PrescriptionTreatmentType"
+        description="The management reasons for a prescription being issued."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.37" name="ReimbursementRejectionReason"
+        description="Reasons for rejecting reimbursement claims."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.38" name="TransportNeed"
+        description="Type of transport requested for discharge."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.39" name="InterpreterRequiredIndicator"
+        description="Whether an interpreter is required during encounters with the patient."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.40" name="DischargeDestination"
+        description="The destination of the patient on discharge."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.41" name="DischargeMethod"
+        description="How a patient was discharged."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.42" name="LegalStatusClassification"
+        description="This vocabulary identifies the statutory classification under the Mental Health Act 1983 (England and Wales) under which an individual is sectioned."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.43" name="AdministrativeCategoryCode"
+        description="Identifies if a patient is required to pay for treatment provided within a particular activity or for transport."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.44" name="UkInternalCode"
+        description="A unique code representing a constituent internal part of the United Kingdom of Great Britain and Northern Ireland."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.45" name="CDAPersonRelationshipType"
+        description="A relationship between one person and another. These relationships are not necessarily mutually exclusive, for example a parent may be a child's next of kin."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.46" name="CaBReviewStatus"
+        description="Code indicating the status of a review being made."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.47" name="CaBAssessmentStatus"
+        description="Code indicating the status of an assessment being made."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.48" name="CaBWaitStartTimeType"
+        description="Code indicating the type of wait which the appointment is in."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.49" name="CaBGenderType"
+        description="Code indicating the type of gender being treated."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.50" name="OrganDonationType"
+        description="The body parts that a PERSON may consent to be used for possible transplantation after their death."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.51" name="AdmissionMethod"
+        description="The method of admission to a hospital provider spell"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.52" name="BloodDonor"
+        description="BloodDonor"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.53" name="ScottishCHINumber"
+        description="Scottish CHI Number"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.54" name="ScottishNHSNumber"
+        description="ScottishNHSNumber"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.55" name="ScottishAreaHealthBoardCode"
+        description="ScottishAreaHealthBoardCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.56" name="PatientSource"
+        description="PatientSource"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.57" name="MACAddress"
+        description="MAC Address"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.58"
+        name="Accident and Emergency Diagnosis Code"
+        description="Accident and Emergency Diagnosis Code"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.59"
+        name="PatientSourceSettingType_DiagnosticImaging"
+        description="PatientSourceSettingType_DiagnosticImaging"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.60" name="ReferrerCode"
+        description="ReferrerCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.61" name="NHSNumberStatusIndicatorCode"
+        description="NHSNumberStatusIndicatorCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.62" name="GENERAL MEDICAL PRACTITIONER"
+        description="GENERAL MEDICAL PRACTITIONER"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.63" name="CONSULTANT CODE"
+        description="CONSULTANT CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.64" name="MAIN SPECIALTY CODE"
+        description="MAIN SPECIALTY CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.65" name="IMAGING MODALITY"
+        description="IMAGING MODALITY"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.66" name="IMAGING ANATOMICAL SITE"
+        description="IMAGING ANATOMICAL SITE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.67" name="OPCS" description="OPCS"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.68" name="SERVICE REPORT IDENTIFIER"
+        description="SERVICE REPORT IDENTIFIER"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.69" name="ICDO" description="ICDO"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.70" name="CARE PROFESSIONAL CODE"
+        description="CARE PROFESSIONAL CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.71" name="DISABILITY CODE"
+        description="DISABILITY CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.72"
+        name="CLINIC ATTENDANCE PURPOSE CODE (HIV)"
+        description="CLINIC ATTENDANCE PURPOSE CODE (HIV)"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.73"
+        name="INITIAL DIAGNOSIS CARE SETTING (HIV)"
+        description="INITIAL DIAGNOSIS CARE SETTING (HIV)"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.74"
+        name="TEST OF RECENT INFECTION INDICATION CODE"
+        description="TEST OF RECENT INFECTION INDICATION CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.75" name="PATIENT EXPOSURE TO HIV"
+        description="PATIENT EXPOSURE TO HIV"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.76"
+        name="POST AND/OR PRE EXPOSURE PROPHYLAXIS CODE"
+        description="POST AND/OR PRE EXPOSURE PROPHYLAXIS CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.77"
+        name="ANTIRETROVIRAL THERAPY DRUG PRESCRIBED CODE"
+        description="ANTIRETROVIRAL THERAPY DRUG PRESCRIBED CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.78"
+        name="ANTIRETROVIRAL THERAPY REGIMEN GROUP CODE"
+        description="ANTIRETROVIRAL THERAPY REGIMEN GROUP CODE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.79" name="CLINICAL TRIAL INDICATOR"
+        description="CLINICAL TRIAL INDICATOR"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.80" name="AIDS DEFINING ILLNESS TYPE"
+        description="AIDS DEFINING ILLNESS TYPE"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.81" name="Ethnicity"
+        description="Ethnicity"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.16.82" name="MaritalStatus"
+        description="MaritalStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17"
+        name="Root OID of NPfIT-Specific Vocabularies"
+        description="Vocabularies that are not in the NHS DD, and that aren't the id of a standard coding system, such as SnomedCT, ReadV2, etc)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.1" name="ActDetectedissueCode"
+        description="Types of issue detected with an act in a message. [Deprecated from MIM v3.1.10]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.2" name="DIAddendumFlag"
+        description="Whether a DI procedure is an addendum to the original or not."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.3" name="DIReportStatus"
+        description="The status of a diagnostic imaging report."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.4" name="DIJustificationReason"
+        description="The reason why an imaging procedure is rejected or performed. [Deprecated from MIM v3.1.10]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.5" name="AssessmentStatus"
+        description="The status of an assessment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.7" name="AccessReasonCode"
+        description="Reason why the data is being accessed."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.8" name="AlertCode"
+        description="Flags whether an Alert exists for a Legitimate Relationship."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.9" name="ConfirmationRespType"
+        description="The types of response required."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.10" name="DetailsRespType"
+        description="Types of response required."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.11" name="DissentOverrideIndicator"
+        description="A code indicating the indicator for Dissent Override. [Deprecated from MIM v3.1.07, use 2.16.840.1.113883.2.1.3.2.4.17.60 instead]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.12" name="LRResponseCodes"
+        description="All response codes that can be returned in LR messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.13" name="NewStatusType"
+        description="Possible new statuses of the Legitimate Relationships."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.14" name="NominatedBatchInfo"
+        description="Indicates whether or not the batch response contains the permitted maximum number of nominated prescriptions."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.19" name="CancellationResponseReason"
+        description="Possible responses to prescription /item cancellation request."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.20" name="DispenseEventStatus"
+        description="The status of a medication item on a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.21" name="DispensingSitepreference"
+        description="The roles played by a pharmacy when supplying medication."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.22" name="ETPSpineRejectionReason"
+        description="Very general reasons why a message may be rejected."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.23" name="ItemStatus"
+        description="Summary of status of a prescribed item."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.24" name="PrescriberRoleType"
+        description="The type of health care professional who authorised the prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.25" name="PrescriptionType"
+        description="A classification of a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.26"
+        name="DispenseNotificationRejectionReason"
+        description="Describes reasons for refusing to allow the returning of a prescription rather than dispensing it. [Deprecated from MIM v3.1.08]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.27" name="DispenseReturnRejectionReason"
+        description="Describes reasons for refusing to allow the returning of a prescription rather than dispensing it. [Deprecated from MIM v3.1.08]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.28" name="ExemptionDateType"
+        description="The types of Exemption date that an observation can describe."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.29"
+        name="ParentPrescriptionRejectionReason"
+        description="Reasons for refusing the return of the prescription. [Deprecated from MIM v3.1.08]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.30" name="PrescriptionAnnotation"
+        description="Annotation and observation types relevant to a prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.31" name="ProtocolCondition"
+        description="The protocol under which this administration was carried out."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.32" name="AcknowledgementExceptionCode"
+        description="An exception condition code carried in the application acknowledgement wrapper."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.33" name="PSISResponse Codes"
+        description="All response codes that can be returned in messages from PSIS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.35" name="DemographicObservationType"
+        description="Types of personal demographic data."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.36" name="HistoricDataIndicator"
+        description="Flags whether historic data should be returned."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.37" name="PatientCareprovisionType"
+        description="Types of patient care provision."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.38" name="PreviousNHSContact"
+        description="Flag for previous NHS contact made or not."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.39" name="SearchParameter"
+        description="Specifies algorithm to be used when searching for patients."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.40" name="UpdateType"
+        description="Flags whether an update is a correction, a change or new."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.41" name="x_RelatedPerson"
+        description="Types of related person role."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.42" name="PDSResponseCodes"
+        description="All response codes that can be returned in PDS messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.47" name="FocalActCategory"
+        description="Business categorisation for message elements."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.55" name="ClinicalView"
+        description="The kinds of data being retrieved by a PSIS Query."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.56" name="CREType"
+        description="A categorisation of patient Care Record Elements."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.57" name="PSISMetaDataType"
+        description="A classification of the types of metadata that can be used to describe provenance etc. of the components of a PSIS Query response."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.58" name="DissentOverrideReasonCode"
+        description="The reason why an override was used. [Deprecated from MIM v3.1.07, use 2.16.840.1.113883.2.1.3.2.4.17.60 instead.]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.59" name="PSISDataStatus"
+        description="Value set that used to describe the PSISMetaDataType of '2 - Status'."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.60" name="DissentOverride"
+        description="Indicates the dissent override."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.70" name="HumanLanguage"
+        description="A language currently used by people. It includes non-verbal languages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.90" name="CorrespondenceSuppression"
+        description="A code to convey whether correspondence should be suppressed or not."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.91" name="EhrCompoundlevel"
+        description="The granularity of the associated clinical statement."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.92" name="HcpType"
+        description="Types of healthcare professional."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.93" name="MedicationActType"
+        description="Subtypes of the medication act, e.g. prescribe, administer."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.94" name="OrganizationType"
+        description="Types of organization."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.95" name="PriorityType"
+        description="The priority of a service request / referral."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.96" name="ReferralCategoryHeading"
+        description="Headings used in a referral message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.97" name="RejectionReason"
+        description="Reason why an appointment request was rejected by eBS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.98" name="HearingStatus"
+        description="Levels of personal hearing ability."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.99" name="CallbackConsent"
+        description="Whether the patient / proxy can be called back to confirm / discuss details of the appointment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.100" name="EBSResponseCodes"
+        description="All response codes that can be returned in EBS messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.101" name="EhrRequestAckCode"
+        description="All response codes that can be returned in GP2GP messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.102" name="POCResponseCodes"
+        description="All response codes that can be returned in POC messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.103" name="MHResponseCodes"
+        description="All response codes that can be returned in MH messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.104" name="DetectedIssueQualifier."
+        description="Qualifiers classifying the severity of the issue or error carried in the Detected Issue Event ."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.105" name="NotificationImportance"
+        description="An importance indicator to classify a notification message (tracker) to the recipient."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.106" name="AdministrationType"
+        description="Whether med. administration is of a dose / cycle / course."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.107" name="ReasonFor"
+        description="Reason for medication statement state change."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.108" name="LRCurrentStatus"
+        description="Current status of the Legitimate Relationship."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.109" name="PrescriptionWithdrawType"
+        description="A code indicating the type of prescription withdrawal."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.110" name="PrescriptionWithdrawReason"
+        description="A code indicating the reason for a prescription being withdrawn."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.111" name="DIProcedureAbortReason"
+        description="A code indicating the reason for aborting a Diagnostic Imaging Procedure."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.112" name="DispenseClaimMessageType"
+        description="Code used to identify and version of a Dispense Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.113"
+        name="DispenseHistoryRebuildMessageType"
+        description="Code used to identify and version of a Dispense Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.114" name="DispenseNotificationMessageType"
+        description="ICode used to identify and version of a Dispense Notification or Dispense Notification with Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.115"
+        name="DispenseNotificationWithClaimMessageType"
+        description="Code used to identify and version of a Dispense Notification With Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.116" name="PAClaimMessageType"
+        description="Code used to identify and version of a PA Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.117" name="PANotificationMessageType"
+        description="Code used to identify and version of a PA Notification message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.118"
+        name="PANotificationWithClaimMessageType"
+        description="Code used to identify and version of a PA Notification With Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.119" name="ParentPrescriptionMessageType"
+        description="Code used to identify and version of a Parent Prescription message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.120" name="PrescriptionResponseMessageType"
+        description="Code used to identify and version of a Dispense Notification With Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.121" name="PSClaimMessageType"
+        description="Code used to identify version of a PS Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.122" name="PSNotificationMessageType"
+        description="Code used to identify version of a PS Notification message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.123"
+        name="PSNotificationWithClaimMessageType"
+        description="Identifies the type and version of a PS Notification With Claim Information message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.124" name="JobRoleName"
+        description="Identifies the role of a person where the information is not known to SDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.125" name="OrganizationRoleName"
+        description="Identifies the role of an organization where the information is not known to SDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.126" name="TextType"
+        description="Identifies the type of text associated with the Act."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.127" name="CancelRequestMessageType"
+        description="Identifies the type and version of a Cancel Request message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.128" name="RxEventQueryOrganizationType"
+        description="The organization type of a prescription query sender."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.129" name="IdentifierType"
+        description="Code indicating the type of identifier."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.130" name="SDSRegistrationType"
+        description="A code for indicating the type of registration. The registry in this case is SDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.131" name="SDSObservationType"
+        description="A code for indicating the type of observed information. The information is derived from SDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.132" name="ManifestItemType"
+        description="Identifies the characteristics of payload items held in a batch manifest."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.133" name="AssessmentOutcome"
+        description="This describes the coded outcome of a clinical assessment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.134" name="StatusDisplayValue"
+        description="This describes the coded Valid Status values for release 3."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.135" name="StatusMeaning"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.136" name="RequestStatus"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.137" name="SuperSpecialty"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.138" name="ServiceClinicType"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.139" name="ServiceSpecialty"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.140" name="CaBAnnotation"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.141" name="ContextualModifier"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.142" name="CriteriaCode"
+        description="This describes the meaning of the status value."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.143" name="WithdrawalReason"
+        description="Defines codes to identify reasons for requesting the withdrawal of messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.144" name="MessageControl"
+        description="A vocabulary describing actions pertaining to message control."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.145" name="StatusMeaning"
+        description="A code which provides the meaning of the status display value"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.146" name="TypeDisplayValue"
+        description="A string that is displayed to users to represent the type of additional requirement"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.147" name="AppointmentStatus"
+        description="A code which denotes the status of the appointment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.148" name="AdminResult"
+        description="The coded outcome of an appointment."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.150" name="RelationshipReason"
+        description="A code indicating how the UBRN(s) are related to the main referral (e.g. linked appointment, onward referral)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.151" name="ClinicType"
+        description="A code denoting the clinic type of the classification."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.152" name="RequestType"
+        description="An indicator of the type of request to be created after the seamless transition is performed."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.153" name="CaBReasonCode"
+        description="Code allowing an appointment request to be flagged as a 'diagnostic appointment request', thus allowing it to have attributes such as a 'diagnostic order' or 'diagnostic result'."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.154" name="AdminResultType"
+        description="A code denoting the type of administrative result."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.155" name="ReasonQualifier"
+        description="Codes defining qualifiers to be applied to text-based referral reasons (e.g. 'suspected')."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.156" name="Specialty"
+        description="The specialty of the classification."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.157" name="MessgageSealingStatus"
+        description="Indicates whether the message contains sealed information. [Deprecated from MIM 6.0.00]."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.158" name="SealingStatus"
+        description="Indicates whether the information is sealed and what level of sealing is applied."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.159" name="BusinessSectionType"
+        description="Indicates the business section heading which the text and coded entry are categorised by."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.160" name="SealingRefusalReason"
+        description="The reasons for a clinician refusing to seal a item of information."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.161" name="SealingActType"
+        description="Indicates the type of sealing related act."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.162" name="RequesterRelationshipType"
+        description="Indicates the relationship of the person to the patient when sealing of information has been requested by someone other than the patient."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.163" name="InfrastructureAnnotation"
+        description="This describes the coded values used in Infrastructure messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.164"
+        name="DemographicConsentObservationType"
+        description="To indicate the type of observed consent information."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.165" name="DemographicRegistrationType"
+        description="Indicates the type of registration."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.166" name="RegistrationReason"
+        description="Indicates the reason for registration (at a GP practice)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.167" name="PaperRecordTransferFlag"
+        description="Indicates the status of a paper record transfer."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.168" name="NHAISRemovalReasonCode"
+        description="Indicates the reason for removal from NHAIS registration."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.169" name="IgnoreHistoryType"
+        description="Indicates whether to search historic data while performing a trace."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.170" name="AdministrativeObservationType"
+        description="Indicates the type of observed information."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.171"
+        name="SuspectedCongenitalAbnormalityType"
+        description="Indicates if a congenital abnormality is suspected"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.172" name="StillbornType"
+        description="Indicates whether or not a baby is stillborn."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.173" name="DeliveryLocationType"
+        description="The type of organization where a birth took place."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.174" name="NationalSystemCode"
+        description="Codes to represent national systems."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.175" name="HealthSpaceBusinessSectionType"
+        description="Indicates the HealthSpace business section heading which the text and coded entry are categorised by."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.176" name="ReasonForDocumentNullification"
+        description="Defines codes to identify the reason for nullifying a document"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.178" name="AuthorFunctionType"
+        description="Identifies the function of the author within an NPfIT CDA document."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.179" name="DocumentSealingStatus"
+        description="DocumentSealingStatus Indicates whether the document contains sealed information."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.180" name="CDAActCode"
+        description="Code to describe the type of CDA Act"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.181" name="WorkgroupType"
+        description="Indicates the type of workgroup"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.182" name="WorkgroupAttribute"
+        description="Indicates a type of act that describes information about a Workgroup"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.184" name="WorkgroupStatus"
+        description="Indicates information about the status of a workgroup."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.185" name="CDAAdministrationType"
+        description="Indicates whether the associated medication administration, within an NPfIT CDA document, is of a dose or course."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.186" name="CDAJobRoleName"
+        description="To identify the role of a person, within an NPFIT CDA document, where the information is not known to SDS."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.187" name="PSISCareRecordState"
+        description="Code to indicate state used by PSIS to classify the current state of the service-users entire PSIS record."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.188" name="PSISQueryDQStates"
+        description="Code to indicate the different available collections of data-quality states that documents can be queried on."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.189" name="DocumentDQState"
+        description="Code to indicate the available data-quality states that a PSIS record can have attributed to it."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.190" name="PaperRecordTransferPriority"
+        description="Code used to indicate the priority of the transfer of the paper record."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.191" name="CDAOrganizationType"
+        description="Indicates the type of organization within an NPfIT CDA document."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.192" name="CDAPrescriptionAnnotation"
+        description="Annotation and observation types relevant to a prescription within an NPfIT CDA document."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.193" name="AlertType"
+        description="Code identifying the general context or domain that the alert is being raised in."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.194" name="AlertReasonCode"
+        description="Code identifying the reason or situation that made the alert message a necessity."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.195" name="AlertErrorCode"
+        description="Code used to indicate error in a received alert message."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.196" name="SDSJobRoleName"
+        description="Identifies the job role associated with a person's SDS role profile."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.197" name="SealEventActionCode"
+        description="Identifies an action relating to sealed envelopes."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.198" name="CaBReferralType"
+        description="A set of codes to identify the type of referral being made."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.199" name="SealedEnvelopesAlertType"
+        description="The set of concepts identifying alert types in Sealed Envelope Alerts."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.200" name="SealedEnvelopesAlertReasonCode"
+        description="The set of concepts identifying alert reasons in Sealed Envelope Alerts"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.201" name="DissentAlertType"
+        description="The set of concepts used to identify dissent alerts."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.202" name="P2PActType"
+        description="Code used to identify the type of act used in common point to point messages."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.203" name="AssignmentReasonType"
+        description="Code used to indicate the type of reason for an assignment to a care provider."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.204" name="RecordTransferType"
+        description="Code used to indicate the type record transfer."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.205" name="SystemRoleType"
+        description="SystemRoleType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.206" name="DTSResponseCodes"
+        description="DTS Response Codes for use in DTS Point to Point"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.207" name="NHAISRemovalCancellationCode"
+        description="NHAISRemovalCancellationCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.208" name="TreatmentCategoryType"
+        description="TreatmentCategoryType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.209" name="DispensingAuthorisationType"
+        description="DispensingAuthorisationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.210" name="TreatmentEntitlementType"
+        description="TreatmentEntitlementType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.211" name="OrganDonationType"
+        description="OrganDonationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.212" name="PaperMedicalRecordStatus"
+        description="PaperMedicalRecordStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.213" name="DemographicNotificationType"
+        description="DemographicNotificationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.214" name="ViolenceClassification"
+        description="ViolenceClassification"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.215" name="VPIUpdateReason"
+        description="VPIUpdateReason"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.216" name="ResidentialStatusType"
+        description="ResidentialStatusType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.217" name="BackOfficeWorkItemType"
+        description="BackOfficeWorkItemType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.218" name="AppointmentType"
+        description="AppointmentType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.219" name="GeneralDescription"
+        description="GeneralDescription"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.220" name="CDAObservationType"
+        description="CDAObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.221" name="CarePlanComponentType"
+        description="CarePlanComponentType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.222" name="CAFInformationSet"
+        description="CAFInformationSet"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.223" name="CDADocumentSectionType"
+        description="CDADocumentSectionType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.224" name="ComponentTextHeadingType"
+        description="ComponentTextHeadingType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.225" name="TextHeadingType"
+        description="TextHeadingType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.226" name="BackOfficeLocationCode"
+        description="BackOfficeLocationCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.227" name="PointToPointResponseCodes"
+        description="PointToPointResponseCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.228" name="DicomIDType"
+        description="DicomIDType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.229" name="DIReportStatus"
+        description="DIReportStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.230" name="DIServiceEventType"
+        description="DIServiceEventType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.231" name="DIOrderIdentifierCode"
+        description="DIOrderIdentifierCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.232" name="ContactStatus"
+        description="ContactStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.233" name="InjectingStatus"
+        description="InjectingStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.234" name="MHATribunalDecision"
+        description="MHATribunalDecision"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.235" name="RiskRegisterEntry"
+        description="RiskRegisterEntry"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.236" name="ProtectionRegisterCategory"
+        description="ProtectionRegisterCategory"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.237" name="CareProcessType"
+        description="CareProcessType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.238" name="CareLevelApproach"
+        description="CareLevelApproach"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.239" name="CareReviewAdministration"
+        description="CareReviewAdministration"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.240" name="CareReviewStatus"
+        description="CareReviewStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.241" name="LegalStatus"
+        description="LegalStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.242" name="DIUrgencyIndicator"
+        description="DIUrgencyIndicator"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.243" name="LegitimateRelationshipAlertType"
+        description="LegitimateRelationshipAlertType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.244"
+        name="LegitimateRelationshipAlertReasonCode"
+        description="LegitimateRelationshipAlertReasonCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.245" name="SuspectedDuplicateType"
+        description="SuspectedDuplicateType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.246" name="SuspectedConfusionType"
+        description="SuspectedConfusionType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.247" name="DataQualityType"
+        description="DataQualityType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.248" name="DataQualityInvestigationReason"
+        description="DataQualityInvestigationReason"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.249" name="PathologyConfidentiality"
+        description="PathologyConfidentiality"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.250" name="PathologyResponseCodes"
+        description="PathologyResponseCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.251" name="ReferralEventType"
+        description="ReferralEventType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.252" name="ServiceRequestType"
+        description="ServiceRequestType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.253" name="WaitTimeType"
+        description="WaitTimeType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.254" name="ReferralReviewStatus"
+        description="ReferralReviewStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.255" name="ClinicalAssessmentStatus"
+        description="ClinicalAssessmentStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.256" name="GenderMix"
+        description="GenderMix"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.257" name="AdditionalRequirementStatus"
+        description="AdditionalRequirementStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.258"
+        name="AdditionalRequirementStatusMeaning"
+        description="AdditionalRequirementStatusMeaning"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.259" name="AdditionalRequirementType"
+        description="AdditionalRequirementType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.260" name="Certainty"
+        description="Certainty"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.261" name="CabServiceRequestStatus"
+        description="CabServiceRequestStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.262" name="AppointmentAmendmentIndicator"
+        description="AppointmentAmendmentIndicator"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.263" name="PathologyDetailedResponseCodes"
+        description="PathologyDetailedResponseCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.264" name="ControlledDrugStatus"
+        description="Identifies the controlled drug status for a medication"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.265" name="ServiceEventType"
+        description="An identifier for the codeSystem ServiceEventType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.266" name="WorkgroupRoleName"
+        description="WorkgroupRoleName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.267" name="DocumentChangeType"
+        description="DocumentChangeType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.268" name="ToolkitSOAPErrorCodes"
+        description="ToolkitSOAPErrorCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.269" name="ReimbursementApplicabilityCode"
+        description="ReimbursementApplicabilityCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.270"
+        name="AssessmentNotificationRejectCode"
+        description="AssessmentNotificationRejectCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.271" name="SafeToDischargeCode"
+        description="SafeToDischargeCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.272" name="DischargeNotificationAgreeCode"
+        description="DischargeNotificationAgreeCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.273"
+        name="DischargeNotificationDisagreeCode"
+        description="DischargeNotificationDisagreeCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.274" name="CancelDelayedDischargeCode"
+        description="CancelDelayedDischargeCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.275" name="ObservationType"
+        description="ObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.276" name="CHLCareDomain"
+        description="CHLCareDomain"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.277" name="DSTCareDomain"
+        description="DSTCareDomain"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.278" name="CHLOutcomeLevelOf Need"
+        description="CHLOutcomeLevelOf Need"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.279" name="DSTOutcomeLevelOfNeed"
+        description="DSTOutcomeLevelOfNeed"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.280" name="CHLOutcome"
+        description="CHLOutcome"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.281" name="CHCCancellationReasonCode"
+        description="CHCCancellationReasonCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.282" name="CHCRejectionReason"
+        description="CHCRejectionReason"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.283" name="DSTEligibilityOutcome"
+        description="DSTEligibilityOutcome"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.284" name="MiniServiceMessageType"
+        description="MiniServiceMessageType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.285" name="PDSMiniServiceResponseCode"
+        description="PDSMiniServiceResponseCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.286"
+        name="ClinicalDashboardsObservationType"
+        description="ClinicalDashboardsObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.287" name="MiniServiceObservationType"
+        description="MiniServiceObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.288" name="DischargeSummaryHeadingType"
+        description="Headings as specified in DH Clinical Directorate RCP Extract Matrix"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.289" name="CDAOrganizationProviderType"
+        description="The type of organization provider."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.290" name="DashboardOrganisationType"
+        description="DashboardOrganisationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.291" name="WalkInEncounterType"
+        description="WalkInEncounterType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.292" name="ContactType"
+        description="ContactType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.293" name="AEIncidentLocationType"
+        description="AEIncidentLocationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.294" name="AEEPatientGroup"
+        description="AEEPatientGroup"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.295" name="AESourceOfReferral"
+        description="AESourceOfReferral"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.296" name="AEArrivalMode"
+        description="AEArrivalMode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.297" name="AEAttendanceCategory"
+        description="AEAttendanceCategory"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.298" name="AEDisposalMethod"
+        description="AEDisposalMethod"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.299" name="AEDepartmentType"
+        description="AEDepartmentType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.300" name="EthnicCategoryCode"
+        description="EthnicCategoryCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.301" name="PersonGenderCode"
+        description="PersonGenderCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.302"
+        name="OverseasVisitorStatusClassification"
+        description="OverseasVisitorStatusClassification"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.303" name="LocalAEIncidentLocationType"
+        description="LocalAEIncidentLocationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.304" name="LocalAEEPatientGroup"
+        description="LocalAEEPatientGroup"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.305" name="LocalAESourceOfReferral"
+        description="LocalAESourceOfReferral"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.306" name="LocalAEArrivalMode"
+        description="LocalAEArrivalMode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.307" name="LocalAEAttendanceCategory"
+        description="LocalAEAttendanceCategory"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.308" name="LocalAEDisposalMethod"
+        description="LocalAEDisposalMethod"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.309"
+        name="AEInitialAssessmentTriageCategory"
+        description="AEInitialAssessmentTriageCategory"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.310" name="DashboardMessageType"
+        description="DashboardMessageType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.311" name="AEPriorityAfterAssessment"
+        description="AEPriorityAfterAssessment"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.312" name="ActivityLocationType"
+        description="ActivityLocationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.313" name="DischargeSummaryStatus"
+        description="DischargeSummaryStatus"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.314" name="CodedEntryCode"
+        description="CodedEntryCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.315" name="ITKAcknowledgementExceptionCode"
+        description="ITKAcknowledgementExceptionCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.316" name="ITKActDetectedIssueCode"
+        description="ITKActDetectedIssueCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.317" name="ITKDetectedIssueQualifier"
+        description="ITKDetectedIssueQualifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.318" name="LraAdmissionMethod"
+        description="LraAdmissionMethod"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.319" name="LraDischargeMethod"
+        description="LraDischargeMethod"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.320" name="LraDischargeDestination"
+        description="LraDischargeDestination"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.321" name="LraMainSpecialty"
+        description="LraMainSpecialty"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.322" name="LraGender"
+        description="LraGender"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.323" name="NHS111CDADocumentSectionType"
+        description="NHS111CDADocumentSectionType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.324" name="GPESMessageType"
+        description="Vocabulary describes codes to indicate General Practice Extraction Service message types."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.325" name="NHS111DispositionCode"
+        description="NHS111DispositionCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.326" name="NHS111EncounterCode"
+        description="NHS111EncounterCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.327" name="SystemFlagType"
+        description="SystemFlagType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.328" name="TriageOutcomeType"
+        description="TriageOutcomeType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.329" name="AmbulancePriorityType"
+        description="AmbulancePriorityType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.330" name="LocalDocumentSectionCode"
+        description="LocalDocumentSectionCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.331" name="LocalStandardIndustryClassCode"
+        description="Local organisation type used with HL7 attribute StandardIndustryClassCode."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.332" name="ManufacturerModelName"
+        description="ManufacturerModelName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.333" name="SoftwareName"
+        description="SoftwareName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.334" name="AlternativeConsentCode"
+        description="AlternativeConsentCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.335" name="LocalServiceEventCode"
+        description="LocalServiceEventCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.336" name="ReferenceURLType"
+        description="ReferenceURLType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.337" name="NonCodedCDADocumentType"
+        description="NonCodedCDADocumentType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.338" name="AlternativeReferenceURLType"
+        description="AlternativeReferenceURLType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.339" name="AlternativeJobRoleName"
+        description="AlternativeJobRoleName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.400" name="AlternativeLanguageAbilityMode"
+        description="AlternativeLanguageAbilityMode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.401"
+        name="AlternativeLanguageAbilityProficiency"
+        description="AlternativeLanguageAbilityProficiency"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.402" name="AlternativeWorkgroupRoleName"
+        description="AlternativeWorkgroupRoleName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.405" name="LocalManufacturerModelName"
+        description="LocalManufacturerModelName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.406" name="LocalSoftwareName"
+        description="LocalSoftwareName"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.407"
+        name="AlternativePersonalRelationshipRoleType"
+        description="AlternativePersonalRelationshipRoleType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.408" name="AlternativeAdministrativeGender"
+        description="AlternativeAdministrativeGender"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.409" name="AlternativeRoleCode"
+        description="AlternativeRoleCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.410"
+        name="AlternativeIncidentalLocationTypeSnCT"
+        description="AlternativeIncidentalLocationTypeSnCT"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.411" name="AlternativeTargetAwareness"
+        description="AlternativeTargetAwareness"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.412"
+        name="AlternativeParticipationFunction"
+        description="AlternativeParticipationFunction"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.413" name="AlternativeCodedEntryCode"
+        description="AlternativeCodedEntryCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.414"
+        name="AlternativeCodedEntryCodeInDischargeDisposition"
+        description="AlternativeCodedEntryCodeInDischargeDisposition"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.415"
+        name="AlternativeX_BasicConfidentialityKind"
+        description="AlternativeX_BasicConfidentialityKind"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.416" name="AlternativeDocumentConsentSnCT"
+        description="AlternativeDocumentConsentSnCT"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.417"
+        name="AlternativeNonCodedCDADocumentType"
+        description="AlternativeNonCodedCDADocumentType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.418" name="NHS111TriageDeviceType"
+        description="NHS111TriageDeviceType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.419" name="TriageDispositionType"
+        description="TriageDispositionType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.420" name="NHS111MessageType"
+        description="NHS111MessageType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.421"
+        name="NHS111RepeatCallerServiceResponseType"
+        description="NHS111RepeatCallerServiceResponseType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.422" name="NHS111AdditionalNotesType"
+        description="NHS111AdditionalNotesType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.423" name="ConsentToShareType"
+        description="ConsentToShareType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.424" name="ReferralRejectCode"
+        description="ReferralRejectCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.425" name="CarePlanAgreement"
+        description="Care Plan Agreement"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.426" name="CareSupportNeeds"
+        description="Care Support Needs"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.427" name="CHCEligibOptions"
+        description="CHC Eligibability Options"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.428" name="TelehealthDocumentTypeSnCT"
+        description="Telehealth Document Type SNOMED vocabulary"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.429" name="TelehealthEncounterCode"
+        description="TelehealthEncounterCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.430" name="RemoteMonitoringSettingSnCT"
+        description="To describe the type of location"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.431" name="WaveformImageType"
+        description="Wave form image type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.432" name="ThresholdInterpretation"
+        description="Threshold Interpretation"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.433" name="ITK Accreditation Test Data"
+        description="ITK Accreditation Test Data"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.434" name="GPESResponseCodes"
+        description="GPESResponseCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.435" name="EoLCDAObservationType"
+        description="EoLCDAObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.436" name="NotificationMessageType"
+        description="A list of message types which can be notified upon."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.437" name="NotificationEventType"
+        description="A list of event types which can be notified upon."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.438" name="NofiticationDocumentType"
+        description="A list of document types which can document a notification event."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.439" name="NotificationURLType"
+        description="A list of URL types which can be attached to a notification."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.440" name="NotificationObservationType"
+        description="Notification Observation Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.441" name="DocumentFormatType"
+        description="Document Format Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.442" name="QueryMessageType"
+        description="Query Message Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.444" name="NewBornHearingScreeningOutcome"
+        description="A set of codes to indicate the outcome of a new born hearing screening"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.445" name="AudiologyTestingOutcome"
+        description="A set of codes to indicate the outcome of an audiology test"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.446" name="HipsExaminationResult"
+        description="A set of codes to indicate the outcome of a hip examination"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.447" name="HeartExaminationResult"
+        description="A set of codes to indicate the outcome of a heart examination"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.448" name="EyesExaminationResult"
+        description="A set of codes to indicate the outcome of an eye examination"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.449" name="TestesExaminationResult"
+        description="A set of codes to indicate the outcome of a testes examination"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.450" name="LocalDocumentType"
+        description="Local Document Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.451" name="NotificationDocumentEvent"
+        description="Notification Document Event"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.452"
+        name="NotificationPatientEncounterEvent"
+        description="Notification Patient Encounter Event"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.453"
+        name="NotificationPatientAdministrationEvent"
+        description="NotificationPatientAdministrationEvent"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.454" name="GuardianRoleType"
+        description="GuardianRoleType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.455" name="DocumentRetrievalMessageType"
+        description="Document Retrieval Message Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.456"
+        name="DocumentRetrievalObservationType"
+        description="Document Retrieval Observation Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.457" name="DocumentResponseType"
+        description="DocumentResponseType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.459" name="SystemRoleType"
+        description="System Role Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.460" name="ExpertManagementPlanType"
+        description="Expert Management Plan Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.461" name="PKUScreeningResult"
+        description="PKUScreeningResult"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.462" name="SCDScreeningResult"
+        description="SCD ScreeningResult"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.463" name="CFScreeningResult"
+        description="CF ScreeningResult"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.464" name="CHTScreeningResult"
+        description="CHT Screening Result"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.465" name="MCADDScreeningResult"
+        description="MCADDScreeningResult"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.466" name="AudiologyTestingOutcomeStatus"
+        description="Audiology Testing Outcome Status"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.467" name="HipsUltraSoundOutcomeDecision"
+        description="Hips Ultra Sound Outcome Decision"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.468" name="HipsExpertManagementPlanType"
+        description="Hips Expert Management Plan Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.469" name="CP-ISObservationType"
+        description="CP-ISObservationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.470" name="CP-ISMessageType"
+        description="CP-ISMessageType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.471" name="CP-ISRecordType"
+        description="CP-ISRecordType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.472" name="CP-ISAcknowledgementType"
+        description="CP-ISAcknowledgementType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.473" name="CP-ISUploadRecordResponse"
+        description="CP-ISUploadRecordResponse"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.474" name="CP-ISUploadFileResponse"
+        description="CP-ISUploadFileResponse"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.475" name="CP-ISResponseCodes"
+        description="CP-ISResponseCodes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.476" name="TelehealthAlertInterpretation"
+        description="TelehealthAlertInterpretation"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.477" name="TelehealthAlertPriority"
+        description="TelehealthAlertPriority"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.478" name="GuardianOrganisationType"
+        description="GuardianOrganisationType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.479"
+        name="TelehealthPatientRelatedAlertType"
+        description="TelehealthPatientRelatedAlertType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.480" name="TelehealthAlertType"
+        description="TelehealthAlertType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.481" name="TelehealthThresholdAlertType"
+        description="TelehealthThresholdAlertType"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.482" name="CP-ISUploadRecordResponseDetail"
+        description="CP-ISUploadRecordResponseDetail"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.483" name="TelehealthServicePriority"
+        description="TelehealthServicePriority"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.484" name="PatientFacingService"
+        description="PatientFacingService"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.485" name="TelecareServicePriority"
+        description="Telecare Service Priority"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.486" name="BSScreeningLocStatus"
+        description="Blood Spot Screening Location Status"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.487" name="BSScreeningStatusSubCodes"
+        description="Blood Spot Screening Status Sub Codes"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.488" name="ConsentToPlanType"
+        description="Consent To Plan Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.489" name="ServiceUserAwareOfReferralType"
+        description="Service User Aware Of Referral Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.490" name="BSLaboratoryInterpretationCode"
+        description="BSLaboratoryInterpretationCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.491" name="TelehealthcareServicePriority"
+        description="TelehealthcareServicePriority"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.492" name="PersonRelationshipTypeQualified"
+        description="PersonRelationshipTypeQualified"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.493" name="JobRoleNameQualified"
+        description="JobRoleNameQualified"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.494" name="WorkgroupRoleNameQualified"
+        description="WorkgroupRoleNameQualified"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.495" name="ResponderPriority"
+        description="ResponderPriority"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.496" name="LocalOrganisationCode"
+        description="Local Organisation Code"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.497" name="SubscribeOrUnsubscribeType"
+        description="A set of codes to indicate whether this is a subscribe or unsubscribe request."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.498" name="SubscriptionDataSetType"
+        description="A set of codes to indicate the data set being subscribed to, or unsubscribed from."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.499" name="CP-ISMiniServiceResponseCode"
+        description="CP-ISMiniServiceResponseCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.500" name="GenericMiniServiceResponseCode"
+        description="A vocabulary to support the generic responses received from a Spine Mini Service."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.501" name="HPENDiagnosis"
+        description="Health Protection Electronic Notification notifiable diseases"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.502" name="SCRMiniServiceConsent"
+        description="SCR Mini Service Consent"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.503" name="SCRMiniServiceMessageType"
+        description="SCR Mini Service Message Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.504" name="SCRMiniServiceObservationType"
+        description="SCR Mini Service Observation Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.505" name="SCRMiniServiceQueryActivityType"
+        description="SCR Mini Service Query Activity Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.506" name="SCRMiniServiceResponse"
+        description="SCR Mini Service Response"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.507" name="OrganisationRoleType"
+        description="An OID to represent the coding system used within Organisation Reference Data for Organisation Role Types"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.508" name="OrganisationRelationshipType"
+        description="An OID to represent the coding system used within Organisation Reference Data for Organisation Relationship Types"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.509" name="SourceOfAdmission "
+        description="Describes the source of the patient prior to admission."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.510" name="RecipientNonClinicalPersonType"
+        description="Recipient Non Clinical Person Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.511" name="SDSSpecialty"
+        description="The main specialty of the clinician as held on the Spine Directory Service"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.512"
+        name="NewbornBloodSpotScreeningResultStatus"
+        description="newborn blood spot screening result status "/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.513"
+        name="HealthAndSocialCareOrganisationEntityType"
+        description="Health and Social Care Organisation Entity Type"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.514" name="CDARoleType"
+        description="A code that describes a participant's role, in more detail than the structural code carried in the RoleClass vocabulary."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.515" name="DummyTest"
+        description="Dummy Test"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.516" name="ToolkitErrorCodes"
+        description="Toolkit error codes that relate to business errors within the Distribution Envelope."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.517" name="TherapiesReportCompleted"
+        description="A vocabulary describing if the therapies report has been completed."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.518" name="PatientInformedOfDischargeDate"
+        description="A vocabulary to describe the patient informed of the discharge date."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.520" name="TherapiesReportSentToSocialCare"
+        description="A vocabulary to describe if the therapies report has been sent to social care."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.521"
+        name="CarerKeyContactInformedOfDischargeDate"
+        description="A vocabulary to describe if the carer or key contact has been informed of the discharge date."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.522" name="WithdrawalNoticeReasonCode"
+        description="A vocabulary to describe the withdrawal notice reason code."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.523" name="PatientLivesAlone"
+        description="A set of codes, which represents if the patient lives alone."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.524" name="PermissionToViewOutcome"
+        description="Permission to view outcome"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.17.525"
+        name="NewbornAndInfantPhysicalExaminationResults"
+        description="Newborn And Infant Physical Examination Results"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18" name="NPfIT UIDs"
+        description="Unique Identifiers allocated to instances of things. Prior to 17th June 2004, these were allocated directly under 2.16.840.1.113883.2.1.3.2.4."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.1" name="PDSAllocatedObjectIdentifier"
+        description="An identifier allocated by the PDS for an instance of a type of updateable data item on the PDS which can occur more than once concurrently, e.g. name, address, telecom and related person. This identifier is allocated by the PDS after an instance of such data is first added on to the PDS. It can subsequently be retrieved from the PDS along with the specific instance to which it relates, and then used to identify that specific instance when altering or removing it."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.2" name="Template Identifiers"
+        description="Approved NPfIT number for all template IDs. Further refinements will be described by the extension."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.3" name="Legitimate Relationship OID"
+        description="Identifies legitimate relationship record UIDs."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.4" name="Prescription Id Check Digit"
+        description="The check digit appended to the Prescription Identifier."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.5" name="Workstation Identifiers"
+        description="Identifies Workstation IDs generated by Identity Agents."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.7" name="Type Identifiers"
+        description="Type identifiers used for uniquely identifying message types."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.8" name="Prescription Short Form"
+        description="The short form UID of the prescription."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.9" name="Batch Conversation Id"
+        description="A conversation identifier relating batch request messages to a business process."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.10" name="Batch Response Sequence Number"
+        description="A sequence number used in batch responses to identify missing/out of sequence responses."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.11"
+        name="Diagnostic Imaging Report Identifier"
+        description="The identifier for the DI Report Grouper which is in essence the Fulfiller Report."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.12"
+        name="Diagnostic Imaging Procedure Summary Identifier"
+        description="The identifier for the DI Procedure Summary."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.13"
+        name="Diagnostic Imaging Fulfiller Request Identifier"
+        description="The identifier for the Fulfiller Request that is pertinent to the DI Report."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.14" name="Message Number"
+        description="A number allocated to a message within a batch."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.15" name="Choose and Book Service Id"
+        description="An identifier of a Choose and Book Service, maintained internally within Choose and Book."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.16" name="NPfIT CDA contentId"
+        description="Attribute used to indicate the content (template) type of the following section in an NPfIT CDA document. The attribute is intended as a structural navigation aid within the document and carries no semantic information."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.17" name="messageType"
+        description="Attribute used to indicate the HL7 message artefact id"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.18" name="Token Id"
+        description="A unique identifier for the tokenID field used within the Choose and Book system."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.19"
+        name="LocalLaboratorySpecimenIdentifier"
+        description="LocalLaboratorySpecimenIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.20" name="LocalEncounterIdentifier"
+        description="LocalEncounterIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.21" name="LocalDocumentIdentifier"
+        description="LocalDocumentIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.22" name="ITKAddress"
+        description="A logical address URI, as defined for use by the Interoperability Toolkit"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.23" name="Unverified NHS Number"
+        description="Unverified NHS Number"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.24" name="Local Person Identifier"
+        description="Local Person Identifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.25" name="LocalAttendanceIdentifier"
+        description="LocalAttendanceIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.26" name="LocalCaseNumber"
+        description="LocalCaseNumber"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.27" name="ITKIdentity"
+        description="ITKIdentity"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.28" name="ConfigurationProfileId"
+        description="ConfigurationProfileId"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.29" name="GMCCode" description="GMCCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.30" name="LocalStaffIdentifier"
+        description="LocalStaffIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.31" name="EDISenderRecipientID"
+        description="EDISenderRecipientID"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.32" name="NHAISRegLinksID"
+        description="NHAISRegLinksID"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.33" name="OtherTradingPartnerID"
+        description="OtherTradingPartnerID"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.34" name="NHS111CaseRef"
+        description="NHS 111 CaseRef ID"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.35" name="NHS111CaseId"
+        description="NHS 111 Case Id"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.36" name="LocalDeviceIdentifier"
+        description="LocalDeviceIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.37" name="LocalRoleIdentifier"
+        description="LocalRoleIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.38"
+        name="Local Service Delivery Location Identifier"
+        description="Local Service Delivery Location Identifier (Health Care Facility Identifier)"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.39" name="LocalConsentIdentifier"
+        description="LocalConsentIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.40" name="LocalServiceEventIdentifier"
+        description="LocalServiceEventIdentifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.41" name="Unique Property Reference Number"
+        description="Unique Property Reference Number"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.42"
+        name="Unique identifier provided by Ordnance Survey"
+        description="Unique identifier provided by Ordnance Survey"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.43"
+        name="Royal Mail Unique Delivery Point Reference Number"
+        description="Royal Mail Unique Delivery Point Reference Number"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.44" name="LocalProfileIdentifier"
+        description="Local Profile Identifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.45" name="LocalDocumentSetIdentifier"
+        description="Local Document Set Identifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.46"
+        name="Local Authority CP-IS Upload File Identifier"
+        description="Local Authority CP-IS Upload File Identifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.47" name="SMSC SSO Token Id"
+        description="ITK Spine Mini Services Client  (Distribution Envelope) SSO Session Token Id"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.18.48"
+        name="HealthAndSocialCareOrganisationIdentifier"
+        description="Health and Social Care Organisation Identifier"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.19"
+        name="Identifiers of SDS registered entities"
+        description=""/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.19.1"
+        name="Organisation registered with the SDS"
+        description="Identifier of an organisation registered with the SDS"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.19.2" name="Site registered with the SDS"
+        description="Identifier of a site registered with the SDS"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.19.3"
+        name="Department registered with the SDS"
+        description="Identifier of a department registered with the SDS"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.20"
+        name="Identification schemes maintained by the NHS Data Model and Dictionary Service"
+        description=""/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.20.1" name="Pathway Id"
+        description="An identifier, which together with the Organisation Code of the issuer, uniquely identifies a Patient Pathway (see NHS Data Dictionary www.datadictionary.nhs.uk/data_dictionary/attributes/p/pati/patient_pathway_identifier_de.asp for detailed definition)."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.21" name="NICIPCode" description="NICIPCode"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.21.1" name="DTS mailbox"
+        description="DTS mailbox"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.22" name="RadiologicalAccessionNumber"
+        description="RadiologicalAccessionNumber"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.4.23" name="RecordClass"
+        description="Health and Social Care Class used by HSCIC XML interface to support Organisation Reference Data.  Valid RecordClass types are:  HSCOrg - Represents a legal organisation,  HSCSite - Represents an association between an HSCOrg and a place with which it is affiliated,  HSCLoc - Represents a location where healthcare is provided,  HSCServ - Represents a clinical service."/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.5" name="Vocabulary Cross Mapping"
+        description="OID to identify cross maps where they are generated"/>
+   <oid oid="2.16.840.1.113883.2.1.3.2.5.1" name="A&amp;EDiagnosisCodesSnCT-DataDictionary"
+        description="A&amp;EDiagnosisCodesSnCT-DataDictionary"/>
+   <oid oid="2.16.840.1.113883.2.1.4"
+        name="External Identification schemes registered with HL7 UK"
+        description=""/>
+   <oid oid="2.16.840.1.113883.2.1.4.1" name="Patient new NHS Number"
+        description="The new NHS Number allocated to the patient."/>
+   <oid oid="2.16.840.1.113883.2.1.4.2" name="NHS GP Numbers"
+        description="Identifiers of General Medical Practitioners in the UK National Health Service."/>
+   <oid oid="2.16.840.1.113883.2.1.4.3" name="NHS OCS Organisation Codes"
+        description="Identifiers of Organisations in the UK National Health Service."/>
+   <oid oid="2.16.840.1.113883.2.1.4.5.2" name="NHS PMIP Specimen Numbers"
+        description="Number (or other specific recognisable identifier) used within the Pathology Messaging Implementation Project (PMIP), and other similar messaging projects, to identify specimens."/>
+   <oid oid="2.16.840.1.113883.2.1.4.5.3" name="NHS PMIP Request Numbers"
+        description="Number (or other specific recognisable identifier) used within the Pathology Messaging Implementation Project (PMIP), and other similar messaging projects, to identify requests and referrals."/>
+   <oid oid="2.16.840.1.113883.2.1.4.5.5" name="NHS PMIP Report Numbers"
+        description="Number (or other specific recognisable identifier) used within the Pathology Messaging Implementation Project (PMIP), and other similar messaging projects, to identify reports."/>
+   <oid oid="2.16.840.1.113883.2.1.4.5.6" name="NHS GP2GP Template Identifiers"
+        description="Identifiers used within GP2GP message to specify the implementation template used for a specific structural template corresponding to a type of clinical record."/>
+   <oid oid="2.16.840.1.113883.2.1.6"
+        name="External Coding schemes registered with HL7 UK"
+        description=""/>
+   <oid oid="2.16.840.1.113883.2.1.6.1" name="The Read Codes Four Byte Set"
+        description="The Read Codes Four Byte Set consists of 4 alphanumeric characters."/>
+   <oid oid="2.16.840.1.113883.2.1.6.2" name="The Read Codes Version 2"
+        description="The Read Codes Version 2."/>
+   <oid oid="2.16.840.1.113883.2.1.6.3" name="Egton Codes"
+        description="Clinical terminology (i.e. coding system) owned by GP systems supplier EMIS, and designed to supplement the Read Codes."/>
+   <oid oid="2.16.840.1.113883.2.1.6.9" name="EMIS Drug Codes"
+        description="Coding system developed by GP systems supplier EMIS for describing UK drugs and their ingredients."/>
+   <oid oid="2.16.840.1.113883.5.1" name="AdministrativeGender"
+        description="AdministrativeGender"/>
+   <oid oid="2.16.840.1.113883.5.14" name="ActStatus" description="ActStatus"/>
+   <oid oid="2.16.840.1.113883.5.30" name="EntityDeterminer"
+        description="EntityDeterminer"/>
+   <oid oid="2.16.840.1.113883.5.41" name="EntityClass" description="EntityClass"/>
+   <oid oid="2.16.840.1.113883.5.60" name="LanguageAbilityMode"
+        description="LanguageAbilityMode"/>
+   <oid oid="2.16.840.1.113883.5.61" name="LanguageAbilityProficiency"
+        description="LanguageAbilityProficiency"/>
+   <oid oid="2.16.840.1.113883.5.83" name="ObservationInterpretation"
+        description="ObservationInterpretation"/>
+   <oid oid="2.16.840.1.113883.5.88" name="ParticipationFunction"
+        description="ParticipationFunction"/>
+   <oid oid="2.16.840.1.113883.5.110" name="RoleClass" description="RoleClass"/>
+   <oid oid="2.16.840.1.113883.5.111" name="RoleCode" description="RoleCode"/>
+   <oid oid="2.16.840.1.113883.5.137" name="TargetAwareness"
+        description="TargetAwareness"/>
+   <oid oid="2.16.840.1.113883.5.1064" name="ParticipationMode"
+        description="ParticipationMode"/>
+</oids>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RecipientNonClinicalPersonType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.510">
+   <Description>
+            <p>
+               <p>The relationship between the non clinical recipient and the patient.  These relationships are not necessarily mutually exclusive, for example a parent may be a patient's next of kin. </p>
+               <p>This includes the set of values defined in e-GIF Person Relationship Type.</p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>Patient</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Patient's power of attorney</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Court's appointed deputy</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Patient's carer</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Patient's proxy</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Patient's guardian</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Patient's next of kin</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Emergency contact</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Clinical research investigator</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Patient's representative</displayName>
+   </concept>
+</vocabulary>

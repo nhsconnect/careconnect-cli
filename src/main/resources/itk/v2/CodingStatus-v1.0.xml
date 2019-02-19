@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CodingStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.10">
+   <Description>Coding Status: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="C">
+      <displayName>Complete</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Incomplete</displayName>
+   </concept>
+</vocabulary>

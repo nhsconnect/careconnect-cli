@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeSummaryStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.313">
+   <Description>
+            <p>A set of codes to support the discharge summary status.</p>
+         </Description>
+   <concept code="0">
+      <displayName>Discharge Summary Outstanding</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Discharge Summary Issued</displayName>
+   </concept>
+</vocabulary>

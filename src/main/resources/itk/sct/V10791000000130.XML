@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Religious or Other Belief System Affiliation" type="Realm Concept" setId="68561000000132" version="15" id="10791000000130" refId="999000531000000100" memberCount="147" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="28010004">
+<displayName lang="en" type="PT">Shiite muslim, follower of religion</displayName>
+<displayName lang="en" type="FSN">Shiite muslim, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Shiite muslim</displayName>
+</concept>
+<concept code="64988008">
+<displayName lang="en" type="PT">Sunni muslim, follower of religion</displayName>
+<displayName lang="en" type="FSN">Sunni muslim, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Sunni muslim</displayName>
+</concept>
+<concept code="80587008">
+<displayName lang="en" type="PT">Jehovah&apos;s Witness, follower of religion</displayName>
+<displayName lang="en" type="FSN">Jehovah&apos;s Witness, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Jehovah Witness, follower of religion</displayName>
+<displayName lang="en" type="SY">Jehovah&apos;s Witness</displayName>
+</concept>
+<concept code="81706006">
+<displayName lang="en" type="PT">Ashkenazi Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Ashkenazi Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Ashkenazi Jew</displayName>
+<displayName lang="en" type="SY">Ashkenazim</displayName>
+</concept>
+<concept code="160234004">
+<displayName lang="en" type="PT">Salvation Army member</displayName>
+<displayName lang="en" type="FSN">Salvation Army member (person)</displayName>
+</concept>
+<concept code="160538000">
+<displayName lang="en" type="PT">Religious affiliation</displayName>
+<displayName lang="en" type="FSN">Religious affiliation (observable entity)</displayName>
+<displayName lang="en" type="SY">Church - religion</displayName>
+<displayName lang="en" type="SY">Religion</displayName>
+</concept>
+<concept code="160540005">
+<displayName lang="en" type="PT">Roman Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Roman Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Roman Catholic</displayName>
+</concept>
+<concept code="160542002">
+<displayName lang="en" type="PT">Atheist</displayName>
+<displayName lang="en" type="FSN">Atheist (person)</displayName>
+<displayName lang="en" type="SY">Non-believer</displayName>
+</concept>
+<concept code="160543007">
+<displayName lang="en" type="PT">Jewish, follower of religion</displayName>
+<displayName lang="en" type="FSN">Jewish, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Jew</displayName>
+<displayName lang="en" type="SY">Jewish</displayName>
+</concept>
+<concept code="160544001">
+<displayName lang="en" type="PT">Christian Scientist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christian Scientist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christian Science Church</displayName>
+<displayName lang="en" type="SY">Christian Scientist</displayName>
+</concept>
+<concept code="160545000">
+<displayName lang="en" type="PT">Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Hindu</displayName>
+</concept>
+<concept code="160549006">
+<displayName lang="en" type="PT">Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christian</displayName>
+</concept>
+<concept code="160552003">
+<displayName lang="en" type="PT">Not religious</displayName>
+<displayName lang="en" type="FSN">Not religious (finding)</displayName>
+<displayName lang="en" type="SY">Religion, none</displayName>
+</concept>
+<concept code="160557009">
+<displayName lang="en" type="PT">Baptist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Baptist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Baptist</displayName>
+</concept>
+<concept code="160558004">
+<displayName lang="en" type="PT">Methodist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Methodist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Methodist</displayName>
+</concept>
+<concept code="160560002">
+<displayName lang="en" type="PT">Presbyterian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Presbyterian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Presbyterian</displayName>
+</concept>
+<concept code="160562005">
+<displayName lang="en" type="PT">Pentecostalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Pentecostalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Pentecostal</displayName>
+<displayName lang="en" type="SY">Pentecostal christian</displayName>
+<displayName lang="en" type="SY">Pentecostalist</displayName>
+</concept>
+<concept code="160566008">
+<displayName lang="en" type="PT">Christadelphian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christadelphian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christadelphian</displayName>
+</concept>
+<concept code="160567004">
+<displayName lang="en" type="PT">Agnostic</displayName>
+<displayName lang="en" type="FSN">Agnostic (person)</displayName>
+</concept>
+<concept code="248544006">
+<displayName lang="en" type="PT">Rastafarian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Rastafarian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Rastafari</displayName>
+<displayName lang="en" type="SY">Rastafarian</displayName>
+</concept>
+<concept code="271448006">
+<displayName lang="en" type="PT">Anglican</displayName>
+<displayName lang="en" type="FSN">Anglican, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Anglican, follower of religion</displayName>
+</concept>
+<concept code="276119007">
+<displayName lang="en" type="PT">Nonconformist</displayName>
+<displayName lang="en" type="FSN">Nonconformist (person)</displayName>
+</concept>
+<concept code="309687009">
+<displayName lang="en" type="PT">Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Buddhist</displayName>
+</concept>
+<concept code="309884000">
+<displayName lang="en" type="PT">Muslim, follower of religion</displayName>
+<displayName lang="en" type="FSN">Muslim, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Muslim</displayName>
+</concept>
+<concept code="309885004">
+<displayName lang="en" type="PT">Protestant, follower of religion</displayName>
+<displayName lang="en" type="FSN">Protestant, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Protestant</displayName>
+</concept>
+<concept code="309886003">
+<displayName lang="en" type="PT">Quaker, follower of religion</displayName>
+<displayName lang="en" type="FSN">Quaker, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Quaker</displayName>
+</concept>
+<concept code="312865007">
+<displayName lang="en" type="PT">Religion not given - patient refused</displayName>
+<displayName lang="en" type="FSN">Religion not given - patient refused (finding)</displayName>
+<displayName lang="en" type="SY">Declines to disclose religious belief</displayName>
+</concept>
+<concept code="360984002">
+<displayName lang="en" type="PT">Hasidic Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Hasidic Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Hasidic Jew</displayName>
+</concept>
+<concept code="366740002">
+<displayName lang="en" type="PT">Sikh, follower of religion</displayName>
+<displayName lang="en" type="FSN">Sikh, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Sikh</displayName>
+</concept>
+<concept code="427729003">
+<displayName lang="en" type="PT">Elim Pentecostalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Elim Pentecostalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Elim Pentecostal</displayName>
+<displayName lang="en" type="SY">Elim Pentecostalist</displayName>
+</concept>
+<concept code="427754003">
+<displayName lang="en" type="PT">Liberal Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Liberal Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Liberal Jew</displayName>
+<displayName lang="en" type="SY">Liberal Jewish</displayName>
+</concept>
+<concept code="427755002">
+<displayName lang="en" type="PT">Lutheran, follower of religion</displayName>
+<displayName lang="en" type="FSN">Lutheran, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Lutheran</displayName>
+</concept>
+<concept code="427874000">
+<displayName lang="en" type="PT">Congregationalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Congregationalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Congregationalist</displayName>
+</concept>
+<concept code="427950002">
+<displayName lang="en" type="PT">Haredi Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Haredi Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Haredi Jew</displayName>
+<displayName lang="en" type="SY">Haredi Jewish</displayName>
+</concept>
+<concept code="427963008">
+<displayName lang="en" type="PT">Advaitin Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Advaitin Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Advaitin Hindu</displayName>
+</concept>
+<concept code="427981006">
+<displayName lang="en" type="PT">Zen Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Zen Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Zen Buddhist</displayName>
+</concept>
+<concept code="428315004">
+<displayName lang="en" type="PT">Anabaptist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Anabaptist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Anabaptist</displayName>
+</concept>
+<concept code="428347009">
+<displayName lang="en" type="PT">Arya Samaj Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Arya Samaj Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Arya Samaj Hindu</displayName>
+</concept>
+<concept code="428373004">
+<displayName lang="en" type="PT">Coptic Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Coptic Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Coptic Orthodox</displayName>
+</concept>
+<concept code="428376007">
+<displayName lang="en" type="PT">Eastern Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Eastern Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Eastern Catholic</displayName>
+<displayName lang="en" type="SY">Eastern rite Catholic</displayName>
+</concept>
+<concept code="428378008">
+<displayName lang="en" type="PT">Ethiopian Orthodox Tewahedo, follower of religion</displayName>
+<displayName lang="en" type="FSN">Ethiopian Orthodox Tewahedo, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Ethiopian Orthodox</displayName>
+<displayName lang="en" type="SY">Ethiopian Orthodox Tewahedo</displayName>
+</concept>
+<concept code="428407001">
+<displayName lang="en" type="PT">Theravada Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Theravada Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Theravada Buddhist</displayName>
+</concept>
+<concept code="428408006">
+<displayName lang="en" type="PT">Wiccan, follower of religion</displayName>
+<displayName lang="en" type="FSN">Wiccan, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Wiccan</displayName>
+</concept>
+<concept code="428410008">
+<displayName lang="en" type="PT">Shakti Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Shakti Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Shakti Hindu</displayName>
+</concept>
+<concept code="428496003">
+<displayName lang="en" type="PT">Tibetan Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Tibetan Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Tibetan Buddhist</displayName>
+</concept>
+<concept code="428503004">
+<displayName lang="en" type="PT">Orthodox Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Orthodox Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Orthodox Christian</displayName>
+</concept>
+<concept code="428504005">
+<displayName lang="en" type="PT">Christian Spiritualist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christian Spiritualist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christian Spiritualist</displayName>
+</concept>
+<concept code="428506007">
+<displayName lang="en" type="PT">Druid, follower of religion</displayName>
+<displayName lang="en" type="FSN">Druid, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Druid</displayName>
+</concept>
+<concept code="428666001">
+<displayName lang="en" type="PT">Nichiren Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Nichiren Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Nichiren Buddhist</displayName>
+</concept>
+<concept code="428801007">
+<displayName lang="en" type="PT">Ismaili Muslim, follower of religion</displayName>
+<displayName lang="en" type="FSN">Ismaili Muslim, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Ismaili Muslim</displayName>
+</concept>
+<concept code="428815009">
+<displayName lang="en" type="PT">Ahmadi, follower of religion</displayName>
+<displayName lang="en" type="FSN">Ahmadi, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Ahmadi</displayName>
+</concept>
+<concept code="428816005">
+<displayName lang="en" type="PT">Armenian Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Armenian Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Armenian Catholic</displayName>
+</concept>
+<concept code="428820009">
+<displayName lang="en" type="PT">Pure Land Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Pure Land Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Pure Land Buddhist</displayName>
+</concept>
+<concept code="428821008">
+<displayName lang="en" type="PT">Seventh Day Adventist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Seventh Day Adventist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Seventh Day Adventist</displayName>
+</concept>
+<concept code="429158002">
+<displayName lang="en" type="PT">Greek Orthodox</displayName>
+<displayName lang="en" type="FSN">Greek Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Greek Orthodox, follower of religion</displayName>
+</concept>
+<concept code="429171004">
+<displayName lang="en" type="PT">Spiritualist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Spiritualist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Spiritualist</displayName>
+</concept>
+<concept code="429379008">
+<displayName lang="en" type="PT">Shiva Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Shiva Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Shiva Hindu</displayName>
+</concept>
+<concept code="429509008">
+<displayName lang="en" type="PT">Reform Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Reform Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Reform Jew</displayName>
+<displayName lang="en" type="SY">Reform Jewish</displayName>
+</concept>
+<concept code="429511004">
+<displayName lang="en" type="PT">Vaishnava Hindu, follower of religion</displayName>
+<displayName lang="en" type="FSN">Vaishnava Hindu, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Hare Krishna</displayName>
+<displayName lang="en" type="SY">Vaishnava Hindu</displayName>
+</concept>
+<concept code="429527006">
+<displayName lang="en" type="PT">New Kadampa Tradition Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">New Kadampa Tradition Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">New Kadampa Tradition Buddhist</displayName>
+</concept>
+<concept code="429533002">
+<displayName lang="en" type="PT">Mahayana Buddhist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Mahayana Buddhist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Mahayana Buddhist</displayName>
+</concept>
+<concept code="429534008">
+<displayName lang="en" type="PT">Masorti Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Masorti Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Conservative Jew</displayName>
+<displayName lang="en" type="SY">Masorti Jew</displayName>
+<displayName lang="en" type="SY">Masorti Jewish</displayName>
+</concept>
+<concept code="429539003">
+<displayName lang="en" type="PT">Calvinist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Calvinist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Calvinist</displayName>
+</concept>
+<concept code="429543004">
+<displayName lang="en" type="PT">Taoist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Taoist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Taoist</displayName>
+</concept>
+<concept code="429544005">
+<displayName lang="en" type="PT">Russian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Russian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Russian Orthodox</displayName>
+</concept>
+<concept code="429547003">
+<displayName lang="en" type="PT">Shinto, follower of religion</displayName>
+<displayName lang="en" type="FSN">Shinto, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Shinto</displayName>
+</concept>
+<concept code="429644000">
+<displayName lang="en" type="PT">Orthodox Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Orthodox Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Orthodox Jew</displayName>
+<displayName lang="en" type="SY">Orthodox Jewish</displayName>
+</concept>
+<concept code="429708003">
+<displayName lang="en" type="PT">Unitarian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Unitarian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Unitarian</displayName>
+</concept>
+<concept code="429732005">
+<displayName lang="en" type="PT">Baha&apos;i, follower of religion</displayName>
+<displayName lang="en" type="FSN">Baha&apos;i, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Baha&apos;i</displayName>
+</concept>
+<concept code="429787006">
+<displayName lang="en" type="PT">Jain, follower of religion</displayName>
+<displayName lang="en" type="FSN">Jain, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Jain</displayName>
+</concept>
+<concept code="429790000">
+<displayName lang="en" type="PT">Zoroastrian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Zoroastrian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Zoroastrian</displayName>
+</concept>
+<concept code="444870008">
+<displayName lang="en" type="PT">Apostolic Pentecostalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Apostolic Pentecostalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Apostolic Pentecostalist</displayName>
+</concept>
+<concept code="205081000000105">
+<displayName lang="en-GB" type="PT">Patient religion unknown</displayName>
+<displayName lang="en-GB" type="FSN">Patient religion unknown (finding)</displayName>
+</concept>
+<concept code="205141000000101">
+<displayName lang="en-GB" type="PT">Pagan</displayName>
+<displayName lang="en" type="FSN">Pagan, follower of religion (person)</displayName>
+</concept>
+<concept code="303721000000103">
+<displayName lang="en" type="PT">Humanist</displayName>
+<displayName lang="en" type="FSN">Humanist (person)</displayName>
+</concept>
+<concept code="304041000000105">
+<displayName lang="en" type="PT">Heathen</displayName>
+<displayName lang="en" type="FSN">Heathen, follower of religion (person)</displayName>
+</concept>
+<concept code="344071000000106">
+<displayName lang="en" type="PT">Scientologist, follower of Church of Scientology</displayName>
+<displayName lang="en" type="FSN">Scientologist, follower of Church of Scientology (person)</displayName>
+<displayName lang="en" type="SY">Scientologist</displayName>
+</concept>
+<concept code="344081000000108">
+<displayName lang="en" type="PT">Mormon, follower of religion</displayName>
+<displayName lang="en" type="FSN">Mormon, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Mormon</displayName>
+</concept>
+<concept code="344091000000105">
+<displayName lang="en" type="PT">Follower of Goddess tradition</displayName>
+<displayName lang="en" type="FSN">Follower of Goddess tradition (person)</displayName>
+<displayName lang="en" type="SY">Goddess</displayName>
+</concept>
+<concept code="344111000000100">
+<displayName lang="en" type="PT">Follower of Shamanism</displayName>
+<displayName lang="en" type="FSN">Follower of Shamanism (person)</displayName>
+<displayName lang="en" type="SY">Shaman</displayName>
+</concept>
+<concept code="344141000000104">
+<displayName lang="en" type="PT">Armenian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Armenian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Armenian Orthodox</displayName>
+</concept>
+<concept code="344151000000101">
+<displayName lang="en" type="PT">Follower of Church of England</displayName>
+<displayName lang="en" type="FSN">Follower of Church of England (person)</displayName>
+<displayName lang="en" type="SY">Church of England</displayName>
+</concept>
+<concept code="344161000000103">
+<displayName lang="en" type="PT">Church of God of Prophecy, follower of religion</displayName>
+<displayName lang="en" type="FSN">Church of God of Prophecy, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Church of God of Prophecy</displayName>
+</concept>
+<concept code="344171000000105">
+<displayName lang="en" type="PT">Church of Scotland, follower of religion</displayName>
+<displayName lang="en" type="FSN">Church of Scotland, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Church of Scotland</displayName>
+</concept>
+<concept code="344211000000108">
+<displayName lang="en" type="PT">Follower of Free Christian Church</displayName>
+<displayName lang="en" type="FSN">Follower of Free Christian Church (person)</displayName>
+<displayName lang="en" type="SY">Free Church</displayName>
+</concept>
+<concept code="344221000000102">
+<displayName lang="en" type="PT">Free Church of Scotland, follower of religion</displayName>
+<displayName lang="en" type="FSN">Free Church of Scotland, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Free Church of Scotland</displayName>
+</concept>
+<concept code="344231000000100">
+<displayName lang="en" type="PT">Follower of Moravian Church</displayName>
+<displayName lang="en" type="FSN">Follower of Moravian Church (person)</displayName>
+<displayName lang="en" type="SY">Moravian</displayName>
+</concept>
+<concept code="344241000000109">
+<displayName lang="en" type="PT">Follower of Church of Nazarene</displayName>
+<displayName lang="en" type="FSN">Follower of Church of Nazarene (person)</displayName>
+<displayName lang="en" type="SY">Nazarene Church</displayName>
+<displayName lang="en" type="SY">Nazarene Methodist</displayName>
+</concept>
+<concept code="344251000000107">
+<displayName lang="en" type="PT">Follower of New Testament Church of God</displayName>
+<displayName lang="en" type="FSN">Follower of New Testament Church of God (person)</displayName>
+<displayName lang="en" type="SY">New Testament Pentecostalist</displayName>
+</concept>
+<concept code="344261000000105">
+<displayName lang="en" type="PT">Plymouth Brethren, follower of religion</displayName>
+<displayName lang="en" type="FSN">Plymouth Brethren, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Plymouth Brethren</displayName>
+</concept>
+<concept code="344271000000103">
+<displayName lang="en" type="PT">Open Brethren, follower of religion</displayName>
+<displayName lang="en" type="FSN">Open Brethren, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Open Brethren</displayName>
+</concept>
+<concept code="344281000000101">
+<displayName lang="en" type="PT">Exclusive Brethren, follower of religion</displayName>
+<displayName lang="en" type="FSN">Exclusive Brethren, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Exclusive Brethren</displayName>
+</concept>
+<concept code="344321000000109">
+<displayName lang="en" type="PT">Serbian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Serbian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Serbian Orthodox</displayName>
+</concept>
+<concept code="344361000000101">
+<displayName lang="en" type="PT">Follower of United Reformed Church</displayName>
+<displayName lang="en" type="FSN">Follower of United Reformed Church (person)</displayName>
+<displayName lang="en" type="SY">United Reformed Church</displayName>
+</concept>
+<concept code="344471000000102">
+<displayName lang="en" type="PT">Follower of Radhasoami religion</displayName>
+<displayName lang="en" type="FSN">Follower of Radhasoami religion (person)</displayName>
+<displayName lang="en" type="SY">Radhasoami</displayName>
+</concept>
+<concept code="367831000000100">
+<displayName lang="en" type="PT">Anthroposophist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Anthroposophist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Anthroposophist</displayName>
+</concept>
+<concept code="367851000000107">
+<displayName lang="en" type="PT">Asatruar, follower of religion</displayName>
+<displayName lang="en" type="FSN">Asatruar, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Asatruar</displayName>
+</concept>
+<concept code="367861000000105">
+<displayName lang="en" type="PT">Black magic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Black magic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Black magic</displayName>
+</concept>
+<concept code="367871000000103">
+<displayName lang="en" type="PT">Brahma Kumari, follower of religion</displayName>
+<displayName lang="en" type="FSN">Brahma Kumari, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Brahma Kumari</displayName>
+</concept>
+<concept code="367881000000101">
+<displayName lang="en" type="PT">Celtic pagan, follower of religion</displayName>
+<displayName lang="en" type="FSN">Celtic pagan, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Celtic pagan</displayName>
+</concept>
+<concept code="367901000000103">
+<displayName lang="en" type="PT">Confucianist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Confucianist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Confucianist</displayName>
+</concept>
+<concept code="367911000000101">
+<displayName lang="en" type="PT">Kabbalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Kabbalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Kabbalist</displayName>
+</concept>
+<concept code="367921000000107">
+<displayName lang="en" type="PT">Lightworker, follower of religion</displayName>
+<displayName lang="en" type="FSN">Lightworker, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Lightworker</displayName>
+</concept>
+<concept code="367941000000100">
+<displayName lang="en" type="PT">New age practitioner</displayName>
+<displayName lang="en" type="FSN">New age practitioner (person)</displayName>
+</concept>
+<concept code="367951000000102">
+<displayName lang="en" type="PT">Occultist</displayName>
+<displayName lang="en" type="FSN">Occultist (person)</displayName>
+</concept>
+<concept code="367961000000104">
+<displayName lang="en" type="PT">Satanist</displayName>
+<displayName lang="en" type="FSN">Satanist (person)</displayName>
+</concept>
+<concept code="367991000000105">
+<displayName lang="en" type="PT">Shumei, follower of religion</displayName>
+<displayName lang="en" type="FSN">Shumei, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Shumei</displayName>
+</concept>
+<concept code="368011000000104">
+<displayName lang="en" type="PT">Vodun, follower of religion</displayName>
+<displayName lang="en" type="FSN">Vodun, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Vodun</displayName>
+</concept>
+<concept code="368021000000105">
+<displayName lang="en" type="PT">Yoruba, follower of religion</displayName>
+<displayName lang="en" type="FSN">Yoruba, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Yoruba</displayName>
+</concept>
+<concept code="368041000000103">
+<displayName lang="en" type="PT">Amish, follower of religion</displayName>
+<displayName lang="en" type="FSN">Amish, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Amish</displayName>
+</concept>
+<concept code="368051000000100">
+<displayName lang="en" type="PT">British Israelite, follower of religion</displayName>
+<displayName lang="en" type="FSN">British Israelite, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">British Israelite</displayName>
+</concept>
+<concept code="368061000000102">
+<displayName lang="en" type="PT">Bulgarian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Bulgarian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Bulgarian Orthodox</displayName>
+</concept>
+<concept code="368071000000109">
+<displayName lang="en" type="PT">Catholic: non Roman Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Catholic: non Roman Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Catholic: non Roman Catholic</displayName>
+</concept>
+<concept code="368081000000106">
+<displayName lang="en" type="PT">Celtic Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Celtic Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Celtic Christian</displayName>
+</concept>
+<concept code="368091000000108">
+<displayName lang="en" type="PT">Celtic Orthodox Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Celtic Orthodox Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Celtic Orthodox Christian</displayName>
+</concept>
+<concept code="368101000000100">
+<displayName lang="en" type="PT">Chinese Evangelical Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Chinese Evangelical Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Chinese Evangelical Christian</displayName>
+</concept>
+<concept code="368111000000103">
+<displayName lang="en" type="PT">Christian Existentialist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christian Existentialist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christian Existentialist</displayName>
+</concept>
+<concept code="368121000000109">
+<displayName lang="en" type="PT">Christian Humanist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Christian Humanist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Christian Humanist</displayName>
+</concept>
+<concept code="368131000000106">
+<displayName lang="en" type="PT">Church in Wales, follower of religion</displayName>
+<displayName lang="en" type="FSN">Church in Wales, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Church in Wales</displayName>
+</concept>
+<concept code="368141000000102">
+<displayName lang="en" type="PT">Church of Ireland, follower of religion</displayName>
+<displayName lang="en" type="FSN">Church of Ireland, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Church of Ireland</displayName>
+</concept>
+<concept code="368161000000101">
+<displayName lang="en" type="PT">Evangelical Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Evangelical Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Evangelical Christian</displayName>
+</concept>
+<concept code="368171000000108">
+<displayName lang="en" type="PT">Free Evangelical Presbyterian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Free Evangelical Presbyterian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Free Evangelical Presbyterian</displayName>
+</concept>
+<concept code="368181000000105">
+<displayName lang="en" type="PT">Free Presbyterian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Free Presbyterian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Free Presbyterian</displayName>
+</concept>
+<concept code="368191000000107">
+<displayName lang="en" type="PT">Greek Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Greek Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Greek Catholic</displayName>
+</concept>
+<concept code="368201000000109">
+<displayName lang="en" type="PT">Judaic Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Judaic Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Judaic Christian</displayName>
+</concept>
+<concept code="368221000000100">
+<displayName lang="en" type="PT">Mennonite, follower of religion</displayName>
+<displayName lang="en" type="FSN">Mennonite, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Mennonite</displayName>
+</concept>
+<concept code="368241000000107">
+<displayName lang="en" type="PT">Old Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Old Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Old Catholic</displayName>
+</concept>
+<concept code="368251000000105">
+<displayName lang="en" type="PT">Reformed Christian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Reformed Christian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Reformed Christian</displayName>
+</concept>
+<concept code="368261000000108">
+<displayName lang="en" type="PT">Reformed Presbyterian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Reformed Presbyterian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Reformed Presbyterian</displayName>
+</concept>
+<concept code="368271000000101">
+<displayName lang="en" type="PT">Reformed Protestant, follower of religion</displayName>
+<displayName lang="en" type="FSN">Reformed Protestant, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Reformed Protestant</displayName>
+</concept>
+<concept code="368281000000104">
+<displayName lang="en" type="PT">Romanian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Romanian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Romanian Orthodox</displayName>
+</concept>
+<concept code="368291000000102">
+<displayName lang="en" type="PT">Swedenborgian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Swedenborgian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Neo-christian</displayName>
+<displayName lang="en" type="SY">Swedenborgian</displayName>
+</concept>
+<concept code="368301000000103">
+<displayName lang="en" type="PT">Syrian Orthodox, follower of religion</displayName>
+<displayName lang="en" type="FSN">Syrian Orthodox, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Syrian Orthodox</displayName>
+</concept>
+<concept code="368311000000101">
+<displayName lang="en" type="PT">Ukrainian Catholic, follower of religion</displayName>
+<displayName lang="en" type="FSN">Ukrainian Catholic, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Ukrainian Catholic</displayName>
+</concept>
+<concept code="368321000000107">
+<displayName lang="en" type="PT">Zwinglian, follower of religion</displayName>
+<displayName lang="en" type="FSN">Zwinglian, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Zwinglian</displayName>
+</concept>
+<concept code="368331000000109">
+<displayName lang="en" type="PT">Radha Soami, follower of religion</displayName>
+<displayName lang="en" type="FSN">Radha Soami, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Radha Soami</displayName>
+<displayName lang="en" type="SY">Sant Mat</displayName>
+</concept>
+<concept code="368341000000100">
+<displayName lang="en" type="PT">Infinite way, follower of religion</displayName>
+<displayName lang="en" type="FSN">Infinite way, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Infinite way</displayName>
+</concept>
+<concept code="368351000000102">
+<displayName lang="en" type="PT">Deist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Deist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Deist</displayName>
+</concept>
+<concept code="368361000000104">
+<displayName lang="en" type="PT">Druze, follower of religion</displayName>
+<displayName lang="en" type="FSN">Druze, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Druze</displayName>
+</concept>
+<concept code="368371000000106">
+<displayName lang="en" type="PT">Peyotist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Peyotist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Peyotist</displayName>
+</concept>
+<concept code="368381000000108">
+<displayName lang="en" type="PT">Pantheist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Pantheist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Pantheist</displayName>
+</concept>
+<concept code="368391000000105">
+<displayName lang="en" type="PT">Santeria, follower of religion</displayName>
+<displayName lang="en" type="FSN">Santeria, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Santeria</displayName>
+</concept>
+<concept code="368401000000108">
+<displayName lang="en" type="PT">Universalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Universalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Universalist</displayName>
+</concept>
+<concept code="368411000000105">
+<displayName lang="en" type="PT">Unitarian Universalist, follower of religion</displayName>
+<displayName lang="en" type="FSN">Unitarian Universalist, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Unitarian Universalist</displayName>
+</concept>
+<concept code="368421000000104">
+<displayName lang="en" type="PT">Messianic Jew, follower of religion</displayName>
+<displayName lang="en" type="FSN">Messianic Jew, follower of religion (person)</displayName>
+<displayName lang="en" type="SY">Messianic Jew</displayName>
+</concept>
+<concept code="368511000000109">
+<displayName lang="en" type="PT">Native American religion, follower of religion</displayName>
+<displayName lang="en" type="FSN">Native American religion, follower of religion (person)</displayName>
+</concept>
+<concept code="968601000000101">
+<displayName lang="en" type="PT">Open Episcopal Church, follower of religion</displayName>
+<displayName lang="en" type="FSN">Open Episcopal Church, follower of religion (person)</displayName>
+</concept>
+</vocabulary>

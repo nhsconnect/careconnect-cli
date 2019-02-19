@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISUploadFileResponse" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.474">
+   <Description>
+            <p>A set of codes to indicate the Child Protection Information Sharing (CP-IS) service's response to a request for the upload of a file.</p>
+         </Description>
+   <concept code="CPF01">
+      <displayName>File Level Error</displayName>
+   </concept>
+   <concept code="CPF02">
+      <displayName>Successful File Upload</displayName>
+   </concept>
+   <concept code="CPF03">
+      <displayName>Partial File Upload</displayName>
+   </concept>
+   <concept code="CPF04">
+      <displayName>Unsuccessful File Upload</displayName>
+   </concept>
+   <concept code="CPF05">
+      <displayName>PDS Error - PDS Unavailable</displayName>
+   </concept>
+</vocabulary>

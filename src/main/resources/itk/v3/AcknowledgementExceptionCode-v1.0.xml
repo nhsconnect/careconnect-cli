@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AcknowledgementExceptionCode" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.32">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.32</p>
+            <p>A code specifying the messaging error which has caused the message to be rejected by the receiver.</p>
+            <p>This code system is maintained externally in the External Interface Specification V6.</p>
+         </Description>
+</vocabulary>

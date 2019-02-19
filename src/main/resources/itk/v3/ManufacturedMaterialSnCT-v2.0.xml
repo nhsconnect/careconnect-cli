@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ManufacturedMaterialSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A code from SNOMED CT UK subset that describes a manufactured material (e.g. a pharmaceutical product or personal medical device). These will form part of the NHS dm+d.</p>
+	           <strong>Any code from the SNOMED CT UK <em>Manufactured Material</em> subset with subset original id 1391000000139.</strong>
+         </Description>
+</vocabulary>

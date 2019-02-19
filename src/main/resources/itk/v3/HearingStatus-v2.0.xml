@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HearingStatus" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.98">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.98</p>
+            <p>This records a person's ability to hear.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Totally deaf</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Hearing significantly impaired</displayName>
+   </concept>
+</vocabulary>

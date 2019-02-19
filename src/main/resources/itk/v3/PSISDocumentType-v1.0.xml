@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PSISDocumentType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.25">
+   <Description>
+            <p>A vocabulary to state the types of documents that can be sent to PSIS.</p>
+            <p>This vocabulary does not include explicit values but references a list of other allowable vocabularies.</p> 
+            <p>
+               <b>CDADocumentTypeSnCT</b>
+            </p> 
+            <p>
+               <b>EventTypeSnCT</b>
+            </p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AuthorFunctionType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.178">
+   <Description>
+            <p>Indentifies the function of the author within a CDA document.</p>
+         </Description>
+   <concept code="OA">
+      <displayName>Originating Author</displayName>
+   </concept>
+   <concept code="SA">
+      <displayName>Sealing Author</displayName>
+   </concept>
+   <concept code="LA">
+      <displayName>Last Amending Author</displayName>
+   </concept>
+   <concept code="DA">
+      <displayName>Delegated Author</displayName>
+   </concept>
+</vocabulary>

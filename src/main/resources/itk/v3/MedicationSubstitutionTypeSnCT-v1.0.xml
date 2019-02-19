@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MedicationSubstitutionTypeSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the OID for the UK subset of <b>SnomedCT</b>, q.v.</p>
+            <p>Codes taken from the UK subset of SnomedCT representing that a different medication should be substituted for an existing medication.</p>
+            <p>Legend:</p>
+            <p>A code of TBA indicates that the SnCT code is not yet available.<br>+ after a code indicates that descendants of the code shall be used.</br>
+            </p>
+         </Description>
+   <concept code="182838006">
+      <displayName>change of medication (procedure)</displayName>
+   </concept>
+</vocabulary>

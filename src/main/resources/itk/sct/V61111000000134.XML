@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Newborn blood spot screening test procedures" type="Realm Concept" setId="67191000000134" version="2" id="61111000000134" refId="966301000000105" memberCount="9" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="314080004">
+<displayName lang="en" type="PT">Cystic fibrosis screening test</displayName>
+<displayName lang="en" type="FSN">Cystic fibrosis screening test (procedure)</displayName>
+</concept>
+<concept code="314081000">
+<displayName lang="en" type="PT">Phenylketonuria screening test</displayName>
+<displayName lang="en" type="FSN">Phenylketonuria screening test (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Hyperphenylalaninaemia screen</displayName>
+<displayName lang="en" type="SY">Phenylketonuria screening</displayName>
+<displayName lang="en" type="SY">Phenylketonuria test</displayName>
+</concept>
+<concept code="314090007">
+<displayName lang="en" type="PT">Sickle cell disease screening test</displayName>
+<displayName lang="en" type="FSN">Sickle cell disease screening test (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Sickle cell dis screening test</displayName>
+</concept>
+<concept code="400984005">
+<displayName lang="en" type="PT">Congenital hypothyroidism screening test</displayName>
+<displayName lang="en" type="FSN">Congenital hypothyroidism screening test (procedure)</displayName>
+</concept>
+<concept code="428056008">
+<displayName lang="en" type="PT">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test</displayName>
+<displayName lang="en" type="FSN">Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test (procedure)</displayName>
+<displayName lang="en" type="SY">Medium-chain acyl-coenzyme A dehydrogenase deficiency (MCADD) screening test</displayName>
+</concept>
+<concept code="940131000000109">
+<displayName lang="en" type="PT">Blood spot glutaric aciduria type 1 screening test</displayName>
+<displayName lang="en" type="FSN">Blood spot glutaric aciduria type 1 screening test (procedure)</displayName>
+<displayName lang="en" type="SY">Blood spot GA1 (glutaric aciduria type 1) screening test</displayName>
+</concept>
+<concept code="940151000000102">
+<displayName lang="en" type="PT">Blood spot isovaleric acidaemia screening test</displayName>
+<displayName lang="en" type="FSN">Blood spot isovaleric acidaemia screening test (procedure)</displayName>
+<displayName lang="en" type="SY">Blood spot IVA (isovaleric acidaemia) screening test</displayName>
+</concept>
+<concept code="940201000000107">
+<displayName lang="en" type="PT">Blood spot homocystinuria screening test</displayName>
+<displayName lang="en" type="FSN">Blood spot homocystinuria screening test (procedure)</displayName>
+<displayName lang="en" type="SY">Blood spot HCU (homocystinuria) screening test</displayName>
+</concept>
+<concept code="940221000000103">
+<displayName lang="en" type="PT">Blood spot MSUD (maple syrup urine disease) screening test</displayName>
+<displayName lang="en" type="FSN">Blood spot maple syrup urine disease screening test (procedure)</displayName>
+<displayName lang="en" type="SY">Blood spot maple syrup urine disease screening test</displayName>
+</concept>
+</vocabulary>

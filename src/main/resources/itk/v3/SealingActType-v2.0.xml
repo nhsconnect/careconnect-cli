@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SealingActType" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.161">
+   <Description>
+            <p>Indicates the type of sealing related act.</p>
+         </Description>
+   <concept code="RQTS">
+      <displayName>Request to seal</displayName>
+   </concept>
+   <concept code="SE">
+      <displayName>Sealing event</displayName>
+   </concept>
+   <concept code="USE">
+      <displayName>Unsealing event</displayName>
+   </concept>
+   <concept code="RTS">
+      <displayName>Refusal to seal</displayName>
+   </concept>
+   <concept code="RR">
+      <displayName>Refusal reason</displayName>
+   </concept>
+   <concept code="RQTUS">
+      <displayName>Request to unseal</displayName>
+   </concept>
+   <concept code="SLE">
+      <displayName>Sealing and locking event</displayName>
+   </concept>
+</vocabulary>

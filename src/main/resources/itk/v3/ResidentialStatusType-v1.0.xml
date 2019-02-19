@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ResidentialStatusType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.216">
+   <Description>
+            <p>An indicator for the residential status of a patient.<br/>
+            </p>
+         </Description>
+   <concept code="H">
+      <displayName>UK Resident</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Overseas Resident</displayName>
+   </concept>
+</vocabulary>

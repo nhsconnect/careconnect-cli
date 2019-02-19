@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SDSJobRoleName" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.196">
+   <Description>
+            <p>Identifies the job role associated with a person's SDS role profile. <br/>
+            </p>  
+            <p>This code system is externally managed by SDS.</p>
+         </Description>
+</vocabulary>

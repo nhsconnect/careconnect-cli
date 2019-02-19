@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsentToShareIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.11">
+   <Description>Consent to Share Indicator: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Express consent</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Express dissent</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Consent Status Unknown</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthDispositionSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p> </p>
+               <p> A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the telehealth encounter disposition.<br/>
+                  <br/>
+                  <strong>Any code from the SNOMED CT UK TelehealthDispositionSnCT subset with subset original id 45341000000138.</strong>
+                  <br/>
+                  <br/>The use of this subset is <strong>Advisory</strong>.<br/>
+                  <br/>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab. </p>
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="397709008">
+      <displayName>Patient died</displayName>
+   </concept>
+   <concept code="32485007">
+      <displayName>Hospital admission</displayName>
+   </concept>
+   <concept code="199971000000107">
+      <displayName>Assessed as not suitable for case management</displayName>
+   </concept>
+   <concept code="184081006">
+      <displayName>Patient has moved away</displayName>
+   </concept>
+</vocabulary>

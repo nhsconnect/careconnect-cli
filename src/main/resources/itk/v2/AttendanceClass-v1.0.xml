@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AttendanceClass" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.6">
+   <Description>Attendance Class: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+</vocabulary>

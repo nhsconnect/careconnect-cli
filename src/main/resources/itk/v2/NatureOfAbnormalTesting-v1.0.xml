@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NatureOfAbnormalTesting" version="1.0" status="created"
+            id="2.16.840.1.113883.12.80">
+   <Description>This table contains the nature of the abnormal test.
+					Table type: HL7</Description>
+   <concept code="A">
+      <displayName>An age-based population</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>None - generic normal range</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>A race-based population</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>A sex-based population</displayName>
+   </concept>
+</vocabulary>

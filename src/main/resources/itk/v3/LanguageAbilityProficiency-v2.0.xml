@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LanguageAbilityProficiency" version="2.0" status="active"
+            id="2.16.840.1.113883.5.61">
+   <Description>
+            <p>A vocabulary to describe the level of  proficiency in communicating a language.</p>
+         </Description>
+   <concept code="E">
+      <displayName>Excellent</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Fair</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Good</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Poor</displayName>
+   </concept>
+   <concept code="0">
+      <displayName>Interpreter not required</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Interpreter required</displayName>
+   </concept>
+</vocabulary>

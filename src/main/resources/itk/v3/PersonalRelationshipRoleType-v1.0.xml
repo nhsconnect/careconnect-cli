@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PersonalRelationshipRoleType" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.19563">
+   <Description>
+            <p>This vocabulary describes types of personal relationship between two living subjects.</p>
+         </Description>
+   <concept code="AUNT">
+      <displayName>aunt</displayName>
+   </concept>
+   <concept code="BRO">
+      <displayName>Brother</displayName>
+   </concept>
+   <concept code="BROINLAW">
+      <displayName>brother-in-law</displayName>
+   </concept>
+   <concept code="CHILD">
+      <displayName>Child</displayName>
+   </concept>
+   <concept code="CHLDADOPT">
+      <displayName>adopted child</displayName>
+   </concept>
+   <concept code="CHLDFOST">
+      <displayName>foster child</displayName>
+   </concept>
+   <concept code="CHLDINLAW">
+      <displayName>child in-law</displayName>
+   </concept>
+   <concept code="COUSN">
+      <displayName>cousin</displayName>
+   </concept>
+   <concept code="DAU">
+      <displayName>natural daughter</displayName>
+   </concept>
+   <concept code="DAUADOPT">
+      <displayName>adopted daughter</displayName>
+   </concept>
+   <concept code="DAUFOST">
+      <displayName>foster daughter</displayName>
+   </concept>
+   <concept code="DAUINLAW">
+      <displayName>daughter in-law</displayName>
+   </concept>
+   <concept code="DOMPART">
+      <displayName>domestic partner</displayName>
+   </concept>
+   <concept code="FAMMEMB">
+      <displayName>Family Member</displayName>
+   </concept>
+   <concept code="FRND">
+      <displayName>unrelated friend</displayName>
+   </concept>
+   <concept code="FTH">
+      <displayName>Father</displayName>
+   </concept>
+   <concept code="FTHINLAW">
+      <displayName>father-in-law</displayName>
+   </concept>
+   <concept code="GGRFTH">
+      <displayName>great grandfather</displayName>
+   </concept>
+   <concept code="GGRPRN">
+      <displayName>great grandparent</displayName>
+   </concept>
+   <concept code="GGRMTH">
+      <displayName>great grandmother</displayName>
+   </concept>
+   <concept code="GRFTH">
+      <displayName>Grandfather</displayName>
+   </concept>
+   <concept code="GRMTH">
+      <displayName>Grandmother</displayName>
+   </concept>
+   <concept code="GRNDCHILD">
+      <displayName>grandchild</displayName>
+   </concept>
+   <concept code="GRNDDAU">
+      <displayName>granddaughter</displayName>
+   </concept>
+   <concept code="GRNDSON">
+      <displayName>grandson</displayName>
+   </concept>
+   <concept code="GRPRN">
+      <displayName>Grandparent</displayName>
+   </concept>
+   <concept code="HBRO">
+      <displayName>half-brother</displayName>
+   </concept>
+   <concept code="HSIB">
+      <displayName>half-sibling</displayName>
+   </concept>
+   <concept code="HSIS">
+      <displayName>half-sister</displayName>
+   </concept>
+   <concept code="HUSB">
+      <displayName>husband</displayName>
+   </concept>
+   <concept code="MTH">
+      <displayName>Mother</displayName>
+   </concept>
+   <concept code="MTHINLOAW">
+      <displayName>mother-in-law</displayName>
+   </concept>
+   <concept code="NBOR">
+      <displayName>neighbor</displayName>
+   </concept>
+   <concept code="NBRO">
+      <displayName>natural brother</displayName>
+   </concept>
+   <concept code="NCHILD">
+      <displayName>natural child</displayName>
+   </concept>
+   <concept code="NEPHEW">
+      <displayName>nephew</displayName>
+   </concept>
+   <concept code="NFTH">
+      <displayName>natural father</displayName>
+   </concept>
+   <concept code="NIECE">
+      <displayName>niece</displayName>
+   </concept>
+   <concept code="NIENEPH">
+      <displayName>niece/nephew</displayName>
+   </concept>
+   <concept code="NMTH">
+      <displayName>natural mother</displayName>
+   </concept>
+   <concept code="NPRN">
+      <displayName>natural parent</displayName>
+   </concept>
+   <concept code="NSIB">
+      <displayName>natural sibling</displayName>
+   </concept>
+   <concept code="NSIS">
+      <displayName>natural sister</displayName>
+   </concept>
+   <concept code="PRN">
+      <displayName>Parent</displayName>
+   </concept>
+   <concept code="PRNINLAW">
+      <displayName>parent in-law</displayName>
+   </concept>
+   <concept code="ROOM">
+      <displayName>Roommate</displayName>
+   </concept>
+   <concept code="SIB">
+      <displayName>Sibling</displayName>
+   </concept>
+   <concept code="SIBINLAW">
+      <displayName>sibling in-law</displayName>
+   </concept>
+   <concept code="SIS">
+      <displayName>Sister</displayName>
+   </concept>
+   <concept code="SISLINLAW">
+      <displayName>sister-in-law</displayName>
+   </concept>
+   <concept code="SON">
+      <displayName>natural son</displayName>
+   </concept>
+   <concept code="SONADOPT">
+      <displayName>adopted son</displayName>
+   </concept>
+   <concept code="SONFOST">
+      <displayName>foster son</displayName>
+   </concept>
+   <concept code="SONINLAW">
+      <displayName>son in-law</displayName>
+   </concept>
+   <concept code="STPBRO">
+      <displayName>stepbrother</displayName>
+   </concept>
+   <concept code="STPCHLD">
+      <displayName>step child</displayName>
+   </concept>
+   <concept code="STPDAU">
+      <displayName>stepdaughter</displayName>
+   </concept>
+   <concept code="STPFTH">
+      <displayName>stepfather</displayName>
+   </concept>
+   <concept code="STPMTH">
+      <displayName>stepmother</displayName>
+   </concept>
+   <concept code="STPPRN">
+      <displayName>step parent</displayName>
+   </concept>
+   <concept code="STPSIB">
+      <displayName>step sibling</displayName>
+   </concept>
+   <concept code="STPSIS">
+      <displayName>stepsister</displayName>
+   </concept>
+   <concept code="STPSON">
+      <displayName>stepson</displayName>
+   </concept>
+   <concept code="SIGOTHR">
+      <displayName>significant other</displayName>
+   </concept>
+   <concept code="SPS">
+      <displayName>spouse</displayName>
+   </concept>
+   <concept code="UNCLE">
+      <displayName>uncle</displayName>
+   </concept>
+   <concept code="WIFE">
+      <displayName>wife</displayName>
+   </concept>
+</vocabulary>

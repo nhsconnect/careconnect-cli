@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrativeObservationType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.170">
+   <Description>
+            <p>To indicate the type of observed information.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Source</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>System effective date</displayName>
+   </concept>
+</vocabulary>

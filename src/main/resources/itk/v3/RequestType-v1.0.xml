@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RequestType" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.152">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.152</p>
+            <p>An indicator of the type of request to be created after the seamless transition is performed.</p>
+            <p>RequestType will be an external list of values maintained by Choose and Book.</p>
+         </Description>
+</vocabulary>

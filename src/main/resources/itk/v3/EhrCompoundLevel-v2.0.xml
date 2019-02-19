@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrCompoundLevel" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.91">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.91</p>
+            <p>A code indicating what kind of information this CompoundStatement contains. It affects the vocabulary applicable to the
+				<b>EhrCompoundCode</b> of the same <u>
+                  <i>CompoundStatement</i>
+               </u>, q.v.</p>
+         </Description>
+   <concept code="9b40.">
+      <displayName>Topic A subdivision of a composition related to a particular clinical issue (such as a problem)</displayName>
+   </concept>
+   <concept code="9b41.">
+      <displayName>Category A subdivision of a Composition or Topic containing similar elements (e.g. Subjective, Objective, Assessment, Plan)</displayName>
+   </concept>
+   <concept code="9b42.">
+      <displayName>Cluster A subdivision of a Composition, Topic or Category containing closely related Statements and / or Batteries</displayName>
+   </concept>
+   <concept code="9b43.">
+      <displayName>Battery A subdivision of Composition, Topic, Category or Cluster containing Statements that comprise the observations from an identifiable investigation.</displayName>
+   </concept>
+</vocabulary>

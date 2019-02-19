@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MedicationChargePayment" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.30">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary TBA</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.30</p>
+            <p>Records whether a payment was made to the dispenser or not.</p>
+         </Description>
+   <concept code="0001">
+      <displayName>A payment was made to the Dispenser</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>No payment was made to the Dispenser</displayName>
+   </concept>
+</vocabulary>

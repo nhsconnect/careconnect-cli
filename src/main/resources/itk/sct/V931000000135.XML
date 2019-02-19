@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Smoking" type="Realm Concept" setId="68441000000132" version="19" id="931000000135" refId="999000891000000102" memberCount="8" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="8392000">
+<displayName lang="en" type="PT">Non-smoker</displayName>
+<displayName lang="en" type="FSN">Non-smoker (finding)</displayName>
+</concept>
+<concept code="8517006">
+<displayName lang="en" type="PT">Ex-smoker</displayName>
+<displayName lang="en" type="FSN">Ex-smoker (finding)</displayName>
+<displayName lang="en" type="SY">Cessation of smoking</displayName>
+</concept>
+<concept code="59978006">
+<displayName lang="en" type="PT">Cigar smoker</displayName>
+<displayName lang="en" type="FSN">Cigar smoker (finding)</displayName>
+</concept>
+<concept code="65568007">
+<displayName lang="en" type="PT">Cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Cigarette smoker (finding)</displayName>
+</concept>
+<concept code="82302008">
+<displayName lang="en" type="PT">Pipe smoker</displayName>
+<displayName lang="en" type="FSN">Pipe smoker (finding)</displayName>
+</concept>
+<concept code="160619003">
+<displayName lang="en" type="PT">Rolls own cigarettes</displayName>
+<displayName lang="en" type="FSN">Rolls own cigarettes (finding)</displayName>
+</concept>
+<concept code="266919005">
+<displayName lang="en" type="PT">Never smoked tobacco</displayName>
+<displayName lang="en" type="FSN">Never smoked tobacco (finding)</displayName>
+<displayName lang="en" type="SY">Never smoked</displayName>
+</concept>
+<concept code="266920004">
+<displayName lang="en" type="PT">Trivial cigarette smoker (less than one cigarette/day)</displayName>
+<displayName lang="en" type="FSN">Trivial cigarette smoker (less than one cigarette/day) (finding)</displayName>
+<displayName lang="en" type="SY">Occasional cigarette smoker (less than one cigarette/day)</displayName>
+<displayName lang="en" type="SY">Occasional smoker</displayName>
+</concept>
+</vocabulary>

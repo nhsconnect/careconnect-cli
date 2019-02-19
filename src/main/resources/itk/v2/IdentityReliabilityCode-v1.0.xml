@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="IdentityReliabilityCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.445">
+   <Description>This table contains a coded values used to communicate information regarding the reliability of patient/person identifying data transmitted via a transaction.
+					Table type: User</Description>
+   <concept code="AL">
+      <displayName>Patient/Person Name is an Alias</displayName>
+   </concept>
+   <concept code="ED">
+      <displayName>Estimated Date of Birth</displayName>
+   </concept>
+   <concept code="NSTS01">
+      <displayName>Number present and verified</displayName>
+   </concept>
+   <concept code="NSTS02">
+      <displayName>Number present but not traced</displayName>
+   </concept>
+   <concept code="NSTS03">
+      <displayName>Trace required</displayName>
+   </concept>
+   <concept code="NSTS04">
+      <displayName>Trace attempted - No match or multiple match found</displayName>
+   </concept>
+   <concept code="NSTS05">
+      <displayName>Trace needs to be resolved - (NHS Number or patient detail conflict)</displayName>
+   </concept>
+   <concept code="NSTS06">
+      <displayName>Trace in progress</displayName>
+   </concept>
+   <concept code="NSTS07">
+      <displayName>Number not present and trace not required</displayName>
+   </concept>
+   <concept code="NSTS08">
+      <displayName>Trace postponed (baby under six weeks old)</displayName>
+   </concept>
+   <concept code="UA">
+      <displayName>Unknown/Default Address</displayName>
+   </concept>
+   <concept code="UD">
+      <displayName>Unknown/Default Date of Birth</displayName>
+   </concept>
+   <concept code="US">
+      <displayName>Unknown/Default Social Security Number</displayName>
+   </concept>
+</vocabulary>

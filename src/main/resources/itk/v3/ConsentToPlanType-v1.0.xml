@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsentToPlanType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.488">
+   <Description>
+            <span>Consent To Plan Type</span>
+         </Description>
+   <concept code="1">
+      <displayName>Consent given to share patient data with assisted service healthcare provider</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Consent given for assisted service healthcare provider to share patient data with specified third party</displayName>
+   </concept>
+</vocabulary>

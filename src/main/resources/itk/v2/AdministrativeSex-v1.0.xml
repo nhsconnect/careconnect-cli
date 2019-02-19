@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrativeSex" version="1.0" status="created"
+            id="2.16.840.1.113883.12.1">
+   <Description>A set of codes which represents the administrative sex of the subject.
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>Not Known</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Male</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Female</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

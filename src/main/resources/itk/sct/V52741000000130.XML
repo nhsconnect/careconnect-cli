@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Allergy Or Adverse Reaction DE SnCT" type="Realm Concept" setId="67981000000134" version="6" id="52741000000130" refId="999001391000000103" memberCount="8" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="62014003">
+<displayName lang="en" type="PT">Adverse reaction to drug</displayName>
+<displayName lang="en" type="FSN">Adverse reaction to drug (disorder)</displayName>
+<displayName lang="en" type="SY">ADR - Adverse drug reaction</displayName>
+<displayName lang="en" type="SY">Adverse drug effect</displayName>
+<displayName lang="en" type="SY">Adverse drug reaction</displayName>
+<displayName lang="en" type="SY">Drug reaction</displayName>
+</concept>
+<concept code="241937000">
+<displayName lang="en" type="PT">Drug-induced anaphylaxis</displayName>
+<displayName lang="en" type="FSN">Drug-induced anaphylaxis (disorder)</displayName>
+</concept>
+<concept code="241947002">
+<displayName lang="en" type="PT">Drug-induced anaphylactoid reaction</displayName>
+<displayName lang="en" type="FSN">Drug-induced anaphylactoid reaction (disorder)</displayName>
+</concept>
+<concept code="282100009">
+<displayName lang="en" type="PT">Adverse reaction to substance</displayName>
+<displayName lang="en" type="FSN">Adverse reaction to substance (disorder)</displayName>
+<displayName lang="en" type="SY">Adverse reactions to substance</displayName>
+</concept>
+<concept code="370540009">
+<displayName lang="en" type="PT">Adverse reaction to food</displayName>
+<displayName lang="en" type="FSN">Adverse reaction to food (disorder)</displayName>
+</concept>
+<concept code="416093006">
+<displayName lang="en" type="PT">Allergic reaction to drug</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to drug (disorder)</displayName>
+<displayName lang="en" type="SY">Allergic drug reaction</displayName>
+</concept>
+<concept code="418634005">
+<displayName lang="en" type="PT">Allergic reaction to substance</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to substance (disorder)</displayName>
+</concept>
+<concept code="419452009">
+<displayName lang="en" type="PT">Allergic reaction to food</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to food (disorder)</displayName>
+</concept>
+</vocabulary>

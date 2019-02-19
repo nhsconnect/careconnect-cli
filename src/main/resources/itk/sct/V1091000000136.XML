@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Link Assertion MIM" type="Realm Concept" setId="68711000000137" version="19" id="1091000000136" refId="999001001000000107" memberCount="5" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="416083004">
+<displayName lang="en" type="PT">Has reason</displayName>
+<displayName lang="en" type="FSN">Has reason (link assertion)</displayName>
+</concept>
+<concept code="416872009">
+<displayName lang="en-GB" type="PT">Is aetiology for</displayName>
+<displayName lang="en" type="FSN">Is etiology for (link assertion)</displayName>
+</concept>
+<concept code="417151001">
+<displayName lang="en" type="PT">Has explanation</displayName>
+<displayName lang="en" type="FSN">Has explanation (link assertion)</displayName>
+</concept>
+<concept code="417318003">
+<displayName lang="en" type="PT">Is manifestation of</displayName>
+<displayName lang="en" type="FSN">Is manifestation of (link assertion)</displayName>
+</concept>
+<concept code="417569004">
+<displayName lang="en" type="PT">Has support</displayName>
+<displayName lang="en" type="FSN">Has support (link assertion)</displayName>
+</concept>
+</vocabulary>

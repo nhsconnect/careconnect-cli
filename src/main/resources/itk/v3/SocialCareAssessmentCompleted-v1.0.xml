@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SocialCareAssessmentCompleted" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.519">
+   <Description>
+            <p>A vocabulary containing a set of codes to describe if the Social Care Assessment has been completed.<br/>
+            </p>
+         </Description>
+   <concept code="SCAC">
+      <displayName>Social Care Assessment has been completed.</displayName>
+   </concept>
+   <concept code="SCANC">
+      <displayName>Social Care Assessment has not been completed.</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="New Born Hearing Screening Outcome" type="Realm Concept" setId="67291000000138" version="3" id="52731000000135" refId="999002021000000105" memberCount="16" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="276781000000109">
+<displayName lang="en" type="PT">Newborn hearing screening programme completed, clear response no follow-up required</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme completed, clear response no follow-up required (situation)</displayName>
+<displayName lang="en" type="SY">Clear response no follow-up required</displayName>
+</concept>
+<concept code="276791000000106">
+<displayName lang="en" type="PT">Newborn hearing screening programme completed, clear response targeted follow-up required</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme completed, clear response targeted follow-up required (situation)</displayName>
+<displayName lang="en" type="SY">Clear response targeted follow-up required</displayName>
+</concept>
+<concept code="276801000000105">
+<displayName lang="en" type="PT">Newborn hearing screening programme completed, no clear response in one ear, follow-up required</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme completed, no clear response in one ear follow-up required (situation)</displayName>
+<displayName lang="en" type="SY">No clear response unilateral referral</displayName>
+</concept>
+<concept code="276811000000107">
+<displayName lang="en" type="PT">Newborn hearing screening programme completed, no clear response in both ears follow-up required</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme completed, no clear response in both ears follow-up required (situation)</displayName>
+<displayName lang="en" type="SY">No clear response bilateral referral</displayName>
+</concept>
+<concept code="276821000000101">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as declined screening</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as declined screening (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete declined screen</displayName>
+</concept>
+<concept code="276831000000104">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as did not attend appointment</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as did not attend appointment (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete appointment missed</displayName>
+</concept>
+<concept code="276841000000108">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as no current contact details</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as no current contact details (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete lost contact</displayName>
+</concept>
+<concept code="276851000000106">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as baby deceased</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as baby deceased (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete deceased</displayName>
+</concept>
+<concept code="276861000000109">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as outside of area of current screening coverage</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as outside of area of current screening coverage (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete out of screening coverage</displayName>
+</concept>
+<concept code="276871000000102">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as withdrew consent during screening</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as withdrew consent during screening (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete withdrew consent</displayName>
+</concept>
+<concept code="276881000000100">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as outside screening age range</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as outside screening age range (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete late entry</displayName>
+</concept>
+<concept code="276891000000103">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as screening equipment malfunction</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as screening equipment malfunction (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete equipment malfunction</displayName>
+</concept>
+<concept code="276901000000102">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as screening equipment not available</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as screening equipment not available (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete equipment not available</displayName>
+</concept>
+<concept code="279591000000106">
+<displayName lang="en" type="PT">Newborn hearing screening programme contraindicated</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme contraindicated (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete screening contraindicated</displayName>
+</concept>
+<concept code="279601000000100">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as lack of service capacity</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as lack of service capacity (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete lack of service capacity</displayName>
+</concept>
+<concept code="279611000000103">
+<displayName lang="en" type="PT">Newborn hearing screening programme incomplete as baby unsettled</displayName>
+<displayName lang="en" type="FSN">Newborn hearing screening programme incomplete as baby unsettled (situation)</displayName>
+<displayName lang="en" type="SY">Incomplete baby unsettled</displayName>
+</concept>
+</vocabulary>

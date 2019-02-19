@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryPriority" version="1.0" status="created"
+            id="2.16.840.1.113883.12.91">
+   <Description>This table contains the time frame in which the response is expected.
+					Table type: HL7</Description>
+   <concept code="D">
+      <displayName>Deferred</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Immediate</displayName>
+   </concept>
+</vocabulary>

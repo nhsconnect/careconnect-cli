@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MaritalStatus" version="1.0" status="created" id="2.16.840.1.113883.12.2">
+   <Description>A set of codes which represents the marital (civil) status of the subject.
+					Table type: User</Description>
+   <concept code="D">
+      <displayName>Divorced / Person whose Civil Partnership has been dissolved</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Married / Civil Partner</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not disclosed</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Separated</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Single</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Widowed / Surviving Civil Partner</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

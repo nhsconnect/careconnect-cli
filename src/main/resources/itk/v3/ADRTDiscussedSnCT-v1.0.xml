@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ADRTDiscussedSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A code that describes a whether healthcare professional is involved in advance decision to refuse treatment.</p>
+               <p>
+                  <strong>This is a preliminary set of values, for the full list consult the latest published version of the SNOMED CT subset with Original ID 47721000000137.</strong>
+               </p>
+            </p>
+         </Description>
+   <concept code="820621000000107">
+      <displayName>Has involved healthcare professional in discussion about advance decision to refuse treatment (Mental Capacity Act 2005) (finding)</displayName>
+   </concept>
+</vocabulary>

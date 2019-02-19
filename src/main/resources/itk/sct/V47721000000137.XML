@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Discussion about advance decision to refuse treatment findings" type="Realm Concept" setId="67231000000139" version="3" id="47721000000137" refId="999001941000000109" memberCount="1" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="820621000000107">
+<displayName lang="en" type="PT">Has involved healthcare professional in discussion about ADRT (advance decision to refuse treatment) (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has involved healthcare professional in discussion about advance decision to refuse treatment (Mental Capacity Act 2005) (finding)</displayName>
+</concept>
+</vocabulary>

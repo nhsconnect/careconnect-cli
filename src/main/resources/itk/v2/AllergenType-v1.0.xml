@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AllergenType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.127">
+   <Description>This table indicates a general allergy category (drug, food, pollen, etc.).
+					Table type: User</Description>
+   <concept code="AA">
+      <displayName>Animal Allergy</displayName>
+   </concept>
+   <concept code="DA">
+      <displayName>Drug allergy</displayName>
+   </concept>
+   <concept code="EA">
+      <displayName>Environmental Allergy</displayName>
+   </concept>
+   <concept code="FA">
+      <displayName>Food allergy</displayName>
+   </concept>
+   <concept code="IC">
+      <displayName>Inorganic Chemicals</displayName>
+   </concept>
+   <concept code="IN">
+      <displayName>Insects</displayName>
+   </concept>
+   <concept code="IO">
+      <displayName>Iodine</displayName>
+   </concept>
+   <concept code="LA">
+      <displayName>Pollen Allergy</displayName>
+   </concept>
+   <concept code="MA">
+      <displayName>Miscellaneous allergy</displayName>
+   </concept>
+   <concept code="MC">
+      <displayName>Miscellaneous contraindication</displayName>
+   </concept>
+   <concept code="OC">
+      <displayName>Organic Chemicals</displayName>
+   </concept>
+   <concept code="PA">
+      <displayName>Plant Allergy</displayName>
+   </concept>
+</vocabulary>

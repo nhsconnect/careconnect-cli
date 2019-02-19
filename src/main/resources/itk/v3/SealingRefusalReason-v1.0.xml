@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SealingRefusalReason" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.160">
+   <Description>
+            <p>The reasons for a clinician refusing to seal a item of information.</p>
+         </Description>
+   <concept code="PI">
+      <displayName>Public Interest</displayName>
+   </concept>
+</vocabulary>

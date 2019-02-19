@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ResuscitationMethod" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.45">
+   <Description>Resuscitation Method: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Positive pressure nil, drugs nil</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Positive pressure nil, drugs administered</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Positive pressure by mask, drugs nil</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Positive pressure by mask, drugs administered</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Positive pressure by endotracheal tube, drugs nil</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Positive pressure by endotracheal tube, drugs administered</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable (e.g. stillborn, where no method of resuscitation was attempted)</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known: a validation error</displayName>
+   </concept>
+</vocabulary>

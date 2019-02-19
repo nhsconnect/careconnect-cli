@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrCategory" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.800">
+   <Description>
+            <p>A code specifying the category that an EhrStatement belongs to in a GP2GP message.</p>
+	           <p>Code(s) tba.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Encounter disposition" type="Realm Concept" setId="68751000000138" version="17" id="1971000000139" refId="999000751000000102" memberCount="434" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="417005">
+<displayName lang="en" type="PT">Hospital re-admission</displayName>
+<displayName lang="en" type="FSN">Hospital re-admission (procedure)</displayName>
+</concept>
+<concept code="1505002">
+<displayName lang="en" type="PT">Hospital admission for isolation</displayName>
+<displayName lang="en" type="FSN">Hospital admission for isolation (procedure)</displayName>
+</concept>
+<concept code="1917008">
+<displayName lang="en" type="PT">Patient discharge, deceased, medicolegal case</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, medicolegal case (procedure)</displayName>
+</concept>
+<concept code="2252009">
+<displayName lang="en" type="PT">Hospital admission, urgent, 48 hours</displayName>
+<displayName lang="en" type="FSN">Hospital admission, urgent, 48 hours (procedure)</displayName>
+</concept>
+<concept code="2876009">
+<displayName lang="en" type="PT">Hospital admission, type unclassified, explain by report</displayName>
+<displayName lang="en" type="FSN">Hospital admission, type unclassified, explain by report (procedure)</displayName>
+</concept>
+<concept code="3133002">
+<displayName lang="en" type="PT">Patient discharge, deceased, autopsy</displayName>
+<displayName lang="en" type="FSN">Patient discharge, deceased, autopsy (procedure)</displayName>
+</concept>
+<concept code="3780001">
+<displayName lang="en" type="PT">Routine patient disposition, no follow-up planned</displayName>
+<displayName lang="en" type="FSN">Routine patient disposition, no follow-up planned (procedure)</displayName>
+</concept>
+<concept code="4563007">
+<displayName lang="en" type="PT">Hospital admission, transfer from other hospital or health care facility</displayName>
+<displayName lang="en" type="FSN">Hospital admission, transfer from other hospital or health care facility (procedure)</displayName>
+</concept>
+<concept code="5161006">
+<displayName lang="en-GB" type="PT">Speciality clinic admission</displayName>
+<displayName lang="en" type="FSN">Specialty clinic admission (procedure)</displayName>
+</concept>
+<concept code="8715000">
+<displayName lang="en" type="PT">Hospital admission, elective</displayName>
+<displayName lang="en" type="FSN">Hospital admission, elective (procedure)</displayName>
+<displayName lang="en" type="SY">Hospital admission, planned</displayName>
+</concept>
+<concept code="10161009">
+<displayName lang="en" type="PT">Patient discharge, to home, with assistance</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, with assistance (procedure)</displayName>
+</concept>
+<concept code="10378005">
+<displayName lang="en" type="PT">Hospital admission, emergency, from emergency room, accidental injury</displayName>
+<displayName lang="en" type="FSN">Hospital admission, emergency, from emergency room, accidental injury (procedure)</displayName>
+</concept>
+<concept code="11545006">
+<displayName lang="en" type="PT">Emergency room admission, dead on arrival (DOA)</displayName>
+<displayName lang="en" type="FSN">Emergency room admission, dead on arrival (procedure)</displayName>
+<displayName lang="en" type="SY">Emergency room admission, dead on arrival</displayName>
+</concept>
+<concept code="15584006">
+<displayName lang="en" type="PT">Hospital admission, elective, with partial pre-admission work-up</displayName>
+<displayName lang="en" type="FSN">Hospital admission, elective, with partial pre-admission work-up (procedure)</displayName>
+</concept>
+<concept code="18083007">
+<displayName lang="en" type="PT">Hospital admission, emergency, indirect</displayName>
+<displayName lang="en" type="FSN">Hospital admission, emergency, indirect (procedure)</displayName>
+</concept>
+<concept code="19951005">
+<displayName lang="en" type="PT">Hospital admission, emergency, from emergency room, medical nature</displayName>
+<displayName lang="en" type="FSN">Hospital admission, emergency, from emergency room, medical nature (procedure)</displayName>
+</concept>
+<concept code="20541009">
+<displayName lang="en" type="PT">Patient on pass</displayName>
+<displayName lang="en" type="FSN">Patient on pass (procedure)</displayName>
+</concept>
+<concept code="23473000">
+<displayName lang="en" type="PT">Hospital admission, for research investigation</displayName>
+<displayName lang="en" type="FSN">Hospital admission, for research investigation (procedure)</displayName>
+</concept>
+<concept code="25986004">
+<displayName lang="en" type="PT">Hospital admission, under police custody</displayName>
+<displayName lang="en" type="FSN">Hospital admission, under police custody (procedure)</displayName>
+</concept>
+<concept code="32485007">
+<displayName lang="en" type="PT">Hospital admission</displayName>
+<displayName lang="en" type="FSN">Hospital admission (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to hospital</displayName>
+</concept>
+<concept code="34596002">
+<displayName lang="en" type="PT">Patient discharge, elopement</displayName>
+<displayName lang="en" type="FSN">Patient discharge, elopement (procedure)</displayName>
+</concept>
+<concept code="36723004">
+<displayName lang="en" type="PT">Hospital admission, pre-nursing home placement</displayName>
+<displayName lang="en" type="FSN">Hospital admission, pre-nursing home placement (procedure)</displayName>
+</concept>
+<concept code="40274000">
+<displayName lang="en" type="PT">General outpatient clinic admission</displayName>
+<displayName lang="en" type="FSN">General outpatient clinic admission (procedure)</displayName>
+</concept>
+<concept code="45702004">
+<displayName lang="en" type="PT">Hospital admission, precertified by medical audit action</displayName>
+<displayName lang="en" type="FSN">Hospital admission, precertified by medical audit action (procedure)</displayName>
+</concept>
+<concept code="47348005">
+<displayName lang="en" type="PT">Hospital admission, mother, for observation, delivered outside of hospital</displayName>
+<displayName lang="en" type="FSN">Hospital admission, mother, for observation, delivered outside of hospital (procedure)</displayName>
+</concept>
+<concept code="48183000">
+<displayName lang="en" type="PT">Hospital admission, special</displayName>
+<displayName lang="en" type="FSN">Hospital admission, special (procedure)</displayName>
+</concept>
+<concept code="50331008">
+<displayName lang="en" type="PT">Emergency room admission, followed by release</displayName>
+<displayName lang="en" type="FSN">Emergency room admission, followed by release (procedure)</displayName>
+</concept>
+<concept code="50699000">
+<displayName lang="en" type="PT">Hospital admission, short-term</displayName>
+<displayName lang="en" type="FSN">Hospital admission, short-term (procedure)</displayName>
+<displayName lang="en" type="SY">Admission for short-term care</displayName>
+</concept>
+<concept code="50849002">
+<displayName lang="en" type="PT">Emergency room admission</displayName>
+<displayName lang="en" type="FSN">Emergency room admission (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to A &amp; E department</displayName>
+<displayName lang="en" type="SY">Admission to accident and emergency department</displayName>
+<displayName lang="en" type="SY">Admission to casualty department</displayName>
+<displayName lang="en" type="SY">Admission to emergency department</displayName>
+</concept>
+<concept code="50861005">
+<displayName lang="en" type="PT">Patient discharge, to legal custody</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to legal custody (procedure)</displayName>
+</concept>
+<concept code="51032003">
+<displayName lang="en" type="PT">Hospital admission, donor for transplant organ</displayName>
+<displayName lang="en" type="FSN">Hospital admission, donor for transplant organ (procedure)</displayName>
+</concept>
+<concept code="51501005">
+<displayName lang="en" type="PT">Hospital admission, parent, for in-hospital child care</displayName>
+<displayName lang="en" type="FSN">Hospital admission, parent, for in-hospital child care (procedure)</displayName>
+</concept>
+<concept code="52748007">
+<displayName lang="en" type="PT">Hospital admission, involuntary</displayName>
+<displayName lang="en" type="FSN">Hospital admission, involuntary (procedure)</displayName>
+</concept>
+<concept code="55402005">
+<displayName lang="en" type="PT">Hospital admission, for laboratory work-up, radiography, etc.</displayName>
+<displayName lang="en" type="FSN">Hospital admission, for laboratory work-up, radiography, etc. (procedure)</displayName>
+</concept>
+<concept code="58000006">
+<displayName lang="en" type="PT">Patient discharge</displayName>
+<displayName lang="en" type="FSN">Patient discharge (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge procedure</displayName>
+</concept>
+<concept code="60059000">
+<displayName lang="en" type="PT">Hospital admission, infant, for observation, delivered outside of hospital</displayName>
+<displayName lang="en" type="FSN">Hospital admission, infant, for observation, delivered outside of hospital (procedure)</displayName>
+</concept>
+<concept code="63551005">
+<displayName lang="en" type="PT">Hospital admission, from remote area, by means of special transportation</displayName>
+<displayName lang="en" type="FSN">Hospital admission, from remote area, by means of special transportation (procedure)</displayName>
+</concept>
+<concept code="65043002">
+<displayName lang="en" type="PT">Hospital admission, short-term, day care</displayName>
+<displayName lang="en" type="FSN">Hospital admission, short-term, day care (procedure)</displayName>
+</concept>
+<concept code="65537008">
+<displayName lang="en" type="PT">Patient discharge, to home, routine</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, routine (procedure)</displayName>
+</concept>
+<concept code="70755000">
+<displayName lang="en" type="PT">Hospital admission, by legal authority (commitment)</displayName>
+<displayName lang="en" type="FSN">Hospital admission, by legal authority (commitment) (procedure)</displayName>
+</concept>
+<concept code="71290004">
+<displayName lang="en" type="PT">Hospital admission, limited to designated procedures</displayName>
+<displayName lang="en" type="FSN">Hospital admission, limited to designated procedures (procedure)</displayName>
+</concept>
+<concept code="73607007">
+<displayName lang="en" type="PT">Hospital admission, emergency, from emergency room</displayName>
+<displayName lang="en" type="FSN">Hospital admission, emergency, from emergency room (procedure)</displayName>
+</concept>
+<concept code="74857009">
+<displayName lang="en" type="PT">Hospital admission, short-term, 24 hours</displayName>
+<displayName lang="en" type="FSN">Hospital admission, short-term, 24 hours (procedure)</displayName>
+</concept>
+<concept code="75004002">
+<displayName lang="en" type="PT">Emergency room admission, died in emergency room</displayName>
+<displayName lang="en" type="FSN">Emergency room admission, died in emergency room (procedure)</displayName>
+</concept>
+<concept code="76464004">
+<displayName lang="en" type="PT">Hospital admission, for observation</displayName>
+<displayName lang="en" type="FSN">Hospital admission, for observation (procedure)</displayName>
+</concept>
+<concept code="78680009">
+<displayName lang="en" type="PT">Hospital admission, emergency, direct</displayName>
+<displayName lang="en" type="FSN">Hospital admission, emergency, direct (procedure)</displayName>
+</concept>
+<concept code="81672003">
+<displayName lang="en" type="PT">Hospital admission, elective, without pre-admission work-up</displayName>
+<displayName lang="en" type="FSN">Hospital admission, elective, without pre-admission work-up (procedure)</displayName>
+</concept>
+<concept code="82942009">
+<displayName lang="en" type="PT">Hospital admission, blood donor</displayName>
+<displayName lang="en" type="FSN">Hospital admission, blood donor (procedure)</displayName>
+</concept>
+<concept code="86400002">
+<displayName lang="en" type="PT">Patient discharge, to home, ambulatory</displayName>
+<displayName lang="en" type="FSN">Patient discharge, to home, ambulatory (procedure)</displayName>
+</concept>
+<concept code="91310009">
+<displayName lang="en" type="PT">Patient follow-up to return when and if necessary</displayName>
+<displayName lang="en" type="FSN">Patient follow-up to return when and if necessary (procedure)</displayName>
+<displayName lang="en" type="SY">Patient follow-up open appointment</displayName>
+</concept>
+<concept code="107726003">
+<displayName lang="en" type="PT">Patient disposition</displayName>
+<displayName lang="en" type="FSN">Patient disposition (procedure)</displayName>
+</concept>
+<concept code="112689000">
+<displayName lang="en" type="PT">Hospital admission, elective, with complete pre-admission work-up</displayName>
+<displayName lang="en" type="FSN">Hospital admission, elective, with complete pre-admission work-up (procedure)</displayName>
+</concept>
+<concept code="112690009">
+<displayName lang="en" type="PT">Hospital admission, boarder, for social reasons</displayName>
+<displayName lang="en" type="FSN">Hospital admission, boarder, for social reasons (procedure)</displayName>
+</concept>
+<concept code="135847007">
+<displayName lang="en" type="PT">Involuntary admission</displayName>
+<displayName lang="en" type="FSN">Involuntary admission (procedure)</displayName>
+</concept>
+<concept code="135848002">
+<displayName lang="en" type="PT">Voluntary admission</displayName>
+<displayName lang="en" type="FSN">Voluntary admission (procedure)</displayName>
+</concept>
+<concept code="183430001">
+<displayName lang="en" type="PT">Holiday relief admission</displayName>
+<displayName lang="en" type="FSN">Holiday relief admission (procedure)</displayName>
+</concept>
+<concept code="183446009">
+<displayName lang="en" type="PT">Admission to cardiac intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to cardiac intensive care unit (procedure)</displayName>
+</concept>
+<concept code="183447000">
+<displayName lang="en" type="PT">Admission to respiratory intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to respiratory intensive care unit (procedure)</displayName>
+</concept>
+<concept code="183448005">
+<displayName lang="en" type="PT">Admission to neurological intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to neurological intensive care unit (procedure)</displayName>
+</concept>
+<concept code="183449002">
+<displayName lang="en" type="PT">Admission to metabolic intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to metabolic intensive care unit (procedure)</displayName>
+</concept>
+<concept code="183450002">
+<displayName lang="en" type="PT">Admission to burn unit</displayName>
+<displayName lang="en" type="FSN">Admission to burn unit (procedure)</displayName>
+</concept>
+<concept code="183452005">
+<displayName lang="en" type="PT">Emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183455007">
+<displayName lang="en" type="PT">Psychiatric emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Psychiatric emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183457004">
+<displayName lang="en" type="PT">Geriatric emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Geriatric emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183458009">
+<displayName lang="en-GB" type="PT">Paediatric emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Pediatric emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183459001">
+<displayName lang="en-GB" type="PT">Gynaecological emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Gynecological emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183460006">
+<displayName lang="en" type="PT">Obstetric emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Obstetric emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183461005">
+<displayName lang="en-GB" type="PT">Orthopaedic emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Orthopedic emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183462003">
+<displayName lang="en" type="PT">ENT emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Ear, nose and throat emergency hospital admission (procedure)</displayName>
+<displayName lang="en" type="SY">Ear, nose and throat emergency hospital admission</displayName>
+</concept>
+<concept code="183463008">
+<displayName lang="en" type="PT">Trauma emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Trauma emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183464002">
+<displayName lang="en" type="PT">Ophthalmological emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Ophthalmological emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183465001">
+<displayName lang="en" type="PT">Rheumatology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Rheumatology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183466000">
+<displayName lang="en" type="PT">Dermatology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Dermatology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183467009">
+<displayName lang="en" type="PT">Neurology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Neurology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183468004">
+<displayName lang="en" type="PT">Urology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Urology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183469007">
+<displayName lang="en" type="PT">Radiotherapy emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Radiotherapy emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183470008">
+<displayName lang="en-GB" type="PT">Haematology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Hematology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183471007">
+<displayName lang="en" type="PT">Plastic surgery emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Plastic surgery emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183472000">
+<displayName lang="en" type="PT">Diabetic emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Diabetic emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183473005">
+<displayName lang="en" type="PT">Oral surgical emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Oral surgical emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183474004">
+<displayName lang="en" type="PT">Psychogeriatric emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Psychogeriatric emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183475003">
+<displayName lang="en" type="PT">Renal medicine emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Renal medicine emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183476002">
+<displayName lang="en" type="PT">Neurosurgical emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Neurosurgical emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183477006">
+<displayName lang="en" type="PT">Cardiothoracic emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Cardiothoracic emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="183478001">
+<displayName lang="en" type="PT">Emergency hospital admission for asthma</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission for asthma (procedure)</displayName>
+</concept>
+<concept code="183481006">
+<displayName lang="en" type="PT">Non-urgent hospital admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent hospital admission (procedure)</displayName>
+</concept>
+<concept code="183487005">
+<displayName lang="en" type="PT">Non-urgent medical admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent medical admission (procedure)</displayName>
+</concept>
+<concept code="183488000">
+<displayName lang="en" type="PT">Non-urgent surgical admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent surgical admission (procedure)</displayName>
+</concept>
+<concept code="183489008">
+<displayName lang="en" type="PT">Non-urgent psychiatric admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent psychiatric admission (procedure)</displayName>
+</concept>
+<concept code="183491000">
+<displayName lang="en" type="PT">Non-urgent geriatric admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent geriatric admission (procedure)</displayName>
+</concept>
+<concept code="183492007">
+<displayName lang="en-GB" type="PT">Non-urgent paediatric admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent pediatric admission (procedure)</displayName>
+</concept>
+<concept code="183493002">
+<displayName lang="en-GB" type="PT">Non-urgent gynaecological admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent gynecological admission (procedure)</displayName>
+</concept>
+<concept code="183494008">
+<displayName lang="en" type="PT">Non-urgent obstetric admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent obstetric admission (procedure)</displayName>
+</concept>
+<concept code="183495009">
+<displayName lang="en-GB" type="PT">Non-urgent orthopaedic admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent orthopedic admission (procedure)</displayName>
+</concept>
+<concept code="183496005">
+<displayName lang="en" type="PT">Non-urgent ENT admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent ear, nose and throat admission (procedure)</displayName>
+<displayName lang="en" type="SY">Non-urgent ear, nose and throat admission</displayName>
+</concept>
+<concept code="183497001">
+<displayName lang="en" type="PT">Non-urgent trauma admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent trauma admission (procedure)</displayName>
+</concept>
+<concept code="183498006">
+<displayName lang="en" type="PT">Non-urgent ophthalmological admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent ophthalmological admission (procedure)</displayName>
+</concept>
+<concept code="183499003">
+<displayName lang="en" type="PT">Non-urgent rheumatology admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent rheumatology admission (procedure)</displayName>
+</concept>
+<concept code="183500007">
+<displayName lang="en" type="PT">Non-urgent dermatology admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent dermatology admission (procedure)</displayName>
+</concept>
+<concept code="183501006">
+<displayName lang="en" type="PT">Non-urgent neurology admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent neurology admission (procedure)</displayName>
+</concept>
+<concept code="183502004">
+<displayName lang="en" type="PT">Non-urgent urology admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent urology admission (procedure)</displayName>
+</concept>
+<concept code="183503009">
+<displayName lang="en" type="PT">Non-urgent radiotherapy admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent radiotherapy admission (procedure)</displayName>
+</concept>
+<concept code="183504003">
+<displayName lang="en-GB" type="PT">Non-urgent haematology admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent hematology admission (procedure)</displayName>
+</concept>
+<concept code="183505002">
+<displayName lang="en" type="PT">Non-urgent plastic surgery admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent plastic surgery admission (procedure)</displayName>
+</concept>
+<concept code="183506001">
+<displayName lang="en" type="PT">Non-urgent diabetic admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent diabetic admission (procedure)</displayName>
+</concept>
+<concept code="183507005">
+<displayName lang="en" type="PT">Non-urgent respiratory admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent respiratory admission (procedure)</displayName>
+</concept>
+<concept code="183508000">
+<displayName lang="en" type="PT">Non-urgent psychogeriatric admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent psychogeriatric admission (procedure)</displayName>
+</concept>
+<concept code="183509008">
+<displayName lang="en" type="PT">Non-urgent renal medicine admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent renal medicine admission (procedure)</displayName>
+</concept>
+<concept code="183510003">
+<displayName lang="en" type="PT">Non-urgent neurosurgical admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent neurosurgical admission (procedure)</displayName>
+</concept>
+<concept code="183511004">
+<displayName lang="en" type="PT">Non-urgent cardiothoracic admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent cardiothoracic admission (procedure)</displayName>
+</concept>
+<concept code="183512006">
+<displayName lang="en" type="PT">Non-urgent oral surgical admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent oral surgical admission (procedure)</displayName>
+</concept>
+<concept code="183672007">
+<displayName lang="en" type="PT">Delayed discharge to nursing home</displayName>
+<displayName lang="en" type="FSN">Delayed discharge to nursing home (procedure)</displayName>
+</concept>
+<concept code="183919006">
+<displayName lang="en" type="PT">Urgent admission to hospice</displayName>
+<displayName lang="en" type="FSN">Urgent admission to hospice (procedure)</displayName>
+</concept>
+<concept code="183920000">
+<displayName lang="en" type="PT">Routine admission to hospice</displayName>
+<displayName lang="en" type="FSN">Routine admission to hospice (procedure)</displayName>
+</concept>
+<concept code="183921001">
+<displayName lang="en" type="PT">Admission to hospice for respite</displayName>
+<displayName lang="en" type="FSN">Admission to hospice for respite (procedure)</displayName>
+</concept>
+<concept code="281685003">
+<displayName lang="en" type="PT">Admission for care</displayName>
+<displayName lang="en" type="FSN">Admission for care (procedure)</displayName>
+</concept>
+<concept code="304566005">
+<displayName lang="en" type="PT">Admission for treatment</displayName>
+<displayName lang="en" type="FSN">Admission for treatment (procedure)</displayName>
+</concept>
+<concept code="304567001">
+<displayName lang="en" type="PT">Admission for long-term care</displayName>
+<displayName lang="en" type="FSN">Admission for long-term care (procedure)</displayName>
+</concept>
+<concept code="304568006">
+<displayName lang="en" type="PT">Admission for respite care</displayName>
+<displayName lang="en" type="FSN">Admission for respite care (procedure)</displayName>
+</concept>
+<concept code="305336008">
+<displayName lang="en" type="PT">Admission to hospice</displayName>
+<displayName lang="en" type="FSN">Admission to hospice (procedure)</displayName>
+</concept>
+<concept code="305337004">
+<displayName lang="en" type="PT">Admission to community hospital</displayName>
+<displayName lang="en" type="FSN">Admission to community hospital (procedure)</displayName>
+</concept>
+<concept code="305338009">
+<displayName lang="en" type="PT">Admission to GP hospital</displayName>
+<displayName lang="en" type="FSN">Admission to general practice hospital (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to general practice hospital</displayName>
+</concept>
+<concept code="305339001">
+<displayName lang="en" type="PT">Admission to private hospital</displayName>
+<displayName lang="en" type="FSN">Admission to private hospital (procedure)</displayName>
+</concept>
+<concept code="305340004">
+<displayName lang="en" type="PT">Admission to long stay hospital</displayName>
+<displayName lang="en" type="FSN">Admission to long stay hospital (procedure)</displayName>
+</concept>
+<concept code="305341000">
+<displayName lang="en" type="PT">Admission to tertiary referral hospital</displayName>
+<displayName lang="en" type="FSN">Admission to tertiary referral hospital (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Admission to tertiary referral centre</displayName>
+</concept>
+<concept code="305342007">
+<displayName lang="en" type="PT">Admission to ward</displayName>
+<displayName lang="en" type="FSN">Admission to ward (procedure)</displayName>
+</concept>
+<concept code="305343002">
+<displayName lang="en" type="PT">Admission to day ward</displayName>
+<displayName lang="en" type="FSN">Admission to day ward (procedure)</displayName>
+</concept>
+<concept code="305344008">
+<displayName lang="en" type="PT">Admission to day hospital</displayName>
+<displayName lang="en" type="FSN">Admission to day hospital (procedure)</displayName>
+</concept>
+<concept code="305345009">
+<displayName lang="en" type="PT">Admission to psychiatric day hospital</displayName>
+<displayName lang="en" type="FSN">Admission to psychiatric day hospital (procedure)</displayName>
+</concept>
+<concept code="305346005">
+<displayName lang="en" type="PT">Admission to psychogeriatric day hospital</displayName>
+<displayName lang="en" type="FSN">Admission to psychogeriatric day hospital (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to elderly mentally ill day hospital</displayName>
+<displayName lang="en" type="SY">Admission to old age psychiatry day hospital</displayName>
+</concept>
+<concept code="305347001">
+<displayName lang="en" type="PT">Admission to elderly severely mentally ill day hospital</displayName>
+<displayName lang="en" type="FSN">Admission to elderly severely mentally ill day hospital (procedure)</displayName>
+</concept>
+<concept code="305348006">
+<displayName lang="en" type="PT">Admission to care of the elderly day hospital</displayName>
+<displayName lang="en" type="FSN">Admission to care of the elderly day hospital (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to geriatric day hospital</displayName>
+</concept>
+<concept code="305350003">
+<displayName lang="en-GB" type="PT">Admission to anaesthetic department</displayName>
+<displayName lang="en" type="FSN">Admission to anesthetic department (procedure)</displayName>
+</concept>
+<concept code="305351004">
+<displayName lang="en" type="PT">Admission to intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to intensive care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Admit to ITU</displayName>
+<displayName lang="en" type="SY">Admit to intensive care unit</displayName>
+<displayName lang="en" type="SY">ICU - Admission to intensive care unit</displayName>
+</concept>
+<concept code="305352006">
+<displayName lang="en" type="PT">Admission to adult intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to adult intensive care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to adult ITU</displayName>
+</concept>
+<concept code="305353001">
+<displayName lang="en-GB" type="PT">Admission to paediatric intensive care unit</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric intensive care unit (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Admission to paediatric ITU</displayName>
+</concept>
+<concept code="305354007">
+<displayName lang="en" type="PT">Admission to medical department</displayName>
+<displayName lang="en" type="FSN">Admission to medical department (procedure)</displayName>
+</concept>
+<concept code="305355008">
+<displayName lang="en" type="PT">Admission to clinical allergy department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical allergy department (procedure)</displayName>
+</concept>
+<concept code="305356009">
+<displayName lang="en" type="PT">Admission to audiology department</displayName>
+<displayName lang="en" type="FSN">Admission to audiology department (procedure)</displayName>
+</concept>
+<concept code="305357000">
+<displayName lang="en" type="PT">Admission to cardiology department</displayName>
+<displayName lang="en" type="FSN">Admission to cardiology department (procedure)</displayName>
+</concept>
+<concept code="305358005">
+<displayName lang="en" type="PT">Admission to chest medicine department</displayName>
+<displayName lang="en" type="FSN">Admission to chest medicine department (procedure)</displayName>
+</concept>
+<concept code="305359002">
+<displayName lang="en" type="PT">Admission to thoracic medicine department</displayName>
+<displayName lang="en" type="FSN">Admission to thoracic medicine department (procedure)</displayName>
+</concept>
+<concept code="305360007">
+<displayName lang="en" type="PT">Admission to respiratory medicine department</displayName>
+<displayName lang="en" type="FSN">Admission to respiratory medicine department (procedure)</displayName>
+</concept>
+<concept code="305361006">
+<displayName lang="en" type="PT">Admission to clinical immunology department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical immunology department (procedure)</displayName>
+</concept>
+<concept code="305362004">
+<displayName lang="en" type="PT">Admission to clinical neurophysiology department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical neurophysiology department (procedure)</displayName>
+</concept>
+<concept code="305363009">
+<displayName lang="en" type="PT">Admission to clinical pharmacology department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical pharmacology department (procedure)</displayName>
+</concept>
+<concept code="305364003">
+<displayName lang="en" type="PT">Admission to clinical physiology department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical physiology department (procedure)</displayName>
+</concept>
+<concept code="305365002">
+<displayName lang="en" type="PT">Admission to dermatology department</displayName>
+<displayName lang="en" type="FSN">Admission to dermatology department (procedure)</displayName>
+</concept>
+<concept code="305366001">
+<displayName lang="en" type="PT">Admission to endocrinology department</displayName>
+<displayName lang="en" type="FSN">Admission to endocrinology department (procedure)</displayName>
+</concept>
+<concept code="305367005">
+<displayName lang="en" type="PT">Admission to gastroenterology department</displayName>
+<displayName lang="en" type="FSN">Admission to gastroenterology department (procedure)</displayName>
+</concept>
+<concept code="305368000">
+<displayName lang="en" type="PT">Admission to general medical department</displayName>
+<displayName lang="en" type="FSN">Admission to general medical department (procedure)</displayName>
+</concept>
+<concept code="305369008">
+<displayName lang="en" type="PT">Admission to genetics department</displayName>
+<displayName lang="en" type="FSN">Admission to genetics department (procedure)</displayName>
+</concept>
+<concept code="305370009">
+<displayName lang="en" type="PT">Admission to clinical genetics department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical genetics department (procedure)</displayName>
+</concept>
+<concept code="305371008">
+<displayName lang="en" type="PT">Admission to clinical cytogenetics department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical cytogenetics department (procedure)</displayName>
+</concept>
+<concept code="305372001">
+<displayName lang="en" type="PT">Admission to clinical molecular genetics department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical molecular genetics department (procedure)</displayName>
+</concept>
+<concept code="305374000">
+<displayName lang="en" type="PT">Admission to genitourinary medicine department</displayName>
+<displayName lang="en" type="FSN">Admission to genitourinary medicine department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to GU medicine department</displayName>
+<displayName lang="en" type="SY">Admission to STD department</displayName>
+<displayName lang="en" type="SY">Admission to sexually transmittable diseases department</displayName>
+</concept>
+<concept code="305375004">
+<displayName lang="en" type="PT">Admission to care of the elderly department</displayName>
+<displayName lang="en" type="FSN">Admission to care of the elderly department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to geriatric medicine department</displayName>
+</concept>
+<concept code="305376003">
+<displayName lang="en" type="PT">Admission to infectious diseases department</displayName>
+<displayName lang="en" type="FSN">Admission to infectious diseases department (procedure)</displayName>
+</concept>
+<concept code="305377007">
+<displayName lang="en" type="PT">Admission to medical ophthalmology department</displayName>
+<displayName lang="en" type="FSN">Admission to medical ophthalmology department (procedure)</displayName>
+</concept>
+<concept code="305378002">
+<displayName lang="en" type="PT">Admission to nephrology department</displayName>
+<displayName lang="en" type="FSN">Admission to nephrology department (procedure)</displayName>
+</concept>
+<concept code="305379005">
+<displayName lang="en" type="PT">Admission to neurology department</displayName>
+<displayName lang="en" type="FSN">Admission to neurology department (procedure)</displayName>
+</concept>
+<concept code="305380008">
+<displayName lang="en" type="PT">Admission to nuclear medicine department</displayName>
+<displayName lang="en" type="FSN">Admission to nuclear medicine department (procedure)</displayName>
+</concept>
+<concept code="305381007">
+<displayName lang="en" type="PT">Admission to palliative care department</displayName>
+<displayName lang="en" type="FSN">Admission to palliative care department (procedure)</displayName>
+</concept>
+<concept code="305382000">
+<displayName lang="en" type="PT">Admission to rehabilitation department</displayName>
+<displayName lang="en" type="FSN">Admission to rehabilitation department (procedure)</displayName>
+</concept>
+<concept code="305383005">
+<displayName lang="en" type="PT">Admission to rheumatology department</displayName>
+<displayName lang="en" type="FSN">Admission to rheumatology department (procedure)</displayName>
+</concept>
+<concept code="305384004">
+<displayName lang="en-GB" type="PT">Admission to obstetrics and gynaecology department</displayName>
+<displayName lang="en" type="FSN">Admission to obstetrics and gynecology department (procedure)</displayName>
+</concept>
+<concept code="305385003">
+<displayName lang="en-GB" type="PT">Admission to gynaecology department</displayName>
+<displayName lang="en" type="FSN">Admission to gynecology department (procedure)</displayName>
+</concept>
+<concept code="305386002">
+<displayName lang="en" type="PT">Admission to obstetrics department</displayName>
+<displayName lang="en" type="FSN">Admission to obstetrics department (procedure)</displayName>
+</concept>
+<concept code="305387006">
+<displayName lang="en-GB" type="PT">Admission to paediatric department</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric department (procedure)</displayName>
+</concept>
+<concept code="305388001">
+<displayName lang="en" type="PT">Admission to special care baby unit</displayName>
+<displayName lang="en" type="FSN">Admission to special care baby unit (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to SCBU</displayName>
+</concept>
+<concept code="305389009">
+<displayName lang="en-GB" type="PT">Admission to paediatric neurology department</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric neurology department (procedure)</displayName>
+</concept>
+<concept code="305390000">
+<displayName lang="en-GB" type="PT">Admission to paediatric oncology department</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric oncology department (procedure)</displayName>
+</concept>
+<concept code="305391001">
+<displayName lang="en" type="PT">Admission to pain management department</displayName>
+<displayName lang="en" type="FSN">Admission to pain management department (procedure)</displayName>
+</concept>
+<concept code="305392008">
+<displayName lang="en" type="PT">Admission to pathology department</displayName>
+<displayName lang="en" type="FSN">Admission to pathology department (procedure)</displayName>
+</concept>
+<concept code="305393003">
+<displayName lang="en" type="PT">Admission to blood transfusion department</displayName>
+<displayName lang="en" type="FSN">Admission to blood transfusion department (procedure)</displayName>
+</concept>
+<concept code="305394009">
+<displayName lang="en" type="PT">Admission to chemical pathology department</displayName>
+<displayName lang="en" type="FSN">Admission to chemical pathology department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to clinical biochemistry department</displayName>
+</concept>
+<concept code="305395005">
+<displayName lang="en" type="PT">Admission to general pathology department</displayName>
+<displayName lang="en" type="FSN">Admission to general pathology department (procedure)</displayName>
+</concept>
+<concept code="305396006">
+<displayName lang="en-GB" type="PT">Admission to haematology department</displayName>
+<displayName lang="en" type="FSN">Admission to hematology department (procedure)</displayName>
+</concept>
+<concept code="305397002">
+<displayName lang="en" type="PT">Admission to medical microbiology department</displayName>
+<displayName lang="en" type="FSN">Admission to medical microbiology department (procedure)</displayName>
+</concept>
+<concept code="305398007">
+<displayName lang="en" type="PT">Admission to the mortuary</displayName>
+<displayName lang="en" type="FSN">Admission to the mortuary (procedure)</displayName>
+</concept>
+<concept code="305399004">
+<displayName lang="en" type="PT">Admission to neuropathology department</displayName>
+<displayName lang="en" type="FSN">Admission to neuropathology department (procedure)</displayName>
+</concept>
+<concept code="305400006">
+<displayName lang="en" type="PT">Admission to psychiatry department</displayName>
+<displayName lang="en" type="FSN">Admission to psychiatry department (procedure)</displayName>
+</concept>
+<concept code="305401005">
+<displayName lang="en" type="PT">Admission to child and adolescent psychiatry department</displayName>
+<displayName lang="en" type="FSN">Admission to child and adolescent psychiatry department (procedure)</displayName>
+</concept>
+<concept code="305402003">
+<displayName lang="en" type="PT">Admission to forensic psychiatry department</displayName>
+<displayName lang="en" type="FSN">Admission to forensic psychiatry department (procedure)</displayName>
+</concept>
+<concept code="305403008">
+<displayName lang="en" type="PT">Admission to psychogeriatric department</displayName>
+<displayName lang="en" type="FSN">Admission to psychogeriatric department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to elderly mentally ill department</displayName>
+<displayName lang="en" type="SY">Admission to old age psychiatry department</displayName>
+</concept>
+<concept code="305404002">
+<displayName lang="en" type="PT">Admission to mental handicap psychiatry department</displayName>
+<displayName lang="en" type="FSN">Admission to mental handicap psychiatry department (procedure)</displayName>
+</concept>
+<concept code="305405001">
+<displayName lang="en" type="PT">Admission to rehabilitation psychiatry department</displayName>
+<displayName lang="en" type="FSN">Admission to rehabilitation psychiatry department (procedure)</displayName>
+</concept>
+<concept code="305406000">
+<displayName lang="en" type="PT">Admission to radiology department</displayName>
+<displayName lang="en" type="FSN">Admission to radiology department (procedure)</displayName>
+</concept>
+<concept code="305407009">
+<displayName lang="en" type="PT">Admission to occupational health department</displayName>
+<displayName lang="en" type="FSN">Admission to occupational health department (procedure)</displayName>
+</concept>
+<concept code="305408004">
+<displayName lang="en" type="PT">Admission to surgical department</displayName>
+<displayName lang="en" type="FSN">Admission to surgical department (procedure)</displayName>
+</concept>
+<concept code="305409007">
+<displayName lang="en" type="PT">Admission to breast surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to breast surgery department (procedure)</displayName>
+</concept>
+<concept code="305410002">
+<displayName lang="en" type="PT">Admission to cardiothoracic surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to cardiothoracic surgery department (procedure)</displayName>
+</concept>
+<concept code="305411003">
+<displayName lang="en" type="PT">Admission to thoracic surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to thoracic surgery department (procedure)</displayName>
+</concept>
+<concept code="305412005">
+<displayName lang="en" type="PT">Admission to cardiac surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to cardiac surgery department (procedure)</displayName>
+</concept>
+<concept code="305413000">
+<displayName lang="en" type="PT">Admission to dental surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to dental surgery department (procedure)</displayName>
+</concept>
+<concept code="305414006">
+<displayName lang="en" type="PT">Admission to orthodontics department</displayName>
+<displayName lang="en" type="FSN">Admission to orthodontics department (procedure)</displayName>
+</concept>
+<concept code="305415007">
+<displayName lang="en-GB" type="PT">Admission to paediatric dentistry department</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric dentistry department (procedure)</displayName>
+</concept>
+<concept code="305416008">
+<displayName lang="en" type="PT">Admission to restorative dentistry department</displayName>
+<displayName lang="en" type="FSN">Admission to restorative dentistry department (procedure)</displayName>
+</concept>
+<concept code="305417004">
+<displayName lang="en" type="PT">Admission to ear, nose and throat department</displayName>
+<displayName lang="en" type="FSN">Admission to ear, nose and throat department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to ENT department</displayName>
+</concept>
+<concept code="305418009">
+<displayName lang="en" type="PT">Admission to endocrine surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to endocrine surgery department (procedure)</displayName>
+</concept>
+<concept code="305419001">
+<displayName lang="en" type="PT">Admission to gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to gastrointestinal surgery department (procedure)</displayName>
+</concept>
+<concept code="305420007">
+<displayName lang="en" type="PT">Admission to general gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to general gastrointestinal surgery department (procedure)</displayName>
+</concept>
+<concept code="305421006">
+<displayName lang="en" type="PT">Admission to upper gastrointestinal surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to upper gastrointestinal surgery department (procedure)</displayName>
+</concept>
+<concept code="305422004">
+<displayName lang="en" type="PT">Admission to colorectal surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to colorectal surgery department (procedure)</displayName>
+</concept>
+<concept code="305423009">
+<displayName lang="en" type="PT">Admission to general surgical department</displayName>
+<displayName lang="en" type="FSN">Admission to general surgical department (procedure)</displayName>
+</concept>
+<concept code="305424003">
+<displayName lang="en" type="PT">Admission to hepatobiliary surgical department</displayName>
+<displayName lang="en" type="FSN">Admission to hepatobiliary surgical department (procedure)</displayName>
+</concept>
+<concept code="305425002">
+<displayName lang="en" type="PT">Admission to neurosurgical department</displayName>
+<displayName lang="en" type="FSN">Admission to neurosurgical department (procedure)</displayName>
+</concept>
+<concept code="305426001">
+<displayName lang="en" type="PT">Admission to ophthalmology department</displayName>
+<displayName lang="en" type="FSN">Admission to ophthalmology department (procedure)</displayName>
+</concept>
+<concept code="305427005">
+<displayName lang="en" type="PT">Admission to oral surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to oral surgery department (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to maxillofacial surgery department</displayName>
+</concept>
+<concept code="305428000">
+<displayName lang="en-GB" type="PT">Admission to orthopaedic department</displayName>
+<displayName lang="en" type="FSN">Admission to orthopedic department (procedure)</displayName>
+</concept>
+<concept code="305429008">
+<displayName lang="en" type="PT">Admission to pancreatic surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to pancreatic surgery department (procedure)</displayName>
+</concept>
+<concept code="305430003">
+<displayName lang="en-GB" type="PT">Admission to paediatric surgical department</displayName>
+<displayName lang="en" type="FSN">Admission to pediatric surgical department (procedure)</displayName>
+</concept>
+<concept code="305431004">
+<displayName lang="en" type="PT">Admission to plastic surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to plastic surgery department (procedure)</displayName>
+</concept>
+<concept code="305432006">
+<displayName lang="en" type="PT">Admission to surgical transplant department</displayName>
+<displayName lang="en" type="FSN">Admission to surgical transplant department (procedure)</displayName>
+</concept>
+<concept code="305433001">
+<displayName lang="en" type="PT">Admission to trauma surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to trauma surgery department (procedure)</displayName>
+</concept>
+<concept code="305434007">
+<displayName lang="en" type="PT">Admission to urology department</displayName>
+<displayName lang="en" type="FSN">Admission to urology department (procedure)</displayName>
+</concept>
+<concept code="305435008">
+<displayName lang="en" type="PT">Admission to vascular surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to vascular surgery department (procedure)</displayName>
+</concept>
+<concept code="306563004">
+<displayName lang="en" type="PT">Discharge from Accident and Emergency service</displayName>
+<displayName lang="en" type="FSN">Discharge from Accident and Emergency service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from A &amp; E service</displayName>
+<displayName lang="en" type="SY">Discharge from casualty service</displayName>
+</concept>
+<concept code="306564005">
+<displayName lang="en-GB" type="PT">Discharge from anaesthetic service</displayName>
+<displayName lang="en" type="FSN">Discharge from anesthetic service (procedure)</displayName>
+</concept>
+<concept code="306565006">
+<displayName lang="en" type="PT">Discharge from clinical oncology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical oncology service (procedure)</displayName>
+</concept>
+<concept code="306566007">
+<displayName lang="en" type="PT">Discharge from radiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from radiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306567003">
+<displayName lang="en" type="PT">Discharge from family planning service</displayName>
+<displayName lang="en" type="FSN">Discharge from family planning service (procedure)</displayName>
+</concept>
+<concept code="306568008">
+<displayName lang="en" type="PT">Discharge from intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from intensive care service (procedure)</displayName>
+</concept>
+<concept code="306569000">
+<displayName lang="en" type="PT">Discharge from adult intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from adult intensive care service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from adult ITU service</displayName>
+</concept>
+<concept code="306570004">
+<displayName lang="en-GB" type="PT">Discharge from paediatric intensive care service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric intensive care service (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge from paediatric ITU</displayName>
+</concept>
+<concept code="306571000">
+<displayName lang="en" type="PT">Discharge from medical service</displayName>
+<displayName lang="en" type="FSN">Discharge from medical service (procedure)</displayName>
+</concept>
+<concept code="306572007">
+<displayName lang="en" type="PT">Discharge from clinical allergy service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical allergy service (procedure)</displayName>
+</concept>
+<concept code="306573002">
+<displayName lang="en" type="PT">Discharge from audiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from audiology service (procedure)</displayName>
+</concept>
+<concept code="306574008">
+<displayName lang="en" type="PT">Discharge from cardiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiology service (procedure)</displayName>
+</concept>
+<concept code="306575009">
+<displayName lang="en" type="PT">Discharge from chest medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from chest medicine service (procedure)</displayName>
+</concept>
+<concept code="306576005">
+<displayName lang="en" type="PT">Discharge from respiratory medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from respiratory medicine service (procedure)</displayName>
+</concept>
+<concept code="306577001">
+<displayName lang="en" type="PT">Discharge from thoracic medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from thoracic medicine service (procedure)</displayName>
+</concept>
+<concept code="306578006">
+<displayName lang="en" type="PT">Discharge from clinical immunology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical immunology service (procedure)</displayName>
+</concept>
+<concept code="306579003">
+<displayName lang="en" type="PT">Discharge from clinical neurophysiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical neurophysiology service (procedure)</displayName>
+</concept>
+<concept code="306580000">
+<displayName lang="en" type="PT">Discharge from clinical pharmacology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical pharmacology service (procedure)</displayName>
+</concept>
+<concept code="306581001">
+<displayName lang="en" type="PT">Discharge from clinical physiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical physiology service (procedure)</displayName>
+</concept>
+<concept code="306582008">
+<displayName lang="en" type="PT">Discharge from dermatology service</displayName>
+<displayName lang="en" type="FSN">Discharge from dermatology service (procedure)</displayName>
+</concept>
+<concept code="306583003">
+<displayName lang="en" type="PT">Discharge from endocrinology service</displayName>
+<displayName lang="en" type="FSN">Discharge from endocrinology service (procedure)</displayName>
+</concept>
+<concept code="306584009">
+<displayName lang="en" type="PT">Discharge from gastroenterology service</displayName>
+<displayName lang="en" type="FSN">Discharge from gastroenterology service (procedure)</displayName>
+</concept>
+<concept code="306585005">
+<displayName lang="en" type="PT">Discharge from general medical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general medical service (procedure)</displayName>
+</concept>
+<concept code="306586006">
+<displayName lang="en" type="PT">Discharge from genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from genetics service (procedure)</displayName>
+</concept>
+<concept code="306588007">
+<displayName lang="en" type="PT">Discharge from clinical genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical genetics service (procedure)</displayName>
+</concept>
+<concept code="306589004">
+<displayName lang="en" type="PT">Discharge from clinical cytogenetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical cytogenetics service (procedure)</displayName>
+</concept>
+<concept code="306590008">
+<displayName lang="en" type="PT">Discharge from clinical molecular genetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from clinical molecular genetics service (procedure)</displayName>
+</concept>
+<concept code="306591007">
+<displayName lang="en" type="PT">Discharge from genitourinary medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from genitourinary medicine service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from GU medicine service</displayName>
+<displayName lang="en" type="SY">Discharge from sexually transmittable diseases service</displayName>
+</concept>
+<concept code="306592000">
+<displayName lang="en" type="PT">Discharge from care of the elderly service</displayName>
+<displayName lang="en" type="FSN">Discharge from care of the elderly service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from geriatric medicine service</displayName>
+</concept>
+<concept code="306593005">
+<displayName lang="en" type="PT">Discharge from infectious diseases service</displayName>
+<displayName lang="en" type="FSN">Discharge from infectious diseases service (procedure)</displayName>
+</concept>
+<concept code="306594004">
+<displayName lang="en" type="PT">Discharge from nephrology service</displayName>
+<displayName lang="en" type="FSN">Discharge from nephrology service (procedure)</displayName>
+</concept>
+<concept code="306595003">
+<displayName lang="en" type="PT">Discharge from neurology service</displayName>
+<displayName lang="en" type="FSN">Discharge from neurology service (procedure)</displayName>
+</concept>
+<concept code="306596002">
+<displayName lang="en" type="PT">Discharge from nuclear medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from nuclear medicine service (procedure)</displayName>
+</concept>
+<concept code="306597006">
+<displayName lang="en" type="PT">Discharge from palliative care service</displayName>
+<displayName lang="en" type="FSN">Discharge from palliative care service (procedure)</displayName>
+</concept>
+<concept code="306598001">
+<displayName lang="en" type="PT">Discharge from rheumatology service</displayName>
+<displayName lang="en" type="FSN">Discharge from rheumatology service (procedure)</displayName>
+</concept>
+<concept code="306599009">
+<displayName lang="en-GB" type="PT">Discharge from paediatric service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric service (procedure)</displayName>
+</concept>
+<concept code="306600007">
+<displayName lang="en-GB" type="PT">Discharge from community paediatric service</displayName>
+<displayName lang="en" type="FSN">Discharge from community pediatric service (procedure)</displayName>
+</concept>
+<concept code="306601006">
+<displayName lang="en-GB" type="PT">Discharge from paediatric neurology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric neurology service (procedure)</displayName>
+</concept>
+<concept code="306602004">
+<displayName lang="en-GB" type="PT">Discharge from paediatric oncology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric oncology service (procedure)</displayName>
+</concept>
+<concept code="306603009">
+<displayName lang="en" type="PT">Discharge from special care baby service</displayName>
+<displayName lang="en" type="FSN">Discharge from special care baby service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from neonatal unit</displayName>
+<displayName lang="en" type="SY">Discharge from special care baby unit</displayName>
+</concept>
+<concept code="306604003">
+<displayName lang="en-GB" type="PT">Discharge from obstetrics and gynaecology service</displayName>
+<displayName lang="en" type="FSN">Discharge from obstetrics and gynecology service (procedure)</displayName>
+</concept>
+<concept code="306605002">
+<displayName lang="en" type="PT">Discharge from obstetrics service</displayName>
+<displayName lang="en" type="FSN">Discharge from obstetrics service (procedure)</displayName>
+</concept>
+<concept code="306606001">
+<displayName lang="en-GB" type="PT">Discharge from gynaecology service</displayName>
+<displayName lang="en" type="FSN">Discharge from gynecology service (procedure)</displayName>
+</concept>
+<concept code="306607005">
+<displayName lang="en" type="PT">Discharge from psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306608000">
+<displayName lang="en" type="PT">Discharge from child and adolescent psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from child and adolescent psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306609008">
+<displayName lang="en" type="PT">Discharge from forensic psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from forensic psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306610003">
+<displayName lang="en" type="PT">Discharge from liaison psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from liaison psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306611004">
+<displayName lang="en" type="PT">Discharge from mental handicap psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from mental handicap psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306612006">
+<displayName lang="en" type="PT">Discharge from psychogeriatrician service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychogeriatrician service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from elderly mentally ill service</displayName>
+<displayName lang="en" type="SY">Discharge from old age psychiatry service</displayName>
+</concept>
+<concept code="306613001">
+<displayName lang="en" type="PT">Discharge from rehabilitation psychiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from rehabilitation psychiatry service (procedure)</displayName>
+</concept>
+<concept code="306614007">
+<displayName lang="en" type="PT">Discharge from pathology service</displayName>
+<displayName lang="en" type="FSN">Discharge from pathology service (procedure)</displayName>
+</concept>
+<concept code="306615008">
+<displayName lang="en" type="PT">Discharge from blood transfusion service</displayName>
+<displayName lang="en" type="FSN">Discharge from blood transfusion service (procedure)</displayName>
+</concept>
+<concept code="306616009">
+<displayName lang="en" type="PT">Discharge from chemical pathology service</displayName>
+<displayName lang="en" type="FSN">Discharge from chemical pathology service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from clinical biochemistry service</displayName>
+</concept>
+<concept code="306617000">
+<displayName lang="en-GB" type="PT">Discharge from haematology service</displayName>
+<displayName lang="en" type="FSN">Discharge from hematology service (procedure)</displayName>
+</concept>
+<concept code="306618005">
+<displayName lang="en" type="PT">Discharge from pain management service</displayName>
+<displayName lang="en" type="FSN">Discharge from pain management service (procedure)</displayName>
+</concept>
+<concept code="306619002">
+<displayName lang="en" type="PT">Discharge from occupational health service</displayName>
+<displayName lang="en" type="FSN">Discharge from occupational health service (procedure)</displayName>
+</concept>
+<concept code="306620008">
+<displayName lang="en" type="PT">Discharge from psychotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from psychotherapy service (procedure)</displayName>
+</concept>
+<concept code="306621007">
+<displayName lang="en" type="PT">Discharge from professionals allied to medicine service</displayName>
+<displayName lang="en" type="FSN">Discharge from professionals allied to medicine service (procedure)</displayName>
+</concept>
+<concept code="306622000">
+<displayName lang="en" type="PT">Discharge from arts therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from arts therapy service (procedure)</displayName>
+</concept>
+<concept code="306623005">
+<displayName lang="en" type="PT">Discharge from podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from chiropody service</displayName>
+</concept>
+<concept code="306624004">
+<displayName lang="en" type="PT">Discharge from community podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from community podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from community chiropody service</displayName>
+</concept>
+<concept code="306625003">
+<displayName lang="en" type="PT">Discharge from hospital podiatry service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital podiatry service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from hospital chiropody service</displayName>
+</concept>
+<concept code="306626002">
+<displayName lang="en" type="PT">Discharge from dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from dietetics service (procedure)</displayName>
+</concept>
+<concept code="306627006">
+<displayName lang="en" type="PT">Discharge from hospital dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital dietetics service (procedure)</displayName>
+</concept>
+<concept code="306628001">
+<displayName lang="en" type="PT">Discharge from community dietetics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community dietetics service (procedure)</displayName>
+</concept>
+<concept code="306629009">
+<displayName lang="en" type="PT">Discharge from occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306630004">
+<displayName lang="en" type="PT">Discharge from hospital occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306631000">
+<displayName lang="en" type="PT">Discharge from community occupational therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community occupational therapy service (procedure)</displayName>
+</concept>
+<concept code="306632007">
+<displayName lang="en" type="PT">Discharge from orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306633002">
+<displayName lang="en" type="PT">Discharge from hospital orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306634008">
+<displayName lang="en" type="PT">Discharge from community orthoptics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community orthoptics service (procedure)</displayName>
+</concept>
+<concept code="306635009">
+<displayName lang="en" type="PT">Discharge from physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306636005">
+<displayName lang="en" type="PT">Discharge from hospital physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306637001">
+<displayName lang="en" type="PT">Discharge from community physiotherapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community physiotherapy service (procedure)</displayName>
+</concept>
+<concept code="306638006">
+<displayName lang="en" type="PT">Discharge from speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306639003">
+<displayName lang="en" type="PT">Discharge from hospital speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306640001">
+<displayName lang="en" type="PT">Discharge from community speech and language therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from community speech and language therapy service (procedure)</displayName>
+</concept>
+<concept code="306641002">
+<displayName lang="en" type="PT">Discharge from orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthotics service (procedure)</displayName>
+</concept>
+<concept code="306642009">
+<displayName lang="en" type="PT">Discharge from hospital orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital orthotics service (procedure)</displayName>
+</concept>
+<concept code="306643004">
+<displayName lang="en" type="PT">Discharge from community orthotics service</displayName>
+<displayName lang="en" type="FSN">Discharge from community orthotics service (procedure)</displayName>
+</concept>
+<concept code="306644005">
+<displayName lang="en" type="PT">Discharge from surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306645006">
+<displayName lang="en" type="PT">Discharge from hospital surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306646007">
+<displayName lang="en" type="PT">Discharge from community surgical fitting service</displayName>
+<displayName lang="en" type="FSN">Discharge from community surgical fitting service (procedure)</displayName>
+</concept>
+<concept code="306647003">
+<displayName lang="en" type="PT">Discharge from radiology service</displayName>
+<displayName lang="en" type="FSN">Discharge from radiology service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from X-ray service</displayName>
+</concept>
+<concept code="306648008">
+<displayName lang="en" type="PT">Discharge from surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from surgical service (procedure)</displayName>
+</concept>
+<concept code="306649000">
+<displayName lang="en" type="PT">Discharge from breast surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from breast surgery service (procedure)</displayName>
+</concept>
+<concept code="306650000">
+<displayName lang="en" type="PT">Discharge from cardiothoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiothoracic surgery service (procedure)</displayName>
+</concept>
+<concept code="306651001">
+<displayName lang="en" type="PT">Discharge from thoracic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from thoracic surgery service (procedure)</displayName>
+</concept>
+<concept code="306652008">
+<displayName lang="en" type="PT">Discharge from cardiac surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from cardiac surgery service (procedure)</displayName>
+</concept>
+<concept code="306653003">
+<displayName lang="en" type="PT">Discharge from dental surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from dental surgery service (procedure)</displayName>
+</concept>
+<concept code="306654009">
+<displayName lang="en" type="PT">Discharge from orthodontics service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthodontics service (procedure)</displayName>
+</concept>
+<concept code="306655005">
+<displayName lang="en-GB" type="PT">Discharge from paediatric dentistry service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric dentistry service (procedure)</displayName>
+</concept>
+<concept code="306656006">
+<displayName lang="en" type="PT">Discharge from restorative dentistry service</displayName>
+<displayName lang="en" type="FSN">Discharge from restorative dentistry service (procedure)</displayName>
+</concept>
+<concept code="306657002">
+<displayName lang="en" type="PT">Discharge from ear, nose and throat service</displayName>
+<displayName lang="en" type="FSN">Discharge from ear, nose and throat service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from ENT service</displayName>
+</concept>
+<concept code="306658007">
+<displayName lang="en" type="PT">Discharge from endocrine surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from endocrine surgery service (procedure)</displayName>
+</concept>
+<concept code="306659004">
+<displayName lang="en" type="PT">Discharge from gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from GI surgical service</displayName>
+</concept>
+<concept code="306660009">
+<displayName lang="en" type="PT">Discharge from general gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from general GI surgical service</displayName>
+</concept>
+<concept code="306661008">
+<displayName lang="en" type="PT">Discharge from upper gastrointestinal surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from upper gastrointestinal surgical service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from upper GI surgical service</displayName>
+</concept>
+<concept code="306662001">
+<displayName lang="en" type="PT">Discharge from colorectal surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from colorectal surgery service (procedure)</displayName>
+</concept>
+<concept code="306663006">
+<displayName lang="en" type="PT">Discharge from general surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from general surgical service (procedure)</displayName>
+</concept>
+<concept code="306664000">
+<displayName lang="en" type="PT">Discharge from hand surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from hand surgery service (procedure)</displayName>
+</concept>
+<concept code="306665004">
+<displayName lang="en" type="PT">Discharge from neurosurgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from neurosurgical service (procedure)</displayName>
+</concept>
+<concept code="306666003">
+<displayName lang="en" type="PT">Discharge from ophthalmology service</displayName>
+<displayName lang="en" type="FSN">Discharge from ophthalmology service (procedure)</displayName>
+</concept>
+<concept code="306667007">
+<displayName lang="en" type="PT">Discharge from oral surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from oral surgery service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from maxillofacial surgery service</displayName>
+</concept>
+<concept code="306668002">
+<displayName lang="en-GB" type="PT">Discharge from orthopaedic service</displayName>
+<displayName lang="en" type="FSN">Discharge from orthopedic service (procedure)</displayName>
+</concept>
+<concept code="306669005">
+<displayName lang="en" type="PT">Discharge from pancreatic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from pancreatic surgery service (procedure)</displayName>
+</concept>
+<concept code="306670006">
+<displayName lang="en-GB" type="PT">Discharge from paediatric surgical service</displayName>
+<displayName lang="en" type="FSN">Discharge from pediatric surgical service (procedure)</displayName>
+</concept>
+<concept code="306671005">
+<displayName lang="en" type="PT">Discharge from plastic surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from plastic surgery service (procedure)</displayName>
+</concept>
+<concept code="306672003">
+<displayName lang="en" type="PT">Discharge from transplant surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from transplant surgery service (procedure)</displayName>
+</concept>
+<concept code="306673008">
+<displayName lang="en" type="PT">Discharge from trauma service</displayName>
+<displayName lang="en" type="FSN">Discharge from trauma service (procedure)</displayName>
+</concept>
+<concept code="306674002">
+<displayName lang="en" type="PT">Discharge from urology service</displayName>
+<displayName lang="en" type="FSN">Discharge from urology service (procedure)</displayName>
+</concept>
+<concept code="306675001">
+<displayName lang="en" type="PT">Discharge from vascular surgery service</displayName>
+<displayName lang="en" type="FSN">Discharge from vascular surgery service (procedure)</displayName>
+</concept>
+<concept code="306689006">
+<displayName lang="en" type="PT">Discharge to home</displayName>
+<displayName lang="en" type="FSN">Discharge to home (procedure)</displayName>
+</concept>
+<concept code="306690002">
+<displayName lang="en" type="PT">Discharge to relative&apos;s home</displayName>
+<displayName lang="en" type="FSN">Discharge to relative&apos;s home (procedure)</displayName>
+</concept>
+<concept code="306691003">
+<displayName lang="en" type="PT">Discharge to residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to residential home (procedure)</displayName>
+</concept>
+<concept code="306692005">
+<displayName lang="en" type="PT">Discharge to private residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to private residential home (procedure)</displayName>
+</concept>
+<concept code="306693000">
+<displayName lang="en" type="PT">Discharge to part III residential home</displayName>
+<displayName lang="en" type="FSN">Discharge to part III residential home (procedure)</displayName>
+</concept>
+<concept code="306694006">
+<displayName lang="en" type="PT">Discharge to nursing home</displayName>
+<displayName lang="en" type="FSN">Discharge to nursing home (procedure)</displayName>
+</concept>
+<concept code="306695007">
+<displayName lang="en" type="PT">Discharge to private nursing home</displayName>
+<displayName lang="en" type="FSN">Discharge to private nursing home (procedure)</displayName>
+</concept>
+<concept code="306696008">
+<displayName lang="en" type="PT">Discharge to part III accommodation</displayName>
+<displayName lang="en" type="FSN">Discharge to part III accommodation (procedure)</displayName>
+</concept>
+<concept code="306697004">
+<displayName lang="en" type="PT">Discharge to sheltered housing</displayName>
+<displayName lang="en" type="FSN">Discharge to sheltered housing (procedure)</displayName>
+</concept>
+<concept code="306698009">
+<displayName lang="en" type="PT">Discharge to warden controlled accommodation</displayName>
+<displayName lang="en" type="FSN">Discharge to warden controlled accommodation (procedure)</displayName>
+</concept>
+<concept code="306699001">
+<displayName lang="en" type="PT">Discharge to hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to hospital (procedure)</displayName>
+</concept>
+<concept code="306700000">
+<displayName lang="en" type="PT">Discharge to long stay hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to long stay hospital (procedure)</displayName>
+</concept>
+<concept code="306701001">
+<displayName lang="en" type="PT">Discharge to community hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to community hospital (procedure)</displayName>
+</concept>
+<concept code="306703003">
+<displayName lang="en" type="PT">Discharge to tertiary referral hospital</displayName>
+<displayName lang="en" type="FSN">Discharge to tertiary referral hospital (procedure)</displayName>
+<displayName lang="en-GB" type="SY">Discharge to tertiary referral centre</displayName>
+</concept>
+<concept code="306705005">
+<displayName lang="en" type="PT">Discharge to police custody</displayName>
+<displayName lang="en" type="FSN">Discharge to police custody (procedure)</displayName>
+</concept>
+<concept code="306706006">
+<displayName lang="en" type="PT">Discharge to ward</displayName>
+<displayName lang="en" type="FSN">Discharge to ward (procedure)</displayName>
+</concept>
+<concept code="306707002">
+<displayName lang="en" type="PT">Discharge to day ward</displayName>
+<displayName lang="en" type="FSN">Discharge to day ward (procedure)</displayName>
+</concept>
+<concept code="306732000">
+<displayName lang="en" type="PT">Admission to general dental surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to general dental surgery department (procedure)</displayName>
+</concept>
+<concept code="306803007">
+<displayName lang="en" type="PT">Admission to stroke unit</displayName>
+<displayName lang="en" type="FSN">Admission to stroke unit (procedure)</displayName>
+</concept>
+<concept code="306804001">
+<displayName lang="en" type="PT">Admission to young disabled unit</displayName>
+<displayName lang="en" type="FSN">Admission to young disabled unit (procedure)</displayName>
+</concept>
+<concept code="306808003">
+<displayName lang="en" type="PT">Discharge from stroke service</displayName>
+<displayName lang="en" type="FSN">Discharge from stroke service (procedure)</displayName>
+</concept>
+<concept code="306809006">
+<displayName lang="en" type="PT">Discharge from young disabled service</displayName>
+<displayName lang="en" type="FSN">Discharge from young disabled service (procedure)</displayName>
+</concept>
+<concept code="306862004">
+<displayName lang="en" type="PT">Discharge from dance therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from dance therapy service (procedure)</displayName>
+</concept>
+<concept code="306863009">
+<displayName lang="en" type="PT">Discharge from drama therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from drama therapy service (procedure)</displayName>
+</concept>
+<concept code="306864003">
+<displayName lang="en" type="PT">Discharge from music therapy service</displayName>
+<displayName lang="en" type="FSN">Discharge from music therapy service (procedure)</displayName>
+</concept>
+<concept code="306967009">
+<displayName lang="en" type="PT">Admission to hand surgery department</displayName>
+<displayName lang="en" type="FSN">Admission to hand surgery department (procedure)</displayName>
+</concept>
+<concept code="307382004">
+<displayName lang="en" type="PT">Discharge from head injury rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from head injury rehabilitation service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from head injury rehabilitation</displayName>
+</concept>
+<concept code="307383009">
+<displayName lang="en" type="PT">Discharge from community rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from community rehabilitation service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from community rehabilitation</displayName>
+</concept>
+<concept code="308018004">
+<displayName lang="en" type="PT">Discharge from rehabilitation service</displayName>
+<displayName lang="en" type="FSN">Discharge from rehabilitation service (procedure)</displayName>
+</concept>
+<concept code="308251003">
+<displayName lang="en" type="PT">Admission to clinical oncology department</displayName>
+<displayName lang="en" type="FSN">Admission to clinical oncology department (procedure)</displayName>
+</concept>
+<concept code="308252005">
+<displayName lang="en" type="PT">Admission to radiotherapy department</displayName>
+<displayName lang="en" type="FSN">Admission to radiotherapy department (procedure)</displayName>
+</concept>
+<concept code="308253000">
+<displayName lang="en" type="PT">Admission to diabetic department</displayName>
+<displayName lang="en" type="FSN">Admission to diabetic department (procedure)</displayName>
+</concept>
+<concept code="309568009">
+<displayName lang="en" type="PT">Delayed discharge - social services</displayName>
+<displayName lang="en" type="FSN">Delayed discharge - social services (procedure)</displayName>
+</concept>
+<concept code="310361003">
+<displayName lang="en" type="PT">Non-urgent cardiological admission</displayName>
+<displayName lang="en" type="FSN">Non-urgent cardiological admission (procedure)</displayName>
+</concept>
+<concept code="313331005">
+<displayName lang="en" type="PT">Admission for social reasons</displayName>
+<displayName lang="en" type="FSN">Admission for social reasons (procedure)</displayName>
+<displayName lang="en" type="SY">Social admission</displayName>
+</concept>
+<concept code="313385005">
+<displayName lang="en" type="PT">Cardiology emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Cardiology emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="397769005">
+<displayName lang="en" type="PT">Unexpected admission to high dependency unit</displayName>
+<displayName lang="en" type="FSN">Unexpected admission to high dependency unit (procedure)</displayName>
+<displayName lang="en" type="SY">Unanticipated admission to HDU</displayName>
+<displayName lang="en" type="SY">Unanticipated admission to high dependency</displayName>
+<displayName lang="en" type="SY">Unexpected HDU admission</displayName>
+</concept>
+<concept code="397945004">
+<displayName lang="en" type="PT">Unexpected admission to intensive care unit</displayName>
+<displayName lang="en" type="FSN">Unexpected admission to intensive care unit (procedure)</displayName>
+<displayName lang="en" type="SY">Unanticipated admission to ICU</displayName>
+<displayName lang="en" type="SY">Unanticipated admission to Intensive Care Unit</displayName>
+<displayName lang="en" type="SY">Unexpected ICU admission</displayName>
+</concept>
+<concept code="398162007">
+<displayName lang="en" type="PT">Admission to high dependency unit</displayName>
+<displayName lang="en" type="FSN">Admission to high dependency unit (procedure)</displayName>
+</concept>
+<concept code="405614004">
+<displayName lang="en" type="PT">Unexpected hospital admission</displayName>
+<displayName lang="en" type="FSN">Unexpected hospital admission (procedure)</displayName>
+</concept>
+<concept code="405807003">
+<displayName lang="en" type="PT">Discharge to convalescence</displayName>
+<displayName lang="en" type="FSN">Discharge to convalescence (procedure)</displayName>
+</concept>
+<concept code="408489005">
+<displayName lang="en" type="PT">Respiratory emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Respiratory emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="408501008">
+<displayName lang="en" type="PT">Emergency hospital admission for chronic obstructive pulmonary disease</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission for chronic obstructive pulmonary disease (procedure)</displayName>
+<displayName lang="en" type="SY">Emergency hospital admission for COPD (chronic obstructive pulmonary disease)</displayName>
+</concept>
+<concept code="413128002">
+<displayName lang="en" type="PT">Discharge from learning disability team</displayName>
+<displayName lang="en" type="FSN">Discharge from learning disability team (procedure)</displayName>
+</concept>
+<concept code="416683003">
+<displayName lang="en" type="PT">Emergency hospital admission for heart failure</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission for heart failure (procedure)</displayName>
+</concept>
+<concept code="699122005">
+<displayName lang="en" type="PT">Vascular surgery emergency hospital admission</displayName>
+<displayName lang="en" type="FSN">Vascular surgery emergency hospital admission (procedure)</displayName>
+</concept>
+<concept code="699124006">
+<displayName lang="en-GB" type="PT">Admission to substance misuse detoxification centre</displayName>
+<displayName lang="en" type="FSN">Admission to substance misuse detoxification center (procedure)</displayName>
+</concept>
+<concept code="699245006">
+<displayName lang="en-GB" type="PT">Emergency hospital admission for ischaemic heart disease</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission for ischemic heart disease (procedure)</displayName>
+</concept>
+<concept code="700194007">
+<displayName lang="en" type="PT">Discharge from community care service</displayName>
+<displayName lang="en" type="FSN">Discharge from community care service (procedure)</displayName>
+</concept>
+<concept code="709063003">
+<displayName lang="en-GB" type="PT">Admission to same day surgery centre</displayName>
+<displayName lang="en" type="FSN">Admission to same day surgery center (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to day surgery</displayName>
+</concept>
+<concept code="710951009">
+<displayName lang="en" type="PT">Arranging transportation of device</displayName>
+<displayName lang="en" type="FSN">Arranging transportation of device (procedure)</displayName>
+<displayName lang="en" type="SY">Arranging transport of device</displayName>
+</concept>
+<concept code="25131000000105">
+<displayName lang="en-GB" type="PT">Discharge from intermediate care</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from intermediate care (procedure)</displayName>
+</concept>
+<concept code="25241000000106">
+<displayName lang="en-GB" type="PT">Discharge from care</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care (procedure)</displayName>
+</concept>
+<concept code="84901000000108">
+<displayName lang="en-GB" type="PT">Admission to high dependency unit or intensive therapy unit following anaesthetic adverse event</displayName>
+<displayName lang="en-GB" type="FSN">Admission to high dependency unit or intensive therapy unit following anaesthetic adverse event (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to HDU (high dependency unit) or ITU (intensive therapy unit) following anaesthetic adverse event</displayName>
+<displayName lang="en-GB" type="SY">Admission to level 2 or 3 bed following anaesthetic adverse event</displayName>
+</concept>
+<concept code="88861000000105">
+<displayName lang="en-GB" type="PT">Discharge from care against professional advice</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care against professional advice (procedure)</displayName>
+</concept>
+<concept code="88881000000101">
+<displayName lang="en-GB" type="PT">Discharge from care in accordance with professional advice</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from care in accordance with professional advice (procedure)</displayName>
+</concept>
+<concept code="91981000000104">
+<displayName lang="en-GB" type="PT">Admission to regional secure unit</displayName>
+<displayName lang="en-GB" type="FSN">Admission to regional secure unit (procedure)</displayName>
+</concept>
+<concept code="91991000000102">
+<displayName lang="en-GB" type="PT">Admission to medium secure unit</displayName>
+<displayName lang="en-GB" type="FSN">Admission to medium secure unit (procedure)</displayName>
+</concept>
+<concept code="92231000000101">
+<displayName lang="en-GB" type="PT">Admission to psychiatric intensive care unit</displayName>
+<displayName lang="en-GB" type="FSN">Admission to psychiatric intensive care unit (procedure)</displayName>
+</concept>
+<concept code="108171000000102">
+<displayName lang="en-GB" type="PT">Admission to high secure unit</displayName>
+<displayName lang="en-GB" type="FSN">Admission to high secure unit (procedure)</displayName>
+</concept>
+<concept code="163781000000106">
+<displayName lang="en-GB" type="PT">Admission to mental health specialist services</displayName>
+<displayName lang="en-GB" type="FSN">Admission to mental health specialist services (procedure)</displayName>
+<displayName lang="en" type="SY">Admission to MH (mental health) specialist services</displayName>
+</concept>
+<concept code="200201000000101">
+<displayName lang="en-GB" type="PT">Discharge from practice nurse heart failure clinic</displayName>
+<displayName lang="en-GB" type="FSN">Discharge from practice nurse heart failure clinic (procedure)</displayName>
+</concept>
+<concept code="203221000000100">
+<displayName lang="en-GB" type="PT">Antenatal admission</displayName>
+<displayName lang="en-GB" type="FSN">Antenatal admission (procedure)</displayName>
+</concept>
+<concept code="242171000000106">
+<displayName lang="en" type="PT">Admission under the Mental Health Act</displayName>
+<displayName lang="en" type="FSN">Admission under the Mental Health Act (procedure)</displayName>
+</concept>
+<concept code="313891000000105">
+<displayName lang="en" type="PT">Emergency voluntary psychiatric admission under Mental Health Act</displayName>
+<displayName lang="en" type="FSN">Emergency voluntary psychiatric admission under Mental Health Act (procedure)</displayName>
+<displayName lang="en" type="SY">Emergency informal psychiatric admission under Mental Health Act</displayName>
+</concept>
+<concept code="376051000000106">
+<displayName lang="en" type="PT">Admission to segregation unit</displayName>
+<displayName lang="en" type="FSN">Admission to segregation unit (procedure)</displayName>
+</concept>
+<concept code="395661000000100">
+<displayName lang="en" type="PT">Emergency psychiatric admission under Mental Health Act 1983 (England and Wales)</displayName>
+<displayName lang="en" type="FSN">Emergency psychiatric admission under Mental Health Act 1983 (England and Wales) (procedure)</displayName>
+</concept>
+<concept code="763301000000108">
+<displayName lang="en" type="PT">Admission to nursing home</displayName>
+<displayName lang="en" type="FSN">Admission to nursing home (procedure)</displayName>
+</concept>
+<concept code="765661000000102">
+<displayName lang="en" type="PT">Discharge from heart failure nurse service</displayName>
+<displayName lang="en" type="FSN">Discharge from heart failure nurse service (procedure)</displayName>
+</concept>
+<concept code="782351000000102">
+<displayName lang="en" type="PT">Discharge from primary healthcare team</displayName>
+<displayName lang="en" type="FSN">Discharge from primary healthcare team (procedure)</displayName>
+</concept>
+<concept code="784431000000109">
+<displayName lang="en" type="PT">Admission to virtual ward</displayName>
+<displayName lang="en" type="FSN">Admission to virtual ward (procedure)</displayName>
+</concept>
+<concept code="790241000000105">
+<displayName lang="en" type="PT">Discharge from care following non-attendance</displayName>
+<displayName lang="en" type="FSN">Discharge from care following non-attendance (procedure)</displayName>
+</concept>
+<concept code="818361000000102">
+<displayName lang="en" type="PT">Discharge from community specialist palliative care</displayName>
+<displayName lang="en" type="FSN">Discharge from community specialist palliative care (procedure)</displayName>
+</concept>
+<concept code="818941000000102">
+<displayName lang="en" type="PT">Discharge from advanced primary nurse care</displayName>
+<displayName lang="en" type="FSN">Discharge from advanced primary nurse care (procedure)</displayName>
+</concept>
+<concept code="823851000000105">
+<displayName lang="en" type="PT">Discharge from hospital admission prevention service</displayName>
+<displayName lang="en" type="FSN">Discharge from hospital admission prevention service (procedure)</displayName>
+</concept>
+<concept code="836651000000103">
+<displayName lang="en" type="PT">Admission to acute assessment unit</displayName>
+<displayName lang="en" type="FSN">Admission to acute assessment unit (procedure)</displayName>
+</concept>
+<concept code="839361000000103">
+<displayName lang="en" type="PT">Discharge from family nurse partnership team</displayName>
+<displayName lang="en" type="FSN">Discharge from family nurse partnership team (procedure)</displayName>
+</concept>
+<concept code="839721000000107">
+<displayName lang="en" type="PT">Discharge from in-house cardiology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house cardiology (procedure)</displayName>
+</concept>
+<concept code="839731000000109">
+<displayName lang="en" type="PT">Discharge from in-house dermatology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house dermatology (procedure)</displayName>
+</concept>
+<concept code="839741000000100">
+<displayName lang="en" type="PT">Discharge from in-house ear, nose and throat service</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house ear, nose and throat service (procedure)</displayName>
+<displayName lang="en" type="SY">In-house ENT (ear, nose, throat) discharge</displayName>
+</concept>
+<concept code="839751000000102">
+<displayName lang="en" type="PT">Discharge from in-house gynaecology</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house gynaecology (procedure)</displayName>
+</concept>
+<concept code="839761000000104">
+<displayName lang="en" type="PT">Discharge from in-house orthopaedic service</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house orthopaedic service (procedure)</displayName>
+</concept>
+<concept code="842951000000109">
+<displayName lang="en" type="PT">Emergency hospital admission from walk-in centre</displayName>
+<displayName lang="en" type="FSN">Emergency hospital admission from walk-in centre (procedure)</displayName>
+</concept>
+<concept code="845871000000102">
+<displayName lang="en" type="PT">Discharge from cancer primary healthcare multidisciplinary team</displayName>
+<displayName lang="en" type="FSN">Discharge from cancer primary healthcare multidisciplinary team (procedure)</displayName>
+</concept>
+<concept code="845911000000100">
+<displayName lang="en" type="PT">Discharge from voluntary service</displayName>
+<displayName lang="en" type="FSN">Discharge from voluntary service (procedure)</displayName>
+</concept>
+<concept code="845971000000105">
+<displayName lang="en" type="PT">Discharge from Social Services</displayName>
+<displayName lang="en" type="FSN">Discharge from Social Services (procedure)</displayName>
+</concept>
+<concept code="846061000000107">
+<displayName lang="en" type="PT">Discharge from community respiratory team</displayName>
+<displayName lang="en" type="FSN">Discharge from community respiratory team (procedure)</displayName>
+</concept>
+<concept code="848101000000108">
+<displayName lang="en" type="PT">Admit anticoagulation emergency</displayName>
+<displayName lang="en" type="FSN">Admit anticoagulation emergency (procedure)</displayName>
+</concept>
+<concept code="859381000000108">
+<displayName lang="en" type="PT">Discharge from mental health inreach service</displayName>
+<displayName lang="en" type="FSN">Discharge from mental health inreach service (procedure)</displayName>
+</concept>
+<concept code="862471000000100">
+<displayName lang="en" type="PT">Discharge from high dependency unit</displayName>
+<displayName lang="en" type="FSN">Discharge from high dependency unit (procedure)</displayName>
+</concept>
+<concept code="864811000000104">
+<displayName lang="en" type="PT">111 contact disposition to general practitioner</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to general practitioner (finding)</displayName>
+</concept>
+<concept code="864831000000107">
+<displayName lang="en" type="PT">111 contact disposition to pharmacist</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to pharmacist (finding)</displayName>
+</concept>
+<concept code="864851000000100">
+<displayName lang="en" type="PT">111 contact disposition to out of hours service</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to out of hours service (finding)</displayName>
+</concept>
+<concept code="864871000000109">
+<displayName lang="en" type="PT">111 contact disposition to community service</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to community service (finding)</displayName>
+</concept>
+<concept code="864891000000108">
+<displayName lang="en" type="PT">111 contact disposition to mental health service</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to mental health service (finding)</displayName>
+</concept>
+<concept code="864911000000106">
+<displayName lang="en" type="PT">111 contact disposition to Social Services</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to Social Services (finding)</displayName>
+</concept>
+<concept code="864931000000103">
+<displayName lang="en" type="PT">111 contact disposition to 999 transfer</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to 999 transfer (finding)</displayName>
+</concept>
+<concept code="864951000000105">
+<displayName lang="en" type="PT">111 contact disposition to accident and emergency department</displayName>
+<displayName lang="en" type="FSN">111 contact disposition to accident and emergency department (finding)</displayName>
+</concept>
+<concept code="870761000000105">
+<displayName lang="en" type="PT">Discharge from in-house diabetic foot screening</displayName>
+<displayName lang="en" type="FSN">Discharge from in-house diabetic foot screening (procedure)</displayName>
+</concept>
+<concept code="870791000000104">
+<displayName lang="en" type="PT">Discharge from child and adolescent mental health service</displayName>
+<displayName lang="en" type="FSN">Discharge from child and adolescent mental health service (procedure)</displayName>
+<displayName lang="en" type="SY">Discharge from CAMHS (child and adolescent mental health service)</displayName>
+</concept>
+<concept code="885561000000102">
+<displayName lang="en" type="PT">Admission to school medical centre</displayName>
+<displayName lang="en" type="FSN">Admission to school medical centre (procedure)</displayName>
+</concept>
+<concept code="894881000000108">
+<displayName lang="en" type="PT">Admission to observation ward</displayName>
+<displayName lang="en" type="FSN">Admission to observation ward (procedure)</displayName>
+</concept>
+<concept code="898811000000106">
+<displayName lang="en" type="PT">Discharge from homeless advocacy service</displayName>
+<displayName lang="en" type="FSN">Discharge from homeless advocacy service (procedure)</displayName>
+</concept>
+<concept code="927821000000100">
+<displayName lang="en" type="PT">Discharge from secondary care diabetes service</displayName>
+<displayName lang="en" type="FSN">Discharge from secondary care diabetes service (procedure)</displayName>
+</concept>
+<concept code="989501000000106">
+<displayName lang="en" type="PT">Discharge from Accident and Emergency service with advice for follow up treatment by general practitioner</displayName>
+<displayName lang="en" type="FSN">Discharge from Accident and Emergency service with advice for follow up treatment by general practitioner (procedure)</displayName>
+</concept>
+</vocabulary>

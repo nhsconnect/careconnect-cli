@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Determiner" version="1.0" status="active" id="2.16.840.1.113883.11.10878">
+   <Description>
+            <p>Indicates whether an entity represents a kind of or a specific instance.</p>
+         </Description>
+   <concept code="KIND">
+      <displayName>Described</displayName>
+   </concept>
+   <concept code="QUANTIFIED_KIND">
+      <displayName>Described quantified</displayName>
+   </concept>
+   <concept code="INSTANCE">
+      <displayName>Specific</displayName>
+   </concept>
+</vocabulary>

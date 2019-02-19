@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHLOutcome" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.280">
+   <Description>
+            <p>A set of codes to support the NHS Continuing Healthcare Checklist Outcome.</p>
+         </Description>
+   <concept code="CHCR">
+      <displayName>Requires referral for Full Assessment for NHS Continuing Healthcare</displayName>
+   </concept>
+   <concept code="NOCHCR">
+      <displayName>Does not require referral for Full Assessment for NHS Continuing Healthcare</displayName>
+   </concept>
+</vocabulary>

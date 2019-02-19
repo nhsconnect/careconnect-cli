@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObservationType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.275">
+   <Description>
+            <p>A set of codes to describe the type of observation.<br/>
+            </p>
+         </Description>
+   <concept code="ANDP">
+      <displayName>Assessment Notification Data Payload</displayName>
+   </concept>
+   <concept code="DNDP">
+      <displayName>Discharge Notification Data Payload</displayName>
+   </concept>
+   <concept code="MCC">
+      <displayName>Mental Capacity (to consent)</displayName>
+   </concept>
+   <concept code="RR">
+      <displayName>Reimbursement Rule</displayName>
+   </concept>
+   <concept code="ESS117">
+      <displayName>Eligibility to Services under Section 117</displayName>
+   </concept>
+   <concept code="CHCS">
+      <displayName>Continuing Healthcare Assessment Status</displayName>
+   </concept>
+   <concept code="DNDT">
+      <displayName>Discharge Notification date time</displayName>
+   </concept>
+   <concept code="MCPC">
+      <displayName>Mental Capacity (to agree to plan of care)</displayName>
+   </concept>
+   <concept code="STD">
+      <displayName>Safe to Discharge</displayName>
+   </concept>
+   <concept code="AGTCN">
+      <displayName>Patient Agreement to Care Need</displayName>
+   </concept>
+   <concept code="ANRR">
+      <displayName>Assessment Notification Reject Reason</displayName>
+   </concept>
+   <concept code="DNDR">
+      <displayName>Discharge Notification Disagree Response</displayName>
+   </concept>
+   <concept code="DNAR">
+      <displayName>Discharge Notification Agree Response</displayName>
+   </concept>
+   <concept code="MDTSTD">
+      <displayName>MDT Safe To Discharge Date</displayName>
+   </concept>
+   <concept code="DNCR">
+      <displayName>Discharge Notification Cancellation Reason Code</displayName>
+   </concept>
+   <concept code="ADRRC">
+      <displayName>Assessment Document Rejection Reason Code</displayName>
+   </concept>
+   <concept code="ADRRT">
+      <displayName>Assessment Document Rejection Reason Text</displayName>
+   </concept>
+   <concept code="CHCRC">
+      <displayName>Continuing Healthcare Cancellation Reason Code</displayName>
+   </concept>
+   <concept code="CHCRT">
+      <displayName>Continuing Healthcare Cancellation Reason Text</displayName>
+   </concept>
+   <concept code="AN">
+      <displayName>Additional Notes</displayName>
+   </concept>
+   <concept code="CTS">
+      <displayName>Consent To Share</displayName>
+   </concept>
+   <concept code="REFD">
+      <displayName>Referrer Date</displayName>
+   </concept>
+   <concept code="CTCT">
+      <displayName>Capacity to Consent Text</displayName>
+   </concept>
+   <concept code="PLA">
+      <displayName>Patient Lives Alone</displayName>
+   </concept>
+   <concept code="PDNLAT">
+      <displayName>Patient Does Not Live Alone Text</displayName>
+   </concept>
+   <concept code="TRC">
+      <displayName>Therapies Report Completed</displayName>
+   </concept>
+   <concept code="PIDD">
+      <displayName>Patient Informed of Discharge Date</displayName>
+   </concept>
+   <concept code="RPNIT">
+      <displayName>Reason Patient Not Informed Text</displayName>
+   </concept>
+   <concept code="SCAC">
+      <displayName>Social Care Assessment Completed</displayName>
+   </concept>
+   <concept code="TRSSC">
+      <displayName>Therapies Report Sent to Social Care</displayName>
+   </concept>
+   <concept code="CKIDD">
+      <displayName>Carer or Key Contact Informed of Discharge Date</displayName>
+   </concept>
+   <concept code="RCKNIT">
+      <displayName>Reason Carer or Key Contact Not Informed Text</displayName>
+   </concept>
+   <concept code="WNRC">
+      <displayName>Withdrawal Notice Reason Code</displayName>
+   </concept>
+   <concept code="CTC">
+      <displayName>Capacity to Consent</displayName>
+   </concept>
+   <concept code="WRR">
+      <displayName>Withdrawal Rejection Reason</displayName>
+   </concept>
+</vocabulary>

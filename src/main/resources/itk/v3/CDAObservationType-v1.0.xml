@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAObservationType" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.220">
+   <Description>
+            <p>A set of codes to identify observation type used in the CDA domains.</p>
+         </Description>
+   <concept code="RAF">
+      <displayName>ReAdmission Flag</displayName>
+   </concept>
+   <concept code="LAR">
+      <displayName>Last Assessment Review</displayName>
+   </concept>
+   <concept code="PAR">
+      <displayName>Planned Assessment Review</displayName>
+   </concept>
+   <concept code="CPF">
+      <displayName>Copy Provided Flag</displayName>
+   </concept>
+   <concept code="CPA">
+      <displayName>Care Plan Agreement</displayName>
+   </concept>
+   <concept code="CPED">
+      <displayName>Component Planned End Date</displayName>
+   </concept>
+   <concept code="NCR">
+      <displayName>Next Component Review</displayName>
+   </concept>
+   <concept code="LCR">
+      <displayName>Last Component Review</displayName>
+   </concept>
+   <concept code="CAFIS">
+      <displayName>CAF Information Set</displayName>
+   </concept>
+   <concept code="CTHT">
+      <displayName>Component Text Heading Type</displayName>
+   </concept>
+   <concept code="EDD">
+      <displayName>Estimated Discharge Date</displayName>
+   </concept>
+   <concept code="LCPR">
+      <displayName>Last Care Plan Review</displayName>
+   </concept>
+   <concept code="NCPR">
+      <displayName>Next Care Plan Review</displayName>
+   </concept>
+   <concept code="THT">
+      <displayName>Text Heading Type</displayName>
+   </concept>
+   <concept code="PDR">
+      <displayName>Procedure Date Reported</displayName>
+   </concept>
+   <concept code="DIRS">
+      <displayName>DI Report Status</displayName>
+   </concept>
+   <concept code="DIUI">
+      <displayName>Diagnostic Imaging Urgency Indicator</displayName>
+   </concept>
+   <concept code="NMHATD">
+      <displayName>Next Mental Health Act Tribunal Date</displayName>
+   </concept>
+   <concept code="ARRE">
+      <displayName>At Risk Register Entry</displayName>
+   </concept>
+   <concept code="PRC">
+      <displayName>ProtectionRegisterCategory</displayName>
+   </concept>
+   <concept code="CPDCFR">
+      <displayName>Care Process Date Commenced or First Review</displayName>
+   </concept>
+   <concept code="CPDCMRR">
+      <displayName>Care Process Date Concluded or Most Recent Review</displayName>
+   </concept>
+   <concept code="CPAD">
+      <displayName>Care Process Administration</displayName>
+   </concept>
+   <concept code="CRA">
+      <displayName>Care Review Administration</displayName>
+   </concept>
+   <concept code="CPDOPR">
+      <displayName>Care Process Date of Previous Review</displayName>
+   </concept>
+   <concept code="CPDONPR">
+      <displayName>Care Process Date of Next Planned Review</displayName>
+   </concept>
+   <concept code="OEAWP">
+      <displayName>Other Entity Associated With Patient</displayName>
+   </concept>
+   <concept code="CRS">
+      <displayName>Care Review Status</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,3427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Health Protection electronic notifications - system initiated" type="Realm Concept" setId="67481000000139" version="3" id="59011000000137" refId="999002171000000108" memberCount="733" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="1857005">
+<displayName lang="en" type="PT">Congenital rubella syndrome</displayName>
+<displayName lang="en" type="FSN">Congenital rubella syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Congenital rubella</displayName>
+<displayName lang="en" type="SY">Gestational rubella syndrome</displayName>
+<displayName lang="en" type="SY">Gregg&apos;s syndrome</displayName>
+</concept>
+<concept code="3095005">
+<displayName lang="en" type="PT">Induced malaria</displayName>
+<displayName lang="en" type="FSN">Induced malaria (disorder)</displayName>
+</concept>
+<concept code="3419005">
+<displayName lang="en" type="PT">Faucial diphtheria</displayName>
+<displayName lang="en" type="FSN">Faucial diphtheria (disorder)</displayName>
+<displayName lang="en" type="SY">Diphtheritic membrane</displayName>
+<displayName lang="en" type="SY">Diphtheritic membranous angina</displayName>
+</concept>
+<concept code="3738000">
+<displayName lang="en" type="PT">Viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">VH - Viral hepatitis</displayName>
+</concept>
+<concept code="4089001">
+<displayName lang="en-GB" type="PT">Meningococcaemia</displayName>
+<displayName lang="en" type="FSN">Meningococcemia (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Meningococcal septicaemia</displayName>
+</concept>
+<concept code="4445009">
+<displayName lang="en" type="PT">Tuberculosis of genitourinary system</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of genitourinary system (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Urogenital tuberculosis</displayName>
+<displayName lang="en" type="SY">Urogenital tuberculosis</displayName>
+</concept>
+<concept code="4501007">
+<displayName lang="en" type="PT">Tuberculous ascites</displayName>
+<displayName lang="en" type="FSN">Tuberculous ascites (disorder)</displayName>
+</concept>
+<concept code="4846001">
+<displayName lang="en" type="PT">Anicteric viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Anicteric viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="5566009">
+<displayName lang="en" type="PT">Trypanosomiasis with meningitis</displayName>
+<displayName lang="en" type="FSN">Trypanosomiasis with meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis due to trypanosomiasis</displayName>
+</concept>
+<concept code="6955002">
+<displayName lang="en" type="PT">Negishi encephalitis</displayName>
+<displayName lang="en" type="FSN">Negishi encephalitis (disorder)</displayName>
+</concept>
+<concept code="7125002">
+<displayName lang="en" type="PT">Meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="7180009">
+<displayName lang="en" type="PT">Meningitis</displayName>
+<displayName lang="en" type="FSN">Meningitis (disorder)</displayName>
+</concept>
+<concept code="8250007">
+<displayName lang="en" type="PT">Tuberculosis of subcutaneous cellular tissue</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of subcutaneous cellular tissue (disorder)</displayName>
+</concept>
+<concept code="8832006">
+<displayName lang="en" type="PT">Tuberculosis orificialis of anus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis orificialis of anus (disorder)</displayName>
+</concept>
+<concept code="9012003">
+<displayName lang="en-GB" type="PT">Septicaemic plague</displayName>
+<displayName lang="en" type="FSN">Septicemic plague (disorder)</displayName>
+</concept>
+<concept code="10082001">
+<displayName lang="en" type="PT">Progressive rubella panencephalitis</displayName>
+<displayName lang="en" type="FSN">Progressive rubella panencephalitis (disorder)</displayName>
+</concept>
+<concept code="10491005">
+<displayName lang="en" type="PT">Herpes zoster with meningitis</displayName>
+<displayName lang="en" type="FSN">Herpes zoster with meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Herpes zoster meningitis</displayName>
+<displayName lang="en" type="SY">Varicella meningitis</displayName>
+<displayName lang="en" type="SY">Varicella-zoster meningitis</displayName>
+</concept>
+<concept code="10528009">
+<displayName lang="en" type="PT">Lupus vulgaris</displayName>
+<displayName lang="en" type="FSN">Lupus vulgaris (disorder)</displayName>
+<displayName lang="en" type="SY">LV - Lupus vulgaris</displayName>
+<displayName lang="en" type="SY">Lupus exedens</displayName>
+<displayName lang="en" type="SY">Tuberculosis cutis luposa</displayName>
+<displayName lang="en" type="SY">Tuberculosis luposa cutis</displayName>
+<displayName lang="en" type="SY">Tuberculosis lupus exedens</displayName>
+</concept>
+<concept code="10665004">
+<displayName lang="en" type="PT">Mumps pancreatitis</displayName>
+<displayName lang="en" type="FSN">Mumps pancreatitis (disorder)</displayName>
+</concept>
+<concept code="10852006">
+<displayName lang="en" type="PT">Poisoning by ingestion of insect-infested food</displayName>
+<displayName lang="en" type="FSN">Poisoning by ingestion of insect-infested food (disorder)</displayName>
+</concept>
+<concept code="10893003">
+<displayName lang="en" type="PT">Tuberculous adenitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous adenitis (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of lymph node</displayName>
+<displayName lang="en" type="SY">Tuberculous lymphadenopathy</displayName>
+</concept>
+<concept code="11354005">
+<displayName lang="en" type="PT">Tuberculosis cutis indurativa</displayName>
+<displayName lang="en" type="FSN">Tuberculosis cutis indurativa (disorder)</displayName>
+<displayName lang="en" type="SY">Bazin&apos;s disease</displayName>
+<displayName lang="en" type="SY">Tuberculous Bazin&apos;s disease</displayName>
+<displayName lang="en" type="SY">Tuberculous erythema induratum</displayName>
+</concept>
+<concept code="11389007">
+<displayName lang="en" type="PT">Inhalational anthrax</displayName>
+<displayName lang="en" type="FSN">Inhalational anthrax (disorder)</displayName>
+<displayName lang="en" type="SY">Pulmonary anthrax</displayName>
+<displayName lang="en" type="SY">Respiratory anthrax</displayName>
+<displayName lang="en" type="SY">Woolsorters&apos; disease</displayName>
+</concept>
+<concept code="12137005">
+<displayName lang="en" type="PT">Tuberculous enteritis</displayName>
+<displayName lang="en" type="FSN">Tuberculous enteritis (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of small intestine</displayName>
+</concept>
+<concept code="12985005">
+<displayName lang="en" type="PT">Tuberculosis of seminal vesicle</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of seminal vesicle (disorder)</displayName>
+</concept>
+<concept code="13225007">
+<displayName lang="en" type="PT">Rubella meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Rubella meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="13265006">
+<displayName lang="en" type="PT">Acute fulminating type B viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute fulminating type B viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="13570003">
+<displayName lang="en" type="PT">Tuberculous tenosynovitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous tenosynovitis (disorder)</displayName>
+</concept>
+<concept code="13766008">
+<displayName lang="en" type="PT">Puerperal tetanus</displayName>
+<displayName lang="en" type="FSN">Puerperal tetanus (disorder)</displayName>
+</concept>
+<concept code="14168008">
+<displayName lang="en" type="PT">Rabies</displayName>
+<displayName lang="en" type="FSN">Rabies (disorder)</displayName>
+<displayName lang="en" type="SY">Hydrophobia</displayName>
+<displayName lang="en" type="SY">Lyssa</displayName>
+</concept>
+<concept code="14189004">
+<displayName lang="en" type="PT">Measles</displayName>
+<displayName lang="en" type="FSN">Measles (disorder)</displayName>
+<displayName lang="en" type="SY">Morbilli</displayName>
+<displayName lang="en" type="SY">Rubeola</displayName>
+</concept>
+<concept code="14232007">
+<displayName lang="en" type="PT">Cryptococcal meningitis</displayName>
+<displayName lang="en" type="FSN">Cryptococcal meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis due to Cryptococcus</displayName>
+<displayName lang="en" type="SY">Meningitis due to cryptococcus</displayName>
+</concept>
+<concept code="14255005">
+<displayName lang="en-GB" type="PT">Haemorrhagic dysentery</displayName>
+<displayName lang="en" type="FSN">Hemorrhagic dysentery (disorder)</displayName>
+</concept>
+<concept code="14386001">
+<displayName lang="en" type="PT">Indeterminate leprosy</displayName>
+<displayName lang="en" type="FSN">Indeterminate leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Group I leprosy</displayName>
+<displayName lang="en" type="SY">Type I leprosy</displayName>
+</concept>
+<concept code="14527007">
+<displayName lang="en" type="PT">Tuberculous empyema</displayName>
+<displayName lang="en" type="FSN">Tuberculous empyema (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous pleural empyema</displayName>
+</concept>
+<concept code="14535005">
+<displayName lang="en" type="PT">Acute nonparalytic poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Acute nonparalytic poliomyelitis (disorder)</displayName>
+<displayName lang="en" type="SY">Acute non-paralytic poliomyelitis</displayName>
+<displayName lang="en" type="SY">Anterior acute poliomyelitis specified as nonparalytic</displayName>
+<displayName lang="en" type="SY">Anterior acute poliomyelitis, nonparalytic</displayName>
+<displayName lang="en" type="SY">Epidemic acute poliomyelitis specified as non paralytic</displayName>
+<displayName lang="en" type="SY">Epidemic acute poliomyelitis, non paralytic</displayName>
+</concept>
+<concept code="15202009">
+<displayName lang="en" type="PT">Tuberculoma</displayName>
+<displayName lang="en" type="FSN">Tuberculoma (disorder)</displayName>
+</concept>
+<concept code="15284007">
+<displayName lang="en-GB" type="PT">Tuberculosis of oesophagus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of esophagus (disorder)</displayName>
+</concept>
+<concept code="15316002">
+<displayName lang="en" type="PT">Simian B encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Simian B encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="16060001">
+<displayName lang="en" type="PT">Hepatic coma due to viral hepatitis A</displayName>
+<displayName lang="en" type="FSN">Hepatic coma due to viral hepatitis A (disorder)</displayName>
+<displayName lang="en" type="SY">Viral hepatitis A with hepatic coma</displayName>
+</concept>
+<concept code="16409009">
+<displayName lang="en" type="PT">Tuberculosis of retroperitoneal lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of retroperitoneal lymph nodes (disorder)</displayName>
+<displayName lang="en" type="SY">Retroperitoneal tuberculosis</displayName>
+</concept>
+<concept code="16541001">
+<displayName lang="en" type="PT">Yellow fever</displayName>
+<displayName lang="en" type="FSN">Yellow fever (disorder)</displayName>
+<displayName lang="en" type="SY">YF - Yellow fever</displayName>
+</concept>
+<concept code="16766000">
+<displayName lang="en-GB" type="PT">Arbovirus haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Arbovirus hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Arboviral haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Arthropod-borne haemorrhagic fever</displayName>
+</concept>
+<concept code="16901001">
+<displayName lang="en" type="PT">Encephalitis due to European subtype of tick-borne encephalitis virus</displayName>
+<displayName lang="en" type="FSN">Central European encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Biundulant meningoencephalitis</displayName>
+<displayName lang="en" type="SY">CEE - Central European encephalitis</displayName>
+<displayName lang="en" type="SY">Central European encephalitis</displayName>
+<displayName lang="en" type="SY">Central European tick-borne encephalitis</displayName>
+<displayName lang="en" type="SY">Diphasic meningoencephalitis</displayName>
+<displayName lang="en" type="SY">Diphasic milk fever</displayName>
+<displayName lang="en" type="SY">TBE - Central European tick-borne encephalitis</displayName>
+<displayName lang="en" type="SY">Western European tick-borne encephalitis</displayName>
+</concept>
+<concept code="17121006">
+<displayName lang="en" type="PT">Mumps nephritis</displayName>
+<displayName lang="en" type="FSN">Mumps nephritis (disorder)</displayName>
+</concept>
+<concept code="17681007">
+<displayName lang="en" type="PT">Hepatitis due to acquired toxoplasmosis</displayName>
+<displayName lang="en" type="FSN">Hepatitis due to acquired toxoplasmosis (disorder)</displayName>
+</concept>
+<concept code="17949000">
+<displayName lang="en" type="PT">Meningoencephalitis due to acquired toxoplasmosis</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis due to acquired toxoplasmosis (disorder)</displayName>
+<displayName lang="en" type="SY">Acquired toxoplasmal meningoencephalitis</displayName>
+</concept>
+<concept code="18342001">
+<displayName lang="en" type="PT">Algid malaria</displayName>
+<displayName lang="en" type="FSN">Algid malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Algid malaria - malarial shock</displayName>
+</concept>
+<concept code="18917003">
+<displayName lang="en" type="PT">Acute fulminating type A viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute fulminating type A viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="19065005">
+<displayName lang="en" type="PT">Lassa fever</displayName>
+<displayName lang="en" type="FSN">Lassa fever (disorder)</displayName>
+</concept>
+<concept code="19341001">
+<displayName lang="en" type="PT">Ovale malaria</displayName>
+<displayName lang="en" type="FSN">Ovale malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Malaria by Plasmodium ovale</displayName>
+<displayName lang="en" type="SY">Ovale tertian malaria</displayName>
+</concept>
+<concept code="19431000">
+<displayName lang="en" type="PT">Rubella arthritis</displayName>
+<displayName lang="en" type="FSN">Rubella arthritis (disorder)</displayName>
+<displayName lang="en" type="SY">Arthritis due to rubella</displayName>
+</concept>
+<concept code="19547001">
+<displayName lang="en" type="PT">Food poisoning due to streptococcus</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to streptococcus (disorder)</displayName>
+</concept>
+<concept code="19894004">
+<displayName lang="en" type="PT">Food poisoning due to Bacillus cereus</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to Bacillus cereus (disorder)</displayName>
+<displayName lang="en" type="SY">Foodborne Bacillus cereus intoxication</displayName>
+</concept>
+<concept code="20372007">
+<displayName lang="en" type="PT">Tuberculosis of prostate</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of prostate (disorder)</displayName>
+</concept>
+<concept code="20927009">
+<displayName lang="en-GB" type="PT">Dengue haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Dengue hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">DHF - Dengue haemorrhagic fever</displayName>
+</concept>
+<concept code="21070001">
+<displayName lang="en" type="PT">Mixed malaria</displayName>
+<displayName lang="en" type="FSN">Mixed malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Malaria by more than one parasite</displayName>
+</concept>
+<concept code="21560005">
+<displayName lang="en" type="PT">Lepromatous leprosy</displayName>
+<displayName lang="en" type="FSN">Lepromatous leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Full lepromatous leprosy</displayName>
+<displayName lang="en" type="SY">LL - Full lepromatous leprosy</displayName>
+<displayName lang="en" type="SY">Type L leprosy</displayName>
+<displayName lang="en" type="SY">Type LL leprosy</displayName>
+</concept>
+<concept code="22990009">
+<displayName lang="en" type="PT">Chronic tuberculosis</displayName>
+<displayName lang="en" type="FSN">Chronic tuberculosis (disorder)</displayName>
+</concept>
+<concept code="23022004">
+<displayName lang="en" type="PT">Tuberculous bronchiectasis</displayName>
+<displayName lang="en" type="FSN">Tuberculous bronchiectasis (disorder)</displayName>
+<displayName lang="en" type="SY">Post-tuberculous bronchiectasis</displayName>
+</concept>
+<concept code="23097003">
+<displayName lang="en" type="PT">Kyasanur forest disease</displayName>
+<displayName lang="en" type="FSN">Kyasanur forest disease (disorder)</displayName>
+<displayName lang="en" type="SY">KF - Kyasanur Forest disease</displayName>
+<displayName lang="en" type="SY">KFD - Kyasanur Forest disease</displayName>
+<displayName lang="en" type="SY">Kyasanur Forest disease</displayName>
+</concept>
+<concept code="23291008">
+<displayName lang="en" type="PT">Herpes simplex meningitis</displayName>
+<displayName lang="en" type="FSN">Herpes simplex meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Herpesviral meningitis</displayName>
+<displayName lang="en" type="SY">Meningitis due to herpes simplex virus</displayName>
+</concept>
+<concept code="23511006">
+<displayName lang="en" type="PT">Meningococcal infectious disease</displayName>
+<displayName lang="en" type="FSN">Meningococcal infectious disease (disorder)</displayName>
+<displayName lang="en" type="SY">Infection due to Neisseria meningitidis</displayName>
+<displayName lang="en" type="SY">Meningococcal infection</displayName>
+</concept>
+<concept code="24235005">
+<displayName lang="en" type="PT">Tuberculous hydrothorax</displayName>
+<displayName lang="en" type="FSN">Tuberculous hydrothorax (disorder)</displayName>
+</concept>
+<concept code="24321005">
+<displayName lang="en" type="PT">Fungal meningitis</displayName>
+<displayName lang="en" type="FSN">Fungal meningitis (disorder)</displayName>
+</concept>
+<concept code="24810006">
+<displayName lang="en" type="PT">Tuberculosis orificialis of mouth</displayName>
+<displayName lang="en" type="FSN">Tuberculosis orificialis of mouth (disorder)</displayName>
+</concept>
+<concept code="25102003">
+<displayName lang="en" type="PT">Acute type A viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute type A viral hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Acute hepatitis A</displayName>
+<displayName lang="en" type="SY">Viral infectious hepatitis A</displayName>
+</concept>
+<concept code="25629007">
+<displayName lang="en" type="PT">Acute tuberculosis</displayName>
+<displayName lang="en" type="FSN">Acute tuberculosis (disorder)</displayName>
+</concept>
+<concept code="25668000">
+<displayName lang="en" type="PT">Murine typhus</displayName>
+<displayName lang="en" type="FSN">Murine typhus (disorder)</displayName>
+<displayName lang="en" type="SY">Endemic typhus</displayName>
+<displayName lang="en" type="SY">Flea-borne typhus</displayName>
+<displayName lang="en" type="SY">Murine endemic flea typhus</displayName>
+<displayName lang="en" type="SY">Shop typhus</displayName>
+<displayName lang="en" type="SY">Typhus due to Rickettsia typhi</displayName>
+<displayName lang="en" type="SY">Urban typhus</displayName>
+</concept>
+<concept code="25822001">
+<displayName lang="en" type="PT">Pachymeningitis</displayName>
+<displayName lang="en" type="FSN">Pachymeningitis (disorder)</displayName>
+</concept>
+<concept code="25831001">
+<displayName lang="en" type="PT">Tuberculosis of nasal septum</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of nasal septum (disorder)</displayName>
+</concept>
+<concept code="26484003">
+<displayName lang="en" type="PT">Bordetellosis</displayName>
+<displayName lang="en" type="FSN">Bordetellosis (disorder)</displayName>
+<displayName lang="en" type="SY">Bordetella infection</displayName>
+</concept>
+<concept code="26726000">
+<displayName lang="en" type="PT">Legionella infection</displayName>
+<displayName lang="en" type="FSN">Legionella infection (disorder)</displayName>
+<displayName lang="en" type="SY">Legionellosis</displayName>
+</concept>
+<concept code="26935004">
+<displayName lang="en" type="PT">Tuberculosis of thyroid gland</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of thyroid gland (disorder)</displayName>
+</concept>
+<concept code="27052006">
+<displayName lang="en" type="PT">Vivax malaria</displayName>
+<displayName lang="en" type="FSN">Vivax malaria (disorder)</displayName>
+<displayName lang="en" type="SY">BT - Benign tertian malaria</displayName>
+<displayName lang="en" type="SY">BTM - Benign tertian malaria</displayName>
+<displayName lang="en" type="SY">Benign tertian malaria</displayName>
+<displayName lang="en" type="SY">Malaria by Plasmodium vivax</displayName>
+<displayName lang="en" type="SY">Vivax malaria - benign tertian</displayName>
+</concept>
+<concept code="27618009">
+<displayName lang="en" type="PT">Quartan malaria</displayName>
+<displayName lang="en" type="FSN">Quartan malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Malaria by Plasmodium malariae</displayName>
+<displayName lang="en" type="SY">Malariae malaria</displayName>
+</concept>
+<concept code="28192008">
+<displayName lang="en" type="PT">Enterovirus meningitis</displayName>
+<displayName lang="en" type="FSN">Enterovirus meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">EM - Enteroviral meningitis</displayName>
+<displayName lang="en" type="SY">Meningitis due to enterovirus</displayName>
+</concept>
+<concept code="28399005">
+<displayName lang="en" type="PT">Tuberculosis of spleen</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of spleen (disorder)</displayName>
+</concept>
+<concept code="28463004">
+<displayName lang="en" type="PT">Measles keratitis</displayName>
+<displayName lang="en" type="FSN">Measles keratitis (disorder)</displayName>
+</concept>
+<concept code="28766006">
+<displayName lang="en" type="PT">Posttransfusion viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Posttransfusion viral hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Posttransfusion hepatitis</displayName>
+<displayName lang="en" type="SY">Transfusion hepatitis</displayName>
+</concept>
+<concept code="29197009">
+<displayName lang="en" type="PT">Meningoencephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Meningoencephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="29731002">
+<displayName lang="en" type="PT">Tuberculous pneumothorax</displayName>
+<displayName lang="en" type="FSN">Tuberculous pneumothorax (disorder)</displayName>
+</concept>
+<concept code="30242009">
+<displayName lang="en" type="PT">Scarlet fever</displayName>
+<displayName lang="en" type="FSN">Scarlet fever (disorder)</displayName>
+<displayName lang="en" type="SY">Scarlatina</displayName>
+</concept>
+<concept code="30982007">
+<displayName lang="en-GB" type="PT">South American haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">South American hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="31112008">
+<displayName lang="en" type="PT">Tuberculous meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="31367003">
+<displayName lang="en" type="PT">Postvaccinal encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Postvaccinal encephalomyelitis (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Post-immunisation encephalomyelitis</displayName>
+</concept>
+<concept code="31524007">
+<displayName lang="en" type="PT">Mumps polyneuropathy</displayName>
+<displayName lang="en" type="FSN">Mumps polyneuropathy (disorder)</displayName>
+</concept>
+<concept code="31646008">
+<displayName lang="en" type="PT">Mumps encephalitis</displayName>
+<displayName lang="en" type="FSN">Mumps encephalitis (disorder)</displayName>
+</concept>
+<concept code="32268008">
+<displayName lang="en" type="PT">Tuberculosis of bladder</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of bladder (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Tuberculous cystitis</displayName>
+</concept>
+<concept code="33618002">
+<displayName lang="en" type="PT">Meningococcal carditis</displayName>
+<displayName lang="en" type="FSN">Meningococcal carditis (disorder)</displayName>
+</concept>
+<concept code="34476008">
+<displayName lang="en" type="PT">Viral encephalitis</displayName>
+<displayName lang="en" type="FSN">Viral encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis, viral</displayName>
+</concept>
+<concept code="35339003">
+<displayName lang="en" type="PT">Primary pneumonic plague</displayName>
+<displayName lang="en" type="FSN">Primary pneumonic plague (disorder)</displayName>
+</concept>
+<concept code="35585004">
+<displayName lang="en" type="PT">Tuberculous endometritis</displayName>
+<displayName lang="en" type="FSN">Tuberculous endometritis (disorder)</displayName>
+</concept>
+<concept code="35640008">
+<displayName lang="en" type="PT">Acute adenoviral encephalitis</displayName>
+<displayName lang="en" type="FSN">Acute adenoviral encephalitis (disorder)</displayName>
+</concept>
+<concept code="35786001">
+<displayName lang="en" type="PT">Tuberculoma of meninges</displayName>
+<displayName lang="en" type="FSN">Tuberculoma of meninges (disorder)</displayName>
+</concept>
+<concept code="35984006">
+<displayName lang="en" type="PT">Tuberculosis of vertebral column</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of vertebral column (disorder)</displayName>
+<displayName lang="en" type="SY">Pott&apos;s disease</displayName>
+<displayName lang="en" type="SY">Tuberculosis of spine (Pott&apos;s)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of vertebral column - Pott&apos;s</displayName>
+<displayName lang="en" type="SY">Tuberculous spondylitis</displayName>
+</concept>
+<concept code="36155008">
+<displayName lang="en" type="PT">Hepatitis in coxsackie viral disease</displayName>
+<displayName lang="en" type="FSN">Hepatitis in coxsackie viral disease (disorder)</displayName>
+</concept>
+<concept code="36568005">
+<displayName lang="en-GB" type="PT">Haemolytic uraemic syndrome of childhood</displayName>
+<displayName lang="en" type="FSN">Hemolytic uremic syndrome of childhood (disorder)</displayName>
+<displayName lang="en" type="SY">HUS, childhood type</displayName>
+</concept>
+<concept code="36653000">
+<displayName lang="en" type="PT">Rubella</displayName>
+<displayName lang="en" type="FSN">Rubella (disorder)</displayName>
+<displayName lang="en" type="SY">German measles</displayName>
+</concept>
+<concept code="36989005">
+<displayName lang="en" type="PT">Mumps</displayName>
+<displayName lang="en" type="FSN">Mumps (disorder)</displayName>
+</concept>
+<concept code="37109004">
+<displayName lang="en" type="PT">Ebola virus disease</displayName>
+<displayName lang="en" type="FSN">Ebola virus disease (disorder)</displayName>
+<displayName lang="en" type="SY">EVD - Ebola virus disease</displayName>
+<displayName lang="en-GB" type="SY">Ebola haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Viral haemorrhagic fever, Ebola</displayName>
+</concept>
+<concept code="37133005">
+<displayName lang="en" type="PT">Tuberculous pyelitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous pyelitis (disorder)</displayName>
+</concept>
+<concept code="37260006">
+<displayName lang="en" type="PT">Congenital tuberculosis</displayName>
+<displayName lang="en" type="FSN">Congenital tuberculosis (disorder)</displayName>
+</concept>
+<concept code="37871000">
+<displayName lang="en" type="PT">Acute hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis (disorder)</displayName>
+</concept>
+<concept code="38279006">
+<displayName lang="en" type="PT">Tuberculosis of bone</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of bone (disorder)</displayName>
+</concept>
+<concept code="38719000">
+<displayName lang="en" type="PT">Toxicoinfectious botulism</displayName>
+<displayName lang="en" type="FSN">Toxicoinfectious botulism (disorder)</displayName>
+<displayName lang="en" type="SY">Shaker foal syndrome</displayName>
+</concept>
+<concept code="38921001">
+<displayName lang="en" type="PT">Measles with complication</displayName>
+<displayName lang="en" type="FSN">Measles with complication (disorder)</displayName>
+</concept>
+<concept code="38976008">
+<displayName lang="en" type="PT">Pneumonic plague</displayName>
+<displayName lang="en" type="FSN">Pneumonic plague (disorder)</displayName>
+</concept>
+<concept code="39111003">
+<displayName lang="en" type="PT">Louse-borne typhus</displayName>
+<displayName lang="en" type="FSN">Louse-borne typhus (disorder)</displayName>
+<displayName lang="en" type="SY">Classical typhus</displayName>
+<displayName lang="en" type="SY">Epidemic typhus</displayName>
+<displayName lang="en" type="SY">European typhus</displayName>
+<displayName lang="en" type="SY">Exanthematic typhus</displayName>
+<displayName lang="en" type="SY">Fleckfieber</displayName>
+<displayName lang="en" type="SY">Louse-borne epidemic typhus</displayName>
+<displayName lang="en" type="SY">Louse-borne typhus fever</displayName>
+<displayName lang="en" type="SY">Tabardillo</displayName>
+<displayName lang="en" type="SY">Tifus exanthematico</displayName>
+<displayName lang="en" type="SY">Typhus due to Rickettsia prowazekii</displayName>
+</concept>
+<concept code="39306006">
+<displayName lang="en" type="PT">Tuberculosis of anus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of anus (disorder)</displayName>
+</concept>
+<concept code="40099009">
+<displayName lang="en" type="PT">Mumps meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Mumps meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="40138002">
+<displayName lang="en" type="PT">Tuberculous osteitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous osteitis (disorder)</displayName>
+</concept>
+<concept code="40230002">
+<displayName lang="en" type="PT">Encephalitis due to Langat virus</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to Langat virus (disorder)</displayName>
+<displayName lang="en" type="SY">Langat encephalitis</displayName>
+</concept>
+<concept code="40258005">
+<displayName lang="en" type="PT">Tuberculosis of testis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of testis (disorder)</displayName>
+</concept>
+<concept code="40468003">
+<displayName lang="en" type="PT">Viral hepatitis, type A</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis, type A (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis A</displayName>
+<displayName lang="en" type="SY">IH - Infectious hepatitis</displayName>
+<displayName lang="en" type="SY">Infectious hepatitis</displayName>
+</concept>
+<concept code="42100005">
+<displayName lang="en" type="PT">Jungle yellow fever</displayName>
+<displayName lang="en" type="FSN">Jungle yellow fever (disorder)</displayName>
+<displayName lang="en" type="SY">Sylvan yellow fever</displayName>
+<displayName lang="en" type="SY">Sylvatic yellow fever</displayName>
+</concept>
+<concept code="42979006">
+<displayName lang="en" type="PT">Amanita species poisoning</displayName>
+<displayName lang="en" type="FSN">Amanita species poisoning (disorder)</displayName>
+</concept>
+<concept code="43424001">
+<displayName lang="en" type="PT">Tetanus neonatorum</displayName>
+<displayName lang="en" type="FSN">Tetanus neonatorum (disorder)</displayName>
+</concept>
+<concept code="43489008">
+<displayName lang="en-GB" type="PT">Congo-Crimean haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Congo-Crimean hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">CCHF - Crimean-Congo haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">CHF - Crimean haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Central Asian haemorrhagic fever</displayName>
+<displayName lang="en" type="SY">Congo fever</displayName>
+<displayName lang="en-GB" type="SY">Crimean haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Crimean-Congo haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Viral haemorrhagic fever, Crimean-Congo</displayName>
+</concept>
+<concept code="44182001">
+<displayName lang="en" type="PT">Tuberculous necrosis of bone</displayName>
+<displayName lang="en" type="FSN">Tuberculous necrosis of bone (disorder)</displayName>
+</concept>
+<concept code="44201003">
+<displayName lang="en" type="PT">Mumps meningitis</displayName>
+<displayName lang="en" type="FSN">Mumps meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis due to mumps virus</displayName>
+</concept>
+<concept code="44323002">
+<displayName lang="en" type="PT">Tuberculosis of kidney</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of kidney (disorder)</displayName>
+<displayName lang="en" type="SY">Renal tuberculosis</displayName>
+<displayName lang="en" type="SY">TB - Renal tuberculosis</displayName>
+</concept>
+<concept code="45021001">
+<displayName lang="en" type="PT">Candidal meningitis</displayName>
+<displayName lang="en" type="FSN">Candidal meningitis (disorder)</displayName>
+</concept>
+<concept code="45042004">
+<displayName lang="en" type="PT">Acute fulminating viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute fulminating viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="45133009">
+<displayName lang="en" type="PT">Neurotoxic shellfish poisoning</displayName>
+<displayName lang="en" type="FSN">Neurotoxic shellfish poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Poisoning due to shellfish contaminated with Gymnodinium</displayName>
+</concept>
+<concept code="45170000">
+<displayName lang="en" type="PT">Encephalitis</displayName>
+<displayName lang="en" type="FSN">Encephalitis (disorder)</displayName>
+</concept>
+<concept code="46303000">
+<displayName lang="en" type="PT">Coccidioidal meningitis</displayName>
+<displayName lang="en" type="FSN">Coccidioidal meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Coccidioidomycosis meningitis</displayName>
+</concept>
+<concept code="46609008">
+<displayName lang="en" type="PT">Infection due to Clostridium perfringens type C</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium perfringens type C (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Clostridium perfringens type C enterotoxaemia</displayName>
+</concept>
+<concept code="46799006">
+<displayName lang="en-GB" type="PT">Dysenteric diarrhoea</displayName>
+<displayName lang="en" type="FSN">Dysenteric diarrhea (disorder)</displayName>
+</concept>
+<concept code="47082005">
+<displayName lang="en" type="PT">Congenital rubella pneumonitis</displayName>
+<displayName lang="en" type="FSN">Congenital rubella pneumonitis (disorder)</displayName>
+</concept>
+<concept code="47452006">
+<displayName lang="en" type="PT">Variola major</displayName>
+<displayName lang="en" type="FSN">Variola major (disorder)</displayName>
+<displayName lang="en" type="SY">Classical smallpox</displayName>
+<displayName lang="en" type="SY">Ordinary smallpox</displayName>
+</concept>
+<concept code="47604008">
+<displayName lang="en" type="PT">Miliary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Miliary tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">MTB - Miliary tuberculosis</displayName>
+</concept>
+<concept code="47761007">
+<displayName lang="en" type="PT">Brill-Zinsser disease</displayName>
+<displayName lang="en" type="FSN">Brill-Zinsser disease (disorder)</displayName>
+<displayName lang="en" type="SY">Brill&apos;s disease</displayName>
+<displayName lang="en" type="SY">Recrudescent typhus</displayName>
+<displayName lang="en" type="SY">Recrudescent typhus due to Rickettsia prowazekii</displayName>
+<displayName lang="en" type="SY">Recrudescent typhus fever</displayName>
+</concept>
+<concept code="48113006">
+<displayName lang="en-GB" type="PT">Omsk haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Omsk hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">OHF - Omsk haemorrhagic fever</displayName>
+</concept>
+<concept code="48278001">
+<displayName lang="en" type="PT">Diphtheritic cystitis</displayName>
+<displayName lang="en" type="FSN">Diphtheritic cystitis (disorder)</displayName>
+<displayName lang="en" type="SY">Cystitis in diphtheria</displayName>
+</concept>
+<concept code="49558004">
+<displayName lang="en" type="PT">Tuberculous salpingitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous salpingitis (disorder)</displayName>
+<displayName lang="en" type="SY">Fallopian tube tuberculosis</displayName>
+<displayName lang="en" type="SY">Tuberculosis (TB) salpingitis</displayName>
+</concept>
+<concept code="50215002">
+<displayName lang="en" type="PT">Laryngeal diphtheria</displayName>
+<displayName lang="en" type="FSN">Laryngeal diphtheria (disorder)</displayName>
+<displayName lang="en" type="SY">Diphtheritic laryngotracheitis</displayName>
+</concept>
+<concept code="50797007">
+<displayName lang="en" type="PT">Bubonic plague</displayName>
+<displayName lang="en" type="FSN">Bubonic plague (disorder)</displayName>
+</concept>
+<concept code="51014003">
+<displayName lang="en" type="PT">Reactivation tuberculosis</displayName>
+<displayName lang="en" type="FSN">Reinfection tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Postprimary tuberculosis</displayName>
+<displayName lang="en" type="SY">Reinfection tuberculosis</displayName>
+<displayName lang="en" type="SY">Secondary tuberculosis</displayName>
+</concept>
+<concept code="51423006">
+<displayName lang="en" type="PT">Modified smallpox</displayName>
+<displayName lang="en" type="FSN">Modified smallpox (disorder)</displayName>
+</concept>
+<concept code="52281009">
+<displayName lang="en" type="PT">Meningoencephalitis due to Naegleria</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis due to Naegleria (disorder)</displayName>
+</concept>
+<concept code="52721006">
+<displayName lang="en" type="PT">Tuberculosis of nasal sinus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of nasal sinus (disorder)</displayName>
+</concept>
+<concept code="52947006">
+<displayName lang="en" type="PT">Japanese encephalitis virus disease</displayName>
+<displayName lang="en" type="FSN">Japanese encephalitis virus disease (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis, Japanese</displayName>
+<displayName lang="en" type="SY">JBE - Japanese B encephalitis</displayName>
+<displayName lang="en" type="SY">JE - Japanese encephalitis</displayName>
+<displayName lang="en" type="SY">Japanese B encephalitis</displayName>
+<displayName lang="en" type="SY">Japanese encephalitis</displayName>
+</concept>
+<concept code="53425008">
+<displayName lang="en" type="PT">Anicteric type B viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Anicteric type B viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="53622003">
+<displayName lang="en" type="PT">Cerebral malaria</displayName>
+<displayName lang="en" type="FSN">Cerebral malaria (disorder)</displayName>
+</concept>
+<concept code="54084005">
+<displayName lang="en" type="PT">Cervical tuberculous lymphadenitis</displayName>
+<displayName lang="en" type="FSN">Cervical tuberculous lymphadenitis (disorder)</displayName>
+<displayName lang="en" type="SY">Scrofula</displayName>
+<displayName lang="en" type="SY">Tuberculosis of cervical lymph nodes</displayName>
+<displayName lang="en" type="SY">Tuberculous cervical lymphadenitis</displayName>
+</concept>
+<concept code="55234004">
+<displayName lang="en" type="PT">Pyogranulomatous meningoencephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Pyogranulomatous meningoencephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="55419007">
+<displayName lang="en" type="PT">Tuberculosis of glottis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of glottis (disorder)</displayName>
+</concept>
+<concept code="56498009">
+<displayName lang="en" type="PT">Tuberculosis of nasopharynx</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of nasopharynx (disorder)</displayName>
+</concept>
+<concept code="56529007">
+<displayName lang="en" type="PT">Adenoviral encephalitis</displayName>
+<displayName lang="en" type="FSN">Adenoviral encephalitis (disorder)</displayName>
+</concept>
+<concept code="56625005">
+<displayName lang="en" type="PT">Black water fever</displayName>
+<displayName lang="en" type="FSN">Black water fever (disorder)</displayName>
+<displayName lang="en" type="SY">Blackwater fever</displayName>
+<displayName lang="en-GB" type="SY">Haemoglobinuric fever</displayName>
+<displayName lang="en-GB" type="SY">Malarial haemoglobinuria</displayName>
+</concept>
+<concept code="56688005">
+<displayName lang="en" type="PT">Clostridial infection</displayName>
+<displayName lang="en" type="FSN">Clostridial infection (disorder)</displayName>
+</concept>
+<concept code="56717001">
+<displayName lang="en" type="PT">Tuberculosis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Tuberculosis</displayName>
+</concept>
+<concept code="57412004">
+<displayName lang="en" type="PT">Acute viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute viral hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">AVH - Acute viral hepatitis</displayName>
+</concept>
+<concept code="58170007">
+<displayName lang="en" type="PT">Viral meningitis</displayName>
+<displayName lang="en" type="FSN">Viral meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Abacterial meningitis</displayName>
+<displayName lang="en" type="SY">Aseptic meningitis, viral</displayName>
+<displayName lang="en" type="SY">Meningitis, viral</displayName>
+</concept>
+<concept code="58374007">
+<displayName lang="en" type="PT">Acute diffuse tuberculosis</displayName>
+<displayName lang="en" type="FSN">Acute diffuse tuberculosis (disorder)</displayName>
+</concept>
+<concept code="58750007">
+<displayName lang="en" type="PT">Plague</displayName>
+<displayName lang="en" type="FSN">Plague (disorder)</displayName>
+<displayName lang="en" type="SY">Black death</displayName>
+<displayName lang="en" type="SY">Infection by Yersinia pestis</displayName>
+<displayName lang="en" type="SY">Pest</displayName>
+<displayName lang="en" type="SY">Pestilential fever</displayName>
+</concept>
+<concept code="58764007">
+<displayName lang="en" type="PT">Tuberculous osteomyelitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous osteomyelitis (disorder)</displayName>
+</concept>
+<concept code="58766009">
+<displayName lang="en" type="PT">Granulomatous meningoencephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Granulomatous meningoencephalomyelitis (disorder)</displayName>
+<displayName lang="en" type="SY">Inflammatory reticulosis</displayName>
+</concept>
+<concept code="58868000">
+<displayName lang="en-GB" type="PT">Argentinian haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Argentinian hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">AHF - Argentinian haemorrhagic fever</displayName>
+<displayName lang="en-GB" type="SY">Endoepidemic haemorrhagic viraemia</displayName>
+<displayName lang="en" type="SY">Gripon</displayName>
+<displayName lang="en-GB" type="SY">Haemorrhagic fever due to Junin virus</displayName>
+<displayName lang="en-GB" type="SY">Junin haemorrhagic fever</displayName>
+<displayName lang="en" type="SY">Mal de Rastrojos</displayName>
+<displayName lang="en-GB" type="SY">North-east Buenos Aires haemorrhagic viraemia</displayName>
+<displayName lang="en" type="SY">O&apos;Higgins&apos; disease</displayName>
+<displayName lang="en-GB" type="SY">Viral haemorrhagic fever, Argentine</displayName>
+</concept>
+<concept code="60013002">
+<displayName lang="en" type="PT">Measles keratoconjunctivitis</displayName>
+<displayName lang="en" type="FSN">Measles keratoconjunctivitis (disorder)</displayName>
+</concept>
+<concept code="61145000">
+<displayName lang="en" type="PT">Tetanus omphalitis</displayName>
+<displayName lang="en" type="FSN">Tetanus omphalitis (disorder)</displayName>
+</concept>
+<concept code="61462000">
+<displayName lang="en" type="PT">Malaria</displayName>
+<displayName lang="en" type="FSN">Malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Paludism</displayName>
+<displayName lang="en" type="SY">Plasmodiosis</displayName>
+</concept>
+<concept code="62494007">
+<displayName lang="en" type="PT">Chronic miliary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Chronic miliary tuberculosis (disorder)</displayName>
+</concept>
+<concept code="62676009">
+<displayName lang="en" type="PT">Falciparum malaria</displayName>
+<displayName lang="en" type="FSN">Falciparum malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Falciparum malaria - malignant</displayName>
+<displayName lang="en" type="SY">MT - Malignant tertian malaria</displayName>
+<displayName lang="en" type="SY">MTM - Malignant tertian malaria</displayName>
+<displayName lang="en" type="SY">Malaria by Plasmodium falciparum</displayName>
+<displayName lang="en" type="SY">Malignant tertian malaria</displayName>
+<displayName lang="en" type="SY">Pernicious malaria</displayName>
+<displayName lang="en" type="SY">Plasmodium falciparum malaria</displayName>
+<displayName lang="en" type="SY">ST - Subtertian malaria</displayName>
+<displayName lang="en" type="SY">STM - Subtertian malaria</displayName>
+<displayName lang="en" type="SY">Subtertian malaria</displayName>
+</concept>
+<concept code="62819009">
+<displayName lang="en" type="PT">Tuberculous cervicitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous cervicitis (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis (TB) of uterine cervix</displayName>
+</concept>
+<concept code="62950007">
+<displayName lang="en" type="PT">Encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="63309002">
+<displayName lang="en" type="PT">Primary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Primary tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Primary (TB) tuberculosis</displayName>
+<displayName lang="en" type="SY">Primary tuberculous infection</displayName>
+</concept>
+<concept code="63462008">
+<displayName lang="en" type="PT">Mumps myocarditis</displayName>
+<displayName lang="en" type="FSN">Mumps myocarditis (disorder)</displayName>
+</concept>
+<concept code="63650001">
+<displayName lang="en" type="PT">Cholera</displayName>
+<displayName lang="en" type="FSN">Cholera (disorder)</displayName>
+<displayName lang="en" type="SY">Vibrio cholerae infection</displayName>
+</concept>
+<concept code="64190005">
+<displayName lang="en" type="PT">Rubella myocarditis</displayName>
+<displayName lang="en" type="FSN">Rubella myocarditis (disorder)</displayName>
+</concept>
+<concept code="64764001">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis, bulbar</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis, bulbar (disorder)</displayName>
+<displayName lang="en" type="SY">Acute anterior bulbar polioencephalomyelitis</displayName>
+<displayName lang="en" type="SY">Acute anterior poliomyelitis</displayName>
+<displayName lang="en" type="SY">Acute infantile paralysis</displayName>
+<displayName lang="en" type="SY">Acute paralytic bulbar poliomyelitis</displayName>
+</concept>
+<concept code="64815002">
+<displayName lang="en" type="PT">Fugu poisoning</displayName>
+<displayName lang="en" type="FSN">Fugu poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Fugu causing toxic effect</displayName>
+<displayName lang="en" type="SY">Puffer fish causing toxic effect</displayName>
+<displayName lang="en" type="SY">Puffer fish poisoning</displayName>
+<displayName lang="en" type="SY">Puffer-fish paralysis</displayName>
+<displayName lang="en" type="SY">Tetraodon causing toxic effect</displayName>
+<displayName lang="en" type="SY">Tetrodotoxin poisoning</displayName>
+<displayName lang="en" type="SY">Tetrodotoxism</displayName>
+</concept>
+<concept code="65127006">
+<displayName lang="en" type="PT">Tuberculous pyelonephritis</displayName>
+<displayName lang="en" type="FSN">Tuberculous pyelonephritis (disorder)</displayName>
+</concept>
+<concept code="65154009">
+<displayName lang="en" type="PT">Infection due to Clostridium perfringens</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium perfringens (disorder)</displayName>
+<displayName lang="en" type="SY">Clostridium perfringens infection</displayName>
+</concept>
+<concept code="66074005">
+<displayName lang="en" type="PT">Leptomeningitis</displayName>
+<displayName lang="en" type="FSN">Leptomeningitis (disorder)</displayName>
+</concept>
+<concept code="66107000">
+<displayName lang="en" type="PT">Bacterial food poisoning</displayName>
+<displayName lang="en" type="FSN">Bacterial food poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Food poisoning due to bacteria</displayName>
+</concept>
+<concept code="66218005">
+<displayName lang="en" type="PT">Infection due to Clostridium perfringens type A</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium perfringens type A (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Clostridium perfringens type A enterotoxaemia</displayName>
+</concept>
+<concept code="66454007">
+<displayName lang="en" type="PT">Murray valley encephalitis</displayName>
+<displayName lang="en" type="FSN">Murray valley encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Australian X disease</displayName>
+<displayName lang="en" type="SY">Australian arboencephalitis</displayName>
+<displayName lang="en" type="SY">Australian encephalitis</displayName>
+<displayName lang="en" type="SY">MVE</displayName>
+<displayName lang="en" type="SY">MVE - Murray Valley encephalitis</displayName>
+<displayName lang="en" type="SY">Murray River encephalitis</displayName>
+<displayName lang="en" type="SY">Murray Valley encephalitis</displayName>
+</concept>
+<concept code="67247008">
+<displayName lang="en-GB" type="PT">Bolivian haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Bolivian hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">BHF - Bolivian haemorrhagic fever</displayName>
+<displayName lang="en" type="SY">Black typhus</displayName>
+<displayName lang="en-GB" type="SY">Haemorrhagic fever due to Machupo virus</displayName>
+<displayName lang="en-GB" type="SY">Machupo haemorrhagic fever</displayName>
+</concept>
+<concept code="67256000">
+<displayName lang="en" type="PT">Tuberculosis of pericardium</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of pericardium (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous pericarditis</displayName>
+</concept>
+<concept code="67525007">
+<displayName lang="en" type="PT">Secondary pneumonic plague</displayName>
+<displayName lang="en" type="FSN">Secondary pneumonic plague (disorder)</displayName>
+</concept>
+<concept code="67924001">
+<displayName lang="en" type="PT">Smallpox</displayName>
+<displayName lang="en" type="FSN">Smallpox (disorder)</displayName>
+<displayName lang="en" type="SY">Variola</displayName>
+</concept>
+<concept code="67987005">
+<displayName lang="en" type="PT">Toxic effect from eating fish</displayName>
+<displayName lang="en" type="FSN">Toxic effect from eating fish (disorder)</displayName>
+</concept>
+<concept code="68981009">
+<displayName lang="en" type="PT">Queensland tick typhus</displayName>
+<displayName lang="en" type="FSN">Queensland tick typhus (disorder)</displayName>
+<displayName lang="en" type="SY">North Queensland tick typhus</displayName>
+<displayName lang="en" type="SY">Spotted fever due to Rickettsia australis</displayName>
+<displayName lang="en" type="SY">Tick typhus due to Rickettsia australis</displayName>
+</concept>
+<concept code="70014009">
+<displayName lang="en" type="PT">Food poisoning due to Clostridium perfringens</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to Clostridium perfringens (disorder)</displayName>
+<displayName lang="en" type="SY">Clostridium perfringens food poisoning</displayName>
+</concept>
+<concept code="70143003">
+<displayName lang="en" type="PT">Tuberculoid leprosy</displayName>
+<displayName lang="en" type="FSN">Tuberculoid leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Full tuberculoid leprosy</displayName>
+<displayName lang="en" type="SY">Nodular leprosy</displayName>
+<displayName lang="en" type="SY">Smooth leprosy</displayName>
+<displayName lang="en" type="SY">TT - Full tuberculoid leprosy</displayName>
+<displayName lang="en" type="SY">Tuberculoid Hansen&apos;s disease (leprosy)</displayName>
+<displayName lang="en" type="SY">Type T leprosy</displayName>
+<displayName lang="en" type="SY">Type TT leprosy</displayName>
+</concept>
+<concept code="70341005">
+<displayName lang="en" type="PT">Tuberculous laryngitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous laryngitis (disorder)</displayName>
+<displayName lang="en" type="SY">Laryngeal tuberculosis</displayName>
+<displayName lang="en" type="SY">Tuberculosis (TB) with laryngitis</displayName>
+<displayName lang="en" type="SY">Tuberculosis of larynx</displayName>
+</concept>
+<concept code="70576008">
+<displayName lang="en" type="PT">Enteroviral encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Enteroviral encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="71105005">
+<displayName lang="en" type="PT">Ilheus virus encephalitis</displayName>
+<displayName lang="en" type="FSN">Ilheus virus encephalitis (disorder)</displayName>
+</concept>
+<concept code="71375000">
+<displayName lang="en" type="PT">Tuberculosis of mastoid process</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of mastoid process (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous mastoiditis</displayName>
+</concept>
+<concept code="71460009">
+<displayName lang="en" type="PT">Trypanosomiasis with encephalitis</displayName>
+<displayName lang="en" type="FSN">Trypanosomiasis with encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Trypanosomiasis encephalitis</displayName>
+</concept>
+<concept code="72071001">
+<displayName lang="en" type="PT">Mumps thyroiditis</displayName>
+<displayName lang="en" type="FSN">Mumps thyroiditis (disorder)</displayName>
+</concept>
+<concept code="72294005">
+<displayName lang="en" type="PT">Alastrim</displayName>
+<displayName lang="en" type="FSN">Alastrim (disorder)</displayName>
+<displayName lang="en" type="SY">Amaas</displayName>
+<displayName lang="en" type="SY">Kaffir pox</displayName>
+<displayName lang="en" type="SY">Variola minor</displayName>
+</concept>
+<concept code="72807002">
+<displayName lang="en" type="PT">Tuberculous polyserositis</displayName>
+<displayName lang="en" type="FSN">Tuberculous polyserositis (disorder)</displayName>
+</concept>
+<concept code="73431005">
+<displayName lang="en" type="PT">Meningococcal optic neuritis</displayName>
+<displayName lang="en" type="FSN">Meningococcal optic neuritis (disorder)</displayName>
+</concept>
+<concept code="73730005">
+<displayName lang="en-GB" type="PT">Arenaviral haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Arenaviral hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="74166005">
+<displayName lang="en" type="PT">Urban yellow fever</displayName>
+<displayName lang="en" type="FSN">Urban yellow fever (disorder)</displayName>
+</concept>
+<concept code="74181004">
+<displayName lang="en" type="PT">Tuberculosis of female genital organs</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of female genital organs (disorder)</displayName>
+</concept>
+<concept code="74387008">
+<displayName lang="en" type="PT">Tuberculosis of hilar lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of hilar lymph nodes (disorder)</displayName>
+</concept>
+<concept code="74717002">
+<displayName lang="en" type="PT">Mumps with complication</displayName>
+<displayName lang="en" type="FSN">Mumps with complication (disorder)</displayName>
+</concept>
+<concept code="74724001">
+<displayName lang="en" type="PT">Smallpox without rash</displayName>
+<displayName lang="en" type="FSN">Smallpox without rash (disorder)</displayName>
+<displayName lang="en" type="SY">Variola sine eruptione</displayName>
+<displayName lang="en" type="SY">Varioloid</displayName>
+</concept>
+<concept code="74918002">
+<displayName lang="en" type="PT">Measles myocarditis</displayName>
+<displayName lang="en" type="FSN">Measles myocarditis (disorder)</displayName>
+</concept>
+<concept code="75258004">
+<displayName lang="en" type="PT">Food poisoning</displayName>
+<displayName lang="en" type="FSN">Food poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">FP - Food poisoning</displayName>
+</concept>
+<concept code="75548002">
+<displayName lang="en" type="PT">Mumps oophoritis</displayName>
+<displayName lang="en" type="FSN">Mumps oophoritis (disorder)</displayName>
+<displayName lang="en" type="SY">Acute mumps oophoritis</displayName>
+</concept>
+<concept code="75589004">
+<displayName lang="en" type="PT">Nasopharyngeal diphtheria</displayName>
+<displayName lang="en" type="FSN">Nasopharyngeal diphtheria (disorder)</displayName>
+</concept>
+<concept code="75702008">
+<displayName lang="en" type="PT">Brucellosis</displayName>
+<displayName lang="en" type="FSN">Brucellosis (disorder)</displayName>
+<displayName lang="en" type="SY">Cyprus fever</displayName>
+<displayName lang="en" type="SY">Gibraltar fever</displayName>
+<displayName lang="en" type="SY">Malta fever</displayName>
+<displayName lang="en" type="SY">Mediterranean fever</displayName>
+<displayName lang="en" type="SY">Rock fever</displayName>
+<displayName lang="en" type="SY">Undulant fever</displayName>
+</concept>
+<concept code="76474001">
+<displayName lang="en-GB" type="PT">Herpetic acute necrotising encephalitis</displayName>
+<displayName lang="en" type="FSN">Herpetic acute necrotizing encephalitis (disorder)</displayName>
+</concept>
+<concept code="76795007">
+<displayName lang="en" type="PT">Acute type B viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute type B viral hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Acute hepatitis B</displayName>
+</concept>
+<concept code="76902006">
+<displayName lang="en" type="PT">Tetanus</displayName>
+<displayName lang="en" type="FSN">Tetanus (disorder)</displayName>
+</concept>
+<concept code="77038006">
+<displayName lang="en" type="PT">Tuberculosis of peripheral lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of peripheral lymph nodes (disorder)</displayName>
+</concept>
+<concept code="77503002">
+<displayName lang="en" type="PT">Marburg virus disease</displayName>
+<displayName lang="en" type="FSN">Marburg virus disease (disorder)</displayName>
+<displayName lang="en" type="SY">Green monkey disease</displayName>
+<displayName lang="en-GB" type="SY">Marburg haemorrhagic fever</displayName>
+<displayName lang="en" type="SY">Vervet monkey disease</displayName>
+<displayName lang="en-GB" type="SY">Viral haemorrhagic fever, Marburg</displayName>
+</concept>
+<concept code="77668003">
+<displayName lang="en" type="PT">Isolated tracheal tuberculosis</displayName>
+<displayName lang="en" type="FSN">Isolated tracheal tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of trachea</displayName>
+</concept>
+<concept code="77889005">
+<displayName lang="en" type="PT">Paralytic shellfish poisoning</displayName>
+<displayName lang="en" type="FSN">Paralytic shellfish poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">PSP - Paralytic shellfish poisoning</displayName>
+<displayName lang="en" type="SY">Paralytic shellfish causing toxic effect</displayName>
+<displayName lang="en" type="SY">Poisoning due to red tide of dinoflagellates</displayName>
+<displayName lang="en" type="SY">Saxitoxin poisoning</displayName>
+<displayName lang="en" type="SY">Shellfish poisoning, paralytic</displayName>
+</concept>
+<concept code="78209002">
+<displayName lang="en-GB" type="PT">Haemolytic uraemic syndrome, adult type</displayName>
+<displayName lang="en" type="FSN">Hemolytic uremic syndrome, adult type (disorder)</displayName>
+<displayName lang="en" type="SY">HUS, adult type</displayName>
+</concept>
+<concept code="78436002">
+<displayName lang="en" type="PT">Tuberculosis of intrathoracic lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of intrathoracic lymph nodes (disorder)</displayName>
+</concept>
+<concept code="78580004">
+<displayName lang="en" type="PT">Mumps orchitis</displayName>
+<displayName lang="en" type="FSN">Mumps orchitis (disorder)</displayName>
+</concept>
+<concept code="79031007">
+<displayName lang="en" type="PT">Anicteric type A viral hepatitis</displayName>
+<displayName lang="en" type="FSN">Anicteric type A viral hepatitis (disorder)</displayName>
+</concept>
+<concept code="79158003">
+<displayName lang="en" type="PT">Tuberculous interstitial keratitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous interstitial keratitis (disorder)</displayName>
+</concept>
+<concept code="79303006">
+<displayName lang="en" type="PT">Expanded rubella syndrome</displayName>
+<displayName lang="en" type="FSN">Expanded rubella syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Extended congenital rubella syndrome</displayName>
+<displayName lang="en" type="SY">Extended rubella syndrome</displayName>
+</concept>
+<concept code="80010008">
+<displayName lang="en" type="PT">Isolated bronchial tuberculosis</displayName>
+<displayName lang="en" type="FSN">Isolated bronchial tuberculosis (disorder)</displayName>
+</concept>
+<concept code="80602006">
+<displayName lang="en" type="PT">Nodular tuberculosis of lung</displayName>
+<displayName lang="en" type="FSN">Nodular tuberculosis of lung (disorder)</displayName>
+<displayName lang="en" type="SY">Nodular lung tuberculosis</displayName>
+</concept>
+<concept code="80912002">
+<displayName lang="en" type="PT">Shellfish poisoning due to Gonyaulax catenalla</displayName>
+<displayName lang="en" type="FSN">Shellfish poisoning due to Gonyaulax catenalla (disorder)</displayName>
+</concept>
+<concept code="81004002">
+<displayName lang="en" type="PT">Leprosy</displayName>
+<displayName lang="en" type="FSN">Leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Hansen&apos;s disease</displayName>
+<displayName lang="en" type="SY">Infection due to Mycobacterium leprae</displayName>
+<displayName lang="en" type="SY">Mycobacterium leprae infection</displayName>
+</concept>
+<concept code="81020007">
+<displayName lang="en" type="PT">Cholera due to Vibrio cholerae El Tor</displayName>
+<displayName lang="en" type="FSN">Cholera due to Vibrio cholerae El Tor (disorder)</displayName>
+<displayName lang="en" type="SY">Cholera - Vibrio cholerae O1 El Tor biotype</displayName>
+</concept>
+<concept code="81133003">
+<displayName lang="en" type="PT">Tuberculosis of bones of lower extremity</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of bones of lower extremity (disorder)</displayName>
+</concept>
+<concept code="81159000">
+<displayName lang="en-GB" type="PT">Food poisoning due to Vibrio parahaemolyticus</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to Vibrio parahemolyticus (disorder)</displayName>
+<displayName lang="en" type="SY">Vibrio parahaemolyticus food poisoning</displayName>
+</concept>
+<concept code="81359005">
+<displayName lang="en" type="PT">Tuberculosis of ureter</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of ureter (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Tuberculosis of ureter</displayName>
+</concept>
+<concept code="81554001">
+<displayName lang="en" type="PT">Tuberculosis of lung with involvement of bronchus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung with involvement of bronchus (disorder)</displayName>
+</concept>
+<concept code="82051003">
+<displayName lang="en" type="PT">Infection due to Clostridium perfringens type D</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium perfringens type D (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Clostridium perfringens type D enterotoxaemia</displayName>
+</concept>
+<concept code="82495004">
+<displayName lang="en" type="PT">Tuberculosis of mediastinal lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of mediastinal lymph nodes (disorder)</displayName>
+</concept>
+<concept code="82547005">
+<displayName lang="en" type="PT">Acute adenoviral meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Acute adenoviral meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="82670009">
+<displayName lang="en" type="PT">Whooping cough due to organism other than Bordetella pertussis</displayName>
+<displayName lang="en" type="FSN">Whooping cough due to organism other than Bordetella pertussis (disorder)</displayName>
+</concept>
+<concept code="83072009">
+<displayName lang="en" type="PT">Malarial hepatitis</displayName>
+<displayName lang="en" type="FSN">Malarial hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis in malaria</displayName>
+</concept>
+<concept code="83159006">
+<displayName lang="en" type="PT">Cytomegalovirus encephalitis</displayName>
+<displayName lang="en" type="FSN">Cytomegalovirus encephalitis (disorder)</displayName>
+</concept>
+<concept code="83227006">
+<displayName lang="en" type="PT">Scombroid fish poisoning</displayName>
+<displayName lang="en" type="FSN">Scombroid fish poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Histamine fish poisoning</displayName>
+<displayName lang="en" type="SY">Scombroid fish causing toxic effect</displayName>
+<displayName lang="en" type="SY">Toxic effect of scombroid fish poisoning</displayName>
+</concept>
+<concept code="83652003">
+<displayName lang="en" type="PT">Tuberculosis of epididymis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of epididymis (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous epididymitis</displayName>
+</concept>
+<concept code="83784000">
+<displayName lang="en" type="PT">Tuberculosis of mediastinum</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of mediastinum (disorder)</displayName>
+</concept>
+<concept code="84194006">
+<displayName lang="en" type="PT">Tuberculous oophoritis</displayName>
+<displayName lang="en" type="FSN">Tuberculous oophoritis (disorder)</displayName>
+</concept>
+<concept code="84611003">
+<displayName lang="en" type="PT">Rubella with complication</displayName>
+<displayName lang="en" type="FSN">Rubella with complication (disorder)</displayName>
+</concept>
+<concept code="84622004">
+<displayName lang="en" type="PT">Food poisoning due to staphylococcus</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to staphylococcus (disorder)</displayName>
+<displayName lang="en" type="SY">Staphylococcal food poisoning</displayName>
+<displayName lang="en-GB" type="SY">Staphylococcal toxaemia due to food</displayName>
+<displayName lang="en-GB" type="SY">Staphylococcal toxaemia specified as due to food</displayName>
+</concept>
+<concept code="85644003">
+<displayName lang="en" type="PT">Toxic effect of food contaminant</displayName>
+<displayName lang="en" type="FSN">Toxic effect of food contaminant (disorder)</displayName>
+</concept>
+<concept code="85692003">
+<displayName lang="en" type="PT">Tuberculosis of tracheobronchial lymph nodes</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of tracheobronchial lymph nodes (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous tracheobronchial adenopathy</displayName>
+</concept>
+<concept code="85940005">
+<displayName lang="en" type="PT">Tuberculous otitis media</displayName>
+<displayName lang="en" type="FSN">Tuberculous otitis media (disorder)</displayName>
+</concept>
+<concept code="86068002">
+<displayName lang="en" type="PT">Toxic effect of noxious substance eaten as food</displayName>
+<displayName lang="en" type="FSN">Toxic effect of noxious substance eaten as food (disorder)</displayName>
+<displayName lang="en" type="SY">Noxious substance eaten as food causing toxic effect</displayName>
+<displayName lang="en" type="SY">Toxic effect - noxious food</displayName>
+</concept>
+<concept code="86497005">
+<displayName lang="en" type="PT">Flat-type smallpox</displayName>
+<displayName lang="en" type="FSN">Flat-type smallpox (disorder)</displayName>
+<displayName lang="en" type="SY">Malignant smallpox</displayName>
+</concept>
+<concept code="86505009">
+<displayName lang="en" type="PT">Toxic effect from eating mushrooms</displayName>
+<displayName lang="en" type="FSN">Toxic effect from eating mushrooms (disorder)</displayName>
+<displayName lang="en" type="SY">Mushroom poisoning</displayName>
+<displayName lang="en" type="SY">Mycetism</displayName>
+</concept>
+<concept code="88356006">
+<displayName lang="en" type="PT">Primary tuberculous complex</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex (disorder)</displayName>
+<displayName lang="en" type="SY">Ghon complex</displayName>
+<displayName lang="en" type="SY">Ghon tubercle</displayName>
+</concept>
+<concept code="89231008">
+<displayName lang="en" type="PT">Mumps hepatitis</displayName>
+<displayName lang="en" type="FSN">Mumps hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis in mumps</displayName>
+</concept>
+<concept code="89764009">
+<displayName lang="en" type="PT">Mumps arthritis</displayName>
+<displayName lang="en" type="FSN">Mumps arthritis (disorder)</displayName>
+</concept>
+<concept code="89861008">
+<displayName lang="en" type="PT">Infection due to Clostridium perfringens type B</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium perfringens type B (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Clostridium perfringens type B enterotoxaemia</displayName>
+</concept>
+<concept code="90117007">
+<displayName lang="en" type="PT">Tuberculous fibrosis of lung</displayName>
+<displayName lang="en" type="FSN">Tuberculous fibrosis of lung (disorder)</displayName>
+</concept>
+<concept code="90359003">
+<displayName lang="en" type="PT">Shellfish poisoning due to Gonyaulax tamarensis</displayName>
+<displayName lang="en" type="FSN">Shellfish poisoning due to Gonyaulax tamarensis (disorder)</displayName>
+</concept>
+<concept code="91468009">
+<displayName lang="en" type="PT">Meningococcal myocarditis</displayName>
+<displayName lang="en" type="FSN">Meningococcal myocarditis (disorder)</displayName>
+</concept>
+<concept code="95545007">
+<displayName lang="en-GB" type="PT">Haemorrhagic diarrhoea</displayName>
+<displayName lang="en" type="FSN">Hemorrhagic diarrhea (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Bloody diarrhoea</displayName>
+</concept>
+<concept code="95878009">
+<displayName lang="en" type="PT">Amnesic shellfish poisoning</displayName>
+<displayName lang="en" type="FSN">Amnesic shellfish poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Shellfish poisoning, amnesic</displayName>
+</concept>
+<concept code="95879001">
+<displayName lang="en-GB" type="PT">Diarrhoeic shellfish poisoning</displayName>
+<displayName lang="en" type="FSN">Diarrheic shellfish poisoning (disorder)</displayName>
+<displayName lang="en-GB" type="SY">DSP - Diarrhoeic shellfish poisoning</displayName>
+</concept>
+<concept code="95897009">
+<displayName lang="en-GB" type="PT">Amoebic hepatitis</displayName>
+<displayName lang="en" type="FSN">Amebic hepatitis (disorder)</displayName>
+</concept>
+<concept code="111407006">
+<displayName lang="en-GB" type="PT">Haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="FSN">Hemolytic uremic syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Gasser&apos;s syndrome</displayName>
+<displayName lang="en-GB" type="SY">HUS - Haemolytic uraemic syndrome</displayName>
+</concept>
+<concept code="111800004">
+<displayName lang="en" type="PT">Anthrax manifestation</displayName>
+<displayName lang="en" type="FSN">Anthrax manifestation (disorder)</displayName>
+</concept>
+<concept code="111802007">
+<displayName lang="en" type="PT">Food poisoning due to Clostridia</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to Clostridia (disorder)</displayName>
+</concept>
+<concept code="111830007">
+<displayName lang="en" type="PT">Tuberculosis of urinary organs</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of urinary organs (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Urinary tuberculosis</displayName>
+<displayName lang="en" type="SY">Tuberculosis of urinary tract</displayName>
+<displayName lang="en" type="SY">Urinary tuberculosis</displayName>
+</concept>
+<concept code="111832004">
+<displayName lang="en" type="PT">Primary progressive tuberculosis</displayName>
+<displayName lang="en" type="FSN">Primary progressive tuberculosis (disorder)</displayName>
+</concept>
+<concept code="111850006">
+<displayName lang="en" type="PT">Adenoviral meningitis</displayName>
+<displayName lang="en" type="FSN">Adenoviral meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis due to adenovirus</displayName>
+</concept>
+<concept code="111867004">
+<displayName lang="en" type="PT">Rubella without complication</displayName>
+<displayName lang="en" type="FSN">Rubella without complication (disorder)</displayName>
+</concept>
+<concept code="111868009">
+<displayName lang="en" type="PT">Rubella infection of central nervous system</displayName>
+<displayName lang="en" type="FSN">Rubella infection of central nervous system (disorder)</displayName>
+</concept>
+<concept code="111870000">
+<displayName lang="en" type="PT">Mumps without complication</displayName>
+<displayName lang="en" type="FSN">Mumps without complication (disorder)</displayName>
+</concept>
+<concept code="111872008">
+<displayName lang="en" type="PT">Post measles encephalitis</displayName>
+<displayName lang="en" type="FSN">Post measles encephalitis (disorder)</displayName>
+</concept>
+<concept code="111873003">
+<displayName lang="en" type="PT">Measles without complication</displayName>
+<displayName lang="en" type="FSN">Measles without complication (disorder)</displayName>
+</concept>
+<concept code="111878007">
+<displayName lang="en" type="PT">Coxsackie meningitis</displayName>
+<displayName lang="en" type="FSN">Coxsackie meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis due to coxsackie virus</displayName>
+</concept>
+<concept code="111879004">
+<displayName lang="en" type="PT">Viral hepatitis A without hepatic coma</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis A without hepatic coma (disorder)</displayName>
+</concept>
+<concept code="111892001">
+<displayName lang="en" type="PT">Infectious neonatal hepatitis</displayName>
+<displayName lang="en" type="FSN">Infectious neonatal hepatitis (disorder)</displayName>
+</concept>
+<concept code="111897007">
+<displayName lang="en-GB" type="PT">Acute necrotising encephalitis</displayName>
+<displayName lang="en" type="FSN">Acute necrotizing encephalitis (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Acute necrotising viral encephalitis</displayName>
+</concept>
+<concept code="111912001">
+<displayName lang="en-GB" type="PT">Acute amoebic dysentery without abscess</displayName>
+<displayName lang="en" type="FSN">Acute amebic dysentery without abscess (disorder)</displayName>
+</concept>
+<concept code="111939009">
+<displayName lang="en" type="PT">Dysentery</displayName>
+<displayName lang="en" type="FSN">Dysentery (disorder)</displayName>
+</concept>
+<concept code="123603008">
+<displayName lang="en" type="PT">Acute focal hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute focal hepatitis (disorder)</displayName>
+</concept>
+<concept code="128191000">
+<displayName lang="en" type="PT">Rubella encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Rubella encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="128215004">
+<displayName lang="en" type="PT">Leprosy neuropathy</displayName>
+<displayName lang="en" type="FSN">Leprosy neuropathy (disorder)</displayName>
+</concept>
+<concept code="129667001">
+<displayName lang="en" type="PT">Diphtheritic peripheral neuritis</displayName>
+<displayName lang="en" type="FSN">Diphtheritic peripheral neuritis (disorder)</displayName>
+</concept>
+<concept code="154283005">
+<displayName lang="en" type="PT">Pulmonary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Pulmonary tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">PTB - Pulmonary tuberculosis</displayName>
+<displayName lang="en" type="SY">TB - Pulmonary tuberculosis</displayName>
+</concept>
+<concept code="170483003">
+<displayName lang="en" type="PT">Cholera carrier</displayName>
+<displayName lang="en" type="FSN">Cholera carrier (finding)</displayName>
+</concept>
+<concept code="172672006">
+<displayName lang="en" type="PT">Acute poliomyelitis with paralysis except bulbar</displayName>
+<displayName lang="en" type="FSN">Acute poliomyelitis with paralysis except bulbar (disorder)</displayName>
+<displayName lang="en" type="SY">Anterior acute poliomyelitis with paralysis except bulbar</displayName>
+<displayName lang="en" type="SY">Epidemic acute poliomyelitis with paralysis except bulbar</displayName>
+</concept>
+<concept code="177569000">
+<displayName lang="en" type="PT">Poisoning by eating contaminated shellfish</displayName>
+<displayName lang="en" type="FSN">Poisoning by eating contaminated shellfish (disorder)</displayName>
+</concept>
+<concept code="181198009">
+<displayName lang="en-GB" type="PT">Generalised tuberculosis</displayName>
+<displayName lang="en" type="FSN">Generalized tuberculosis (disorder)</displayName>
+</concept>
+<concept code="182159002">
+<displayName lang="en" type="PT">Disseminated tuberculosis</displayName>
+<displayName lang="en" type="FSN">Disseminated tuberculosis (disorder)</displayName>
+</concept>
+<concept code="185113005">
+<displayName lang="en" type="PT">Tuberculosis of adrenal glands</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of adrenal glands (disorder)</displayName>
+</concept>
+<concept code="186116005">
+<displayName lang="en-GB" type="PT">Acute amoebic dysentery</displayName>
+<displayName lang="en" type="FSN">Acute amebic dysentery (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Acute amoebic rectocolitis</displayName>
+</concept>
+<concept code="186172004">
+<displayName lang="en" type="PT">Tuberculous pleurisy in primary progressive tuberculosis</displayName>
+<displayName lang="en" type="FSN">Tuberculous pleurisy in primary progressive tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Primary progressive tuberculosis with tuberculous pleurisy</displayName>
+</concept>
+<concept code="186175002">
+<displayName lang="en" type="PT">Infiltrative lung tuberculosis</displayName>
+<displayName lang="en" type="FSN">Infiltrative lung tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Infiltrative tuberculosis of lung</displayName>
+</concept>
+<concept code="186177005">
+<displayName lang="en" type="PT">Tuberculosis of lung with cavitation</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung with cavitation (disorder)</displayName>
+</concept>
+<concept code="186178000">
+<displayName lang="en" type="PT">Tuberculosis of bronchus</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of bronchus (disorder)</displayName>
+</concept>
+<concept code="186182003">
+<displayName lang="en" type="PT">Tuberculosis of pleura</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of pleura (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous pleurisy</displayName>
+<displayName lang="en" type="SY">Tuberculous pleuritis</displayName>
+</concept>
+<concept code="186192006">
+<displayName lang="en" type="PT">Respiratory tuberculosis, bacteriologically and histologically confirmed</displayName>
+<displayName lang="en" type="FSN">Respiratory tuberculosis, bacteriologically and histologically confirmed (disorder)</displayName>
+</concept>
+<concept code="186193001">
+<displayName lang="en" type="PT">Tuberculosis of lung, confirmed by sputum microscopy with or without culture</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung, confirmed by sputum microscopy with or without culture (disorder)</displayName>
+</concept>
+<concept code="186194007">
+<displayName lang="en" type="PT">Tuberculosis of lung, confirmed by culture only</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung, confirmed by culture only (disorder)</displayName>
+</concept>
+<concept code="186195008">
+<displayName lang="en" type="PT">Tuberculosis of lung, confirmed histologically</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung, confirmed histologically (disorder)</displayName>
+</concept>
+<concept code="186198005">
+<displayName lang="en" type="PT">Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically (disorder)</displayName>
+</concept>
+<concept code="186199002">
+<displayName lang="en" type="PT">Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically (disorder)</displayName>
+</concept>
+<concept code="186200004">
+<displayName lang="en" type="PT">Tuberculous pleurisy, confirmed bacteriologically and histologically</displayName>
+<displayName lang="en" type="FSN">Tuberculous pleurisy, confirmed bacteriologically and histologically (disorder)</displayName>
+</concept>
+<concept code="186201000">
+<displayName lang="en" type="PT">Primary respiratory tuberculosis, confirmed bacteriologically and histologically</displayName>
+<displayName lang="en" type="FSN">Primary respiratory tuberculosis, confirmed bacteriologically and histologically (disorder)</displayName>
+</concept>
+<concept code="186202007">
+<displayName lang="en" type="PT">Respiratory tuberculosis, not confirmed bacteriologically or histologically</displayName>
+<displayName lang="en" type="FSN">Respiratory tuberculosis, not confirmed bacteriologically or histologically (disorder)</displayName>
+</concept>
+<concept code="186203002">
+<displayName lang="en" type="PT">Tuberculosis of lung, bacteriologically and histologically negative</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung, bacteriologically and histologically negative (disorder)</displayName>
+</concept>
+<concept code="186204008">
+<displayName lang="en" type="PT">Tuberculosis of lung, bacteriological and histological examination not done</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lung, bacteriological and histological examination not done (disorder)</displayName>
+</concept>
+<concept code="186225008">
+<displayName lang="en" type="PT">Tuberculosis of intestines, peritoneum and mesenteric glands</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of intestines, peritoneum and mesenteric glands (disorder)</displayName>
+</concept>
+<concept code="186231006">
+<displayName lang="en" type="PT">Tuberculosis limb bones - Tuberculous dactylitis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis limb bones - Tuberculous dactylitis (disorder)</displayName>
+</concept>
+<concept code="186235002">
+<displayName lang="en" type="PT">Tuberculous nephropathy</displayName>
+<displayName lang="en" type="FSN">Tuberculous nephropathy (disorder)</displayName>
+</concept>
+<concept code="186242002">
+<displayName lang="en" type="PT">Tuberculous oophoritis or salpingitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous oophoritis or salpingitis (disorder)</displayName>
+</concept>
+<concept code="186259007">
+<displayName lang="en" type="PT">Scrofulous tuberculous abscess</displayName>
+<displayName lang="en" type="FSN">Scrofulous tuberculous abscess (disorder)</displayName>
+</concept>
+<concept code="186269001">
+<displayName lang="en" type="PT">Tuberculosis of ear</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of ear (disorder)</displayName>
+</concept>
+<concept code="186270000">
+<displayName lang="en" type="PT">Tuberculous Addison&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Tuberculous Addison&apos;s disease (disorder)</displayName>
+<displayName lang="en" type="SY">Addison&apos;s disease due to tuberculosis</displayName>
+<displayName lang="en" type="SY">Tuberculosis of adrenal glands - Addison&apos;s disease</displayName>
+<displayName lang="en" type="SY">Tuberculous Addison disease</displayName>
+</concept>
+<concept code="186272008">
+<displayName lang="en" type="PT">Tuberculosis of stomach</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of stomach (disorder)</displayName>
+</concept>
+<concept code="186273003">
+<displayName lang="en" type="PT">Tuberculosis of liver</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of liver (disorder)</displayName>
+</concept>
+<concept code="186276006">
+<displayName lang="en" type="PT">Acute miliary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Acute miliary tuberculosis (disorder)</displayName>
+</concept>
+<concept code="186278007">
+<displayName lang="en" type="PT">Acute miliary tuberculosis of multiple sites</displayName>
+<displayName lang="en" type="FSN">Acute miliary tuberculosis of multiple sites (disorder)</displayName>
+</concept>
+<concept code="186287003">
+<displayName lang="en" type="PT">Ambulatory plague</displayName>
+<displayName lang="en" type="FSN">Ambulatory plague (disorder)</displayName>
+<displayName lang="en" type="SY">Abortive plague</displayName>
+<displayName lang="en" type="SY">Pestis minor</displayName>
+</concept>
+<concept code="186347006">
+<displayName lang="en" type="PT">Diphtheria of penis</displayName>
+<displayName lang="en" type="FSN">Diphtheria of penis (disorder)</displayName>
+</concept>
+<concept code="186357007">
+<displayName lang="en" type="PT">Streptococcal sore throat with scarlatina</displayName>
+<displayName lang="en" type="FSN">Streptococcal sore throat with scarlatina (disorder)</displayName>
+</concept>
+<concept code="186365005">
+<displayName lang="en-GB" type="PT">Acute meningococcaemia</displayName>
+<displayName lang="en" type="FSN">Acute meningococcemia (disorder)</displayName>
+</concept>
+<concept code="186378005">
+<displayName lang="en" type="PT">Obstetrical tetanus</displayName>
+<displayName lang="en" type="FSN">Obstetrical tetanus (disorder)</displayName>
+</concept>
+<concept code="186476008">
+<displayName lang="en" type="PT">Acute paralytic non-bulbar poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Acute paralytic non-bulbar poliomyelitis (disorder)</displayName>
+<displayName lang="en" type="SY">Spinal paralytic poliomyelitis</displayName>
+</concept>
+<concept code="186478009">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis, vaccine-associated</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis, vaccine-associated (disorder)</displayName>
+</concept>
+<concept code="186479001">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis, wild virus, imported</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis, wild virus, imported (disorder)</displayName>
+</concept>
+<concept code="186480003">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis, wild virus, indigenous</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis, wild virus, indigenous (disorder)</displayName>
+</concept>
+<concept code="186498004">
+<displayName lang="en" type="PT">Epidemic encephalitis</displayName>
+<displayName lang="en" type="FSN">Epidemic encephalitis (disorder)</displayName>
+</concept>
+<concept code="186499007">
+<displayName lang="en" type="PT">Encephalitis lethargica</displayName>
+<displayName lang="en" type="FSN">Encephalitis lethargica (disorder)</displayName>
+<displayName lang="en" type="SY">Von Economo&apos;s disease</displayName>
+<displayName lang="en" type="SY">von Economo&apos;s encephalitis</displayName>
+</concept>
+<concept code="186509002">
+<displayName lang="en" type="PT">Postvaricella encephalitis</displayName>
+<displayName lang="en" type="FSN">Postvaricella encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis following chickenpox</displayName>
+<displayName lang="en" type="SY">Postchickenpox encephalitis</displayName>
+<displayName lang="en" type="SY">Varicella encephalitis</displayName>
+</concept>
+<concept code="186561002">
+<displayName lang="en" type="PT">Measles complicated by meningitis</displayName>
+<displayName lang="en" type="FSN">Measles complicated by meningitis (disorder)</displayName>
+</concept>
+<concept code="186562009">
+<displayName lang="en" type="PT">Measles with intestinal complications</displayName>
+<displayName lang="en" type="FSN">Measles with intestinal complications (disorder)</displayName>
+</concept>
+<concept code="186567003">
+<displayName lang="en" type="PT">Rubella with neurological complication</displayName>
+<displayName lang="en" type="FSN">Rubella with neurological complication (disorder)</displayName>
+</concept>
+<concept code="186591007">
+<displayName lang="en" type="PT">Encephalitis due to Far Eastern tick-borne encephalitis virus</displayName>
+<displayName lang="en" type="FSN">Russian spring-summer encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Far Eastern tick-borne encephalitis</displayName>
+<displayName lang="en" type="SY">Russian spring-summer encephalitis</displayName>
+</concept>
+<concept code="186597006">
+<displayName lang="en" type="PT">Fish poisoning</displayName>
+<displayName lang="en" type="FSN">Fish poisoning (disorder)</displayName>
+</concept>
+<concept code="186624004">
+<displayName lang="en" type="PT">Acute hepatitis B with delta agent (coinfection) with hepatic coma</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis B with delta agent (coinfection) with hepatic coma (disorder)</displayName>
+</concept>
+<concept code="186626002">
+<displayName lang="en" type="PT">Acute hepatitis B with delta-agent (coinfection) without hepatic coma</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis B with delta-agent (coinfection) without hepatic coma (disorder)</displayName>
+</concept>
+<concept code="186634008">
+<displayName lang="en" type="PT">Hepatitis non-A non-B</displayName>
+<displayName lang="en" type="FSN">Hepatitis non-A non-B (disorder)</displayName>
+</concept>
+<concept code="186698009">
+<displayName lang="en" type="PT">Cytomegalovirus hepatitis</displayName>
+<displayName lang="en" type="FSN">Cytomegalovirus hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">CMV - Cytomegalovirus hepatitis</displayName>
+<displayName lang="en" type="SY">Cytomegalic inclusion virus hepatitis</displayName>
+<displayName lang="en" type="SY">Cytomegaloviral hepatitis</displayName>
+<displayName lang="en" type="SY">Hepatitis in cytomegalic inclusion virus</displayName>
+</concept>
+<concept code="186771002">
+<displayName lang="en" type="PT">Spotted fevers</displayName>
+<displayName lang="en" type="FSN">Spotted fever group rickettsial disease (disorder)</displayName>
+<displayName lang="en" type="SY">Spotted fever group rickettsial disease</displayName>
+</concept>
+<concept code="186772009">
+<displayName lang="en" type="PT">Rocky Mountain spotted fever</displayName>
+<displayName lang="en" type="FSN">Rocky Mountain spotted fever (disorder)</displayName>
+<displayName lang="en" type="SY">American tick typhus</displayName>
+<displayName lang="en" type="SY">Brazilian spotted fever</displayName>
+<displayName lang="en" type="SY">RMSF - Rocky Mountain spotted fever</displayName>
+<displayName lang="en" type="SY">Rocky Mountain tick fever</displayName>
+<displayName lang="en" type="SY">Sao Paulo fever</displayName>
+</concept>
+<concept code="186774005">
+<displayName lang="en" type="PT">Boutonneuse fever</displayName>
+<displayName lang="en" type="FSN">Boutonneuse fever (disorder)</displayName>
+<displayName lang="en" type="SY">Fievre boutonneuse</displayName>
+<displayName lang="en" type="SY">Kenyan tick typhus</displayName>
+<displayName lang="en" type="SY">Marseilles fever</displayName>
+<displayName lang="en" type="SY">Mediterranean spotted fever</displayName>
+<displayName lang="en" type="SY">Mediterranean tick fever</displayName>
+<displayName lang="en" type="SY">Tick typhus due to Rickettsia conorii</displayName>
+</concept>
+<concept code="186781003">
+<displayName lang="en" type="PT">North Asian tick typhus</displayName>
+<displayName lang="en" type="FSN">North Asian tick typhus (disorder)</displayName>
+<displayName lang="en" type="SY">North Asian tick fever</displayName>
+<displayName lang="en" type="SY">Siberian tick typhus</displayName>
+<displayName lang="en" type="SY">Tick fever due to Rickettsia siberica</displayName>
+</concept>
+<concept code="186791009">
+<displayName lang="en" type="PT">Plasmodium falciparum malaria with cerebral complications</displayName>
+<displayName lang="en" type="FSN">Plasmodium falciparum malaria with cerebral complications (disorder)</displayName>
+</concept>
+<concept code="186792002">
+<displayName lang="en" type="PT">Plasmodium vivax malaria with rupture of spleen</displayName>
+<displayName lang="en" type="FSN">Plasmodium vivax malaria with rupture of spleen (disorder)</displayName>
+</concept>
+<concept code="186795000">
+<displayName lang="en" type="PT">Malaria due to simian plasmodia</displayName>
+<displayName lang="en" type="FSN">Malaria due to simian plasmodia (disorder)</displayName>
+</concept>
+<concept code="186796004">
+<displayName lang="en" type="PT">Plasmodium malariae malaria with nephropathy</displayName>
+<displayName lang="en" type="FSN">Plasmodium malariae malaria with nephropathy (disorder)</displayName>
+</concept>
+<concept code="187038001">
+<displayName lang="en" type="PT">Histoplasma capsulatum with meningitis</displayName>
+<displayName lang="en" type="FSN">Histoplasma capsulatum with meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">American histoplasmosis with meningitis</displayName>
+</concept>
+<concept code="187048004">
+<displayName lang="en" type="PT">Histoplasma duboisii with meningitis</displayName>
+<displayName lang="en" type="FSN">Histoplasma duboisii with meningitis (disorder)</displayName>
+</concept>
+<concept code="187057005">
+<displayName lang="en" type="PT">Histoplasmosis with meningitis</displayName>
+<displayName lang="en" type="FSN">Histoplasmosis with meningitis (disorder)</displayName>
+</concept>
+<concept code="187197006">
+<displayName lang="en" type="PT">Toxoplasma hepatitis</displayName>
+<displayName lang="en" type="FSN">Toxoplasma hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis in toxoplasmosis</displayName>
+</concept>
+<concept code="187251001">
+<displayName lang="en" type="PT">Sequelae of tuberculosis</displayName>
+<displayName lang="en" type="FSN">Sequelae of tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Late effects of tuberculosis</displayName>
+</concept>
+<concept code="192667007">
+<displayName lang="en" type="PT">Echovirus meningitis</displayName>
+<displayName lang="en" type="FSN">Echovirus meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">ECHO viral meningitis</displayName>
+<displayName lang="en" type="SY">Meningitis due to ECHO virus</displayName>
+</concept>
+<concept code="192679007">
+<displayName lang="en" type="PT">Non-pyogenic meningitis</displayName>
+<displayName lang="en" type="FSN">Non-pyogenic meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Meningitis with clear cerebrospinal fluid</displayName>
+</concept>
+<concept code="192686004">
+<displayName lang="en" type="PT">Polioencephalitis</displayName>
+<displayName lang="en" type="FSN">Polioencephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Poliomyelitis encephalitis</displayName>
+</concept>
+<concept code="192687008">
+<displayName lang="en" type="PT">Arbovirus encephalitis</displayName>
+<displayName lang="en" type="FSN">Arbovirus encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Arboviral encephalitis</displayName>
+</concept>
+<concept code="192689006">
+<displayName lang="en" type="PT">Rubella encephalitis</displayName>
+<displayName lang="en" type="FSN">Rubella encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis due to rubella virus</displayName>
+</concept>
+<concept code="192701001">
+<displayName lang="en" type="PT">Toxoplasma encephalitis</displayName>
+<displayName lang="en" type="FSN">Toxoplasma encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Cerebral toxoplasmosis</displayName>
+<displayName lang="en" type="SY">TE - Toxoplasma encephalitis</displayName>
+<displayName lang="en" type="SY">Toxoplasma meningoencephalitis</displayName>
+<displayName lang="en" type="SY">Toxoplasmosis encephalitis</displayName>
+<displayName lang="en" type="SY">Toxoplasmosis of brain</displayName>
+</concept>
+<concept code="192704009">
+<displayName lang="en-GB" type="PT">Post-immunisation encephalitis</displayName>
+<displayName lang="en" type="FSN">Post-immunization encephalitis (disorder)</displayName>
+</concept>
+<concept code="192705005">
+<displayName lang="en" type="PT">Post BCG vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post-bacillus Calmette-Guerin vaccination encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Post-bacillus Calmette-Guerin vaccination encephalitis</displayName>
+</concept>
+<concept code="192706006">
+<displayName lang="en" type="PT">Post typhoid vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post typhoid vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192707002">
+<displayName lang="en" type="PT">Post paratyphoid vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post paratyphoid vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192708007">
+<displayName lang="en" type="PT">Post cholera vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post cholera vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192709004">
+<displayName lang="en" type="PT">Post plague vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post plague vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192710009">
+<displayName lang="en" type="PT">Post tetanus vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post tetanus vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192711008">
+<displayName lang="en" type="PT">Post diphtheria vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post diphtheria vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192712001">
+<displayName lang="en" type="PT">Post pertussis vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post pertussis vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192713006">
+<displayName lang="en" type="PT">Post smallpox vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post smallpox vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192714000">
+<displayName lang="en" type="PT">Post rabies vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post rabies vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192715004">
+<displayName lang="en" type="PT">Post typhus vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post typhus vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192716003">
+<displayName lang="en" type="PT">Post yellow fever vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post yellow fever vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192717007">
+<displayName lang="en" type="PT">Post measles vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post measles vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192718002">
+<displayName lang="en" type="PT">Post polio vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post polio vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192719005">
+<displayName lang="en" type="PT">Post mumps vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post mumps vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192720004">
+<displayName lang="en" type="PT">Post rubella vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post rubella vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192721000">
+<displayName lang="en" type="PT">Post influenza vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post influenza vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192722007">
+<displayName lang="en" type="PT">Post hepatitis A vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post hepatitis A vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192723002">
+<displayName lang="en" type="PT">Post hepatitis B vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post hepatitis B vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192724008">
+<displayName lang="en" type="PT">Post mixed vaccination encephalitis</displayName>
+<displayName lang="en" type="FSN">Post mixed vaccination encephalitis (disorder)</displayName>
+</concept>
+<concept code="192727001">
+<displayName lang="en" type="PT">Post-infectious encephalitis</displayName>
+<displayName lang="en" type="FSN">Post-infectious encephalitis (disorder)</displayName>
+</concept>
+<concept code="192933004">
+<displayName lang="en-GB" type="PT">Acute and subacute haemorrhagic leucoencephalitis [Hurst]</displayName>
+<displayName lang="en" type="FSN">Acute and subacute hemorrhagic leukoencephalitis [Hurst] (disorder)</displayName>
+</concept>
+<concept code="194950003">
+<displayName lang="en" type="PT">Acute myocarditis - meningococcal</displayName>
+<displayName lang="en" type="FSN">Acute myocarditis - meningococcal (disorder)</displayName>
+</concept>
+<concept code="195900001">
+<displayName lang="en" type="PT">Measles pneumonia</displayName>
+<displayName lang="en" type="FSN">Measles pneumonia (disorder)</displayName>
+</concept>
+<concept code="196017002">
+<displayName lang="en" type="PT">Pneumoconiosis associated with tuberculosis</displayName>
+<displayName lang="en" type="FSN">Pneumoconiosis associated with tuberculosis (disorder)</displayName>
+</concept>
+<concept code="197271008">
+<displayName lang="en" type="PT">Acute hepatitis - non-infective</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis - non-infective (disorder)</displayName>
+<displayName lang="en" type="SY">Acute noninfectious hepatitis</displayName>
+</concept>
+<concept code="197339003">
+<displayName lang="en" type="PT">Coxsackie virus hepatitis</displayName>
+<displayName lang="en" type="FSN">Coxsackie virus hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis in coxsackie virus</displayName>
+</concept>
+<concept code="197342009">
+<displayName lang="en" type="PT">Hepatitis in yellow fever</displayName>
+<displayName lang="en" type="FSN">Hepatitis in yellow fever (disorder)</displayName>
+</concept>
+<concept code="197344005">
+<displayName lang="en" type="PT">Hepatitis with adenovirus</displayName>
+<displayName lang="en" type="FSN">Hepatitis with adenovirus (disorder)</displayName>
+</concept>
+<concept code="197606008">
+<displayName lang="en" type="PT">Nephrotic syndrome in malaria</displayName>
+<displayName lang="en" type="FSN">Nephrotic syndrome in malaria (disorder)</displayName>
+<displayName lang="en" type="SY">Malarial nephrosis</displayName>
+</concept>
+<concept code="198241002">
+<displayName lang="en" type="PT">Female tuberculous pelvic inflammatory disease</displayName>
+<displayName lang="en" type="FSN">Female tuberculous pelvic inflammatory disease (disorder)</displayName>
+</concept>
+<concept code="199175001">
+<displayName lang="en" type="PT">Maternal tuberculosis during pregnancy, childbirth and the puerperium</displayName>
+<displayName lang="en" type="FSN">Maternal tuberculosis during pregnancy, childbirth and the puerperium (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis in mother complicating pregnancy, childbirth AND/OR puerperium</displayName>
+</concept>
+<concept code="199178004">
+<displayName lang="en" type="PT">Tuberculosis in pregnancy, childbirth and the puerperium - delivered</displayName>
+<displayName lang="en" type="FSN">Tuberculosis in pregnancy, childbirth and the puerperium - delivered (disorder)</displayName>
+</concept>
+<concept code="199179007">
+<displayName lang="en" type="PT">Maternal tuberculosis in the puerperium - baby delivered during current episode of care</displayName>
+<displayName lang="en" type="FSN">Maternal tuberculosis in the puerperium - baby delivered during current episode of care (disorder)</displayName>
+</concept>
+<concept code="199180005">
+<displayName lang="en" type="PT">Maternal tuberculosis during pregnancy - baby not yet delivered</displayName>
+<displayName lang="en" type="FSN">Maternal tuberculosis during pregnancy - baby not yet delivered (disorder)</displayName>
+</concept>
+<concept code="199181009">
+<displayName lang="en" type="PT">Maternal tuberculosis in the puerperium - baby delivered during previous episode of care</displayName>
+<displayName lang="en" type="FSN">Maternal tuberculosis in the puerperium - baby delivered during previous episode of care (disorder)</displayName>
+</concept>
+<concept code="199192005">
+<displayName lang="en" type="PT">Maternal rubella during pregnancy - baby delivered</displayName>
+<displayName lang="en" type="FSN">Maternal rubella during pregnancy - baby delivered (disorder)</displayName>
+</concept>
+<concept code="199193000">
+<displayName lang="en" type="PT">Maternal rubella in the puerperium - baby delivered during current episode of care</displayName>
+<displayName lang="en" type="FSN">Maternal rubella in the puerperium - baby delivered during current episode of care (disorder)</displayName>
+</concept>
+<concept code="199194006">
+<displayName lang="en" type="PT">Maternal rubella during pregnancy - baby not yet delivered</displayName>
+<displayName lang="en" type="FSN">Maternal rubella during pregnancy - baby not yet delivered (disorder)</displayName>
+</concept>
+<concept code="199195007">
+<displayName lang="en" type="PT">Maternal rubella in the puerperium - baby delivered during previous episode of care</displayName>
+<displayName lang="en" type="FSN">Maternal rubella in the puerperium - baby delivered during previous episode of care (disorder)</displayName>
+</concept>
+<concept code="202698007">
+<displayName lang="en" type="PT">Brucella spondylitis</displayName>
+<displayName lang="en" type="FSN">Brucella spondylitis (disorder)</displayName>
+</concept>
+<concept code="202994006">
+<displayName lang="en" type="PT">Tuberculous infection of tendon sheath</displayName>
+<displayName lang="en" type="FSN">Tuberculous infection of tendon sheath (disorder)</displayName>
+</concept>
+<concept code="203263006">
+<displayName lang="en" type="PT">Tuberculosis of cervical spine</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of cervical spine (disorder)</displayName>
+</concept>
+<concept code="203264000">
+<displayName lang="en" type="PT">Tuberculosis of thoracic spine</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of thoracic spine (disorder)</displayName>
+</concept>
+<concept code="203265004">
+<displayName lang="en" type="PT">Tuberculosis of lumbar spine</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of lumbar spine (disorder)</displayName>
+</concept>
+<concept code="203266003">
+<displayName lang="en" type="PT">Tuberculosis of sacrum/coccyx</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of sacrum/coccyx (disorder)</displayName>
+</concept>
+<concept code="203267007">
+<displayName lang="en" type="PT">Tuberculosis of limb bones</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of limb bones (disorder)</displayName>
+</concept>
+<concept code="203269005">
+<displayName lang="en" type="PT">Tuberculosis of the upper arm bone</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the upper arm bone (disorder)</displayName>
+</concept>
+<concept code="203270006">
+<displayName lang="en" type="PT">Tuberculosis of the forearm bone</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the forearm bone (disorder)</displayName>
+</concept>
+<concept code="203272003">
+<displayName lang="en" type="PT">Tuberculosis of the lower leg bone</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the lower leg bone (disorder)</displayName>
+</concept>
+<concept code="203274002">
+<displayName lang="en" type="PT">Tuberculosis of multiple limb bones</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of multiple limb bones (disorder)</displayName>
+</concept>
+<concept code="203278004">
+<displayName lang="en" type="PT">Tuberculosis of the bones of the shoulder region</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the bones of the shoulder region (disorder)</displayName>
+</concept>
+<concept code="203279007">
+<displayName lang="en" type="PT">Tuberculosis of the bones of the hand</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the bones of the hand (disorder)</displayName>
+</concept>
+<concept code="203282002">
+<displayName lang="en" type="PT">Tuberculosis of the bones of multiple sites</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of the bones of multiple sites (disorder)</displayName>
+</concept>
+<concept code="206445003">
+<displayName lang="en" type="PT">Malarial pigment deposition</displayName>
+<displayName lang="en" type="FSN">Malarial pigment deposition (disorder)</displayName>
+</concept>
+<concept code="213580002">
+<displayName lang="en" type="PT">Caseating tuberculoid granuloma</displayName>
+<displayName lang="en" type="FSN">Caseating tuberculoid granuloma (disorder)</displayName>
+</concept>
+<concept code="216771005">
+<displayName lang="en" type="PT">Accidental poisoning from mushrooms</displayName>
+<displayName lang="en" type="FSN">Accidental poisoning from mushrooms (disorder)</displayName>
+</concept>
+<concept code="230142004">
+<displayName lang="en" type="PT">Coxsackie A viral meningitis</displayName>
+<displayName lang="en" type="FSN">Coxsackie A viral meningitis (disorder)</displayName>
+</concept>
+<concept code="230143009">
+<displayName lang="en" type="PT">Coxsackie B viral meningitis</displayName>
+<displayName lang="en" type="FSN">Coxsackie B viral meningitis (disorder)</displayName>
+</concept>
+<concept code="230146001">
+<displayName lang="en" type="PT">Post measles meningitis</displayName>
+<displayName lang="en" type="FSN">Post measles meningitis (disorder)</displayName>
+</concept>
+<concept code="230153005">
+<displayName lang="en" type="PT">Parasitic meningitis</displayName>
+<displayName lang="en" type="FSN">Parasitic meningitis (disorder)</displayName>
+</concept>
+<concept code="230161000">
+<displayName lang="en" type="PT">Acute viral encephalitis</displayName>
+<displayName lang="en" type="FSN">Acute viral encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Acute inclusion body encephalitis</displayName>
+</concept>
+<concept code="230162007">
+<displayName lang="en" type="PT">Enteroviral encephalitis</displayName>
+<displayName lang="en" type="FSN">Enteroviral encephalitis (disorder)</displayName>
+</concept>
+<concept code="230166005">
+<displayName lang="en" type="PT">Rocio virus encephalitis</displayName>
+<displayName lang="en" type="FSN">Rocio virus encephalitis (disorder)</displayName>
+</concept>
+<concept code="230168006">
+<displayName lang="en" type="PT">Tensaw encephalitis</displayName>
+<displayName lang="en" type="FSN">Tensaw encephalitis (disorder)</displayName>
+</concept>
+<concept code="230170002">
+<displayName lang="en" type="PT">Kumlinge virus encephalitis</displayName>
+<displayName lang="en" type="FSN">Kumlinge virus encephalitis (disorder)</displayName>
+</concept>
+<concept code="230174006">
+<displayName lang="en" type="PT">Rhabdovirus encephalitis</displayName>
+<displayName lang="en" type="FSN">Rhabdovirus encephalitis (disorder)</displayName>
+</concept>
+<concept code="230175007">
+<displayName lang="en" type="PT">Infectious mononucleosis encephalitis</displayName>
+<displayName lang="en" type="FSN">Infectious mononucleosis encephalitis (disorder)</displayName>
+</concept>
+<concept code="230176008">
+<displayName lang="en" type="PT">Herpes zoster encephalitis</displayName>
+<displayName lang="en" type="FSN">Herpes zoster encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Zoster encephalitis</displayName>
+</concept>
+<concept code="230177004">
+<displayName lang="en" type="PT">Herpes simiae encephalitis</displayName>
+<displayName lang="en" type="FSN">Herpes simiae encephalitis (disorder)</displayName>
+</concept>
+<concept code="230183001">
+<displayName lang="en" type="PT">Fungal encephalitis</displayName>
+<displayName lang="en" type="FSN">Fungal encephalitis (disorder)</displayName>
+</concept>
+<concept code="230184007">
+<displayName lang="en" type="PT">Parasitic encephalitis</displayName>
+<displayName lang="en" type="FSN">Parasitic encephalitis (disorder)</displayName>
+</concept>
+<concept code="230185008">
+<displayName lang="en-GB" type="PT">Amoebic encephalitis</displayName>
+<displayName lang="en" type="FSN">Amebic encephalitis (disorder)</displayName>
+</concept>
+<concept code="230186009">
+<displayName lang="en-GB" type="PT">Primary amoebic encephalitis</displayName>
+<displayName lang="en" type="FSN">Primary amebic encephalitis (disorder)</displayName>
+</concept>
+<concept code="230187000">
+<displayName lang="en-GB" type="PT">Granulomatous amoebic encephalitis</displayName>
+<displayName lang="en" type="FSN">Granulomatous amebic encephalitis (disorder)</displayName>
+<displayName lang="en-GB" type="SY">GAE - Granulomatous amoebic encephalomyelitis</displayName>
+<displayName lang="en-GB" type="SY">Granulomatous amoebic encephalomyelitis</displayName>
+<displayName lang="en-GB" type="SY">PAM - Primary amoebic meningoencephalitis</displayName>
+</concept>
+<concept code="230188005">
+<displayName lang="en" type="PT">Post-influenza encephalitis</displayName>
+<displayName lang="en" type="FSN">Post-influenza encephalitis (disorder)</displayName>
+</concept>
+<concept code="230189002">
+<displayName lang="en" type="PT">Focal encephalitis</displayName>
+<displayName lang="en" type="FSN">Focal encephalitis (disorder)</displayName>
+</concept>
+<concept code="230190006">
+<displayName lang="en" type="PT">Brainstem encephalitis</displayName>
+<displayName lang="en" type="FSN">Brainstem encephalitis (disorder)</displayName>
+</concept>
+<concept code="230191005">
+<displayName lang="en" type="PT">Rasmussen syndrome</displayName>
+<displayName lang="en" type="FSN">Rasmussen syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Rasmussen encephalitis</displayName>
+</concept>
+<concept code="230199007">
+<displayName lang="en" type="PT">Post-infectious encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Post-infectious encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="230596007">
+<displayName lang="en" type="PT">Diphtheritic neuropathy</displayName>
+<displayName lang="en" type="FSN">Diphtheritic neuropathy (disorder)</displayName>
+<displayName lang="en" type="SY">Polyneuropathy in diphtheria</displayName>
+</concept>
+<concept code="231985001">
+<displayName lang="en" type="PT">Rubella retinopathy</displayName>
+<displayName lang="en" type="FSN">Rubella retinopathy (disorder)</displayName>
+</concept>
+<concept code="232312000">
+<displayName lang="en" type="PT">Endocochlear rubella</displayName>
+<displayName lang="en" type="FSN">Endocochlear rubella (disorder)</displayName>
+</concept>
+<concept code="232402006">
+<displayName lang="en" type="PT">Meningococcal pharyngitis</displayName>
+<displayName lang="en" type="FSN">Meningococcal pharyngitis (disorder)</displayName>
+</concept>
+<concept code="233649005">
+<displayName lang="en" type="PT">Tuberculous chylothorax</displayName>
+<displayName lang="en" type="FSN">Tuberculous chylothorax (disorder)</displayName>
+</concept>
+<concept code="233763009">
+<displayName lang="en" type="PT">Silicotuberculosis</displayName>
+<displayName lang="en" type="FSN">Silicotuberculosis (disorder)</displayName>
+</concept>
+<concept code="234090004">
+<displayName lang="en" type="PT">Tuberculous mesenteric adenitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous mesenteric adenitis (disorder)</displayName>
+</concept>
+<concept code="235123001">
+<displayName lang="en" type="PT">Mumps acute sialadenitis</displayName>
+<displayName lang="en" type="FSN">Mumps acute sialadenitis (disorder)</displayName>
+</concept>
+<concept code="235694001">
+<displayName lang="en" type="PT">Tuberculous duodenitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous duodenitis (disorder)</displayName>
+</concept>
+<concept code="235862008">
+<displayName lang="en" type="PT">Hepatitis due to infection</displayName>
+<displayName lang="en" type="FSN">Hepatitis due to infection (disorder)</displayName>
+</concept>
+<concept code="235864009">
+<displayName lang="en" type="PT">Acute hepatitis B with hepatitis D</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis B with hepatitis D (disorder)</displayName>
+</concept>
+<concept code="235865005">
+<displayName lang="en" type="PT">Hepatitis D superinfection of hepatitis B carrier</displayName>
+<displayName lang="en" type="FSN">Hepatitis D superinfection of hepatitis B carrier (disorder)</displayName>
+<displayName lang="en" type="SY">Acute delta-(super)infection of hepatitis B carrier</displayName>
+</concept>
+<concept code="235866006">
+<displayName lang="en" type="PT">Acute hepatitis C</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis C (disorder)</displayName>
+</concept>
+<concept code="235867002">
+<displayName lang="en" type="PT">Acute hepatitis E</displayName>
+<displayName lang="en" type="FSN">Acute hepatitis E (disorder)</displayName>
+</concept>
+<concept code="235868007">
+<displayName lang="en" type="PT">Acute non-A non-B hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute non-A non-B hepatitis (disorder)</displayName>
+</concept>
+<concept code="236602004">
+<displayName lang="en" type="PT">Tuberculous stricture of ureter</displayName>
+<displayName lang="en" type="FSN">Tuberculous stricture of ureter (disorder)</displayName>
+</concept>
+<concept code="236684001">
+<displayName lang="en" type="PT">Tuberculous urethritis</displayName>
+<displayName lang="en" type="FSN">Tuberculous urethritis (disorder)</displayName>
+</concept>
+<concept code="236770001">
+<displayName lang="en" type="PT">Tuberculous epididymo-orchitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous epididymo-orchitis (disorder)</displayName>
+</concept>
+<concept code="236771002">
+<displayName lang="en" type="PT">Mumps epididymo-orchitis</displayName>
+<displayName lang="en" type="FSN">Mumps epididymo-orchitis (disorder)</displayName>
+</concept>
+<concept code="237149005">
+<displayName lang="en" type="PT">Fetus with suspected rubella damage via mother</displayName>
+<displayName lang="en" type="FSN">Fetus with suspected rubella damage via mother (situation)</displayName>
+<displayName lang="en" type="SY">Foetus with suspected rubella damage via mother</displayName>
+</concept>
+<concept code="237443002">
+<displayName lang="en" type="PT">Mastitis of mumps</displayName>
+<displayName lang="en" type="FSN">Mastitis of mumps (disorder)</displayName>
+</concept>
+<concept code="237445009">
+<displayName lang="en" type="PT">Tuberculosis of breast</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of breast (disorder)</displayName>
+</concept>
+<concept code="238425003">
+<displayName lang="en" type="PT">Meningococcal rash</displayName>
+<displayName lang="en" type="FSN">Meningococcal rash (disorder)</displayName>
+</concept>
+<concept code="240334006">
+<displayName lang="en" type="PT">Yersinia enterocolitica food poisoning</displayName>
+<displayName lang="en" type="FSN">Yersinia enterocolitica food poisoning (disorder)</displayName>
+</concept>
+<concept code="240335007">
+<displayName lang="en" type="PT">Escherichia coli food poisoning</displayName>
+<displayName lang="en" type="FSN">Escherichia coli food poisoning (disorder)</displayName>
+</concept>
+<concept code="240336008">
+<displayName lang="en" type="PT">Enterotoxigenic Escherichia coli food poisoning</displayName>
+<displayName lang="en" type="FSN">Enterotoxigenic Escherichia coli food poisoning (disorder)</displayName>
+</concept>
+<concept code="240337004">
+<displayName lang="en" type="PT">Verotoxigenic Escherichia coli food poisoning</displayName>
+<displayName lang="en" type="FSN">Verotoxigenic Escherichia coli food poisoning (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Enterohaemorrhagic Escherichia coli food poisoning</displayName>
+</concept>
+<concept code="240338009">
+<displayName lang="en" type="PT">Viral food poisoning</displayName>
+<displayName lang="en" type="FSN">Viral food poisoning (disorder)</displayName>
+</concept>
+<concept code="240339001">
+<displayName lang="en" type="PT">Adenovirus food poisoning</displayName>
+<displayName lang="en" type="FSN">Adenovirus food poisoning (disorder)</displayName>
+</concept>
+<concept code="240343002">
+<displayName lang="en" type="PT">Small round structured virus food poisoning</displayName>
+<displayName lang="en" type="FSN">Small round structured virus food poisoning (disorder)</displayName>
+</concept>
+<concept code="240344008">
+<displayName lang="en" type="PT">Parasitic food poisoning</displayName>
+<displayName lang="en" type="FSN">Parasitic food poisoning (disorder)</displayName>
+</concept>
+<concept code="240345009">
+<displayName lang="en" type="PT">Chemical food poisoning</displayName>
+<displayName lang="en" type="FSN">Chemical food poisoning (disorder)</displayName>
+</concept>
+<concept code="240348006">
+<displayName lang="en" type="PT">Heavy metal food poisoning</displayName>
+<displayName lang="en" type="FSN">Heavy metal food poisoning (disorder)</displayName>
+</concept>
+<concept code="240349003">
+<displayName lang="en" type="PT">Cholera due to Vibrio cholerae O1 Classical biotype</displayName>
+<displayName lang="en" type="FSN">Cholera due to Vibrio cholerae O1 Classical biotype (disorder)</displayName>
+</concept>
+<concept code="240350003">
+<displayName lang="en" type="PT">Cholera - non-O1 group vibrio</displayName>
+<displayName lang="en" type="FSN">Cholera - non-O1 group vibrio (disorder)</displayName>
+<displayName lang="en" type="SY">Cholera - non-agglutinable vibrio</displayName>
+</concept>
+<concept code="240351004">
+<displayName lang="en" type="PT">Cholera - O139 group Vibrio cholerae</displayName>
+<displayName lang="en" type="FSN">Cholera - O139 group Vibrio cholerae (disorder)</displayName>
+<displayName lang="en" type="SY">Cholera due to Vibrio cholerae O139</displayName>
+</concept>
+<concept code="240376003">
+<displayName lang="en" type="PT">Tuberculosis of gastrointestinal tract</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of gastrointestinal tract (disorder)</displayName>
+</concept>
+<concept code="240378002">
+<displayName lang="en" type="PT">Osteitis cystica tuberculosa multiplex</displayName>
+<displayName lang="en" type="FSN">Osteitis cystica tuberculosa multiplex (disorder)</displayName>
+</concept>
+<concept code="240379005">
+<displayName lang="en" type="PT">Tuberculosis of male genital organs</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of male genital organs (disorder)</displayName>
+</concept>
+<concept code="240380008">
+<displayName lang="en" type="PT">Acute tuberculous ulcer</displayName>
+<displayName lang="en" type="FSN">Acute tuberculous ulcer (disorder)</displayName>
+</concept>
+<concept code="240382000">
+<displayName lang="en" type="PT">Cutaneous tuberculous gumma</displayName>
+<displayName lang="en" type="FSN">Cutaneous tuberculous gumma (disorder)</displayName>
+<displayName lang="en" type="SY">Metastatic tuberculous ulcer</displayName>
+</concept>
+<concept code="240384004">
+<displayName lang="en" type="PT">Gastroenteric plague</displayName>
+<displayName lang="en" type="FSN">Gastroenteric plague (disorder)</displayName>
+</concept>
+<concept code="240401005">
+<displayName lang="en" type="PT">Neural type tuberculoid leprosy</displayName>
+<displayName lang="en" type="FSN">Neural type tuberculoid leprosy (disorder)</displayName>
+</concept>
+<concept code="240402003">
+<displayName lang="en" type="PT">Borderline tuberculoid leprosy</displayName>
+<displayName lang="en" type="FSN">Borderline tuberculoid leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">BT - Borderline tuberculoid leprosy</displayName>
+<displayName lang="en" type="SY">Type BT leprosy</displayName>
+</concept>
+<concept code="240403008">
+<displayName lang="en" type="PT">Borderline lepromatous leprosy</displayName>
+<displayName lang="en" type="FSN">Borderline lepromatous leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">BL - Borderline lepromatous leprosy</displayName>
+<displayName lang="en" type="SY">Type BL leprosy</displayName>
+</concept>
+<concept code="240404002">
+<displayName lang="en" type="PT">Diffuse lepromatous leprosy</displayName>
+<displayName lang="en" type="FSN">Diffuse lepromatous leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Lucio type lepromatous leprosy</displayName>
+</concept>
+<concept code="240405001">
+<displayName lang="en" type="PT">Leprosy reversal reaction</displayName>
+<displayName lang="en" type="FSN">Leprosy reversal reaction (disorder)</displayName>
+<displayName lang="en" type="SY">RR - Leprosy reversal reaction</displayName>
+<displayName lang="en" type="SY">Type RR leprosy</displayName>
+</concept>
+<concept code="240411003">
+<displayName lang="en" type="PT">Erythema nodosum leprosum</displayName>
+<displayName lang="en" type="FSN">Erythema nodosum leprosum (disorder)</displayName>
+<displayName lang="en" type="SY">ENL - Erythema nodosum leprosum</displayName>
+</concept>
+<concept code="240412005">
+<displayName lang="en" type="PT">Histioid leprosy</displayName>
+<displayName lang="en" type="FSN">Histioid leprosy (disorder)</displayName>
+</concept>
+<concept code="240422004">
+<displayName lang="en" type="PT">Tracheobronchial diphtheria</displayName>
+<displayName lang="en" type="FSN">Tracheobronchial diphtheria (disorder)</displayName>
+</concept>
+<concept code="240426001">
+<displayName lang="en-GB" type="PT">Chronic meningococcaemia</displayName>
+<displayName lang="en" type="FSN">Chronic meningococcemia (disorder)</displayName>
+</concept>
+<concept code="240427005">
+<displayName lang="en" type="PT">Meningococcal eye disease</displayName>
+<displayName lang="en" type="FSN">Meningococcal eye disease (disorder)</displayName>
+</concept>
+<concept code="240429008">
+<displayName lang="en-GB" type="PT">Localised tetanus</displayName>
+<displayName lang="en" type="FSN">Localized tetanus (disorder)</displayName>
+</concept>
+<concept code="240431004">
+<displayName lang="en" type="PT">Cephalic tetanus</displayName>
+<displayName lang="en" type="FSN">Cephalic tetanus (disorder)</displayName>
+</concept>
+<concept code="240432006">
+<displayName lang="en" type="PT">Tetanus with trismus</displayName>
+<displayName lang="en" type="FSN">Tetanus with trismus (disorder)</displayName>
+</concept>
+<concept code="240433001">
+<displayName lang="en" type="PT">Tetanic opisthotonus</displayName>
+<displayName lang="en" type="FSN">Tetanic opisthotonus (disorder)</displayName>
+</concept>
+<concept code="240434007">
+<displayName lang="en-GB" type="PT">Generalised tetanus</displayName>
+<displayName lang="en" type="FSN">Generalized tetanus (disorder)</displayName>
+</concept>
+<concept code="240445005">
+<displayName lang="en" type="PT">Extrapulmonary legionella infection</displayName>
+<displayName lang="en" type="FSN">Extrapulmonary legionella infection (disorder)</displayName>
+<displayName lang="en" type="SY">Nonpneumonic Legionnaires&apos; disease</displayName>
+</concept>
+<concept code="240446006">
+<displayName lang="en" type="PT">Disseminated legionella infection</displayName>
+<displayName lang="en" type="FSN">Disseminated legionella infection (disorder)</displayName>
+</concept>
+<concept code="240448007">
+<displayName lang="en" type="PT">Legionella encephalopathy</displayName>
+<displayName lang="en" type="FSN">Legionella encephalopathy (disorder)</displayName>
+</concept>
+<concept code="240449004">
+<displayName lang="en" type="PT">Cutaneous involvement legionellosis</displayName>
+<displayName lang="en" type="FSN">Cutaneous involvement legionellosis (disorder)</displayName>
+</concept>
+<concept code="240459003">
+<displayName lang="en" type="PT">Abortive poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Abortive poliomyelitis (disorder)</displayName>
+</concept>
+<concept code="240460008">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis (disorder)</displayName>
+</concept>
+<concept code="240462000">
+<displayName lang="en" type="PT">Rabies prodrome</displayName>
+<displayName lang="en" type="FSN">Rabies prodrome (disorder)</displayName>
+</concept>
+<concept code="240463005">
+<displayName lang="en" type="PT">Acute neurological rabies</displayName>
+<displayName lang="en" type="FSN">Acute neurological rabies (disorder)</displayName>
+</concept>
+<concept code="240464004">
+<displayName lang="en" type="PT">Rabies coma</displayName>
+<displayName lang="en" type="FSN">Rabies coma (disorder)</displayName>
+</concept>
+<concept code="240465003">
+<displayName lang="en" type="PT">Rabies - recovery phase</displayName>
+<displayName lang="en" type="FSN">Rabies - recovery phase (disorder)</displayName>
+</concept>
+<concept code="240483006">
+<displayName lang="en" type="PT">Atypical measles</displayName>
+<displayName lang="en" type="FSN">Atypical measles (disorder)</displayName>
+</concept>
+<concept code="240484000">
+<displayName lang="en" type="PT">Modified measles</displayName>
+<displayName lang="en" type="FSN">Modified measles (disorder)</displayName>
+</concept>
+<concept code="240485004">
+<displayName lang="en-GB" type="PT">Haemorrhagic rubella</displayName>
+<displayName lang="en" type="FSN">Hemorrhagic rubella (disorder)</displayName>
+</concept>
+<concept code="240493004">
+<displayName lang="en-GB" type="PT">Hazara haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Hazara hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="240494005">
+<displayName lang="en-GB" type="PT">Rodent-borne haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Rodent-borne hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="240523007">
+<displayName lang="en-GB" type="PT">Viral haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Viral hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">VHF - Viral haemorrhagic fever</displayName>
+</concept>
+<concept code="240524001">
+<displayName lang="en-GB" type="PT">Brazilian haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Brazilian hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Sabia haemorrhagic fever</displayName>
+</concept>
+<concept code="240525000">
+<displayName lang="en-GB" type="PT">Filoviral haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Filoviral hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="240526004">
+<displayName lang="en" type="PT">Mumps parotitis</displayName>
+<displayName lang="en" type="FSN">Mumps parotitis (disorder)</displayName>
+<displayName lang="en" type="SY">Epidemic parotitis</displayName>
+<displayName lang="en" type="SY">Infectious parotitis</displayName>
+<displayName lang="en" type="SY">Infective parotitis</displayName>
+</concept>
+<concept code="240527008">
+<displayName lang="en" type="PT">Mumps submandibular sialadenitis</displayName>
+<displayName lang="en" type="FSN">Mumps submandibular sialadenitis (disorder)</displayName>
+</concept>
+<concept code="240529006">
+<displayName lang="en" type="PT">Mumps sublingual sialadenitis</displayName>
+<displayName lang="en" type="FSN">Mumps sublingual sialadenitis (disorder)</displayName>
+</concept>
+<concept code="240613006">
+<displayName lang="en" type="PT">Typhus group rickettsial disease</displayName>
+<displayName lang="en" type="FSN">Typhus group rickettsial disease (disorder)</displayName>
+<displayName lang="en" type="SY">Typhus</displayName>
+</concept>
+<concept code="240615004">
+<displayName lang="en" type="PT">Western Rocky Mountain spotted fever</displayName>
+<displayName lang="en" type="FSN">Western Rocky Mountain spotted fever (disorder)</displayName>
+<displayName lang="en" type="SY">Wood tick fever</displayName>
+</concept>
+<concept code="240616003">
+<displayName lang="en" type="PT">Eastern Rocky Mountain spotted fever</displayName>
+<displayName lang="en" type="FSN">Eastern Rocky Mountain spotted fever (disorder)</displayName>
+<displayName lang="en" type="SY">American dog tick fever</displayName>
+<displayName lang="en" type="SY">Brown dog tick fever</displayName>
+</concept>
+<concept code="240618002">
+<displayName lang="en" type="PT">Old World tick typhus</displayName>
+<displayName lang="en" type="FSN">Old World tick typhus (disorder)</displayName>
+</concept>
+<concept code="240629003">
+<displayName lang="en" type="PT">Malarial shock lung</displayName>
+<displayName lang="en" type="FSN">Malarial shock lung (disorder)</displayName>
+</concept>
+<concept code="240630008">
+<displayName lang="en" type="PT">Hyperimmune malarious splenomegaly</displayName>
+<displayName lang="en" type="FSN">Hyperimmune malarious splenomegaly (disorder)</displayName>
+</concept>
+<concept code="240631007">
+<displayName lang="en" type="PT">Airport malaria</displayName>
+<displayName lang="en" type="FSN">Airport malaria (disorder)</displayName>
+</concept>
+<concept code="248437004">
+<displayName lang="en" type="PT">Malarial fever</displayName>
+<displayName lang="en" type="FSN">Malarial fever (finding)</displayName>
+</concept>
+<concept code="248440004">
+<displayName lang="en" type="PT">Tertian fever</displayName>
+<displayName lang="en" type="FSN">Tertian fever (finding)</displayName>
+</concept>
+<concept code="248441000">
+<displayName lang="en" type="PT">Malignant tertian fever</displayName>
+<displayName lang="en" type="FSN">Malignant tertian fever (finding)</displayName>
+</concept>
+<concept code="248442007">
+<displayName lang="en" type="PT">Quartan fever</displayName>
+<displayName lang="en" type="FSN">Quartan fever (finding)</displayName>
+</concept>
+<concept code="253227001">
+<displayName lang="en" type="PT">Rubella cataract</displayName>
+<displayName lang="en" type="FSN">Rubella cataract (disorder)</displayName>
+</concept>
+<concept code="266196000">
+<displayName lang="en" type="PT">Rabies - hydrophobia</displayName>
+<displayName lang="en" type="FSN">Rabies - hydrophobia (disorder)</displayName>
+</concept>
+<concept code="267317007">
+<displayName lang="en" type="PT">Tuberculosis in pregnancy</displayName>
+<displayName lang="en" type="FSN">Tuberculosis in pregnancy (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis+pregnancy</displayName>
+</concept>
+<concept code="269275003">
+<displayName lang="en" type="PT">Seafood causing toxic effect</displayName>
+<displayName lang="en" type="FSN">Seafood causing toxic effect (disorder)</displayName>
+<displayName lang="en" type="SY">Fish and shellfish causing toxic effect</displayName>
+</concept>
+<concept code="269574000">
+<displayName lang="en" type="PT">Infection by Legionella pneumophilia</displayName>
+<displayName lang="en" type="FSN">Infection by Legionella pneumophilia (disorder)</displayName>
+</concept>
+<concept code="271423008">
+<displayName lang="en" type="PT">Tuberculosis of skin and subcutaneous tissue</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of skin and subcutaneous tissue (disorder)</displayName>
+</concept>
+<concept code="274119009">
+<displayName lang="en" type="PT">Rubella in pregnancy</displayName>
+<displayName lang="en" type="FSN">Rubella in pregnancy (disorder)</displayName>
+</concept>
+<concept code="276064006">
+<displayName lang="en" type="PT">Lymphocytic meningitis</displayName>
+<displayName lang="en" type="FSN">Lymphocytic meningitis (disorder)</displayName>
+</concept>
+<concept code="276202003">
+<displayName lang="en" type="PT">Infection due to Clostridium tetani</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium tetani (disorder)</displayName>
+</concept>
+<concept code="276674008">
+<displayName lang="en" type="PT">Neonatal meningitis</displayName>
+<displayName lang="en" type="FSN">Neonatal meningitis (disorder)</displayName>
+</concept>
+<concept code="276817007">
+<displayName lang="en" type="PT">Lymphocytic meningoencephalitis</displayName>
+<displayName lang="en" type="FSN">Lymphocytic meningoencephalitis (disorder)</displayName>
+</concept>
+<concept code="277138006">
+<displayName lang="en" type="PT">Rubella arthralgia</displayName>
+<displayName lang="en" type="FSN">Rubella arthralgia (disorder)</displayName>
+</concept>
+<concept code="281107009">
+<displayName lang="en" type="PT">Infective food poisoning</displayName>
+<displayName lang="en" type="FSN">Infective food poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Infectious food poisoning</displayName>
+</concept>
+<concept code="281623008">
+<displayName lang="en" type="PT">Genital tuberculosis</displayName>
+<displayName lang="en" type="FSN">Genital tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">TB - Genital tuberculosis</displayName>
+</concept>
+<concept code="302229004">
+<displayName lang="en" type="PT">Salmonella food poisoning</displayName>
+<displayName lang="en" type="FSN">Salmonella food poisoning (disorder)</displayName>
+</concept>
+<concept code="302811004">
+<displayName lang="en" type="PT">Progressive congenital rubella encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Progressive congenital rubella encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="302919001">
+<displayName lang="en" type="PT">Epstein-Barr virus hepatitis</displayName>
+<displayName lang="en" type="FSN">Epstein-Barr virus hepatitis (disorder)</displayName>
+<displayName lang="en" type="SY">EBV - Epstein-Barr virus hepatitis</displayName>
+<displayName lang="en" type="SY">Infectious mononucleosis hepatitis</displayName>
+</concept>
+<concept code="309789002">
+<displayName lang="en" type="PT">Encephalitis due to influenza</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to influenza (disorder)</displayName>
+</concept>
+<concept code="309806000">
+<displayName lang="en" type="PT">Encephalitis due to influenza-virus identified</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to influenza-virus identified (disorder)</displayName>
+</concept>
+<concept code="310668004">
+<displayName lang="en-GB" type="PT">Septicaemia due to streptococcus pneumoniae</displayName>
+<displayName lang="en" type="FSN">Septicemia due to streptococcus pneumoniae (disorder)</displayName>
+</concept>
+<concept code="312215006">
+<displayName lang="en" type="PT">Infective encephalitis</displayName>
+<displayName lang="en" type="FSN">Infective encephalitis (disorder)</displayName>
+</concept>
+<concept code="312216007">
+<displayName lang="en" type="PT">Infective meningitis</displayName>
+<displayName lang="en" type="FSN">Infective meningitis (disorder)</displayName>
+</concept>
+<concept code="313251006">
+<displayName lang="en" type="PT">Encephalitis due to influenza-specific virus not identified</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to influenza-specific virus not identified (disorder)</displayName>
+</concept>
+<concept code="314029000">
+<displayName lang="en" type="PT">Tuberculous uveitis</displayName>
+<displayName lang="en" type="FSN">Tuberculous uveitis (disorder)</displayName>
+</concept>
+<concept code="359673001">
+<displayName lang="en-GB" type="PT">Venezuelan haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Venezuelan hemorrhagic fever (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Guanarito haemorrhagic fever</displayName>
+</concept>
+<concept code="363310009">
+<displayName lang="en" type="PT">Soft tissue infection associated with tuberculosis</displayName>
+<displayName lang="en" type="FSN">Soft tissue infection associated with tuberculosis (disorder)</displayName>
+</concept>
+<concept code="373085003">
+<displayName lang="en" type="PT">Infection due to mycobacterium africanum</displayName>
+<displayName lang="en" type="FSN">Infection due to mycobacterium africanum (disorder)</displayName>
+</concept>
+<concept code="373086002">
+<displayName lang="en" type="PT">Infection due to mycobacterium tuberculosis hominis</displayName>
+<displayName lang="en" type="FSN">Infection due to mycobacterium tuberculosis hominis (disorder)</displayName>
+</concept>
+<concept code="373421000">
+<displayName lang="en-GB" type="PT">Diarrhea-associated haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="FSN">Diarrhea-associated hemolytic uremic syndrome (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Classic haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="SY">Diarrhea-associated HUS</displayName>
+<displayName lang="en-GB" type="SY">Epidemic haemolytic uraemic syndrome</displayName>
+</concept>
+<concept code="373422007">
+<displayName lang="en-GB" type="PT">Diarrhoea-negative haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="FSN">Diarrhea-negative hemolytic uremic syndrome (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Diarrhoea-negative HUS</displayName>
+<displayName lang="en-GB" type="SY">Endemic haemolytic uraemic syndrome</displayName>
+</concept>
+<concept code="373576009">
+<displayName lang="en" type="PT">Infection due to Mycobacterium tuberculosis</displayName>
+<displayName lang="en" type="FSN">Infection due to Mycobacterium tuberculosis (disorder)</displayName>
+</concept>
+<concept code="387754006">
+<displayName lang="en-GB" type="PT">Amoebic dysentery</displayName>
+<displayName lang="en" type="FSN">Amebic dysentery (disorder)</displayName>
+</concept>
+<concept code="392662004">
+<displayName lang="en" type="PT">West Nile encephalitis</displayName>
+<displayName lang="en" type="FSN">West Nile encephalitis (disorder)</displayName>
+</concept>
+<concept code="394988004">
+<displayName lang="en" type="PT">Suspected food poisoning</displayName>
+<displayName lang="en" type="FSN">Suspected food poisoning (situation)</displayName>
+</concept>
+<concept code="397068006">
+<displayName lang="en" type="PT">Plasmodium merozoite in red cell</displayName>
+<displayName lang="en" type="FSN">Plasmodium merozoite in red cell (finding)</displayName>
+</concept>
+<concept code="397069003">
+<displayName lang="en" type="PT">Plasmodium microgametocyte in red cell</displayName>
+<displayName lang="en" type="FSN">Plasmodium microgametocyte in red cell (finding)</displayName>
+</concept>
+<concept code="397070002">
+<displayName lang="en" type="PT">Plasmodium macrogametocyte in red cell</displayName>
+<displayName lang="en" type="FSN">Plasmodium macrogametocyte in red cell (finding)</displayName>
+</concept>
+<concept code="397071003">
+<displayName lang="en" type="PT">Malarial red blood cell inclusion</displayName>
+<displayName lang="en" type="FSN">Malarial red blood cell inclusion (finding)</displayName>
+</concept>
+<concept code="397428000">
+<displayName lang="en" type="PT">Diphtheria</displayName>
+<displayName lang="en" type="FSN">Diphtheria (disorder)</displayName>
+</concept>
+<concept code="397429008">
+<displayName lang="en" type="PT">Diphtheria due to Corynebacterium ulcerans</displayName>
+<displayName lang="en" type="FSN">Diphtheria due to Corynebacterium ulcerans (disorder)</displayName>
+</concept>
+<concept code="397430003">
+<displayName lang="en" type="PT">Diphtheria due to Corynebacterium diphtheriae</displayName>
+<displayName lang="en" type="FSN">Diphtheria due to Corynebacterium diphtheriae (disorder)</displayName>
+</concept>
+<concept code="397575003">
+<displayName lang="en" type="PT">Viral hepatitis, type G</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis, type G (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis G</displayName>
+</concept>
+<concept code="397928009">
+<displayName lang="en" type="PT">Infantile paralysis</displayName>
+<displayName lang="en" type="FSN">Infantile paralysis (disorder)</displayName>
+</concept>
+<concept code="397961002">
+<displayName lang="en" type="PT">Lymphocytic choriomeningitis virus encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Lymphocytic choriomeningitis virus encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="398102009">
+<displayName lang="en" type="PT">Acute poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Acute poliomyelitis (disorder)</displayName>
+<displayName lang="en" type="SY">PM - Poliomyelitis</displayName>
+<displayName lang="en" type="SY">Polio</displayName>
+<displayName lang="en" type="SY">Poliomyelitis</displayName>
+</concept>
+<concept code="398256009">
+<displayName lang="en" type="PT">Epidemic acute poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Epidemic acute poliomyelitis (disorder)</displayName>
+</concept>
+<concept code="398327006">
+<displayName lang="en" type="PT">Anterior acute poliomyelitis</displayName>
+<displayName lang="en" type="FSN">Anterior acute poliomyelitis (disorder)</displayName>
+</concept>
+<concept code="398329009">
+<displayName lang="en" type="PT">Human immunodeficiency virus encephalitis</displayName>
+<displayName lang="en" type="FSN">Human immunodeficiency virus encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">HIV - Human immunodeficiency virus encephalitis</displayName>
+</concept>
+<concept code="398384001">
+<displayName lang="en" type="PT">Staphylococcus aureus food poisoning</displayName>
+<displayName lang="en" type="FSN">Staphylococcus aureus food poisoning (disorder)</displayName>
+</concept>
+<concept code="398446008">
+<displayName lang="en" type="PT">Human rabies</displayName>
+<displayName lang="en" type="FSN">Human rabies (disorder)</displayName>
+</concept>
+<concept code="398447004">
+<displayName lang="en" type="PT">Severe acute respiratory syndrome</displayName>
+<displayName lang="en" type="FSN">Severe acute respiratory syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">SARS</displayName>
+<displayName lang="en" type="SY">SARS-CoV infection</displayName>
+</concept>
+<concept code="398523009">
+<displayName lang="en" type="PT">Foodborne botulism</displayName>
+<displayName lang="en" type="FSN">Foodborne botulism (disorder)</displayName>
+</concept>
+<concept code="398530003">
+<displayName lang="en" type="PT">Wound botulism</displayName>
+<displayName lang="en" type="FSN">Wound botulism (disorder)</displayName>
+</concept>
+<concept code="398565003">
+<displayName lang="en" type="PT">Botulism</displayName>
+<displayName lang="en" type="FSN">Infection due to Clostridium botulinum (disorder)</displayName>
+<displayName lang="en" type="SY">Infection due to Clostridium botulinum</displayName>
+<displayName lang="en" type="SY">Lame sickness</displayName>
+</concept>
+<concept code="400008009">
+<displayName lang="en" type="PT">Borderline leprosy</displayName>
+<displayName lang="en" type="FSN">Borderline leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Group B leprosy</displayName>
+</concept>
+<concept code="400154003">
+<displayName lang="en" type="PT">Midborderline leprosy</displayName>
+<displayName lang="en" type="FSN">Midborderline leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">BB - Borderline leprosy</displayName>
+<displayName lang="en" type="SY">Type BB leprosy</displayName>
+</concept>
+<concept code="402127008">
+<displayName lang="en" type="PT">Brucellosis of skin</displayName>
+<displayName lang="en" type="FSN">Brucellosis of skin (disorder)</displayName>
+</concept>
+<concept code="402919000">
+<displayName lang="en-GB" type="PT">Congo haemorrhagic fever</displayName>
+<displayName lang="en" type="FSN">Congo hemorrhagic fever (disorder)</displayName>
+</concept>
+<concept code="404233006">
+<displayName lang="en" type="PT">West Nile meningitis</displayName>
+<displayName lang="en" type="FSN">West Nile meningitis (disorder)</displayName>
+</concept>
+<concept code="404234000">
+<displayName lang="en" type="PT">St. Louis meningitis</displayName>
+<displayName lang="en" type="FSN">St. Louis meningitis (disorder)</displayName>
+</concept>
+<concept code="404239005">
+<displayName lang="en" type="PT">California serogroup viral meningitis</displayName>
+<displayName lang="en" type="FSN">California serogroup viral meningitis (disorder)</displayName>
+</concept>
+<concept code="404240007">
+<displayName lang="en" type="PT">La Crosse meningitis</displayName>
+<displayName lang="en" type="FSN">La Crosse meningitis (disorder)</displayName>
+</concept>
+<concept code="404241006">
+<displayName lang="en" type="PT">Snowshoe hare meningitis</displayName>
+<displayName lang="en" type="FSN">Snowshoe hare meningitis (disorder)</displayName>
+</concept>
+<concept code="404243009">
+<displayName lang="en" type="PT">Keystone virus meningitis</displayName>
+<displayName lang="en" type="FSN">Keystone virus meningitis (disorder)</displayName>
+</concept>
+<concept code="406558002">
+<displayName lang="en" type="PT">African tick bite fever</displayName>
+<displayName lang="en" type="FSN">African tick bite fever (disorder)</displayName>
+</concept>
+<concept code="406573001">
+<displayName lang="en" type="PT">Primary encephalitis</displayName>
+<displayName lang="en" type="FSN">Primary encephalitis (disorder)</displayName>
+</concept>
+<concept code="406585009">
+<displayName lang="en" type="PT">Acute non-A, non-B, non-C hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute non-A, non-B, non-C hepatitis (disorder)</displayName>
+</concept>
+<concept code="406592004">
+<displayName lang="en" type="PT">Measles of the central nervous system</displayName>
+<displayName lang="en" type="FSN">Measles of the central nervous system (disorder)</displayName>
+</concept>
+<concept code="406610002">
+<displayName lang="en" type="PT">Invasive streptococcal disease</displayName>
+<displayName lang="en" type="FSN">Invasive streptococcal disease (disorder)</displayName>
+</concept>
+<concept code="406614006">
+<displayName lang="en-GB" type="PT">Invasive Group A beta-haemolytic streptococcal disease</displayName>
+<displayName lang="en" type="FSN">Invasive Group A beta-hemolytic streptococcal disease (disorder)</displayName>
+<displayName lang="en" type="SY">Group A streptococcal infection, invasive</displayName>
+</concept>
+<concept code="406617004">
+<displayName lang="en" type="PT">Invasive Streptococcus pneumoniae disease</displayName>
+<displayName lang="en" type="FSN">Invasive Streptococcus pneumoniae disease (disorder)</displayName>
+<displayName lang="en" type="SY">Pneumococcal disease, invasive</displayName>
+</concept>
+<concept code="406618009">
+<displayName lang="en" type="PT">Invasive drug resistant Streptococcus pneumoniae disease</displayName>
+<displayName lang="en" type="FSN">Invasive drug resistant Streptococcus pneumoniae disease (disorder)</displayName>
+</concept>
+<concept code="407472000">
+<displayName lang="en" type="PT">Nairoviral encephalitis</displayName>
+<displayName lang="en" type="FSN">Nairoviral encephalitis (disorder)</displayName>
+</concept>
+<concept code="408688009">
+<displayName lang="en" type="PT">Healthcare associated severe acute respiratory syndrome</displayName>
+<displayName lang="en" type="FSN">Healthcare associated severe acute respiratory syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Healthcare associated SARS</displayName>
+</concept>
+<concept code="409498004">
+<displayName lang="en" type="PT">Anthrax</displayName>
+<displayName lang="en" type="FSN">Anthrax (disorder)</displayName>
+<displayName lang="en" type="SY">Charbon</displayName>
+<displayName lang="en" type="SY">Infection due to Bacillus anthracis</displayName>
+<displayName lang="en" type="SY">Milzbrand</displayName>
+<displayName lang="en" type="SY">Splenic fever</displayName>
+</concept>
+<concept code="409501004">
+<displayName lang="en-GB" type="PT">Haemorrhagic meningitis</displayName>
+<displayName lang="en" type="FSN">Hemorrhagic meningitis (disorder)</displayName>
+</concept>
+<concept code="409554001">
+<displayName lang="en" type="PT">Q fever hepatitis</displayName>
+<displayName lang="en" type="FSN">Q fever hepatitis (disorder)</displayName>
+</concept>
+<concept code="409562009">
+<displayName lang="en" type="PT">Inhalational botulism</displayName>
+<displayName lang="en" type="FSN">Inhalational botulism (disorder)</displayName>
+</concept>
+<concept code="409563004">
+<displayName lang="en" type="PT">Intestinal botulism</displayName>
+<displayName lang="en" type="FSN">Intestinal botulism (disorder)</displayName>
+</concept>
+<concept code="409564005">
+<displayName lang="en" type="PT">Foodborne botulism, type A</displayName>
+<displayName lang="en" type="FSN">Foodborne botulism, type A (disorder)</displayName>
+</concept>
+<concept code="409565006">
+<displayName lang="en" type="PT">Foodborne botulism, type B</displayName>
+<displayName lang="en" type="FSN">Foodborne botulism, type B (disorder)</displayName>
+</concept>
+<concept code="409566007">
+<displayName lang="en" type="PT">Foodborne botulism, type E</displayName>
+<displayName lang="en" type="FSN">Foodborne botulism, type E (disorder)</displayName>
+</concept>
+<concept code="409567003">
+<displayName lang="en" type="PT">Foodborne botulism, type F</displayName>
+<displayName lang="en" type="FSN">Foodborne botulism, type F (disorder)</displayName>
+</concept>
+<concept code="409641002">
+<displayName lang="en-GB" type="PT">Haemorrhagic smallpox</displayName>
+<displayName lang="en" type="FSN">Hemorrhagic smallpox (disorder)</displayName>
+<displayName lang="en" type="SY">Purpura variolosa</displayName>
+</concept>
+<concept code="409676000">
+<displayName lang="en-GB" type="PT">Dengue haemorrhagic fever, grade I</displayName>
+<displayName lang="en" type="FSN">Dengue hemorrhagic fever, grade I (disorder)</displayName>
+</concept>
+<concept code="409677009">
+<displayName lang="en-GB" type="PT">Dengue haemorrhagic fever, grade II</displayName>
+<displayName lang="en" type="FSN">Dengue hemorrhagic fever, grade II (disorder)</displayName>
+</concept>
+<concept code="409678004">
+<displayName lang="en-GB" type="PT">Dengue haemorrhagic fever, grade III</displayName>
+<displayName lang="en" type="FSN">Dengue hemorrhagic fever, grade III (disorder)</displayName>
+</concept>
+<concept code="409679007">
+<displayName lang="en-GB" type="PT">Dengue haemorrhagic fever, grade IV</displayName>
+<displayName lang="en" type="FSN">Dengue hemorrhagic fever, grade IV (disorder)</displayName>
+</concept>
+<concept code="413556004">
+<displayName lang="en" type="PT">Antibiotic resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Antibiotic resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="413852006">
+<displayName lang="en" type="PT">Ciprofloxacin resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Ciprofloxacin resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="414146004">
+<displayName lang="en" type="PT">Ethambutol resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Ethambutol resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="414149006">
+<displayName lang="en" type="PT">Ethionamide resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Ethionamide resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="414286000">
+<displayName lang="en" type="PT">Food poisoning due to Vibrio vulnificus</displayName>
+<displayName lang="en" type="FSN">Food poisoning due to Vibrio vulnificus (disorder)</displayName>
+</concept>
+<concept code="414488002">
+<displayName lang="en" type="PT">Infantile botulism</displayName>
+<displayName lang="en" type="FSN">Infantile botulism (disorder)</displayName>
+</concept>
+<concept code="414531002">
+<displayName lang="en" type="PT">Botulism</displayName>
+<displayName lang="en" type="FSN">Intoxication with Clostridium botulinum toxin (disorder)</displayName>
+<displayName lang="en" type="SY">Intoxication with Clostridium botulinum toxin</displayName>
+</concept>
+<concept code="414546009">
+<displayName lang="en" type="PT">Isoniazid resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Isoniazid resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="414600000">
+<displayName lang="en" type="PT">Lepromatous anterior uveitis</displayName>
+<displayName lang="en" type="FSN">Lepromatous anterior uveitis (disorder)</displayName>
+<displayName lang="en" type="SY">Uveitis due to lepromatous leprosy</displayName>
+</concept>
+<concept code="414820001">
+<displayName lang="en" type="PT">Neonatal botulism</displayName>
+<displayName lang="en" type="FSN">Neonatal botulism (disorder)</displayName>
+</concept>
+<concept code="415035006">
+<displayName lang="en" type="PT">Paralytic rabies</displayName>
+<displayName lang="en" type="FSN">Paralytic rabies (disorder)</displayName>
+</concept>
+<concept code="415222009">
+<displayName lang="en" type="PT">Pyrazinamide resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Pyrazinamide resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="415345001">
+<displayName lang="en" type="PT">Rifampicin resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Rifampicin resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="415347009">
+<displayName lang="en" type="PT">Rio Bravo viral encephalitis</displayName>
+<displayName lang="en" type="FSN">Rio Bravo viral encephalitis (disorder)</displayName>
+</concept>
+<concept code="415353009">
+<displayName lang="en" type="PT">Rotavirus food poisoning</displayName>
+<displayName lang="en" type="FSN">Rotavirus food poisoning (disorder)</displayName>
+</concept>
+<concept code="415525005">
+<displayName lang="en" type="PT">Siberian tick-borne encephalitis</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to Siberian tick-borne encephalitis virus (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis due to Siberian tick-borne encephalitis virus</displayName>
+<displayName lang="en" type="SY">West-Siberian tick-borne encephalitis</displayName>
+</concept>
+<concept code="415561000">
+<displayName lang="en" type="PT">South African tick-bite fever</displayName>
+<displayName lang="en" type="FSN">South African tick-bite fever (disorder)</displayName>
+</concept>
+<concept code="415622003">
+<displayName lang="en" type="PT">Streptomycin resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Streptomycin resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="415759006">
+<displayName lang="en" type="PT">Tuberculosis index case</displayName>
+<displayName lang="en" type="FSN">Tuberculosis index case (observable entity)</displayName>
+</concept>
+<concept code="416154000">
+<displayName lang="en" type="PT">Measles inclusion body encephalitis</displayName>
+<displayName lang="en" type="FSN">Measles inclusion body encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Immunosuppressive measles encephalitis</displayName>
+<displayName lang="en" type="SY">MIBE - Measles inclusion body encephalitis</displayName>
+</concept>
+<concept code="416257001">
+<displayName lang="en" type="PT">Multibacillary leprosy</displayName>
+<displayName lang="en" type="FSN">Multibacillary leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">MB leprosy</displayName>
+</concept>
+<concept code="416265003">
+<displayName lang="en" type="PT">Tuberculoma of brain</displayName>
+<displayName lang="en" type="FSN">Tuberculoma of brain (disorder)</displayName>
+</concept>
+<concept code="416482004">
+<displayName lang="en" type="PT">Food-borne gastroenteritis</displayName>
+<displayName lang="en" type="FSN">Food-borne gastroenteritis (disorder)</displayName>
+<displayName lang="en" type="SY">Gastroenteritis due to food poisoning</displayName>
+</concept>
+<concept code="416483009">
+<displayName lang="en" type="PT">Paucibacillary leprosy</displayName>
+<displayName lang="en" type="FSN">Paucibacillary leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">PB leprosy</displayName>
+</concept>
+<concept code="416597004">
+<displayName lang="en" type="PT">Dapsone resistant leprosy</displayName>
+<displayName lang="en" type="FSN">Dapsone resistant leprosy (disorder)</displayName>
+<displayName lang="en" type="SY">Dapsone resistant mycobacterium leprae</displayName>
+<displayName lang="en-GB" type="SY">Diaminodiphenylsulphone resistant leprosy</displayName>
+</concept>
+<concept code="416623000">
+<displayName lang="en" type="PT">Cat flea typhus</displayName>
+<displayName lang="en" type="FSN">Cat flea typhus (disorder)</displayName>
+</concept>
+<concept code="416748006">
+<displayName lang="en" type="PT">Hallucinogenic fish poisoning</displayName>
+<displayName lang="en" type="FSN">Hallucinogenic fish poisoning (disorder)</displayName>
+<displayName lang="en" type="SY">Ichthyoallyeinotoxism</displayName>
+</concept>
+<concept code="416903004">
+<displayName lang="en" type="PT">Tuberculoma of spinal cord</displayName>
+<displayName lang="en" type="FSN">Tuberculoma of spinal cord (disorder)</displayName>
+</concept>
+<concept code="417075004">
+<displayName lang="en" type="PT">California encephalitis virus infection neuroinvasive disease</displayName>
+<displayName lang="en" type="FSN">Neuroinvasive California encephalitis virus infection (disorder)</displayName>
+<displayName lang="en" type="SY">CE - California encephalitis</displayName>
+<displayName lang="en" type="SY">California encephalitis</displayName>
+<displayName lang="en" type="SY">California meningoencephalitis virus disease</displayName>
+<displayName lang="en" type="SY">California viral encephalitis</displayName>
+<displayName lang="en" type="SY">Neuroinvasive California encephalitis virus infection</displayName>
+</concept>
+<concept code="417607009">
+<displayName lang="en" type="PT">Neuroinvasive St. Louis encephalitis virus infection</displayName>
+<displayName lang="en" type="FSN">Neuroinvasive Saint Louis encephalitis virus infection (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis, St-Louis</displayName>
+<displayName lang="en" type="SY">Neuroinvasive Saint Louis encephalitis virus infection</displayName>
+<displayName lang="en" type="SY">SLE - Saint Louis encephalitis</displayName>
+<displayName lang="en" type="SY">Saint Louis encephalitis</displayName>
+<displayName lang="en" type="SY">St. Louis encephalitis</displayName>
+<displayName lang="en" type="SY">St. Louis encephalitis virus neuroinvasive disease</displayName>
+<displayName lang="en" type="SY">Type C lethargic encephalitis</displayName>
+</concept>
+<concept code="417872000">
+<displayName lang="en" type="PT">Neuroinvasive Cache Valley encephalitis virus infection</displayName>
+<displayName lang="en" type="FSN">Neuroinvasive Cache Valley encephalitis virus infection (disorder)</displayName>
+<displayName lang="en" type="SY">Cache Valley encephalitis</displayName>
+</concept>
+<concept code="418455000">
+<displayName lang="en" type="PT">Encephalitis due to protozoa</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to protozoa (disorder)</displayName>
+</concept>
+<concept code="419868009">
+<displayName lang="en" type="PT">Encephalitis due to rickettsia</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to rickettsia (disorder)</displayName>
+</concept>
+<concept code="421571007">
+<displayName lang="en" type="PT">Tuberculosis associated with AIDS</displayName>
+<displayName lang="en" type="FSN">Tuberculosis associated with acquired immunodeficiency syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis associated with acquired immunodeficiency syndrome</displayName>
+</concept>
+<concept code="422481005">
+<displayName lang="en" type="PT">Extreme drug resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Extreme drug resistant tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Extensively drug resistant tuberculosis</displayName>
+<displayName lang="en" type="SY">Extremely drug resistant tuberculosis</displayName>
+</concept>
+<concept code="423092005">
+<displayName lang="en" type="PT">Multidrug resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Multidrug resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="423709000">
+<displayName lang="en" type="PT">Drug resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Drug resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="423997002">
+<displayName lang="en" type="PT">Tuberculosis, extrapulmonary</displayName>
+<displayName lang="en" type="FSN">Tuberculosis, extrapulmonary (disorder)</displayName>
+<displayName lang="en" type="SY">TB, extrapulmonary</displayName>
+</concept>
+<concept code="424099008">
+<displayName lang="en" type="PT">Hepatic coma due to acute hepatitis B</displayName>
+<displayName lang="en" type="FSN">Hepatic coma due to acute hepatitis B (disorder)</displayName>
+<displayName lang="en" type="SY">Acute hepatitis B with hepatic coma</displayName>
+<displayName lang="en" type="SY">Acute viral hepatitis B with hepatic coma</displayName>
+</concept>
+<concept code="424306000">
+<displayName lang="en" type="PT">Exanthem due to measles virus</displayName>
+<displayName lang="en" type="FSN">Exanthem due to measles virus (disorder)</displayName>
+</concept>
+<concept code="424758008">
+<displayName lang="en" type="PT">Viral hepatitis A without hepatic coma, without hepatitis delta</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis A without hepatic coma, without hepatitis delta (disorder)</displayName>
+<displayName lang="en" type="SY">Viral hepatitis A without hepatic coma, without delta-agent</displayName>
+<displayName lang="en" type="SY">Viral hepatitis A without hepatic coma, without hepatitis D</displayName>
+</concept>
+<concept code="424761009">
+<displayName lang="en" type="PT">Paraneoplastic encephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Paraneoplastic encephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="424911007">
+<displayName lang="en" type="PT">Paraneoplastic encephalitis</displayName>
+<displayName lang="en" type="FSN">Paraneoplastic encephalitis (disorder)</displayName>
+</concept>
+<concept code="426128009">
+<displayName lang="en" type="PT">Lymphomatous meningitis</displayName>
+<displayName lang="en" type="FSN">Lymphomatous meningitis (disorder)</displayName>
+</concept>
+<concept code="426487006">
+<displayName lang="en" type="PT">Toxic effect from eating shellfish</displayName>
+<displayName lang="en" type="FSN">Toxic effect from eating shellfish (disorder)</displayName>
+<displayName lang="en" type="SY">Shellfish poisoning</displayName>
+</concept>
+<concept code="427086003">
+<displayName lang="en" type="PT">Bickerstaff&apos;s brainstem encephalitis</displayName>
+<displayName lang="en" type="FSN">Bickerstaff&apos;s brainstem encephalitis (disorder)</displayName>
+<displayName lang="en" type="SY">Bickerstaff brainstem encephalitis</displayName>
+<displayName lang="en" type="SY">Bickerstaff encephalitis</displayName>
+</concept>
+<concept code="427099000">
+<displayName lang="en" type="PT">Active tuberculosis</displayName>
+<displayName lang="en" type="FSN">Active tuberculosis (disorder)</displayName>
+</concept>
+<concept code="427795000">
+<displayName lang="en" type="PT">Infection due to Brucella abortus</displayName>
+<displayName lang="en" type="FSN">Infection due to Brucella abortus (disorder)</displayName>
+</concept>
+<concept code="427796004">
+<displayName lang="en" type="PT">Encephalitis due to human herpes simplex virus</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to human herpes simplex virus (disorder)</displayName>
+</concept>
+<concept code="427999003">
+<displayName lang="en" type="PT">Infection due to Brucella melitensis</displayName>
+<displayName lang="en" type="FSN">Infection due to Brucella melitensis (disorder)</displayName>
+</concept>
+<concept code="428174001">
+<displayName lang="en" type="PT">Infection due to Brucella canis</displayName>
+<displayName lang="en" type="FSN">Infection due to Brucella canis (disorder)</displayName>
+<displayName lang="en" type="SY">Brucella canis infection</displayName>
+</concept>
+<concept code="428175000">
+<displayName lang="en-GB" type="PT">Primary amoebic encephalitis due to Naegleria fowleri</displayName>
+<displayName lang="en" type="FSN">Primary amebic encephalitis due to Naegleria fowleri (disorder)</displayName>
+</concept>
+<concept code="428592003">
+<displayName lang="en" type="PT">Infection due to Brucella ovis</displayName>
+<displayName lang="en" type="FSN">Infection due to Brucella ovis (disorder)</displayName>
+<displayName lang="en" type="SY">Brucella ovis infection</displayName>
+</concept>
+<concept code="428635007">
+<displayName lang="en" type="PT">Primary viral encephalitis</displayName>
+<displayName lang="en" type="FSN">Primary viral encephalitis (disorder)</displayName>
+</concept>
+<concept code="428638009">
+<displayName lang="en" type="PT">Encephalitis due to Herpesviridae</displayName>
+<displayName lang="en" type="FSN">Encephalitis due to Herpesvirus (disorder)</displayName>
+<displayName lang="en" type="SY">Encephalitis due to Herpesvirus</displayName>
+<displayName lang="en" type="SY">Herpes encephalitis</displayName>
+</concept>
+<concept code="429297003">
+<displayName lang="en" type="PT">Acute nonparalytic poliomyelitis due to human poliovirus 1</displayName>
+<displayName lang="en" type="FSN">Acute nonparalytic poliomyelitis due to human poliovirus 1 (disorder)</displayName>
+</concept>
+<concept code="429600003">
+<displayName lang="en" type="PT">Infection due to Brucella suis</displayName>
+<displayName lang="en" type="FSN">Infection due to Brucella suis (disorder)</displayName>
+<displayName lang="en" type="SY">Brucella suis infection</displayName>
+</concept>
+<concept code="441590008">
+<displayName lang="en" type="PT">Pneumonia due to Severe acute respiratory syndrome coronavirus</displayName>
+<displayName lang="en" type="FSN">Pneumonia due to Severe acute respiratory syndrome coronavirus (disorder)</displayName>
+</concept>
+<concept code="441770001">
+<displayName lang="en" type="PT">Orificial tuberculosis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of external body orifice (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of external body orifice</displayName>
+</concept>
+<concept code="444976001">
+<displayName lang="en-GB" type="PT">Congenital haemolytic uraemic syndrome</displayName>
+<displayName lang="en" type="FSN">Congenital hemolytic uremic syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Congenital HUS (haemolytic uraemic syndrome)</displayName>
+</concept>
+<concept code="445014002">
+<displayName lang="en" type="PT">Paraneoplastic limbic encephalitis</displayName>
+<displayName lang="en" type="FSN">Paraneoplastic limbic encephalitis (disorder)</displayName>
+</concept>
+<concept code="446123007">
+<displayName lang="en" type="PT">Tuberculous abscess</displayName>
+<displayName lang="en" type="FSN">Tuberculous abscess (disorder)</displayName>
+</concept>
+<concept code="446311006">
+<displayName lang="en" type="PT">Acute bulbar poliomyelitis due to Human poliovirus 2</displayName>
+<displayName lang="en" type="FSN">Acute bulbar poliomyelitis due to Human poliovirus 2 (disorder)</displayName>
+</concept>
+<concept code="446312004">
+<displayName lang="en" type="PT">Acute poliomyelitis due to Human poliovirus 1</displayName>
+<displayName lang="en" type="FSN">Acute poliomyelitis due to Human poliovirus 1 (disorder)</displayName>
+</concept>
+<concept code="446438003">
+<displayName lang="en" type="PT">Poisoning by ingestion of fish contaminated by bacteria</displayName>
+<displayName lang="en" type="FSN">Poisoning by ingestion of fish contaminated by bacteria (disorder)</displayName>
+</concept>
+<concept code="446439006">
+<displayName lang="en" type="PT">Poisoning by ingestion of fish contaminated by environmental toxin</displayName>
+<displayName lang="en" type="FSN">Poisoning by ingestion of fish contaminated by environmental toxin (disorder)</displayName>
+</concept>
+<concept code="446443005">
+<displayName lang="en" type="PT">Ichthyosarcotoxism</displayName>
+<displayName lang="en" type="FSN">Poisoning by ingestion of fish toxin (disorder)</displayName>
+<displayName lang="en" type="SY">Poisoning by ingestion of fish toxin</displayName>
+</concept>
+<concept code="446543007">
+<displayName lang="en" type="PT">Tuberculous abscess of lung</displayName>
+<displayName lang="en" type="FSN">Tuberculous abscess of lung (disorder)</displayName>
+<displayName lang="en" type="SY">Pulmonary tuberculous abscess</displayName>
+</concept>
+<concept code="446753005">
+<displayName lang="en" type="PT">Tuberculosis of oropharynx</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of oropharynx (disorder)</displayName>
+</concept>
+<concept code="446926000">
+<displayName lang="en" type="PT">Tuberculous abscess of sacrum</displayName>
+<displayName lang="en" type="FSN">Tuberculous abscess of sacrum (disorder)</displayName>
+</concept>
+<concept code="446946005">
+<displayName lang="en" type="PT">Reinfection pulmonary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Reinfection pulmonary tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Reinfection respiratory tuberculosis</displayName>
+</concept>
+<concept code="446957000">
+<displayName lang="en" type="PT">Acute bulbar poliomyelitis due to Human poliovirus 1</displayName>
+<displayName lang="en" type="FSN">Acute bulbar poliomyelitis due to Human poliovirus 1 (disorder)</displayName>
+</concept>
+<concept code="446958005">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis due to Human poliovirus 1</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis due to Human poliovirus 1 (disorder)</displayName>
+</concept>
+<concept code="446986002">
+<displayName lang="en" type="PT">Tuberculous pleural effusion</displayName>
+<displayName lang="en" type="FSN">Tuberculous pleural effusion (disorder)</displayName>
+</concept>
+<concept code="447006007">
+<displayName lang="en" type="PT">Relapse pulmonary tuberculosis</displayName>
+<displayName lang="en" type="FSN">Relapse pulmonary tuberculosis (disorder)</displayName>
+<displayName lang="en" type="SY">Relapse respiratory tuberculosis</displayName>
+</concept>
+<concept code="447253004">
+<displayName lang="en" type="PT">Tuberculous arachnoiditis</displayName>
+<displayName lang="en" type="FSN">Tuberculous arachnoiditis (disorder)</displayName>
+</concept>
+<concept code="447262002">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis due to Human poliovirus 2</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis due to Human poliovirus 2 (disorder)</displayName>
+</concept>
+<concept code="447330002">
+<displayName lang="en" type="PT">Tuberculosis of abdomen</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of abdomen (disorder)</displayName>
+</concept>
+<concept code="447371008">
+<displayName lang="en" type="PT">Tuberculous ileitis</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of ileum (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculosis of ileum</displayName>
+</concept>
+<concept code="447378002">
+<displayName lang="en" type="PT">Acute paralytic poliomyelitis due to Human poliovirus 3</displayName>
+<displayName lang="en" type="FSN">Acute paralytic poliomyelitis due to Human poliovirus 3 (disorder)</displayName>
+</concept>
+<concept code="447399004">
+<displayName lang="en" type="PT">Tuberculous abscess of neck</displayName>
+<displayName lang="en" type="FSN">Tuberculous abscess of neck (disorder)</displayName>
+</concept>
+<concept code="448421008">
+<displayName lang="en" type="PT">Sepsis due to Streptococcus pneumoniae</displayName>
+<displayName lang="en" type="FSN">Sepsis due to Streptococcus pneumoniae (disorder)</displayName>
+</concept>
+<concept code="448482003">
+<displayName lang="en" type="PT">Sepsis due to Bacillus anthracis</displayName>
+<displayName lang="en" type="FSN">Sepsis due to Bacillus anthracis (disorder)</displayName>
+<displayName lang="en" type="SY">Anthrax sepsis</displayName>
+</concept>
+<concept code="449504009">
+<displayName lang="en" type="PT">Sepsis due to Streptococcus pyogenes</displayName>
+<displayName lang="en" type="FSN">Sepsis due to Streptococcus pyogenes (disorder)</displayName>
+<displayName lang="en" type="SY">Sepsis due to Streptococcus group A</displayName>
+</concept>
+<concept code="449900006">
+<displayName lang="en-GB" type="PT">Streptococcal necrotising fasciitis</displayName>
+<displayName lang="en" type="FSN">Necrotizing fasciitis due to Streptococcus pyogenes (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Necrotising fasciitis due to Streptococcus pyogenes</displayName>
+<displayName lang="en" type="SY">Streptococcal gangrene</displayName>
+<displayName lang="en-GB" type="SY">Type II necrotising fasciitis</displayName>
+</concept>
+<concept code="449925002">
+<displayName lang="en" type="PT">Tuberculosis of bone of upper limb</displayName>
+<displayName lang="en" type="FSN">Tuberculosis of bone of upper limb (disorder)</displayName>
+</concept>
+<concept code="460440005">
+<displayName lang="en" type="PT">Pericarditis with pericardial effusion due to Mycobacterium tuberculosis complex</displayName>
+<displayName lang="en" type="FSN">Pericarditis with pericardial effusion due to Mycobacterium tuberculosis complex (disorder)</displayName>
+<displayName lang="en" type="SY">Tuberculous pericarditis with pericardial effusion</displayName>
+</concept>
+<concept code="472822008">
+<displayName lang="en" type="PT">Far eastern spotted fever</displayName>
+<displayName lang="en" type="FSN">Far eastern spotted fever (disorder)</displayName>
+</concept>
+<concept code="473426009">
+<displayName lang="en" type="PT">Primary tuberculous complex confirmed by culture</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex confirmed by culture (disorder)</displayName>
+</concept>
+<concept code="473427000">
+<displayName lang="en" type="PT">Primary tuberculous complex confirmed histologically</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex confirmed histologically (disorder)</displayName>
+</concept>
+<concept code="473428005">
+<displayName lang="en" type="PT">Primary tuberculous complex confirmed by microscopic examination</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex confirmed by microscopic examination (disorder)</displayName>
+</concept>
+<concept code="473429002">
+<displayName lang="en" type="PT">Tuberculoma of spinal cord confirmed</displayName>
+<displayName lang="en" type="FSN">Tuberculoma of spinal cord confirmed (disorder)</displayName>
+</concept>
+<concept code="473430007">
+<displayName lang="en" type="PT">Primary tuberculous complex confirmed</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex confirmed (disorder)</displayName>
+</concept>
+<concept code="473431006">
+<displayName lang="en" type="PT">Primary tuberculous complex with bacteriological or histological examination results unknown</displayName>
+<displayName lang="en" type="FSN">Primary tuberculous complex with bacteriological or histological examination results unknown (disorder)</displayName>
+</concept>
+<concept code="609493004">
+<displayName lang="en" type="PT">Induced termination of pregnancy complicated by tetanus</displayName>
+<displayName lang="en" type="FSN">Induced termination of pregnancy complicated by tetanus (disorder)</displayName>
+<displayName lang="en" type="SY">Termination of pregnancy complicated by tetanus</displayName>
+</concept>
+<concept code="698633001">
+<displayName lang="en" type="PT">Postoperative meningitis</displayName>
+<displayName lang="en" type="FSN">Postoperative meningitis (disorder)</displayName>
+</concept>
+<concept code="698782009">
+<displayName lang="en" type="PT">Posttraumatic meningitis</displayName>
+<displayName lang="en" type="FSN">Posttraumatic meningitis (disorder)</displayName>
+<displayName lang="en" type="SY">Post-traumatic meningitis</displayName>
+</concept>
+<concept code="699619009">
+<displayName lang="en" type="PT">Plasmodium malariae gametocyte in red cell</displayName>
+<displayName lang="en" type="FSN">Plasmodium malariae gametocyte in red cell (finding)</displayName>
+</concept>
+<concept code="707149004">
+<displayName lang="en" type="PT">Mycobacterial lymphadenitis</displayName>
+<displayName lang="en" type="FSN">Mycobacterial lymphadenitis (disorder)</displayName>
+</concept>
+<concept code="707225006">
+<displayName lang="en" type="PT">Invasive meningococcal disease</displayName>
+<displayName lang="en" type="FSN">Invasive meningococcal disease (disorder)</displayName>
+<displayName lang="en" type="SY">Meningococcal disease, invasive</displayName>
+<displayName lang="en" type="SY">Meningococcal invasive disease</displayName>
+</concept>
+<concept code="710106005">
+<displayName lang="en" type="PT">Extensively drug resistant tuberculosis</displayName>
+<displayName lang="en" type="FSN">Extensively drug resistant tuberculosis (disorder)</displayName>
+</concept>
+<concept code="7111000119109">
+<displayName lang="en" type="PT">Viral hepatitis E</displayName>
+<displayName lang="en" type="FSN">Viral hepatitis type E (disorder)</displayName>
+<displayName lang="en" type="SY">Hepatitis E</displayName>
+<displayName lang="en" type="SY">Hepatitis E virus infection</displayName>
+<displayName lang="en" type="SY">Viral hepatitis type E</displayName>
+</concept>
+<concept code="128211000119102">
+<displayName lang="en-GB" type="PT">Meningoencephalitis due to free-living amoeba</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis due to free-living ameba (disorder)</displayName>
+</concept>
+<concept code="131411000119107">
+<displayName lang="en" type="PT">Meningitis caused by arbovirus infection</displayName>
+<displayName lang="en" type="FSN">Meningitis caused by arbovirus infection (disorder)</displayName>
+<displayName lang="en" type="SY">Arbovirus meningitis</displayName>
+</concept>
+<concept code="239971000000104">
+<displayName lang="en" type="PT">Measles virus exanthem</displayName>
+<displayName lang="en" type="FSN">Measles virus exanthem (disorder)</displayName>
+</concept>
+<concept code="821491000000101">
+<displayName lang="en" type="PT">Infectious haemorrhagic diarrhoea</displayName>
+<displayName lang="en" type="FSN">Infectious haemorrhagic diarrhoea (disorder)</displayName>
+<displayName lang="en" type="SY">Infectious bloody diarrhoea</displayName>
+</concept>
+<concept code="822021000000103">
+<displayName lang="en" type="PT">Acute encephalitis</displayName>
+<displayName lang="en" type="FSN">Acute encephalitis (disorder)</displayName>
+</concept>
+<concept code="822031000000101">
+<displayName lang="en" type="PT">Acute meningitis</displayName>
+<displayName lang="en" type="FSN">Acute meningitis (disorder)</displayName>
+</concept>
+<concept code="822041000000105">
+<displayName lang="en" type="PT">Acute viral meningitis</displayName>
+<displayName lang="en" type="FSN">Acute viral meningitis (disorder)</displayName>
+</concept>
+<concept code="822071000000104">
+<displayName lang="en" type="PT">Acute infectious hepatitis</displayName>
+<displayName lang="en" type="FSN">Acute infectious hepatitis (disorder)</displayName>
+</concept>
+<concept code="963741000000101">
+<displayName lang="en" type="PT">Bacterial meningoencephalomyelitis</displayName>
+<displayName lang="en" type="FSN">Bacterial meningoencephalomyelitis (disorder)</displayName>
+</concept>
+<concept code="1085361000119104">
+<displayName lang="en" type="PT">Meningitis due to Cytomegaloviral Mononucleosis</displayName>
+<displayName lang="en" type="FSN">Meningitis due to Cytomegaloviral Mononucleosis (disorder)</displayName>
+</concept>
+<concept code="1086061000119109">
+<displayName lang="en" type="PT">Diphtheria radiculomyelitis</displayName>
+<displayName lang="en" type="FSN">Diphtheria radiculomyelitis (disorder)</displayName>
+</concept>
+<concept code="1086071000119103">
+<displayName lang="en" type="PT">Diphtheria tubulointerstitial nephropathy</displayName>
+<displayName lang="en" type="FSN">Diphtheria tubulointerstitial nephropathy (disorder)</displayName>
+</concept>
+<concept code="1089781000119109">
+<displayName lang="en" type="PT">Meningitis due to Chagas disease</displayName>
+<displayName lang="en" type="FSN">Meningitis due to Chagas disease (disorder)</displayName>
+</concept>
+<concept code="1089791000119107">
+<displayName lang="en" type="PT">Meningitis due to infectious mononucleosis</displayName>
+<displayName lang="en" type="FSN">Meningitis due to infectious mononucleosis (disorder)</displayName>
+</concept>
+<concept code="1089801000119108">
+<displayName lang="en" type="PT">Meningococcal retrobulbar neuritis</displayName>
+<displayName lang="en" type="FSN">Meningococcal retrobulbar neuritis (disorder)</displayName>
+</concept>
+<concept code="1089811000119106">
+<displayName lang="en" type="PT">Meningoencephalitis due to Acanthamoeba</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis due to Acanthamoeba (disorder)</displayName>
+</concept>
+<concept code="1089821000119104">
+<displayName lang="en" type="PT">Meningoencephalitis due to Chagas disease</displayName>
+<displayName lang="en" type="FSN">Meningoencephalitis due to Chagas disease (disorder)</displayName>
+</concept>
+<concept code="1092351000119107">
+<displayName lang="en" type="PT">Rubella meningitis</displayName>
+<displayName lang="en" type="FSN">Rubella meningitis (disorder)</displayName>
+</concept>
+<concept code="1092361000119109">
+<displayName lang="en" type="PT">Rubella pneumonia</displayName>
+<displayName lang="en" type="FSN">Rubella pneumonia (disorder)</displayName>
+</concept>
+</vocabulary>

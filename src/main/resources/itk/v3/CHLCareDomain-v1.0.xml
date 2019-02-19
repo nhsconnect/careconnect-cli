@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHLCareDomain" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.276">
+   <Description>
+            <p>This vocab consists of the NHS Continuing Healthcare checklist care domains.</p>
+         </Description>
+   <concept code="CHRBEH">
+      <displayName>Behaviour</displayName>
+   </concept>
+   <concept code="CHRCOG">
+      <displayName>Cognition</displayName>
+   </concept>
+   <concept code="CHRPSY">
+      <displayName>Psychological/Emotional</displayName>
+   </concept>
+   <concept code="CHRCOM">
+      <displayName>Communication</displayName>
+   </concept>
+   <concept code="CHRMOB">
+      <displayName>Mobility</displayName>
+   </concept>
+   <concept code="CHRNUT">
+      <displayName>Nutrition</displayName>
+   </concept>
+   <concept code="CHRCON">
+      <displayName>Continence</displayName>
+   </concept>
+   <concept code="CHRSKI">
+      <displayName>Skin integrity</displayName>
+   </concept>
+   <concept code="CHRBRE">
+      <displayName>Breathing</displayName>
+   </concept>
+   <concept code="CHRMED">
+      <displayName>Drug therapies and medication/symptom control</displayName>
+   </concept>
+   <concept code="CHRCONS">
+      <displayName>Altered states of consciousness</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Telehealth Document Type" type="Realm Concept" setId="68061000000137" version="7" id="45331000000133" refId="999000931000000107" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="491811000000109">
+<displayName lang="en" type="PT">Personal Health Monitoring Report - Action Required</displayName>
+<displayName lang="en" type="FSN">Personal Health Monitoring Report - Action Required (record artifact)</displayName>
+</concept>
+<concept code="491821000000103">
+<displayName lang="en" type="PT">Personal Health Monitoring Report - For Information Only</displayName>
+<displayName lang="en" type="FSN">Personal Health Monitoring Report - For Information Only (record artifact)</displayName>
+</concept>
+<concept code="491831000000101">
+<displayName lang="en" type="PT">Personal Health Monitoring Report - Routine Scheduled</displayName>
+<displayName lang="en" type="FSN">Personal Health Monitoring Report - Routine Scheduled (record artifact)</displayName>
+</concept>
+</vocabulary>

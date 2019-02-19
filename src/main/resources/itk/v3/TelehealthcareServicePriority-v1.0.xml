@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthcareServicePriority" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.491">
+   <Description>
+            <p>
+               <p/>
+               <p> A vocabulary to describe the perceived sender system prioritisation of a telehealthcare service order.  </p>
+               <p> Prioritisation   should be in ascending order whereby a code of '1' should be applied to the lowest priority service order, whereas a  code of '10'   should be applied to the highest priority service order. </p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="1">
+      <displayName>Service Priority 1</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Service Priority 2</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Service Priority 3</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Service Priority 4</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Service Priority 5</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Service Priority 6</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Service Priority 7</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Service Priority 8</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Service Priority 9</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Service Priority 10</displayName>
+   </concept>
+</vocabulary>

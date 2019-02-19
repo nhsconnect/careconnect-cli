@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EthnicCategory" version="3.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.16.6">
+   <Description>
+            <p>Default Scheme : NHS Data Dictionary <i>EthnicCategory</i>
+            </p>
+            <p>The <i>Ethnic category</i> which the patient regards as their own</p>
+            <p>This list taken from <b>Dataset Control Notice 02/2001</b>
+            </p>
+         </Description>
+   <concept code="A">
+      <displayName>British, Mixed British</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Irish</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Any other White background</displayName>
+   </concept>
+   <concept code="C2">
+      <displayName>Northern Irish</displayName>
+   </concept>
+   <concept code="C3">
+      <displayName>Other white, white unspecified</displayName>
+   </concept>
+   <concept code="CA">
+      <displayName>English</displayName>
+   </concept>
+   <concept code="CB">
+      <displayName>Scottish</displayName>
+   </concept>
+   <concept code="CC">
+      <displayName>Welsh</displayName>
+   </concept>
+   <concept code="CD">
+      <displayName>Cornish</displayName>
+   </concept>
+   <concept code="CE">
+      <displayName>Cypriot (part not stated)</displayName>
+   </concept>
+   <concept code="CF">
+      <displayName>Greek</displayName>
+   </concept>
+   <concept code="CG">
+      <displayName>Greek Cypriot</displayName>
+   </concept>
+   <concept code="CH">
+      <displayName>Turkish</displayName>
+   </concept>
+   <concept code="CJ">
+      <displayName>Turkish Cypriot</displayName>
+   </concept>
+   <concept code="CK">
+      <displayName>Italian</displayName>
+   </concept>
+   <concept code="CL">
+      <displayName>Irish Traveller</displayName>
+   </concept>
+   <concept code="CM">
+      <displayName>Traveller</displayName>
+   </concept>
+   <concept code="CN">
+      <displayName>Gypsy/Romany</displayName>
+   </concept>
+   <concept code="CP">
+      <displayName>Polish</displayName>
+   </concept>
+   <concept code="CQ">
+      <displayName>All republics which made up the former USSR</displayName>
+   </concept>
+   <concept code="CR">
+      <displayName>Kosovan</displayName>
+   </concept>
+   <concept code="CS">
+      <displayName>Albanian</displayName>
+   </concept>
+   <concept code="CT">
+      <displayName>Bosnian</displayName>
+   </concept>
+   <concept code="CU">
+      <displayName>Croatian</displayName>
+   </concept>
+   <concept code="CV">
+      <displayName>Serbian</displayName>
+   </concept>
+   <concept code="CW">
+      <displayName>Other republics which made up the former Yugoslavia</displayName>
+   </concept>
+   <concept code="CX">
+      <displayName>Mixed white</displayName>
+   </concept>
+   <concept code="CY">
+      <displayName>Other white European, European unspecified, European mixed</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>White and Black Caribbean</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>White and Black African</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>White and Asian</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Any other mixed background</displayName>
+   </concept>
+   <concept code="GA">
+      <displayName>Black and Asian</displayName>
+   </concept>
+   <concept code="GB">
+      <displayName>Black and Chinese</displayName>
+   </concept>
+   <concept code="GC">
+      <displayName>Black and White</displayName>
+   </concept>
+   <concept code="GD">
+      <displayName>Chinese and White</displayName>
+   </concept>
+   <concept code="GE">
+      <displayName>Asian and Chinese</displayName>
+   </concept>
+   <concept code="GF">
+      <displayName>Other Mixed, Mixed Unspecified</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Indian or British Indian</displayName>
+   </concept>
+   <concept code="J">
+      <displayName>Pakistani or British Pakistani</displayName>
+   </concept>
+   <concept code="K">
+      <displayName>Bangladeshi or British Bangladeshi</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Any other Asian background</displayName>
+   </concept>
+   <concept code="LA">
+      <displayName>Mixed Asian</displayName>
+   </concept>
+   <concept code="LB">
+      <displayName>Punjabi</displayName>
+   </concept>
+   <concept code="LC">
+      <displayName>Kashmiri</displayName>
+   </concept>
+   <concept code="LD">
+      <displayName>East African Asian</displayName>
+   </concept>
+   <concept code="LE">
+      <displayName>Sri Lanka</displayName>
+   </concept>
+   <concept code="LF">
+      <displayName>Tamil</displayName>
+   </concept>
+   <concept code="LG">
+      <displayName>Sinhalese</displayName>
+   </concept>
+   <concept code="LH">
+      <displayName>British Asian</displayName>
+   </concept>
+   <concept code="LJ">
+      <displayName>Caribbean Asian</displayName>
+   </concept>
+   <concept code="LK">
+      <displayName>Other Asian, Asian unspecified</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Caribbean</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>African</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Any other Black background</displayName>
+   </concept>
+   <concept code="PA">
+      <displayName>Somali</displayName>
+   </concept>
+   <concept code="PB">
+      <displayName>Mixed Black</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Nigerian</displayName>
+   </concept>
+   <concept code="PD">
+      <displayName>Black British</displayName>
+   </concept>
+   <concept code="PE">
+      <displayName>Other Black, Black unspecified</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Chinese</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Any other ethnic group</displayName>
+   </concept>
+   <concept code="SA">
+      <displayName>Vietnamese</displayName>
+   </concept>
+   <concept code="SB">
+      <displayName>Japanese</displayName>
+   </concept>
+   <concept code="SC">
+      <displayName>Filipino</displayName>
+   </concept>
+   <concept code="SD">
+      <displayName>Malaysian</displayName>
+   </concept>
+   <concept code="SE">
+      <displayName>Any Other Group</displayName>
+   </concept>
+   <concept code="Z">
+      <displayName>Not stated</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrAgentType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.12">
+   <Description>
+            <p>Identifies the type of agent.</p>
+	           <p>Three specific purposes are supported:</p>
+	           <dl>
+		             <dt>
+			               <b>Persons</b>
+		             </dt>
+		             <dt>
+			               <b>Organizations</b>
+		             </dt>
+		             <dt>
+			               <b>Devices</b>
+		             </dt>
+	           </dl>
+         </Description>
+</vocabulary>

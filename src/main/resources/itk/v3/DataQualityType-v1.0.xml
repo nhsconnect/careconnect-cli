@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DataQualityType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.247">
+   <Description>
+            <p>A list of codes indicating a finding associated with the data quality.</p>
+         </Description>
+   <concept code="N">
+      <displayName>Not Under DQ Investigation</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Business Integration</displayName>
+   </concept>
+</vocabulary>

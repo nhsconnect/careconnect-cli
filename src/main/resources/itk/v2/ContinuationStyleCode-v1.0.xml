@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ContinuationStyleCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.398">
+   <Description>This table codes indicates whether this is a fragmented message.
+					Table type: HL7</Description>
+   <concept code="F">
+      <displayName>Fragmentation</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Interactive Continuation</displayName>
+   </concept>
+</vocabulary>

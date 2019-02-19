@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ViolenceClassification" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.214">
+   <Description>
+            <p>The type of violent behaviour associated with a violent patient.</p>
+         </Description>
+   <concept code="P">
+      <displayName>Physically Violent</displayName>
+   </concept>
+   <concept code="V">
+      <displayName>Verbally Abusive</displayName>
+   </concept>
+</vocabulary>

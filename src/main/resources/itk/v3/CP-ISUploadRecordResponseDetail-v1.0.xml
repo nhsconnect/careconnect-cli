@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISUploadRecordResponseDetail" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.482">
+   <Description>
+            <p>A set of codes to indicate low level error information about a Child Protection Information Sharing (CP-IS) service's error response to a request for the upload of a record.  This code list is externally maintained.  For the list of allowable values please consult the latest version of the Spine 2 External Interface Specification (EIS).</p>
+         </Description>
+</vocabulary>

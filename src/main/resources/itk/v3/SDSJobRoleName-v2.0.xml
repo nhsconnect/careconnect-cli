@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SDSJobRoleName" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.196">
+   <Description>
+            <p>Identifies the job role associated with the person.</p>
+            <p>This may contain any code which describes the person's job role.<br/>
+            </p>
+            <p>In the absence of a local OID, the OID for this vocabulary may be used. </p>
+            <p>It is not recommended that these codes are used for machine processing. </p>
+         </Description>
+</vocabulary>

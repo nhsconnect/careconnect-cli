@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SafeToDischargeCode" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.271">
+   <Description>
+            <span>A set of codes to determine if the patient is safe to discharge.</span>
+         </Description>
+   <concept code="STD">
+      <displayName>The patient is considered safe to discharge or safe to transfer</displayName>
+   </concept>
+   <concept code="STDNFC">
+      <displayName>The patient has been discharged and no further care planning is required</displayName>
+   </concept>
+   <concept code="STDFC">
+      <displayName>The patient has been discharged and further care planning is still needed</displayName>
+   </concept>
+</vocabulary>

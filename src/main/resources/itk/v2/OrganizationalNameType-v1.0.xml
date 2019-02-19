@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OrganizationalNameType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.204">
+   <Description>This table identifies code that represents the type of name i.e., legal name, display name.
+					Table type: User</Description>
+   <concept code="A">
+      <displayName>Alias name</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Display name</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Legal name</displayName>
+   </concept>
+   <concept code="SL">
+      <displayName>Stock exchange listing name</displayName>
+   </concept>
+</vocabulary>

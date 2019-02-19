@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RelationshipReason" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.150">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.150</p>
+            <p>Codes which indicate how the UBRN/s are related to the main referral (e.g. linked appointment, onward referral).</p>
+            <p>RelationshipReason will be an external list of values maintained by Choose and Book.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsentToShareType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.423">
+   <Description>
+            <p>First version.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Consent to share given</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Consent to share not given</displayName>
+   </concept>
+</vocabulary>

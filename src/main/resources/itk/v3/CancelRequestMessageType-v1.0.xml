@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CancelRequestMessageType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.127">
+   <Description>
+            <p>Identifies the type and version of the Cancel Request message used to replace an abstract CancelRequest placeholder within a message.</p>
+         </Description>
+   <concept code="PORX_MT135001UK32">
+      <displayName>Cancel Request Message PORX_MT135001UK32</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PsychiatricAdmissionStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.26">
+   <Description>Psychiatric Admission Status: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>No known previous Hospital Provider Spells with a Consultant Episode (Hospital Provider) within a psychiatric speciality within any Health Care Provider.</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>One or more previous Hospital Provider Spells involving a Consultant Episode (Hospital Provider) within a psychiatric specialty with this Health Care Provider.</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>One or more previous Hospital Provider Spells involving a Consultant Episode (Hospital Provider) within a psychiatric specialty with another Health Care Provider, but none with this Health Care Provider.</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable: the patient is not receiving admitted patient care under a consultant in a psychiatric specialty.</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known: the patient is receiving admitted patient care under a consultant in a psychiatric specialty, but the information is not available. This constitutes a validation error</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OutcomeOfOfferOfAdmission" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.23">
+   <Description>Outcome of offer of admission: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Patient admitted - treatment completed</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Admission cancelled by, or on behalf of, the patient</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient failed to arrive</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Patient admitted - treatment deferred</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Admission cancelled by hospital before day offered for admission</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Admission cancelled by hospital on day offered for admission</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Patient admitted - treatment commenced</displayName>
+   </concept>
+</vocabulary>

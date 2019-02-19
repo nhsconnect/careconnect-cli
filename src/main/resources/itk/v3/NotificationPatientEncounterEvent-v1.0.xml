@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NotificationPatientEncounterEvent" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.452">
+   <Description>
+            <p>A set of codes to indicate the notification patient encounter event type.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Unscheduled Encounter</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Patient Discharged</displayName>
+   </concept>
+</vocabulary>

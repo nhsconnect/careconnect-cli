@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AcknowledgementType" version="4.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.18.11.1">
+   <Description>
+            <p>A code describing the action taken on the message by the receiving application and carried by the Acknowledgement.typeCode.</p>
+         </Description>
+   <concept code="AA">
+      <displayName>Application Acknowledgement Accept</displayName>
+   </concept>
+   <concept code="AE">
+      <displayName>Application Acknowledgement Error</displayName>
+   </concept>
+   <concept code="AR">
+      <displayName>Application Acknowledgement Reject</displayName>
+   </concept>
+</vocabulary>

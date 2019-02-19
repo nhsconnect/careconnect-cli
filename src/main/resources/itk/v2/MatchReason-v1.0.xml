@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MatchReason" version="1.0" status="created" id="2.16.840.1.113883.12.392">
+   <Description>This table contains a coded value indicating what search components (e.g., name, birth date) returned matched the query where the responding system does not assign confidence levels. Table type: User</Description>
+   <concept code="DB">
+      <displayName>Match on Date of Birth</displayName>
+   </concept>
+   <concept code="NA">
+      <displayName>Match on Name (Alpha Match)</displayName>
+   </concept>
+   <concept code="NP">
+      <displayName>Match on Name (Phonetic Match)</displayName>
+   </concept>
+   <concept code="SS">
+      <displayName>Match on Social Security Number</displayName>
+   </concept>
+</vocabulary>

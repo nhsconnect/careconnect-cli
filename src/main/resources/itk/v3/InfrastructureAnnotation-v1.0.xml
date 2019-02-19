@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="InfrastructureAnnotation" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.163">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.163</p>
+            <p>This describes the coded values used in Infrastructure messages.</p>
+         </Description>
+   <concept code="PIT">
+      <displayName>Payload Interaction</displayName>
+   </concept>
+   <concept code="RTM">
+      <displayName>Refer to Message</displayName>
+   </concept>
+</vocabulary>

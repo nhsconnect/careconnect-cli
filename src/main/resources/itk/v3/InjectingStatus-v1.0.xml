@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="InjectingStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.233">
+   <Description>
+            <p>A set of codes indicating the injecting status of the patient.</p>
+         </Description>
+   <concept code="CI">
+      <displayName>Currently Injecting</displayName>
+   </concept>
+   <concept code="PI">
+      <displayName>Previously Injected</displayName>
+   </concept>
+   <concept code="NI">
+      <displayName>Never Injected</displayName>
+   </concept>
+   <concept code="NK">
+      <displayName>Not Known</displayName>
+   </concept>
+</vocabulary>

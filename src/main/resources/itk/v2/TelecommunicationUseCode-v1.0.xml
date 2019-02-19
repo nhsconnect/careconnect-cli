@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelecommunicationUseCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.201">
+   <Description>This table contains Telecommunication use code.
+					Table type: HL7</Description>
+   <concept code="ASN">
+      <displayName>Answering Service Number</displayName>
+   </concept>
+   <concept code="BPN">
+      <displayName>Beeper Number</displayName>
+   </concept>
+   <concept code="EMR">
+      <displayName>Emergency Number</displayName>
+   </concept>
+   <concept code="NET">
+      <displayName>Network (email) Address</displayName>
+   </concept>
+   <concept code="ORN">
+      <displayName>Other Residence Number</displayName>
+   </concept>
+   <concept code="PRN">
+      <displayName>Primary Residence Number</displayName>
+   </concept>
+   <concept code="VHN">
+      <displayName>Vacation Home Number</displayName>
+   </concept>
+   <concept code="WPN">
+      <displayName>Work Number</displayName>
+   </concept>
+</vocabulary>

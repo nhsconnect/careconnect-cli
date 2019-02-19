@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="OrganizerTypeSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the <b>SnomedCT (UK)</b> OID, qv the link.</p>
+	           <p>A type of compound clinical statement, e.g. a battery of test results.</p>
+	           <p>A SnomedCT code may be accompanied by one or more SnomedCT qualifier code that is valid for the code being qualified.</p>
+         </Description>
+   <concept code="404684003">
+      <displayName>clinical finding</displayName>
+   </concept>
+   <concept code="71388002">
+      <displayName>procedure</displayName>
+   </concept>
+</vocabulary>

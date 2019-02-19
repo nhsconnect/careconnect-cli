@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DietType" version="1.0" status="created" id="2.16.840.1.113883.12.114">
+   <Description>This table indicates a special diet type for a patient.
+					Table type: User</Description>
+   <concept code="01">
+      <displayName>Non-specific</displayName>
+   </concept>
+   <concept code="02A">
+      <displayName>Healthcare Prescribed - Gluten Free Diet</displayName>
+   </concept>
+   <concept code="02B">
+      <displayName>Healthcare Prescribed - Wheat Free Diet</displayName>
+   </concept>
+   <concept code="02C">
+      <displayName>Healthcare Prescribed - Diabetic Diet</displayName>
+   </concept>
+   <concept code="02Z">
+      <displayName>Healthcare Prescribed - Other (specify)</displayName>
+   </concept>
+   <concept code="03A">
+      <displayName>Non Healthcare Prescribed - Weight loss diet</displayName>
+   </concept>
+   <concept code="03B">
+      <displayName>Non Healthcare Prescribed - Weight gain diet</displayName>
+   </concept>
+   <concept code="03C">
+      <displayName>Non Healthcare Prescribed - Vegetarian diet</displayName>
+   </concept>
+   <concept code="03D">
+      <displayName>Non Healthcare Prescribed - Vegan diet</displayName>
+   </concept>
+   <concept code="03E">
+      <displayName>Non Healthcare Prescribed - Halal Diet</displayName>
+   </concept>
+   <concept code="03F">
+      <displayName>Non Healthcare Prescribed - Kosher Diet</displayName>
+   </concept>
+   <concept code="03Z">
+      <displayName>Non Healthcare Prescribed - Other (specify)</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Other (specify)</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

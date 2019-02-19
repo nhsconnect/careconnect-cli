@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Facility" version="1.0" status="created" id="2.16.840.1.113883.12.362">
+   <Description>This table further describes the sending application.
+					Table type: User</Description>
+   <concept code="ROUTE">
+      <displayName>Default Value</displayName>
+   </concept>
+</vocabulary>

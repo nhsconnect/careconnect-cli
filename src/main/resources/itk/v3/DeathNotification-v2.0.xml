@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DeathNotification" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.5">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary <i>DeathNotification</i>
+            </p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.5</p>
+            <p>The source of a death notification relating to a patient.</p>
+         </Description>
+   <concept code="1">
+      <displayName>(Informal) death notice received via an update from a local NHS Organisation such as GP or Trust</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>(Formal) death notice received from Registrar of Deaths</displayName>
+   </concept>
+</vocabulary>

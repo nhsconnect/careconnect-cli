@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Advance decision to refuse treatment preference findings" type="Realm Concept" setId="67241000000134" version="3" id="47731000000135" refId="999002181000000105" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="816301000000100">
+<displayName lang="en" type="PT">Has advance decision to refuse treatment (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has advance decision to refuse treatment (Mental Capacity Act 2005) (finding)</displayName>
+<displayName lang="en" type="SY">Has ADRT (advance decision to refuse treatment) (Mental Capacity Act 2005)</displayName>
+</concept>
+<concept code="816321000000109">
+<displayName lang="en" type="PT">Has advance decision to refuse life sustaining treatment (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has advance decision to refuse life sustaining treatment (Mental Capacity Act 2005) (finding)</displayName>
+<displayName lang="en" type="SY">Has ADRT (advance decision to refuse treatment) for life sustaining treatment (Mental Capacity Act 2005)</displayName>
+</concept>
+<concept code="892021000000107">
+<displayName lang="en" type="PT">Has Advance Decision to Refuse Treatment (Mental Capacity Act 2005) - Refuses all blood transfusion and administration of primary blood components and minor fractions</displayName>
+<displayName lang="en" type="FSN">Has Advance Decision to Refuse Treatment (Mental Capacity Act 2005) - Refuses all blood transfusion and administration of primary blood components and minor fractions (finding)</displayName>
+<displayName lang="en" type="SY">Has ADRT (Advance Decision to Refuse Treatment) - Refuses all blood transfusion and administration of primary blood components and minor fractions</displayName>
+</concept>
+</vocabulary>

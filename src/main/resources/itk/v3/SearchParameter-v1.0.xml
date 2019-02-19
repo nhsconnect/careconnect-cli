@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SearchParameter" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.39">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.39</p>
+            <p>A code to indicate which search algorithm to use to look up patients details .</p>
+         </Description>
+   <concept code="1">
+      <displayName>Alphanumeric</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Algorithmic</displayName>
+   </concept>
+</vocabulary>

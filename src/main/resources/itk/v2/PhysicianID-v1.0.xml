@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PhysicianID" version="1.0" status="created" id="2.16.840.1.113883.12.10">
+   <Description>This contains the attending physician information.The legal name must be sent in the first sequence.  If the legal name is not sent, then a repeat delimiter must be sent in the first sequence. Table type: User</Description>
+</vocabulary>

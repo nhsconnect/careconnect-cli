@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionType" version="4.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.25">
+   <Description>
+            <p>Describes the type of prescription this is.</p>
+         </Description>
+   <concept code="0001">
+      <displayName>General Practitioner Prescribing</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Intentionally left blank</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Nurse Practitioner Prescribing</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>Hospital Prescribing</displayName>
+   </concept>
+   <concept code="0006">
+      <displayName>Dental Prescribing</displayName>
+   </concept>
+   <concept code="0007">
+      <displayName>Supplementary Prescriber Prescribing</displayName>
+   </concept>
+   <concept code="0009">
+      <displayName>General Practitioner Prescribing: Private</displayName>
+   </concept>
+   <concept code="0012">
+      <displayName>Extended Forumulary Prescriber</displayName>
+   </concept>
+</vocabulary>

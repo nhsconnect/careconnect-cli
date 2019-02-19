@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Security Abuse Discrimination" type="Realm Concept" setId="67801000000132" version="6" id="6031000000130" refId="999001601000000102" memberCount="173" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="447007">
+<displayName lang="en" type="PT">Coach in sports activity accident</displayName>
+<displayName lang="en" type="FSN">Coach in sports activity accident (finding)</displayName>
+</concept>
+<concept code="2268003">
+<displayName lang="en" type="PT">Victim of homosexual aggression</displayName>
+<displayName lang="en" type="FSN">Victim of homosexual aggression (finding)</displayName>
+</concept>
+<concept code="5380001">
+<displayName lang="en" type="PT">On ground bystander victim in aircraft accident</displayName>
+<displayName lang="en" type="FSN">On ground bystander victim in aircraft accident (finding)</displayName>
+<displayName lang="en" type="SY">Person on ground injured in air transport accident</displayName>
+</concept>
+<concept code="5754000">
+<displayName lang="en" type="PT">Victim of land warfare</displayName>
+<displayName lang="en" type="FSN">Victim of land warfare (finding)</displayName>
+</concept>
+<concept code="10298002">
+<displayName lang="en" type="PT">Victim, motorcycle rider in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Victim, motorcycle rider in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="13399007">
+<displayName lang="en" type="PT">Victim of sports activities</displayName>
+<displayName lang="en" type="FSN">Victim of sports activities (finding)</displayName>
+</concept>
+<concept code="16387008">
+<displayName lang="en" type="PT">Victim of civil warfare</displayName>
+<displayName lang="en" type="FSN">Victim of civil warfare (finding)</displayName>
+</concept>
+<concept code="17044007">
+<displayName lang="en" type="PT">Victim of statutory rape</displayName>
+<displayName lang="en" type="FSN">Victim of statutory rape (finding)</displayName>
+<displayName lang="en" type="SY">Statutory rape victim</displayName>
+</concept>
+<concept code="19717001">
+<displayName lang="en" type="PT">Victim of spacecraft accident</displayName>
+<displayName lang="en" type="FSN">Victim of spacecraft accident (finding)</displayName>
+</concept>
+<concept code="20062001">
+<displayName lang="en" type="PT">Victim of watercraft accident</displayName>
+<displayName lang="en" type="FSN">Victim of watercraft accident (finding)</displayName>
+</concept>
+<concept code="20723003">
+<displayName lang="en" type="PT">Victim of naval warfare</displayName>
+<displayName lang="en" type="FSN">Victim of naval warfare (finding)</displayName>
+</concept>
+<concept code="21107000">
+<displayName lang="en" type="PT">Passenger in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Passenger in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="25636008">
+<displayName lang="en" type="PT">Driver in watercraft accident</displayName>
+<displayName lang="en" type="FSN">Driver in watercraft accident (finding)</displayName>
+</concept>
+<concept code="25809009">
+<displayName lang="en" type="PT">Victim of trauma</displayName>
+<displayName lang="en" type="FSN">Victim of trauma (finding)</displayName>
+</concept>
+<concept code="29411000">
+<displayName lang="en" type="PT">Bystander in sports activity accident</displayName>
+<displayName lang="en" type="FSN">Bystander in sports activity accident (finding)</displayName>
+</concept>
+<concept code="31723003">
+<displayName lang="en" type="PT">Victim of military action</displayName>
+<displayName lang="en" type="FSN">Victim of military action (finding)</displayName>
+</concept>
+<concept code="32906002">
+<displayName lang="en" type="PT">Victim, pedestrian in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Victim, pedestrian in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="34515002">
+<displayName lang="en" type="PT">Victim of international warfare</displayName>
+<displayName lang="en" type="FSN">Victim of international warfare (finding)</displayName>
+</concept>
+<concept code="34552002">
+<displayName lang="en" type="PT">Victim in two vehicle accident</displayName>
+<displayName lang="en" type="FSN">Victim in two vehicle accident (finding)</displayName>
+</concept>
+<concept code="36198007">
+<displayName lang="en" type="PT">Victim of vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Victim of vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="41852005">
+<displayName lang="en" type="PT">Pilot in aircraft accident</displayName>
+<displayName lang="en" type="FSN">Pilot in aircraft accident (finding)</displayName>
+</concept>
+<concept code="42085001">
+<displayName lang="en" type="PT">Victim of rape</displayName>
+<displayName lang="en" type="FSN">Victim of rape (finding)</displayName>
+<displayName lang="en" type="SY">Rape victim</displayName>
+</concept>
+<concept code="42293008">
+<displayName lang="en" type="PT">Victim of international action</displayName>
+<displayName lang="en" type="FSN">Victim of international action (finding)</displayName>
+</concept>
+<concept code="43517000">
+<displayName lang="en" type="PT">Water-skier in watercraft accident</displayName>
+<displayName lang="en" type="FSN">Water-skier in watercraft accident (finding)</displayName>
+</concept>
+<concept code="44552000">
+<displayName lang="en" type="PT">Victim of aerial warfare</displayName>
+<displayName lang="en" type="FSN">Victim of aerial warfare (finding)</displayName>
+</concept>
+<concept code="47183003">
+<displayName lang="en" type="PT">Passenger in aircraft accident</displayName>
+<displayName lang="en" type="FSN">Passenger in aircraft accident (finding)</displayName>
+</concept>
+<concept code="47397001">
+<displayName lang="en" type="PT">Victim, cyclist in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Victim, cyclist in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="48084008">
+<displayName lang="en" type="PT">Driver in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Driver in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="48585003">
+<displayName lang="en" type="PT">Bystander in watercraft accident</displayName>
+<displayName lang="en" type="FSN">Bystander in watercraft accident (finding)</displayName>
+</concept>
+<concept code="52923004">
+<displayName lang="en" type="PT">Steward in aircraft accident</displayName>
+<displayName lang="en" type="FSN">Steward in aircraft accident (finding)</displayName>
+</concept>
+<concept code="54516009">
+<displayName lang="en" type="PT">Passenger in watercraft accident</displayName>
+<displayName lang="en" type="FSN">Passenger in watercraft accident (finding)</displayName>
+</concept>
+<concept code="55062001">
+<displayName lang="en" type="PT">Front seat passenger in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Front seat passenger in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="56856004">
+<displayName lang="en" type="PT">Victim of civil disturbance</displayName>
+<displayName lang="en" type="FSN">Victim of civil disturbance (finding)</displayName>
+</concept>
+<concept code="56890008">
+<displayName lang="en" type="PT">Victim of sexual aggression</displayName>
+<displayName lang="en" type="FSN">Victim of sexual aggression (finding)</displayName>
+<displayName lang="en" type="SY">Sexual assault victim</displayName>
+</concept>
+<concept code="59783007">
+<displayName lang="en" type="PT">Crewmember in aircraft accident</displayName>
+<displayName lang="en" type="FSN">Crewmember in aircraft accident (finding)</displayName>
+</concept>
+<concept code="63721001">
+<displayName lang="en" type="PT">Victim of armed conflict</displayName>
+<displayName lang="en" type="FSN">Victim of armed conflict (finding)</displayName>
+</concept>
+<concept code="65367001">
+<displayName lang="en" type="PT">Victim status</displayName>
+<displayName lang="en" type="FSN">Victim status (finding)</displayName>
+</concept>
+<concept code="66190008">
+<displayName lang="en" type="PT">Victim of trauma with multiple injuries</displayName>
+<displayName lang="en" type="FSN">Victim of trauma with multiple injuries (finding)</displayName>
+</concept>
+<concept code="69290001">
+<displayName lang="en" type="PT">Rear seat passenger in vehicular AND/OR traffic accident</displayName>
+<displayName lang="en" type="FSN">Rear seat passenger in vehicular AND/OR traffic accident (finding)</displayName>
+</concept>
+<concept code="74715005">
+<displayName lang="en" type="PT">Battered woman syndrome</displayName>
+<displayName lang="en" type="FSN">Battered woman syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Woman abuse</displayName>
+<displayName lang="en" type="SY">Woman maltreatment</displayName>
+</concept>
+<concept code="75558003">
+<displayName lang="en" type="PT">Victim in more than two vehicle accident</displayName>
+<displayName lang="en" type="FSN">Victim in more than two vehicle accident (finding)</displayName>
+<displayName lang="en" type="SY">Multiple vehicle crash victim</displayName>
+</concept>
+<concept code="78077007">
+<displayName lang="en" type="PT">Battered spouse syndrome</displayName>
+<displayName lang="en" type="FSN">Battered spouse syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Spousal abuse</displayName>
+<displayName lang="en" type="SY">Spouse abuse</displayName>
+</concept>
+<concept code="80520008">
+<displayName lang="en" type="PT">Victim of trampling</displayName>
+<displayName lang="en" type="FSN">Victim of trampling (finding)</displayName>
+</concept>
+<concept code="83178006">
+<displayName lang="en" type="PT">Victim of guerrilla warfare</displayName>
+<displayName lang="en" type="FSN">Victim of guerrilla warfare (finding)</displayName>
+</concept>
+<concept code="84574007">
+<displayName lang="en" type="PT">Victim of civil insurrection</displayName>
+<displayName lang="en" type="FSN">Victim of civil insurrection (finding)</displayName>
+</concept>
+<concept code="84682001">
+<displayName lang="en" type="PT">Victim of aircraft accident</displayName>
+<displayName lang="en" type="FSN">Victim of aircraft accident (finding)</displayName>
+</concept>
+<concept code="85567005">
+<displayName lang="en" type="PT">Player in sports activity accident</displayName>
+<displayName lang="en" type="FSN">Player in sports activity accident (finding)</displayName>
+<displayName lang="en" type="SY">Participant in sports activity accident</displayName>
+</concept>
+<concept code="89485005">
+<displayName lang="en" type="PT">Victim of peacekeeping action</displayName>
+<displayName lang="en" type="FSN">Victim of peacekeeping action (finding)</displayName>
+</concept>
+<concept code="90774003">
+<displayName lang="en" type="PT">Victim of physical assault</displayName>
+<displayName lang="en" type="FSN">Victim of physical assault (finding)</displayName>
+</concept>
+<concept code="95316006">
+<displayName lang="en" type="PT">Victim of kidnapping</displayName>
+<displayName lang="en" type="FSN">Victim of kidnapping (finding)</displayName>
+</concept>
+<concept code="95317002">
+<displayName lang="en" type="PT">Victim of terrorism</displayName>
+<displayName lang="en" type="FSN">Victim of terrorism (finding)</displayName>
+</concept>
+<concept code="95318007">
+<displayName lang="en" type="PT">Victim of torture</displayName>
+<displayName lang="en" type="FSN">Victim of torture (finding)</displayName>
+</concept>
+<concept code="95923004">
+<displayName lang="en" type="PT">Victim of psychological trauma</displayName>
+<displayName lang="en" type="FSN">Victim of psychological trauma (finding)</displayName>
+<displayName lang="en" type="SY">Victim of psychological assault</displayName>
+</concept>
+<concept code="95924005">
+<displayName lang="en" type="PT">Victim of mental abuse</displayName>
+<displayName lang="en" type="FSN">Victim of mental abuse (finding)</displayName>
+<displayName lang="en" type="SY">Mental abuse</displayName>
+<displayName lang="en" type="SY">Victim of mental cruelty</displayName>
+</concept>
+<concept code="95925006">
+<displayName lang="en" type="PT">Psychologically abused woman</displayName>
+<displayName lang="en" type="FSN">Psychologically abused woman (finding)</displayName>
+<displayName lang="en" type="SY">Psychologically battered woman</displayName>
+</concept>
+<concept code="95926007">
+<displayName lang="en" type="PT">Psychologically abused spouse</displayName>
+<displayName lang="en" type="FSN">Psychologically abused spouse (finding)</displayName>
+<displayName lang="en" type="SY">Psychologically battered spouse</displayName>
+</concept>
+<concept code="95927003">
+<displayName lang="en" type="PT">Psychologically abused parent</displayName>
+<displayName lang="en" type="FSN">Psychologically abused parent (finding)</displayName>
+</concept>
+<concept code="95929000">
+<displayName lang="en" type="PT">Psychologically abused elder</displayName>
+<displayName lang="en" type="FSN">Psychologically abused elder (finding)</displayName>
+<displayName lang="en" type="SY">Psychologically abused elderly person</displayName>
+</concept>
+<concept code="95930005">
+<displayName lang="en" type="PT">Victim of neglect</displayName>
+<displayName lang="en" type="FSN">Victim of neglect (finding)</displayName>
+<displayName lang="en" type="SY">Neglect</displayName>
+</concept>
+<concept code="95931009">
+<displayName lang="en" type="PT">Neglected spouse</displayName>
+<displayName lang="en" type="FSN">Neglected spouse (finding)</displayName>
+</concept>
+<concept code="95932002">
+<displayName lang="en" type="PT">Neglected parents</displayName>
+<displayName lang="en" type="FSN">Neglected parents (finding)</displayName>
+</concept>
+<concept code="95933007">
+<displayName lang="en" type="PT">Neglected elder</displayName>
+<displayName lang="en" type="FSN">Neglected elder (finding)</displayName>
+<displayName lang="en" type="SY">Neglected elderly person</displayName>
+</concept>
+<concept code="95934001">
+<displayName lang="en" type="PT">Victim of crime</displayName>
+<displayName lang="en" type="FSN">Victim of crime (finding)</displayName>
+<displayName lang="en" type="SY">Crime victim</displayName>
+</concept>
+<concept code="95935000">
+<displayName lang="en" type="PT">Victim of burglary</displayName>
+<displayName lang="en" type="FSN">Victim of burglary (finding)</displayName>
+<displayName lang="en" type="SY">Burglary victim</displayName>
+</concept>
+<concept code="102457005">
+<displayName lang="en" type="PT">Battered baby AND/OR child syndrome</displayName>
+<displayName lang="en" type="FSN">Battered baby AND/OR child syndrome (finding)</displayName>
+</concept>
+<concept code="102458000">
+<displayName lang="en" type="PT">Shaken baby syndrome</displayName>
+<displayName lang="en" type="FSN">Shaken baby syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Shaken baby</displayName>
+<displayName lang="en" type="SY">Shaken baby syndrome - non-accidental injury</displayName>
+</concept>
+<concept code="111944002">
+<displayName lang="en" type="PT">Victim of ambush</displayName>
+<displayName lang="en" type="FSN">Victim of ambush (finding)</displayName>
+</concept>
+<concept code="127348004">
+<displayName lang="en" type="PT">Motor vehicle accident victim</displayName>
+<displayName lang="en" type="FSN">Motor vehicle accident victim (finding)</displayName>
+<displayName lang="en" type="SY">MVA</displayName>
+<displayName lang="en" type="SY">Motor vehicle accident</displayName>
+</concept>
+<concept code="127349007">
+<displayName lang="en" type="PT">Motor vehicle accident, driver</displayName>
+<displayName lang="en" type="FSN">Motor vehicle accident, driver (finding)</displayName>
+</concept>
+<concept code="127350007">
+<displayName lang="en" type="PT">Motor vehicle accident, passenger</displayName>
+<displayName lang="en" type="FSN">Motor vehicle accident, passenger (finding)</displayName>
+</concept>
+<concept code="129675007">
+<displayName lang="en" type="PT">Victim in single vehicle accident</displayName>
+<displayName lang="en" type="FSN">Victim in single vehicle accident (finding)</displayName>
+</concept>
+<concept code="160800006">
+<displayName lang="en" type="PT">Battered wife - history</displayName>
+<displayName lang="en" type="FSN">Battered wife - history (finding)</displayName>
+</concept>
+<concept code="160801005">
+<displayName lang="en" type="PT">Battered husband - history</displayName>
+<displayName lang="en" type="FSN">Battered husband - history (finding)</displayName>
+</concept>
+<concept code="213012007">
+<displayName lang="en" type="PT">Battered wife</displayName>
+<displayName lang="en" type="FSN">Battered wife (finding)</displayName>
+</concept>
+<concept code="213013002">
+<displayName lang="en" type="PT">Battered husband</displayName>
+<displayName lang="en" type="FSN">Battered husband (finding)</displayName>
+</concept>
+<concept code="225818009">
+<displayName lang="en-GB" type="PT">Victim of other person&apos;s behaviour</displayName>
+<displayName lang="en" type="FSN">Victim of other person&apos;s behavior (finding)</displayName>
+</concept>
+<concept code="225819001">
+<displayName lang="en" type="PT">Victim of threats</displayName>
+<displayName lang="en" type="FSN">Victim of threats (finding)</displayName>
+</concept>
+<concept code="225820007">
+<displayName lang="en" type="PT">Victim of bullying</displayName>
+<displayName lang="en" type="FSN">Victim of bullying (finding)</displayName>
+</concept>
+<concept code="225821006">
+<displayName lang="en" type="PT">Victim of blackmail</displayName>
+<displayName lang="en" type="FSN">Victim of blackmail (finding)</displayName>
+</concept>
+<concept code="225823009">
+<displayName lang="en" type="PT">Victim of exploitation</displayName>
+<displayName lang="en" type="FSN">Victim of exploitation (finding)</displayName>
+</concept>
+<concept code="225824003">
+<displayName lang="en" type="PT">Victim of physical abuse</displayName>
+<displayName lang="en" type="FSN">Victim of physical abuse (finding)</displayName>
+</concept>
+<concept code="225825002">
+<displayName lang="en" type="PT">Victim of verbal abuse</displayName>
+<displayName lang="en" type="FSN">Victim of verbal abuse (finding)</displayName>
+</concept>
+<concept code="225826001">
+<displayName lang="en" type="PT">Victim of sexual abuse</displayName>
+<displayName lang="en" type="FSN">Victim of sexual abuse (finding)</displayName>
+</concept>
+<concept code="225827005">
+<displayName lang="en" type="PT">Victim of financial abuse</displayName>
+<displayName lang="en" type="FSN">Victim of financial abuse (finding)</displayName>
+</concept>
+<concept code="225828000">
+<displayName lang="en" type="PT">Victim of racial abuse</displayName>
+<displayName lang="en" type="FSN">Victim of racial abuse (finding)</displayName>
+</concept>
+<concept code="225830003">
+<displayName lang="en" type="PT">Victim of sexual harassment</displayName>
+<displayName lang="en" type="FSN">Victim of sexual harassment (finding)</displayName>
+</concept>
+<concept code="242973005">
+<displayName lang="en" type="PT">Witness of indecent exposure</displayName>
+<displayName lang="en" type="FSN">Witness of indecent exposure (finding)</displayName>
+</concept>
+<concept code="242974004">
+<displayName lang="en" type="PT">Recipient of obscene telephone call</displayName>
+<displayName lang="en" type="FSN">Recipient of obscene telephone call (finding)</displayName>
+</concept>
+<concept code="286192005">
+<displayName lang="en" type="PT">Able to close home securely</displayName>
+<displayName lang="en" type="FSN">Able to close home securely (finding)</displayName>
+</concept>
+<concept code="286193000">
+<displayName lang="en" type="PT">Unable to close home securely</displayName>
+<displayName lang="en" type="FSN">Unable to close home securely (finding)</displayName>
+</concept>
+<concept code="286194006">
+<displayName lang="en" type="PT">Does close home securely</displayName>
+<displayName lang="en" type="FSN">Does close home securely (finding)</displayName>
+<displayName lang="en" type="SY">Closes house securely</displayName>
+</concept>
+<concept code="286196008">
+<displayName lang="en" type="PT">Does not close home securely</displayName>
+<displayName lang="en" type="FSN">Does not close home securely (finding)</displayName>
+</concept>
+<concept code="286197004">
+<displayName lang="en" type="PT">Difficulty closing home securely</displayName>
+<displayName lang="en" type="FSN">Difficulty closing home securely (finding)</displayName>
+</concept>
+<concept code="286199001">
+<displayName lang="en" type="PT">Able to open home when secured</displayName>
+<displayName lang="en" type="FSN">Able to open home when secured (finding)</displayName>
+</concept>
+<concept code="286200003">
+<displayName lang="en" type="PT">Unable to open home when secured</displayName>
+<displayName lang="en" type="FSN">Unable to open home when secured (finding)</displayName>
+</concept>
+<concept code="286201004">
+<displayName lang="en" type="PT">Does open home when secured</displayName>
+<displayName lang="en" type="FSN">Does open home when secured (finding)</displayName>
+<displayName lang="en" type="SY">Opens house when secured</displayName>
+</concept>
+<concept code="286202006">
+<displayName lang="en" type="PT">Does not open home when secured</displayName>
+<displayName lang="en" type="FSN">Does not open home when secured (finding)</displayName>
+</concept>
+<concept code="286203001">
+<displayName lang="en" type="PT">Difficulty opening home when secured</displayName>
+<displayName lang="en" type="FSN">Difficulty opening home when secured (finding)</displayName>
+</concept>
+<concept code="363652006">
+<displayName lang="en" type="PT">Victim of bio-terrorism</displayName>
+<displayName lang="en" type="FSN">Victim of bio-terrorism (finding)</displayName>
+</concept>
+<concept code="386702006">
+<displayName lang="en" type="PT">Victim of abuse</displayName>
+<displayName lang="en" type="FSN">Victim of abuse (finding)</displayName>
+<displayName lang="en" type="SY">Abuse</displayName>
+<displayName lang="en" type="SY">Abused person</displayName>
+<displayName lang="en" type="SY">Battered person syndrome</displayName>
+</concept>
+<concept code="397660003">
+<displayName lang="en" type="PT">Child deprivation syndrome</displayName>
+<displayName lang="en" type="FSN">Child deprivation syndrome (finding)</displayName>
+</concept>
+<concept code="397864009">
+<displayName lang="en" type="PT">Battered baby</displayName>
+<displayName lang="en" type="FSN">Battered baby (finding)</displayName>
+</concept>
+<concept code="397940009">
+<displayName lang="en" type="PT">Victim of child abuse</displayName>
+<displayName lang="en" type="FSN">Victim of child abuse (finding)</displayName>
+<displayName lang="en" type="SY">Child abuse</displayName>
+</concept>
+<concept code="401316003">
+<displayName lang="en" type="PT">Child affected by Munchausen&apos;s by proxy</displayName>
+<displayName lang="en" type="FSN">Child affected by Munchausen&apos;s by proxy (finding)</displayName>
+<displayName lang="en" type="SY">Child affected by Munchausen by proxy</displayName>
+<displayName lang="en" type="SY">Child affected by M&#252;nchausen by proxy</displayName>
+</concept>
+<concept code="405102006">
+<displayName lang="en" type="PT">Health belief: perceived threat</displayName>
+<displayName lang="en" type="FSN">Health belief: perceived threat (observable entity)</displayName>
+</concept>
+<concept code="406133002">
+<displayName lang="en" type="PT">High community crime rate</displayName>
+<displayName lang="en" type="FSN">High community crime rate (finding)</displayName>
+<displayName lang="en" type="SY">High crime rate</displayName>
+<displayName lang="en" type="SY">High crime rate in locality</displayName>
+</concept>
+<concept code="406137001">
+<displayName lang="en" type="PT">Adult victim of abuse</displayName>
+<displayName lang="en" type="FSN">Adult victim of abuse (finding)</displayName>
+<displayName lang="en" type="SY">Adult abuse</displayName>
+</concept>
+<concept code="413325006">
+<displayName lang="en" type="PT">Safe play area</displayName>
+<displayName lang="en" type="FSN">Safe play area (finding)</displayName>
+</concept>
+<concept code="413326007">
+<displayName lang="en" type="PT">Health belief: sometimes feels at risk of crime</displayName>
+<displayName lang="en" type="FSN">Health belief: sometimes feels at risk of crime (observable entity)</displayName>
+</concept>
+<concept code="413330005">
+<displayName lang="en" type="PT">Victim of oppression in country of origin</displayName>
+<displayName lang="en" type="FSN">Victim of oppression in country of origin (finding)</displayName>
+</concept>
+<concept code="417876002">
+<displayName lang="en" type="PT">Victim of abusive sexual relationship</displayName>
+<displayName lang="en" type="FSN">Victim of abusive sexual relationship (finding)</displayName>
+</concept>
+<concept code="418150003">
+<displayName lang="en" type="PT">Victim of abusive sexual relationship with partner</displayName>
+<displayName lang="en" type="FSN">Victim of abusive sexual relationship with partner (finding)</displayName>
+</concept>
+<concept code="419686005">
+<displayName lang="en" type="PT">Victim of infant/child neglect</displayName>
+<displayName lang="en" type="FSN">Victim of infant/child neglect (finding)</displayName>
+<displayName lang="en" type="SY">Neglected child</displayName>
+<displayName lang="en" type="SY">Victim of child neglect</displayName>
+<displayName lang="en" type="SY">Victim of maternal neglect</displayName>
+</concept>
+<concept code="419916003">
+<displayName lang="en" type="PT">Victim of emotional abuse</displayName>
+<displayName lang="en" type="FSN">Victim of emotional abuse (finding)</displayName>
+</concept>
+<concept code="419951006">
+<displayName lang="en" type="PT">Victim of abusive sexual relationship with husband</displayName>
+<displayName lang="en" type="FSN">Victim of abusive sexual relationship with husband (finding)</displayName>
+</concept>
+<concept code="420101009">
+<displayName lang="en" type="PT">Victim of environmental event</displayName>
+<displayName lang="en" type="FSN">Victim of environmental event (finding)</displayName>
+</concept>
+<concept code="420180008">
+<displayName lang="en" type="PT">Victim of abusive sexual relationship with wife</displayName>
+<displayName lang="en" type="FSN">Victim of abusive sexual relationship with wife (finding)</displayName>
+</concept>
+<concept code="422379007">
+<displayName lang="en" type="PT">Lacks emotional nurturance</displayName>
+<displayName lang="en" type="FSN">Lacks emotional nurturance (finding)</displayName>
+</concept>
+<concept code="422526001">
+<displayName lang="en" type="PT">Environment contains chemical hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains chemical hazards (finding)</displayName>
+</concept>
+<concept code="422555009">
+<displayName lang="en" type="PT">Environment with high pollution level</displayName>
+<displayName lang="en" type="FSN">Environment with high pollution level (finding)</displayName>
+</concept>
+<concept code="422566002">
+<displayName lang="en" type="PT">Inappropriately left alone</displayName>
+<displayName lang="en" type="FSN">Inappropriately left alone (finding)</displayName>
+</concept>
+<concept code="422722002">
+<displayName lang="en" type="PT">Victim of violent environment</displayName>
+<displayName lang="en" type="FSN">Victim of violent environment (finding)</displayName>
+</concept>
+<concept code="422766000">
+<displayName lang="en" type="PT">Unsafe play area</displayName>
+<displayName lang="en" type="FSN">Unsafe play area (finding)</displayName>
+</concept>
+<concept code="422857009">
+<displayName lang="en" type="PT">Environment contains physical hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains physical hazards (finding)</displayName>
+</concept>
+<concept code="422941005">
+<displayName lang="en" type="PT">Unsafe exercise area</displayName>
+<displayName lang="en" type="FSN">Unsafe exercise area (finding)</displayName>
+</concept>
+<concept code="423107007">
+<displayName lang="en" type="PT">Environment contains radiological material hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains radiological material hazards (finding)</displayName>
+</concept>
+<concept code="423217007">
+<displayName lang="en" type="PT">Delayed healthcare provision resulting in neglect</displayName>
+<displayName lang="en" type="FSN">Delayed healthcare provision resulting in neglect (finding)</displayName>
+</concept>
+<concept code="423229003">
+<displayName lang="en" type="PT">Environment contains traffic hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains traffic hazards (finding)</displayName>
+</concept>
+<concept code="423344000">
+<displayName lang="en" type="PT">Victim of harsh discipline</displayName>
+<displayName lang="en" type="FSN">Victim of harsh discipline (finding)</displayName>
+</concept>
+<concept code="423402005">
+<displayName lang="en" type="PT">Victim of consistent negative messages</displayName>
+<displayName lang="en" type="FSN">Victim of consistent negative messages (finding)</displayName>
+</concept>
+<concept code="423419007">
+<displayName lang="en" type="PT">Environment contains vehicle hazards</displayName>
+<displayName lang="en" type="FSN">Environment contains vehicle hazards (finding)</displayName>
+</concept>
+<concept code="423562005">
+<displayName lang="en" type="PT">Lacks necessary supervision</displayName>
+<displayName lang="en" type="FSN">Lacks necessary supervision (finding)</displayName>
+</concept>
+<concept code="424393004">
+<displayName lang="en" type="PT">Reports of violence in the environment</displayName>
+<displayName lang="en" type="FSN">Reports of violence in the environment (finding)</displayName>
+</concept>
+<concept code="424509006">
+<displayName lang="en" type="PT">Victim of excessive discipline</displayName>
+<displayName lang="en" type="FSN">Victim of excessive discipline (finding)</displayName>
+</concept>
+<concept code="424858003">
+<displayName lang="en" type="PT">Threats of violence in the environment</displayName>
+<displayName lang="en" type="FSN">Threats of violence in the environment (finding)</displayName>
+</concept>
+<concept code="428454002">
+<displayName lang="en" type="PT">Victim of bullying when not in school</displayName>
+<displayName lang="en" type="FSN">Victim of bullying when not in school (finding)</displayName>
+</concept>
+<concept code="439920009">
+<displayName lang="en" type="PT">Victim of robbery</displayName>
+<displayName lang="en" type="FSN">Victim of robbery (finding)</displayName>
+</concept>
+<concept code="442084003">
+<displayName lang="en" type="PT">Victim of physical violence</displayName>
+<displayName lang="en" type="FSN">Victim of physical violence (finding)</displayName>
+</concept>
+<concept code="473453008">
+<displayName lang="en" type="PT">Child victim of psychological or emotional abuse</displayName>
+<displayName lang="en" type="FSN">Child victim of psychological or emotional abuse (finding)</displayName>
+<displayName lang="en" type="SY">Child abuse, emotional or psychological</displayName>
+</concept>
+<concept code="698718001">
+<displayName lang="en" type="PT">Victim of cataclysmic earth movements caused by earthquake</displayName>
+<displayName lang="en" type="FSN">Victim of cataclysmic earth movements caused by earthquake (finding)</displayName>
+</concept>
+<concept code="698719009">
+<displayName lang="en" type="PT">Victim of tsunami</displayName>
+<displayName lang="en" type="FSN">Victim of tsunami (finding)</displayName>
+</concept>
+<concept code="698720003">
+<displayName lang="en" type="PT">Victim of effects of earthquake</displayName>
+<displayName lang="en" type="FSN">Victim of effects of earthquake (finding)</displayName>
+</concept>
+<concept code="700226009">
+<displayName lang="en" type="PT">Victim of sexual grooming</displayName>
+<displayName lang="en" type="FSN">Victim of sexual grooming (finding)</displayName>
+</concept>
+<concept code="700229002">
+<displayName lang="en" type="PT">Victim of child sexual abuse</displayName>
+<displayName lang="en" type="FSN">Victim of child sexual abuse (finding)</displayName>
+<displayName lang="en" type="SY">Victim of child molestation</displayName>
+</concept>
+<concept code="706872008">
+<displayName lang="en" type="PT">Victim of elder abuse</displayName>
+<displayName lang="en" type="FSN">Victim of elder abuse (finding)</displayName>
+</concept>
+<concept code="706893006">
+<displayName lang="en" type="PT">Victim of intimate partner abuse</displayName>
+<displayName lang="en" type="FSN">Victim of intimate partner abuse (finding)</displayName>
+</concept>
+<concept code="29231000119109">
+<displayName lang="en" type="PT">Adult victim of non-domestic sexual abuse</displayName>
+<displayName lang="en" type="FSN">Adult victim of non-domestic sexual abuse (finding)</displayName>
+</concept>
+<concept code="149141000119102">
+<displayName lang="en" type="PT">Adult victim of sexual abuse</displayName>
+<displayName lang="en" type="FSN">Adult victim of sexual abuse (finding)</displayName>
+<displayName lang="en" type="SY">Adult abuse, sexual</displayName>
+</concept>
+<concept code="205171000000107">
+<displayName lang="en-GB" type="PT">Victim of domestic violence</displayName>
+<displayName lang="en-GB" type="FSN">Victim of domestic violence (finding)</displayName>
+</concept>
+<concept code="207871000119100">
+<displayName lang="en" type="PT">Adult victim of emotional abuse</displayName>
+<displayName lang="en" type="FSN">Adult victim of emotional abuse (finding)</displayName>
+<displayName lang="en" type="SY">Adult abuse, emotional</displayName>
+</concept>
+<concept code="231421000119102">
+<displayName lang="en" type="PT">Child victim of nutritional neglect</displayName>
+<displayName lang="en" type="FSN">Child victim of nutritional neglect (finding)</displayName>
+</concept>
+<concept code="231431000119104">
+<displayName lang="en" type="PT">Adult victim of nutritional neglect</displayName>
+<displayName lang="en" type="FSN">Adult victim of nutritional neglect (finding)</displayName>
+<displayName lang="en" type="SY">Adult abuse, nutritional neglect</displayName>
+</concept>
+<concept code="237451000119100">
+<displayName lang="en" type="PT">Adult victim of physical abuse</displayName>
+<displayName lang="en" type="FSN">Adult victim of physical abuse (finding)</displayName>
+<displayName lang="en" type="SY">Adult abuse, physical</displayName>
+</concept>
+<concept code="237461000119103">
+<displayName lang="en" type="PT">Child victim of physical abuse</displayName>
+<displayName lang="en" type="FSN">Child victim of physical abuse (finding)</displayName>
+<displayName lang="en" type="SY">Child abuse, physical</displayName>
+</concept>
+<concept code="288671000119101">
+<displayName lang="en" type="PT">Adult victim of physical abuse by female partner</displayName>
+<displayName lang="en" type="FSN">Adult victim of physical abuse by female partner (finding)</displayName>
+<displayName lang="en" type="SY">Adult physical abuse by female partner</displayName>
+</concept>
+<concept code="288681000119103">
+<displayName lang="en" type="PT">Adult victim of physical abuse by male partner</displayName>
+<displayName lang="en" type="FSN">Adult victim of physical abuse by male partner (finding)</displayName>
+<displayName lang="en" type="SY">Adult physical abuse by male partner</displayName>
+</concept>
+<concept code="289431000119109">
+<displayName lang="en" type="PT">Child victim of maltreatment</displayName>
+<displayName lang="en" type="FSN">Child victim of maltreatment (finding)</displayName>
+</concept>
+<concept code="324041000000103">
+<displayName lang="en" type="PT">Adult protection investigation</displayName>
+<displayName lang="en" type="FSN">Adult protection investigation (procedure)</displayName>
+</concept>
+<concept code="324061000000102">
+<displayName lang="en" type="PT">On adult protection register</displayName>
+<displayName lang="en" type="FSN">On adult protection register (finding)</displayName>
+</concept>
+<concept code="324661000000105">
+<displayName lang="en" type="PT">Adult protection concern</displayName>
+<displayName lang="en" type="FSN">Adult protection concern (finding)</displayName>
+</concept>
+<concept code="785101000000105">
+<displayName lang="en" type="PT">Victim of sexual exploitation</displayName>
+<displayName lang="en" type="FSN">Victim of sexual exploitation (finding)</displayName>
+</concept>
+<concept code="788771000000109">
+<displayName lang="en" type="PT">Victim of sexual activity without consent</displayName>
+<displayName lang="en" type="FSN">Victim of sexual activity without consent (finding)</displayName>
+</concept>
+<concept code="809681000000105">
+<displayName lang="en" type="PT">Victim of honour based violence</displayName>
+<displayName lang="en" type="FSN">Victim of honour based violence (finding)</displayName>
+</concept>
+<concept code="813951000000109">
+<displayName lang="en" type="PT">Victim of forced marriage</displayName>
+<displayName lang="en" type="FSN">Victim of forced marriage (finding)</displayName>
+</concept>
+<concept code="863561000000103">
+<displayName lang="en" type="PT">Victim of human trafficking</displayName>
+<displayName lang="en" type="FSN">Victim of human trafficking (finding)</displayName>
+</concept>
+<concept code="879911000000102">
+<displayName lang="en" type="PT">Victim of domestic abuse</displayName>
+<displayName lang="en" type="FSN">Victim of domestic abuse (finding)</displayName>
+</concept>
+<concept code="920891000000103">
+<displayName lang="en" type="PT">Victim of child sexual exploitation</displayName>
+<displayName lang="en" type="FSN">Victim of child sexual exploitation (finding)</displayName>
+</concept>
+<concept code="10756261000119102">
+<displayName lang="en" type="PT">Physical abuse complicating childbirth</displayName>
+<displayName lang="en" type="FSN">Physical abuse complicating childbirth (finding)</displayName>
+<displayName lang="en" type="SY">Physical abuse in childbirth</displayName>
+</concept>
+<concept code="10756301000119105">
+<displayName lang="en" type="PT">Physical abuse complicating pregnancy</displayName>
+<displayName lang="en" type="FSN">Physical abuse complicating pregnancy (finding)</displayName>
+<displayName lang="en" type="SY">Physical abuse in pregnancy</displayName>
+</concept>
+<concept code="10760941000119102">
+<displayName lang="en" type="PT">Psychological abuse complicating childbirth</displayName>
+<displayName lang="en" type="FSN">Psychological abuse complicating childbirth (finding)</displayName>
+<displayName lang="en" type="SY">Psychological abuse in childbirth</displayName>
+</concept>
+<concept code="10760981000119107">
+<displayName lang="en" type="PT">Psychological abuse complicating pregnancy</displayName>
+<displayName lang="en" type="FSN">Psychological abuse complicating pregnancy (finding)</displayName>
+<displayName lang="en" type="SY">Psychological abuse in pregnancy</displayName>
+</concept>
+<concept code="10761021000119102">
+<displayName lang="en" type="PT">Sexual abuse complicating childbirth</displayName>
+<displayName lang="en" type="FSN">Sexual abuse complicating childbirth (finding)</displayName>
+<displayName lang="en" type="SY">Sexual abuse in childbirth</displayName>
+</concept>
+<concept code="10761061000119107">
+<displayName lang="en" type="PT">Sexual abuse complicating pregnancy</displayName>
+<displayName lang="en" type="FSN">Sexual abuse complicating pregnancy (finding)</displayName>
+<displayName lang="en" type="SY">Sexual abuse in pregnancy</displayName>
+</concept>
+</vocabulary>

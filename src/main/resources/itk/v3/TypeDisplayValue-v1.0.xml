@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TypeDisplayValue" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.146">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.146</p>
+            <p>A string that is displayed to users to represent the type of additional requirement</p>
+            <p>TypeDisplayValue will be an external list of values maintained by Choose and Book.</p>
+         </Description>
+</vocabulary>

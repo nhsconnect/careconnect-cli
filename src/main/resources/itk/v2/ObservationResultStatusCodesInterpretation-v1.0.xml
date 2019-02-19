@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObservationResultStatusCodesInterpretation" version="1.0"
+            status="created"
+            id="2.16.840.1.113883.12.85">
+   <Description>This table contains the observation result status. The valeu reflects the current completion status of the results for one Observation Identifier.
+					Table type: HL7</Description>
+   <concept code="C">
+      <displayName>Record coming over is a correction and thus replaces a final result</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Deletes the OBX record</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Final results; Can only be changed with a corrected result.</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Specimen in lab; results pending</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not asked; used to affirmatively document that the observation identified in the OBX was not sought when the universal service ID in OBR-4 implies that it would be sought.</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Order detail description only (no result)</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Preliminary results</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Results entered -- not verified</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Partial results</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Results status change to final without retransmitting results already sent as 'preliminary'  E.g., radiology changes status from preliminary to final</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Post original as wrong, e.g., transmitted for wrong patient</displayName>
+   </concept>
+   <concept code="X">
+      <displayName>Results cannot be obtained for this observation</displayName>
+   </concept>
+</vocabulary>

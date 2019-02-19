@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CareReviewAdministration" version="1.0" status="deprecated"
+            id="2.16.840.1.113883.2.1.3.2.4.17.239">
+   <Description>
+            <p>A set of codes indicating care review administration information.</p>
+         </Description>
+   <concept code="FR">
+      <displayName>First Review</displayName>
+   </concept>
+   <concept code="PR">
+      <displayName>Planned Review</displayName>
+   </concept>
+   <concept code="UR">
+      <displayName>Unscheduled Review</displayName>
+   </concept>
+   <concept code="DR">
+      <displayName>Discharge Review</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EncounterDispositionSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the Snomed-CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes the way in which the encounter ended.<br/>
+               </p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK <em>Encounter Disposition</em> subset with subset original id 1971000000139.   </strong>
+               </p>
+            </p>
+         </Description>
+</vocabulary>

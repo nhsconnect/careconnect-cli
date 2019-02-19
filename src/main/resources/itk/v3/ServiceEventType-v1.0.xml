@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ServiceEventType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.265">
+   <Description>
+            <p>A set of codes to describe the type of Service Event.<br/>
+            </p>
+         </Description>
+   <concept code="PHME">
+      <displayName>Personal Health Monitoring Event</displayName>
+   </concept>
+</vocabulary>

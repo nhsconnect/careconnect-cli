@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureTypeSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: that of the UK subset of <b>SnomedCT</b>, q.v.</p>
+	           <p>Any code from the UK subset of SnomedCT that describes a kind of procedure carried out on or with a person, for example an endoscopy, operation to remove the gall-bladder.</p>
+	           <p>A code from Snomed-CT (UK) may be accompanied by additional SnomedCT qualifying codes that are valid for the concept being qualified.</p>
+         </Description>
+   <concept code="71388002">
+      <displayName>procedure</displayName>
+   </concept>
+</vocabulary>

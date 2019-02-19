@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Adverse Reaction Propensity" type="Realm Concept" setId="68351000000137" version="19" id="1011000000131" refId="999000261000000107" memberCount="4" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="59037007">
+<displayName lang="en" type="PT">Drug intolerance</displayName>
+<displayName lang="en" type="FSN">Drug intolerance (disorder)</displayName>
+</concept>
+<concept code="418038007">
+<displayName lang="en" type="PT">Propensity to adverse reactions to substance</displayName>
+<displayName lang="en" type="FSN">Propensity to adverse reactions to substance (disorder)</displayName>
+</concept>
+<concept code="418471000">
+<displayName lang="en" type="PT">Propensity to adverse reactions to food</displayName>
+<displayName lang="en" type="FSN">Propensity to adverse reactions to food (disorder)</displayName>
+<displayName lang="en" type="SY">Food sensitivity</displayName>
+</concept>
+<concept code="419511003">
+<displayName lang="en" type="PT">Propensity to adverse reactions to drug</displayName>
+<displayName lang="en" type="FSN">Propensity to adverse reactions to drug (disorder)</displayName>
+<displayName lang="en" type="SY">Drug sensitivity</displayName>
+</concept>
+</vocabulary>

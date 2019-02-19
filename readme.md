@@ -1,19 +1,22 @@
-ODS Import
+#CLI Reference
+
+
+## ODS Import
 
 java -jar cc-cli.jar "upload-ods" -t http://localhost/careconnect-ri/STU3
 
 
-Validate
+## Validate
 
 javac target/cc-cli.jar validate -n /Development/QRISK-ME.json
 
+## Load examples
 
-** Docker + SQL **
+javac target/cc-cli.jar upload-examples -t http://127.0.0.1:8186/ccri-fhir/STU3 -a
 
-docker exec -it ccrisql /bin/bash
 
-psql -d careconnect -U fhirjpa
 
+# Docker Notes
 
 
 docker build . -t thorlogic/ccri-dataload

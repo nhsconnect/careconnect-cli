@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AppointmentTypeCodes" version="1.0" status="created"
+            id="2.16.840.1.113883.12.277">
+   <Description>This table contains an identifier code for the type of appointment being requested.
+					Table type: User</Description>
+   <concept code="Complete">
+      <displayName>A request to add a completed appointment, used to maintain records of completed appointments that did not appear in the schedule (e.g., STAT, walk-in, etc.)</displayName>
+   </concept>
+   <concept code="Normal">
+      <displayName>Routine schedule request type - default if not valued</displayName>
+   </concept>
+   <concept code="Tentative">
+      <displayName>A request for a tentative (e.g., penciled in) appointment</displayName>
+   </concept>
+</vocabulary>

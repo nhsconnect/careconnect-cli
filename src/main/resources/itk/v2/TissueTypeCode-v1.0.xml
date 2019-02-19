@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TissueTypeCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.417">
+   <Description>This table contain codes representing type of tissue removed from a patient during procedure.
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>No tissue expected</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Insufficient Tissue</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Not abnormal</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Abnormal-not categorized</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Mechanical abnormal</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Growth alteration</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Degeneration &amp; necrosis</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Non-acute inflammation</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Non-malignant neoplasm</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Malignant neoplasm</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Basal cell carcinoma</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Carcinoma-unspecified type</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Additional tissue required</displayName>
+   </concept>
+</vocabulary>

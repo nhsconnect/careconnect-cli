@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdmissionType" version="1.0" status="created" id="2.16.840.1.113883.12.7">
+   <Description>A set of codes which indicates the circumstances under which the subject was or will be admitted.
+					Table type: User</Description>
+   <concept code="11">
+      <displayName>Waiting list</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Booked</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Planned</displayName>
+   </concept>
+   <concept code="21">
+      <displayName>Accident and emergency or dental casualty department of the Health Care Provider</displayName>
+   </concept>
+   <concept code="22">
+      <displayName>GENERAL PRACTITIONER: after a request for immediate admission has been made direct to a Hospital Provider, i.e. not through a Bed bureau, by a GENERAL PRACTITIONER or deputy</displayName>
+   </concept>
+   <concept code="23">
+      <displayName>Bed bureau</displayName>
+   </concept>
+   <concept code="24">
+      <displayName>Consultant Clinic, of this or another Health Care Provider</displayName>
+   </concept>
+   <concept code="28">
+      <displayName>Other means</displayName>
+   </concept>
+   <concept code="31">
+      <displayName>Admitted ante-partum</displayName>
+   </concept>
+   <concept code="32">
+      <displayName>Admitted post-partum</displayName>
+   </concept>
+   <concept code="81">
+      <displayName>Transfer of any admitted PATIENT from other Hospital Provider other than in an emergency</displayName>
+   </concept>
+   <concept code="82">
+      <displayName>The birth of a baby in this Health Care Provider</displayName>
+   </concept>
+   <concept code="83">
+      <displayName>Baby born outside the Health Care Provider except when born at home as intended.</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

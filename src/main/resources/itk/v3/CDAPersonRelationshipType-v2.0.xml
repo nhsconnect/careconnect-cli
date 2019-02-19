@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAPersonRelationshipType" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.16.45">
+   <Description>
+            <p>A relationship between one person and another. These relationships are not necessarily mutually exclusive, for example a parent may be a child's next of kin.</p> 	
+            <p>Includes the set of values defined in e-GIF Person Relationship Type</p>
+         </Description>
+   <concept code="01">
+      <displayName>Spouse</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Partner</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Parent</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Next of kin</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Guardian</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Foster parent</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Step parent</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Polygamous partner</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Child</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Dependant</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Non-dependant</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Mother</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Father</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Sister</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Brother</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Relative</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Proxy - Contact</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Proxy - Communication</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Proxy -- Contact and Communication</displayName>
+   </concept>
+   <concept code="20">
+      <displayName>Carer</displayName>
+   </concept>
+   <concept code="21">
+      <displayName>Self</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not Known</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not specified</displayName>
+   </concept>
+   <concept code="22">
+      <displayName>Wife</displayName>
+   </concept>
+   <concept code="23">
+      <displayName>Husband</displayName>
+   </concept>
+   <concept code="24">
+      <displayName>Maternal Grand-Father</displayName>
+   </concept>
+   <concept code="25">
+      <displayName>Maternal Grand-Mother</displayName>
+   </concept>
+   <concept code="26">
+      <displayName>Paternal Grand-Father</displayName>
+   </concept>
+   <concept code="27">
+      <displayName>Paternal Grand-Mother</displayName>
+   </concept>
+   <concept code="28">
+      <displayName>Grand-Son</displayName>
+   </concept>
+   <concept code="29">
+      <displayName>Grand-Daughter</displayName>
+   </concept>
+   <concept code="30">
+      <displayName>Aunt</displayName>
+   </concept>
+   <concept code="31">
+      <displayName>Uncle</displayName>
+   </concept>
+   <concept code="32">
+      <displayName>Niece</displayName>
+   </concept>
+   <concept code="33">
+      <displayName>Nephew</displayName>
+   </concept>
+   <concept code="34">
+      <displayName>Step-Mother</displayName>
+   </concept>
+   <concept code="35">
+      <displayName>Step-Father</displayName>
+   </concept>
+   <concept code="36">
+      <displayName>Step-Son</displayName>
+   </concept>
+   <concept code="37">
+      <displayName>Step-Daughter</displayName>
+   </concept>
+   <concept code="38">
+      <displayName>Civil Partner</displayName>
+   </concept>
+   <concept code="39">
+      <displayName>Ex-Wife</displayName>
+   </concept>
+   <concept code="40">
+      <displayName>Ex-Husband</displayName>
+   </concept>
+   <concept code="41">
+      <displayName>Ex-Civil Partner</displayName>
+   </concept>
+   <concept code="42">
+      <displayName>Son</displayName>
+   </concept>
+   <concept code="43">
+      <displayName>Daughter </displayName>
+   </concept>
+   <concept code="44">
+      <displayName>Grandparent</displayName>
+   </concept>
+   <concept code="45">
+      <displayName>Grandchild</displayName>
+   </concept>
+   <concept code="46">
+      <displayName>Friend</displayName>
+   </concept>
+   <concept code="47">
+      <displayName>Neighbour</displayName>
+   </concept>
+   <concept code="48">
+      <displayName>Work Colleague</displayName>
+   </concept>
+   <concept code="49">
+      <displayName>Person with Parental Responsibility</displayName>
+   </concept>
+   <concept code="50">
+      <displayName>Informal Partner</displayName>
+   </concept>
+   <concept code="51">
+      <displayName>Non-relative lived with for at least 5 years</displayName>
+   </concept>
+</vocabulary>

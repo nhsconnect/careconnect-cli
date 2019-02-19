@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CancellationResponseReason" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.19">
+   <Description>
+            <p>Describes possible responses to a cancellation request.      <p>The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears.</p>
+            </p>
+         </Description>
+</vocabulary>

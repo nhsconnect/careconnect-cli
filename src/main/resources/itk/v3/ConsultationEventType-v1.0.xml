@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsultationEventType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.300">
+   <Description>
+            <p>To indicate the type of event applying to the consultation encounter of Out of Hours and NHS Direct domains.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Patient Given Telephone Advice Out of Hours</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient Given Telephone Advice During Surgery Hours</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Seen in Primary care centre</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Seen in Own Home</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Seen in GP's Surgery</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Seen in Emergency Clinic</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Seen in Health Centre</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Seen in Other Clinic</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Seen in warden supported House</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Seen in warden supported Home</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Seen in warden supported flat</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Seen in elderly mentally infirm home</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Seen in old people's home</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Seen in nursing home</displayName>
+   </concept>
+</vocabulary>

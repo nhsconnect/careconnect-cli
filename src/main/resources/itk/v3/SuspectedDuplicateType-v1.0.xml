@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SuspectedDuplicateType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.245">
+   <Description>
+            <p>A list of codes to describe the type of suspected duplicate.<br/>
+            </p>
+         </Description>
+   <concept code="1">
+      <displayName>Duplicate (Identified Manually)</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ResponseModality" version="1.0" status="created"
+            id="2.16.840.1.113883.12.394">
+   <Description>This table specifies the timing and grouping of the response message(s).
+					Table type: HL7</Description>
+   <concept code="B">
+      <displayName>Batch</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Real Time</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Bolus (a series of responses sent at the same time without use of batch formatting)</displayName>
+   </concept>
+</vocabulary>

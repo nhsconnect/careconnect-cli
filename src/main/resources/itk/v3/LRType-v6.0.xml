@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LRType" version="6.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.11">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary TBA</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.11</p>
+            <p>A code indicating the type of Legitimate Relationship. This list has been renamed from LRReasonCode in v1.0.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Subject Access Request</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Responding to Patient Complaint</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Granted to Colleague by User</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Express consent</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Court Order</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Referral</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Patient Registration</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Self Claimed Relationship</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Patient Self-referral</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>General Practice Registration</displayName>
+   </concept>
+</vocabulary>

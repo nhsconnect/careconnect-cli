@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrActState" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.1.5.14.11.1">
+   <Description>
+            <p>Indicates whether a component or statement (represented by an Act) in the record is currently valid, deleted or replaced. Applies to any component in the patient record.</p>
+         </Description>
+   <concept code="ZZCOMPLETE">
+      <displayName>Currently valid</displayName>
+   </concept>
+   <concept code="ZZNULLIFIED">
+      <displayName>No longer valid and not replaced (i.e. marked as deleted)</displayName>
+   </concept>
+   <concept code="ZZOBSOLETE">
+      <displayName>Replaced or superseded by a corrected or more up to date statement</displayName>
+   </concept>
+   <concept code="completed">
+      <displayName>Currently valid</displayName>
+   </concept>
+   <concept code="nullified">
+      <displayName>No longer valid and not replaced (i.e. marked as deleted)</displayName>
+   </concept>
+   <concept code="obsolete">
+      <displayName>Replaced or superseded by a corrected or more up to date statement</displayName>
+   </concept>
+</vocabulary>

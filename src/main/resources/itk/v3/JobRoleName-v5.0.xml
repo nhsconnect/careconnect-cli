@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="JobRoleName" version="5.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.124">
+   <Description>
+            <p>
+               <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.124</p>
+               <p>Identifies the job role associated with the person where the information is not known to SDS.</p>
+               <p>This may contain any code which describes the person's job role.<br/>
+               </p>
+            </p>
+         </Description>
+   <concept code="NR0010">
+      <displayName>Medical Director</displayName>
+   </concept>
+   <concept code="NR0020">
+      <displayName>Clinical Director - Medical</displayName>
+   </concept>
+   <concept code="NR0030">
+      <displayName>Professor</displayName>
+   </concept>
+   <concept code="NR0040">
+      <displayName>Senior Lecturer</displayName>
+   </concept>
+   <concept code="NR0050">
+      <displayName>Consultant</displayName>
+   </concept>
+   <concept code="NR0055">
+      <displayName>Dental surgeon acting as Hospital Consultant</displayName>
+   </concept>
+   <concept code="NR0060">
+      <displayName>Special salary scale in Public Health Medicine</displayName>
+   </concept>
+   <concept code="NR0070">
+      <displayName>Associate Specialist</displayName>
+   </concept>
+   <concept code="NR0080">
+      <displayName>Staff Grade</displayName>
+   </concept>
+   <concept code="NR0090">
+      <displayName>Hospital Practitioner</displayName>
+   </concept>
+   <concept code="NR0100">
+      <displayName>Clinical Assistant</displayName>
+   </concept>
+   <concept code="NR0110">
+      <displayName>Specialist Registrar</displayName>
+   </concept>
+   <concept code="NR0120">
+      <displayName>Senior Registrar (Closed )</displayName>
+   </concept>
+   <concept code="NR0130">
+      <displayName>Registrar (Closed)</displayName>
+   </concept>
+   <concept code="NR0140">
+      <displayName>Senior House Officer</displayName>
+   </concept>
+   <concept code="NR0150">
+      <displayName>House Officer - Pre Registration</displayName>
+   </concept>
+   <concept code="NR0160">
+      <displayName>House Officer - Post Registration</displayName>
+   </concept>
+   <concept code="NR0170">
+      <displayName>Trust Grade Doctor - House Officer level</displayName>
+   </concept>
+   <concept code="NR0180">
+      <displayName>Trust Grade Doctor - SHO level</displayName>
+   </concept>
+   <concept code="NR0190">
+      <displayName>Trust Grade Doctor - Specialist Registrar level</displayName>
+   </concept>
+   <concept code="NR0200">
+      <displayName>Trust Grade Doctor - Career Grade level</displayName>
+   </concept>
+   <concept code="NR0210">
+      <displayName>Director of Public Health</displayName>
+   </concept>
+   <concept code="NR0215">
+      <displayName>Asst. Clinical Medical Officer</displayName>
+   </concept>
+   <concept code="NR0220">
+      <displayName>Clinical Medical Officer</displayName>
+   </concept>
+   <concept code="NR0230">
+      <displayName>Senior Clinical Medical Officer</displayName>
+   </concept>
+   <concept code="NR0240">
+      <displayName>'Other' Community Health Service</displayName>
+   </concept>
+   <concept code="NR0243">
+      <displayName>Other' Community Health Service - Social Care Worker</displayName>
+   </concept>
+   <concept code="NR0247">
+      <displayName>Other' Community Health Service - Admin Clerk</displayName>
+   </concept>
+   <concept code="NR0250">
+      <displayName>General Dental Practitioner</displayName>
+   </concept>
+   <concept code="NR0260">
+      <displayName>General Medical Practitioner</displayName>
+   </concept>
+   <concept code="NR0270">
+      <displayName>Salaried General Practitioner</displayName>
+   </concept>
+   <concept code="NR0280">
+      <displayName>Regional Dental Officer</displayName>
+   </concept>
+   <concept code="NR0290">
+      <displayName>Dental Clinical Director - Dental</displayName>
+   </concept>
+   <concept code="NR0295">
+      <displayName>Dental Assistant Clinical Director</displayName>
+   </concept>
+   <concept code="NR0300">
+      <displayName>Dental Officer</displayName>
+   </concept>
+   <concept code="NR0310">
+      <displayName>Senior Dental Officer</displayName>
+   </concept>
+   <concept code="NR0320">
+      <displayName>Salaried Dental Practitioner</displayName>
+   </concept>
+   <concept code="NR0330">
+      <displayName>Student Nurse - Adult Branch</displayName>
+   </concept>
+   <concept code="NR0340">
+      <displayName>Student Nurse - Child Branch</displayName>
+   </concept>
+   <concept code="NR0350">
+      <displayName>Student Nurse - Mental Health Branch</displayName>
+   </concept>
+   <concept code="NR0360">
+      <displayName>Student Nurse - Learning Disabilities Branch</displayName>
+   </concept>
+   <concept code="NR0370">
+      <displayName>Student Midwife</displayName>
+   </concept>
+   <concept code="NR0380">
+      <displayName>Student Health Visitor</displayName>
+   </concept>
+   <concept code="NR0390">
+      <displayName>Student District Nurse</displayName>
+   </concept>
+   <concept code="NR0400">
+      <displayName>Student School Nurse</displayName>
+   </concept>
+   <concept code="NR0410">
+      <displayName>Student Practice Nurse</displayName>
+   </concept>
+   <concept code="NR0420">
+      <displayName>Student Occupational Health Nurse</displayName>
+   </concept>
+   <concept code="NR0430">
+      <displayName>Student Community Paediatric Nurse</displayName>
+   </concept>
+   <concept code="NR0440">
+      <displayName>Student Community Mental Health Nurse</displayName>
+   </concept>
+   <concept code="NR0450">
+      <displayName>Student Community Learning Disabilities Nurse</displayName>
+   </concept>
+   <concept code="NR0460">
+      <displayName>Student Chiropodist</displayName>
+   </concept>
+   <concept code="NR0470">
+      <displayName>Student Dietitian</displayName>
+   </concept>
+   <concept code="NR0480">
+      <displayName>Student Occupational Therapist</displayName>
+   </concept>
+   <concept code="NR0490">
+      <displayName>Student Orthoptist</displayName>
+   </concept>
+   <concept code="NR0500">
+      <displayName>Student Physiotherapist</displayName>
+   </concept>
+   <concept code="NR0510">
+      <displayName>Student Radiographer - Diagnostic</displayName>
+   </concept>
+   <concept code="NR0520">
+      <displayName>Student Radiographer - Therapeutic</displayName>
+   </concept>
+   <concept code="NR0530">
+      <displayName>Student Speech &amp; Language Therapist</displayName>
+   </concept>
+   <concept code="NR0540">
+      <displayName>Art, Music &amp; Drama Student</displayName>
+   </concept>
+   <concept code="NR0550">
+      <displayName>Student Psychotherapist</displayName>
+   </concept>
+   <concept code="NR0560">
+      <displayName>Director of Nursing</displayName>
+   </concept>
+   <concept code="NR0570">
+      <displayName>Nurse Consultant</displayName>
+   </concept>
+   <concept code="NR0580">
+      <displayName>Nurse Manager</displayName>
+   </concept>
+   <concept code="NR0590">
+      <displayName>Modern Matron</displayName>
+   </concept>
+   <concept code="NR0600">
+      <displayName>Specialist Nurse Practitioner</displayName>
+   </concept>
+   <concept code="NR0610">
+      <displayName>Sister/Charge Nurse</displayName>
+   </concept>
+   <concept code="NR0620">
+      <displayName>Staff Nurse</displayName>
+   </concept>
+   <concept code="NR0630">
+      <displayName>Enrolled Nurse</displayName>
+   </concept>
+   <concept code="NR0640">
+      <displayName>Midwife - Consultant</displayName>
+   </concept>
+   <concept code="NR0650">
+      <displayName>Midwife - Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0660">
+      <displayName>Midwife - Manager</displayName>
+   </concept>
+   <concept code="NR0670">
+      <displayName>Midwife - Sister/Charge Nurse</displayName>
+   </concept>
+   <concept code="NR0680">
+      <displayName>Midwife</displayName>
+   </concept>
+   <concept code="NR0690">
+      <displayName>Community Practitioner</displayName>
+   </concept>
+   <concept code="NR0700">
+      <displayName>Community Nurse</displayName>
+   </concept>
+   <concept code="NR0710">
+      <displayName>Art Therapist</displayName>
+   </concept>
+   <concept code="NR0720">
+      <displayName>Art Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0730">
+      <displayName>Art Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0740">
+      <displayName>Art Therapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0750">
+      <displayName>Chiropodist/Podiatrist</displayName>
+   </concept>
+   <concept code="NR0760">
+      <displayName>Chiropodist/Podiatrist Consultant</displayName>
+   </concept>
+   <concept code="NR0770">
+      <displayName>Chiropodist/Podiatrist Manager</displayName>
+   </concept>
+   <concept code="NR0780">
+      <displayName>Chiropodist/Podiatrist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0790">
+      <displayName>Dietitian</displayName>
+   </concept>
+   <concept code="NR0800">
+      <displayName>Dietitian Consultant</displayName>
+   </concept>
+   <concept code="NR0810">
+      <displayName>Dietitian Manager</displayName>
+   </concept>
+   <concept code="NR0820">
+      <displayName>Dietitian Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0830">
+      <displayName>Drama Therapist</displayName>
+   </concept>
+   <concept code="NR0840">
+      <displayName>Drama Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0850">
+      <displayName>Drama Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0860">
+      <displayName>Drama Therapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0870">
+      <displayName>Multi Therapist</displayName>
+   </concept>
+   <concept code="NR0880">
+      <displayName>Multi Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0890">
+      <displayName>Multi Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0900">
+      <displayName>Multi Therapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0910">
+      <displayName>Music Therapist</displayName>
+   </concept>
+   <concept code="NR0920">
+      <displayName>Music Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0930">
+      <displayName>Music Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0940">
+      <displayName>Music Therapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0950">
+      <displayName>Occupational Therapist</displayName>
+   </concept>
+   <concept code="NR0955">
+      <displayName>Speech &amp; Language Therapist</displayName>
+   </concept>
+   <concept code="NR0960">
+      <displayName>Occupational Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0965">
+      <displayName>Speech &amp; Language Therapist Consultant</displayName>
+   </concept>
+   <concept code="NR0970">
+      <displayName>Occupational Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0975">
+      <displayName>Speech &amp; Language Therapist Manager</displayName>
+   </concept>
+   <concept code="NR0980">
+      <displayName>Occupational Therapy Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0985">
+      <displayName>Speech &amp; Language Therapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR0990">
+      <displayName>Orthoptist</displayName>
+   </concept>
+   <concept code="NR1000">
+      <displayName>Orthoptist Consultant</displayName>
+   </concept>
+   <concept code="NR1010">
+      <displayName>Orthoptist Manager</displayName>
+   </concept>
+   <concept code="NR1020">
+      <displayName>Orthoptist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1030">
+      <displayName>Orthotist</displayName>
+   </concept>
+   <concept code="NR1040">
+      <displayName>Orthotist Consultant</displayName>
+   </concept>
+   <concept code="NR1050">
+      <displayName>Orthotist Manager</displayName>
+   </concept>
+   <concept code="NR1060">
+      <displayName>Orthotist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1070">
+      <displayName>Paramedic</displayName>
+   </concept>
+   <concept code="NR1080">
+      <displayName>Paramedic Consultant</displayName>
+   </concept>
+   <concept code="NR1090">
+      <displayName>Paramedic Manager</displayName>
+   </concept>
+   <concept code="NR1100">
+      <displayName>Paramedic Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1110">
+      <displayName>Physiotherapist</displayName>
+   </concept>
+   <concept code="NR1120">
+      <displayName>Physiotherapist Consultant</displayName>
+   </concept>
+   <concept code="NR1130">
+      <displayName>Physiotherapist Manager</displayName>
+   </concept>
+   <concept code="NR1140">
+      <displayName>Physiotherapist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1150">
+      <displayName>Prosthetist</displayName>
+   </concept>
+   <concept code="NR1160">
+      <displayName>Prosthetist Consultant</displayName>
+   </concept>
+   <concept code="NR1170">
+      <displayName>Prosthetist Manager</displayName>
+   </concept>
+   <concept code="NR1180">
+      <displayName>Prosthetist Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1190">
+      <displayName>Radiographer - Diagnostic</displayName>
+   </concept>
+   <concept code="NR1200">
+      <displayName>Radiographer - Diagnostic, Consultant</displayName>
+   </concept>
+   <concept code="NR1210">
+      <displayName>Radiographer - Diagnostic, Manager</displayName>
+   </concept>
+   <concept code="NR1220">
+      <displayName>Radiographer - Diagnostic, Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1230">
+      <displayName>Radiographer - Therapeutic</displayName>
+   </concept>
+   <concept code="NR1240">
+      <displayName>Radiographer - Therapeutic, Consultant</displayName>
+   </concept>
+   <concept code="NR1250">
+      <displayName>Radiographer - Therapeutic, Manager</displayName>
+   </concept>
+   <concept code="NR1260">
+      <displayName>Radiographer - Therapeutic, Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1270">
+      <displayName>Clinical Director</displayName>
+   </concept>
+   <concept code="NR1280">
+      <displayName>Optometrist</displayName>
+   </concept>
+   <concept code="NR1290">
+      <displayName>Pharmacist</displayName>
+   </concept>
+   <concept code="NR1300">
+      <displayName>Psychotherapist</displayName>
+   </concept>
+   <concept code="NR1310">
+      <displayName>Clinical Psychologist</displayName>
+   </concept>
+   <concept code="NR1320">
+      <displayName>Chaplain</displayName>
+   </concept>
+   <concept code="NR1330">
+      <displayName>Social Worker</displayName>
+   </concept>
+   <concept code="NR1340">
+      <displayName>Approved Social Worker</displayName>
+   </concept>
+   <concept code="NR1350">
+      <displayName>Youth Worker</displayName>
+   </concept>
+   <concept code="NR1360">
+      <displayName>Specialist Practitioner</displayName>
+   </concept>
+   <concept code="NR1370">
+      <displayName>Practitioner</displayName>
+   </concept>
+   <concept code="NR1380">
+      <displayName>Technician - PS&amp;T</displayName>
+   </concept>
+   <concept code="NR1390">
+      <displayName>Osteopath</displayName>
+   </concept>
+   <concept code="NR1400">
+      <displayName>Healthcare Scientist</displayName>
+   </concept>
+   <concept code="NR1410">
+      <displayName>Consultant Healthcare Scientist</displayName>
+   </concept>
+   <concept code="NR1420">
+      <displayName>Biomedical Scientist</displayName>
+   </concept>
+   <concept code="NR1430">
+      <displayName>Technician - Healthcare Scientists</displayName>
+   </concept>
+   <concept code="NR1440">
+      <displayName>Therapist</displayName>
+   </concept>
+   <concept code="NR1450">
+      <displayName>Health Care Support Worker</displayName>
+   </concept>
+   <concept code="NR1460">
+      <displayName>Social Care Support Worker</displayName>
+   </concept>
+   <concept code="NR1470">
+      <displayName>Home Help</displayName>
+   </concept>
+   <concept code="NR1480">
+      <displayName>Healthcare Assistant</displayName>
+   </concept>
+   <concept code="NR1490">
+      <displayName>Nursery Nurse</displayName>
+   </concept>
+   <concept code="NR1500">
+      <displayName>Play Therapist</displayName>
+   </concept>
+   <concept code="NR1510">
+      <displayName>Play Specialist</displayName>
+   </concept>
+   <concept code="NR1520">
+      <displayName>Technician - Add'l Clinical Services</displayName>
+   </concept>
+   <concept code="NR1530">
+      <displayName>Technical Instructor</displayName>
+   </concept>
+   <concept code="NR1540">
+      <displayName>Associate Practitioner</displayName>
+   </concept>
+   <concept code="NR1543">
+      <displayName>Associate Practitioner - Nurse</displayName>
+   </concept>
+   <concept code="NR1547">
+      <displayName>Associate Practitioner - General Practitioner</displayName>
+   </concept>
+   <concept code="NR1550">
+      <displayName>Counsellor</displayName>
+   </concept>
+   <concept code="NR1560">
+      <displayName>Helper/Assistant</displayName>
+   </concept>
+   <concept code="NR1570">
+      <displayName>Dental Surgery Assistant</displayName>
+   </concept>
+   <concept code="NR1580">
+      <displayName>Medical Laboratory Assistant</displayName>
+   </concept>
+   <concept code="NR1590">
+      <displayName>Phlebotomist</displayName>
+   </concept>
+   <concept code="NR1600">
+      <displayName>Cytoscreener</displayName>
+   </concept>
+   <concept code="NR1610">
+      <displayName>Student Technician</displayName>
+   </concept>
+   <concept code="NR1620">
+      <displayName>Trainee Scientist</displayName>
+   </concept>
+   <concept code="NR1630">
+      <displayName>Trainee Practitioner</displayName>
+   </concept>
+   <concept code="NR1640">
+      <displayName>Nursing Cadet</displayName>
+   </concept>
+   <concept code="NR1650">
+      <displayName>Healthcare Cadet</displayName>
+   </concept>
+   <concept code="NR1660">
+      <displayName>Pre-reg Pharmacist</displayName>
+   </concept>
+   <concept code="NR1670">
+      <displayName>Assistant Psychologist</displayName>
+   </concept>
+   <concept code="NR1680">
+      <displayName>Assistant Psychotherapist</displayName>
+   </concept>
+   <concept code="NR1690">
+      <displayName>Call Operator</displayName>
+   </concept>
+   <concept code="NR1700">
+      <displayName>Gateway Worker</displayName>
+   </concept>
+   <concept code="NR1710">
+      <displayName>Support, Time, Recovery Worker</displayName>
+   </concept>
+   <concept code="NR1720">
+      <displayName>Clerical Worker</displayName>
+   </concept>
+   <concept code="NR1730">
+      <displayName>Receptionist</displayName>
+   </concept>
+   <concept code="NR1740">
+      <displayName>Secretary</displayName>
+   </concept>
+   <concept code="NR1750">
+      <displayName>Personal Assistant</displayName>
+   </concept>
+   <concept code="NR1760">
+      <displayName>Medical Secretary</displayName>
+   </concept>
+   <concept code="NR1770">
+      <displayName>Officer</displayName>
+   </concept>
+   <concept code="NR1780">
+      <displayName>Manager</displayName>
+   </concept>
+   <concept code="NR1790">
+      <displayName>Senior Manager</displayName>
+   </concept>
+   <concept code="NR1800">
+      <displayName>Technician - Admin &amp; Clerical</displayName>
+   </concept>
+   <concept code="NR1810">
+      <displayName>Accountant</displayName>
+   </concept>
+   <concept code="NR1820">
+      <displayName>Librarian</displayName>
+   </concept>
+   <concept code="NR1830">
+      <displayName>Interpreter</displayName>
+   </concept>
+   <concept code="NR1840">
+      <displayName>Analyst</displayName>
+   </concept>
+   <concept code="NR1850">
+      <displayName>Adviser</displayName>
+   </concept>
+   <concept code="NR1860">
+      <displayName>Researcher</displayName>
+   </concept>
+   <concept code="NR1870">
+      <displayName>Control Assistant</displayName>
+   </concept>
+   <concept code="NR1880">
+      <displayName>Architect</displayName>
+   </concept>
+   <concept code="NR1890">
+      <displayName>Lawyer</displayName>
+   </concept>
+   <concept code="NR1900">
+      <displayName>Surveyor</displayName>
+   </concept>
+   <concept code="NR1910">
+      <displayName>Chair</displayName>
+   </concept>
+   <concept code="NR1920">
+      <displayName>Chief Executive</displayName>
+   </concept>
+   <concept code="NR1930">
+      <displayName>Finance Director</displayName>
+   </concept>
+   <concept code="NR1940">
+      <displayName>Other Executive Director</displayName>
+   </concept>
+   <concept code="NR1950">
+      <displayName>Board Level Director</displayName>
+   </concept>
+   <concept code="NR1960">
+      <displayName>Non Executive Director</displayName>
+   </concept>
+   <concept code="NR1970">
+      <displayName>Childcare Co-ordinator</displayName>
+   </concept>
+   <concept code="NR1980">
+      <displayName>Main Informal Carer</displayName>
+   </concept>
+   <concept code="NR1990">
+      <displayName>Formal Carer</displayName>
+   </concept>
+   <concept code="NR2000">
+      <displayName>Additional person to be involved in decisions</displayName>
+   </concept>
+   <concept code="NR2010">
+      <displayName>LPA with authority</displayName>
+   </concept>
+   <concept code="NR2020">
+      <displayName>Key Worker</displayName>
+   </concept>
+   <concept code="NR2030">
+      <displayName>Senior Responsible Clinician</displayName>
+   </concept>
+   <concept code="NR2040">
+      <displayName>Palliative Care Physician</displayName>
+   </concept>
+   <concept code="NR2050">
+      <displayName>Specialist Palliative Care Nurse</displayName>
+   </concept>
+   <concept code="NR2060">
+      <displayName>Discharge Coordinator</displayName>
+   </concept>
+   <concept code="NR9000">
+      <displayName>Children's Safeguarding Lead Doctor</displayName>
+   </concept>
+   <concept code="NR9010">
+      <displayName>Children's Safeguarding Lead Nurse</displayName>
+   </concept>
+   <concept code="NR9020">
+      <displayName>Children's Safeguarding Lead</displayName>
+   </concept>
+   <concept code="NR9030">
+      <displayName>Safeguarding Lead Doctor</displayName>
+   </concept>
+   <concept code="NR9040">
+      <displayName>Safeguarding Lead Nurse</displayName>
+   </concept>
+   <concept code="NR9050">
+      <displayName>Safeguarding Lead</displayName>
+   </concept>
+   <concept code="NR9060">
+      <displayName>Designated Doctor</displayName>
+   </concept>
+   <concept code="NR9070">
+      <displayName>Designated Nurse</displayName>
+   </concept>
+   <concept code="NR9080">
+      <displayName>Named Doctor</displayName>
+   </concept>
+   <concept code="NR9090">
+      <displayName>Named Midwife</displayName>
+   </concept>
+   <concept code="NR9100">
+      <displayName>Named GP</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SealEventActionCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.197">
+   <Description>
+            <p>Identifies an action relating to sealed envelopes, either a seal status change, or a change of who has permission to see sealed information.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Information has been sealed</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Information has been sealed and locked</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Information that was sealed and locked is now sealed</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Information has been unsealed</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>An additional workgroup now has access to some sealed information</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>The new GP workgroup now has access to some sealed information </displayName>
+   </concept>
+   <concept code="7">
+      <displayName>A replacement workgroup now has access to some sealed information due to organizational change</displayName>
+   </concept>
+</vocabulary>

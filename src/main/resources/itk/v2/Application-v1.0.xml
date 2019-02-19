@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Application" version="1.0" status="created" id="2.16.840.1.113883.12.361">
+   <Description>This table list uniquely identifies the sending application among all other applications within the network enterprise.
+					Table type: User</Description>
+   <concept code="ROUTE">
+      <displayName>Default Value</displayName>
+   </concept>
+</vocabulary>

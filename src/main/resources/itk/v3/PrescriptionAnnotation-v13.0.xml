@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionAnnotation" version="13.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.30">
+   <Description>
+            <p>
+               <p/>
+               <p>Describes the type of annotations and observations that may be made to a prescription either to convey incidental information for reimbursement, or to manage the business processes around prescriptions. It also includes several values which are for use in other kinds of medication statements, which may at some time in the future become a separate vocabulary.</p>
+               <p>If the value attribute of the observation is a coded data type, it too has a code set, as shown in the description field below.</p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="PS">
+      <displayName>PrescriptionStatus</displayName>
+   </concept>
+   <concept code="IS">
+      <displayName>ItemStatus</displayName>
+   </concept>
+   <concept code="NDR">
+      <displayName>NotDispensedReason</displayName>
+   </concept>
+   <concept code="DE">
+      <displayName>DispenserEndorsement</displayName>
+   </concept>
+   <concept code="PE">
+      <displayName>PrescriberEndorsement</displayName>
+   </concept>
+   <concept code="EX">
+      <displayName>PrescriptionChargeExemption</displayName>
+   </concept>
+   <concept code="SI">
+      <displayName>Supply Instructions</displayName>
+   </concept>
+   <concept code="ES">
+      <displayName>Evidence Seen</displayName>
+   </concept>
+   <concept code="RT">
+      <displayName>Running Total</displayName>
+   </concept>
+   <concept code="DI">
+      <displayName>Dose Instructions</displayName>
+   </concept>
+   <concept code="AI">
+      <displayName>Additional Instructions</displayName>
+   </concept>
+   <concept code="JU">
+      <displayName>Justification for Use</displayName>
+   </concept>
+   <concept code="RR">
+      <displayName>DispenseReturnReason</displayName>
+   </concept>
+   <concept code="RJ">
+      <displayName>ReimbursementRejectionReason</displayName>
+   </concept>
+   <concept code="PRRR">
+      <displayName>PrescriptionReleaseRejectionReason</displayName>
+   </concept>
+   <concept code="DRRR">
+      <displayName>ETPSpineRejectionReasons</displayName>
+   </concept>
+   <concept code="DNRR">
+      <displayName>ETPSpineRejectionReasons</displayName>
+   </concept>
+   <concept code="CP">
+      <displayName>Charge Paid</displayName>
+   </concept>
+   <concept code="CRR">
+      <displayName>CancellationResponseReason</displayName>
+   </concept>
+   <concept code="CR">
+      <displayName>CancellationReason</displayName>
+   </concept>
+   <concept code="PRR">
+      <displayName>ETPSPineRejectionReasons</displayName>
+   </concept>
+   <concept code="PT">
+      <displayName>Prescription Type</displayName>
+   </concept>
+   <concept code="DSP">
+      <displayName>Dispensing Site Preference</displayName>
+   </concept>
+   <concept code="PTT">
+      <displayName>Prescription Treatment Type</displayName>
+   </concept>
+   <concept code="RD">
+      <displayName>Review Date</displayName>
+   </concept>
+   <concept code="PPRR">
+      <displayName>Parent Prescription Rejection Reason</displayName>
+   </concept>
+   <concept code="PSD">
+      <displayName>Protocol Condition</displayName>
+   </concept>
+   <concept code="AD">
+      <displayName>Medication administration Instructions</displayName>
+   </concept>
+   <concept code="AT">
+      <displayName>Medication administration type</displayName>
+   </concept>
+   <concept code="WTD">
+      <displayName>When to discontinue a medication administration</displayName>
+   </concept>
+   <concept code="RPI">
+      <displayName>Repeat Prescription Instance</displayName>
+   </concept>
+   <concept code="PWT">
+      <displayName>PrescriptionWithdrawType</displayName>
+   </concept>
+   <concept code="PWR">
+      <displayName>PrescriptionWithdrawReason</displayName>
+   </concept>
+   <concept code="TI">
+      <displayName>Token Issued</displayName>
+   </concept>
+   <concept code="PID">
+      <displayName>Prescription Identifier</displayName>
+   </concept>
+   <concept code="RPL">
+      <displayName>Replacement Information</displayName>
+   </concept>
+   <concept code="PRID">
+      <displayName>Previous Issue Identifier</displayName>
+   </concept>
+   <concept code="PRDT">
+      <displayName>Previous Issue Date</displayName>
+   </concept>
+   <concept code="WID">
+      <displayName>Withdraw Statement Identifier</displayName>
+   </concept>
+   <concept code="IDT">
+      <displayName>Issue Date</displayName>
+   </concept>
+   <concept code="LADT">
+      <displayName>Last Activity Date</displayName>
+   </concept>
+   <concept code="CAP">
+      <displayName>Cancellation Pending</displayName>
+   </concept>
+   <concept code="WT">
+      <displayName>PrescriptionWithdrawType</displayName>
+   </concept>
+   <concept code="WR">
+      <displayName>PrescriptionWithdrawReason</displayName>
+   </concept>
+   <concept code="PSI">
+      <displayName>Prescription Supporting Information</displayName>
+   </concept>
+   <concept code="ASF">
+      <displayName>Acute Script Flag</displayName>
+   </concept>
+   <concept code="CDS">
+      <displayName>Controlled Drug Status</displayName>
+   </concept>
+   <concept code="IND">
+      <displayName>Indication</displayName>
+   </concept>
+   <concept code="BI">
+      <displayName>Batch information</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EventTypeSnCT" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A code from SNOMED CT that describes the message content and is used as the display header for a message when displayed in a clinical system.</p>
+	           <p>The codes for Pathology are TBA. </p>
+         </Description>
+   <concept code="196971000000103">
+      <displayName>Initial GP Summary - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="196981000000101">
+      <displayName>GP Summary - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163571000000101">
+      <displayName>Diagnostic Imaging Encounter - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163661000000107">
+      <displayName>Diagnostic Imaging Procedure Report - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163651000000109">
+      <displayName>Diagnostic Imaging Report Header - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163581000000104">
+      <displayName>Diagnostic Imaging Report - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163671000000100">
+      <displayName>Diagnostic Imaging Summary Report - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163561000000108">
+      <displayName>Diagnostic Imaging Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="185291000000100">
+      <displayName>Emergency Department - FocusActOrEvent Code (administrative concept)</displayName>
+   </concept>
+   <concept code="185301000000101">
+      <displayName>Minor Injuries Department Event - FocusActOrEvent Code (administrative concept)</displayName>
+   </concept>
+   <concept code="185311000000104">
+      <displayName>Walk-in Centre Event - FocusActOrEvent Code (administrative concept)</displayName>
+   </concept>
+   <concept code="163541000000107">
+      <displayName>Dispensed Medication - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163551000000105">
+      <displayName>Personally Administered Medication - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163511000000106">
+      <displayName>Prescription Cancel Request - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163521000000100">
+      <displayName>Prescription Cancel Response - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163501000000109">
+      <displayName>Prescription - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163531000000103">
+      <displayName>Protocol Supply Medication - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163491000000103">
+      <displayName>Medication Management Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163471000000102">
+      <displayName>Care Programme Approach Summary - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163481000000100">
+      <displayName>Discharge from Mental Health Services - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163461000000109">
+      <displayName>Entry to Mental Health Services - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163451000000106">
+      <displayName>Mental Health Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163361000000101">
+      <displayName>Out of Hours Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163341000000102">
+      <displayName>Chiropodist Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163321000000109">
+      <displayName>Community Midwife Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163351000000104">
+      <displayName>Dietician Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163291000000104">
+      <displayName>District Nurse Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163271000000103">
+      <displayName>General Practitioner Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163331000000106">
+      <displayName>Health Visitor Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163311000000103">
+      <displayName>Occupational Therapist Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163301000000100">
+      <displayName>Physiotherapist Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163281000000101">
+      <displayName>Practice Nurse Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163261000000105">
+      <displayName>Primary and Community Care Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163401000000105">
+      <displayName>Discharge from Day Case Care - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163391000000107">
+      <displayName>Discharge from Inpatient Care - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163381000000105">
+      <displayName>Outpatient Clinic Attendance - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163411000000107">
+      <displayName>Ward Attendance - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163371000000108">
+      <displayName>Secondary Care Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163431000000104">
+      <displayName>Single Assessment Process Contact Assessment - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163441000000108">
+      <displayName>Single Assessment Process Overview Assessment - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+   <concept code="163421000000101">
+      <displayName>Single Assessment Process Event - FocusActOrEvent (administrative concept)</displayName>
+   </concept>
+</vocabulary>

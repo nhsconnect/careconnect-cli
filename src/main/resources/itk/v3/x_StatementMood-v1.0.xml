@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_StatementMood" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.1001.11.3">
+   <Description>
+            <p>Distinguishes between a recommended action, intended action, requested action and actual event.</p>
+         </Description>
+   <concept code="RMD">
+      <displayName>Recommendation</displayName>
+   </concept>
+   <concept code="INT">
+      <displayName>Intention</displayName>
+   </concept>
+   <concept code="RQO">
+      <displayName>Request</displayName>
+   </concept>
+   <concept code="EVN">
+      <displayName>Event</displayName>
+   </concept>
+</vocabulary>

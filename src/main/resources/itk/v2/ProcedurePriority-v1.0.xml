@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedurePriority" version="1.0" status="created"
+            id="2.16.840.1.113883.12.418">
+   <Description>This table contains a number that identifies the significance or priority of the procedure code.
+					Table type: HL7</Description>
+   <concept code="0">
+      <displayName>the admitting procedure</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>the primary procedure</displayName>
+   </concept>
+   <concept code="2 ...">
+      <displayName>for ranked secondary procedures</displayName>
+   </concept>
+</vocabulary>

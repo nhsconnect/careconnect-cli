@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NewBornHearingScreeningOutcomeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the newborn hearing screening outcome.    </p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK NewBornHearingScreeningOutcomeSnCT subset with subset original id 52731000000135</strong>.</p>     
+               <p>The use of this subset is <strong>Advisory</strong>.</p>     
+               <p>For  further information on the use of SNOMED CT subsets in messaging please  refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA  Domains&amp;rdquo; document located under the Associated Specifications tab.</p>    
+               <p> </p>
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="276781000000109">
+      <displayName>Clear response no follow up required</displayName>
+   </concept>
+   <concept code="276791000000106">
+      <displayName>Clear response targeted follow-up required</displayName>
+   </concept>
+   <concept code="276811000000107">
+      <displayName>No clear response bilateral referral</displayName>
+   </concept>
+   <concept code="276801000000105">
+      <displayName>No clear response unilateral referral</displayName>
+   </concept>
+   <concept code="279591000000106">
+      <displayName>Incomplete screening contraindicated</displayName>
+   </concept>
+   <concept code="276851000000106">
+      <displayName>Incomplete deceased</displayName>
+   </concept>
+   <concept code="279611000000103">
+      <displayName>Incomplete baby unsettled</displayName>
+   </concept>
+   <concept code="276821000000101">
+      <displayName>Incomplete declined screen</displayName>
+   </concept>
+   <concept code="276831000000104">
+      <displayName>Incomplete appointment missed</displayName>
+   </concept>
+   <concept code="279601000000100">
+      <displayName>Incomplete lack of service capacity</displayName>
+   </concept>
+   <concept code="276841000000108">
+      <displayName>Incomplete lost contact</displayName>
+   </concept>
+   <concept code="276861000000109">
+      <displayName>Incomplete out of screening coverage</displayName>
+   </concept>
+   <concept code="276881000000100">
+      <displayName>Incomplete late entry</displayName>
+   </concept>
+   <concept code="276891000000103">
+      <displayName>Incomplete equipment malfunction</displayName>
+   </concept>
+   <concept code="276901000000102">
+      <displayName>Incomplete equipment not available</displayName>
+   </concept>
+   <concept code="276871000000102">
+      <displayName>Incomplete withdrew consent</displayName>
+   </concept>
+</vocabulary>

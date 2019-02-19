@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrMedicinalProdCode" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.4">
+   <Description>
+            <p>Clinical code or product identification identifying a virtual or actual medicinal product or product pack.</p>
+	           <p>Code representing a prescribable drug or product, taken from one the following code systems:</p>
+	           <dl>
+		             <dt>
+			               <b>SNOMED CT UK</b>
+		             </dt>
+		             <dd>A code from Snomed-CT (UK) may be accompanied by additional qualifying codes from the same coding system. In future should adopt NHS PCDD identifiers once they are in general use.</dd>
+		             <dt>
+			               <b>Read Codes V2</b>
+		             </dt>
+		             <dt>
+			               <b>EMIS Drug Codes</b>
+		             </dt>
+		             <dt>Another code system, e.g. Multilex</dt>
+	           </dl>
+         </Description>
+</vocabulary>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDA Document Type" type="Realm Concept" setId="68471000000135" version="18" id="1281000000131" refId="999000341000000104" memberCount="25" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="163381000000105">
+<displayName lang="en-GB" type="PT">Outpatient Clinic Attendance</displayName>
+<displayName lang="en" type="FSN">Outpatient Clinic Attendance - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="163391000000107">
+<displayName lang="en-GB" type="PT">Discharge from Inpatient Care</displayName>
+<displayName lang="en" type="FSN">Discharge from Inpatient Care - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="163581000000104">
+<displayName lang="en-GB" type="PT">Diagnostic Imaging Report</displayName>
+<displayName lang="en" type="FSN">Diagnostic Imaging Report - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="185291000000100">
+<displayName lang="en-GB" type="PT">Emergency Department Event</displayName>
+<displayName lang="en" type="FSN">Emergency Department Event - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="283281000000100">
+<displayName lang="en" type="PT">HealthSpace summary</displayName>
+<displayName lang="en" type="FSN">HealthSpace summary (record artifact)</displayName>
+</concept>
+<concept code="285091000000108">
+<displayName lang="en" type="PT">Nullification Document</displayName>
+<displayName lang="en" type="FSN">Nullification Document - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="285101000000100">
+<displayName lang="en" type="PT">Refusal To Seal</displayName>
+<displayName lang="en" type="FSN">Refusal To Seal Document - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="305761000000107">
+<displayName lang="en" type="PT">Unseal Report</displayName>
+<displayName lang="en" type="FSN">Unseal Report - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="305771000000100">
+<displayName lang="en" type="PT">Seal Report</displayName>
+<displayName lang="en" type="FSN">Seal Report - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="312341000000104">
+<displayName lang="en" type="PT">Urgent Care Summary Report</displayName>
+<displayName lang="en" type="FSN">Urgent Care Summary Report - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="312711000000101">
+<displayName lang="en" type="PT">Ambulance Service Patient Summary Report</displayName>
+<displayName lang="en" type="FSN">Ambulance Service Patient Summary Report - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="312991000000108">
+<displayName lang="en" type="PT">Mental Health Act Assessment Outside Specialist Services</displayName>
+<displayName lang="en" type="FSN">Mental Health Act Assessment Outside Specialist Services - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313001000000107">
+<displayName lang="en" type="PT">Update to Mental Health Act Assessment Non-Specialist Services</displayName>
+<displayName lang="en" type="FSN">Update to Mental Health Act Assessment Non-Specialist Services - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313011000000109">
+<displayName lang="en" type="PT">Entry to Mental Health and Substance Misuse Specialist Services</displayName>
+<displayName lang="en" type="FSN">Entry to Mental Health and Substance Misuse Specialist Services - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313021000000103">
+<displayName lang="en" type="PT">Update to Mental Health and Substance Misuse Specialist Services</displayName>
+<displayName lang="en" type="FSN">Update to Mental Health and Substance Misuse Specialist Services - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313031000000101">
+<displayName lang="en" type="PT">Exit from Mental Health and Substance Misuse Specialist Services</displayName>
+<displayName lang="en" type="FSN">Exit from Mental Health and Substance Misuse Specialist Services - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313041000000105">
+<displayName lang="en" type="PT">Mental Health and Substance Misuse Specialist Services Care Programme Approach Review Summary</displayName>
+<displayName lang="en" type="FSN">Mental Health and Substance Misuse Specialist Services Care Programme Approach Review Summary - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313051000000108">
+<displayName lang="en" type="PT">Mental Health and Substance Misuse Specialist Services Models of Care Review Summary</displayName>
+<displayName lang="en" type="FSN">Mental Health and Substance Misuse Specialist Services Models of Care Review Summary - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313071000000104">
+<displayName lang="en" type="PT">Admission to Inpatient Care</displayName>
+<displayName lang="en" type="FSN">Admission to Inpatient Care - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313081000000102">
+<displayName lang="en" type="PT">Assessment Event</displayName>
+<displayName lang="en" type="FSN">Assessment Event - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313091000000100">
+<displayName lang="en" type="PT">Contact Assessment</displayName>
+<displayName lang="en" type="FSN">Contact Assessment - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313101000000108">
+<displayName lang="en" type="PT">Overview Assessment</displayName>
+<displayName lang="en" type="FSN">Overview Assessment - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313111000000105">
+<displayName lang="en" type="PT">Integrated Care and Support Plan</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="313121000000104">
+<displayName lang="en" type="PT">Specialist Assessment Outcome</displayName>
+<displayName lang="en" type="FSN">Specialist Assessment Outcome - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="320151000000108">
+<displayName lang="en" type="PT">Biographical Information</displayName>
+<displayName lang="en" type="FSN">Biographical Information - FocusActOrEvent (record artifact)</displayName>
+</concept>
+</vocabulary>

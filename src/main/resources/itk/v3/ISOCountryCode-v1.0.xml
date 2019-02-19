@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ISOCountryCode" version="1.0" status="created" id="1.0.3166.1.2.3">
+   <Description>
+            <p>
+               <p>A unique code representing a country.  Please refer to the International Organisation for Standardisation website for the ISO 3166-1 standard for the actual list of alphabetic codes and countries (www.iso.org/iso/home.htm).  Note, the 3 character alphabetic code should be used.   </p>
+               <p/>
+               <p/>
+               <p/>
+            </p>
+         </Description>
+</vocabulary>

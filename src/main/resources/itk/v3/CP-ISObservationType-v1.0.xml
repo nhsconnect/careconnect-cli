@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISObservationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.469">
+   <Description>
+            <p>A set of codes to indicate the type of Child Protection Information Sharing (CP-IS) service observation being made.</p>
+         </Description>
+   <concept code="CPPI">
+      <displayName>Child Protection Plan Information</displayName>
+   </concept>
+   <concept code="CPPIU">
+      <displayName>Child Protection Plan Information Upload</displayName>
+   </concept>
+   <concept code="CPPSD">
+      <displayName>Child Protection Plan Start Date</displayName>
+   </concept>
+   <concept code="CPPED">
+      <displayName>Child Protection Plan End Date</displayName>
+   </concept>
+   <concept code="CPPDD">
+      <displayName>Child Protection Plan Delete Date</displayName>
+   </concept>
+   <concept code="LACI">
+      <displayName>Looked After Child Information</displayName>
+   </concept>
+   <concept code="LACIU">
+      <displayName>Looked After Child Information Upload</displayName>
+   </concept>
+   <concept code="LACSD">
+      <displayName>Looked After Child Start Date</displayName>
+   </concept>
+   <concept code="LACED">
+      <displayName>Looked After Child End Date</displayName>
+   </concept>
+   <concept code="LACDD">
+      <displayName>Looked After Child Delete Date</displayName>
+   </concept>
+   <concept code="UCPI">
+      <displayName>Unborn Child Plan Information</displayName>
+   </concept>
+   <concept code="UCPIU">
+      <displayName>Unborn Child Plan Information Upload</displayName>
+   </concept>
+   <concept code="UCPSD">
+      <displayName>Unborn Child Plan Start Date</displayName>
+   </concept>
+   <concept code="UCPED">
+      <displayName>Unborn Child Plan End Date</displayName>
+   </concept>
+   <concept code="UCPDD">
+      <displayName>Unborn Child Plan Delete Date</displayName>
+   </concept>
+   <concept code="TRAR">
+      <displayName>Total Returned Access Records</displayName>
+   </concept>
+   <concept code="TRR">
+      <displayName>Total Returned Records</displayName>
+   </concept>
+   <concept code="LAUFI">
+      <displayName>LA Upload File Id</displayName>
+   </concept>
+   <concept code="TRCR">
+      <displayName>Total Returned Child Records</displayName>
+   </concept>
+   <concept code="CRA">
+      <displayName>CP-IS Record Access</displayName>
+   </concept>
+</vocabulary>

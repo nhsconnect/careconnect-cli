@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PSClaimMessageType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.121">
+   <Description>
+            <p>Identifies the type and version of the PS Claim Information message used to replace an abstract DispenseClaim placeholder within a message.</p>
+         </Description>
+   <concept code="PORX_MT142002UK05">
+      <displayName>PS Claim Information Message PORX_MT142002UK05</displayName>
+   </concept>
+   <concept code="PORX_MT142002UK30">
+      <displayName>PS Claim Information Message PORX_MT142002UK30</displayName>
+   </concept>
+   <concept code="PORX_MT142002UK31">
+      <displayName>PS Claim Information Message PORX_MT142002UK31</displayName>
+   </concept>
+</vocabulary>

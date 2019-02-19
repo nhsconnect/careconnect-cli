@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RegistrationReason" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.166">
+   <Description>
+            <p>To indicate the reason for registration (at a GP practice).</p>
+         </Description>
+   <concept code="1">
+      <displayName>Patient birth</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient first acceptance</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Patient transfer in from another NHAIS area</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient immigrant</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Patient ex-services</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Patient internal transfer within the NHAIS area</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Assignment</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Bulk Move</displayName>
+   </concept>
+</vocabulary>

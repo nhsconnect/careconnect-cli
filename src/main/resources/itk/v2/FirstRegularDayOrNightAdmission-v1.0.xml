@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="FirstRegularDayOrNightAdmission" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.14">
+   <Description>First Regular Day or Night Admission: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>First in a series</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Subsequent to first in a series</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

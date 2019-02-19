@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CancelDelayedDischargeCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.274">
+   <Description>
+            <p>A set of codes to detail the reason for cancelling the delayed discharge.</p>
+         </Description>
+   <concept code="PD">
+      <displayName>The person has died</displayName>
+   </concept>
+   <concept code="OA">
+      <displayName>The person wishes to make their own arrangements</displayName>
+   </concept>
+   <concept code="CD">
+      <displayName>The person's condition has deteriorated</displayName>
+   </concept>
+   <concept code="CHC">
+      <displayName>Eligible for continuing healthcare</displayName>
+   </concept>
+   <concept code="CONCHC">
+      <displayName>The person is now being considered for continuing healthcare</displayName>
+   </concept>
+   <concept code="NOTLA">
+      <displayName>The person is an ordinary resident in another local authority</displayName>
+   </concept>
+   <concept code="CPI">
+      <displayName>Social Services care package inadequate</displayName>
+   </concept>
+   <concept code="SELFD">
+      <displayName>The person has discharged themselves</displayName>
+   </concept>
+   <concept code="NIE">
+      <displayName>Notification sent in error</displayName>
+   </concept>
+   <concept code="NONEED">
+      <displayName>No longer in need of social care services</displayName>
+   </concept>
+   <concept code="INTERCARE">
+      <displayName>Transferred to intermediate care</displayName>
+   </concept>
+   <concept code="XFRD">
+      <displayName>The person has transferred to another hospital</displayName>
+   </concept>
+   <concept code="PWC">
+      <displayName>Withdrawn consent to social services involvement</displayName>
+   </concept>
+   <concept code="OFT">
+      <displayName>Other - Free Text</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ComponentTextHeadingType" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.224">
+   <Description>
+            <p>A set of codes to identify the component text heading type.</p>
+         </Description>
+   <concept code="OFA">
+      <displayName>Outcome for Adults</displayName>
+   </concept>
+   <concept code="CAFD">
+      <displayName>High Level Objective (CAF Domain)</displayName>
+   </concept>
+   <concept code="CAFSD">
+      <displayName>Lower-Level Objective (CAF Sub-domain)</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Individual Issue (Description of Issue for Individual)</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Individuals Goal / Aims</displayName>
+   </concept>
+   <concept code="A">
+      <displayName>Action / Intervention</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Responsibility</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Provider / Delivered by</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Schedule</displayName>
+   </concept>
+   <concept code="PSD">
+      <displayName>Planned Start Date</displayName>
+   </concept>
+   <concept code="SD">
+      <displayName>Start Date</displayName>
+   </concept>
+   <concept code="PED">
+      <displayName>Planned End Date</displayName>
+   </concept>
+   <concept code="ED">
+      <displayName>End Date</displayName>
+   </concept>
+   <concept code="IS">
+      <displayName>Information Support</displayName>
+   </concept>
+   <concept code="RD">
+      <displayName>Review Date</displayName>
+   </concept>
+   <concept code="OR">
+      <displayName>Outcome at review</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObservationInterpretation" version="1.0" status="active"
+            id="2.16.840.1.113883.5.83">
+   <Description>
+            <p>One or more codes specifying a rough qualitative interpretation of the observation, such as "normal", "abnormal", "change up", "resistant", "susceptible", etc...</p>
+         </Description>
+   <concept code="&lt;">
+      <displayName>low off scale</displayName>
+   </concept>
+   <concept code="&gt;">
+      <displayName>high off scale</displayName>
+   </concept>
+   <concept code="A">
+      <displayName>Abnormal</displayName>
+   </concept>
+   <concept code="AA">
+      <displayName>Abnormal alert</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>better</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>decreased</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>High</displayName>
+   </concept>
+   <concept code="HH">
+      <displayName>High alert</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>intermediate</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Low</displayName>
+   </concept>
+   <concept code="LL">
+      <displayName>Low alert</displayName>
+   </concept>
+   <concept code="MS">
+      <displayName>moderately susceptible</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Normal</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>resistant</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>susceptible</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>increased</displayName>
+   </concept>
+   <concept code="VS">
+      <displayName>very susceptible</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>worse</displayName>
+   </concept>
+</vocabulary>

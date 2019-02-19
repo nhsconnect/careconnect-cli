@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MentalEmotionalWellBeingSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A subset of SNOMED-CT intended for use in the UK, a set of codes which represent different aspects of personal emotional wellbeing, including mood, behaviour and impaired cognitive functioning. This vocab contains multiple distinct sub-sets of codes.<br/>
+            </p>
+            <p>The list of subsets are as follows:<br/>
+               <strong>Any code from the SNOMED CT UK <em>Mood </em>subset with subset original id 7741000000135.</strong>
+            </p>
+            <p>
+               <strong>Any code from the SNOMED CT UK <em>Behaviour</em> subset with subset original id 7751000000137.</strong>
+            </p>
+            <p>
+               <strong>Any code from the SNOMED CT UK <em>Cognition</em> subset with subset original id 7761000000139.</strong>
+               <strong>
+                  <br/>
+               </strong>
+               <br/>The use of this subset is <strong>Advisory </strong>as defined in latest version of "NPFIT-ELIBR-AREL-P1R2-0178 Technical Guidance for Implementation of Templated CDA Domains."</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelehealthPatientRelatedAlertType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.479">
+   <Description>
+            <p>A vocabulary to describe the type of patient related telehealth alert<br/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>Telehealth patient related alert</displayName>
+   </concept>
+</vocabulary>

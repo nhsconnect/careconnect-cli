@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Supply Request" type="Realm Concept" setId="68391000000131" version="18" id="1321000000137" refId="999001031000000101" memberCount="1" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="75658007">
+<displayName lang="en" type="PT">Prescription of therapeutic agent</displayName>
+<displayName lang="en" type="FSN">Prescription of therapeutic agent (procedure)</displayName>
+</concept>
+</vocabulary>

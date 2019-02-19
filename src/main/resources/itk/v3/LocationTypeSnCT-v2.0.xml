@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LocationTypeSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: See <b>SnomedCT</b>
+            </p>
+            <p>A subset of SnomedCT (UK) codes that describes a location type, such as ambulance, home, public place.</p>
+         </Description>
+   <concept code="2961002">
+      <displayName>aid car-based care</displayName>
+   </concept>
+   <concept code="39176004">
+      <displayName>airplane-based care</displayName>
+   </concept>
+   <concept code="11424001">
+      <displayName>ambulance-based care</displayName>
+   </concept>
+   <concept code="35971002">
+      <displayName>ambulatory care site</displayName>
+   </concept>
+   <concept code="1348009">
+      <displayName>day care center</displayName>
+   </concept>
+   <concept code="113173007">
+      <displayName>domiciliary</displayName>
+   </concept>
+   <concept code="901005">
+      <displayName>helicopter-based care</displayName>
+   </concept>
+   <concept code="42665001">
+      <displayName>nursing home</displayName>
+   </concept>
+   <concept code="224881003">
+      <displayName>charitable nursing home</displayName>
+   </concept>
+   <concept code="310206007">
+      <displayName>private nursing home</displayName>
+   </concept>
+   <concept code="66280005">
+      <displayName>private home-based care</displayName>
+   </concept>
+   <concept code="39913001">
+      <displayName>residential school infirmary</displayName>
+   </concept>
+   <concept code="30629002">
+      <displayName>retirement home</displayName>
+   </concept>
+   <concept code="39216000">
+      <displayName>school infirmary</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DocumentFormatType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.441">
+   <Description>
+            <p>A set of codes to indicate the document format type.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ContactStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.232">
+   <Description>
+            <span style="width: 100%">A set of codes indicating the contact status of a patient.</span>
+         </Description>
+   <concept code="II">
+      <displayName>Inpatient (Informal)</displayName>
+   </concept>
+   <concept code="ISCO">
+      <displayName>Inpatient (Subject to Court Order)</displayName>
+   </concept>
+   <concept code="IDSM">
+      <displayName>Inpatient (Detained Subject to MHA)</displayName>
+   </concept>
+   <concept code="IAI">
+      <displayName>Inpatient Absent (Informal)</displayName>
+   </concept>
+   <concept code="IASCO">
+      <displayName>Inpatient Absent (Subject to Court Order)</displayName>
+   </concept>
+   <concept code="IAWOLM">
+      <displayName>Inpatient AWOL MHA</displayName>
+   </concept>
+   <concept code="ILPI">
+      <displayName>Inpatient On Leave or Placement (Informal)</displayName>
+   </concept>
+   <concept code="ILPSCO">
+      <displayName>Inpatient On Leave or Placement (Subject to Court Order)</displayName>
+   </concept>
+   <concept code="ILPSM">
+      <displayName>Inpatient On Leave or Placement (Subject to MHA)</displayName>
+   </concept>
+   <concept code="CNYE">
+      <displayName>Contact Not Yet Established</displayName>
+   </concept>
+   <concept code="COCWC">
+      <displayName>Community Open to Contact (with Concern)</displayName>
+   </concept>
+   <concept code="COCWOC">
+      <displayName>Community Open to Contact (without Concern)</displayName>
+   </concept>
+   <concept code="CCLWC">
+      <displayName>Community Contact Lost (with Concern)</displayName>
+   </concept>
+   <concept code="CCLWOC">
+      <displayName>Community Contact Lost (without Concern)</displayName>
+   </concept>
+   <concept code="CCSWC">
+      <displayName>Closed Care Spell (with Concern)</displayName>
+   </concept>
+   <concept code="CCSWOC">
+      <displayName>Closed Care Spell (without Woncern)</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Section 117 of Mental Health Act 1983 (England and Wales) eligibility options" type="Realm Concept" setId="68031000000133" version="7" id="29951000000135" refId="999001101000000108" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="835961000000104">
+<displayName lang="en" type="PT">Eligible for aftercare under Section 117 of Mental Health Act 1983 (England and Wales)</displayName>
+<displayName lang="en" type="FSN">Eligible for aftercare under Section 117 of Mental Health Act 1983 (England and Wales) (finding)</displayName>
+</concept>
+<concept code="835971000000106">
+<displayName lang="en" type="PT">Not eligible for aftercare under Section 117 of Mental Health Act 1983 (England and Wales)</displayName>
+<displayName lang="en" type="FSN">Not eligible for aftercare under Section 117 of Mental Health Act 1983 (England and Wales) (finding)</displayName>
+</concept>
+</vocabulary>

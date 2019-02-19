@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DelayedAcknowledgmentType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.102">
+   <Description>
+					Table type: HL7</Description>
+   <concept code="D">
+      <displayName>Message received, stored for later processing</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>acknowledgment after processing</displayName>
+   </concept>
+</vocabulary>

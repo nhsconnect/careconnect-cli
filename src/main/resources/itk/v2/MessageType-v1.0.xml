@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MessageType" version="1.0" status="created" id="2.16.840.1.113883.12.76">
+   <Description>This table contains values such as ACK, ADT, ORM, ORU etc.
+					Table type: HL7</Description>
+   <concept code="ACK">
+      <displayName>General acknowledgment message</displayName>
+   </concept>
+   <concept code="ADR">
+      <displayName>ADT response</displayName>
+   </concept>
+   <concept code="ADT">
+      <displayName>ADT message</displayName>
+   </concept>
+   <concept code="BAR">
+      <displayName>Add/change billing account</displayName>
+   </concept>
+   <concept code="BPS">
+      <displayName>Blood product dispense status message</displayName>
+   </concept>
+   <concept code="BRP">
+      <displayName>Blood product dispense status acknowledgement message</displayName>
+   </concept>
+   <concept code="BRT">
+      <displayName>Blood product transfusion/disposition acknowledgement message</displayName>
+   </concept>
+   <concept code="BTS">
+      <displayName>Blood product transfusion/disposition message</displayName>
+   </concept>
+   <concept code="CRM">
+      <displayName>Clinical study registration message</displayName>
+   </concept>
+   <concept code="CSU">
+      <displayName>Unsolicited study data message</displayName>
+   </concept>
+   <concept code="DFT">
+      <displayName>Detail financial transactions</displayName>
+   </concept>
+   <concept code="DOC">
+      <displayName>Document response</displayName>
+   </concept>
+   <concept code="DSR">
+      <displayName>Display response</displayName>
+   </concept>
+   <concept code="EAC">
+      <displayName>Automated equipment command message</displayName>
+   </concept>
+   <concept code="EAN">
+      <displayName>Automated equipment notification message</displayName>
+   </concept>
+   <concept code="EAR">
+      <displayName>Automated equipment response message</displayName>
+   </concept>
+   <concept code="EDR">
+      <displayName>Enhanced display response</displayName>
+   </concept>
+   <concept code="EQQ">
+      <displayName>Embedded query language query</displayName>
+   </concept>
+   <concept code="ERP">
+      <displayName>Event replay response</displayName>
+   </concept>
+   <concept code="ESR">
+      <displayName>Automated equipment status update acknowledgment message</displayName>
+   </concept>
+   <concept code="ESU">
+      <displayName>Automated equipment status update message</displayName>
+   </concept>
+   <concept code="INR">
+      <displayName>Automated equipment inventory request message</displayName>
+   </concept>
+   <concept code="INU">
+      <displayName>Automated equipment inventory update message</displayName>
+   </concept>
+   <concept code="LSR">
+      <displayName>Automated equipment log/service request message</displayName>
+   </concept>
+   <concept code="LSU">
+      <displayName>Automated equipment log/service update message</displayName>
+   </concept>
+   <concept code="MCF">
+      <displayName>Delayed Acknowledgment (Retained for backward compatibility only)</displayName>
+   </concept>
+   <concept code="MDM">
+      <displayName>Medical document management</displayName>
+   </concept>
+   <concept code="MFD">
+      <displayName>Master files delayed application acknowledgment</displayName>
+   </concept>
+   <concept code="MFK">
+      <displayName>Master files application acknowledgment</displayName>
+   </concept>
+   <concept code="MFN">
+      <displayName>Master files notification</displayName>
+   </concept>
+   <concept code="MFQ">
+      <displayName>Master files query</displayName>
+   </concept>
+   <concept code="MFR">
+      <displayName>Master files response</displayName>
+   </concept>
+   <concept code="NMD">
+      <displayName>Application management data message</displayName>
+   </concept>
+   <concept code="NMQ">
+      <displayName>Application management query message</displayName>
+   </concept>
+   <concept code="NMR">
+      <displayName>Application management response message</displayName>
+   </concept>
+   <concept code="OMB">
+      <displayName>Blood product order message</displayName>
+   </concept>
+   <concept code="OMD">
+      <displayName>Dietary order</displayName>
+   </concept>
+   <concept code="OMG">
+      <displayName>General clinical order message</displayName>
+   </concept>
+   <concept code="OMI">
+      <displayName>Imaging order</displayName>
+   </concept>
+   <concept code="OML">
+      <displayName>Laboratory order message</displayName>
+   </concept>
+   <concept code="OMN">
+      <displayName>Non-stock requisition order message</displayName>
+   </concept>
+   <concept code="OMP">
+      <displayName>Pharmacy/treatment order message</displayName>
+   </concept>
+   <concept code="OMS">
+      <displayName>Stock requisition order message</displayName>
+   </concept>
+   <concept code="ORB">
+      <displayName>Blood product order acknowledgement message</displayName>
+   </concept>
+   <concept code="ORD">
+      <displayName>Dietary order acknowledgment message</displayName>
+   </concept>
+   <concept code="ORF">
+      <displayName>Query for results of observation</displayName>
+   </concept>
+   <concept code="ORG">
+      <displayName>General clinical order acknowledgment message</displayName>
+   </concept>
+   <concept code="ORI">
+      <displayName>Imaging order acknowledgement message</displayName>
+   </concept>
+   <concept code="ORL">
+      <displayName>Laboratory acknowledgment message (unsolicited)</displayName>
+   </concept>
+   <concept code="ORM">
+      <displayName>Pharmacy/treatment order message</displayName>
+   </concept>
+   <concept code="ORN">
+      <displayName>Non-stock requisition - General order acknowledgment message</displayName>
+   </concept>
+   <concept code="ORP">
+      <displayName>Pharmacy/treatment order acknowledgment message</displayName>
+   </concept>
+   <concept code="ORR">
+      <displayName>General order response message response to any ORM</displayName>
+   </concept>
+   <concept code="ORS">
+      <displayName>Stock requisition - Order acknowledgment message</displayName>
+   </concept>
+   <concept code="ORU">
+      <displayName>Unsolicited transmission of an observation message</displayName>
+   </concept>
+   <concept code="OSQ">
+      <displayName>Query response for order status</displayName>
+   </concept>
+   <concept code="OSR">
+      <displayName>Query response for order status</displayName>
+   </concept>
+   <concept code="OUL">
+      <displayName>Unsolicited laboratory observation message</displayName>
+   </concept>
+   <concept code="PEX">
+      <displayName>Product experience message</displayName>
+   </concept>
+   <concept code="PGL">
+      <displayName>Patient goal message</displayName>
+   </concept>
+   <concept code="PIN">
+      <displayName>Patient insurance information</displayName>
+   </concept>
+   <concept code="PMU">
+      <displayName>Add personnel record</displayName>
+   </concept>
+   <concept code="PPG">
+      <displayName>Patient pathway message (goal-oriented)</displayName>
+   </concept>
+   <concept code="PPP">
+      <displayName>Patient pathway message (problem-oriented)</displayName>
+   </concept>
+   <concept code="PPR">
+      <displayName>Patient problem message</displayName>
+   </concept>
+   <concept code="PPT">
+      <displayName>Patient pathway goal-oriented response</displayName>
+   </concept>
+   <concept code="PPV">
+      <displayName>Patient goal response</displayName>
+   </concept>
+   <concept code="PRR">
+      <displayName>Patient problem response</displayName>
+   </concept>
+   <concept code="PTR">
+      <displayName>Patient pathway problem-oriented response</displayName>
+   </concept>
+   <concept code="QBP">
+      <displayName>Query by parameter</displayName>
+   </concept>
+   <concept code="QCK">
+      <displayName>Deferred query</displayName>
+   </concept>
+   <concept code="QCN">
+      <displayName>Cancel query</displayName>
+   </concept>
+   <concept code="QRY">
+      <displayName>Query, original mode</displayName>
+   </concept>
+   <concept code="QSB">
+      <displayName>Create subscription</displayName>
+   </concept>
+   <concept code="QSX">
+      <displayName>Cancel subscription/acknowledge message</displayName>
+   </concept>
+   <concept code="QVR">
+      <displayName>Query for previous events</displayName>
+   </concept>
+   <concept code="RAR">
+      <displayName>Pharmacy/treatment administration information</displayName>
+   </concept>
+   <concept code="RAS">
+      <displayName>Pharmacy/treatment administration message</displayName>
+   </concept>
+   <concept code="RCI">
+      <displayName>Return clinical information</displayName>
+   </concept>
+   <concept code="RCL">
+      <displayName>Return clinical list</displayName>
+   </concept>
+   <concept code="RDE">
+      <displayName>Pharmacy/treatment encoded order message</displayName>
+   </concept>
+   <concept code="RDR">
+      <displayName>Pharmacy/treatment dispense information</displayName>
+   </concept>
+   <concept code="RDS">
+      <displayName>Pharmacy/treatment dispense message</displayName>
+   </concept>
+   <concept code="RDY">
+      <displayName>Display based response</displayName>
+   </concept>
+   <concept code="REF">
+      <displayName>Patient referral</displayName>
+   </concept>
+   <concept code="RER">
+      <displayName>Pharmacy/treatment encoded order information</displayName>
+   </concept>
+   <concept code="RGR">
+      <displayName>Pharmacy/treatment dose information</displayName>
+   </concept>
+   <concept code="RGV">
+      <displayName>Pharmacy/treatment give message</displayName>
+   </concept>
+   <concept code="ROR">
+      <displayName>Pharmacy/treatment order response</displayName>
+   </concept>
+   <concept code="RPA">
+      <displayName>Return patient authorization</displayName>
+   </concept>
+   <concept code="RPI">
+      <displayName>Return patient information</displayName>
+   </concept>
+   <concept code="RPL">
+      <displayName>Return patient display list</displayName>
+   </concept>
+   <concept code="RPR">
+      <displayName>Return patient list</displayName>
+   </concept>
+   <concept code="RQA">
+      <displayName>Request patient authorization</displayName>
+   </concept>
+   <concept code="RQC">
+      <displayName>Request clinical information</displayName>
+   </concept>
+   <concept code="RQI">
+      <displayName>Request patient information</displayName>
+   </concept>
+   <concept code="RQP">
+      <displayName>Request patient demographics</displayName>
+   </concept>
+   <concept code="RQQ">
+      <displayName>Event replay query</displayName>
+   </concept>
+   <concept code="RRA">
+      <displayName>Pharmacy/treatment administration acknowledgment message</displayName>
+   </concept>
+   <concept code="RRD">
+      <displayName>Pharmacy/treatment dispense acknowledgment message</displayName>
+   </concept>
+   <concept code="RRE">
+      <displayName>Pharmacy/treatment encoded order acknowledgment message</displayName>
+   </concept>
+   <concept code="RRG">
+      <displayName>Pharmacy/treatment give acknowledgment message</displayName>
+   </concept>
+   <concept code="RRI">
+      <displayName>Return referral information</displayName>
+   </concept>
+   <concept code="RSP">
+      <displayName>Segment pattern response</displayName>
+   </concept>
+   <concept code="RTB">
+      <displayName>Tabular response</displayName>
+   </concept>
+   <concept code="SIU">
+      <displayName>Schedule information unsolicited</displayName>
+   </concept>
+   <concept code="SPQ">
+      <displayName>Stored procedure request</displayName>
+   </concept>
+   <concept code="SQM">
+      <displayName>Schedule query message</displayName>
+   </concept>
+   <concept code="SQR">
+      <displayName>Schedule query response</displayName>
+   </concept>
+   <concept code="SRM">
+      <displayName>Schedule request message</displayName>
+   </concept>
+   <concept code="SRR">
+      <displayName>Scheduled request response</displayName>
+   </concept>
+   <concept code="SSR">
+      <displayName>Specimen status request message</displayName>
+   </concept>
+   <concept code="SSU">
+      <displayName>Specimen status update message</displayName>
+   </concept>
+   <concept code="SUR">
+      <displayName>Summary product experience report</displayName>
+   </concept>
+   <concept code="TBR">
+      <displayName>Tabular data response</displayName>
+   </concept>
+   <concept code="TCR">
+      <displayName>Automated equipment test code settings request message</displayName>
+   </concept>
+   <concept code="TCU">
+      <displayName>Automated equipment test code settings update message</displayName>
+   </concept>
+   <concept code="UDM">
+      <displayName>Unsolicited display update message</displayName>
+   </concept>
+   <concept code="VQQ">
+      <displayName>Virtual table query</displayName>
+   </concept>
+   <concept code="VXQ">
+      <displayName>Query for vaccination record</displayName>
+   </concept>
+   <concept code="VXR">
+      <displayName>Vaccination record response</displayName>
+   </concept>
+   <concept code="VXU">
+      <displayName>Unsolicited vaccination record update</displayName>
+   </concept>
+   <concept code="VXX">
+      <displayName>Response for vaccination query with multiple PID matches</displayName>
+   </concept>
+</vocabulary>

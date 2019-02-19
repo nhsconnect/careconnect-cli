@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Capacity To Consent Options" type="Realm Concept" setId="68041000000138" version="7" id="29971000000130" refId="999000361000000103" memberCount="8" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="166891000000107">
+<displayName lang="en-GB" type="PT">Gillick competent for consent</displayName>
+<displayName lang="en-GB" type="FSN">Gillick competent for consent (finding)</displayName>
+</concept>
+<concept code="377301000000106">
+<displayName lang="en" type="PT">Lacks capacity to give consent (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Lacks capacity to give consent (Mental Capacity Act 2005) (finding)</displayName>
+</concept>
+<concept code="516261000000106">
+<displayName lang="en" type="PT">Unable to consent to information sharing</displayName>
+<displayName lang="en" type="FSN">Unable to consent to information sharing (finding)</displayName>
+</concept>
+<concept code="764871000000106">
+<displayName lang="en" type="PT">Not Gillick competent to give consent</displayName>
+<displayName lang="en" type="FSN">Not Gillick competent to give consent (finding)</displayName>
+</concept>
+<concept code="765101000000107">
+<displayName lang="en" type="PT">Has mental capacity to give consent</displayName>
+<displayName lang="en" type="FSN">Has mental capacity to give consent (finding)</displayName>
+</concept>
+<concept code="765111000000109">
+<displayName lang="en" type="PT">Has mental capacity to give consent for assessment</displayName>
+<displayName lang="en" type="FSN">Has mental capacity to give consent for assessment (finding)</displayName>
+</concept>
+<concept code="765121000000103">
+<displayName lang="en" type="PT">Has mental capacity to decline consent</displayName>
+<displayName lang="en" type="FSN">Has mental capacity to decline consent (finding)</displayName>
+<displayName lang="en" type="SY">Has mental capacity to dissent</displayName>
+</concept>
+<concept code="765131000000101">
+<displayName lang="en" type="PT">Has mental capacity to decline consent for assessment</displayName>
+<displayName lang="en" type="FSN">Has mental capacity to decline consent for assessment (finding)</displayName>
+<displayName lang="en" type="SY">Has mental capacity to dissent from assessment</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Accommodation Tenure" type="Realm Concept" setId="67831000000135" version="6" id="6171000000131" refId="999001361000000109" memberCount="54" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="32911000">
+<displayName lang="en" type="PT">Homeless</displayName>
+<displayName lang="en" type="FSN">Homeless (finding)</displayName>
+<displayName lang="en" type="SY">Living on the street</displayName>
+</concept>
+<concept code="105526001">
+<displayName lang="en" type="PT">Homeless family</displayName>
+<displayName lang="en" type="FSN">Homeless family (finding)</displayName>
+</concept>
+<concept code="160700001">
+<displayName lang="en" type="PT">Homeless single person</displayName>
+<displayName lang="en" type="FSN">Homeless single person (finding)</displayName>
+</concept>
+<concept code="160701002">
+<displayName lang="en" type="PT">Social migrant</displayName>
+<displayName lang="en" type="FSN">Social migrant (finding)</displayName>
+<displayName lang="en" type="SY">Tramp</displayName>
+<displayName lang="en" type="SY">Vagabond</displayName>
+</concept>
+<concept code="160702009">
+<displayName lang="en" type="PT">Illegal migrant</displayName>
+<displayName lang="en" type="FSN">Illegal migrant (finding)</displayName>
+</concept>
+<concept code="160703004">
+<displayName lang="en" type="PT">Vagrant</displayName>
+<displayName lang="en" type="FSN">Vagrant (finding)</displayName>
+</concept>
+<concept code="160712002">
+<displayName lang="en" type="PT">Multiple occupancy</displayName>
+<displayName lang="en" type="FSN">Multiple occupancy (finding)</displayName>
+</concept>
+<concept code="160717008">
+<displayName lang="en" type="PT">Divorced couple sharing house</displayName>
+<displayName lang="en" type="FSN">Divorced couple sharing house (finding)</displayName>
+<displayName lang="en" type="SY">Lives with divorced spouse</displayName>
+</concept>
+<concept code="160724009">
+<displayName lang="en" type="PT">Independent housing, not alone</displayName>
+<displayName lang="en" type="FSN">Independent housing, not alone (finding)</displayName>
+</concept>
+<concept code="160744003">
+<displayName lang="en" type="PT">Lives in bed and breakfast accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in bed and breakfast accommodation (finding)</displayName>
+<displayName lang="en" type="SY">BB - Lives in bed and breakfast accommodation</displayName>
+<displayName lang="en" type="SY">Living in B&amp;B accommodation</displayName>
+</concept>
+<concept code="160745002">
+<displayName lang="en" type="PT">Lives in lodgings</displayName>
+<displayName lang="en" type="FSN">Lives in lodgings (finding)</displayName>
+<displayName lang="en" type="SY">Living in lodgings</displayName>
+</concept>
+<concept code="160746001">
+<displayName lang="en" type="PT">Lives in a bedsit</displayName>
+<displayName lang="en" type="FSN">Lives in a bedsit (finding)</displayName>
+<displayName lang="en" type="SY">Living in bedsitter</displayName>
+</concept>
+<concept code="160750008">
+<displayName lang="en" type="PT">Rehoused</displayName>
+<displayName lang="en" type="FSN">Rehoused (finding)</displayName>
+</concept>
+<concept code="160751007">
+<displayName lang="en" type="PT">Eviction from dwelling</displayName>
+<displayName lang="en" type="FSN">Eviction from dwelling (finding)</displayName>
+<displayName lang="en" type="SY">Housing problems - eviction</displayName>
+</concept>
+<concept code="160752000">
+<displayName lang="en" type="PT">Eviction notice served</displayName>
+<displayName lang="en" type="FSN">Eviction notice served (finding)</displayName>
+</concept>
+<concept code="160753005">
+<displayName lang="en" type="PT">Evicted forcibly from house</displayName>
+<displayName lang="en" type="FSN">Evicted forcibly from house (finding)</displayName>
+</concept>
+<concept code="160754004">
+<displayName lang="en" type="PT">Tenant evicted</displayName>
+<displayName lang="en" type="FSN">Tenant evicted (finding)</displayName>
+</concept>
+<concept code="160936008">
+<displayName lang="en" type="PT">Houseowner - no mortgage</displayName>
+<displayName lang="en" type="FSN">Houseowner - no mortgage (finding)</displayName>
+</concept>
+<concept code="160937004">
+<displayName lang="en" type="PT">Houseowner with mortgage</displayName>
+<displayName lang="en" type="FSN">Houseowner with mortgage (finding)</displayName>
+</concept>
+<concept code="160938009">
+<displayName lang="en" type="PT">House rented from council</displayName>
+<displayName lang="en" type="FSN">House rented from council (finding)</displayName>
+</concept>
+<concept code="160939001">
+<displayName lang="en" type="PT">House rented from housing association</displayName>
+<displayName lang="en" type="FSN">House rented from housing association (finding)</displayName>
+</concept>
+<concept code="160940004">
+<displayName lang="en" type="PT">House rented from private landlord</displayName>
+<displayName lang="en" type="FSN">House rented from private landlord (finding)</displayName>
+</concept>
+<concept code="160943002">
+<displayName lang="en" type="PT">Lives in own home</displayName>
+<displayName lang="en" type="FSN">Lives in own home (finding)</displayName>
+<displayName lang="en" type="SY">Owner-occupier</displayName>
+</concept>
+<concept code="224149009">
+<displayName lang="en" type="PT">Lives in a commune</displayName>
+<displayName lang="en" type="FSN">Lives in a commune (finding)</displayName>
+</concept>
+<concept code="224211003">
+<displayName lang="en" type="PT">Does not own home</displayName>
+<displayName lang="en" type="FSN">Does not own home (finding)</displayName>
+</concept>
+<concept code="224212005">
+<displayName lang="en" type="PT">Home owned by family member</displayName>
+<displayName lang="en" type="FSN">Home owned by family member (finding)</displayName>
+<displayName lang="en" type="SY">Home owned by relative</displayName>
+</concept>
+<concept code="224213000">
+<displayName lang="en" type="PT">Lives in rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in rented accommodation (finding)</displayName>
+</concept>
+<concept code="224214006">
+<displayName lang="en" type="PT">Lives in furnished rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in furnished rented accommodation (finding)</displayName>
+</concept>
+<concept code="224215007">
+<displayName lang="en" type="PT">Lives in unfurnished rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in unfurnished rented accommodation (finding)</displayName>
+</concept>
+<concept code="224216008">
+<displayName lang="en" type="PT">Lives under a landlady scheme</displayName>
+<displayName lang="en" type="FSN">Lives under a landlady scheme (finding)</displayName>
+</concept>
+<concept code="224217004">
+<displayName lang="en" type="PT">Lives in tied accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in tied accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Accommodation tied to job</displayName>
+</concept>
+<concept code="224218009">
+<displayName lang="en" type="PT">Lives in hotel</displayName>
+<displayName lang="en" type="FSN">Lives in hotel (finding)</displayName>
+</concept>
+<concept code="224219001">
+<displayName lang="en" type="PT">Lives in independent group home</displayName>
+<displayName lang="en" type="FSN">Lives in independent group home (finding)</displayName>
+<displayName lang="en" type="SY">Lives in a community home</displayName>
+</concept>
+<concept code="224226001">
+<displayName lang="en" type="PT">No fixed abode</displayName>
+<displayName lang="en" type="FSN">No fixed abode (finding)</displayName>
+<displayName lang="en" type="SY">NFA - No fixed abode</displayName>
+</concept>
+<concept code="224228000">
+<displayName lang="en" type="PT">Living rough</displayName>
+<displayName lang="en" type="FSN">Living rough (finding)</displayName>
+</concept>
+<concept code="224229008">
+<displayName lang="en" type="PT">Sleeping out</displayName>
+<displayName lang="en" type="FSN">Sleeping out (finding)</displayName>
+<displayName lang="en" type="SY">Sleeping rough</displayName>
+</concept>
+<concept code="224231004">
+<displayName lang="en" type="PT">Sleeping in night shelter</displayName>
+<displayName lang="en" type="FSN">Sleeping in night shelter (finding)</displayName>
+</concept>
+<concept code="224232006">
+<displayName lang="en" type="PT">Sleeping at friends home</displayName>
+<displayName lang="en" type="FSN">Sleeping at friends home (finding)</displayName>
+</concept>
+<concept code="224233001">
+<displayName lang="en" type="PT">Sleeping in vehicle</displayName>
+<displayName lang="en" type="FSN">Sleeping in vehicle (finding)</displayName>
+</concept>
+<concept code="224234007">
+<displayName lang="en" type="PT">Home repossessed</displayName>
+<displayName lang="en" type="FSN">Home repossessed (finding)</displayName>
+</concept>
+<concept code="266935003">
+<displayName lang="en" type="PT">Housing lack</displayName>
+<displayName lang="en" type="FSN">Housing lack (finding)</displayName>
+</concept>
+<concept code="266939009">
+<displayName lang="en" type="PT">Lives in residential hostel</displayName>
+<displayName lang="en" type="FSN">Lives in residential hostel (finding)</displayName>
+<displayName lang="en" type="SY">Living in hostel</displayName>
+</concept>
+<concept code="266940006">
+<displayName lang="en" type="PT">Lives in squat</displayName>
+<displayName lang="en" type="FSN">Lives in squat (finding)</displayName>
+<displayName lang="en" type="SY">Squatter</displayName>
+</concept>
+<concept code="276053008">
+<displayName lang="en" type="PT">Tenure of accommodation</displayName>
+<displayName lang="en" type="FSN">Tenure of accommodation (finding)</displayName>
+<displayName lang="en" type="SY">Housing tenure</displayName>
+</concept>
+<concept code="302145009">
+<displayName lang="en" type="PT">Owns own home</displayName>
+<displayName lang="en" type="FSN">Owns own home (finding)</displayName>
+<displayName lang="en" type="SY">Homeowner</displayName>
+</concept>
+<concept code="309681005">
+<displayName lang="en" type="PT">Lives in furnished rented flat</displayName>
+<displayName lang="en" type="FSN">Lives in furnished rented flat (finding)</displayName>
+</concept>
+<concept code="443314009">
+<displayName lang="en" type="PT">Lives as illegal tenant</displayName>
+<displayName lang="en" type="FSN">Lives as illegal tenant (finding)</displayName>
+</concept>
+<concept code="165811000000108">
+<displayName lang="en-GB" type="PT">Lives on private site</displayName>
+<displayName lang="en" type="FSN">Lives on private site (finding)</displayName>
+</concept>
+<concept code="165821000000102">
+<displayName lang="en-GB" type="PT">Lives on council site</displayName>
+<displayName lang="en" type="FSN">Lives on council site (finding)</displayName>
+</concept>
+<concept code="176721000000106">
+<displayName lang="en-GB" type="PT">Lives on unofficial site</displayName>
+<displayName lang="en" type="FSN">Lives on unofficial site (finding)</displayName>
+</concept>
+<concept code="247521000000104">
+<displayName lang="en" type="PT">Living in temporary housing</displayName>
+<displayName lang="en" type="FSN">Living in temporary housing (finding)</displayName>
+</concept>
+<concept code="381751000000106">
+<displayName lang="en" type="PT">Sofa surfer - person of no fixed abode</displayName>
+<displayName lang="en" type="FSN">Sofa surfer - person of no fixed abode (finding)</displayName>
+</concept>
+<concept code="491751000000100">
+<displayName lang="en" type="PT">Lives in local authority rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in local authority rented accommodation (finding)</displayName>
+</concept>
+<concept code="491761000000102">
+<displayName lang="en" type="PT">Lives in housing association rented accommodation</displayName>
+<displayName lang="en" type="FSN">Lives in housing association rented accommodation (finding)</displayName>
+</concept>
+</vocabulary>

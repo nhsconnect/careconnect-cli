@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RequestStatus" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.136">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.136</p>
+            <p>This describes the status value of the Request.</p>
+         </Description>
+   <concept code="01">
+      <displayName>A and G Request</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>A and G Response</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>A and G Cancelled</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>A and G Closed</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Assessed</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Assessment Result</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Not Sent</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Not Reviewed</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Referred On</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Rejected</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Request Cancelled</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Complete</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Confirmed</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Noshow</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Request</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Scheduled</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Shortlisted</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Un-initialised</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsentCode" version="1.0" status="created" id="2.16.840.1.113883.12.59">
+   <Description>The type of consent that was obtained for permission to treat the patient. 
+					Table type: User</Description>
+</vocabulary>

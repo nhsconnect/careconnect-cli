@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CallbackConsent" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.99">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.99</p>
+            <p>Whether the patient / proxy can be called back to confirm / discuss details of the appointment.</p>
+         </Description>
+   <concept code="0">
+      <displayName>No</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Yes</displayName>
+   </concept>
+</vocabulary>

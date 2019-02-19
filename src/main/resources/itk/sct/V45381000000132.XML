@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Remote Monitoring" type="Realm Concept" setId="68101000000135" version="7" id="45381000000132" refId="999000861000000108" memberCount="11" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="42665001">
+<displayName lang="en" type="FSN">Nursing home (environment)</displayName>
+<displayName lang="en" type="SY">NH - Nursing home</displayName>
+</concept>
+<concept code="81234003">
+<displayName lang="en" type="PT">Walk-in clinic</displayName>
+<displayName lang="en" type="FSN">Walk-in clinic (environment)</displayName>
+<displayName lang="en-GB" type="SY">Walk-in centre</displayName>
+</concept>
+<concept code="185334006">
+<displayName lang="en-GB" type="PT">Patient on holiday</displayName>
+<displayName lang="en" type="FSN">Patient on vacation (finding)</displayName>
+</concept>
+<concept code="257585005">
+<displayName lang="en" type="PT">Clinic</displayName>
+<displayName lang="en" type="FSN">Clinic (environment)</displayName>
+</concept>
+<concept code="257628001">
+<displayName lang="en" type="PT">Hostel</displayName>
+<displayName lang="en" type="FSN">Hostel (environment)</displayName>
+</concept>
+<concept code="257688003">
+<displayName lang="en" type="PT">Residential home</displayName>
+<displayName lang="en" type="FSN">Residential home (environment)</displayName>
+<displayName lang="en" type="SY">RH - Residential home</displayName>
+<displayName lang="en" type="SY">RH - Rest home</displayName>
+<displayName lang="en" type="SY">Rest home</displayName>
+<displayName lang="en" type="SY">Retirement home</displayName>
+</concept>
+<concept code="264358009">
+<displayName lang="en" type="PT">General practice premises</displayName>
+<displayName lang="en" type="FSN">General practice premises (environment)</displayName>
+<displayName lang="en" type="SY">GP premises</displayName>
+<displayName lang="en" type="SY">GP surgery</displayName>
+<displayName lang="en-GB" type="SY">General practice surgery</displayName>
+</concept>
+<concept code="264372000">
+<displayName lang="en" type="PT">Pharmacy</displayName>
+<displayName lang="en" type="FSN">Pharmacy (environment)</displayName>
+</concept>
+<concept code="284546000">
+<displayName lang="en" type="PT">Hospice</displayName>
+<displayName lang="en" type="FSN">Hospice (environment)</displayName>
+</concept>
+<concept code="285141008">
+<displayName lang="en" type="PT">Work environment</displayName>
+<displayName lang="en" type="FSN">Work environment (environment)</displayName>
+<displayName lang="en" type="SY">Workplace</displayName>
+</concept>
+<concept code="394778007">
+<displayName lang="en" type="PT">Client&apos;s or patient&apos;s home</displayName>
+<displayName lang="en" type="FSN">Client&apos;s or patient&apos;s home (environment)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrAttachmentCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.15">
+   <Description>
+            <p>Indicates the type of content of an attachment.</p>
+	           <p>Does not indicate the binary data type as this is specified by an element within the ED datatype of the attribute containing or referring to the attachment.</p>
+	           <p>A code from one of the following:</p>
+	           <dl>
+		             <dt>
+			               <b>AttachmentCodeSnCT</b>
+		             </dt>
+		             <dt>
+			               <b>NHSEdiMessageTypeCode</b>
+		             </dt>
+	           </dl>
+         </Description>
+</vocabulary>

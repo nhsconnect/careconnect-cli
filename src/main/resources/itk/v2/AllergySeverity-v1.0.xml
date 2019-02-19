@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AllergySeverity" version="1.0" status="created"
+            id="2.16.840.1.113883.12.128">
+   <Description>This table indicates the general severity of the allergy.
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>Unknown</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Insignificant/Minimal</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Mild</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Moderate</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Moderate-Severe</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Very Severe</displayName>
+   </concept>
+</vocabulary>

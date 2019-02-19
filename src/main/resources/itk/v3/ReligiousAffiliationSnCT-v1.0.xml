@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReligiousAffiliationSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the Snomed-CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes the religious or other belief system affiliation of a person. </p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK CDA Care Setting Type subset with subset original id 10791000000130</strong>. </p>
+            </p>
+         </Description>
+</vocabulary>

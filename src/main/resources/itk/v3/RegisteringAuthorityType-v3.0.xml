@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RegisteringAuthorityType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.20">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary RegisteringAuthorityType</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.20</p>
+            <p>A code indicating the type of registering authority.</p>
+         </Description>
+   <concept code="a">
+      <displayName>Strategic Health Authority</displayName>
+   </concept>
+   <concept code="b">
+      <displayName>Director of Health and Social Care</displayName>
+   </concept>
+   <concept code="c">
+      <displayName>NHS Trust</displayName>
+   </concept>
+   <concept code="d">
+      <displayName>GP Practice</displayName>
+   </concept>
+   <concept code="e">
+      <displayName>Other NHS Organisation</displayName>
+   </concept>
+   <concept code="f">
+      <displayName>Armed Forces</displayName>
+   </concept>
+   <concept code="g">
+      <displayName>MOD Hospital</displayName>
+   </concept>
+   <concept code="h">
+      <displayName>IM&amp;T Service</displayName>
+   </concept>
+   <concept code="i">
+      <displayName>Special Trustee</displayName>
+   </concept>
+   <concept code="j">
+      <displayName>University</displayName>
+   </concept>
+   <concept code="k">
+      <displayName>Other Statutory Authority</displayName>
+   </concept>
+   <concept code="l">
+      <displayName>NHS Administration Unit</displayName>
+   </concept>
+   <concept code="m">
+      <displayName>Breast Screening Unit</displayName>
+   </concept>
+   <concept code="n">
+      <displayName>Pathology Laboratory</displayName>
+   </concept>
+   <concept code="o">
+      <displayName>Department of Health</displayName>
+   </concept>
+   <concept code="p">
+      <displayName>Other Government Department</displayName>
+   </concept>
+   <concept code="q">
+      <displayName>Registered non-NHS Provider</displayName>
+   </concept>
+   <concept code="r">
+      <displayName>Unregistered non-NHS Provider (except Local Authority)</displayName>
+   </concept>
+   <concept code="s">
+      <displayName>Non-NHS Commissioner (except Local Authority)</displayName>
+   </concept>
+   <concept code="t">
+      <displayName>Local Authority</displayName>
+   </concept>
+   <concept code="u">
+      <displayName>Pharmacy</displayName>
+   </concept>
+   <concept code="v">
+      <displayName>Appliance Contractor</displayName>
+   </concept>
+   <concept code="w">
+      <displayName>Specialised Services Commissioning Consortium</displayName>
+   </concept>
+   <concept code="x">
+      <displayName>Primary Care Trust</displayName>
+   </concept>
+   <concept code="y">
+      <displayName>NHAIS</displayName>
+   </concept>
+</vocabulary>

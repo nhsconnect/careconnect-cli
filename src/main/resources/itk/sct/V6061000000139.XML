@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Care Plan Type" type="Realm Concept" setId="67811000000134" version="6" id="6061000000139" refId="999001471000000108" memberCount="114" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="313111000000105">
+<displayName lang="en" type="PT">Integrated Care and Support Plan</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - FocusActOrEvent (record artifact)</displayName>
+</concept>
+<concept code="325661000000106">
+<displayName lang="en" type="PT">Care plan</displayName>
+<displayName lang="en" type="FSN">Care plan (record artifact)</displayName>
+</concept>
+<concept code="325671000000104">
+<displayName lang="en" type="PT">Integrated care plan</displayName>
+<displayName lang="en" type="FSN">Integrated care plan (record artifact)</displayName>
+</concept>
+<concept code="325681000000102">
+<displayName lang="en" type="PT">Crisis plan</displayName>
+<displayName lang="en" type="FSN">Crisis plan (record artifact)</displayName>
+</concept>
+<concept code="325691000000100">
+<displayName lang="en" type="PT">Contingency plan</displayName>
+<displayName lang="en" type="FSN">Contingency plan (record artifact)</displayName>
+</concept>
+<concept code="326071000000101">
+<displayName lang="en" type="PT">Child in need plan</displayName>
+<displayName lang="en" type="FSN">Child in need plan (record artifact)</displayName>
+</concept>
+<concept code="326321000000103">
+<displayName lang="en" type="PT">Social care plan</displayName>
+<displayName lang="en" type="FSN">Social care plan (record artifact)</displayName>
+</concept>
+<concept code="372991000000103">
+<displayName lang="en" type="PT">Falls prevention plan</displayName>
+<displayName lang="en" type="FSN">Falls prevention plan (record artifact)</displayName>
+</concept>
+<concept code="376531000000105">
+<displayName lang="en" type="PT">Coordinated support plan</displayName>
+<displayName lang="en" type="FSN">Coordinated support plan (record artifact)</displayName>
+</concept>
+<concept code="491851000000108">
+<displayName lang="en" type="PT">Individualised educational programme</displayName>
+<displayName lang="en" type="FSN">Individualised educational programme (record artifact)</displayName>
+</concept>
+<concept code="516281000000102">
+<displayName lang="en" type="PT">Patient held care plan</displayName>
+<displayName lang="en" type="FSN">Patient held care plan (record artifact)</displayName>
+</concept>
+<concept code="750001000000109">
+<displayName lang="en" type="PT">Integrated Care and Support Plan - Continuing Health Care Funded</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - Continuing Health Care Funded (record artifact)</displayName>
+</concept>
+<concept code="750011000000106">
+<displayName lang="en" type="PT">Integrated Care and Support Plan - Funded Nursing Care</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - Funded Nursing Care (record artifact)</displayName>
+</concept>
+<concept code="750021000000100">
+<displayName lang="en" type="PT">Integrated Care and Support Plan - Local Authority Joint Funded</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - Local Authority Joint Funded (record artifact)</displayName>
+</concept>
+<concept code="750031000000103">
+<displayName lang="en" type="PT">Integrated Care and Support Plan - Local Authority Only Funded</displayName>
+<displayName lang="en" type="FSN">Integrated Care and Support Plan - Local Authority Only Funded (record artifact)</displayName>
+</concept>
+<concept code="774051000000100">
+<displayName lang="en" type="PT">Gynaecology inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Gynaecology inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774071000000109">
+<displayName lang="en" type="PT">Gynaecology major surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Gynaecology major surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774101000000100">
+<displayName lang="en" type="PT">Gynaecology minor surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Gynaecology minor surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774111000000103">
+<displayName lang="en" type="PT">Gynaecology unplanned inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Gynaecology unplanned inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774171000000108">
+<displayName lang="en" type="PT">Inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774181000000105">
+<displayName lang="en" type="PT">Major surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774191000000107">
+<displayName lang="en" type="PT">Minor surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774201000000109">
+<displayName lang="en" type="PT">Unplanned inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Unplanned inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="774211000000106">
+<displayName lang="en" type="PT">Major complex surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major complex surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="793911000000108">
+<displayName lang="en" type="PT">Coronary heart disease care plan</displayName>
+<displayName lang="en" type="FSN">Coronary heart disease care plan (record artifact)</displayName>
+</concept>
+<concept code="799181000000101">
+<displayName lang="en" type="PT">Critical care medicine care plan</displayName>
+<displayName lang="en" type="FSN">Critical care medical care plan (record artifact)</displayName>
+</concept>
+<concept code="799191000000104">
+<displayName lang="en" type="PT">Critical care medicine major complex surgery care plan</displayName>
+<displayName lang="en" type="FSN">Critical care medical care plan for major complex surgery (record artifact)</displayName>
+</concept>
+<concept code="799201000000102">
+<displayName lang="en" type="PT">Critical care medicine major surgery care plan</displayName>
+<displayName lang="en" type="FSN">Critical care medical care plan for major surgery (record artifact)</displayName>
+</concept>
+<concept code="799281000000107">
+<displayName lang="en" type="PT">Critical care medicine surgery care plan</displayName>
+<displayName lang="en" type="FSN">Critical care medical care plan for surgery (record artifact)</displayName>
+</concept>
+<concept code="806681000000101">
+<displayName lang="en" type="PT">Gynaecology bladder training inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Gynaecology bladder training inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="806691000000104">
+<displayName lang="en" type="PT">Ovarian hyperstimulation syndrome inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Ovarian hyperstimulation syndrome inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="806701000000104">
+<displayName lang="en" type="PT">Hyperemesis in pregnancy inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Hyperemesis in pregnancy inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="806771000000107">
+<displayName lang="en" type="PT">Termination of pregnancy inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Termination of pregnancy inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="806821000000101">
+<displayName lang="en" type="PT">Miscarriage care plan</displayName>
+<displayName lang="en" type="FSN">Miscarriage care plan (record artifact)</displayName>
+</concept>
+<concept code="820121000000100">
+<displayName lang="en" type="PT">Discharge care plan</displayName>
+<displayName lang="en" type="FSN">Discharge care plan (record artifact)</displayName>
+</concept>
+<concept code="823581000000101">
+<displayName lang="en" type="PT">Multidisciplinary care plan</displayName>
+<displayName lang="en" type="FSN">Multidisciplinary care plan (record artifact)</displayName>
+</concept>
+<concept code="844371000000105">
+<displayName lang="en" type="PT">Cancer survivorship care plan</displayName>
+<displayName lang="en" type="FSN">Cancer survivorship care plan (record artifact)</displayName>
+</concept>
+<concept code="846031000000102">
+<displayName lang="en" type="PT">Breast surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Breast surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="846361000000105">
+<displayName lang="en" type="PT">Vascular surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Vascular surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="846561000000103">
+<displayName lang="en" type="PT">Major vascular surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major vascular surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="846571000000105">
+<displayName lang="en" type="PT">Urological surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Urological surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="846601000000103">
+<displayName lang="en" type="PT">Minor urological surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor urological surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="846611000000101">
+<displayName lang="en" type="PT">Major urological surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major urological surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="849731000000108">
+<displayName lang="en" type="PT">Upper gastrointestinal surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Upper gastrointestinal surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="850461000000101">
+<displayName lang="en" type="PT">Bronchoscopy care plan</displayName>
+<displayName lang="en" type="FSN">Bronchoscopy care plan (record artifact)</displayName>
+</concept>
+<concept code="850471000000108">
+<displayName lang="en" type="PT">Thoracic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Thoracic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="850501000000101">
+<displayName lang="en" type="PT">Cardiac surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Cardiac surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851301000000102">
+<displayName lang="en" type="PT">Stroke care plan</displayName>
+<displayName lang="en" type="FSN">Stroke care plan (record artifact)</displayName>
+</concept>
+<concept code="851311000000100">
+<displayName lang="en" type="PT">Respite care plan</displayName>
+<displayName lang="en" type="FSN">Respite care plan (record artifact)</displayName>
+</concept>
+<concept code="851321000000106">
+<displayName lang="en" type="PT">Acute exacerbation of chronic obstructive pulmonary disease care plan</displayName>
+<displayName lang="en" type="FSN">Acute exacerbation of chronic obstructive pulmonary disease care plan (record artifact)</displayName>
+<displayName lang="en" type="SY">Acute exacerbation of COPD (chronic obstructive pulmonary disease) care plan</displayName>
+</concept>
+<concept code="851331000000108">
+<displayName lang="en" type="PT">Burn inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Burn inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851341000000104">
+<displayName lang="en" type="PT">Cardiology inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Cardiology inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851351000000101">
+<displayName lang="en" type="PT">Chemotherapy care plan</displayName>
+<displayName lang="en" type="FSN">Chemotherapy care plan (record artifact)</displayName>
+</concept>
+<concept code="851361000000103">
+<displayName lang="en" type="PT">Colorectal surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Colorectal surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851401000000107">
+<displayName lang="en" type="PT">Minor thoracic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor thoracic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851411000000109">
+<displayName lang="en" type="PT">Respiratory disorder inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Respiratory disorder inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851421000000103">
+<displayName lang="en" type="PT">Rehabilitation care plan</displayName>
+<displayName lang="en" type="FSN">Rehabilitation care plan (record artifact)</displayName>
+</concept>
+<concept code="851431000000101">
+<displayName lang="en" type="PT">Radiotherapy care plan</displayName>
+<displayName lang="en" type="FSN">Radiotherapy care plan (record artifact)</displayName>
+</concept>
+<concept code="851611000000107">
+<displayName lang="en" type="PT">Major colorectal surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major colorectal surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851621000000101">
+<displayName lang="en" type="PT">Colposcopy care plan</displayName>
+<displayName lang="en" type="FSN">Colposcopy care plan (record artifact)</displayName>
+</concept>
+<concept code="851631000000104">
+<displayName lang="en" type="PT">Cystoscopy care plan</displayName>
+<displayName lang="en" type="FSN">Cystoscopy care plan (record artifact)</displayName>
+</concept>
+<concept code="851641000000108">
+<displayName lang="en" type="PT">Haemodialysis care plan</displayName>
+<displayName lang="en" type="FSN">Haemodialysis care plan (record artifact)</displayName>
+</concept>
+<concept code="851661000000109">
+<displayName lang="en" type="PT">Major head and neck surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major head and neck surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851671000000102">
+<displayName lang="en" type="PT">Hip fracture inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Hip fracture inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851681000000100">
+<displayName lang="en" type="PT">Hysteroscopy care plan</displayName>
+<displayName lang="en" type="FSN">Hysteroscopy care plan (record artifact)</displayName>
+</concept>
+<concept code="851691000000103">
+<displayName lang="en" type="PT">Plastic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Plastic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851701000000103">
+<displayName lang="en" type="PT">Paediatric inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851721000000107">
+<displayName lang="en" type="PT">Paediatric surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851731000000109">
+<displayName lang="en" type="PT">Orthopaedic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Orthopaedic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851741000000100">
+<displayName lang="en" type="PT">Minor orthopaedic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor orthopaedic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851751000000102">
+<displayName lang="en" type="PT">Major orthopaedic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major orthopaedic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851761000000104">
+<displayName lang="en" type="PT">Ophthalmic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Ophthalmic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851771000000106">
+<displayName lang="en" type="PT">Minor ophthalmic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor ophthalmic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851781000000108">
+<displayName lang="en" type="PT">Neurosurgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Neurosurgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851791000000105">
+<displayName lang="en" type="PT">Major neurosurgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major neurosurgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851801000000109">
+<displayName lang="en" type="PT">Interventional cardiology inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Interventional cardiology inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851811000000106">
+<displayName lang="en" type="PT">Miscarriage inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Miscarriage inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851841000000107">
+<displayName lang="en" type="PT">Minor plastic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Minor plastic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="851881000000104">
+<displayName lang="en" type="PT">Infectious disease care plan</displayName>
+<displayName lang="en" type="FSN">Infectious disease care plan (record artifact)</displayName>
+</concept>
+<concept code="851891000000102">
+<displayName lang="en" type="PT">Percutaneous endoscopic gastrostomy insertion care plan</displayName>
+<displayName lang="en" type="FSN">Percutaneous endoscopic gastrostomy insertion care plan (record artifact)</displayName>
+</concept>
+<concept code="852061000000105">
+<displayName lang="en" type="PT">Hepatobiliary and pancreatic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Hepatobiliary and pancreatic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="852221000000107">
+<displayName lang="en" type="PT">Major plastic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major plastic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="852261000000104">
+<displayName lang="en" type="PT">Laryngectomy surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Laryngectomy surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="852851000000101">
+<displayName lang="en" type="PT">Lower gastrointestinal tract endoscopy care plan</displayName>
+<displayName lang="en" type="FSN">Lower gastrointestinal tract endoscopy care plan (record artifact)</displayName>
+</concept>
+<concept code="852861000000103">
+<displayName lang="en" type="PT">Major burn inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Major burn inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="857891000000106">
+<displayName lang="en" type="PT">Community care plan</displayName>
+<displayName lang="en" type="FSN">Community care plan (record artifact)</displayName>
+</concept>
+<concept code="859011000000104">
+<displayName lang="en" type="PT">Mental health care plan</displayName>
+<displayName lang="en" type="FSN">Mental health care plan (record artifact)</displayName>
+</concept>
+<concept code="859301000000103">
+<displayName lang="en" type="PT">Complex community care plan</displayName>
+<displayName lang="en" type="FSN">Complex community care plan (record artifact)</displayName>
+</concept>
+<concept code="860921000000105">
+<displayName lang="en" type="PT">Pressure ulcer care plan</displayName>
+<displayName lang="en" type="FSN">Pressure ulcer care plan (record artifact)</displayName>
+</concept>
+<concept code="861101000000108">
+<displayName lang="en" type="PT">Day case care plan</displayName>
+<displayName lang="en" type="FSN">Day case care plan (record artifact)</displayName>
+</concept>
+<concept code="862221000000100">
+<displayName lang="en" type="PT">Surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="862441000000106">
+<displayName lang="en" type="PT">Day case surgery care plan</displayName>
+<displayName lang="en" type="FSN">Day case surgery care plan (record artifact)</displayName>
+</concept>
+<concept code="864671000000108">
+<displayName lang="en" type="PT">Pain control care plan</displayName>
+<displayName lang="en" type="FSN">Pain control care plan (record artifact)</displayName>
+</concept>
+<concept code="865741000000109">
+<displayName lang="en" type="PT">Miscarriage surgical management care plan</displayName>
+<displayName lang="en" type="FSN">Miscarriage surgical management care plan (record artifact)</displayName>
+</concept>
+<concept code="869791000000101">
+<displayName lang="en" type="PT">Dementia care plan</displayName>
+<displayName lang="en" type="FSN">Dementia care plan (record artifact)</displayName>
+</concept>
+<concept code="877331000000102">
+<displayName lang="en" type="PT">Outpatient care plan</displayName>
+<displayName lang="en" type="FSN">Outpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="877361000000107">
+<displayName lang="en" type="PT">Paediatric outpatient care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric outpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="877391000000101">
+<displayName lang="en" type="PT">Paediatric community care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric community care plan (record artifact)</displayName>
+</concept>
+<concept code="877401000000103">
+<displayName lang="en" type="PT">Neonatal critical care plan</displayName>
+<displayName lang="en" type="FSN">Neonatal critical care plan (record artifact)</displayName>
+</concept>
+<concept code="877431000000109">
+<displayName lang="en" type="PT">Paediatric orthopaedic surgery inpatient care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric orthopaedic surgery inpatient care plan (record artifact)</displayName>
+</concept>
+<concept code="877441000000100">
+<displayName lang="en" type="PT">Paediatric intensive care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric intensive care plan (record artifact)</displayName>
+</concept>
+<concept code="878101000000107">
+<displayName lang="en" type="PT">Contraceptive implant clinical management plan</displayName>
+<displayName lang="en" type="FSN">Contraceptive implant clinical management plan (record artifact)</displayName>
+</concept>
+<concept code="878121000000103">
+<displayName lang="en" type="PT">Paediatric complex community care plan</displayName>
+<displayName lang="en" type="FSN">Paediatric complex community care plan (record artifact)</displayName>
+</concept>
+<concept code="879781000000106">
+<displayName lang="en" type="PT">Single Assessment Process care plan</displayName>
+<displayName lang="en" type="FSN">Single Assessment Process care plan (record artifact)</displayName>
+<displayName lang="en" type="SY">SAP (Single Assessment Process) care plan</displayName>
+</concept>
+<concept code="880331000000106">
+<displayName lang="en" type="PT">Management plan for shared care</displayName>
+<displayName lang="en" type="FSN">Management plan for shared care (record artifact)</displayName>
+</concept>
+<concept code="880851000000108">
+<displayName lang="en" type="PT">Maternity care plan</displayName>
+<displayName lang="en" type="FSN">Maternity care plan (record artifact)</displayName>
+</concept>
+<concept code="881011000000107">
+<displayName lang="en" type="PT">Upper gastrointestinal tract endoscopy care plan</displayName>
+<displayName lang="en" type="FSN">Upper gastrointestinal tract endoscopy care plan (record artifact)</displayName>
+</concept>
+<concept code="887701000000100">
+<displayName lang="en" type="PT">Emergency health care plan</displayName>
+<displayName lang="en" type="FSN">Emergency health care plan (record artifact)</displayName>
+</concept>
+<concept code="913631000000104">
+<displayName lang="en" type="PT">Admission avoidance care plan</displayName>
+<displayName lang="en" type="FSN">Admission avoidance care plan (record artifact)</displayName>
+</concept>
+<concept code="914841000000105">
+<displayName lang="en" type="PT">Anticipatory care plan</displayName>
+<displayName lang="en" type="FSN">Anticipatory care plan (record artifact)</displayName>
+</concept>
+<concept code="927771000000106">
+<displayName lang="en" type="PT">Advance care plan</displayName>
+<displayName lang="en" type="FSN">Advance care plan (record artifact)</displayName>
+</concept>
+<concept code="935921000000102">
+<displayName lang="en" type="PT">End of life care plan</displayName>
+<displayName lang="en" type="FSN">End of life care plan (record artifact)</displayName>
+</concept>
+<concept code="959361000000105">
+<displayName lang="en" type="PT">Dementia advance care plan</displayName>
+<displayName lang="en" type="FSN">Dementia advance care plan (record artifact)</displayName>
+</concept>
+<concept code="966931000000100">
+<displayName lang="en" type="PT">Treatment Escalation Plan</displayName>
+<displayName lang="en" type="FSN">Treatment Escalation Plan (record artifact)</displayName>
+</concept>
+</vocabulary>

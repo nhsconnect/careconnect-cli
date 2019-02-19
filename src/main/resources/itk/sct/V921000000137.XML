@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Lifestyle" type="Realm Concept" setId="68621000000137" version="19" id="921000000137" refId="999000831000000103" memberCount="538" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="219006">
+<displayName lang="en" type="PT">Current drinker</displayName>
+<displayName lang="en" type="FSN">Current drinker of alcohol (finding)</displayName>
+<displayName lang="en" type="SY">Alcohol user</displayName>
+<displayName lang="en" type="SY">Current drinker of alcohol</displayName>
+<displayName lang="en-GB" type="SY">Drinks</displayName>
+<displayName lang="en" type="SY">Drinks alcohol</displayName>
+</concept>
+<concept code="5602001">
+<displayName lang="en" type="PT">Opioid abuse</displayName>
+<displayName lang="en" type="FSN">Opioid abuse (disorder)</displayName>
+</concept>
+<concept code="6525002">
+<displayName lang="en" type="PT">Dependent drug abuse</displayName>
+<displayName lang="en" type="FSN">Dependent drug abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Drug addiction</displayName>
+</concept>
+<concept code="7071007">
+<displayName lang="en" type="PT">PCP abuse</displayName>
+<displayName lang="en" type="FSN">Phencyclidine abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Phencyclidine (PCP) abuse</displayName>
+<displayName lang="en" type="SY">Phencyclidine abuse</displayName>
+</concept>
+<concept code="8392000">
+<displayName lang="en" type="PT">Non-smoker</displayName>
+<displayName lang="en" type="FSN">Non-smoker (finding)</displayName>
+</concept>
+<concept code="8517006">
+<displayName lang="en" type="PT">Ex-smoker</displayName>
+<displayName lang="en" type="FSN">Ex-smoker (finding)</displayName>
+<displayName lang="en" type="SY">Cessation of smoking</displayName>
+</concept>
+<concept code="9769006">
+<displayName lang="en" type="PT">Drug habituation</displayName>
+<displayName lang="en" type="FSN">Drug habituation (disorder)</displayName>
+</concept>
+<concept code="15167005">
+<displayName lang="en" type="PT">Alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Alcohol abuse (disorder)</displayName>
+<displayName lang="en" type="SY">AA - Alcohol abuse</displayName>
+<displayName lang="en" type="SY">Alcohol misuse</displayName>
+<displayName lang="en" type="SY">Ethanol abuse</displayName>
+</concept>
+<concept code="26416006">
+<displayName lang="en" type="PT">Drug abuse</displayName>
+<displayName lang="en" type="FSN">Drug abuse (disorder)</displayName>
+</concept>
+<concept code="28127009">
+<displayName lang="en" type="PT">Social drinker</displayName>
+<displayName lang="en" type="FSN">Social drinker (finding)</displayName>
+</concept>
+<concept code="32553006">
+<displayName lang="en" type="PT">Hangover</displayName>
+<displayName lang="en" type="FSN">Hangover (finding)</displayName>
+<displayName lang="en" type="SY">Hangover effect</displayName>
+<displayName lang="en" type="SY">Hangover from alcohol</displayName>
+</concept>
+<concept code="37344009">
+<displayName lang="en" type="PT">Cannabis abuse</displayName>
+<displayName lang="en" type="FSN">Cannabis abuse (disorder)</displayName>
+</concept>
+<concept code="40979000">
+<displayName lang="en" type="PT">Lack of exercise</displayName>
+<displayName lang="en" type="FSN">Lack of exercise (finding)</displayName>
+<displayName lang="en" type="SY">Lack of physical exercise</displayName>
+</concept>
+<concept code="43381005">
+<displayName lang="en" type="PT">Passive smoker</displayName>
+<displayName lang="en" type="FSN">Passive smoker (finding)</displayName>
+<displayName lang="en" type="SY">ETS - Exposed to tobacco smoke</displayName>
+<displayName lang="en" type="SY">Exposed to environmental tobacco smoke</displayName>
+<displayName lang="en" type="SY">Exposed to second hand tobacco smoke</displayName>
+<displayName lang="en" type="SY">Exposed to tobacco smoke</displayName>
+<displayName lang="en" type="SY">Involuntary smoker</displayName>
+</concept>
+<concept code="43783005">
+<displayName lang="en" type="PT">Moderate drinker</displayName>
+<displayName lang="en" type="FSN">Moderate drinker (finding)</displayName>
+</concept>
+<concept code="43954004">
+<displayName lang="en" type="PT">Head-banging</displayName>
+<displayName lang="en" type="FSN">Head-banging (finding)</displayName>
+<displayName lang="en" type="SY">Head banging</displayName>
+</concept>
+<concept code="44870007">
+<displayName lang="en" type="PT">Misused drugs in past</displayName>
+<displayName lang="en" type="FSN">Misused drugs in past (finding)</displayName>
+<displayName lang="en" type="SY">Ex-drug addict</displayName>
+<displayName lang="en" type="SY">Ex-drug misuser</displayName>
+<displayName lang="en" type="SY">Ex-drug user</displayName>
+</concept>
+<concept code="49540005">
+<displayName lang="en" type="PT">Non dependent drug abuse</displayName>
+<displayName lang="en" type="FSN">Non dependent drug abuse (disorder)</displayName>
+</concept>
+<concept code="53896009">
+<displayName lang="en" type="PT">Tolerant ex-smoker</displayName>
+<displayName lang="en" type="FSN">Tolerant ex-smoker (finding)</displayName>
+</concept>
+<concept code="56578002">
+<displayName lang="en" type="PT">Moderate smoker (20 or less per day)</displayName>
+<displayName lang="en" type="FSN">Moderate smoker (20 or less per day) (finding)</displayName>
+</concept>
+<concept code="56771006">
+<displayName lang="en" type="PT">Heavy smoker (over 20 per day)</displayName>
+<displayName lang="en" type="FSN">Heavy smoker (over 20 per day) (finding)</displayName>
+</concept>
+<concept code="59978006">
+<displayName lang="en" type="PT">Cigar smoker</displayName>
+<displayName lang="en" type="FSN">Cigar smoker (finding)</displayName>
+</concept>
+<concept code="64386003">
+<displayName lang="en" type="PT">Sedative abuse</displayName>
+<displayName lang="en" type="FSN">Sedative abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Sedative, hypnotic AND/OR anxiolytic abuse</displayName>
+<displayName lang="en-GB" type="SY">Tranquilliser abuse</displayName>
+</concept>
+<concept code="65568007">
+<displayName lang="en" type="PT">Cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Cigarette smoker (finding)</displayName>
+</concept>
+<concept code="66214007">
+<displayName lang="en" type="PT">Substance abuse</displayName>
+<displayName lang="en" type="FSN">Substance abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Harmful substance use</displayName>
+<displayName lang="en" type="SY">Nondependent abuse of drugs</displayName>
+<displayName lang="en" type="SY">Nondependent abuse of substance</displayName>
+<displayName lang="en" type="SY">Substance misuse</displayName>
+</concept>
+<concept code="70340006">
+<displayName lang="en" type="PT">Inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Inhalant abuse (disorder)</displayName>
+</concept>
+<concept code="70545002">
+<displayName lang="en" type="PT">Narcotic drug user</displayName>
+<displayName lang="en" type="FSN">Narcotic drug user (finding)</displayName>
+</concept>
+<concept code="74851005">
+<displayName lang="en" type="PT">Hallucinogen abuse</displayName>
+<displayName lang="en" type="FSN">Hallucinogen abuse (disorder)</displayName>
+</concept>
+<concept code="77176002">
+<displayName lang="en" type="PT">Smoker</displayName>
+<displayName lang="en" type="FSN">Smoker (finding)</displayName>
+<displayName lang="en" type="SY">Current smoker</displayName>
+</concept>
+<concept code="78267003">
+<displayName lang="en" type="PT">Cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="81703003">
+<displayName lang="en" type="PT">Chews tobacco</displayName>
+<displayName lang="en" type="FSN">Chews tobacco (finding)</displayName>
+</concept>
+<concept code="82302008">
+<displayName lang="en" type="PT">Pipe smoker</displayName>
+<displayName lang="en" type="FSN">Pipe smoker (finding)</displayName>
+</concept>
+<concept code="82581004">
+<displayName lang="en" type="PT">Ex-drinker</displayName>
+<displayName lang="en" type="FSN">Ex-drinker (finding)</displayName>
+</concept>
+<concept code="84758004">
+<displayName lang="en" type="PT">Amphetamine abuse</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Amfetamine abuse</displayName>
+<displayName lang="en" type="SY">Drug abuse using speed</displayName>
+</concept>
+<concept code="86933000">
+<displayName lang="en" type="PT">Heavy drinker</displayName>
+<displayName lang="en" type="FSN">Heavy drinker (finding)</displayName>
+<displayName lang="en" type="SY">Drinks heavily</displayName>
+</concept>
+<concept code="87739003">
+<displayName lang="en" type="PT">Tolerant non-smoker</displayName>
+<displayName lang="en" type="FSN">Tolerant non-smoker (finding)</displayName>
+</concept>
+<concept code="91388009">
+<displayName lang="en" type="PT">Psychoactive substance abuse</displayName>
+<displayName lang="en" type="FSN">Psychoactive substance abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Disorder due to psychoactive substance use</displayName>
+<displayName lang="en" type="SY">Psychoactive substance misuse disorder</displayName>
+</concept>
+<concept code="102533007">
+<displayName lang="en" type="PT">Excessive exercise</displayName>
+<displayName lang="en" type="FSN">Excessive exercise (finding)</displayName>
+<displayName lang="en" type="SY">Excessive physical exercise</displayName>
+</concept>
+<concept code="102947004">
+<displayName lang="en-GB" type="PT">High risk sexual behaviour</displayName>
+<displayName lang="en" type="FSN">High risk sexual behavior (finding)</displayName>
+<displayName lang="en" type="SY">Unsafe sexual practices</displayName>
+</concept>
+<concept code="105539002">
+<displayName lang="en" type="PT">Non-smoker for personal reasons</displayName>
+<displayName lang="en" type="FSN">Non-smoker for personal reasons (finding)</displayName>
+</concept>
+<concept code="105540000">
+<displayName lang="en" type="PT">Non-smoker for religious reasons</displayName>
+<displayName lang="en" type="FSN">Non-smoker for religious reasons (finding)</displayName>
+</concept>
+<concept code="105541001">
+<displayName lang="en" type="PT">Non-smoker for medical reasons</displayName>
+<displayName lang="en" type="FSN">Non-smoker for medical reasons (finding)</displayName>
+</concept>
+<concept code="105542008">
+<displayName lang="en" type="PT">Non - drinker</displayName>
+<displayName lang="en" type="FSN">Current non-drinker of alcohol (finding)</displayName>
+<displayName lang="en" type="SY">Abstinent</displayName>
+<displayName lang="en" type="SY">Current non-drinker of alcohol</displayName>
+<displayName lang="en" type="SY">Does not drink alcohol</displayName>
+<displayName lang="en" type="SY">Never drinks</displayName>
+<displayName lang="en" type="SY">Non - drinker alcohol</displayName>
+<displayName lang="en" type="SY">Teetotaller</displayName>
+</concept>
+<concept code="105543003">
+<displayName lang="en" type="PT">Non-drinker for personal reasons</displayName>
+<displayName lang="en" type="FSN">Non-drinker for personal reasons (finding)</displayName>
+</concept>
+<concept code="105544009">
+<displayName lang="en" type="PT">Non-drinker for religious reasons</displayName>
+<displayName lang="en" type="FSN">Non-drinker for religious reasons (finding)</displayName>
+</concept>
+<concept code="105545005">
+<displayName lang="en" type="PT">Non-drinker for medical reasons</displayName>
+<displayName lang="en" type="FSN">Non-drinker for medical reasons (finding)</displayName>
+</concept>
+<concept code="105546006">
+<displayName lang="en" type="PT">Occasional drug abuser</displayName>
+<displayName lang="en" type="FSN">Occasional drug abuser (finding)</displayName>
+<displayName lang="en" type="SY">Occasional drug misuser</displayName>
+<displayName lang="en" type="SY">Occasional drug user</displayName>
+</concept>
+<concept code="105549004">
+<displayName lang="en" type="PT">Abuses volatile solvents</displayName>
+<displayName lang="en" type="FSN">Abuses volatile solvents (finding)</displayName>
+<displayName lang="en" type="SY">Misuses volatile solvents</displayName>
+<displayName lang="en" type="SY">Volatile solvent abuser</displayName>
+</concept>
+<concept code="105550004">
+<displayName lang="en" type="PT">Misused volatile solvents in past</displayName>
+<displayName lang="en" type="FSN">Misused volatile solvents in past (finding)</displayName>
+<displayName lang="en" type="SY">Former volatile solvent user</displayName>
+</concept>
+<concept code="110281001">
+<displayName lang="en" type="PT">Chronic drug abuse</displayName>
+<displayName lang="en" type="FSN">Chronic drug abuse (disorder)</displayName>
+</concept>
+<concept code="110483000">
+<displayName lang="en" type="PT">Tobacco user</displayName>
+<displayName lang="en" type="FSN">Tobacco user (finding)</displayName>
+<displayName lang="en" type="SY">Tobacco use</displayName>
+</concept>
+<concept code="130968006">
+<displayName lang="en" type="PT">Self-mutilation</displayName>
+<displayName lang="en" type="FSN">Self-mutilation (finding)</displayName>
+<displayName lang="en" type="SY">Self mutilation</displayName>
+</concept>
+<concept code="134406006">
+<displayName lang="en" type="PT">Smoking reduced</displayName>
+<displayName lang="en" type="FSN">Smoking reduced (finding)</displayName>
+</concept>
+<concept code="160575005">
+<displayName lang="en" type="PT">Light drinker - 1-2u/day</displayName>
+<displayName lang="en" type="FSN">Light drinker - 1-2u/day (finding)</displayName>
+</concept>
+<concept code="160576006">
+<displayName lang="en" type="PT">Moderate drinker - 3-6u/day</displayName>
+<displayName lang="en" type="FSN">Moderate drinker - 3-6u/day (finding)</displayName>
+</concept>
+<concept code="160577002">
+<displayName lang="en" type="PT">Heavy drinker - 7-9u/day</displayName>
+<displayName lang="en" type="FSN">Heavy drinker - 7-9u/day (finding)</displayName>
+</concept>
+<concept code="160578007">
+<displayName lang="en" type="PT">Very heavy drinker - greater than 9 units/day</displayName>
+<displayName lang="en" type="FSN">Very heavy drinker - greater than 9 units/day (finding)</displayName>
+<displayName lang="en" type="SY">Very heavy drinker - &gt;9u/day</displayName>
+</concept>
+<concept code="160579004">
+<displayName lang="en" type="PT">Stopped drinking alcohol</displayName>
+<displayName lang="en" type="FSN">Stopped drinking alcohol (finding)</displayName>
+</concept>
+<concept code="160582009">
+<displayName lang="en" type="PT">Ex-trivial drinker - less than 1 unit/day</displayName>
+<displayName lang="en" type="FSN">Ex-trivial drinker - less than 1 unit/day (finding)</displayName>
+<displayName lang="en" type="SY">Ex-trivial drinker (&lt;1u/day)</displayName>
+</concept>
+<concept code="160583004">
+<displayName lang="en" type="PT">Ex-light drinker - (1-2u/day)</displayName>
+<displayName lang="en" type="FSN">Ex-light drinker - (1-2u/day) (finding)</displayName>
+</concept>
+<concept code="160584005">
+<displayName lang="en" type="PT">Ex-moderate drinker - (3-6u/d)</displayName>
+<displayName lang="en" type="FSN">Ex-moderate drinker - (3-6u/d) (finding)</displayName>
+</concept>
+<concept code="160585006">
+<displayName lang="en" type="PT">Ex-heavy drinker - (7-9u/day)</displayName>
+<displayName lang="en" type="FSN">Ex-heavy drinker - (7-9u/day) (finding)</displayName>
+</concept>
+<concept code="160587003">
+<displayName lang="en" type="PT">Ex-very heavy drinker - greater than 9 units/day</displayName>
+<displayName lang="en" type="FSN">Ex-very heavy drinker - greater than 9 units/day (finding)</displayName>
+<displayName lang="en" type="SY">Ex-very heavy drinker-(&gt;9u/d)</displayName>
+</concept>
+<concept code="160588008">
+<displayName lang="en-GB" type="PT">Spirit drinker</displayName>
+<displayName lang="en" type="FSN">Drinker of hard liquor (finding)</displayName>
+</concept>
+<concept code="160589000">
+<displayName lang="en" type="PT">Beer drinker</displayName>
+<displayName lang="en" type="FSN">Beer drinker (finding)</displayName>
+</concept>
+<concept code="160590009">
+<displayName lang="en-GB" type="PT">Drinks beer and spirits</displayName>
+<displayName lang="en" type="FSN">Drinks beer and hard liquor (finding)</displayName>
+</concept>
+<concept code="160591008">
+<displayName lang="en" type="PT">Drinks wine</displayName>
+<displayName lang="en" type="FSN">Drinks wine (finding)</displayName>
+</concept>
+<concept code="160603005">
+<displayName lang="en" type="PT">Light cigarette smoker (1-9 cigs/day)</displayName>
+<displayName lang="en" type="FSN">Light cigarette smoker (1-9 cigs/day) (finding)</displayName>
+</concept>
+<concept code="160604004">
+<displayName lang="en" type="PT">Moderate cigarette smoker (10-19 cigs/day)</displayName>
+<displayName lang="en" type="FSN">Moderate cigarette smoker (10-19 cigs/day) (finding)</displayName>
+</concept>
+<concept code="160605003">
+<displayName lang="en" type="PT">Heavy cigarette smoker (20-39 cigs/day)</displayName>
+<displayName lang="en" type="FSN">Heavy cigarette smoker (20-39 cigs/day) (finding)</displayName>
+</concept>
+<concept code="160606002">
+<displayName lang="en" type="PT">Very heavy cigarette smoker (40+ cigs/day)</displayName>
+<displayName lang="en" type="FSN">Very heavy cigarette smoker (40+ cigs/day) (finding)</displayName>
+</concept>
+<concept code="160612007">
+<displayName lang="en" type="PT">Keeps trying to stop smoking</displayName>
+<displayName lang="en" type="FSN">Keeps trying to stop smoking (finding)</displayName>
+</concept>
+<concept code="160613002">
+<displayName lang="en" type="PT">Admitted tobacco consumption possibly untrue</displayName>
+<displayName lang="en" type="FSN">Admitted tobacco consumption possibly untrue (finding)</displayName>
+</concept>
+<concept code="160614008">
+<displayName lang="en" type="PT">Tobacco consumption unknown</displayName>
+<displayName lang="en" type="FSN">Tobacco consumption unknown (finding)</displayName>
+</concept>
+<concept code="160616005">
+<displayName lang="en" type="PT">Trying to give up smoking</displayName>
+<displayName lang="en" type="FSN">Trying to give up smoking (finding)</displayName>
+</concept>
+<concept code="160617001">
+<displayName lang="en" type="PT">Stopped smoking</displayName>
+<displayName lang="en" type="FSN">Stopped smoking (finding)</displayName>
+</concept>
+<concept code="160618006">
+<displayName lang="en" type="PT">Current non-smoker</displayName>
+<displayName lang="en" type="FSN">Current non-smoker (finding)</displayName>
+</concept>
+<concept code="160619003">
+<displayName lang="en" type="PT">Rolls own cigarettes</displayName>
+<displayName lang="en" type="FSN">Rolls own cigarettes (finding)</displayName>
+</concept>
+<concept code="160620009">
+<displayName lang="en" type="PT">Ex-pipe smoker</displayName>
+<displayName lang="en" type="FSN">Ex-pipe smoker (finding)</displayName>
+</concept>
+<concept code="160621008">
+<displayName lang="en" type="PT">Ex-cigar smoker</displayName>
+<displayName lang="en" type="FSN">Ex-cigar smoker (finding)</displayName>
+</concept>
+<concept code="160628002">
+<displayName lang="en" type="PT">Exercise grading</displayName>
+<displayName lang="en" type="FSN">Exercise grading (finding)</displayName>
+</concept>
+<concept code="160629005">
+<displayName lang="en" type="PT">Exercise physically impossible</displayName>
+<displayName lang="en" type="FSN">Exercise physically impossible (finding)</displayName>
+<displayName lang="en" type="SY">Incapable of physical exercise</displayName>
+</concept>
+<concept code="160630000">
+<displayName lang="en" type="PT">Avoids even trivial exercise</displayName>
+<displayName lang="en" type="FSN">Avoids even trivial exercise (finding)</displayName>
+</concept>
+<concept code="160631001">
+<displayName lang="en" type="PT">Enjoys light exercise</displayName>
+<displayName lang="en" type="FSN">Enjoys light exercise (finding)</displayName>
+</concept>
+<concept code="160632008">
+<displayName lang="en" type="PT">Enjoys moderate exercise</displayName>
+<displayName lang="en" type="FSN">Enjoys moderate exercise (finding)</displayName>
+<displayName lang="en" type="SY">Moderately active</displayName>
+</concept>
+<concept code="160633003">
+<displayName lang="en" type="PT">Enjoys heavy exercise</displayName>
+<displayName lang="en" type="FSN">Enjoys heavy exercise (finding)</displayName>
+<displayName lang="en" type="SY">Vigorously active</displayName>
+</concept>
+<concept code="160634009">
+<displayName lang="en" type="PT">Competitive athlete</displayName>
+<displayName lang="en" type="FSN">Competitive athlete (finding)</displayName>
+</concept>
+<concept code="160635005">
+<displayName lang="en" type="PT">Exercise grading unknown</displayName>
+<displayName lang="en" type="FSN">Exercise grading unknown (finding)</displayName>
+</concept>
+<concept code="160636006">
+<displayName lang="en" type="PT">Aerobic exercise zero times a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise zero times a week (finding)</displayName>
+<displayName lang="en" type="SY">Aerobic exercise 0 times/week</displayName>
+</concept>
+<concept code="160637002">
+<displayName lang="en" type="PT">Aerobic exercise once a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise once a week (finding)</displayName>
+<displayName lang="en" type="SY">Aerobic exercise 1 time/week</displayName>
+</concept>
+<concept code="160638007">
+<displayName lang="en" type="PT">Aerobic exercise twice a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise twice a week (finding)</displayName>
+<displayName lang="en" type="SY">Aerobic exercise 2 times/week</displayName>
+</concept>
+<concept code="160639004">
+<displayName lang="en" type="PT">Aerobic exercise three or more times per week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise three or more times per week (finding)</displayName>
+<displayName lang="en" type="SY">Aerobic exercise 3+ times/week</displayName>
+</concept>
+<concept code="160640002">
+<displayName lang="en" type="PT">Anaerobic exercise zero times a week</displayName>
+<displayName lang="en" type="FSN">Anaerobic exercise zero times a week (finding)</displayName>
+<displayName lang="en" type="SY">Anaerobic exercise 0 times/wk</displayName>
+</concept>
+<concept code="160641003">
+<displayName lang="en" type="PT">Anaerobic exercise once a week</displayName>
+<displayName lang="en" type="FSN">Anaerobic exercise once a week (finding)</displayName>
+<displayName lang="en" type="SY">Anaerobic exercise 1 time/week</displayName>
+</concept>
+<concept code="160642005">
+<displayName lang="en" type="PT">Anaerobic exercise twice a week</displayName>
+<displayName lang="en" type="FSN">Anaerobic exercise twice a week (finding)</displayName>
+<displayName lang="en" type="SY">Anaerobic exercise 2 times/wk</displayName>
+</concept>
+<concept code="160643000">
+<displayName lang="en" type="PT">Anaerobic exercise three or more times per week</displayName>
+<displayName lang="en" type="FSN">Anaerobic exercise three or more times per week (finding)</displayName>
+<displayName lang="en" type="SY">Anaerobic exercise 3+ times/wk</displayName>
+</concept>
+<concept code="160644006">
+<displayName lang="en" type="PT">Attends exercise classes</displayName>
+<displayName lang="en" type="FSN">Attends exercise classes (finding)</displayName>
+</concept>
+<concept code="160645007">
+<displayName lang="en" type="PT">Enjoys intermediate exercise</displayName>
+<displayName lang="en" type="FSN">Enjoys intermediate exercise (finding)</displayName>
+</concept>
+<concept code="160646008">
+<displayName lang="en" type="PT">FITT activity level 0; no mod/vig activity of 20 mins duratn</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 0; no moderate or vigorous activity with a duration of 20 minutes (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 0</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 0; no moderate or vigorous activity with a duration of 20 minutes</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 0; no moderate or vigorous activity with a duration of 20 minutes</displayName>
+</concept>
+<concept code="160647004">
+<displayName lang="en" type="PT">FITT activity level 1; 1-4 occas of mod/vig activit in 4 wks</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+</concept>
+<concept code="160648009">
+<displayName lang="en" type="PT">FITT activity level 2; 5-11 occas of mod/vig activity in 4 wks</displayName>
+<displayName lang="en" type="FSN">Frequency-Intensity-Time-Type activity level 2; 5-11 occasions of a mix of moderate and vigorous activity in 4 weeks (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 2</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 2; 5-11 occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type activity level 2; 5-11 occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+</concept>
+<concept code="160649001">
+<displayName lang="en" type="PT">FITT activity level 3; 12+ occas of mod activity in 4 weeks</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 3; 12 or more occasions of moderate activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 3; 12 or more occasions of a moderate activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks</displayName>
+</concept>
+<concept code="160650001">
+<displayName lang="en" type="PT">FITT activity level 4; 12+ occas of mod/vig activit in 4 wks</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks</displayName>
+</concept>
+<concept code="160651002">
+<displayName lang="en" type="PT">FITT activity level 5; 12+ occas of vig activity in 4 weeks</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)</displayName>
+<displayName lang="en" type="SY">FITT activity level 5; 12 or more occasions of vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 5; 12 or more occasions of a vigorous activity in 4 weeks</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks</displayName>
+</concept>
+<concept code="160652009">
+<displayName lang="en" type="PT">Takes inadequate exercise</displayName>
+<displayName lang="en" type="FSN">Takes inadequate exercise (finding)</displayName>
+<displayName lang="en" type="SY">Insufficiently active</displayName>
+</concept>
+<concept code="160969008">
+<displayName lang="en" type="PT">Amateur boxer</displayName>
+<displayName lang="en" type="FSN">Amateur boxer (finding)</displayName>
+</concept>
+<concept code="160971008">
+<displayName lang="en" type="PT">Skier</displayName>
+<displayName lang="en" type="FSN">Skier (finding)</displayName>
+</concept>
+<concept code="161087004">
+<displayName lang="en" type="PT">Travels abroad widely</displayName>
+<displayName lang="en" type="FSN">Travels abroad widely (finding)</displayName>
+</concept>
+<concept code="161088009">
+<displayName lang="en" type="PT">Previous foreign travel ++</displayName>
+<displayName lang="en" type="FSN">Previous foreign travel ++ (finding)</displayName>
+<displayName lang="en" type="SY">Previously travelled widely</displayName>
+</concept>
+<concept code="161090005">
+<displayName lang="en" type="PT">Travel abroad for business</displayName>
+<displayName lang="en" type="FSN">Travel abroad for business (finding)</displayName>
+</concept>
+<concept code="161091009">
+<displayName lang="en-GB" type="PT">Travel abroad on holiday</displayName>
+<displayName lang="en" type="FSN">Travel abroad on vacation (finding)</displayName>
+</concept>
+<concept code="161092002">
+<displayName lang="en" type="PT">Self-catering travel</displayName>
+<displayName lang="en" type="FSN">Self-catering travel (finding)</displayName>
+</concept>
+<concept code="161093007">
+<displayName lang="en-GB" type="PT">Camping holiday</displayName>
+<displayName lang="en" type="FSN">Camping vacation (finding)</displayName>
+</concept>
+<concept code="161094001">
+<displayName lang="en-GB" type="PT">Back packing holiday</displayName>
+<displayName lang="en" type="FSN">Back packing vacation (finding)</displayName>
+</concept>
+<concept code="161095000">
+<displayName lang="en-GB" type="PT">Safari holiday</displayName>
+<displayName lang="en" type="FSN">Safari vacation (finding)</displayName>
+</concept>
+<concept code="161096004">
+<displayName lang="en" type="PT">Going to travel abroad</displayName>
+<displayName lang="en" type="FSN">Going to travel abroad (finding)</displayName>
+</concept>
+<concept code="161098003">
+<displayName lang="en" type="PT">European travel</displayName>
+<displayName lang="en" type="FSN">European travel (finding)</displayName>
+</concept>
+<concept code="161099006">
+<displayName lang="en" type="PT">Non-European travel</displayName>
+<displayName lang="en" type="FSN">Non-European travel (finding)</displayName>
+</concept>
+<concept code="169940006">
+<displayName lang="en" type="PT">Maternal tobacco abuse</displayName>
+<displayName lang="en" type="FSN">Maternal tobacco abuse (finding)</displayName>
+</concept>
+<concept code="173544001">
+<displayName lang="en" type="PT">Poking own eyes</displayName>
+<displayName lang="en" type="FSN">Poking own eyes (finding)</displayName>
+</concept>
+<concept code="174486004">
+<displayName lang="en" type="PT">Gouging own eyes</displayName>
+<displayName lang="en" type="FSN">Gouging own eyes (finding)</displayName>
+</concept>
+<concept code="191882002">
+<displayName lang="en" type="PT">Nondependent alcohol abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191883007">
+<displayName lang="en" type="PT">Nondependent alcohol abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191884001">
+<displayName lang="en" type="PT">Nondependent alcohol abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191891003">
+<displayName lang="en" type="PT">Nondependent cannabis abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse (disorder)</displayName>
+</concept>
+<concept code="191893000">
+<displayName lang="en" type="PT">Nondependent cannabis abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191894006">
+<displayName lang="en" type="PT">Nondependent cannabis abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191895007">
+<displayName lang="en" type="PT">Nondependent cannabis abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191899001">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191900006">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191901005">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191905001">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191906000">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191907009">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191909007">
+<displayName lang="en" type="PT">Nondependent opioid abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse (disorder)</displayName>
+</concept>
+<concept code="191912005">
+<displayName lang="en" type="PT">Nondependent opioid abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191913000">
+<displayName lang="en" type="PT">Nondependent opioid abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191914006">
+<displayName lang="en" type="PT">Nondependent opioid abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191916008">
+<displayName lang="en" type="PT">Nondependent cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="191918009">
+<displayName lang="en" type="PT">Nondependent cocaine abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191919001">
+<displayName lang="en" type="PT">Nondependent cocaine abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191920007">
+<displayName lang="en" type="PT">Nondependent cocaine abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191924003">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse, continuous (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or psychostimulant abuse, continuous</displayName>
+</concept>
+<concept code="191925002">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse, episodic (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or psychostimulant abuse, episodic</displayName>
+</concept>
+<concept code="191928000">
+<displayName lang="en" type="PT">Abuse of antidepressant drug</displayName>
+<displayName lang="en" type="FSN">Abuse of antidepressant drug (disorder)</displayName>
+</concept>
+<concept code="191930003">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191931004">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191932006">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191934007">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse (disorder)</displayName>
+</concept>
+<concept code="191936009">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191937000">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191938005">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191939002">
+<displayName lang="en" type="PT">Misuse of prescription only drugs</displayName>
+<displayName lang="en" type="FSN">Misuse of prescription only drugs (finding)</displayName>
+</concept>
+<concept code="224945002">
+<displayName lang="en" type="PT">Self-incineration</displayName>
+<displayName lang="en" type="FSN">Self-incineration (finding)</displayName>
+<displayName lang="en" type="SY">Setting fire to self</displayName>
+<displayName lang="en" type="SY">Setting self alight</displayName>
+</concept>
+<concept code="224946001">
+<displayName lang="en" type="PT">Self-electrocution</displayName>
+<displayName lang="en" type="FSN">Self-electrocution (finding)</displayName>
+</concept>
+<concept code="224947005">
+<displayName lang="en" type="PT">Shooting self</displayName>
+<displayName lang="en" type="FSN">Shooting self (finding)</displayName>
+</concept>
+<concept code="224948000">
+<displayName lang="en" type="PT">Throwing self in front of vehicle</displayName>
+<displayName lang="en" type="FSN">Throwing self in front of vehicle (finding)</displayName>
+<displayName lang="en" type="SY">Jumping in front of vehicle</displayName>
+</concept>
+<concept code="224949008">
+<displayName lang="en" type="PT">Throwing self in front of train</displayName>
+<displayName lang="en" type="FSN">Throwing self in front of train (finding)</displayName>
+<displayName lang="en" type="SY">Jumping under train</displayName>
+</concept>
+<concept code="224950008">
+<displayName lang="en" type="PT">Jumping from cliff</displayName>
+<displayName lang="en" type="FSN">Jumping from cliff (finding)</displayName>
+</concept>
+<concept code="225045006">
+<displayName lang="en" type="PT">Cutting own throat</displayName>
+<displayName lang="en" type="FSN">Cutting own throat (finding)</displayName>
+</concept>
+<concept code="225046007">
+<displayName lang="en" type="PT">Jumping from bridge</displayName>
+<displayName lang="en" type="FSN">Jumping from bridge (finding)</displayName>
+</concept>
+<concept code="225047003">
+<displayName lang="en" type="PT">Jumping from building</displayName>
+<displayName lang="en" type="FSN">Jumping from building (finding)</displayName>
+</concept>
+<concept code="225048008">
+<displayName lang="en" type="PT">Jumping from height</displayName>
+<displayName lang="en" type="FSN">Jumping from height (finding)</displayName>
+</concept>
+<concept code="225049000">
+<displayName lang="en" type="PT">Hanging self</displayName>
+<displayName lang="en" type="FSN">Hanging self (finding)</displayName>
+</concept>
+<concept code="225050000">
+<displayName lang="en" type="PT">Drowning self</displayName>
+<displayName lang="en" type="FSN">Drowning self (finding)</displayName>
+</concept>
+<concept code="225934006">
+<displayName lang="en" type="PT">Smokes in bed</displayName>
+<displayName lang="en" type="FSN">Smokes in bed (finding)</displayName>
+</concept>
+<concept code="226034001">
+<displayName lang="en" type="PT">Injecting drug user</displayName>
+<displayName lang="en" type="FSN">Injecting drug user (finding)</displayName>
+<displayName lang="en" type="SY">Drug injector</displayName>
+<displayName lang="en" type="SY">IDU - Injecting drug user</displayName>
+</concept>
+<concept code="228274009">
+<displayName lang="en" type="PT">Lifetime non-drinker</displayName>
+<displayName lang="en" type="FSN">Lifetime non-drinker (finding)</displayName>
+<displayName lang="en" type="SY">Lifetime abstainer from drink</displayName>
+<displayName lang="en" type="SY">Lifetime teetotaller</displayName>
+</concept>
+<concept code="228276006">
+<displayName lang="en" type="PT">Occasional drinker</displayName>
+<displayName lang="en" type="FSN">Occasional drinker (finding)</displayName>
+<displayName lang="en" type="SY">Drinks on special occasions</displayName>
+</concept>
+<concept code="228277002">
+<displayName lang="en" type="PT">Light drinker</displayName>
+<displayName lang="en" type="FSN">Light drinker (finding)</displayName>
+</concept>
+<concept code="228278007">
+<displayName lang="en" type="PT">Fairly heavy drinker</displayName>
+<displayName lang="en" type="FSN">Fairly heavy drinker (finding)</displayName>
+</concept>
+<concept code="228279004">
+<displayName lang="en" type="PT">Very heavy drinker</displayName>
+<displayName lang="en" type="FSN">Very heavy drinker (finding)</displayName>
+</concept>
+<concept code="228280001">
+<displayName lang="en" type="PT">Secret drinker</displayName>
+<displayName lang="en" type="FSN">Secret drinker (finding)</displayName>
+<displayName lang="en" type="SY">Hidden drinker</displayName>
+</concept>
+<concept code="228281002">
+<displayName lang="en" type="PT">Problem drinker</displayName>
+<displayName lang="en" type="FSN">Problem drinker (finding)</displayName>
+<displayName lang="en" type="SY">Alcoholic</displayName>
+<displayName lang="en" type="SY">Boozer</displayName>
+<displayName lang="en" type="SY">Dependent drinker</displayName>
+</concept>
+<concept code="228285006">
+<displayName lang="en" type="PT">Drinks at home</displayName>
+<displayName lang="en" type="FSN">Drinks at home (finding)</displayName>
+<displayName lang="en" type="SY">Home drinker</displayName>
+</concept>
+<concept code="228286007">
+<displayName lang="en" type="PT">Drinks at other people&apos;s homes</displayName>
+<displayName lang="en" type="FSN">Drinks at other people&apos;s homes (finding)</displayName>
+</concept>
+<concept code="228287003">
+<displayName lang="en" type="PT">Drinks in public places</displayName>
+<displayName lang="en" type="FSN">Drinks in public places (finding)</displayName>
+</concept>
+<concept code="228288008">
+<displayName lang="en" type="PT">Park drinker</displayName>
+<displayName lang="en" type="FSN">Park drinker (finding)</displayName>
+</concept>
+<concept code="228289000">
+<displayName lang="en" type="PT">Street drinker</displayName>
+<displayName lang="en" type="FSN">Street drinker (finding)</displayName>
+</concept>
+<concept code="228290009">
+<displayName lang="en" type="PT">Drinks at work</displayName>
+<displayName lang="en" type="FSN">Drinks at work (finding)</displayName>
+</concept>
+<concept code="228291008">
+<displayName lang="en" type="PT">Drinks in licensed premises</displayName>
+<displayName lang="en" type="FSN">Drinks in licensed premises (finding)</displayName>
+</concept>
+<concept code="228292001">
+<displayName lang="en" type="PT">Drinks in public houses</displayName>
+<displayName lang="en" type="FSN">Drinks in public houses (finding)</displayName>
+</concept>
+<concept code="228293006">
+<displayName lang="en" type="PT">Drinks at restaurants</displayName>
+<displayName lang="en" type="FSN">Drinks at restaurants (finding)</displayName>
+</concept>
+<concept code="228294000">
+<displayName lang="en" type="PT">Drinks at hotels</displayName>
+<displayName lang="en" type="FSN">Drinks at hotels (finding)</displayName>
+</concept>
+<concept code="228295004">
+<displayName lang="en" type="PT">Drinks at night clubs</displayName>
+<displayName lang="en" type="FSN">Drinks at night clubs (finding)</displayName>
+</concept>
+<concept code="228297007">
+<displayName lang="en" type="PT">Drinks alone</displayName>
+<displayName lang="en" type="FSN">Drinks alone (finding)</displayName>
+<displayName lang="en" type="SY">Isolated drinker</displayName>
+<displayName lang="en" type="SY">Lone drinker</displayName>
+</concept>
+<concept code="228298002">
+<displayName lang="en" type="PT">Drinks in company</displayName>
+<displayName lang="en" type="FSN">Drinks in company (finding)</displayName>
+</concept>
+<concept code="228299005">
+<displayName lang="en" type="PT">Drinks with family</displayName>
+<displayName lang="en" type="FSN">Drinks with family (finding)</displayName>
+</concept>
+<concept code="228300002">
+<displayName lang="en" type="PT">Drinks with spouse</displayName>
+<displayName lang="en" type="FSN">Drinks with spouse (finding)</displayName>
+</concept>
+<concept code="228301003">
+<displayName lang="en" type="PT">Drinks with children</displayName>
+<displayName lang="en" type="FSN">Drinks with children (finding)</displayName>
+</concept>
+<concept code="228302005">
+<displayName lang="en" type="PT">Drinks with friends</displayName>
+<displayName lang="en" type="FSN">Drinks with friends (finding)</displayName>
+</concept>
+<concept code="228303000">
+<displayName lang="en" type="PT">Drinks with work colleagues</displayName>
+<displayName lang="en" type="FSN">Drinks with work colleagues (finding)</displayName>
+</concept>
+<concept code="228304006">
+<displayName lang="en" type="PT">Drinks with business associates</displayName>
+<displayName lang="en" type="FSN">Drinks with business associates (finding)</displayName>
+</concept>
+<concept code="228305007">
+<displayName lang="en" type="PT">Drinks with acquaintances</displayName>
+<displayName lang="en" type="FSN">Drinks with acquaintances (finding)</displayName>
+</concept>
+<concept code="228306008">
+<displayName lang="en" type="PT">Drinks with strangers</displayName>
+<displayName lang="en" type="FSN">Drinks with strangers (finding)</displayName>
+</concept>
+<concept code="228310006">
+<displayName lang="en" type="PT">Drinks in morning to get rid of hangover</displayName>
+<displayName lang="en" type="FSN">Drinks in morning to get rid of hangover (finding)</displayName>
+</concept>
+<concept code="228312003">
+<displayName lang="en" type="PT">Drinks alcohol evenly through week</displayName>
+<displayName lang="en" type="FSN">Drinks alcohol evenly through week (finding)</displayName>
+</concept>
+<concept code="228313008">
+<displayName lang="en" type="PT">Drinks alcohol unevenly through week</displayName>
+<displayName lang="en" type="FSN">Drinks alcohol unevenly through week (finding)</displayName>
+</concept>
+<concept code="228314002">
+<displayName lang="en" type="PT">Weekend drinker</displayName>
+<displayName lang="en" type="FSN">Weekend drinker (finding)</displayName>
+</concept>
+<concept code="228315001">
+<displayName lang="en" type="PT">Binge drinker</displayName>
+<displayName lang="en" type="FSN">Binge drinker (finding)</displayName>
+<displayName lang="en" type="SY">Bout drinker</displayName>
+<displayName lang="en" type="SY">Episodic drinker</displayName>
+</concept>
+<concept code="228316000">
+<displayName lang="en" type="PT">Alcoholic binges exceeding sensible amounts</displayName>
+<displayName lang="en" type="FSN">Alcoholic binges exceeding sensible amounts (finding)</displayName>
+</concept>
+<concept code="228317009">
+<displayName lang="en" type="PT">Alcoholic binges exceeding safe amounts</displayName>
+<displayName lang="en" type="FSN">Alcoholic binges exceeding safe amounts (finding)</displayName>
+</concept>
+<concept code="228319007">
+<displayName lang="en" type="PT">Daily drinker</displayName>
+<displayName lang="en" type="FSN">Drinks alcohol daily (finding)</displayName>
+<displayName lang="en" type="SY">Drinks alcohol daily</displayName>
+</concept>
+<concept code="228320001">
+<displayName lang="en" type="PT">Habitual drinker</displayName>
+<displayName lang="en" type="FSN">Habitual drinker (finding)</displayName>
+</concept>
+<concept code="228321002">
+<displayName lang="en" type="PT">Drinks on empty stomach</displayName>
+<displayName lang="en" type="FSN">Drinks on empty stomach (finding)</displayName>
+</concept>
+<concept code="228332002">
+<displayName lang="en" type="PT">Salience of drink-related activities</displayName>
+<displayName lang="en" type="FSN">Salience of drink-related activities (finding)</displayName>
+</concept>
+<concept code="228335000">
+<displayName lang="en" type="PT">Drinking takes priority over social obligations</displayName>
+<displayName lang="en" type="FSN">Drinking takes priority over social obligations (finding)</displayName>
+</concept>
+<concept code="228336004">
+<displayName lang="en" type="PT">Drinking takes priority over family obligations</displayName>
+<displayName lang="en" type="FSN">Drinking takes priority over family obligations (finding)</displayName>
+</concept>
+<concept code="228337008">
+<displayName lang="en" type="PT">Drinking takes priority over financial obligations</displayName>
+<displayName lang="en" type="FSN">Drinking takes priority over financial obligations (finding)</displayName>
+</concept>
+<concept code="228339006">
+<displayName lang="en" type="PT">Able to control drinking</displayName>
+<displayName lang="en" type="FSN">Able to control drinking (finding)</displayName>
+</concept>
+<concept code="228340008">
+<displayName lang="en" type="PT">Unable to control drinking</displayName>
+<displayName lang="en" type="FSN">Unable to control drinking (finding)</displayName>
+</concept>
+<concept code="228341007">
+<displayName lang="en" type="PT">Unable to abstain from drinking</displayName>
+<displayName lang="en" type="FSN">Unable to abstain from drinking (finding)</displayName>
+</concept>
+<concept code="228342000">
+<displayName lang="en" type="PT">Unable to control drinking once started</displayName>
+<displayName lang="en" type="FSN">Unable to control drinking once started (finding)</displayName>
+</concept>
+<concept code="228343005">
+<displayName lang="en" type="PT">Unable to control spontaneous drinking bouts</displayName>
+<displayName lang="en" type="FSN">Unable to control spontaneous drinking bouts (finding)</displayName>
+</concept>
+<concept code="228344004">
+<displayName lang="en" type="PT">Unable to stop drinking before intoxication</displayName>
+<displayName lang="en" type="FSN">Unable to stop drinking before intoxication (finding)</displayName>
+</concept>
+<concept code="228346002">
+<displayName lang="en" type="PT">Has no stratagem to control drinking</displayName>
+<displayName lang="en" type="FSN">Has no stratagem to control drinking (finding)</displayName>
+</concept>
+<concept code="228347006">
+<displayName lang="en" type="PT">Uses stratagems to control drinking</displayName>
+<displayName lang="en" type="FSN">Uses stratagems to control drinking (finding)</displayName>
+</concept>
+<concept code="228348001">
+<displayName lang="en" type="PT">Makes rules about drinking</displayName>
+<displayName lang="en" type="FSN">Makes rules about drinking (finding)</displayName>
+</concept>
+<concept code="228350009">
+<displayName lang="en-GB" type="PT">Behavioural tolerance to alcohol</displayName>
+<displayName lang="en" type="FSN">Behavioral tolerance to alcohol (finding)</displayName>
+</concept>
+<concept code="228351008">
+<displayName lang="en" type="PT">Physical tolerance to alcohol</displayName>
+<displayName lang="en" type="FSN">Physical tolerance to alcohol (finding)</displayName>
+</concept>
+<concept code="228352001">
+<displayName lang="en" type="PT">Psychological tolerance to alcohol</displayName>
+<displayName lang="en" type="FSN">Psychological tolerance to alcohol (finding)</displayName>
+</concept>
+<concept code="228353006">
+<displayName lang="en" type="PT">Reverse tolerance to alcohol</displayName>
+<displayName lang="en" type="FSN">Reverse tolerance to alcohol (finding)</displayName>
+</concept>
+<concept code="228354000">
+<displayName lang="en-GB" type="PT">Drink driving</displayName>
+<displayName lang="en" type="FSN">Drunk driving (finding)</displayName>
+</concept>
+<concept code="228355004">
+<displayName lang="en-GB" type="PT">Charged with drink driving offence</displayName>
+<displayName lang="en" type="FSN">Charged with drunk driving offence (finding)</displayName>
+</concept>
+<concept code="228356003">
+<displayName lang="en-GB" type="PT">Convicted of drink driving</displayName>
+<displayName lang="en" type="FSN">Convicted of drunk driving (finding)</displayName>
+</concept>
+<concept code="228357007">
+<displayName lang="en" type="PT">Persistent effect of alcohol</displayName>
+<displayName lang="en" type="FSN">Persistent effect of alcohol (finding)</displayName>
+<displayName lang="en" type="SY">After effect of drinking</displayName>
+</concept>
+<concept code="228358002">
+<displayName lang="en" type="PT">Feels effect of alcohol at work</displayName>
+<displayName lang="en" type="FSN">Feels effect of alcohol at work (finding)</displayName>
+</concept>
+<concept code="228359005">
+<displayName lang="en" type="PT">Difficulty getting up after drinking</displayName>
+<displayName lang="en" type="FSN">Difficulty getting up after drinking (finding)</displayName>
+</concept>
+<concept code="228361001">
+<displayName lang="en" type="PT">Ashamed of drinking</displayName>
+<displayName lang="en" type="FSN">Ashamed of drinking (finding)</displayName>
+</concept>
+<concept code="228362008">
+<displayName lang="en" type="PT">Feels should cut down drinking</displayName>
+<displayName lang="en" type="FSN">Feels should cut down drinking (finding)</displayName>
+</concept>
+<concept code="228363003">
+<displayName lang="en" type="PT">Feels drinking is out of control</displayName>
+<displayName lang="en" type="FSN">Feels drinking is out of control (finding)</displayName>
+</concept>
+<concept code="228364009">
+<displayName lang="en" type="PT">Feels afraid of being an alcoholic</displayName>
+<displayName lang="en" type="FSN">Feels afraid of being an alcoholic (finding)</displayName>
+</concept>
+<concept code="228365005">
+<displayName lang="en" type="PT">Craving for alcohol</displayName>
+<displayName lang="en" type="FSN">Craving for alcohol (finding)</displayName>
+<displayName lang="en" type="SY">Urge for alcohol</displayName>
+</concept>
+<concept code="228371004">
+<displayName lang="en" type="PT">Long-term drug misuser</displayName>
+<displayName lang="en" type="FSN">Long-term drug misuser (finding)</displayName>
+</concept>
+<concept code="228372006">
+<displayName lang="en" type="PT">Poly-drug misuser</displayName>
+<displayName lang="en" type="FSN">Poly-drug misuser (finding)</displayName>
+<displayName lang="en" type="SY">Multi-drug misuser</displayName>
+<displayName lang="en" type="SY">Poly-drug abuser</displayName>
+</concept>
+<concept code="228373001">
+<displayName lang="en" type="PT">Drug addict</displayName>
+<displayName lang="en" type="FSN">Drug addict (finding)</displayName>
+</concept>
+<concept code="228374007">
+<displayName lang="en" type="PT">Notified addict</displayName>
+<displayName lang="en" type="FSN">Notified addict (finding)</displayName>
+<displayName lang="en" type="SY">Registered addict</displayName>
+</concept>
+<concept code="228375008">
+<displayName lang="en" type="PT">Misuses drugs orally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs orally (finding)</displayName>
+</concept>
+<concept code="228376009">
+<displayName lang="en" type="PT">Inhales drugs</displayName>
+<displayName lang="en" type="FSN">Inhales drugs (finding)</displayName>
+</concept>
+<concept code="228377000">
+<displayName lang="en" type="PT">Smokes drugs</displayName>
+<displayName lang="en" type="FSN">Smokes drugs (finding)</displayName>
+</concept>
+<concept code="228378005">
+<displayName lang="en" type="PT">Smokes drugs in cigarette form</displayName>
+<displayName lang="en" type="FSN">Smokes drugs in cigarette form (finding)</displayName>
+</concept>
+<concept code="228379002">
+<displayName lang="en" type="PT">Smokes drugs through a pipe</displayName>
+<displayName lang="en" type="FSN">Smokes drugs through a pipe (finding)</displayName>
+</concept>
+<concept code="228380004">
+<displayName lang="en" type="PT">Chases the dragon</displayName>
+<displayName lang="en" type="FSN">Chases the dragon (finding)</displayName>
+<displayName lang="en" type="SY">Employs barbiturates as a base powder during the smoking of heroin</displayName>
+</concept>
+<concept code="228381000">
+<displayName lang="en" type="PT">Sniffs drugs</displayName>
+<displayName lang="en" type="FSN">Sniffs drugs (finding)</displayName>
+<displayName lang="en" type="SY">Intranasal drug use</displayName>
+<displayName lang="en" type="SY">Intranasal drug user</displayName>
+<displayName lang="en" type="SY">Snorts drugs</displayName>
+</concept>
+<concept code="228382007">
+<displayName lang="en" type="PT">Misuses drugs vaginally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs vaginally (finding)</displayName>
+</concept>
+<concept code="228383002">
+<displayName lang="en" type="PT">Misuses drugs rectally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs rectally (finding)</displayName>
+</concept>
+<concept code="228384008">
+<displayName lang="en" type="PT">Misuses drugs sublingually</displayName>
+<displayName lang="en" type="FSN">Misuses drugs sublingually (finding)</displayName>
+</concept>
+<concept code="228386005">
+<displayName lang="en" type="PT">Injects drugs subcutaneously</displayName>
+<displayName lang="en" type="FSN">Injects drugs subcutaneously (finding)</displayName>
+<displayName lang="en" type="SY">Skin pops drugs</displayName>
+<displayName lang="en" type="SY">Subcutaneous drug user</displayName>
+</concept>
+<concept code="228387001">
+<displayName lang="en" type="PT">Injects drugs intramuscularly</displayName>
+<displayName lang="en" type="FSN">Injects drugs intramuscularly (finding)</displayName>
+<displayName lang="en" type="SY">Intramuscular drug user</displayName>
+<displayName lang="en" type="SY">Skin pops drugs IM</displayName>
+</concept>
+<concept code="228388006">
+<displayName lang="en" type="PT">Intravenous drug user</displayName>
+<displayName lang="en" type="FSN">Intravenous drug user (finding)</displayName>
+<displayName lang="en" type="SY">IDU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IV - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IVDU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IVU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">Injects drugs intravenously</displayName>
+<displayName lang="en" type="SY">Mainlines</displayName>
+</concept>
+<concept code="228389003">
+<displayName lang="en" type="PT">Groin injector</displayName>
+<displayName lang="en" type="FSN">Groin injector (finding)</displayName>
+</concept>
+<concept code="228395002">
+<displayName lang="en" type="PT">Shares drug injecting equipment</displayName>
+<displayName lang="en" type="FSN">Shares drug injecting equipment (finding)</displayName>
+<displayName lang="en" type="SY">Sharing of drug injecting equipment</displayName>
+</concept>
+<concept code="228397005">
+<displayName lang="en" type="PT">Shares drug equipment</displayName>
+<displayName lang="en" type="FSN">Shares drug equipment (finding)</displayName>
+</concept>
+<concept code="228398000">
+<displayName lang="en" type="PT">Frontloading</displayName>
+<displayName lang="en" type="FSN">Frontloading (finding)</displayName>
+</concept>
+<concept code="228399008">
+<displayName lang="en" type="PT">Shares syringes</displayName>
+<displayName lang="en" type="FSN">Shares syringes (finding)</displayName>
+</concept>
+<concept code="228400001">
+<displayName lang="en" type="PT">Shares needles</displayName>
+<displayName lang="en" type="FSN">Shares needles (finding)</displayName>
+</concept>
+<concept code="228402009">
+<displayName lang="en" type="PT">Cleans drug injection equipment</displayName>
+<displayName lang="en" type="FSN">Cleans drug injection equipment (finding)</displayName>
+<displayName lang="en" type="SY">Cleans</displayName>
+</concept>
+<concept code="228405006">
+<displayName lang="en" type="PT">Obtains clean needles</displayName>
+<displayName lang="en" type="FSN">Obtains clean needles (finding)</displayName>
+</concept>
+<concept code="228406007">
+<displayName lang="en" type="PT">Uses needle exchange scheme</displayName>
+<displayName lang="en" type="FSN">Uses needle exchange scheme (finding)</displayName>
+</concept>
+<concept code="228407003">
+<displayName lang="en" type="PT">Obtains clean syringes</displayName>
+<displayName lang="en" type="FSN">Obtains clean syringes (finding)</displayName>
+</concept>
+<concept code="228410005">
+<displayName lang="en" type="PT">Uses needle and syringe exchange scheme</displayName>
+<displayName lang="en" type="FSN">Uses needle and syringe exchange scheme (finding)</displayName>
+</concept>
+<concept code="228417008">
+<displayName lang="en" type="PT">Undue priority given to drug-related activities</displayName>
+<displayName lang="en" type="FSN">Undue priority given to drug-related activities (finding)</displayName>
+<displayName lang="en" type="SY">Priority given to drug-related activities</displayName>
+</concept>
+<concept code="228418003">
+<displayName lang="en" type="PT">Drug habit takes priority over social obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over social obligations (finding)</displayName>
+</concept>
+<concept code="228419006">
+<displayName lang="en" type="PT">Drug habit takes priority over family obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over family obligations (finding)</displayName>
+</concept>
+<concept code="228420000">
+<displayName lang="en" type="PT">Drug habit takes priority over financial obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over financial obligations (finding)</displayName>
+</concept>
+<concept code="228427002">
+<displayName lang="en" type="PT">Has a routine of drug-related activities</displayName>
+<displayName lang="en" type="FSN">Has a routine of drug-related activities (finding)</displayName>
+</concept>
+<concept code="228428007">
+<displayName lang="en" type="PT">Follows same drug-related routine every day</displayName>
+<displayName lang="en" type="FSN">Follows same drug-related routine every day (finding)</displayName>
+</concept>
+<concept code="228430009">
+<displayName lang="en" type="PT">Follows drug-related rituals</displayName>
+<displayName lang="en" type="FSN">Follows drug-related rituals (finding)</displayName>
+</concept>
+<concept code="228433006">
+<displayName lang="en-GB" type="PT">Behavioural tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Behavioral tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228434000">
+<displayName lang="en" type="PT">Physical tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Physical tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228435004">
+<displayName lang="en" type="PT">Psychological tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Psychological tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228436003">
+<displayName lang="en" type="PT">Reverse tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Reverse tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228438002">
+<displayName lang="en" type="PT">Craves for drugs</displayName>
+<displayName lang="en" type="FSN">Craves for drugs (finding)</displayName>
+<displayName lang="en" type="SY">Craves drugs</displayName>
+<displayName lang="en" type="SY">Craving for drugs</displayName>
+</concept>
+<concept code="228440007">
+<displayName lang="en-GB" type="PT">Drug-related offending behaviour</displayName>
+<displayName lang="en" type="FSN">Drug-related offending behavior (finding)</displayName>
+</concept>
+<concept code="228441006">
+<displayName lang="en" type="PT">Dealing with drugs</displayName>
+<displayName lang="en" type="FSN">Dealing with drugs (finding)</displayName>
+</concept>
+<concept code="228442004">
+<displayName lang="en" type="PT">Selling drugs</displayName>
+<displayName lang="en" type="FSN">Selling drugs (finding)</displayName>
+<displayName lang="en" type="SY">Pushing drugs</displayName>
+</concept>
+<concept code="228443009">
+<displayName lang="en" type="PT">Buying drugs</displayName>
+<displayName lang="en" type="FSN">Buying drugs (finding)</displayName>
+</concept>
+<concept code="228444003">
+<displayName lang="en" type="PT">Possession of drugs</displayName>
+<displayName lang="en" type="FSN">Possession of drugs (finding)</displayName>
+</concept>
+<concept code="228445002">
+<displayName lang="en" type="PT">Gets no exercise</displayName>
+<displayName lang="en" type="FSN">Gets no exercise (finding)</displayName>
+</concept>
+<concept code="228446001">
+<displayName lang="en" type="PT">Gets little exercise</displayName>
+<displayName lang="en" type="FSN">Gets little exercise (finding)</displayName>
+</concept>
+<concept code="228447005">
+<displayName lang="en" type="PT">Physically active</displayName>
+<displayName lang="en" type="FSN">Physically active (finding)</displayName>
+</concept>
+<concept code="228448000">
+<displayName lang="en" type="PT">Exercises regularly</displayName>
+<displayName lang="en" type="FSN">Exercises regularly (finding)</displayName>
+</concept>
+<concept code="228491005">
+<displayName lang="en" type="PT">Does not use snuff</displayName>
+<displayName lang="en" type="FSN">Does not use snuff (finding)</displayName>
+</concept>
+<concept code="228492003">
+<displayName lang="en" type="PT">Never used snuff</displayName>
+<displayName lang="en" type="FSN">Never used snuff (finding)</displayName>
+</concept>
+<concept code="228493008">
+<displayName lang="en" type="PT">Ex-snuff user</displayName>
+<displayName lang="en" type="FSN">Ex-snuff user (finding)</displayName>
+</concept>
+<concept code="228494002">
+<displayName lang="en" type="PT">Snuff user</displayName>
+<displayName lang="en" type="FSN">Snuff user (finding)</displayName>
+<displayName lang="en" type="SY">Snuff taker</displayName>
+</concept>
+<concept code="228501004">
+<displayName lang="en" type="PT">Does not use moist powdered tobacco</displayName>
+<displayName lang="en" type="FSN">Does not use moist powdered tobacco (finding)</displayName>
+</concept>
+<concept code="228502006">
+<displayName lang="en" type="PT">Never used moist powdered tobacco</displayName>
+<displayName lang="en" type="FSN">Never used moist powdered tobacco (finding)</displayName>
+</concept>
+<concept code="228503001">
+<displayName lang="en" type="PT">Ex-user of moist powdered tobacco</displayName>
+<displayName lang="en" type="FSN">Ex-user of moist powdered tobacco (finding)</displayName>
+</concept>
+<concept code="228504007">
+<displayName lang="en" type="PT">User of moist powdered tobacco</displayName>
+<displayName lang="en" type="FSN">User of moist powdered tobacco (finding)</displayName>
+</concept>
+<concept code="228511006">
+<displayName lang="en" type="PT">Does not chew tobacco</displayName>
+<displayName lang="en" type="FSN">Does not chew tobacco (finding)</displayName>
+</concept>
+<concept code="228512004">
+<displayName lang="en" type="PT">Never chewed tobacco</displayName>
+<displayName lang="en" type="FSN">Never chewed tobacco (finding)</displayName>
+</concept>
+<concept code="228513009">
+<displayName lang="en" type="PT">Ex-tobacco chewer</displayName>
+<displayName lang="en" type="FSN">Ex-tobacco chewer (finding)</displayName>
+</concept>
+<concept code="228514003">
+<displayName lang="en" type="PT">Chews plug tobacco</displayName>
+<displayName lang="en" type="FSN">Chews plug tobacco (finding)</displayName>
+</concept>
+<concept code="228515002">
+<displayName lang="en" type="PT">Chews twist tobacco</displayName>
+<displayName lang="en" type="FSN">Chews twist tobacco (finding)</displayName>
+</concept>
+<concept code="228516001">
+<displayName lang="en" type="PT">Chews loose leaf tobacco</displayName>
+<displayName lang="en" type="FSN">Chews loose leaf tobacco (finding)</displayName>
+</concept>
+<concept code="228517005">
+<displayName lang="en" type="PT">Chews fine cut tobacco</displayName>
+<displayName lang="en" type="FSN">Chews fine cut tobacco (finding)</displayName>
+</concept>
+<concept code="228518000">
+<displayName lang="en" type="PT">Chews products containing tobacco</displayName>
+<displayName lang="en" type="FSN">Chews products containing tobacco (finding)</displayName>
+</concept>
+<concept code="228523000">
+<displayName lang="en" type="PT">Exposed to tobacco smoke at work</displayName>
+<displayName lang="en" type="FSN">Exposed to tobacco smoke at work (finding)</displayName>
+</concept>
+<concept code="228524006">
+<displayName lang="en" type="PT">Exposed to tobacco smoke at home</displayName>
+<displayName lang="en" type="FSN">Exposed to tobacco smoke at home (finding)</displayName>
+</concept>
+<concept code="228525007">
+<displayName lang="en" type="PT">Exposed to tobacco smoke in public places</displayName>
+<displayName lang="en" type="FSN">Exposed to tobacco smoke in public places (finding)</displayName>
+</concept>
+<concept code="230059006">
+<displayName lang="en" type="PT">Occasional cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Occasional cigarette smoker (finding)</displayName>
+<displayName lang="en" type="SY">Trivial cigarette smoker</displayName>
+</concept>
+<concept code="230060001">
+<displayName lang="en" type="PT">Light cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Light cigarette smoker (finding)</displayName>
+</concept>
+<concept code="230062009">
+<displayName lang="en" type="PT">Moderate cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Moderate cigarette smoker (finding)</displayName>
+</concept>
+<concept code="230063004">
+<displayName lang="en" type="PT">Heavy cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Heavy cigarette smoker (finding)</displayName>
+</concept>
+<concept code="230064005">
+<displayName lang="en" type="PT">Very heavy cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Very heavy cigarette smoker (finding)</displayName>
+</concept>
+<concept code="230065006">
+<displayName lang="en" type="PT">Chain smoker</displayName>
+<displayName lang="en" type="FSN">Chain smoker (finding)</displayName>
+</concept>
+<concept code="230497000">
+<displayName lang="en" type="PT">Sleep-related head banging</displayName>
+<displayName lang="en" type="FSN">Sleep-related head banging (disorder)</displayName>
+</concept>
+<concept code="231458000">
+<displayName lang="en" type="PT">Abuse of steroids</displayName>
+<displayName lang="en" type="FSN">Abuse of steroids (disorder)</displayName>
+<displayName lang="en" type="SY">Steroid abuse</displayName>
+</concept>
+<concept code="231459008">
+<displayName lang="en" type="PT">Abuse of nonpsychotropic analgesic drugs</displayName>
+<displayName lang="en" type="FSN">Abuse of nonpsychotropic analgesic drugs (disorder)</displayName>
+<displayName lang="en" type="SY">Nonpsychotropic analgesic abuse</displayName>
+</concept>
+<concept code="231461004">
+<displayName lang="en" type="PT">Hypnotic or anxiolytic abuse</displayName>
+<displayName lang="en" type="FSN">Hypnotic or anxiolytic abuse (disorder)</displayName>
+</concept>
+<concept code="231462006">
+<displayName lang="en" type="PT">Barbiturate abuse</displayName>
+<displayName lang="en" type="FSN">Barbiturate abuse (disorder)</displayName>
+</concept>
+<concept code="248061004">
+<displayName lang="en" type="PT">Self-harm</displayName>
+<displayName lang="en" type="FSN">Self-harm (finding)</displayName>
+<displayName lang="en" type="SY">Self-damage</displayName>
+</concept>
+<concept code="248062006">
+<displayName lang="en-GB" type="PT">Self-injurious behaviour</displayName>
+<displayName lang="en" type="FSN">Self-injurious behavior (finding)</displayName>
+<displayName lang="en" type="SY">Deliberate self-harm</displayName>
+<displayName lang="en-GB" type="SY">SIB - Self-injurious behaviour</displayName>
+<displayName lang="en-GB" type="SY">Self-abusive behaviour</displayName>
+<displayName lang="en-GB" type="SY">Self-destructive behaviour</displayName>
+</concept>
+<concept code="248064007">
+<displayName lang="en" type="PT">Self-mutilation of hands</displayName>
+<displayName lang="en" type="FSN">Self-mutilation of hands (finding)</displayName>
+</concept>
+<concept code="248065008">
+<displayName lang="en" type="PT">Self-mutilation of penis</displayName>
+<displayName lang="en" type="FSN">Self-mutilation of penis (finding)</displayName>
+</concept>
+<concept code="248066009">
+<displayName lang="en" type="PT">Self-mutilation of eyes</displayName>
+<displayName lang="en" type="FSN">Self-mutilation of eyes (finding)</displayName>
+</concept>
+<concept code="248067000">
+<displayName lang="en" type="PT">Self-mutilation of ears</displayName>
+<displayName lang="en" type="FSN">Self-mutilation of ears (finding)</displayName>
+</concept>
+<concept code="248068005">
+<displayName lang="en" type="PT">Self-inflicted skin problems</displayName>
+<displayName lang="en" type="FSN">Self-inflicted skin problems (finding)</displayName>
+</concept>
+<concept code="248069002">
+<displayName lang="en" type="PT">Biting own hand</displayName>
+<displayName lang="en" type="FSN">Biting own hand (finding)</displayName>
+<displayName lang="en" type="SY">Hand biting</displayName>
+</concept>
+<concept code="248070001">
+<displayName lang="en" type="PT">Head-hitting</displayName>
+<displayName lang="en" type="FSN">Head-hitting (finding)</displayName>
+</concept>
+<concept code="248071002">
+<displayName lang="en" type="PT">Scratches self</displayName>
+<displayName lang="en" type="FSN">Scratches self (finding)</displayName>
+</concept>
+<concept code="248072009">
+<displayName lang="en" type="PT">Biting self</displayName>
+<displayName lang="en" type="FSN">Biting self (finding)</displayName>
+<displayName lang="en" type="SY">Bites self</displayName>
+</concept>
+<concept code="248073004">
+<displayName lang="en" type="PT">Cutting self</displayName>
+<displayName lang="en" type="FSN">Cutting self (finding)</displayName>
+<displayName lang="en" type="SY">Cuts self</displayName>
+</concept>
+<concept code="248074005">
+<displayName lang="en" type="PT">Swallowing objects</displayName>
+<displayName lang="en" type="FSN">Swallowing objects (finding)</displayName>
+</concept>
+<concept code="248119008">
+<displayName lang="en" type="PT">Abuse of drugs to lose weight</displayName>
+<displayName lang="en" type="FSN">Abuse of drugs to lose weight (disorder)</displayName>
+</concept>
+<concept code="248120002">
+<displayName lang="en" type="PT">Excessive exercising to lose weight</displayName>
+<displayName lang="en" type="FSN">Excessive exercising to lose weight (finding)</displayName>
+</concept>
+<concept code="266917007">
+<displayName lang="en" type="PT">Trivial drinker - &lt;1u/day</displayName>
+<displayName lang="en" type="FSN">Trivial drinker - &lt;1u/day (finding)</displayName>
+</concept>
+<concept code="266919005">
+<displayName lang="en" type="PT">Never smoked tobacco</displayName>
+<displayName lang="en" type="FSN">Never smoked tobacco (finding)</displayName>
+<displayName lang="en" type="SY">Never smoked</displayName>
+</concept>
+<concept code="266920004">
+<displayName lang="en" type="PT">Trivial cigarette smoker (less than one cigarette/day)</displayName>
+<displayName lang="en" type="FSN">Trivial cigarette smoker (less than one cigarette/day) (finding)</displayName>
+<displayName lang="en" type="SY">Occasional cigarette smoker (less than one cigarette/day)</displayName>
+<displayName lang="en" type="SY">Occasional smoker</displayName>
+</concept>
+<concept code="266921000">
+<displayName lang="en" type="PT">Ex-trivial cigarette smoker (&lt;1/day)</displayName>
+<displayName lang="en" type="FSN">Ex-trivial cigarette smoker (&lt;1/day) (finding)</displayName>
+</concept>
+<concept code="266922007">
+<displayName lang="en" type="PT">Ex-light cigarette smoker (1-9/day)</displayName>
+<displayName lang="en" type="FSN">Ex-light cigarette smoker (1-9/day) (finding)</displayName>
+</concept>
+<concept code="266923002">
+<displayName lang="en" type="PT">Ex-moderate cigarette smoker (10-19/day)</displayName>
+<displayName lang="en" type="FSN">Ex-moderate cigarette smoker (10-19/day) (finding)</displayName>
+</concept>
+<concept code="266924008">
+<displayName lang="en" type="PT">Ex-heavy cigarette smoker (20-39/day)</displayName>
+<displayName lang="en" type="FSN">Ex-heavy cigarette smoker (20-39/day) (finding)</displayName>
+</concept>
+<concept code="266925009">
+<displayName lang="en" type="PT">Ex-very heavy cigarette smoker (40+/day)</displayName>
+<displayName lang="en" type="FSN">Ex-very heavy cigarette smoker (40+/day) (finding)</displayName>
+</concept>
+<concept code="266927001">
+<displayName lang="en" type="PT">Tobacco smoking consumption unknown</displayName>
+<displayName lang="en" type="FSN">Tobacco smoking consumption unknown (finding)</displayName>
+</concept>
+<concept code="266928006">
+<displayName lang="en" type="PT">Ex-cigarette smoker amount unknown</displayName>
+<displayName lang="en" type="FSN">Ex-cigarette smoker amount unknown (finding)</displayName>
+</concept>
+<concept code="266929003">
+<displayName lang="en" type="PT">Smoking started</displayName>
+<displayName lang="en" type="FSN">Smoking started (finding)</displayName>
+</concept>
+<concept code="267124003">
+<displayName lang="en" type="PT">FITT activity level 1</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 1 (finding)</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 1</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 1</displayName>
+</concept>
+<concept code="267126001">
+<displayName lang="en" type="PT">FITT activity level 4</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 4 (finding)</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 4</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 4</displayName>
+</concept>
+<concept code="267127005">
+<displayName lang="en" type="PT">FITT activity level 5</displayName>
+<displayName lang="en" type="FSN">Frequency-intensity-time-type activity level 5 (finding)</displayName>
+<displayName lang="en" type="SY">Frequency-Intensity-Time-Type (FITT) activity level 5</displayName>
+<displayName lang="en" type="SY">Frequency-intensity-time-type activity level 5</displayName>
+</concept>
+<concept code="268645007">
+<displayName lang="en" type="PT">Nondependent alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse (disorder)</displayName>
+</concept>
+<concept code="268646008">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse (disorder)</displayName>
+</concept>
+<concept code="268647004">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse (disorder)</displayName>
+</concept>
+<concept code="268648009">
+<displayName lang="en" type="PT">Nondependent amphetamine or other psychostimulant abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or other psychostimulant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or other psychostimulant abuse</displayName>
+</concept>
+<concept code="276030007">
+<displayName lang="en" type="PT">Travel abroad</displayName>
+<displayName lang="en" type="FSN">Travel abroad (finding)</displayName>
+</concept>
+<concept code="280982009">
+<displayName lang="en" type="PT">Abuse of laxatives</displayName>
+<displayName lang="en" type="FSN">Abuse of laxatives (disorder)</displayName>
+<displayName lang="en" type="SY">Laxative abuse</displayName>
+</concept>
+<concept code="280983004">
+<displayName lang="en" type="PT">Abuse of vitamins</displayName>
+<displayName lang="en" type="FSN">Abuse of vitamins (disorder)</displayName>
+<displayName lang="en" type="SY">Vitamin abuse</displayName>
+</concept>
+<concept code="280984005">
+<displayName lang="en" type="PT">Abuse of herbal medicine</displayName>
+<displayName lang="en" type="FSN">Abuse of herbal medicine (disorder)</displayName>
+</concept>
+<concept code="280985006">
+<displayName lang="en" type="PT">Abuse of diuretics</displayName>
+<displayName lang="en" type="FSN">Abuse of diuretics (disorder)</displayName>
+</concept>
+<concept code="280986007">
+<displayName lang="en" type="PT">Abuse of antacids</displayName>
+<displayName lang="en" type="FSN">Abuse of antacids (disorder)</displayName>
+<displayName lang="en" type="SY">Antacid abuse</displayName>
+</concept>
+<concept code="281018007">
+<displayName lang="en" type="PT">Ex-cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Ex-cigarette smoker (finding)</displayName>
+</concept>
+<concept code="284591009">
+<displayName lang="en" type="PT">Persistent alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Persistent alcohol abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Chronic alcohol abuse</displayName>
+</concept>
+<concept code="284690004">
+<displayName lang="en" type="PT">Self-mutilation of genitalia</displayName>
+<displayName lang="en" type="FSN">Self-mutilation of genitalia (finding)</displayName>
+</concept>
+<concept code="284691000">
+<displayName lang="en" type="PT">Enucleation of own eyes</displayName>
+<displayName lang="en" type="FSN">Enucleation of own eyes (finding)</displayName>
+</concept>
+<concept code="284693002">
+<displayName lang="en" type="PT">Self-inducing a prolapse</displayName>
+<displayName lang="en" type="FSN">Self-inducing a prolapse (finding)</displayName>
+</concept>
+<concept code="284694008">
+<displayName lang="en" type="PT">Breaking own bones</displayName>
+<displayName lang="en" type="FSN">Breaking own bones (finding)</displayName>
+<displayName lang="en" type="SY">Snapping own bones</displayName>
+</concept>
+<concept code="284695009">
+<displayName lang="en" type="PT">Pulling own teeth out</displayName>
+<displayName lang="en" type="FSN">Pulling own teeth out (finding)</displayName>
+<displayName lang="en" type="SY">Extracting own teeth</displayName>
+</concept>
+<concept code="284696005">
+<displayName lang="en" type="PT">Removing own nails</displayName>
+<displayName lang="en" type="FSN">Removing own nails (finding)</displayName>
+</concept>
+<concept code="284697001">
+<displayName lang="en" type="PT">Eating own flesh</displayName>
+<displayName lang="en" type="FSN">Eating own flesh (finding)</displayName>
+</concept>
+<concept code="284699003">
+<displayName lang="en" type="PT">Stripping own skin</displayName>
+<displayName lang="en" type="FSN">Stripping own skin (finding)</displayName>
+</concept>
+<concept code="284702005">
+<displayName lang="en" type="PT">Gouging own body parts</displayName>
+<displayName lang="en" type="FSN">Gouging own body parts (finding)</displayName>
+</concept>
+<concept code="284703000">
+<displayName lang="en" type="PT">Gouging own flesh</displayName>
+<displayName lang="en" type="FSN">Gouging own flesh (finding)</displayName>
+</concept>
+<concept code="284705007">
+<displayName lang="en" type="PT">Gouging own rectum</displayName>
+<displayName lang="en" type="FSN">Gouging own rectum (finding)</displayName>
+</concept>
+<concept code="284706008">
+<displayName lang="en" type="PT">Banging own head against object</displayName>
+<displayName lang="en" type="FSN">Banging own head against object (finding)</displayName>
+</concept>
+<concept code="284707004">
+<displayName lang="en" type="PT">Banging own head against own body parts</displayName>
+<displayName lang="en" type="FSN">Banging own head against own body parts (finding)</displayName>
+</concept>
+<concept code="284708009">
+<displayName lang="en" type="PT">Biting own arm</displayName>
+<displayName lang="en" type="FSN">Biting own arm (finding)</displayName>
+</concept>
+<concept code="284709001">
+<displayName lang="en" type="PT">Biting own tongue</displayName>
+<displayName lang="en" type="FSN">Biting own tongue (finding)</displayName>
+</concept>
+<concept code="284710006">
+<displayName lang="en" type="PT">Biting sides of own cheeks</displayName>
+<displayName lang="en" type="FSN">Biting sides of own cheeks (finding)</displayName>
+</concept>
+<concept code="284741007">
+<displayName lang="en" type="PT">Swallowing substances</displayName>
+<displayName lang="en" type="FSN">Swallowing substances (finding)</displayName>
+</concept>
+<concept code="284742000">
+<displayName lang="en" type="PT">Inserting foreign bodies into own orifices</displayName>
+<displayName lang="en" type="FSN">Inserting foreign bodies into own orifices (finding)</displayName>
+</concept>
+<concept code="284743005">
+<displayName lang="en" type="PT">Throwing self onto floor</displayName>
+<displayName lang="en" type="FSN">Throwing self onto floor (finding)</displayName>
+</concept>
+<concept code="284744004">
+<displayName lang="en" type="PT">Burning self</displayName>
+<displayName lang="en" type="FSN">Burning self (finding)</displayName>
+</concept>
+<concept code="284752001">
+<displayName lang="en" type="PT">Damaging own wounds</displayName>
+<displayName lang="en" type="FSN">Damaging own wounds (finding)</displayName>
+</concept>
+<concept code="284753006">
+<displayName lang="en" type="PT">Reopening scars</displayName>
+<displayName lang="en" type="FSN">Reopening scars (finding)</displayName>
+</concept>
+<concept code="284754000">
+<displayName lang="en" type="PT">Pulling out sutures</displayName>
+<displayName lang="en" type="FSN">Pulling out sutures (finding)</displayName>
+</concept>
+<concept code="284755004">
+<displayName lang="en" type="PT">Poking fingers into wound</displayName>
+<displayName lang="en" type="FSN">Poking fingers into wound (finding)</displayName>
+</concept>
+<concept code="284756003">
+<displayName lang="en" type="PT">Hitting self</displayName>
+<displayName lang="en" type="FSN">Hitting self (finding)</displayName>
+</concept>
+<concept code="284757007">
+<displayName lang="en" type="PT">Punching self</displayName>
+<displayName lang="en" type="FSN">Punching self (finding)</displayName>
+</concept>
+<concept code="284758002">
+<displayName lang="en" type="PT">Slapping self</displayName>
+<displayName lang="en" type="FSN">Slapping self (finding)</displayName>
+</concept>
+<concept code="284759005">
+<displayName lang="en" type="PT">Stabbing self</displayName>
+<displayName lang="en" type="FSN">Stabbing self (finding)</displayName>
+</concept>
+<concept code="284760000">
+<displayName lang="en" type="PT">Picking own skin</displayName>
+<displayName lang="en" type="FSN">Picking own skin (finding)</displayName>
+</concept>
+<concept code="284761001">
+<displayName lang="en" type="PT">Rubbing own skin</displayName>
+<displayName lang="en" type="FSN">Rubbing own skin (finding)</displayName>
+</concept>
+<concept code="284763003">
+<displayName lang="en" type="PT">Nipping self</displayName>
+<displayName lang="en" type="FSN">Nipping self (finding)</displayName>
+</concept>
+<concept code="284764009">
+<displayName lang="en" type="PT">Pinching self</displayName>
+<displayName lang="en" type="FSN">Pinching self (finding)</displayName>
+</concept>
+<concept code="285137009">
+<displayName lang="en" type="PT">Biting own fingers</displayName>
+<displayName lang="en" type="FSN">Biting own fingers (finding)</displayName>
+</concept>
+<concept code="285138004">
+<displayName lang="en" type="PT">Biting own toes</displayName>
+<displayName lang="en" type="FSN">Biting own toes (finding)</displayName>
+</concept>
+<concept code="285142001">
+<displayName lang="en" type="PT">Self-scalding</displayName>
+<displayName lang="en" type="FSN">Self-scalding (finding)</displayName>
+</concept>
+<concept code="285152002">
+<displayName lang="en" type="PT">Gouging own vagina</displayName>
+<displayName lang="en" type="FSN">Gouging own vagina (finding)</displayName>
+</concept>
+<concept code="286857004">
+<displayName lang="en" type="PT">Ex-problem drinker</displayName>
+<displayName lang="en" type="FSN">Ex-problem drinker (finding)</displayName>
+</concept>
+<concept code="300939009">
+<displayName lang="en" type="PT">Abstinent alcoholic</displayName>
+<displayName lang="en" type="FSN">Abstinent alcoholic (finding)</displayName>
+</concept>
+<concept code="304605000">
+<displayName lang="en" type="PT">Methanol abuse</displayName>
+<displayName lang="en" type="FSN">Methanol abuse (disorder)</displayName>
+</concept>
+<concept code="307051006">
+<displayName lang="en" type="PT">Inserting objects into wound</displayName>
+<displayName lang="en" type="FSN">Inserting objects into wound (finding)</displayName>
+</concept>
+<concept code="307052004">
+<displayName lang="en" type="PT">Illicit drug use</displayName>
+<displayName lang="en" type="FSN">Illicit drug use (finding)</displayName>
+<displayName lang="en" type="SY">Illicit substance use</displayName>
+</concept>
+<concept code="307578000">
+<displayName lang="en" type="PT">Cutting own wrists</displayName>
+<displayName lang="en" type="FSN">Cutting own wrists (finding)</displayName>
+</concept>
+<concept code="308438006">
+<displayName lang="en" type="PT">Smoking restarted</displayName>
+<displayName lang="en" type="FSN">Smoking restarted (finding)</displayName>
+</concept>
+<concept code="314550003">
+<displayName lang="en" type="PT">H/O: deliberate self harm</displayName>
+<displayName lang="en" type="FSN">History of deliberate self harm (situation)</displayName>
+<displayName lang="en" type="SY">History of deliberate self harm</displayName>
+</concept>
+<concept code="360890004">
+<displayName lang="en" type="PT">Intolerant ex-smoker</displayName>
+<displayName lang="en" type="FSN">Intolerant ex-smoker (finding)</displayName>
+</concept>
+<concept code="360900008">
+<displayName lang="en" type="PT">Aggressive ex-smoker</displayName>
+<displayName lang="en" type="FSN">Aggressive ex-smoker (finding)</displayName>
+</concept>
+<concept code="360918006">
+<displayName lang="en" type="PT">Aggressive non-smoker</displayName>
+<displayName lang="en" type="FSN">Aggressive non-smoker (finding)</displayName>
+</concept>
+<concept code="360929005">
+<displayName lang="en" type="PT">Intolerant non-smoker</displayName>
+<displayName lang="en" type="FSN">Intolerant non-smoker (finding)</displayName>
+</concept>
+<concept code="361049005">
+<displayName lang="en" type="PT">Habitual drug user</displayName>
+<displayName lang="en" type="FSN">Habitual drug user (finding)</displayName>
+</concept>
+<concept code="361055000">
+<displayName lang="en" type="PT">Misuses drugs</displayName>
+<displayName lang="en" type="FSN">Misuses drugs (finding)</displayName>
+<displayName lang="en" type="SY">Drug abuser</displayName>
+<displayName lang="en" type="SY">Problem drug user</displayName>
+<displayName lang="en" type="SY">SM - Substance misuser</displayName>
+<displayName lang="en" type="SY">Substance abuser</displayName>
+<displayName lang="en" type="SY">Substance misuser</displayName>
+<displayName lang="en" type="SY">Substance user</displayName>
+</concept>
+<concept code="373613000">
+<displayName lang="en" type="PT">&quot;Cleans&quot; own needles</displayName>
+<displayName lang="en" type="FSN">&quot;Cleans&quot; own needles (finding)</displayName>
+</concept>
+<concept code="373870008">
+<displayName lang="en" type="PT">Cleans needles with bleach</displayName>
+<displayName lang="en" type="FSN">Cleans needles with bleach (finding)</displayName>
+<displayName lang="en" type="SY">&quot;Cleans&quot; needles with bleach</displayName>
+</concept>
+<concept code="394871007">
+<displayName lang="en" type="PT">Thinking about stopping smoking</displayName>
+<displayName lang="en" type="FSN">Thinking about stopping smoking (finding)</displayName>
+</concept>
+<concept code="394872000">
+<displayName lang="en" type="PT">Ready to stop smoking</displayName>
+<displayName lang="en" type="FSN">Ready to stop smoking (finding)</displayName>
+</concept>
+<concept code="394873005">
+<displayName lang="en" type="PT">Not interested in stopping smoking</displayName>
+<displayName lang="en" type="FSN">Not interested in stopping smoking (finding)</displayName>
+</concept>
+<concept code="405746006">
+<displayName lang="en" type="PT">Current non smoker but past smoking history unknown</displayName>
+<displayName lang="en" type="FSN">Current non smoker but past smoking history unknown (finding)</displayName>
+</concept>
+<concept code="407560009">
+<displayName lang="en" type="PT">At risk of sexually transmitted infection</displayName>
+<displayName lang="en" type="FSN">At risk of sexually transmitted infection (finding)</displayName>
+</concept>
+<concept code="408578001">
+<displayName lang="en" type="PT">Physical activity target minimal exercise</displayName>
+<displayName lang="en" type="FSN">Physical activity target minimal exercise (finding)</displayName>
+</concept>
+<concept code="408579009">
+<displayName lang="en" type="PT">Physical activity target strenuous exercise</displayName>
+<displayName lang="en" type="FSN">Physical activity target strenuous exercise (finding)</displayName>
+</concept>
+<concept code="408580007">
+<displayName lang="en" type="PT">Physical activity target light exercise</displayName>
+<displayName lang="en" type="FSN">Physical activity target light exercise (finding)</displayName>
+</concept>
+<concept code="408581006">
+<displayName lang="en" type="PT">Physical activity target moderate exercise</displayName>
+<displayName lang="en" type="FSN">Physical activity target moderate exercise (finding)</displayName>
+</concept>
+<concept code="413096007">
+<displayName lang="en" type="PT">Never injecting drug user</displayName>
+<displayName lang="en" type="FSN">Never injecting drug user (finding)</displayName>
+</concept>
+<concept code="413295004">
+<displayName lang="en" type="PT">Concerned about own drug use</displayName>
+<displayName lang="en" type="FSN">Concerned about own drug use (finding)</displayName>
+</concept>
+<concept code="413300002">
+<displayName lang="en" type="PT">Exercise below recommended level</displayName>
+<displayName lang="en" type="FSN">Exercise below recommended level (finding)</displayName>
+</concept>
+<concept code="413329000">
+<displayName lang="en" type="PT">Treated for drug use in last 12 months</displayName>
+<displayName lang="en" type="FSN">Treated for drug use in last 12 months (finding)</displayName>
+</concept>
+<concept code="413460004">
+<displayName lang="en" type="PT">Aerobic exercise five times a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise five times a week (finding)</displayName>
+</concept>
+<concept code="413461000">
+<displayName lang="en" type="PT">Aerobic exercise four times a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise four times a week (finding)</displayName>
+</concept>
+<concept code="413462007">
+<displayName lang="en" type="PT">Aerobic exercise three times a week</displayName>
+<displayName lang="en" type="FSN">Aerobic exercise three times a week (finding)</displayName>
+</concept>
+<concept code="414874007">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse in remission (disorder)</displayName>
+</concept>
+<concept code="415510005">
+<displayName lang="en" type="PT">Sedentary lifestyle</displayName>
+<displayName lang="en" type="FSN">Sedentary lifestyle (finding)</displayName>
+<displayName lang="en" type="SY">Sedentary life style</displayName>
+</concept>
+<concept code="416479009">
+<displayName lang="en" type="PT">Previously injecting drug user</displayName>
+<displayName lang="en" type="FSN">Previously injecting drug user (finding)</displayName>
+</concept>
+<concept code="416751004">
+<displayName lang="en" type="PT">Reduced drugs misuse</displayName>
+<displayName lang="en" type="FSN">Reduced drugs misuse (finding)</displayName>
+</concept>
+<concept code="417284009">
+<displayName lang="en" type="PT">Current drug user</displayName>
+<displayName lang="en" type="FSN">Current drug user (finding)</displayName>
+</concept>
+<concept code="417298001">
+<displayName lang="en" type="PT">Abnormal craving for drugs</displayName>
+<displayName lang="en" type="FSN">Abnormal craving for drugs (finding)</displayName>
+</concept>
+<concept code="417531009">
+<displayName lang="en" type="PT">Excessive craving for drugs</displayName>
+<displayName lang="en" type="FSN">Excessive craving for drugs (finding)</displayName>
+</concept>
+<concept code="417697003">
+<displayName lang="en" type="PT">Irresistible craving for drugs</displayName>
+<displayName lang="en" type="FSN">Irresistible craving for drugs (finding)</displayName>
+</concept>
+<concept code="423675002">
+<displayName lang="en" type="PT">Difficulty following postpartum exercise routine</displayName>
+<displayName lang="en" type="FSN">Difficulty following postpartum exercise routine (finding)</displayName>
+</concept>
+<concept code="424037008">
+<displayName lang="en" type="PT">Difficulty following prenatal exercise routine</displayName>
+<displayName lang="en" type="FSN">Difficulty following prenatal exercise routine (finding)</displayName>
+</concept>
+<concept code="424056003">
+<displayName lang="en" type="PT">Difficulty performing normal routines due to substance use</displayName>
+<displayName lang="en" type="FSN">Difficulty performing normal routines due to substance use (finding)</displayName>
+</concept>
+<concept code="424268004">
+<displayName lang="en" type="PT">Reflex disturbances due to substance use</displayName>
+<displayName lang="en" type="FSN">Reflex disturbances due to substance use (finding)</displayName>
+</concept>
+<concept code="424461008">
+<displayName lang="en-GB" type="PT">Behaviour change due to substance use</displayName>
+<displayName lang="en" type="FSN">Behavior change due to substance use (finding)</displayName>
+</concept>
+<concept code="424626006">
+<displayName lang="en" type="PT">Misuse of over-the-counter medications</displayName>
+<displayName lang="en" type="FSN">Misuse of over-the-counter medications (finding)</displayName>
+</concept>
+<concept code="424805008">
+<displayName lang="en" type="PT">Exercise above recommended level</displayName>
+<displayName lang="en" type="FSN">Exercise above recommended level (finding)</displayName>
+</concept>
+<concept code="424848002">
+<displayName lang="en" type="PT">Recreational drug user</displayName>
+<displayName lang="en" type="FSN">Recreational drug user (finding)</displayName>
+</concept>
+<concept code="425533007">
+<displayName lang="en" type="PT">Episodic drug abuse</displayName>
+<displayName lang="en" type="FSN">Episodic drug abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Drug abuse, episodic</displayName>
+</concept>
+<concept code="425885002">
+<displayName lang="en" type="PT">Continuous phencyclidine abuse</displayName>
+<displayName lang="en" type="FSN">Continuous phencyclidine abuse (disorder)</displayName>
+</concept>
+<concept code="426095000">
+<displayName lang="en" type="PT">Continuous inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Continuous inhalant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Inhalant abuse, continuous</displayName>
+</concept>
+<concept code="426590003">
+<displayName lang="en" type="PT">Drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="427013000">
+<displayName lang="en" type="PT">Alcohol consumption during pregnancy</displayName>
+<displayName lang="en" type="FSN">Alcohol consumption during pregnancy (finding)</displayName>
+</concept>
+<concept code="427189007">
+<displayName lang="en" type="PT">Maternal tobacco use</displayName>
+<displayName lang="en" type="FSN">Maternal tobacco use (finding)</displayName>
+</concept>
+<concept code="427205009">
+<displayName lang="en" type="PT">Amphetamine abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="427229002">
+<displayName lang="en" type="PT">Episodic inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Episodic inhalant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Inhalant abuse, episodic</displayName>
+</concept>
+<concept code="427346002">
+<displayName lang="en-GB" type="PT">Risk prone health behaviour</displayName>
+<displayName lang="en" type="FSN">Risk prone health behavior (finding)</displayName>
+</concept>
+<concept code="428406005">
+<displayName lang="en" type="PT">Benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">Benzodiazepine misuse (finding)</displayName>
+</concept>
+<concept code="428422006">
+<displayName lang="en" type="PT">Found hanging self</displayName>
+<displayName lang="en" type="FSN">Found hanging self (finding)</displayName>
+</concept>
+<concept code="428493006">
+<displayName lang="en" type="PT">Crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Crack cocaine misuse (finding)</displayName>
+</concept>
+<concept code="428495004">
+<displayName lang="en" type="PT">Solvent misuse</displayName>
+<displayName lang="en" type="FSN">Solvent misuse (finding)</displayName>
+</concept>
+<concept code="428623008">
+<displayName lang="en" type="PT">Barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">Barbiturate misuse (finding)</displayName>
+</concept>
+<concept code="428659002">
+<displayName lang="en" type="PT">Amphetamine misuse</displayName>
+<displayName lang="en" type="FSN">Amphetamine misuse (finding)</displayName>
+</concept>
+<concept code="428819003">
+<displayName lang="en" type="PT">Opiate misuse</displayName>
+<displayName lang="en" type="FSN">Opiate misuse (finding)</displayName>
+</concept>
+<concept code="428823006">
+<displayName lang="en" type="PT">Cannabis misuse</displayName>
+<displayName lang="en" type="FSN">Cannabis misuse (finding)</displayName>
+</concept>
+<concept code="429179002">
+<displayName lang="en" type="PT">Antidepressant misuse</displayName>
+<displayName lang="en" type="FSN">Antidepressant misuse (finding)</displayName>
+</concept>
+<concept code="429512006">
+<displayName lang="en" type="PT">Methadone misuse</displayName>
+<displayName lang="en" type="FSN">Methadone misuse (finding)</displayName>
+</concept>
+<concept code="429692000">
+<displayName lang="en" type="PT">Amphetamine abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="429782000">
+<displayName lang="en" type="PT">Cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Cocaine misuse (finding)</displayName>
+</concept>
+<concept code="441527004">
+<displayName lang="en" type="PT">Stimulant abuse</displayName>
+<displayName lang="en" type="FSN">Stimulant abuse (disorder)</displayName>
+</concept>
+<concept code="441668002">
+<displayName lang="en-GB" type="PT">Drug seeking behaviour</displayName>
+<displayName lang="en" type="FSN">Drug seeking behavior (finding)</displayName>
+<displayName lang="en" type="SY">Drug seeking</displayName>
+</concept>
+<concept code="445273005">
+<displayName lang="en" type="PT">Polysubstance abuse</displayName>
+<displayName lang="en" type="FSN">Polysubstance abuse (disorder)</displayName>
+</concept>
+<concept code="446172000">
+<displayName lang="en" type="PT">Failed attempt to stop smoking</displayName>
+<displayName lang="en" type="FSN">Failed attempt to stop smoking (finding)</displayName>
+</concept>
+<concept code="447087000">
+<displayName lang="en" type="PT">Drinks alcoholic cider</displayName>
+<displayName lang="en" type="FSN">Drinks alcoholic cider (finding)</displayName>
+<displayName lang="en" type="SY">Cider drinker</displayName>
+<displayName lang="en-GB" type="SY">Drinks cider</displayName>
+</concept>
+<concept code="449345000">
+<displayName lang="en" type="PT">Smoked before confirmation of pregnancy</displayName>
+<displayName lang="en" type="FSN">Smoked before confirmation of pregnancy (finding)</displayName>
+<displayName lang="en" type="SY">Smoker before confirmation of pregnancy</displayName>
+</concept>
+<concept code="449368009">
+<displayName lang="en" type="PT">Stopped smoking during pregnancy</displayName>
+<displayName lang="en" type="FSN">Stopped smoking during pregnancy (finding)</displayName>
+</concept>
+<concept code="449369001">
+<displayName lang="en" type="PT">Stopped smoking before pregnancy</displayName>
+<displayName lang="en" type="FSN">Stopped smoking before pregnancy (finding)</displayName>
+</concept>
+<concept code="449867007">
+<displayName lang="en" type="PT">Uses moist tobacco occasionally</displayName>
+<displayName lang="en" type="FSN">Uses moist tobacco occasionally (finding)</displayName>
+</concept>
+<concept code="449868002">
+<displayName lang="en" type="PT">Smokes tobacco daily</displayName>
+<displayName lang="en" type="FSN">Smokes tobacco daily (finding)</displayName>
+</concept>
+<concept code="449869005">
+<displayName lang="en" type="PT">Uses moist tobacco daily</displayName>
+<displayName lang="en" type="FSN">Uses moist tobacco daily (finding)</displayName>
+</concept>
+<concept code="698188003">
+<displayName lang="en" type="PT">Chews betel quid</displayName>
+<displayName lang="en" type="FSN">Chews betel quid (finding)</displayName>
+</concept>
+<concept code="698289004">
+<displayName lang="en" type="PT">Hookah pipe smoker</displayName>
+<displayName lang="en" type="FSN">Hookah pipe smoker (finding)</displayName>
+<displayName lang="en" type="SY">Water pipe smoker</displayName>
+</concept>
+<concept code="699449003">
+<displayName lang="en" type="PT">Methamphetamine abuse</displayName>
+<displayName lang="en" type="FSN">Methamphetamine abuse (disorder)</displayName>
+</concept>
+<concept code="702479006">
+<displayName lang="en" type="PT">At high risk of sexually transmitted infection</displayName>
+<displayName lang="en" type="FSN">At high risk of sexually transmitted infection (finding)</displayName>
+</concept>
+<concept code="702480009">
+<displayName lang="en" type="PT">At low risk of sexually transmitted infection</displayName>
+<displayName lang="en" type="FSN">At low risk of sexually transmitted infection (finding)</displayName>
+</concept>
+<concept code="702771005">
+<displayName lang="en" type="PT">Illicit drug use unknown</displayName>
+<displayName lang="en" type="FSN">Illicit drug use unknown (finding)</displayName>
+</concept>
+<concept code="702973002">
+<displayName lang="en" type="PT">Level of physical activity unknown</displayName>
+<displayName lang="en" type="FSN">Level of physical activity unknown (finding)</displayName>
+</concept>
+<concept code="702975009">
+<displayName lang="en" type="PT">Ex-tobacco user</displayName>
+<displayName lang="en" type="FSN">Ex-tobacco user (finding)</displayName>
+</concept>
+<concept code="702979003">
+<displayName lang="en" type="PT">Never used tobacco</displayName>
+<displayName lang="en" type="FSN">Never used tobacco (finding)</displayName>
+</concept>
+<concept code="702981001">
+<displayName lang="en" type="PT">Performs low impact stretching</displayName>
+<displayName lang="en" type="FSN">Performs low impact stretching (finding)</displayName>
+</concept>
+<concept code="703885002">
+<displayName lang="en" type="PT">Misuse of analgesic</displayName>
+<displayName lang="en" type="FSN">Misuse of analgesic (finding)</displayName>
+</concept>
+<concept code="704197006">
+<displayName lang="en" type="PT">Admits alcohol use</displayName>
+<displayName lang="en" type="FSN">Admits alcohol use (finding)</displayName>
+</concept>
+<concept code="704198001">
+<displayName lang="en" type="PT">Denies alcohol use</displayName>
+<displayName lang="en" type="FSN">Denies alcohol use (finding)</displayName>
+</concept>
+<concept code="707848009">
+<displayName lang="en" type="PT">Patient denies drug use</displayName>
+<displayName lang="en" type="FSN">Patient denies drug use (finding)</displayName>
+</concept>
+<concept code="712542001">
+<displayName lang="en" type="PT">Abstinent from drug misuse</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse (finding)</displayName>
+</concept>
+<concept code="221000119102">
+<displayName lang="en" type="PT">Never smoked any substance</displayName>
+<displayName lang="en" type="FSN">Never smoked any substance (finding)</displayName>
+</concept>
+<concept code="1471000119103">
+<displayName lang="en" type="PT">Drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="27051000119102">
+<displayName lang="en" type="PT">Chronic abuse of laxatives</displayName>
+<displayName lang="en" type="FSN">Chronic abuse of laxatives (disorder)</displayName>
+</concept>
+<concept code="67961000119106">
+<displayName lang="en" type="PT">Caffeine user</displayName>
+<displayName lang="en" type="FSN">Caffeine user (finding)</displayName>
+</concept>
+<concept code="125851000119106">
+<displayName lang="en" type="PT">Continuous sedative abuse</displayName>
+<displayName lang="en" type="FSN">Continuous sedative abuse (disorder)</displayName>
+</concept>
+<concept code="145101000119102">
+<displayName lang="en" type="PT">Intravenous cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Intravenous cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="145121000119106">
+<displayName lang="en" type="PT">Intravenous nondependent opioid abuse</displayName>
+<displayName lang="en" type="FSN">Intravenous nondependent opioid abuse (disorder)</displayName>
+</concept>
+<concept code="145841000119107">
+<displayName lang="en" type="PT">Episodic phencyclidine abuse</displayName>
+<displayName lang="en" type="FSN">Episodic phencyclidine abuse (disorder)</displayName>
+</concept>
+<concept code="197541000000101">
+<displayName lang="en-GB" type="PT">Occasional drug user</displayName>
+<displayName lang="en-GB" type="FSN">Occasional drug user (finding)</displayName>
+</concept>
+<concept code="202961000000106">
+<displayName lang="en-GB" type="PT">Ecstasy misuse</displayName>
+<displayName lang="en-GB" type="FSN">Ecstasy misuse (finding)</displayName>
+</concept>
+<concept code="202991000000100">
+<displayName lang="en-GB" type="PT">Heroin misuse</displayName>
+<displayName lang="en-GB" type="FSN">Heroin misuse (finding)</displayName>
+</concept>
+<concept code="203191000000107">
+<displayName lang="en-GB" type="PT">Wants to stop smoking</displayName>
+<displayName lang="en-GB" type="FSN">Wants to stop smoking (finding)</displayName>
+</concept>
+<concept code="204641000000107">
+<displayName lang="en-GB" type="PT">Episodic nondependent crack cocaine abuse</displayName>
+<displayName lang="en-GB" type="FSN">Episodic nondependent crack cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="240951000000103">
+<displayName lang="en" type="PT">Drug misuse reported by other</displayName>
+<displayName lang="en" type="FSN">Drug misuse reported by other (finding)</displayName>
+</concept>
+<concept code="240961000000100">
+<displayName lang="en" type="PT">Patient admits to drug use</displayName>
+<displayName lang="en" type="FSN">Patient admits to drug use (finding)</displayName>
+</concept>
+<concept code="248021000000105">
+<displayName lang="en" type="PT">Current non recreational drug user</displayName>
+<displayName lang="en" type="FSN">Current non recreational drug user (finding)</displayName>
+</concept>
+<concept code="248601000000106">
+<displayName lang="en" type="PT">Neck injector</displayName>
+<displayName lang="en" type="FSN">Neck injector (finding)</displayName>
+</concept>
+<concept code="279461000000104">
+<displayName lang="en-GB" type="PT">Using heroin on top of substitution therapy</displayName>
+<displayName lang="en-GB" type="FSN">Using heroin on top of substitution therapy (finding)</displayName>
+<displayName lang="en" type="SY">Uses heroin on top of substitution therapy</displayName>
+</concept>
+<concept code="279491000000105">
+<displayName lang="en-GB" type="PT">Not using heroin on top of substitution therapy</displayName>
+<displayName lang="en-GB" type="FSN">Not using heroin on top of substitution therapy (finding)</displayName>
+<displayName lang="en" type="SY">Does not use heroin on top of substitution therapy</displayName>
+</concept>
+<concept code="288291000119102">
+<displayName lang="en-GB" type="PT">High risk bisexual behaviour</displayName>
+<displayName lang="en" type="FSN">High risk bisexual behavior (finding)</displayName>
+</concept>
+<concept code="288301000119101">
+<displayName lang="en-GB" type="PT">High risk heterosexual behaviour</displayName>
+<displayName lang="en" type="FSN">High risk heterosexual behavior (finding)</displayName>
+</concept>
+<concept code="288311000119103">
+<displayName lang="en-GB" type="PT">High risk homosexual behaviour</displayName>
+<displayName lang="en" type="FSN">High risk homosexual behavior (finding)</displayName>
+</concept>
+<concept code="300471000000101">
+<displayName lang="en" type="PT">Abstinent from substance misuse</displayName>
+<displayName lang="en" type="FSN">Abstinent from substance misuse (finding)</displayName>
+</concept>
+<concept code="323231000000100">
+<displayName lang="en" type="PT">Feels alcohol consumption is not a problem</displayName>
+<displayName lang="en" type="FSN">Feels alcohol consumption is not a problem (finding)</displayName>
+<displayName lang="en" type="SY">Feels drinking is not a problem</displayName>
+</concept>
+<concept code="334631000000103">
+<displayName lang="en" type="PT">Feels it is not necessary to reduce alcohol consumption</displayName>
+<displayName lang="en" type="FSN">Feels it is not necessary to reduce alcohol consumption (finding)</displayName>
+<displayName lang="en" type="SY">Feels it is not necessary to cut down drinking</displayName>
+</concept>
+<concept code="365981000000101">
+<displayName lang="en" type="PT">30 minutes a day of at least moderate intensity physical activity on five or more days of the week</displayName>
+<displayName lang="en" type="FSN">30 minutes a day of at least moderate intensity physical activity on five or more days of the week (finding)</displayName>
+</concept>
+<concept code="366011000000103">
+<displayName lang="en" type="PT">30 minutes a day of at least moderate intensity walking on five or more days of the week</displayName>
+<displayName lang="en" type="FSN">30 minutes a day of at least moderate intensity walking on five or more days of the week (finding)</displayName>
+</concept>
+<concept code="366061000000101">
+<displayName lang="en" type="PT">Less than 30 minutes a day of at least moderate intensity physical activity on five or more days of the week</displayName>
+<displayName lang="en" type="FSN">Less than 30 minutes a day of at least moderate intensity physical activity on five or more days of the week (finding)</displayName>
+</concept>
+<concept code="366121000000108">
+<displayName lang="en" type="PT">General practice physical activity questionnaire physical activity index: inactive</displayName>
+<displayName lang="en" type="FSN">General practice physical activity questionnaire physical activity index: inactive (finding)</displayName>
+<displayName lang="en" type="SY">GPPAQ (general practice physical activity questionnaire) physical activity index: inactive</displayName>
+</concept>
+<concept code="366171000000107">
+<displayName lang="en" type="PT">General practice physical activity questionnaire physical activity index: moderately inactive</displayName>
+<displayName lang="en" type="FSN">General practice physical activity questionnaire physical activity index: moderately inactive (finding)</displayName>
+<displayName lang="en" type="SY">GPPAQ (general practice physical activity questionnaire) physical activity index: moderately inactive</displayName>
+</concept>
+<concept code="366211000000105">
+<displayName lang="en" type="PT">General practice physical activity questionnaire physical activity index: moderately active</displayName>
+<displayName lang="en" type="FSN">General practice physical activity questionnaire physical activity index: moderately active (finding)</displayName>
+<displayName lang="en" type="SY">GPPAQ (general practice physical activity questionnaire) physical activity index: moderately active</displayName>
+</concept>
+<concept code="366241000000106">
+<displayName lang="en" type="PT">General practice physical activity questionnaire physical activity index: active</displayName>
+<displayName lang="en" type="FSN">General practice physical activity questionnaire physical activity index: active (finding)</displayName>
+<displayName lang="en" type="SY">GPPAQ (general practice physical activity questionnaire) physical activity index: active</displayName>
+</concept>
+<concept code="383871000000108">
+<displayName lang="en" type="PT">Health problem secondary to drug misuse</displayName>
+<displayName lang="en" type="FSN">Health problem secondary to drug misuse (finding)</displayName>
+</concept>
+<concept code="383901000000108">
+<displayName lang="en" type="PT">Uses drug paraphernalia</displayName>
+<displayName lang="en" type="FSN">Uses drug paraphernalia (finding)</displayName>
+</concept>
+<concept code="492191000000103">
+<displayName lang="en" type="PT">Ex roll-up cigarette smoker</displayName>
+<displayName lang="en" type="FSN">Ex roll-up cigarette smoker (finding)</displayName>
+</concept>
+<concept code="506931000000109">
+<displayName lang="en" type="PT">Recent travel to disease affected area</displayName>
+<displayName lang="en" type="FSN">Recent travel to disease affected area (finding)</displayName>
+</concept>
+<concept code="517211000000106">
+<displayName lang="en" type="PT">Recently stopped smoking</displayName>
+<displayName lang="en" type="FSN">Recently stopped smoking (finding)</displayName>
+</concept>
+<concept code="748381000000102">
+<displayName lang="en" type="PT">Drinks real ale</displayName>
+<displayName lang="en" type="FSN">Drinks real ale (finding)</displayName>
+</concept>
+<concept code="764651000000101">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse (disorder)</displayName>
+</concept>
+<concept code="766691000000102">
+<displayName lang="en" type="PT">Smoker in household</displayName>
+<displayName lang="en" type="FSN">Smoker in household (finding)</displayName>
+</concept>
+<concept code="777631000000108">
+<displayName lang="en" type="PT">Increasing risk drinking</displayName>
+<displayName lang="en" type="FSN">Increasing risk alcohol drinking (finding)</displayName>
+</concept>
+<concept code="777651000000101">
+<displayName lang="en" type="PT">Higher risk drinking</displayName>
+<displayName lang="en" type="FSN">Higher risk alcohol drinking (finding)</displayName>
+</concept>
+<concept code="777671000000105">
+<displayName lang="en" type="PT">Lower risk drinking</displayName>
+<displayName lang="en" type="FSN">Lower risk alcohol drinking (finding)</displayName>
+</concept>
+<concept code="801011000000108">
+<displayName lang="en" type="PT">H/O cruise holiday</displayName>
+<displayName lang="en" type="FSN">History of cruise vacation (finding)</displayName>
+</concept>
+<concept code="802411000000109">
+<displayName lang="en" type="PT">Analgesic misuse</displayName>
+<displayName lang="en" type="FSN">Analgesic misuse (disorder)</displayName>
+<displayName lang="en" type="SY">Analgesic abuse</displayName>
+</concept>
+<concept code="824001000000103">
+<displayName lang="en" type="PT">Misuses anabolic steroids</displayName>
+<displayName lang="en" type="FSN">Misuses anabolic steroids (finding)</displayName>
+</concept>
+<concept code="858861000000101">
+<displayName lang="en" type="PT">Declines to state current alcohol consumption</displayName>
+<displayName lang="en" type="FSN">Declines to state current alcohol consumption (finding)</displayName>
+</concept>
+<concept code="877941000000107">
+<displayName lang="en" type="PT">User of electronic cigarette</displayName>
+<displayName lang="en" type="FSN">User of electronic cigarette (finding)</displayName>
+</concept>
+<concept code="908781000000104">
+<displayName lang="en" type="PT">Ex user of electronic cigarette</displayName>
+<displayName lang="en" type="FSN">Ex user of electronic cigarette (finding)</displayName>
+</concept>
+<concept code="919561000000107">
+<displayName lang="en" type="PT">Opioid tolerant</displayName>
+<displayName lang="en" type="FSN">Opioid tolerant (finding)</displayName>
+</concept>
+<concept code="919581000000103">
+<displayName lang="en" type="PT">Opioid naive</displayName>
+<displayName lang="en" type="FSN">Opioid naive (finding)</displayName>
+</concept>
+<concept code="924501000000100">
+<displayName lang="en" type="PT">Novel psychoactive substance misuse</displayName>
+<displayName lang="en" type="FSN">Novel psychoactive substance misuse (disorder)</displayName>
+</concept>
+<concept code="963051000000100">
+<displayName lang="en" type="PT">At least 150 minutes of moderate intensity physical activity per week</displayName>
+<displayName lang="en" type="FSN">At least 150 minutes of moderate intensity physical activity per week (finding)</displayName>
+</concept>
+<concept code="963071000000109">
+<displayName lang="en" type="PT">Less than 150 minutes of moderate intensity physical activity per week</displayName>
+<displayName lang="en" type="FSN">Less than 150 minutes of moderate intensity physical activity per week (finding)</displayName>
+</concept>
+</vocabulary>

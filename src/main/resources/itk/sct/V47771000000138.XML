@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Personal welfare lasting power of attorney findings" type="Realm Concept" setId="67271000000137" version="3" id="47771000000138" refId="999001951000000107" memberCount="2" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="816361000000101">
+<displayName lang="en" type="PT">Has appointed person with personal welfare lasting power of attorney (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has appointed person with personal welfare lasting power of attorney (Mental Capacity Act 2005) (finding)</displayName>
+<displayName lang="en" type="SY">Has appointed person with health and welfare lasting power of attorney</displayName>
+<displayName lang="en" type="SY">Has appointed person with personal welfare LPA (lasting power of attorney) (Mental Capacity Act 2005)</displayName>
+</concept>
+<concept code="816381000000105">
+<displayName lang="en" type="PT">Has appointed person with personal welfare lasting power of attorney with authority for life sustaining decisions (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has appointed person with personal welfare lasting power of attorney with authority for life sustaining decisions (Mental Capacity Act 2005) (finding)</displayName>
+<displayName lang="en" type="SY">Has appointed person with health and welfare lasting power of attorney with authority for life sustaining decisions</displayName>
+<displayName lang="en" type="SY">Has appointed person with personal welfare LPA (lasting power of attorney) with authority for life sustaining decisions (Mental Capacity Act 2005)</displayName>
+</concept>
+</vocabulary>

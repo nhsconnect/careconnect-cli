@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DINumericResultsSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the OID for the UK subset of SnomedCT, qv the link below.</p>
+            <p>A subset of Snomed CT codes describing procedures and sub procedures of Diagnostic Imaging that have numeric results associated.</p>
+            <p>Any <b style="color: blue; text-decoration: underline">Snomed-CT</b> code describing a Diagnostic Imaging procedure or sub procedure that has associated results.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS CHC (continuing healthcare) rejection message type" type="Realm Concept" setId="68011000000139" version="6" id="52771000000138" refId="999001451000000104" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="768131000000105">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Fast Track Pathway Tool Rejection</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Fast Track Pathway Tool Rejection (record artifact)</displayName>
+</concept>
+<concept code="768141000000101">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Checklist Assessment Rejection</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Checklist Assessment Rejection (record artifact)</displayName>
+</concept>
+<concept code="768151000000103">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Request for Assessment Rejection</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Request for Assessment Rejection (record artifact)</displayName>
+</concept>
+</vocabulary>

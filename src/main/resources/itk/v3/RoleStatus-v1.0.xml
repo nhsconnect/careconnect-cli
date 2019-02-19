@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RoleStatus" version="1.0" status="active" id="2.16.840.1.113883.5.1068">
+   <Description>
+            <p>A vocabulary representing the defined possible states of a role.</p>
+         </Description>
+   <concept code="normal">
+      <displayName>The 'typical' state. Excludes 'nullified' which represents the termination state of a role instance that was created in error.</displayName>
+   </concept>
+   <concept code="active">
+      <displayName>The state representing the fact that the entity is currently active in the role.</displayName>
+   </concept>
+   <concept code="cancelled">
+      <displayName>The terminal state resulting from cancellation of the role prior to activation.</displayName>
+   </concept>
+   <concept code="pending">
+      <displayName>The state representing that fact that the role has not yet become active.</displayName>
+   </concept>
+   <concept code="suspended">
+      <displayName>The state that represents a suspension of the entity playing the role. This state is arrived at from the 'active' state.</displayName>
+   </concept>
+   <concept code="terminated">
+      <displayName>The state representing the successful termination of the role.</displayName>
+   </concept>
+   <concept code="nullified">
+      <displayName>The state representing the termination of a role instance that was created in error.</displayName>
+   </concept>
+</vocabulary>

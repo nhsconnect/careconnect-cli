@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DeviceTypeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p> </p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent the type of device.<br/>
+                  <br/>
+                  <strong>Any code from the SNOMED CT UK DeviceTypeSnCT subset with subset original id 1361000000131.</strong>
+                  <br/>
+                  <br/>The use of this subset is Advisory.<br/>
+                  <br/>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab. </p>
+               <p> </p>
+            </p>
+         </Description>
+   <concept code="258057004">
+      <displayName>Non-invasive blood pressure monitor</displayName>
+   </concept>
+   <concept code="354068006">
+      <displayName>Blood glucose monitoring equipment</displayName>
+   </concept>
+   <concept code="395440001">
+      <displayName>Blood coagulation testing equipment</displayName>
+   </concept>
+   <concept code="27991004">
+      <displayName>Thermometer</displayName>
+   </concept>
+   <concept code="21079000">
+      <displayName>Carbon monoxide analyser</displayName>
+   </concept>
+   <concept code="303501006">
+      <displayName>Spirometer</displayName>
+   </concept>
+   <concept code="334990001">
+      <displayName>Peak flow meter</displayName>
+   </concept>
+   <concept code="59181002">
+      <displayName>Oxygen analyser</displayName>
+   </concept>
+   <concept code="86184003">
+      <displayName>Electrocardiographic monitor and recorder</displayName>
+   </concept>
+</vocabulary>

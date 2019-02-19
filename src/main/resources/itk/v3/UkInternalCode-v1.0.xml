@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="UkInternalCode" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.16.44">
+   <Description>
+            <p>A unique code representing a constituent internal part of the 
+				United Kingdom of Great Britain and Northern Ireland.</p>
+	           <p>This is a controlled subset of the UK Government Data 
+				Standards Catalogue UK Internal Code code system (see http://www.govtalk.gov.uk/gdsc/html/frames/UKinternalCode.htm).</p>
+         </Description>
+   <concept code="1">
+      <displayName>England</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Scotland</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Wales</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Northern Ireland</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Sark</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Alderney</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Channel Islands</displayName>
+   </concept>
+</vocabulary>

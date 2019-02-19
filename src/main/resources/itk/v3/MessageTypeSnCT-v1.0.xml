@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MessageTypeSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of SNOMED-CT intended for use in the UK, a set of codes which represent the allowable messages types.</p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK MessageType subset with subset original id 29941000000138. </strong>
+               </p>
+            </p>
+         </Description>
+</vocabulary>

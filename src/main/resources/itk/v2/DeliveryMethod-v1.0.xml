@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DeliveryMethod" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.43">
+   <Description>Delivery Method: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>Spontaneous vertex</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Spontaneous other cephalic</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Low forceps, not breech</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Other forceps, not breech</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Ventouse, vacuum extraction</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Breech</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Breech extraction</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Elective caesarean section</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Emergency caesarean section</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Other</displayName>
+   </concept>
+</vocabulary>

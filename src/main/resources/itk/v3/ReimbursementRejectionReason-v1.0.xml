@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReimbursementRejectionReason" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.37">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.37</p>
+            <p>A code system describing reasons for rejecting a claim for reimbursement.</p>
+            <p>This code system is managed externally by the PPA.</p>
+         </Description>
+</vocabulary>

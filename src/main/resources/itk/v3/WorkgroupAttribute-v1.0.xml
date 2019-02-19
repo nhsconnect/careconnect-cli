@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="WorkgroupAttribute" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.182">
+   <Description>
+            <p>Indicates a type of act that describes information about a Workgroup.</p>
+         </Description>
+   <concept code="WGN">
+      <displayName>Workgroup name</displayName>
+   </concept>
+   <concept code="WGS">
+      <displayName>Workgroup status</displayName>
+   </concept>
+</vocabulary>

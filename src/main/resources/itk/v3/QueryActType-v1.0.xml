@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryActType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.177">
+   <Description><!--New code system created for MIM 6.1.01 PSIS Query --> 	<p>A code specifying the particular kind of act that the Act instance represents in a query.</p>
+         </Description>
+   <concept code="RPLD">
+      <displayName>Replacing Document UUID</displayName>
+   </concept>
+   <concept code="WTHD">
+      <displayName>Withdrawing Document UUID</displayName>
+   </concept>
+   <concept code="SLAC">
+      <displayName>Seal Accessor</displayName>
+   </concept>
+   <concept code="SLIN">
+      <displayName>Sealing Information</displayName>
+   </concept>
+   <concept code="DCOL">
+      <displayName>Document Collection</displayName>
+   </concept>
+   <concept code="PDMD">
+      <displayName>PSIS Document Metadata</displayName>
+   </concept>
+   <concept code="CRST">
+      <displayName>Care Record State</displayName>
+   </concept>
+   <concept code="DCST">
+      <displayName>Document State</displayName>
+   </concept>
+   <concept code="DQST">
+      <displayName>Document DQ State</displayName>
+   </concept>
+   <concept code="BSEC">
+      <displayName>Business Section Code</displayName>
+   </concept>
+   <concept code="ESTD">
+      <displayName>Estimated Document Size</displayName>
+   </concept>
+   <concept code="DMET">
+      <displayName>Document Metadata</displayName>
+   </concept>
+   <concept code="DSMD">
+      <displayName>Document Section Metadata</displayName>
+   </concept>
+</vocabulary>

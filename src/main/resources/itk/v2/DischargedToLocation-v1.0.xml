@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargedToLocation" version="1.0" status="created"
+            id="2.16.840.1.113883.12.113">
+   <Description>This table indicates the healthcare facility to which the patient was discharged.
+					Table type: User</Description>
+   <concept code="19">
+      <displayName>Usual Place of Residence</displayName>
+   </concept>
+   <concept code="29">
+      <displayName>Temporary Place of Residence</displayName>
+   </concept>
+   <concept code="30">
+      <displayName>Repatriation from high security psychiatric accommodation in an NHS hospital provider (NHS trust)</displayName>
+   </concept>
+   <concept code="37">
+      <displayName>Court</displayName>
+   </concept>
+   <concept code="38">
+      <displayName>Penal establishment or police station</displayName>
+   </concept>
+   <concept code="48">
+      <displayName>High Security Psychiatric Hospital Scotland</displayName>
+   </concept>
+   <concept code="49">
+      <displayName>NHS other hospital provider - high security psychiatric accommodation</displayName>
+   </concept>
+   <concept code="50">
+      <displayName>NHS other hospital provider - medium secure unit</displayName>
+   </concept>
+   <concept code="51">
+      <displayName>NHS other hospital provider - ward for general patients or the younger physically disabled</displayName>
+   </concept>
+   <concept code="52">
+      <displayName>NHS other hospital provider - ward for maternity patients or neonates</displayName>
+   </concept>
+   <concept code="53">
+      <displayName>NHS other hospital provider - ward for patients who are mentally ill or have learning disabilities</displayName>
+   </concept>
+   <concept code="54">
+      <displayName>NHS run care home</displayName>
+   </concept>
+   <concept code="65">
+      <displayName>Local Authority residential accommodation ie where care is provided</displayName>
+   </concept>
+   <concept code="66">
+      <displayName>Local Authority foster care</displayName>
+   </concept>
+   <concept code="79">
+      <displayName>Not applicable - patient died or still birth</displayName>
+   </concept>
+   <concept code="84">
+      <displayName>Non-NHS run hospital - medium secure unit</displayName>
+   </concept>
+   <concept code="85">
+      <displayName>Non-NHS (other than Local Authority) run care home</displayName>
+   </concept>
+   <concept code="87">
+      <displayName>Non-NHS run hospital</displayName>
+   </concept>
+   <concept code="88">
+      <displayName>Non-NHS (other than Local Authority) run Hospice</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

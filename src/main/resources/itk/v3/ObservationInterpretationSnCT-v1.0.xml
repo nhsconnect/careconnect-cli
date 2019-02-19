@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObservationInterpretationSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>This vocabulary is used to convey the interpretation of an observation result. It serves a number of purposes in that there are three contained subsets, a value from each of which may be used to populate the same multi-value field.</p>
+	           <dl>
+		             <dt>
+			               <b>ObsInterpretationChangeSnCT</b>
+		             </dt>
+		             <dd>Interprets the result in terms of the significance if its increase/decrease compared to the quoted Change Value. At most one value allowed. Change of quantity and/or severity.
+		</dd>
+		             <dt>
+			               <b>ObsInterpretationNormalitySnCT</b>
+		             </dt>
+		             <dd>Interprets the result against the quoted Reference or Therapeutic range. At most one value allowed. Interpretation in comparison with the quoted Interpretation Range.</dd>
+		             <dt>
+			               <b>ObsInterpretationSusceptibilitySnCT</b>
+		             </dt>
+		             <dd>Interprets the Susceptibility of an organism to a specified antibiotic. At most one value allowed. Microbiology: interpretations of microbial susceptibility. This may be based on MIC/MBC/Breakpoint values.</dd>
+	           </dl>
+         </Description>
+</vocabulary>

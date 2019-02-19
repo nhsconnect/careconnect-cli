@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_EncounterParticipant" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.19600">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe  the type of participation associated with the encounter.<br/>
+            </p>
+         </Description>
+   <concept code="ADM">
+      <displayName>admitter</displayName>
+   </concept>
+   <concept code="ATND">
+      <displayName>attender</displayName>
+   </concept>
+   <concept code="CON">
+      <displayName>consultant</displayName>
+   </concept>
+   <concept code="DIS">
+      <displayName>discharger</displayName>
+   </concept>
+   <concept code="REF">
+      <displayName>referrer</displayName>
+   </concept>
+</vocabulary>

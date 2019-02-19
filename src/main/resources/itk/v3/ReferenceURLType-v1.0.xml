@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReferenceURLType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.336">
+   <Description>
+            <p>
+               <p/> There are currently no national codes to identify the types of URL being referred to.    <p>Where a local requirement exists to code the URL types, and no local oid is available to the sending system then use the OID "<strong>2.16.840.1.113883.2.1.3.2.4.17.338</strong>".</p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>URL</displayName>
+   </concept>
+</vocabulary>

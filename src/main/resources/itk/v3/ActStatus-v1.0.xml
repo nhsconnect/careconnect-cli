@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ActStatus" version="1.0" status="active" id="2.16.840.1.113883.5.14">
+   <Description>
+            <p>Codes representing the defined possible states of an Act.</p>
+         </Description>
+   <concept code="aborted">
+      <displayName>aborted</displayName>
+   </concept>
+   <concept code="active">
+      <displayName>active</displayName>
+   </concept>
+   <concept code="cancelled">
+      <displayName>cancelled</displayName>
+   </concept>
+   <concept code="completed">
+      <displayName>completed</displayName>
+   </concept>
+   <concept code="held">
+      <displayName>held</displayName>
+   </concept>
+   <concept code="new">
+      <displayName>new</displayName>
+   </concept>
+   <concept code="normal">
+      <displayName>normal</displayName>
+   </concept>
+   <concept code="nullified">
+      <displayName>nullified</displayName>
+   </concept>
+   <concept code="obsolete">
+      <displayName>obsolete</displayName>
+   </concept>
+   <concept code="suspended">
+      <displayName>suspended</displayName>
+   </concept>
+</vocabulary>

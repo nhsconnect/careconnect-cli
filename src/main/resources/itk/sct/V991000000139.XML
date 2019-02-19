@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Personal Preferences" type="Realm Concept" setId="68831000000139" version="19" id="991000000139" refId="999000841000000107" memberCount="77" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="5940000">
+<displayName lang="en" type="PT">Vegetarian diet</displayName>
+<displayName lang="en" type="FSN">Vegetarian diet (finding)</displayName>
+<displayName lang="en" type="SY">Vegetarian diet - no meat</displayName>
+</concept>
+<concept code="6228004">
+<displayName lang="en" type="PT">Lacto-vegetarian diet</displayName>
+<displayName lang="en" type="FSN">Lacto-vegetarian diet (finding)</displayName>
+<displayName lang="en" type="SY">Lactovegetarian diet</displayName>
+</concept>
+<concept code="11152001">
+<displayName lang="en" type="PT">Lacto-ovo-vegetarian diet</displayName>
+<displayName lang="en" type="FSN">Lacto-ovo-vegetarian diet (finding)</displayName>
+<displayName lang="en" type="SY">Lacto-ovovegetarian diet</displayName>
+</concept>
+<concept code="24930006">
+<displayName lang="en" type="PT">Vegan</displayName>
+<displayName lang="en" type="FSN">Vegan (finding)</displayName>
+<displayName lang="en" type="SY">Strict vegetarian diet</displayName>
+<displayName lang="en" type="SY">Vegan diet</displayName>
+<displayName lang="en" type="SY">Vegan diet - no dairy produce</displayName>
+</concept>
+<concept code="102266007">
+<displayName lang="en" type="PT">Kosher diet</displayName>
+<displayName lang="en" type="FSN">Kosher diet (finding)</displayName>
+<displayName lang="en" type="SY">Jewish diet</displayName>
+</concept>
+<concept code="102268008">
+<displayName lang="en" type="PT">Macrobiotic diet</displayName>
+<displayName lang="en" type="FSN">Macrobiotic diet (finding)</displayName>
+</concept>
+<concept code="160654005">
+<displayName lang="en" type="PT">Willing to be donor</displayName>
+<displayName lang="en" type="FSN">Willing to be donor (finding)</displayName>
+</concept>
+<concept code="160655006">
+<displayName lang="en" type="PT">Willing to be donor of blood</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of blood (finding)</displayName>
+</concept>
+<concept code="160656007">
+<displayName lang="en" type="PT">Willing to be donor of kidney</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of kidney (finding)</displayName>
+</concept>
+<concept code="160657003">
+<displayName lang="en" type="PT">Willing to be donor of cornea</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of cornea (finding)</displayName>
+</concept>
+<concept code="160658008">
+<displayName lang="en" type="PT">Willing to be donor of body</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of body (finding)</displayName>
+</concept>
+<concept code="161034004">
+<displayName lang="en" type="PT">Not willing to be a donor</displayName>
+<displayName lang="en" type="FSN">Not willing to be a donor (finding)</displayName>
+</concept>
+<concept code="225871009">
+<displayName lang="en" type="PT">Requests euthanasia</displayName>
+<displayName lang="en" type="FSN">Requests euthanasia (finding)</displayName>
+</concept>
+<concept code="226222002">
+<displayName lang="en" type="PT">Non-therapeutic diets</displayName>
+<displayName lang="en" type="FSN">Non-therapeutic diets (finding)</displayName>
+</concept>
+<concept code="226223007">
+<displayName lang="en" type="PT">Afro-Caribbean diet</displayName>
+<displayName lang="en" type="FSN">Afro-Caribbean diet (finding)</displayName>
+</concept>
+<concept code="226224001">
+<displayName lang="en" type="PT">Asian diet</displayName>
+<displayName lang="en" type="FSN">Asian diet (finding)</displayName>
+</concept>
+<concept code="226225000">
+<displayName lang="en" type="PT">Muslim diet</displayName>
+<displayName lang="en" type="FSN">Muslim diet (finding)</displayName>
+</concept>
+<concept code="226226004">
+<displayName lang="en" type="PT">Hindu diet</displayName>
+<displayName lang="en" type="FSN">Hindu diet (finding)</displayName>
+</concept>
+<concept code="226228003">
+<displayName lang="en" type="PT">Sikh diet</displayName>
+<displayName lang="en" type="FSN">Sikh diet (finding)</displayName>
+</concept>
+<concept code="226230001">
+<displayName lang="en" type="PT">Bristol diet</displayName>
+<displayName lang="en" type="FSN">Bristol diet (finding)</displayName>
+</concept>
+<concept code="226231002">
+<displayName lang="en" type="PT">Chinese diet</displayName>
+<displayName lang="en" type="FSN">Chinese diet (finding)</displayName>
+</concept>
+<concept code="226232009">
+<displayName lang="en" type="PT">Food combining diet</displayName>
+<displayName lang="en" type="FSN">Food combining diet (finding)</displayName>
+</concept>
+<concept code="226233004">
+<displayName lang="en" type="PT">Halal meat diet</displayName>
+<displayName lang="en" type="FSN">Halal meat diet (finding)</displayName>
+</concept>
+<concept code="226235006">
+<displayName lang="en" type="PT">Muesli belt diet</displayName>
+<displayName lang="en" type="FSN">Muesli belt diet (finding)</displayName>
+</concept>
+<concept code="226236007">
+<displayName lang="en" type="PT">No red meat diet</displayName>
+<displayName lang="en" type="FSN">No red meat diet (finding)</displayName>
+</concept>
+<concept code="226237003">
+<displayName lang="en" type="PT">No pork diet</displayName>
+<displayName lang="en" type="FSN">No pork diet (finding)</displayName>
+</concept>
+<concept code="226238008">
+<displayName lang="en" type="PT">No beef diet</displayName>
+<displayName lang="en" type="FSN">No beef diet (finding)</displayName>
+</concept>
+<concept code="226239000">
+<displayName lang="en" type="PT">Rastafarian diet</displayName>
+<displayName lang="en" type="FSN">Rastafarian diet (finding)</displayName>
+</concept>
+<concept code="226240003">
+<displayName lang="en" type="PT">Seventh day adventist diet</displayName>
+<displayName lang="en" type="FSN">Seventh day adventist diet (finding)</displayName>
+</concept>
+<concept code="226241004">
+<displayName lang="en" type="PT">Stone age diet</displayName>
+<displayName lang="en" type="FSN">Stone age diet (finding)</displayName>
+</concept>
+<concept code="226242006">
+<displayName lang="en" type="PT">Vietnamese diet</displayName>
+<displayName lang="en" type="FSN">Vietnamese diet (finding)</displayName>
+</concept>
+<concept code="226243001">
+<displayName lang="en" type="PT">West African diet</displayName>
+<displayName lang="en" type="FSN">West African diet (finding)</displayName>
+</concept>
+<concept code="304216000">
+<displayName lang="en" type="PT">Donor card found on patient</displayName>
+<displayName lang="en" type="FSN">Donor card found on patient (finding)</displayName>
+</concept>
+<concept code="304217009">
+<displayName lang="en" type="PT">Relatives unwilling to allow organ donation</displayName>
+<displayName lang="en" type="FSN">Relatives unwilling to allow organ donation (finding)</displayName>
+</concept>
+<concept code="304240008">
+<displayName lang="en" type="PT">Requests passive euthanasia</displayName>
+<displayName lang="en" type="FSN">Requests passive euthanasia (finding)</displayName>
+</concept>
+<concept code="304241007">
+<displayName lang="en" type="PT">Requests active euthanasia</displayName>
+<displayName lang="en" type="FSN">Requests active euthanasia (finding)</displayName>
+</concept>
+<concept code="309709000">
+<displayName lang="en" type="PT">Cantonese diet</displayName>
+<displayName lang="en" type="FSN">Cantonese diet (finding)</displayName>
+</concept>
+<concept code="310301000">
+<displayName lang="en" type="PT">Advanced directive status</displayName>
+<displayName lang="en" type="FSN">Advance healthcare directive status (finding)</displayName>
+<displayName lang="en" type="SY">Advance healthcare directive status</displayName>
+</concept>
+<concept code="310302007">
+<displayName lang="en" type="PT">Advance directive discussed with patient</displayName>
+<displayName lang="en" type="FSN">Advance directive discussed with patient (finding)</displayName>
+</concept>
+<concept code="310303002">
+<displayName lang="en" type="PT">Advance directive discussed with relative</displayName>
+<displayName lang="en" type="FSN">Advance directive discussed with relative (finding)</displayName>
+</concept>
+<concept code="310305009">
+<displayName lang="en" type="PT">Active advance directive (copy within chart)</displayName>
+<displayName lang="en" type="FSN">Active advance directive (copy within chart) (finding)</displayName>
+<displayName lang="en" type="SY">Active advanced healthcare directive (copy within chart)</displayName>
+<displayName lang="en" type="SY">Advance directive signed (copy in notes)</displayName>
+<displayName lang="en" type="SY">Living will held in patient notes</displayName>
+</concept>
+<concept code="314433002">
+<displayName lang="en" type="PT">Preference for health professional</displayName>
+<displayName lang="en" type="FSN">Preference for health professional (finding)</displayName>
+</concept>
+<concept code="314434008">
+<displayName lang="en" type="PT">Preference for female healthcare professional</displayName>
+<displayName lang="en" type="FSN">Preference for female healthcare professional (finding)</displayName>
+</concept>
+<concept code="314435009">
+<displayName lang="en" type="PT">Preference for male healthcare professional</displayName>
+<displayName lang="en" type="FSN">Preference for male healthcare professional (finding)</displayName>
+</concept>
+<concept code="425392003">
+<displayName lang="en" type="PT">Active advance directive</displayName>
+<displayName lang="en" type="FSN">Active advance directive (finding)</displayName>
+<displayName lang="en" type="SY">Active advanced healthcare directive</displayName>
+<displayName lang="en" type="SY">Current and verified advance directive</displayName>
+</concept>
+<concept code="425393008">
+<displayName lang="en" type="PT">Active Durable Power of Attorney for Healthcare</displayName>
+<displayName lang="en" type="FSN">Active Durable Power of Attorney for Healthcare (finding)</displayName>
+</concept>
+<concept code="425394002">
+<displayName lang="en" type="PT">Active healthcare will</displayName>
+<displayName lang="en" type="FSN">Active healthcare will (finding)</displayName>
+</concept>
+<concept code="425395001">
+<displayName lang="en" type="PT">Active living will</displayName>
+<displayName lang="en" type="FSN">Active living will (finding)</displayName>
+</concept>
+<concept code="425396000">
+<displayName lang="en" type="PT">Active advance directive with verification by family</displayName>
+<displayName lang="en" type="FSN">Active advance directive with verification by family (finding)</displayName>
+<displayName lang="en" type="SY">Active advanced healthcare directive with verification by family</displayName>
+</concept>
+<concept code="425397009">
+<displayName lang="en" type="PT">Active advance directive with verification by healthcare professional</displayName>
+<displayName lang="en" type="FSN">Active advance directive with verification by healthcare professional (finding)</displayName>
+<displayName lang="en" type="SY">Active advanced healthcare directive with verification by healthcare professional</displayName>
+</concept>
+<concept code="443564001">
+<displayName lang="en" type="PT">Willing to be donor of organ</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of organ (finding)</displayName>
+</concept>
+<concept code="444378009">
+<displayName lang="en" type="PT">Willing to be donor of pancreas</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of pancreas (finding)</displayName>
+<displayName lang="en-GB" type="SY">Will donate pancreas</displayName>
+</concept>
+<concept code="444383001">
+<displayName lang="en" type="PT">Willing to be donor of small bowel</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of small bowel (finding)</displayName>
+<displayName lang="en-GB" type="SY">Will donate small bowel</displayName>
+</concept>
+<concept code="444385008">
+<displayName lang="en" type="PT">Willing to be donor of heart</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of heart (finding)</displayName>
+<displayName lang="en-GB" type="SY">Will donate heart</displayName>
+</concept>
+<concept code="444407002">
+<displayName lang="en" type="PT">Willing to be donor of lung</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of lung (finding)</displayName>
+<displayName lang="en-GB" type="SY">Will donate lung</displayName>
+</concept>
+<concept code="444412001">
+<displayName lang="en" type="PT">Willing to be donor of liver</displayName>
+<displayName lang="en" type="FSN">Willing to be donor of liver (finding)</displayName>
+<displayName lang="en-GB" type="SY">Will donate liver</displayName>
+</concept>
+<concept code="700228005">
+<displayName lang="en" type="PT">Wishes to donate body after death to medical research</displayName>
+<displayName lang="en" type="FSN">Wishes to donate body after death to medical research (finding)</displayName>
+</concept>
+<concept code="505401000000102">
+<displayName lang="en" type="PT">Preferred place of care - home</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - home (finding)</displayName>
+</concept>
+<concept code="505431000000108">
+<displayName lang="en" type="PT">Preferred place of care - hospice</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - hospice (finding)</displayName>
+</concept>
+<concept code="505461000000103">
+<displayName lang="en" type="PT">Preferred place of care - community hospital</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - community hospital (finding)</displayName>
+</concept>
+<concept code="505491000000109">
+<displayName lang="en" type="PT">Preferred place of care - hospital</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - hospital (finding)</displayName>
+</concept>
+<concept code="505551000000102">
+<displayName lang="en" type="PT">Preferred place of care - nursing home</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - nursing home (finding)</displayName>
+</concept>
+<concept code="518481000000102">
+<displayName lang="en" type="PT">Has preferred out-patient nurse</displayName>
+<displayName lang="en" type="FSN">Has preferred out-patient nurse (finding)</displayName>
+</concept>
+<concept code="518661000000109">
+<displayName lang="en" type="PT">Preferred place of care - learning disability unit</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - learning disability unit (finding)</displayName>
+</concept>
+<concept code="518681000000100">
+<displayName lang="en" type="PT">Preferred place of care - mental health unit</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - mental health unit (finding)</displayName>
+</concept>
+<concept code="518841000000107">
+<displayName lang="en" type="PT">Preferred place of care - discussed with patient</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - discussed with patient (finding)</displayName>
+</concept>
+<concept code="518861000000108">
+<displayName lang="en" type="PT">Preferred place of care - discussed with family</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - discussed with family (finding)</displayName>
+</concept>
+<concept code="518981000000106">
+<displayName lang="en" type="PT">Preferred place of care - patient unable to express preference</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - patient unable to express preference (finding)</displayName>
+</concept>
+<concept code="520541000000100">
+<displayName lang="en" type="PT">Preferred place of care - patient declined to participate</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - patient declined to participate (finding)</displayName>
+</concept>
+<concept code="752691000000105">
+<displayName lang="en" type="PT">Preferred place of care - discussion not appropriate</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - discussion not appropriate (finding)</displayName>
+</concept>
+<concept code="789621000000105">
+<displayName lang="en" type="PT">Preferred place of care for next exacerbation of heart failure</displayName>
+<displayName lang="en" type="FSN">Preferred place of care for next exacerbation of heart failure (finding)</displayName>
+</concept>
+<concept code="789661000000102">
+<displayName lang="en" type="PT">Preferred place of care for next exacerbation of chronic obstructive pulmonary disease</displayName>
+<displayName lang="en" type="FSN">Preferred place of care for next exacerbation of chronic obstructive pulmonary disease (finding)</displayName>
+</concept>
+<concept code="864751000000108">
+<displayName lang="en" type="PT">Preference for NHS care provider</displayName>
+<displayName lang="en" type="FSN">Preference for National Health Service care provider (finding)</displayName>
+</concept>
+<concept code="883161000000106">
+<displayName lang="en" type="PT">Preferred place of care - care home</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - care home (finding)</displayName>
+<displayName lang="en" type="SY">Preferred place of care - residential home</displayName>
+</concept>
+<concept code="885681000000107">
+<displayName lang="en" type="PT">Preferred place of care - relative&apos;s home</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - home of relative (finding)</displayName>
+</concept>
+<concept code="895911000000107">
+<displayName lang="en" type="PT">Preferred place of care - patient undecided</displayName>
+<displayName lang="en" type="FSN">Preferred place of care - patient undecided (finding)</displayName>
+</concept>
+<concept code="913301000000102">
+<displayName lang="en" type="PT">Relatives willing to allow organ donation</displayName>
+<displayName lang="en" type="FSN">Relatives willing to allow organ donation (finding)</displayName>
+</concept>
+</vocabulary>

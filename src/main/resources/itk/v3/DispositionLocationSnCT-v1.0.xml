@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispositionLocationSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: See <b>SnomedCT</b>
+            </p>
+            <p>A subset of SnomedCT (UK) codes that represents a location that a patient might be sent to on completion of an Out of Hours or Emergency Department encounter.</p>
+            <p>eg."Lodged patient at same trust"; "Discharged, GP follow up"; "Referred to A&amp;E Clinic"; "Referred to Fracture Clinic"; "Referred to OP Clinic"; "Transferred to other Trust"; "Referred to other HCP".</p>
+            <p>Codes TBA</p>
+         </Description>
+</vocabulary>

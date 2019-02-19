@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrObservationValue" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.5">
+   <Description>
+            <p>The ObservationStatement value may contain a code that provides a value associated with the accompanying code.</p>
+	           <p>Three specific purposes are supported:</p>
+	           <dl>
+		             <dt>
+			               <b>EhrObservationValueEpisode</b>
+		             </dt>
+		             <dd>Episode</dd>
+		             <dt>
+			               <b>EhrObservationValueSignificance</b>
+		             </dt>
+		             <dd>Significance</dd>
+		             <dt>
+			               <b>EhrObservationValueDrugWithAAR</b>
+		             </dt>
+		             <dd>Use of drug code with a code indicating allergy or adverse reaction to a drug.</dd>
+	           </dl>
+         </Description>
+</vocabulary>

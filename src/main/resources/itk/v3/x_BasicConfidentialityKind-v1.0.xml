@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_BasicConfidentialityKind" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.16926">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe the level of confidentially applied to the document.</p>
+         </Description>
+   <concept code="N">
+      <displayName>normal</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>restricted</displayName>
+   </concept>
+   <concept code="V">
+      <displayName>Very restricted</displayName>
+   </concept>
+</vocabulary>

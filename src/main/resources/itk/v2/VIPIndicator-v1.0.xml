@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="VIPIndicator" version="1.0" status="created" id="2.16.840.1.113883.12.99">
+   <Description>This table value identifies the type of VIP
+					Table type: User</Description>
+   <concept code="I">
+      <displayName>Invalid</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not stop noted</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Sensitive</displayName>
+   </concept>
+   <concept code="Y">
+      <displayName>Stop noted</displayName>
+   </concept>
+</vocabulary>

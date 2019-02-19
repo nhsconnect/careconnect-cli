@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AssessmentStatus" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.5">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.5</p>
+            <p>Status of the assessment.</p>
+         </Description>
+   <concept code="01">
+      <displayName>New</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Not new</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Not required</displayName>
+   </concept>
+</vocabulary>

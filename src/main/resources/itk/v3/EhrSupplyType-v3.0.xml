@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrSupplyType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.26">
+   <Description>
+            <p>Indicates the legal/contractual nature of a prescription.</p>
+            <p>Default OID:</p>
+            <p>The default OID for the SNOMED CT code values below is: 2.16.840.1.113883.2.1.3.2.4.15</p>
+         </Description>
+   <concept code="394823007">
+      <displayName>NHS Prescription</displayName>
+   </concept>
+   <concept code="394824001">
+      <displayName>Private Prescription</displayName>
+   </concept>
+   <concept code="394825000">
+      <displayName>ACBS Prescription</displayName>
+   </concept>
+   <concept code="394826004">
+      <displayName>OTC sale</displayName>
+   </concept>
+   <concept code="394827008">
+      <displayName>Personal Administration</displayName>
+   </concept>
+   <concept code="394828003">
+      <displayName>Prescription by another organisation</displayName>
+   </concept>
+   <concept code="394829006">
+      <displayName>Past medication</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PatientAdministrativeCategory" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.43">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.43</p>
+            <p>This is a category assigned to a patient for healthcare activities and allocates that patient to one of the administrative categories below.</p>
+            <p>The category 'amenity patient' of the classification is only applicable to PATIENTS using a hospital bed.</p>
+         </Description>
+   <concept code="01">
+      <displayName>NHS patient, including overseas visitors charged under Section 121 of the NHS Act 1977 as amended by Section 7(12) and (14) of the Health and Medicine Act 1988.</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Private patient, one who uses accommodation or services authorised under section 65 and/or 66 of the NHS Act 1977 (Section 7(10) of Health and Medicine Act 1988 refers) as amended by Section 26 of the National Health Service and Community Care Act 1990.</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Amenity patient, one who pays for the use of a single room or small ward in accord with section 12 of the NHS Act 1977, as amended by section 7(12) and (14) of the Health and Medicine Act 1988.</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Category II patient, one for whom work is undertaken by hospital medical or dental staff within category II as defined in paragraph 37 of the Terms and Conditions of Service of Hospital Medical and Dental Staff.</displayName>
+   </concept>
+</vocabulary>

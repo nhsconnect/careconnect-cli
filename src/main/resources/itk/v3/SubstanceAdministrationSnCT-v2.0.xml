@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SubstanceAdministrationSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: that of the UK subset of <b>SnomedCT</b>.</p>
+            <p>Any code from the UK subset of SnomedCT that describes the HL7 SBADM (substance administration) act.</p>
+         </Description>
+   <concept code="225426007">
+      <displayName>administration of therapeutic substance (procedure)</displayName>
+   </concept>
+</vocabulary>

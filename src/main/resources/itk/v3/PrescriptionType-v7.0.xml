@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionType" version="7.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.25">
+   <Description>
+            <p>
+               <p/>
+               <p/>
+               <p>Describes the type of prescription this is.</p>
+               <p>The concepts defined by this code system are maintained externally by the Electronic Prescription Service (EPS). <br/>For guidance please refer to the NPFIT-ETP-EDB-0024 Dispensing Systems Compliance Specification. </p>
+               <p/>
+               <p/>
+            </p>
+         </Description>
+   <concept code="0001">
+      <displayName>General Practitioner Prescribing</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Intentionally left blank</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Nurse Practitioner Prescribing</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>Hospital Prescribing</displayName>
+   </concept>
+   <concept code="0006">
+      <displayName>Dental Prescribing</displayName>
+   </concept>
+   <concept code="0007">
+      <displayName>Supplementary Prescriber Prescribing</displayName>
+   </concept>
+   <concept code="0009">
+      <displayName>General Practitioner Prescribing: Private</displayName>
+   </concept>
+   <concept code="0012">
+      <displayName>Extended Forumulary Prescriber</displayName>
+   </concept>
+   <concept code="0101">
+      <displayName>General Practitioner Prescribing &#150; GP</displayName>
+   </concept>
+   <concept code="0102">
+      <displayName>General Practitioner Prescribing &#150; Trainee Doctor/GP Registrar</displayName>
+   </concept>
+   <concept code="0103">
+      <displayName>General Practitioner Prescribing &#150; Deputising Services</displayName>
+   </concept>
+   <concept code="0104">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Nurse Independent/Supplementary prescriber</displayName>
+   </concept>
+   <concept code="0105">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Community Practitioner Nurse prescriber</displayName>
+   </concept>
+   <concept code="0106">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Nurse Independent/Supplementary prescriber</displayName>
+   </concept>
+   <concept code="0107">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Community Practitioner Nurse prescriber</displayName>
+   </concept>
+   <concept code="0108">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Pharmacist prescriber</displayName>
+   </concept>
+   <concept code="0109">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Pharmacist prescriber</displayName>
+   </concept>
+   <concept code="0110">
+      <displayName>General Practitioner Prescribing &#150; Locum</displayName>
+   </concept>
+   <concept code="0113">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Optometrist</displayName>
+   </concept>
+   <concept code="0114">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Podiatrist/Chiropodist</displayName>
+   </concept>
+   <concept code="0116">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Radiographer</displayName>
+   </concept>
+   <concept code="0117">
+      <displayName>General Practitioner Prescribing &#150; Practice employed Physiotherapist</displayName>
+   </concept>
+   <concept code="0119">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Podiatrist/Chiropodist</displayName>
+   </concept>
+   <concept code="0120">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Optometrist</displayName>
+   </concept>
+   <concept code="0121">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Radiographer</displayName>
+   </concept>
+   <concept code="0122">
+      <displayName>General Practitioner Prescribing &#150; PCT employed Physiotherapist</displayName>
+   </concept>
+   <concept code="0123">
+      <displayName>General Practitioner Prescribing &#150; Hospital prescriber</displayName>
+   </concept>
+   <concept code="0304">
+      <displayName>Nurse Practitioner &#150; Practice employed Nurse Independent/Supplementary prescriber</displayName>
+   </concept>
+   <concept code="0305">
+      <displayName>Nurse Practitioner &#150; Practice employed Community Practitioner Nurse prescriber</displayName>
+   </concept>
+   <concept code="0306">
+      <displayName>Nurse Practitioner &#150; PCT employed Nurse Independent/Supplementary prescriber</displayName>
+   </concept>
+   <concept code="0307">
+      <displayName>Nurse Practitioner &#150; PCT employed Community Practitioner Nurse prescriber</displayName>
+   </concept>
+   <concept code="0406">
+      <displayName>Hospital Prescribing &#150; Hospital Prescriber</displayName>
+   </concept>
+   <concept code="0607">
+      <displayName>Dental Prescribing &#150; Dentist</displayName>
+   </concept>
+   <concept code="0708">
+      <displayName>Supplementary Prescribing &#150; Practice employed Pharmacist</displayName>
+   </concept>
+   <concept code="0709">
+      <displayName>Supplementary Prescribing &#150; PCT employed Pharmacist</displayName>
+   </concept>
+   <concept code="0713">
+      <displayName>Supplementary Prescribing &#150; Practice employed Optometrist</displayName>
+   </concept>
+   <concept code="0714">
+      <displayName>Supplementary Prescribing &#150; Practice employed Podiatrist/Chiropodist</displayName>
+   </concept>
+   <concept code="0716">
+      <displayName>Supplementary Prescribing &#150; Practice employed Radiographer</displayName>
+   </concept>
+   <concept code="0717">
+      <displayName>Supplementary Prescribing &#150; Practice employed Physiotherapist</displayName>
+   </concept>
+   <concept code="0718">
+      <displayName>Supplementary Prescribing &#150; PCT employed Optometrist</displayName>
+   </concept>
+   <concept code="0719">
+      <displayName>Supplementary Prescribing &#150; PCT employed Podiatrist/Chiropodist</displayName>
+   </concept>
+   <concept code="0721">
+      <displayName>Supplementary Prescribing &#150; PCT employed Radiographer</displayName>
+   </concept>
+   <concept code="0722">
+      <displayName>Supplementary Prescribing &#150; PCT employed Physiotherapist</displayName>
+   </concept>
+   <concept code="0901">
+      <displayName>Private prescribing &#150; GP</displayName>
+   </concept>
+   <concept code="0904">
+      <displayName>Private prescribing &#150; Nurse prescribing</displayName>
+   </concept>
+   <concept code="0908">
+      <displayName>Private prescribing &#150; Pharmacist prescribing</displayName>
+   </concept>
+   <concept code="0913">
+      <displayName>Private prescribing &#150; Optometrist</displayName>
+   </concept>
+   <concept code="0914">
+      <displayName>Private prescribing &#150; Podiatrist/Chiropodist</displayName>
+   </concept>
+   <concept code="0915">
+      <displayName>Private prescribing &#150; Physiotherapist</displayName>
+   </concept>
+   <concept code="0916">
+      <displayName>Private prescribing &#150; Radiographer</displayName>
+   </concept>
+</vocabulary>

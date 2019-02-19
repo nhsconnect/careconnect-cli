@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdmissionMethod" version="3.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.16.51">
+   <Description>
+            <p>
+               <p/>
+               <p>Default Scheme: NHS Data Dictionary <em>Admission Method</em>
+                  <br/>
+               </p>
+               <p>A set of codes representing the method of admission of a patient to a clinical setting, using the values listed in the <b target="_blank" title="NHS DATA MODEL AND DICTIONARY">NHS Data Model and Dictionary</b>  definition for Admission Method.</p>
+               <p/>
+               <p/>
+            </p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AvoidNonMedicationTypeSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Codes taken from the UK subset of SnomedCT representing avoidance of a non-medication type.</p>
+            <p>TBA</p>
+            <p>codes not yet available.</p>
+         </Description>
+</vocabulary>

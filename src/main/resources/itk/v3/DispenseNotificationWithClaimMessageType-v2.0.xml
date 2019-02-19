@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispenseNotificationWithClaimMessageType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.115">
+   <Description>
+            <p>Identifies the type and version of the Dispense Notification With Claim Information message used to replace an abstract placeholder within a message.</p>
+         </Description>
+   <concept code="PORX_MT142004UK05">
+      <displayName>Dispense Notification With Claim Information Message PORX_MT142004UK05</displayName>
+   </concept>
+   <concept code="PORX_MT142004UK30">
+      <displayName>Dispense Notification With Claim Information Message PORX_MT142004UK30</displayName>
+   </concept>
+   <concept code="PORX_MT142004UK31">
+      <displayName>Dispense Notification With Claim Information Message PORX_MT142004UK31</displayName>
+   </concept>
+</vocabulary>

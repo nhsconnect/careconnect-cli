@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObsInterpretationChangeSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.15</p>
+            <p>Interprets the result in terms of the significance if its increase/decrease compared to the quoted Change Value.</p>
+         </Description>
+   <concept code="220201000000108">
+      <displayName>Significant Change</displayName>
+   </concept>
+   <concept code="220211000000105">
+      <displayName>Highly Significant Change</displayName>
+   </concept>
+</vocabulary>

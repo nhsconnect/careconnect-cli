@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHAISRemovalReasonCode" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.168">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.168</p>    
+            <p>To indicate the reason for removal from NHAIS registration.</p>
+         </Description>
+   <concept code="DEA">
+      <displayName>Death</displayName>
+   </concept>
+   <concept code="EMB">
+      <displayName>Embarkation</displayName>
+   </concept>
+   <concept code="SCT">
+      <displayName>Transferred to Scotland</displayName>
+   </concept>
+   <concept code="NIT">
+      <displayName>Transferred to Northern Ireland</displayName>
+   </concept>
+   <concept code="AFN">
+      <displayName>Armed forces enlistment (notified by armed forces)</displayName>
+   </concept>
+   <concept code="AFL">
+      <displayName>Armed forces enlistment (notified locally)</displayName>
+   </concept>
+   <concept code="SDN">
+      <displayName>Services dependant (notified by SMO)</displayName>
+   </concept>
+   <concept code="SDL">
+      <displayName>Services dependant (notified locally)</displayName>
+   </concept>
+   <concept code="PRI">
+      <displayName>Prison</displayName>
+   </concept>
+   <concept code="PSY">
+      <displayName>Psychiatric care</displayName>
+   </concept>
+   <concept code="DIP">
+      <displayName>Diplomatic</displayName>
+   </concept>
+   <concept code="TRA">
+      <displayName>Temporary resident not returned</displayName>
+   </concept>
+   <concept code="RFI">
+      <displayName>Removal from residential institute</displayName>
+   </concept>
+   <concept code="RDI">
+      <displayName>Practice request immediate removal</displayName>
+   </concept>
+   <concept code="RDR">
+      <displayName>Practice request</displayName>
+   </concept>
+   <concept code="RPR">
+      <displayName>Patient request</displayName>
+   </concept>
+   <concept code="OPA">
+      <displayName>Address out of practice area</displayName>
+   </concept>
+   <concept code="CGA">
+      <displayName>Gone away - address not known / FP69</displayName>
+   </concept>
+   <concept code="DIS">
+      <displayName>Practice dissolution</displayName>
+   </concept>
+   <concept code="LDN">
+      <displayName>Logical deletion</displayName>
+   </concept>
+   <concept code="X">
+      <displayName>No current NHAIS posting</displayName>
+   </concept>
+   <concept code="ORR">
+      <displayName>Other Reason</displayName>
+   </concept>
+   <concept code="CAN">
+      <displayName>Cancelled</displayName>
+   </concept>
+</vocabulary>

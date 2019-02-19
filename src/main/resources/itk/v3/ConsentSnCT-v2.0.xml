@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ConsentSnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Any code from the <b>SnomedCT</b> UK subset that describes consent from a patient or their proxy to donate a specific organ for transplantation, for a surgical procedure, immunisation, etc.</p>
+	           <p>A code from Snomed-CT (UK) may be accompanied by additional SnomedCT qualifying codes that are valid for the concept being qualified.</p>
+         </Description>
+   <concept code="309370004">
+      <displayName>consent status (finding)</displayName>
+   </concept>
+</vocabulary>

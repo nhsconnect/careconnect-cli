@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISUploadRecordResponse" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.473">
+   <Description>
+            <p>A set of codes to indicate the Child Protection Information Sharing (CP-IS) service's response to a request for the upload of a record.</p>
+         </Description>
+   <concept code="CPR01">
+      <displayName>PDS Error - No Match Found for NHS Number</displayName>
+   </concept>
+   <concept code="CPR02">
+      <displayName>PDS Error - NHS Number Matched, but Sensitive Record</displayName>
+   </concept>
+   <concept code="CPR03">
+      <displayName>PDS Error - NHS Number not Verified</displayName>
+   </concept>
+   <concept code="CPR04">
+      <displayName>PDS Error - NHS Number Format Incorrect</displayName>
+   </concept>
+   <concept code="CPR05">
+      <displayName>PDS Error - NHS Number Verified, but Superseded</displayName>
+   </concept>
+   <concept code="CPR06">
+      <displayName>Successful Record Upload</displayName>
+   </concept>
+   <concept code="CPR07">
+      <displayName>Unsuccessful Record Upload</displayName>
+   </concept>
+</vocabulary>

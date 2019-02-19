@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrAgentPersonType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.75">
+   <Description>
+            <p>A list of codes for persons that act as agents.</p>
+         </Description>
+   <concept code="159034004">
+      <displayName>Chiropodist</displayName>
+   </concept>
+   <concept code="224564000">
+      <displayName>Community Psychiatric Nurse</displayName>
+   </concept>
+   <concept code="158997000">
+      <displayName>District Nurse</displayName>
+   </concept>
+   <concept code="224936003">
+      <displayName>General Practitioner Locum</displayName>
+   </concept>
+   <concept code="309394004">
+      <displayName>General Practitioner Principal</displayName>
+   </concept>
+   <concept code="309327004">
+      <displayName>General Practitioner Registrar</displayName>
+   </concept>
+   <concept code="159000000">
+      <displayName>Health Visitor</displayName>
+   </concept>
+   <concept code="309390008">
+      <displayName>Hospital Consultant</displayName>
+   </concept>
+   <concept code="394618009">
+      <displayName>Hospital Nurse</displayName>
+   </concept>
+   <concept code="158971006">
+      <displayName>Hospital Registrar</displayName>
+   </concept>
+   <concept code="394572006">
+      <displayName>Medical Secretary</displayName>
+   </concept>
+   <concept code="75271001">
+      <displayName>Midwife</displayName>
+   </concept>
+   <concept code="80546007">
+      <displayName>Occupational Therapist</displayName>
+   </concept>
+   <concept code="394741009">
+      <displayName>Other Health Professional</displayName>
+   </concept>
+   <concept code="394938007">
+      <displayName>Other Person</displayName>
+   </concept>
+   <concept code="394739008">
+      <displayName>Other practice health professional</displayName>
+   </concept>
+   <concept code="394740005">
+      <displayName>Other Practice Staff</displayName>
+   </concept>
+   <concept code="394742002">
+      <displayName>Other Regular Care Provider</displayName>
+   </concept>
+   <concept code="36682004">
+      <displayName>Physiotherapist</displayName>
+   </concept>
+   <concept code="159002008">
+      <displayName>Practice Nurse</displayName>
+   </concept>
+   <concept code="80292009">
+      <displayName>Psychiatric Social Worker</displayName>
+   </concept>
+   <concept code="159562002">
+      <displayName>Receptionist</displayName>
+   </concept>
+   <concept code="106328005">
+      <displayName>Social Worker</displayName>
+   </concept>
+</vocabulary>

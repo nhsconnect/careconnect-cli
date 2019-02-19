@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RelationshipTypeSnCT" version="3.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: the SnomedCT OID, qv the link below</p>
+            <p>Any code from the UK subset of SnomedCT that describes a relationship between the contents of one clinical statement and another, for example 'is manifestation of', 'has reason', 'has support'.</p>
+            <p>A code taken from <b>SNOMED CT</b> as specified in the most recently released version of the UK SNOMED CT subset with the SubsetOriginalId of 581000000132.</p>
+            <p>The code shall describe a type of relationship between one clinical statement and another</p>
+            <p>A code from SNOMED CT (UK) may be accompanied by additional qualifying codes from the same coding system.</p>
+            <p>Refer to section 5.2.4 of the Messaging Technical Guidance for further information on the specific SNOMED CT values to use.</p>
+         </Description>
+</vocabulary>

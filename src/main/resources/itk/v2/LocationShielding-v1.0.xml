@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LocationShielding" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.39">
+   <Description>Location Shielding: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="N">
+      <displayName>No Shielding</displayName>
+   </concept>
+   <concept code="Y">
+      <displayName>Shielding</displayName>
+   </concept>
+</vocabulary>

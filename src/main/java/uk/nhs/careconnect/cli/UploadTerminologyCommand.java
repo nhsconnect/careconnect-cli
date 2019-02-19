@@ -42,7 +42,7 @@ public class UploadTerminologyCommand extends BaseCommand {
 		options.addOption(opt);
 
 
-		opt = new Option("u", "url", true, "The code system URL associated with this upload (e.g. " + "http://snomed.info/sct" /* CareConnectSystem.SNOMEDCT */ + ")");
+		opt = new Option("u", "url", true, "The code system URL associated with this upload (e.g. " + "http://snomed.info/sct" /* CareConnectSystem.sct */ + ")");
 		opt.setRequired(false);
 		options.addOption(opt);
 

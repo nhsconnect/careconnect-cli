@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ServiceUserAwareOfReferralType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.489">
+   <Description>
+            <span>Service user aware of referral</span>
+         </Description>
+   <concept code="1">
+      <displayName>Service user is aware of referral</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Service user is not aware of referral</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Service user is aware of referral and action is required</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Service user is not aware of referral and action is required</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PlaceEntityType" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.16100">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe types of location of places for the Entity class.<br/>
+            </p>
+         </Description>
+   <concept code="BED">
+      <displayName>Bed Location</displayName>
+   </concept>
+   <concept code="BLDG">
+      <displayName>Building Location</displayName>
+   </concept>
+   <concept code="FLOOR">
+      <displayName>Floor Location</displayName>
+   </concept>
+   <concept code="ROOM">
+      <displayName>Room Location</displayName>
+   </concept>
+   <concept code="WING">
+      <displayName>Wing Location</displayName>
+   </concept>
+</vocabulary>

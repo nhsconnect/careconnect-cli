@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PatientType" version="1.0" status="created" id="2.16.840.1.113883.12.18">
+   <Description>This contains site-specific values that identify the patient type.
+					Table type: User</Description>
+</vocabulary>

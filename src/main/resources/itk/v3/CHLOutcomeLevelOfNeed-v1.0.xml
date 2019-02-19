@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHLOutcomeLevelOfNeed" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.278">
+   <Description>
+            <p> A set of codes that support checklist level of need statements.</p>
+         </Description>
+   <concept code="C">
+      <displayName>No or Low Needs Identified</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Some Level of Need Identified</displayName>
+   </concept>
+   <concept code="A">
+      <displayName>Great Level of Need identified</displayName>
+   </concept>
+</vocabulary>

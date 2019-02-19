@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EthnicCategorySnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Codes taken from the UK subset of SnomedCT representing the Ethnic Category to which the patient genetically belongs. This is used to identify appropriate reference ranges for diagnostic tests such that they can be interpreted correctly. It is not necessarily the Ethnic Category to which the patient associates themselves (see <b>Ethnic Category</b>)</p>
+            <p>This value set is currently being defined as a subset of existing Snomed Ethnic Group.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="IntendedDeliveryPlace" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.41">
+   <Description>Intended Delivery Place: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="0">
+      <displayName>In NHS hospital - delivery facilities associated with midwife ward</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>At a domestic ADDRESS</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>In NHS hospital - delivery facilities associated with CONSULTANT ward</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>In NHS hospital - delivery facilities associated with GENERAL MEDICAL PRACTITIONER ward</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>In NHS hospital - delivery facilities associated with CONSULTANT/ GENERAL MEDICAL PRACTITIONER/ MIDWIFE ward inclusive of any combination of two of the professionals mentioned</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>In private hospital</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>In other hospital or institution</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>In NHS hospital - ward or unit without delivery facilities</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>None of the above</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

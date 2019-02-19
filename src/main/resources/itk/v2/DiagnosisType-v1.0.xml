@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DiagnosisType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.52">
+   <Description>A code that identifies the type of diagnosis being sent.
+					Table type: User</Description>
+   <concept code="A">
+      <displayName>Admitting</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Final</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Working</displayName>
+   </concept>
+</vocabulary>

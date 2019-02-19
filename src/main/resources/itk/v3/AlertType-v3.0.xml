@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AlertType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.193">
+   <Description>
+            <p>
+               <font size="-1" face="Arial">A generic vocabulary acting as a place holder  for a number of specific codes which identify the alert type codes.  The codes  may come from definitions found in the MIM or may be defined externally.</font>
+            </p> 
+            <p>
+               <font size="-1" face="Arial">
+                  <strong>LegitimateRelationships</strong> (OID = </font> 
+               <font size="2" face="Arial">2.16.840.1.113883.2.1.3.2.4.17.243</font>
+               <font size="-1" face="Arial">)<br/> The concepts identifying alert types in Legitimate Relationship Alerts </font>
+               <font size="-1" face="Arial">are defined externally in the document with FileCM reference: NPFIT-FNT-TO-REQ-DEL-0162.02 "National Alerting of Local LRs: Requirements Specification" 
+
+</font>
+            </p>   
+            <div class="section1_2"> 
+               <font size="-1" face="Arial">
+                  <strong>SealedEnvelopes</strong> (OID = </font> 
+               <font size="2" face="Arial">2.16.840.1.113883.2.1.3.2.4.17.199</font>
+               <font size="-1" face="Arial">) <br/>   The concepts identifying alert types in Sealed Envelope Alerts are defined  externally by the Sealed Envelope Team.</font>  
+               <p>
+                  <strong> 
+                     <font size="-1" face="Arial">Dissent</font>
+                  </strong>
+                  <font size="-1" face="Arial"> (OID  = </font>
+                  <font size="2" face="Arial">2.16.840.1.113883.2.1.3.2.4.17.201</font>
+                  <font size="-1" face="Arial">)<br/>   The concepts identifying alert types for dissents.  These are defined in  the MIM vocabulary <b>DissentAlertType</b>.</font>
+               </p>  
+            </div>
+         </Description>
+</vocabulary>

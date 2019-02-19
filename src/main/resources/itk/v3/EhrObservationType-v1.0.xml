@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrObservationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.301">
+   <Description>
+            <p>To indicate the type of observed information.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Request acknowledgement code</displayName>
+   </concept>
+</vocabulary>

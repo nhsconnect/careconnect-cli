@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EthnicGroup" version="1.0" status="created" id="2.16.840.1.113883.12.189">
+   <Description>This table defines the patient's ancestry.
+					Table type: User</Description>
+   <concept code="A">
+      <displayName>British</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Irish</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Any other White background</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>White and Black Caribbean</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>White and Black African</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>White and Asian</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Any other mixed background</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Indian</displayName>
+   </concept>
+   <concept code="J">
+      <displayName>Pakistani</displayName>
+   </concept>
+   <concept code="K">
+      <displayName>Bangladeshi</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Any other Asian background</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Caribbean</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>African</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Any other Black background</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Chinese</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Any other ethnic group</displayName>
+   </concept>
+   <concept code="Z">
+      <displayName>Not stated</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

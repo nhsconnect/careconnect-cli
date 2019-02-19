@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReadCodes4Byte" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.6.1">
+   <Description>
+            <p>A clinical terminology (i.e. coding system) owned by the NHS. It is the forerunner of the Read Codes Version 2. Its OID is 2.16.840.1.113883.2.1.6.1.</p>
+            <p>Any code from the Read Codes 4-byte Set.</p>
+         </Description>
+</vocabulary>

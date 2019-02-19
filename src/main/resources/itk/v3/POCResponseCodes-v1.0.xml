@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="POCResponseCodes" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.102">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.102</p>
+            <p>A code system carrying a list of POC issue/error codes.</p>
+            <p>N.B. This code system is currently unused by NPfIT.</p>
+         </Description>
+</vocabulary>

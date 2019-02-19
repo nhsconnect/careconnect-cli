@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PaperRecordTransferFlag" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.167">
+   <Description>
+            <p>To indicate the status of a paper record transfer.</p>
+         </Description>
+   <concept code="RPN">
+      <displayName>Requested from Practice</displayName>
+   </concept>
+   <concept code="RPU">
+      <displayName>Requested from Practice - Urgent</displayName>
+   </concept>
+   <concept code="RBN">
+      <displayName>Requested from Storage</displayName>
+   </concept>
+   <concept code="RBU">
+      <displayName>Requested from Storage - Urgent</displayName>
+   </concept>
+   <concept code="RSN">
+      <displayName>Requested from Scotland</displayName>
+   </concept>
+   <concept code="RSU">
+      <displayName>Requested from Scotland - Urgent</displayName>
+   </concept>
+   <concept code="RNN">
+      <displayName>Requested from Northern Ireland</displayName>
+   </concept>
+   <concept code="RNU">
+      <displayName>Requested from Northern Ireland - Urgent</displayName>
+   </concept>
+   <concept code="RAN">
+      <displayName>Requested from SMU</displayName>
+   </concept>
+   <concept code="RAU">
+      <displayName>Requested from SMU - Urgent</displayName>
+   </concept>
+   <concept code="CPN">
+      <displayName>Recalled from Practice</displayName>
+   </concept>
+   <concept code="CPU">
+      <displayName>Recalled from Practice - Urgent</displayName>
+   </concept>
+   <concept code="CSN">
+      <displayName>Recalled from Scotland</displayName>
+   </concept>
+   <concept code="CSU">
+      <displayName>Recalled from Scotland - Urgent</displayName>
+   </concept>
+   <concept code="CNN">
+      <displayName>Recalled from Northern Ireland</displayName>
+   </concept>
+   <concept code="CNU">
+      <displayName>Recalled from Northern Ireland - Urgent</displayName>
+   </concept>
+   <concept code="SPN">
+      <displayName>Sent by Practice</displayName>
+   </concept>
+   <concept code="SPU">
+      <displayName>Sent by Practice - Urgent</displayName>
+   </concept>
+   <concept code="FBN">
+      <displayName>Forwarded to Back Office</displayName>
+   </concept>
+   <concept code="FBU">
+      <displayName>Forwarded to Back Office - Urgent</displayName>
+   </concept>
+   <concept code="FPN">
+      <displayName>Forwarded to Practice</displayName>
+   </concept>
+   <concept code="FPU">
+      <displayName>Forwarded to Practice - Urgent</displayName>
+   </concept>
+   <concept code="FAN">
+      <displayName>Forwarded to SMU</displayName>
+   </concept>
+   <concept code="FAU">
+      <displayName>Forwarded to SMU - Urgent</displayName>
+   </concept>
+   <concept code="HBN">
+      <displayName>Stored at Back Office</displayName>
+   </concept>
+   <concept code="HSN">
+      <displayName>Held in Scotland</displayName>
+   </concept>
+   <concept code="HNN">
+      <displayName>Held in Northern Ireland</displayName>
+   </concept>
+   <concept code="HPN">
+      <displayName>Held at registered Practice</displayName>
+   </concept>
+   <concept code="HXN">
+      <displayName>No paper record exists</displayName>
+   </concept>
+   <concept code="RP">
+      <displayName>Requested from Practice </displayName>
+   </concept>
+   <concept code="RB">
+      <displayName>Requested from Storage </displayName>
+   </concept>
+   <concept code="RS">
+      <displayName>Requested from Scotland </displayName>
+   </concept>
+   <concept code="RN">
+      <displayName>Requested from Northern Ireland </displayName>
+   </concept>
+   <concept code="RA">
+      <displayName>Requested from SMU </displayName>
+   </concept>
+   <concept code="CP">
+      <displayName>Recalled from Practice </displayName>
+   </concept>
+   <concept code="CS">
+      <displayName>Recalled from Scotland </displayName>
+   </concept>
+   <concept code="CN">
+      <displayName>Recalled from Northern Ireland </displayName>
+   </concept>
+   <concept code="SP">
+      <displayName>Sent by Practice </displayName>
+   </concept>
+   <concept code="FB">
+      <displayName>Forwarded to Back Office </displayName>
+   </concept>
+   <concept code="FP">
+      <displayName>Forwarded to Practice </displayName>
+   </concept>
+   <concept code="FA">
+      <displayName>Forwarded to SMU </displayName>
+   </concept>
+   <concept code="HB">
+      <displayName>Stored at Back Office </displayName>
+   </concept>
+   <concept code="HS">
+      <displayName>Held in Scotland </displayName>
+   </concept>
+   <concept code="HN">
+      <displayName>Held in Northern Ireland </displayName>
+   </concept>
+   <concept code="HP">
+      <displayName>Held at registered Practice </displayName>
+   </concept>
+   <concept code="HX">
+      <displayName>No paper record exists </displayName>
+   </concept>
+   <concept code="HA">
+      <displayName>Held at SMU</displayName>
+   </concept>
+   <concept code="HL">
+      <displayName>On loan from Back Office</displayName>
+   </concept>
+</vocabulary>

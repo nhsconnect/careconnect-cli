@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ObsInterpretationNormalitySnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.15</p>
+            <p>Interprets the result against the quoted Reference or Therapeutic range.</p>
+         </Description>
+   <concept code="75540009">
+      <displayName>High (H)</displayName>
+   </concept>
+   <concept code="62482003">
+      <displayName>Low (L)</displayName>
+   </concept>
+   <concept code="394844007">
+      <displayName>Outside Reference Range</displayName>
+   </concept>
+</vocabulary>

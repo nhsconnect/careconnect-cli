@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ValueType" version="1.0" status="created" id="2.16.840.1.113883.12.125">
+   <Description>This table contains the format of the observation value in OBX.
+					Table type: HL7</Description>
+   <concept code="AD">
+      <displayName>Address</displayName>
+   </concept>
+   <concept code="CE">
+      <displayName>Coded Entry</displayName>
+   </concept>
+   <concept code="CF">
+      <displayName>Coded Element With Formatted Values</displayName>
+   </concept>
+   <concept code="CK">
+      <displayName>Composite ID With Check Digit</displayName>
+   </concept>
+   <concept code="CN">
+      <displayName>Composite ID And Name</displayName>
+   </concept>
+   <concept code="CP">
+      <displayName>Composite Price</displayName>
+   </concept>
+   <concept code="CX">
+      <displayName>Extended Composite ID With Check Digit</displayName>
+   </concept>
+   <concept code="DT">
+      <displayName>Date</displayName>
+   </concept>
+   <concept code="ED">
+      <displayName>Encapsulated Data</displayName>
+   </concept>
+   <concept code="FT">
+      <displayName>Formatted Text (Display)</displayName>
+   </concept>
+   <concept code="MO">
+      <displayName>Money</displayName>
+   </concept>
+   <concept code="NM">
+      <displayName>Numeric</displayName>
+   </concept>
+   <concept code="PN">
+      <displayName>Person Name</displayName>
+   </concept>
+   <concept code="RP">
+      <displayName>Reference Pointer</displayName>
+   </concept>
+   <concept code="SN">
+      <displayName>Structured Numeric</displayName>
+   </concept>
+   <concept code="ST">
+      <displayName>String Data.</displayName>
+   </concept>
+   <concept code="TM">
+      <displayName>Time</displayName>
+   </concept>
+   <concept code="TN">
+      <displayName>Telephone Number</displayName>
+   </concept>
+   <concept code="TS">
+      <displayName>Time Stamp (Date &amp; Time)</displayName>
+   </concept>
+   <concept code="TX">
+      <displayName>Text Data (Display)</displayName>
+   </concept>
+   <concept code="XAD">
+      <displayName>Extended Address</displayName>
+   </concept>
+   <concept code="XCN">
+      <displayName>Extended Composite Name And Number For Persons</displayName>
+   </concept>
+   <concept code="XON">
+      <displayName>Extended Composite Name And Number For Organizations</displayName>
+   </concept>
+   <concept code="XPN">
+      <displayName>Extended Person Name</displayName>
+   </concept>
+   <concept code="XTN">
+      <displayName>Extended Telecommunications Number</displayName>
+   </concept>
+</vocabulary>

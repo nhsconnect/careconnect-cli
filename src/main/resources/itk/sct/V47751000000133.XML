@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Resuscitation decision finding" type="Realm Concept" setId="67261000000130" version="3" id="47751000000133" refId="999001981000000101" memberCount="5" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="304252001">
+<displayName lang="en" type="PT">For resuscitation</displayName>
+<displayName lang="en" type="FSN">For resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">Resuscitate</displayName>
+</concept>
+<concept code="304253006">
+<displayName lang="en" type="PT">Not for resuscitation</displayName>
+<displayName lang="en" type="FSN">Not for resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">DNAR - Do not attempt resuscitation</displayName>
+<displayName lang="en" type="SY">DNR</displayName>
+<displayName lang="en" type="SY">Do not resuscitate</displayName>
+<displayName lang="en" type="SY">Do not resuscitate status</displayName>
+</concept>
+<concept code="450475007">
+<displayName lang="en" type="PT">For cardiopulmonary resuscitation</displayName>
+<displayName lang="en" type="FSN">For cardiopulmonary resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">For attempted cardiopulmonary resuscitation</displayName>
+</concept>
+<concept code="450476008">
+<displayName lang="en" type="PT">Not for cardiopulmonary resuscitation</displayName>
+<displayName lang="en" type="FSN">Not for cardiopulmonary resuscitation (finding)</displayName>
+<displayName lang="en" type="SY">Not for attempted cardiopulmonary resuscitation</displayName>
+</concept>
+<concept code="845151000000104">
+<displayName lang="en" type="PT">Not aware of do not attempt cardiopulmonary resuscitation clinical decision</displayName>
+<displayName lang="en" type="FSN">Not aware of do not attempt cardiopulmonary resuscitation clinical decision (finding)</displayName>
+<displayName lang="en" type="SY">Not aware of DNACPR (do not attempt cardiopulmonary resuscitation) clinical decision</displayName>
+</concept>
+</vocabulary>

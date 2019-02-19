@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_MedicationMood" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.1001.11.2">
+   <Description>
+            <p>Distinguishes between recommendations, authorisations, prescriptions and supply events.</p>
+            <p>The classes associated to a medication statement by MedicationStatement /component and MedicationStatement/pertinentInformation provide additional information relevant to the mood of the medication.</p>
+            <ul>
+               <li>The values of moodCode are not sufficient to distinguish between supply (dispensing) and actual administration of a drug (e.g. by injecting the patient). This distinction is made by reference to the moodCode of the MedicationDosage associated by the MedicationStatement/pertinentInformation relationship.</li>
+               <li>The values of moodCode are not sufficient to distinguish between medication prescribed and medication supplied in the past or by another organisation recorded retrospectively. This distinction is made by the code attribute of the supply class associated through MedicationStatement/component.</li>
+               <li>"past" medication (i.e. previous medication for which no details of specific authorisations and prescriptions exist) is represented by an instance of MedicationStatement with no associated MedicationStatement /component instances.</li>
+               <li>The nature of the supply class associated through MedicationStatement /component determines the distinction between a discontinuation, authorisation, prescription and actual supply.</li>
+               <li>One reason for these apparent complications is that the moodCode values must be drawn from the bounded vocabulary specified centrally by HL7 since these codes have structural impact on many messages. It is possible that HL7 added some additional moodCode values to make some of these distinctions clearer.</li>
+            </ul>
+         </Description>
+   <concept code="EVN">
+      <displayName>Event</displayName>
+   </concept>
+   <concept code="INT">
+      <displayName>Intention</displayName>
+   </concept>
+   <concept code="ORD">
+      <displayName>Order</displayName>
+   </concept>
+   <concept code="RMD">
+      <displayName>Recommendation</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AESourceOfReferral" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.295">
+   <Description>
+            <div>
+               <p>The values for this vocabulary may be drawn from the data dictionary codes associated with:</p>
+               <p>SOURCE OF REFERRAL FOR A and E.</p>
+               <p>If a local code is required, the OID 2.16.840.1.113883.2.1.3.2.4.17.305 (LocalAESourceOfReferral) may be used.</p>
+            </div>
+         </Description>
+</vocabulary>

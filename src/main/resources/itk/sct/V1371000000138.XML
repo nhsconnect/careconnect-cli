@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Height" type="Realm Concept" setId="68941000000139" version="18" id="1371000000138" refId="999000791000000105" memberCount="1" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="248333004">
+<displayName lang="en" type="PT">Standing height</displayName>
+<displayName lang="en" type="FSN">Standing height (observable entity)</displayName>
+</concept>
+</vocabulary>

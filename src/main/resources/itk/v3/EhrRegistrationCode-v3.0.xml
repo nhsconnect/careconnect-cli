@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrRegistrationCode" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.24">
+   <Description>
+            <p>A code indicating the nature of the registration action.</p>
+            <p>Also supports less formal action such as establishing a 'usual GP' or carer.</p>
+            <p>Default OID:</p>
+            <p>The default OID for the SNOMED CT code values below is: 2.16.840.1.113883.2.1.3.2.4.15</p>
+         </Description>
+   <concept code="24801000000108">
+      <displayName>GMS - Full Registered</displayName>
+   </concept>
+   <concept code="25891000000102">
+      <displayName>GMS - Provisional</displayName>
+   </concept>
+   <concept code="24811000000105">
+      <displayName>Temporary Registration</displayName>
+   </concept>
+   <concept code="24821000000104">
+      <displayName>Maternity Registration</displayName>
+   </concept>
+   <concept code="25901000000101">
+      <displayName>Contraceptive Registration</displayName>
+   </concept>
+   <concept code="24831000000102">
+      <displayName>Immediate Necessary Treatment</displayName>
+   </concept>
+   <concept code="37221000000109">
+      <displayName>Informal arrangement or assignment</displayName>
+   </concept>
+</vocabulary>

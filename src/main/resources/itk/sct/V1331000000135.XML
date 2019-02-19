@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Family History" type="Realm Concept" setId="68401000000134" version="18" id="1331000000135" refId="999000771000000106" memberCount="636" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="134439009">
+<displayName lang="en" type="PT">FH: premature coronary heart disease</displayName>
+<displayName lang="en" type="FSN">Family history: premature coronary heart disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: premature coronary heart disease</displayName>
+</concept>
+<concept code="160250007">
+<displayName lang="en" type="PT">No family history of malignancy</displayName>
+<displayName lang="en" type="FSN">No family history of malignancy (situation)</displayName>
+</concept>
+<concept code="160252004">
+<displayName lang="en" type="PT">No family history of cardiovascular accident or stroke</displayName>
+<displayName lang="en" type="FSN">No family history of cardiovascular accident or stroke (situation)</displayName>
+</concept>
+<concept code="160266009">
+<displayName lang="en" type="PT">No family history of</displayName>
+<displayName lang="en" type="FSN">No family history of clinical finding (situation)</displayName>
+<displayName lang="en" type="SY">No family history of clinical finding</displayName>
+<displayName lang="en" type="SY">No relevant FH: family history</displayName>
+<displayName lang="en" type="SY">No relevant family history</displayName>
+<displayName lang="en" type="SY">No significant family history</displayName>
+</concept>
+<concept code="160267000">
+<displayName lang="en" type="PT">No FH: Glaucoma</displayName>
+<displayName lang="en" type="FSN">No family history: Glaucoma (situation)</displayName>
+<displayName lang="en" type="SY">No family history of glaucoma</displayName>
+<displayName lang="en" type="SY">No family history: Glaucoma</displayName>
+</concept>
+<concept code="160268005">
+<displayName lang="en" type="PT">No FH: Allergy</displayName>
+<displayName lang="en" type="FSN">No family history: Allergy (situation)</displayName>
+<displayName lang="en" type="SY">No family history of allergy</displayName>
+<displayName lang="en" type="SY">No family history: Allergy</displayName>
+</concept>
+<concept code="160269002">
+<displayName lang="en" type="PT">FH: Longevity</displayName>
+<displayName lang="en" type="FSN">Family history: Longevity (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Longevity</displayName>
+</concept>
+<concept code="160270001">
+<displayName lang="en" type="PT">No FH: Cardiovascular disease</displayName>
+<displayName lang="en" type="FSN">No family history: Cardiovascular disease (situation)</displayName>
+<displayName lang="en" type="SY">No family history of cardiovascular disease</displayName>
+<displayName lang="en" type="SY">No family history: Cardiovascular disease</displayName>
+<displayName lang="en" type="SY">No significant family history of cardiovascular disease</displayName>
+</concept>
+<concept code="160273004">
+<displayName lang="en" type="PT">No FH: Hypertension</displayName>
+<displayName lang="en" type="FSN">No family history: Hypertension (situation)</displayName>
+<displayName lang="en" type="SY">No family history of hypertension</displayName>
+<displayName lang="en" type="SY">No family history: Hypertension</displayName>
+<displayName lang="en" type="SY">No significant family history of hypertension</displayName>
+</concept>
+<concept code="160274005">
+<displayName lang="en" type="PT">No family history diabetes</displayName>
+<displayName lang="en" type="FSN">No family history diabetes (situation)</displayName>
+<displayName lang="en" type="SY">No family history of diabetes</displayName>
+<displayName lang="en" type="SY">No significant family history of diabetes</displayName>
+</concept>
+<concept code="160279000">
+<displayName lang="en" type="PT">Family history of infectious disease</displayName>
+<displayName lang="en" type="FSN">Family history of infectious disease (situation)</displayName>
+<displayName lang="en" type="SY">FH: Infectious disease</displayName>
+<displayName lang="en" type="SY">Family history: Infectious disease</displayName>
+</concept>
+<concept code="160280002">
+<displayName lang="en" type="PT">FH: Tuberculosis</displayName>
+<displayName lang="en" type="FSN">Family history: Tuberculosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Tuberculosis</displayName>
+</concept>
+<concept code="160281003">
+<displayName lang="en" type="PT">FH: Syphilis</displayName>
+<displayName lang="en" type="FSN">Family history: Syphilis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Syphilis</displayName>
+</concept>
+<concept code="160282005">
+<displayName lang="en-GB" type="PT">FH: Gonorrhoea</displayName>
+<displayName lang="en" type="FSN">Family history: Gonorrhea (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Gonorrhoea</displayName>
+</concept>
+<concept code="160288009">
+<displayName lang="en" type="PT">FH: neoplasm of skin</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm of skin (situation)</displayName>
+<displayName lang="en" type="SY">Family history of neoplasm of skin</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm of skin</displayName>
+</concept>
+<concept code="160290005">
+<displayName lang="en" type="PT">FH: neoplasm of male genital organ</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm of male genital organ (situation)</displayName>
+<displayName lang="en" type="SY">Family history of neoplasm of male genital tract</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm of male genital organ</displayName>
+</concept>
+<concept code="160291009">
+<displayName lang="en" type="PT">Family history of urological neoplasm</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm - urinary organ (situation)</displayName>
+<displayName lang="en" type="SY">FH: neoplasm - urinary organ</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm - urinary organ</displayName>
+</concept>
+<concept code="160292002">
+<displayName lang="en-GB" type="PT">Family history of leukaemia</displayName>
+<displayName lang="en" type="FSN">Family history of leukemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: leukaemia</displayName>
+<displayName lang="en-GB" type="SY">Family history: leukaemia</displayName>
+</concept>
+<concept code="160297008">
+<displayName lang="en" type="PT">FH: neoplasm of ovary</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm of ovary (situation)</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm of ovary</displayName>
+</concept>
+<concept code="160298003">
+<displayName lang="en" type="PT">FH: neoplasm of cervix</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm of cervix (situation)</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm of cervix</displayName>
+</concept>
+<concept code="160299006">
+<displayName lang="en" type="PT">FH: neoplasm of uterus</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm of uterus (situation)</displayName>
+<displayName lang="en" type="SY">Family history: neoplasm of uterus</displayName>
+</concept>
+<concept code="160301004">
+<displayName lang="en" type="PT">Family history of endocrine disorders</displayName>
+<displayName lang="en" type="FSN">Family history of endocrine disorders (situation)</displayName>
+<displayName lang="en" type="SY">FH: Endocrine disorders</displayName>
+<displayName lang="en" type="SY">Family history of endocrine disease</displayName>
+<displayName lang="en" type="SY">Family history: Endocrine disorders</displayName>
+</concept>
+<concept code="160302006">
+<displayName lang="en" type="PT">FH: Thyroid disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Thyroid disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Thyroid disease</displayName>
+<displayName lang="en" type="SY">Family history: Thyroid disorder</displayName>
+</concept>
+<concept code="160303001">
+<displayName lang="en" type="PT">FH: Diabetes mellitus</displayName>
+<displayName lang="en" type="FSN">Family history: Diabetes mellitus (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Diabetes mellitus</displayName>
+</concept>
+<concept code="160305008">
+<displayName lang="en" type="PT">Family history of metabolic disorder</displayName>
+<displayName lang="en" type="FSN">Family history of metabolic disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Metabolic disorder</displayName>
+<displayName lang="en" type="SY">Family history: Metabolic disorder</displayName>
+</concept>
+<concept code="160306009">
+<displayName lang="en" type="PT">FH: Nutritional deficiency</displayName>
+<displayName lang="en" type="FSN">Family history: Nutritional deficiency (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Nutritional deficiency</displayName>
+</concept>
+<concept code="160308005">
+<displayName lang="en" type="PT">FH: Gout</displayName>
+<displayName lang="en" type="FSN">Family history: Gout (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Gout</displayName>
+</concept>
+<concept code="160309002">
+<displayName lang="en" type="PT">Family history of cystic fibrosis</displayName>
+<displayName lang="en" type="FSN">Family history of cystic fibrosis (situation)</displayName>
+<displayName lang="en" type="SY">FH: Cystic fibrosis</displayName>
+<displayName lang="en" type="SY">FH: Fibrocystic disease</displayName>
+<displayName lang="en" type="SY">Family history: Cystic fibrosis</displayName>
+</concept>
+<concept code="160310007">
+<displayName lang="en" type="PT">FH: Porphyria</displayName>
+<displayName lang="en" type="FSN">Family history: Porphyria (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Porphyria</displayName>
+</concept>
+<concept code="160311006">
+<displayName lang="en" type="PT">FH: Obesity</displayName>
+<displayName lang="en" type="FSN">Family history: Obesity (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Obesity</displayName>
+</concept>
+<concept code="160312004">
+<displayName lang="en" type="PT">FH: Cholinesterase deficiency</displayName>
+<displayName lang="en" type="FSN">Family history: Cholinesterase deficiency (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Cholinesterase deficiency</displayName>
+</concept>
+<concept code="160313009">
+<displayName lang="en" type="PT">Family history of osteoporosis</displayName>
+<displayName lang="en" type="FSN">Family history of osteoporosis (situation)</displayName>
+<displayName lang="en" type="SY">FH: Osteoporosis</displayName>
+<displayName lang="en" type="SY">Family history: Osteoporosis</displayName>
+</concept>
+<concept code="160314003">
+<displayName lang="en-GB" type="PT">FH: Hypercholesterolaemia</displayName>
+<displayName lang="en" type="FSN">Family history: Hypercholesterolemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Hypercholesterolaemia</displayName>
+</concept>
+<concept code="160316001">
+<displayName lang="en" type="PT">FH: Blood disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Blood disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of blood disorder</displayName>
+<displayName lang="en" type="SY">Family history: Blood disorder</displayName>
+</concept>
+<concept code="160318000">
+<displayName lang="en" type="PT">FH: Hereditary spherocytosis</displayName>
+<displayName lang="en" type="FSN">Family history: Hereditary spherocytosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of hereditary spherocytosis</displayName>
+<displayName lang="en" type="SY">Family history: Hereditary spherocytosis</displayName>
+</concept>
+<concept code="160319008">
+<displayName lang="en-GB" type="PT">FH: Thalassaemia</displayName>
+<displayName lang="en" type="FSN">Family history: Thalassemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of thalassaemia</displayName>
+<displayName lang="en-GB" type="SY">Family history: Thalassaemia</displayName>
+</concept>
+<concept code="160320002">
+<displayName lang="en-GB" type="PT">Family history of sickle cell anaemia</displayName>
+<displayName lang="en" type="FSN">Family history of sickle cell anemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: Sickle cell anaemia</displayName>
+<displayName lang="en-GB" type="SY">Family history: Sickle cell anaemia</displayName>
+</concept>
+<concept code="160321003">
+<displayName lang="en" type="PT">FH: Sickle cell trait</displayName>
+<displayName lang="en" type="FSN">Family history: Sickle cell trait (situation)</displayName>
+<displayName lang="en" type="SY">Family history of sickle cell trait</displayName>
+<displayName lang="en" type="SY">Family history: Sickle cell trait</displayName>
+</concept>
+<concept code="160324006">
+<displayName lang="en" type="PT">Family history of mental disorder</displayName>
+<displayName lang="en" type="FSN">Family history of mental disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH - Mental disorder</displayName>
+<displayName lang="en" type="SY">Family history of psychiatric condition</displayName>
+</concept>
+<concept code="160325007">
+<displayName lang="en" type="PT">FH: Senile dementia</displayName>
+<displayName lang="en" type="FSN">Family history: Senile dementia (situation)</displayName>
+<displayName lang="en" type="SY">Family history of senile dementia</displayName>
+<displayName lang="en" type="SY">Family history: Senile dementia</displayName>
+</concept>
+<concept code="160327004">
+<displayName lang="en" type="PT">FH: Drug dependency</displayName>
+<displayName lang="en" type="FSN">Family history: Drug dependency (situation)</displayName>
+<displayName lang="en" type="SY">Addict in the family</displayName>
+<displayName lang="en" type="SY">FH: Drug addiction</displayName>
+<displayName lang="en" type="SY">Family history of drug dependency</displayName>
+<displayName lang="en" type="SY">Family history: Drug dependency</displayName>
+</concept>
+<concept code="160328009">
+<displayName lang="en" type="PT">FH: Schizophrenia</displayName>
+<displayName lang="en" type="FSN">Family history: Schizophrenia (situation)</displayName>
+<displayName lang="en" type="SY">Family history of schizophrenia</displayName>
+<displayName lang="en" type="SY">Family history: Schizophrenia</displayName>
+</concept>
+<concept code="160329001">
+<displayName lang="en" type="PT">FH: Depression</displayName>
+<displayName lang="en" type="FSN">Family history: Depression (situation)</displayName>
+<displayName lang="en" type="SY">Family history of depression</displayName>
+<displayName lang="en" type="SY">Family history: Depression</displayName>
+</concept>
+<concept code="160331005">
+<displayName lang="en" type="PT">FH: Manic-depressive state</displayName>
+<displayName lang="en" type="FSN">Family history: Manic-depressive state (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bipolar disorder</displayName>
+<displayName lang="en" type="SY">Family history: Manic-depressive state</displayName>
+</concept>
+<concept code="160332003">
+<displayName lang="en" type="PT">FH: Anxiety state</displayName>
+<displayName lang="en" type="FSN">Family history: Anxiety state (situation)</displayName>
+<displayName lang="en" type="SY">Family history of anxiety disorder</displayName>
+<displayName lang="en" type="SY">Family history: Anxiety state</displayName>
+</concept>
+<concept code="160333008">
+<displayName lang="en" type="PT">FH: Suicide</displayName>
+<displayName lang="en" type="FSN">Family history: Suicide (situation)</displayName>
+<displayName lang="en" type="SY">Family history of suicide</displayName>
+<displayName lang="en" type="SY">Family history: Suicide</displayName>
+</concept>
+<concept code="160336000">
+<displayName lang="en" type="PT">FH: Huntington&apos;s chorea</displayName>
+<displayName lang="en" type="FSN">Family history: Huntington&apos;s chorea (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Huntington&apos;s chorea</displayName>
+<displayName lang="en" type="SY">Family history: Huntington chorea</displayName>
+<displayName lang="en" type="SY">Family history: Huntington&apos;s chorea</displayName>
+</concept>
+<concept code="160337009">
+<displayName lang="en" type="PT">FH: Multiple sclerosis</displayName>
+<displayName lang="en" type="FSN">Family history: Multiple sclerosis (situation)</displayName>
+<displayName lang="en" type="SY">FH: Disseminated sclerosis</displayName>
+<displayName lang="en" type="SY">Family history of multiple sclerosis</displayName>
+<displayName lang="en" type="SY">Family history: Multiple sclerosis</displayName>
+</concept>
+<concept code="160338004">
+<displayName lang="en" type="PT">FH: Hemiplegia</displayName>
+<displayName lang="en" type="FSN">Family history: Hemiplegia (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Hemiplegia</displayName>
+</concept>
+<concept code="160339007">
+<displayName lang="en" type="PT">FH: Paraplegia</displayName>
+<displayName lang="en" type="FSN">Family history: Paraplegia (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Paraplegia</displayName>
+</concept>
+<concept code="160340009">
+<displayName lang="en" type="PT">Family history: Cerebral palsy</displayName>
+<displayName lang="en" type="FSN">Family history: Cerebral palsy (situation)</displayName>
+<displayName lang="en" type="SY">FH: Cerebral palsy</displayName>
+</concept>
+<concept code="160341008">
+<displayName lang="en" type="PT">FH: Epilepsy</displayName>
+<displayName lang="en" type="FSN">Family history: Epilepsy (situation)</displayName>
+<displayName lang="en" type="SY">Family history of epilepsy</displayName>
+<displayName lang="en" type="SY">Family history: Epilepsy</displayName>
+</concept>
+<concept code="160342001">
+<displayName lang="en" type="PT">FH: Migraine</displayName>
+<displayName lang="en" type="FSN">Family history: Migraine (situation)</displayName>
+<displayName lang="en" type="SY">Family history of migraine</displayName>
+<displayName lang="en" type="SY">Family history: Migraine</displayName>
+</concept>
+<concept code="160343006">
+<displayName lang="en" type="PT">FH: Muscular dystrophy</displayName>
+<displayName lang="en" type="FSN">Family history: Muscular dystrophy (situation)</displayName>
+<displayName lang="en" type="SY">Family history of muscular dystrophy</displayName>
+<displayName lang="en" type="SY">Family history: Muscular dystrophy</displayName>
+</concept>
+<concept code="160344000">
+<displayName lang="en" type="PT">FH: Motor neurone disease</displayName>
+<displayName lang="en" type="FSN">Family history: Motor neurone disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of motor neurone disease</displayName>
+<displayName lang="en" type="SY">Family history: Motor neurone disease</displayName>
+</concept>
+<concept code="160346003">
+<displayName lang="en" type="PT">FH: Eye disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Eye disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of eye disorder</displayName>
+<displayName lang="en" type="SY">Family history of ophthalmological disorder</displayName>
+<displayName lang="en" type="SY">Family history: Eye disorder</displayName>
+</concept>
+<concept code="160347007">
+<displayName lang="en" type="PT">FH: Glaucoma</displayName>
+<displayName lang="en" type="FSN">Family history: Glaucoma (situation)</displayName>
+<displayName lang="en" type="SY">Family history of glaucoma</displayName>
+<displayName lang="en" type="SY">Family history: Glaucoma</displayName>
+</concept>
+<concept code="160348002">
+<displayName lang="en" type="PT">FH: Cataract</displayName>
+<displayName lang="en" type="FSN">Family history: Cataract (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cataract</displayName>
+<displayName lang="en" type="SY">Family history: Cataract</displayName>
+</concept>
+<concept code="160350005">
+<displayName lang="en" type="PT">FH: Squint</displayName>
+<displayName lang="en" type="FSN">Family history: Squint (situation)</displayName>
+<displayName lang="en" type="SY">Family history of squint</displayName>
+<displayName lang="en" type="SY">Family history of strabismus</displayName>
+<displayName lang="en" type="SY">Family history: Squint</displayName>
+</concept>
+<concept code="160352002">
+<displayName lang="en" type="PT">FH: Ear disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Ear disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of ear disorder</displayName>
+<displayName lang="en" type="SY">Family history: Ear disorder</displayName>
+</concept>
+<concept code="160353007">
+<displayName lang="en" type="PT">FH: Deafness</displayName>
+<displayName lang="en" type="FSN">Family history: Deafness (situation)</displayName>
+<displayName lang="en" type="SY">Family history of deafness</displayName>
+<displayName lang="en" type="SY">Family history: Deafness</displayName>
+</concept>
+<concept code="160354001">
+<displayName lang="en" type="PT">FH: Otosclerosis</displayName>
+<displayName lang="en" type="FSN">Family history: Otosclerosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of otosclerosis</displayName>
+<displayName lang="en" type="SY">Family history: Otosclerosis</displayName>
+</concept>
+<concept code="160357008">
+<displayName lang="en" type="PT">FH: Hypertension</displayName>
+<displayName lang="en" type="FSN">Family history: Hypertension (situation)</displayName>
+<displayName lang="en" type="SY">Family history of hypertension</displayName>
+<displayName lang="en" type="SY">Family history: Hypertension</displayName>
+</concept>
+<concept code="160362009">
+<displayName lang="en" type="PT">FH: Atherosclerosis</displayName>
+<displayName lang="en" type="FSN">Family history: Atherosclerosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of atherosclerosis</displayName>
+<displayName lang="en" type="SY">Family history: Atherosclerosis</displayName>
+</concept>
+<concept code="160363004">
+<displayName lang="en-GB" type="PT">Family history of transient ischaemic attack</displayName>
+<displayName lang="en" type="FSN">Family history of transient ischemic attack (situation)</displayName>
+<displayName lang="en" type="SY">FH: TIA</displayName>
+</concept>
+<concept code="160364005">
+<displayName lang="en" type="PT">FH: Congenital heart disease</displayName>
+<displayName lang="en" type="FSN">Family history: Congenital heart disease (situation)</displayName>
+<displayName lang="en" type="SY">FH: Congen heart disease</displayName>
+<displayName lang="en" type="SY">Family history: Congenital heart disease</displayName>
+</concept>
+<concept code="160377001">
+<displayName lang="en" type="PT">Family history of asthma</displayName>
+<displayName lang="en" type="FSN">Family history: Asthma (situation)</displayName>
+<displayName lang="en" type="SY">FH: Asthma</displayName>
+<displayName lang="en" type="SY">Family history: Asthma</displayName>
+</concept>
+<concept code="160378006">
+<displayName lang="en" type="PT">FH: Occupational lung dis.</displayName>
+<displayName lang="en" type="FSN">Family history: Occupational lung disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Occupational lung disease</displayName>
+</concept>
+<concept code="160379003">
+<displayName lang="en" type="PT">FH: Hay fever</displayName>
+<displayName lang="en" type="FSN">Family history: Hay fever (situation)</displayName>
+<displayName lang="en" type="SY">Family history of hay fever</displayName>
+<displayName lang="en" type="SY">Family history: Hay fever</displayName>
+</concept>
+<concept code="160381001">
+<displayName lang="en" type="PT">FH: Gastrointestinal disease</displayName>
+<displayName lang="en" type="FSN">Family history: Gastrointestinal disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of gastrointestinal disease</displayName>
+<displayName lang="en" type="SY">Family history: Gastrointestinal disease</displayName>
+</concept>
+<concept code="160386006">
+<displayName lang="en" type="PT">FH: Crohn&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Family history: Crohn&apos;s disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Crohn&apos;s disease</displayName>
+<displayName lang="en" type="SY">Family history: Crohn disease</displayName>
+<displayName lang="en" type="SY">Family history: Crohn&apos;s disease</displayName>
+</concept>
+<concept code="160389004">
+<displayName lang="en" type="PT">FH: Polycystic kidney</displayName>
+<displayName lang="en" type="FSN">Family history: Polycystic kidney (situation)</displayName>
+<displayName lang="en" type="SY">Family history of polycystic kidney</displayName>
+<displayName lang="en" type="SY">Family history: Polycystic kidney</displayName>
+</concept>
+<concept code="160390008">
+<displayName lang="en" type="PT">FH: Male infertility</displayName>
+<displayName lang="en" type="FSN">Family history: Male infertility (situation)</displayName>
+<displayName lang="en" type="SY">Family history of male infertility</displayName>
+<displayName lang="en" type="SY">Family history: Male infertility</displayName>
+</concept>
+<concept code="160391007">
+<displayName lang="en" type="PT">FH: Female infertility</displayName>
+<displayName lang="en" type="FSN">Family history: Female infertility (situation)</displayName>
+<displayName lang="en" type="SY">Family history of female infertility</displayName>
+<displayName lang="en" type="SY">Family history: Female infertility</displayName>
+</concept>
+<concept code="160392000">
+<displayName lang="en" type="PT">FH: Breast disease</displayName>
+<displayName lang="en" type="FSN">Family history: Breast disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of breast disorder</displayName>
+<displayName lang="en" type="SY">Family history: Breast disease</displayName>
+</concept>
+<concept code="160393005">
+<displayName lang="en" type="PT">FH: Menstrual disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Menstrual disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Menses problem</displayName>
+<displayName lang="en" type="SY">FH: Period problem</displayName>
+<displayName lang="en" type="SY">Family history of menstrual disorder</displayName>
+<displayName lang="en" type="SY">Family history: Menstrual disorder</displayName>
+</concept>
+<concept code="160394004">
+<displayName lang="en" type="PT">FH: Early menarche</displayName>
+<displayName lang="en" type="FSN">Family history: Early menarche (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Early menarche</displayName>
+</concept>
+<concept code="160396002">
+<displayName lang="en" type="PT">FH: Late menarche</displayName>
+<displayName lang="en" type="FSN">Family history: Late menarche (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Late menarche</displayName>
+</concept>
+<concept code="160397006">
+<displayName lang="en" type="PT">FH: Early menopause</displayName>
+<displayName lang="en" type="FSN">Family history: Early menopause (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Early menopause</displayName>
+</concept>
+<concept code="160398001">
+<displayName lang="en" type="PT">FH: Late menopause</displayName>
+<displayName lang="en" type="FSN">Family history: Late menopause (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Late menopause</displayName>
+</concept>
+<concept code="160400002">
+<displayName lang="en" type="PT">FH: Obstetric problem</displayName>
+<displayName lang="en" type="FSN">Family history: Obstetric problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history of obstetric disorder</displayName>
+<displayName lang="en" type="SY">Family history: Obstetric problem</displayName>
+</concept>
+<concept code="160401003">
+<displayName lang="en" type="PT">FH: Raised B.P. in pregnancy</displayName>
+<displayName lang="en" type="FSN">Family history: Raised blood pressure in pregnancy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Raised blood pressure in pregnancy</displayName>
+</concept>
+<concept code="160402005">
+<displayName lang="en" type="PT">FH: Diabetes in pregnancy</displayName>
+<displayName lang="en" type="FSN">Family history: Diabetes in pregnancy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Diabetes in pregnancy</displayName>
+</concept>
+<concept code="160403000">
+<displayName lang="en" type="PT">FH: Puerperal depression</displayName>
+<displayName lang="en" type="FSN">Family history: Puerperal depression (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Puerperal depression</displayName>
+</concept>
+<concept code="160406008">
+<displayName lang="en" type="PT">FH: Skin disease</displayName>
+<displayName lang="en" type="FSN">Family history: Skin disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Skin disease</displayName>
+</concept>
+<concept code="160407004">
+<displayName lang="en" type="PT">FH: Eczema</displayName>
+<displayName lang="en" type="FSN">Family history: Eczema (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Eczema</displayName>
+</concept>
+<concept code="160408009">
+<displayName lang="en" type="PT">FH: Psoriasis</displayName>
+<displayName lang="en" type="FSN">Family history: Psoriasis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Psoriasis</displayName>
+</concept>
+<concept code="160409001">
+<displayName lang="en" type="PT">FH: Alopecia</displayName>
+<displayName lang="en" type="FSN">Family history: Alopecia (situation)</displayName>
+<displayName lang="en" type="SY">FH: Baldness</displayName>
+<displayName lang="en" type="SY">Family history: Alopecia</displayName>
+</concept>
+<concept code="160410006">
+<displayName lang="en" type="PT">FH: Hirsutism</displayName>
+<displayName lang="en" type="FSN">Family history: Hirsutism (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Hirsutism</displayName>
+</concept>
+<concept code="160413008">
+<displayName lang="en" type="PT">FH: Rheumatoid arthritis</displayName>
+<displayName lang="en" type="FSN">Family history: Rheumatoid arthritis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Rheumatoid arthritis</displayName>
+</concept>
+<concept code="160414002">
+<displayName lang="en" type="PT">FH: Osteoarthritis</displayName>
+<displayName lang="en" type="FSN">Family history: Osteoarthritis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Osteoarthritis</displayName>
+</concept>
+<concept code="160417009">
+<displayName lang="en" type="PT">FH: Congenital anomaly</displayName>
+<displayName lang="en" type="FSN">Family history: Congenital anomaly (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Congenital anomaly</displayName>
+</concept>
+<concept code="160418004">
+<displayName lang="en" type="PT">Family history of anencephaly</displayName>
+<displayName lang="en" type="FSN">Family history: Anencephaly (situation)</displayName>
+<displayName lang="en" type="SY">FH: Anencephaly</displayName>
+<displayName lang="en" type="SY">Family history: Anencephaly</displayName>
+</concept>
+<concept code="160419007">
+<displayName lang="en" type="PT">Family history of Spina bifida</displayName>
+<displayName lang="en" type="FSN">Family history: Spina bifida (situation)</displayName>
+<displayName lang="en" type="SY">FH: Spina bifida</displayName>
+<displayName lang="en" type="SY">Family history of neural tube defect</displayName>
+<displayName lang="en" type="SY">Family history: Spina bifida</displayName>
+</concept>
+<concept code="160421002">
+<displayName lang="en" type="PT">FH: Congenital RS anomaly</displayName>
+<displayName lang="en" type="FSN">Family history of congenital respiratory system anomaly (situation)</displayName>
+<displayName lang="en" type="SY">Family history of congenital respiratory system anomaly</displayName>
+<displayName lang="en" type="SY">Family history: Congenital RS anomaly</displayName>
+</concept>
+<concept code="160422009">
+<displayName lang="en" type="PT">FH: Congenital GIT anomaly</displayName>
+<displayName lang="en" type="FSN">Family history: Congenital gastrointestinal tract anomaly (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Congenital gastrointestinal tract anomaly</displayName>
+</concept>
+<concept code="160423004">
+<displayName lang="en" type="PT">FH: Congenital GU anomaly</displayName>
+<displayName lang="en" type="FSN">Family history: Congenital genitourinary anomaly (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Congenital GU anomaly</displayName>
+<displayName lang="en" type="SY">Family history: Congenital genitourinary anomaly</displayName>
+</concept>
+<concept code="160424005">
+<displayName lang="en-GB" type="PT">FH: Cong. orthopaedic anomaly</displayName>
+<displayName lang="en" type="FSN">Family history: Congenital orthopedic anomaly (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Congenital orthopaedic anomaly</displayName>
+</concept>
+<concept code="160425006">
+<displayName lang="en" type="PT">FH: Chromosomal anomaly</displayName>
+<displayName lang="en" type="FSN">Family history: Chromosomal anomaly (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Chromosomal anomaly</displayName>
+</concept>
+<concept code="160428008">
+<displayName lang="en" type="PT">FH: Mother alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Mother alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mother alive and well</displayName>
+</concept>
+<concept code="160429000">
+<displayName lang="en" type="PT">FH: Mother alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Mother alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mother alive with problem</displayName>
+</concept>
+<concept code="160430005">
+<displayName lang="en" type="PT">FH: Mother dead</displayName>
+<displayName lang="en" type="FSN">Family history: Mother dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mother dead</displayName>
+</concept>
+<concept code="160431009">
+<displayName lang="en" type="PT">FH: Mother unwell</displayName>
+<displayName lang="en" type="FSN">Family history: Mother unwell (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mother unwell</displayName>
+</concept>
+<concept code="160434001">
+<displayName lang="en" type="PT">FH: Father alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Father alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Father alive and well</displayName>
+</concept>
+<concept code="160435000">
+<displayName lang="en" type="PT">FH: Father alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Father alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Father alive with problem</displayName>
+</concept>
+<concept code="160436004">
+<displayName lang="en" type="PT">FH: Father dead</displayName>
+<displayName lang="en" type="FSN">Family history: Father dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Father dead</displayName>
+</concept>
+<concept code="160437008">
+<displayName lang="en" type="PT">FH: Father deaf</displayName>
+<displayName lang="en" type="FSN">Family history: Father deaf (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Father deaf</displayName>
+</concept>
+<concept code="160440008">
+<displayName lang="en" type="PT">FH: Sister alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Sister alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Sister alive and well</displayName>
+</concept>
+<concept code="160441007">
+<displayName lang="en" type="PT">FH: Sister alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Sister alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Sister alive with problem</displayName>
+</concept>
+<concept code="160442000">
+<displayName lang="en" type="PT">FH: Sister dead</displayName>
+<displayName lang="en" type="FSN">Family history: Sister dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Sister dead</displayName>
+</concept>
+<concept code="160444004">
+<displayName lang="en" type="PT">FH: Brother</displayName>
+<displayName lang="en" type="FSN">Family history with explicit context pertaining to brother (situation)</displayName>
+<displayName lang="en" type="SY">Family history with explicit context pertaining to brother</displayName>
+<displayName lang="en" type="SY">Family history: Brother</displayName>
+<displayName lang="en" type="SY">Family historyof brother with explicit context</displayName>
+</concept>
+<concept code="160445003">
+<displayName lang="en" type="PT">FH: Brother alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Brother alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Brother alive and well</displayName>
+</concept>
+<concept code="160446002">
+<displayName lang="en" type="PT">FH: Brother alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Brother alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Brother alive with problem</displayName>
+</concept>
+<concept code="160447006">
+<displayName lang="en" type="PT">FH: Brother dead</displayName>
+<displayName lang="en" type="FSN">Family history: Brother dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Brother dead</displayName>
+</concept>
+<concept code="160450009">
+<displayName lang="en" type="PT">FH: Son alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Son alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Son alive and well</displayName>
+</concept>
+<concept code="160451008">
+<displayName lang="en" type="PT">FH: Son alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Son alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Son alive with problem</displayName>
+</concept>
+<concept code="160452001">
+<displayName lang="en" type="PT">FH: Son dead</displayName>
+<displayName lang="en" type="FSN">Family history: Son dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Son dead</displayName>
+</concept>
+<concept code="160455004">
+<displayName lang="en" type="PT">FH: Daughter alive and well</displayName>
+<displayName lang="en" type="FSN">Family history: Daughter alive and well (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Daughter alive and well</displayName>
+</concept>
+<concept code="160456003">
+<displayName lang="en" type="PT">FH: Daughter alive with problem</displayName>
+<displayName lang="en" type="FSN">Family history: Daughter alive with problem (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Daughter alive with problem</displayName>
+</concept>
+<concept code="160457007">
+<displayName lang="en" type="PT">FH: Daughter dead</displayName>
+<displayName lang="en" type="FSN">Family history: Daughter dead (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Daughter dead</displayName>
+</concept>
+<concept code="160462008">
+<displayName lang="en" type="PT">FH: Maternal grandmother</displayName>
+<displayName lang="en" type="FSN">Family history with explicit context pertaining to maternal grandmother (situation)</displayName>
+<displayName lang="en" type="SY">Family history with explicit context pertaining to maternal grandmother</displayName>
+<displayName lang="en" type="SY">Family history: Maternal grandmother</displayName>
+</concept>
+<concept code="160469004">
+<displayName lang="en" type="PT">FH: Allergy</displayName>
+<displayName lang="en" type="FSN">Family history: Allergy (situation)</displayName>
+<displayName lang="en" type="SY">Family history of allergy</displayName>
+<displayName lang="en" type="SY">Family history: Allergy</displayName>
+</concept>
+<concept code="160471004">
+<displayName lang="en" type="PT">FH: Sudden infant death</displayName>
+<displayName lang="en" type="FSN">Family history of sudden infant death syndrome (situation)</displayName>
+<displayName lang="en" type="SY">Family history of sudden infant death syndrome</displayName>
+<displayName lang="en" type="SY">Family history: Sudden infant death</displayName>
+<displayName lang="en" type="SY">H/O: cot death in family</displayName>
+<displayName lang="en" type="SY">History of - cot death in family</displayName>
+</concept>
+<concept code="160472006">
+<displayName lang="en" type="PT">FH: Non-accidental injury to child</displayName>
+<displayName lang="en" type="FSN">Family history: Non-accidental injury to child (situation)</displayName>
+<displayName lang="en" type="SY">FH: Child battering</displayName>
+<displayName lang="en" type="SY">Family history of non-accidental injury</displayName>
+<displayName lang="en" type="SY">Family history: Non-accidental injury to child</displayName>
+</concept>
+<concept code="160473001">
+<displayName lang="en" type="PT">FH: Death under 60 years</displayName>
+<displayName lang="en" type="FSN">Family history: Death under 60 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Death under 60 years</displayName>
+</concept>
+<concept code="160474007">
+<displayName lang="en" type="PT">FH: Atopy</displayName>
+<displayName lang="en" type="FSN">Family history: Atopy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Atopy</displayName>
+</concept>
+<concept code="160475008">
+<displayName lang="en" type="PT">Family history of consanguinity</displayName>
+<displayName lang="en" type="FSN">Family history: Consanguinity (situation)</displayName>
+<displayName lang="en" type="SY">FH: Consanguinity</displayName>
+<displayName lang="en" type="SY">Family history: Consanguinity</displayName>
+</concept>
+<concept code="160806000">
+<displayName lang="en" type="PT">Father remarried</displayName>
+<displayName lang="en" type="FSN">Father remarried (situation)</displayName>
+</concept>
+<concept code="160807009">
+<displayName lang="en" type="PT">Mother remarried</displayName>
+<displayName lang="en" type="FSN">Mother remarried (situation)</displayName>
+</concept>
+<concept code="160859003">
+<displayName lang="en" type="PT">Imprisonment of family member</displayName>
+<displayName lang="en" type="FSN">Imprisonment of family member (situation)</displayName>
+<displayName lang="en" type="SY">Member of family in prison</displayName>
+</concept>
+<concept code="160860008">
+<displayName lang="en" type="PT">Husband in prison</displayName>
+<displayName lang="en" type="FSN">Husband in prison (situation)</displayName>
+</concept>
+<concept code="160861007">
+<displayName lang="en" type="PT">Spouse arrested</displayName>
+<displayName lang="en" type="FSN">Spouse arrested (situation)</displayName>
+</concept>
+<concept code="160884000">
+<displayName lang="en" type="PT">Wife pregnant</displayName>
+<displayName lang="en" type="FSN">Wife pregnant (situation)</displayName>
+</concept>
+<concept code="160885004">
+<displayName lang="en" type="PT">Wife well</displayName>
+<displayName lang="en" type="FSN">Wife well (situation)</displayName>
+</concept>
+<concept code="160886003">
+<displayName lang="en" type="PT">Wife alive</displayName>
+<displayName lang="en" type="FSN">Wife alive (situation)</displayName>
+</concept>
+<concept code="160888002">
+<displayName lang="en" type="PT">Family member on protection register</displayName>
+<displayName lang="en" type="FSN">Family member on protection register (situation)</displayName>
+</concept>
+<concept code="160890001">
+<displayName lang="en" type="PT">Family member removed from protection register</displayName>
+<displayName lang="en" type="FSN">Family member removed from protection register (situation)</displayName>
+</concept>
+<concept code="160891002">
+<displayName lang="en" type="PT">Vulnerable child in family</displayName>
+<displayName lang="en" type="FSN">Vulnerable child in family (situation)</displayName>
+</concept>
+<concept code="160947001">
+<displayName lang="en" type="PT">Parent is handicapped</displayName>
+<displayName lang="en" type="FSN">Parent is handicapped (situation)</displayName>
+<displayName lang="en" type="SY">Parent has a disability</displayName>
+</concept>
+<concept code="160948006">
+<displayName lang="en" type="PT">Spouse is handicapped</displayName>
+<displayName lang="en" type="FSN">Spouse is handicapped (situation)</displayName>
+<displayName lang="en" type="SY">Disabled spouse</displayName>
+</concept>
+<concept code="160949003">
+<displayName lang="en" type="PT">Sibling is handicapped</displayName>
+<displayName lang="en" type="FSN">Sibling is handicapped (situation)</displayName>
+<displayName lang="en" type="SY">Sibling has disability</displayName>
+</concept>
+<concept code="160953001">
+<displayName lang="en" type="PT">Family history of acute medical disorder</displayName>
+<displayName lang="en" type="FSN">Family history of acute medical disorder (situation)</displayName>
+<displayName lang="en" type="SY">Relative - acute medical disorder</displayName>
+</concept>
+<concept code="161062006">
+<displayName lang="en" type="PT">Child abuse in family</displayName>
+<displayName lang="en" type="FSN">Child abuse in family (situation)</displayName>
+</concept>
+<concept code="161067000">
+<displayName lang="en" type="PT">Legal problem in family</displayName>
+<displayName lang="en" type="FSN">Legal problem in family (situation)</displayName>
+</concept>
+<concept code="161075006">
+<displayName lang="en" type="PT">Spouse works away from home</displayName>
+<displayName lang="en" type="FSN">Spouse works away from home (situation)</displayName>
+</concept>
+<concept code="161077003">
+<displayName lang="en" type="PT">Father smokes</displayName>
+<displayName lang="en" type="FSN">Father smokes (situation)</displayName>
+</concept>
+<concept code="161078008">
+<displayName lang="en" type="PT">Mother smokes</displayName>
+<displayName lang="en" type="FSN">Mother smokes (situation)</displayName>
+</concept>
+<concept code="161079000">
+<displayName lang="en" type="PT">Both parents smoke</displayName>
+<displayName lang="en" type="FSN">Both parents smoke (situation)</displayName>
+</concept>
+<concept code="170987007">
+<displayName lang="en-GB" type="PT">Family counselled</displayName>
+<displayName lang="en" type="FSN">Family counseled (situation)</displayName>
+</concept>
+<concept code="170988002">
+<displayName lang="en-GB" type="PT">Relative counselled</displayName>
+<displayName lang="en" type="FSN">Relative counseled (situation)</displayName>
+</concept>
+<concept code="183042002">
+<displayName lang="en" type="PT">Spouse reassured</displayName>
+<displayName lang="en" type="FSN">Spouse reassured (situation)</displayName>
+</concept>
+<concept code="183044001">
+<displayName lang="en" type="PT">Relatives reassured</displayName>
+<displayName lang="en" type="FSN">Relatives reassured (situation)</displayName>
+</concept>
+<concept code="248541003">
+<displayName lang="en" type="PT">Relative with terminal illness</displayName>
+<displayName lang="en" type="FSN">Relative with terminal illness (situation)</displayName>
+</concept>
+<concept code="266882009">
+<displayName lang="en-GB" type="PT">No FH: Ischaemic heart disease</displayName>
+<displayName lang="en" type="FSN">No family history: Ischemic heart disease (situation)</displayName>
+<displayName lang="en-GB" type="SY">No family history of ischaemic heart disease</displayName>
+<displayName lang="en-GB" type="SY">No family history: Ischaemic heart disease</displayName>
+</concept>
+<concept code="266883004">
+<displayName lang="en" type="PT">Family history of neoplasm</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm (situation)</displayName>
+<displayName lang="en" type="SY">FH: Neoplasia - *</displayName>
+<displayName lang="en" type="SY">FH: Neoplasm - *</displayName>
+</concept>
+<concept code="266885006">
+<displayName lang="en" type="PT">Family history: neoplasm - trachea/bronchus/lung</displayName>
+<displayName lang="en" type="FSN">Family history: neoplasm - trachea/bronchus/lung (situation)</displayName>
+<displayName lang="en" type="SY">FH: neoplasm - trachea/bronchus/lung</displayName>
+</concept>
+<concept code="266886007">
+<displayName lang="en" type="PT">FH: neoplasm of female genital organ</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm of female genital organ (situation)</displayName>
+<displayName lang="en" type="SY">Family history of neoplasm of female genital organ</displayName>
+<displayName lang="en" type="SY">Family history of neoplasm of female genital tract</displayName>
+</concept>
+<concept code="266887003">
+<displayName lang="en" type="PT">FH: Raised blood lipids</displayName>
+<displayName lang="en" type="FSN">Family history: Raised blood lipids (situation)</displayName>
+<displayName lang="en" type="SY">FH: Fats raised</displayName>
+<displayName lang="en" type="SY">Family history: Raised blood lipids</displayName>
+</concept>
+<concept code="266888008">
+<displayName lang="en-GB" type="PT">FH: Anaemia</displayName>
+<displayName lang="en" type="FSN">Family history: Anemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Anaemia</displayName>
+</concept>
+<concept code="266889000">
+<displayName lang="en-GB" type="PT">FH: Haemophilia</displayName>
+<displayName lang="en" type="FSN">Family history: Hemophilia (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of haemophilia</displayName>
+<displayName lang="en-GB" type="SY">Family history: Haemophilia</displayName>
+</concept>
+<concept code="266890009">
+<displayName lang="en" type="PT">Family history of alcoholism</displayName>
+<displayName lang="en" type="FSN">Family history of alcoholism (situation)</displayName>
+<displayName lang="en" type="SY">Alcoholism in family</displayName>
+<displayName lang="en" type="SY">FH - Alcoholism</displayName>
+</concept>
+<concept code="266891008">
+<displayName lang="en" type="PT">FH: CNS disorder</displayName>
+<displayName lang="en" type="FSN">Family history of central nervous system disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of central nervous system disorder</displayName>
+<displayName lang="en" type="SY">Family history: CNS disorder</displayName>
+</concept>
+<concept code="266893006">
+<displayName lang="en" type="PT">FH: Blindness/low vision</displayName>
+<displayName lang="en" type="FSN">Family history: Blindness/low vision (situation)</displayName>
+<displayName lang="en" type="SY">Family history of impaired vision</displayName>
+<displayName lang="en" type="SY">Family history: Blindness/low vision</displayName>
+</concept>
+<concept code="266894000">
+<displayName lang="en" type="PT">FH: Cardiovascular disease</displayName>
+<displayName lang="en" type="FSN">Family history: Cardiovascular disease (situation)</displayName>
+<displayName lang="en" type="SY">FH: CVS disorder</displayName>
+<displayName lang="en" type="SY">Family history of cardiovascular disease</displayName>
+<displayName lang="en" type="SY">Family history: Cardiovascular disease</displayName>
+</concept>
+<concept code="266895004">
+<displayName lang="en-GB" type="PT">FH: Ischaemic heart disease at less than 60 years</displayName>
+<displayName lang="en" type="FSN">Family history: Ischemic heart disease at less than 60 years (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Ischaemic heart disease at less than 60 years</displayName>
+</concept>
+<concept code="266896003">
+<displayName lang="en-GB" type="PT">FH: Ischaemic heart disease at greater than 60 years</displayName>
+<displayName lang="en" type="FSN">Family history: Ischemic heart disease at greater than 60 years (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history: Ischaemic heart disease at greater than 60 years</displayName>
+</concept>
+<concept code="266897007">
+<displayName lang="en" type="PT">FH: Myocardial infarction</displayName>
+<displayName lang="en" type="FSN">Family history: Myocardial infarction (situation)</displayName>
+<displayName lang="en" type="SY">Family history of myocardial infarction</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarction</displayName>
+</concept>
+<concept code="266898002">
+<displayName lang="en" type="PT">FH: Respiratory disease</displayName>
+<displayName lang="en" type="FSN">Family history: Respiratory disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of respiratory disease</displayName>
+<displayName lang="en" type="SY">Family history: Respiratory disease</displayName>
+</concept>
+<concept code="266899005">
+<displayName lang="en" type="PT">FH: Bronchitis/COAD</displayName>
+<displayName lang="en" type="FSN">Family history of bronchitis or chronic obstructive airway disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bronchitis or chronic obstructive airway disease</displayName>
+<displayName lang="en" type="SY">Family history: Bronchitis/COAD</displayName>
+</concept>
+<concept code="266900000">
+<displayName lang="en" type="PT">FH: Peptic ulceration</displayName>
+<displayName lang="en" type="FSN">Family history: Peptic ulceration (situation)</displayName>
+<displayName lang="en" type="SY">FH: Peptic ulcer</displayName>
+<displayName lang="en" type="SY">Family history of peptic ulcer disease</displayName>
+<displayName lang="en" type="SY">Family history: Peptic ulceration</displayName>
+</concept>
+<concept code="266901001">
+<displayName lang="en" type="PT">FH: Colitis</displayName>
+<displayName lang="en" type="FSN">Family history: Colitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Colitis</displayName>
+</concept>
+<concept code="266902008">
+<displayName lang="en" type="PT">FH: Liver disease</displayName>
+<displayName lang="en" type="FSN">Family history: Liver disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of liver disorder</displayName>
+<displayName lang="en" type="SY">Family history: Liver disease</displayName>
+</concept>
+<concept code="266903003">
+<displayName lang="en" type="PT">FH: Biliary disease</displayName>
+<displayName lang="en" type="FSN">Family history: Biliary disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of biliary tract disorder</displayName>
+<displayName lang="en" type="SY">Family history: Biliary disease</displayName>
+</concept>
+<concept code="266904009">
+<displayName lang="en" type="PT">FH: Genitourinary disease</displayName>
+<displayName lang="en" type="FSN">Family history: Genitourinary disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Genitourinary disease</displayName>
+</concept>
+<concept code="266906006">
+<displayName lang="en" type="PT">FH: Multiple pregnancy</displayName>
+<displayName lang="en" type="FSN">Family history: Multiple pregnancy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Multiple pregnancy</displayName>
+</concept>
+<concept code="266907002">
+<displayName lang="en" type="PT">FH: Musculoskeletal disease</displayName>
+<displayName lang="en" type="FSN">Family history: Musculoskeletal disease (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: Orthopaedic disorder</displayName>
+<displayName lang="en" type="SY">Family history of musculoskeletal disease</displayName>
+<displayName lang="en" type="SY">Family history: Musculoskeletal disease</displayName>
+</concept>
+<concept code="266908007">
+<displayName lang="en" type="PT">Family history of congenital anomaly of cardiovascular system</displayName>
+<displayName lang="en" type="FSN">Family history of congenital anomaly of cardiovascular system (situation)</displayName>
+<displayName lang="en" type="SY">FH: Congenital CVS anomaly</displayName>
+<displayName lang="en" type="SY">Family history: Congenital CVS anomaly</displayName>
+</concept>
+<concept code="266947009">
+<displayName lang="en" type="PT">Parents separated</displayName>
+<displayName lang="en" type="FSN">Parents separated (situation)</displayName>
+</concept>
+<concept code="266966009">
+<displayName lang="en" type="PT">Family illness</displayName>
+<displayName lang="en" type="FSN">Family illness (situation)</displayName>
+<displayName lang="en" type="SY">Relative ill</displayName>
+</concept>
+<concept code="266967000">
+<displayName lang="en" type="PT">Family history of physical handicap</displayName>
+<displayName lang="en" type="FSN">Family history of physical handicap (situation)</displayName>
+<displayName lang="en" type="SY">Relative - physical handicap</displayName>
+</concept>
+<concept code="266969002">
+<displayName lang="en" type="PT">Family history of psychotic illness</displayName>
+<displayName lang="en" type="FSN">Family history of psychotic illness (situation)</displayName>
+<displayName lang="en" type="SY">Relative - psychotic illness</displayName>
+</concept>
+<concept code="266970001">
+<displayName lang="en" type="PT">Family history of chronic medical disorder</displayName>
+<displayName lang="en" type="FSN">Family history of chronic medical disorder (situation)</displayName>
+<displayName lang="en" type="SY">Relative - chronic medical disorder</displayName>
+</concept>
+<concept code="266971002">
+<displayName lang="en" type="PT">Spouse unwell</displayName>
+<displayName lang="en" type="FSN">Spouse unwell (situation)</displayName>
+</concept>
+<concept code="268858006">
+<displayName lang="en" type="PT">Maternal injury</displayName>
+<displayName lang="en" type="FSN">Maternal injury (situation)</displayName>
+</concept>
+<concept code="268861007">
+<displayName lang="en" type="PT">Maternal placental insufficiency</displayName>
+<displayName lang="en" type="FSN">Maternal placental insufficiency (situation)</displayName>
+</concept>
+<concept code="268862000">
+<displayName lang="en" type="PT">Maternal prolapsed cord</displayName>
+<displayName lang="en" type="FSN">Maternal prolapsed cord (situation)</displayName>
+</concept>
+<concept code="271388000">
+<displayName lang="en" type="PT">Family history of mental retardation</displayName>
+<displayName lang="en" type="FSN">Family history of mental retardation (situation)</displayName>
+<displayName lang="en" type="SY">FH: Mental retardation</displayName>
+<displayName lang="en" type="SY">Family history: Mental retardation</displayName>
+</concept>
+<concept code="275101005">
+<displayName lang="en" type="PT">FH: Mental handicap</displayName>
+<displayName lang="en" type="FSN">Family history: Mental handicap (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mental handicap</displayName>
+</concept>
+<concept code="275102003">
+<displayName lang="en" type="PT">Family history of learning disability</displayName>
+<displayName lang="en" type="FSN">Family history of learning disability (situation)</displayName>
+<displayName lang="en" type="SY">FH learning disability</displayName>
+<displayName lang="en" type="SY">Family history of learning difficulties</displayName>
+</concept>
+<concept code="275104002">
+<displayName lang="en" type="PT">Family history of stroke</displayName>
+<displayName lang="en" type="FSN">Family history of stroke (situation)</displayName>
+<displayName lang="en" type="SY">FH: CVA</displayName>
+<displayName lang="en" type="SY">FH: Stroke</displayName>
+<displayName lang="en" type="SY">Family history of CVA</displayName>
+<displayName lang="en" type="SY">Family history of cerebrovascular accident</displayName>
+</concept>
+<concept code="275105001">
+<displayName lang="en" type="PT">Smoker in the family</displayName>
+<displayName lang="en" type="FSN">Smoker in the family (situation)</displayName>
+</concept>
+<concept code="275106000">
+<displayName lang="en" type="PT">No FH: Angina</displayName>
+<displayName lang="en" type="FSN">No family history: Angina (situation)</displayName>
+<displayName lang="en" type="SY">No family history: Angina</displayName>
+</concept>
+<concept code="275108004">
+<displayName lang="en" type="PT">FH: Stomach cancer</displayName>
+<displayName lang="en" type="FSN">Family history: Stomach cancer (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Stomach cancer</displayName>
+</concept>
+<concept code="275109007">
+<displayName lang="en" type="PT">FH: Bowel cancer</displayName>
+<displayName lang="en" type="FSN">Family history: Bowel cancer (situation)</displayName>
+<displayName lang="en" type="SY">Family history of malignant neoplasm of intestine</displayName>
+<displayName lang="en" type="SY">Family history: Bowel cancer</displayName>
+</concept>
+<concept code="275110002">
+<displayName lang="en" type="PT">FH: Bronchus cancer</displayName>
+<displayName lang="en" type="FSN">Family history: Bronchus cancer (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bronchial cancer</displayName>
+<displayName lang="en" type="SY">Family history: Bronchus cancer</displayName>
+</concept>
+<concept code="275111003">
+<displayName lang="en" type="PT">FH: Ovarian carcinoma</displayName>
+<displayName lang="en" type="FSN">Family history: Ovarian carcinoma (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Ovarian carcinoma</displayName>
+</concept>
+<concept code="275113000">
+<displayName lang="en-GB" type="PT">Spouse haemophiliac</displayName>
+<displayName lang="en" type="FSN">Spouse hemophiliac (situation)</displayName>
+</concept>
+<concept code="275114006">
+<displayName lang="en" type="PT">Alcoholic offspring</displayName>
+<displayName lang="en" type="FSN">Alcoholic offspring (situation)</displayName>
+</concept>
+<concept code="275115007">
+<displayName lang="en" type="PT">Alcoholic in the family</displayName>
+<displayName lang="en" type="FSN">Alcoholic in the family (situation)</displayName>
+</concept>
+<concept code="275117004">
+<displayName lang="en" type="PT">FH: Parkinsonism</displayName>
+<displayName lang="en" type="FSN">Family history: Parkinsonism (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Parkinsonism</displayName>
+</concept>
+<concept code="275118009">
+<displayName lang="en" type="PT">FH: Blindness</displayName>
+<displayName lang="en" type="FSN">Family history: Blindness (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Blindness</displayName>
+</concept>
+<concept code="275119001">
+<displayName lang="en" type="PT">FH: Low vision</displayName>
+<displayName lang="en" type="FSN">Family history: Low vision (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Low vision</displayName>
+</concept>
+<concept code="275120007">
+<displayName lang="en" type="PT">FH: Cardiac disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Cardiac disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Heart disorder</displayName>
+<displayName lang="en" type="SY">FH: cardiac disorder</displayName>
+<displayName lang="en" type="SY">FH: heart disorder</displayName>
+<displayName lang="en" type="SY">Family history: Cardiac disorder</displayName>
+</concept>
+<concept code="275121006">
+<displayName lang="en" type="PT">FH: Angina</displayName>
+<displayName lang="en" type="FSN">Family history: Angina (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Angina</displayName>
+</concept>
+<concept code="275122004">
+<displayName lang="en" type="PT">FH: Myocardial infarction at less than 60</displayName>
+<displayName lang="en" type="FSN">Family history: Myocardial infarction at less than 60 (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarction at less than 60</displayName>
+</concept>
+<concept code="275123009">
+<displayName lang="en" type="PT">FH: Myocardial infarction at greater than 60</displayName>
+<displayName lang="en" type="FSN">Family history: Myocardial infarction at greater than 60 (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarction at greater than 60</displayName>
+</concept>
+<concept code="275124003">
+<displayName lang="en" type="PT">FH: Coronary thrombosis</displayName>
+<displayName lang="en" type="FSN">Family history: Coronary thrombosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Coronary thrombosis</displayName>
+</concept>
+<concept code="275125002">
+<displayName lang="en" type="PT">FH: Bronchitis</displayName>
+<displayName lang="en" type="FSN">Family history: Bronchitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Bronchitis</displayName>
+</concept>
+<concept code="275127005">
+<displayName lang="en" type="PT">FH: Duodenal ulcer</displayName>
+<displayName lang="en" type="FSN">Family history: Duodenal ulcer (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Duodenal ulcer</displayName>
+</concept>
+<concept code="275128000">
+<displayName lang="en" type="PT">FH: Gastric ulcer</displayName>
+<displayName lang="en" type="FSN">Family history: Gastric ulcer (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Gastric ulcer</displayName>
+</concept>
+<concept code="275129008">
+<displayName lang="en" type="PT">FH: Ulcerative colitis</displayName>
+<displayName lang="en" type="FSN">Family history: Ulcerative colitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of ulcerative colitis</displayName>
+<displayName lang="en" type="SY">Family history: Ulcerative colitis</displayName>
+</concept>
+<concept code="275130003">
+<displayName lang="en" type="PT">FH: Hepatitis</displayName>
+<displayName lang="en" type="FSN">Family history: Hepatitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Hepatitis</displayName>
+</concept>
+<concept code="275131004">
+<displayName lang="en" type="PT">FH: Gallbladder disease</displayName>
+<displayName lang="en" type="FSN">Family history: Gallbladder disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Gallbladder disease</displayName>
+</concept>
+<concept code="275132006">
+<displayName lang="en-GB" type="PT">Family history: Gynaecological problem</displayName>
+<displayName lang="en" type="FSN">Family history: Gynecological problem (situation)</displayName>
+</concept>
+<concept code="275133001">
+<displayName lang="en" type="PT">FH: Twin pregnancy</displayName>
+<displayName lang="en" type="FSN">Family history: Twin pregnancy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Twin pregnancy</displayName>
+</concept>
+<concept code="275134007">
+<displayName lang="en" type="PT">FH: Arthritis</displayName>
+<displayName lang="en" type="FSN">Family history: Arthritis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Arthritis</displayName>
+</concept>
+<concept code="275136009">
+<displayName lang="en" type="PT">FH: Serious disease</displayName>
+<displayName lang="en" type="FSN">Family history: Serious disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Serious disease</displayName>
+</concept>
+<concept code="275140000">
+<displayName lang="en" type="PT">Father left home</displayName>
+<displayName lang="en" type="FSN">Father left home (situation)</displayName>
+</concept>
+<concept code="275141001">
+<displayName lang="en" type="PT">Mother left home</displayName>
+<displayName lang="en" type="FSN">Mother left home (situation)</displayName>
+</concept>
+<concept code="275142008">
+<displayName lang="en" type="PT">Sick child</displayName>
+<displayName lang="en" type="FSN">Sick child (situation)</displayName>
+</concept>
+<concept code="275911004">
+<displayName lang="en" type="PT">FH: Angina at greater than 60 years</displayName>
+<displayName lang="en" type="FSN">Family history: Angina at greater than 60 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Angina at greater than 60 years</displayName>
+</concept>
+<concept code="275932007">
+<displayName lang="en" type="PT">FH: Angina at less than 60 years</displayName>
+<displayName lang="en" type="FSN">Family history: Angina at less than 60 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Angina at less than 60 years</displayName>
+</concept>
+<concept code="275937001">
+<displayName lang="en" type="PT">Family history of cancer</displayName>
+<displayName lang="en" type="FSN">Family history of cancer (situation)</displayName>
+<displayName lang="en" type="SY">FH: Cancer - *</displayName>
+<displayName lang="en" type="SY">FH: Malignant disease</displayName>
+</concept>
+<concept code="275938006">
+<displayName lang="en" type="PT">Family history: Carcinoma - Neoplasm</displayName>
+<displayName lang="en" type="FSN">Family history: Carcinoma - Neoplasm (situation)</displayName>
+<displayName lang="en" type="SY">FH: Carcinoma - Neoplasm</displayName>
+</concept>
+<concept code="275939003">
+<displayName lang="en-GB" type="PT">Family history of hypertriglyceridaemia</displayName>
+<displayName lang="en" type="FSN">Family history: Triglyceride high (situation)</displayName>
+<displayName lang="en" type="SY">FH: Triglyceride high</displayName>
+<displayName lang="en" type="SY">Family history: Triglyceride high</displayName>
+</concept>
+<concept code="275940001">
+<displayName lang="en" type="PT">FH: Brain disorder</displayName>
+<displayName lang="en" type="FSN">Family history: Brain disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Brain disorder</displayName>
+</concept>
+<concept code="281020005">
+<displayName lang="en" type="PT">Handicapped relative</displayName>
+<displayName lang="en" type="FSN">Family history of handicap (situation)</displayName>
+<displayName lang="en" type="SY">Family history of handicap</displayName>
+</concept>
+<concept code="281022002">
+<displayName lang="en" type="PT">Down&apos;s child in family</displayName>
+<displayName lang="en" type="FSN">Down&apos;s child in family (situation)</displayName>
+<displayName lang="en" type="SY">Down child in family</displayName>
+</concept>
+<concept code="281575007">
+<displayName lang="en" type="PT">Family social history</displayName>
+<displayName lang="en" type="FSN">Family social history (situation)</displayName>
+</concept>
+<concept code="281577004">
+<displayName lang="en" type="PT">Parent unemployed</displayName>
+<displayName lang="en" type="FSN">Parent unemployed (situation)</displayName>
+</concept>
+<concept code="281662004">
+<displayName lang="en" type="PT">Unemployed father</displayName>
+<displayName lang="en" type="FSN">Unemployed father (situation)</displayName>
+</concept>
+<concept code="281663009">
+<displayName lang="en" type="PT">Unemployed mother</displayName>
+<displayName lang="en" type="FSN">Unemployed mother (situation)</displayName>
+</concept>
+<concept code="281666001">
+<displayName lang="en" type="PT">Family history of disorder</displayName>
+<displayName lang="en" type="FSN">Family history of disorder (situation)</displayName>
+</concept>
+<concept code="281667005">
+<displayName lang="en" type="PT">Maternal history of disorder</displayName>
+<displayName lang="en" type="FSN">Maternal history of disorder (situation)</displayName>
+</concept>
+<concept code="288249001">
+<displayName lang="en" type="PT">Maternal medical problem</displayName>
+<displayName lang="en" type="FSN">Maternal medical problem (situation)</displayName>
+</concept>
+<concept code="288251002">
+<displayName lang="en" type="PT">Maternal renal/urinary disorder</displayName>
+<displayName lang="en" type="FSN">Maternal renal/urinary disorder (situation)</displayName>
+</concept>
+<concept code="288252009">
+<displayName lang="en" type="PT">Maternal infection</displayName>
+<displayName lang="en" type="FSN">Maternal infection (situation)</displayName>
+</concept>
+<concept code="288254005">
+<displayName lang="en" type="PT">Maternal nutritional disorder</displayName>
+<displayName lang="en" type="FSN">Maternal nutritional disorder (situation)</displayName>
+</concept>
+<concept code="288255006">
+<displayName lang="en" type="PT">Maternal surgical operation</displayName>
+<displayName lang="en" type="FSN">Maternal surgical operation (situation)</displayName>
+</concept>
+<concept code="288256007">
+<displayName lang="en" type="PT">H/O - maternal psychiatric problem</displayName>
+<displayName lang="en" type="FSN">History of maternal psychiatric problem (situation)</displayName>
+<displayName lang="en" type="SY">History of maternal psychiatric problem</displayName>
+</concept>
+<concept code="288264001">
+<displayName lang="en-GB" type="PT">Maternal anaesthetic/analgesic problem</displayName>
+<displayName lang="en" type="FSN">Maternal anesthetic/analgesic problem (situation)</displayName>
+</concept>
+<concept code="289916006">
+<displayName lang="en" type="PT">Family history of kidney disease</displayName>
+<displayName lang="en" type="FSN">Family history of kidney disease (situation)</displayName>
+<displayName lang="en" type="SY">FH: - kidney disorder</displayName>
+<displayName lang="en" type="SY">FH: Kidney disorder</displayName>
+<displayName lang="en" type="SY">FH: Renal disorder</displayName>
+</concept>
+<concept code="297224001">
+<displayName lang="en" type="PT">Maternal pyrexia</displayName>
+<displayName lang="en" type="FSN">Maternal pyrexia (situation)</displayName>
+</concept>
+<concept code="297239000">
+<displayName lang="en" type="PT">Family history of neurological disorder</displayName>
+<displayName lang="en" type="FSN">Family history of neurological disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Nervous system disorder</displayName>
+<displayName lang="en" type="SY">Family history: nervous system disorder</displayName>
+</concept>
+<concept code="297240003">
+<displayName lang="en" type="PT">Family history of Parkinson&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Family history of Parkinson&apos;s disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Parkinson disease</displayName>
+</concept>
+<concept code="297241004">
+<displayName lang="en" type="PT">Family history of chronic obstructive lung disease</displayName>
+<displayName lang="en" type="FSN">Family history of chronic obstructive lung disease (situation)</displayName>
+<displayName lang="en" type="SY">FH: COAD</displayName>
+<displayName lang="en" type="SY">Family history: COAD</displayName>
+</concept>
+<concept code="297242006">
+<displayName lang="en-GB" type="PT">Family history of ischaemic heart disease</displayName>
+<displayName lang="en" type="FSN">Family history of ischemic heart disease (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: Ischaemic heart disease</displayName>
+</concept>
+<concept code="297243001">
+<displayName lang="en-GB" type="PT">Family history of pernicious anaemia</displayName>
+<displayName lang="en" type="FSN">Family history of pernicious anemia (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: Addisonian anaemia</displayName>
+</concept>
+<concept code="297244007">
+<displayName lang="en" type="PT">Family history of urological disorder</displayName>
+<displayName lang="en" type="FSN">Family history of urological disorder (situation)</displayName>
+</concept>
+<concept code="297245008">
+<displayName lang="en" type="PT">Family history of male genital tract disorder</displayName>
+<displayName lang="en" type="FSN">Family history of male genital tract disorder (situation)</displayName>
+</concept>
+<concept code="297246009">
+<displayName lang="en" type="PT">Family history of female genital tract disorder</displayName>
+<displayName lang="en" type="FSN">Family history of female genital tract disorder (situation)</displayName>
+</concept>
+<concept code="297247000">
+<displayName lang="en" type="PT">Family history of neoplasm of lung</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm of lung (situation)</displayName>
+</concept>
+<concept code="297250002">
+<displayName lang="en" type="PT">No family history of stroke</displayName>
+<displayName lang="en" type="FSN">No family history of stroke (situation)</displayName>
+</concept>
+<concept code="300933005">
+<displayName lang="en" type="PT">FH: Autoimmune disease</displayName>
+<displayName lang="en" type="FSN">Family history: Autoimmune disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Autoimmune disease</displayName>
+</concept>
+<concept code="300934004">
+<displayName lang="en" type="PT">FH: Hypothyroidism</displayName>
+<displayName lang="en" type="FSN">Family history: Hypothyroidism (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Hypothyroidism</displayName>
+</concept>
+<concept code="302172001">
+<displayName lang="en" type="PT">Marital status of parents</displayName>
+<displayName lang="en" type="FSN">Marital status of parents (situation)</displayName>
+</concept>
+<concept code="308746008">
+<displayName lang="en" type="PT">FH: Spherocytosis</displayName>
+<displayName lang="en" type="FSN">Family history: Spherocytosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Spherocytosis</displayName>
+</concept>
+<concept code="309631001">
+<displayName lang="en" type="PT">Family history of helminth infection</displayName>
+<displayName lang="en" type="FSN">Family history of helminth infection (situation)</displayName>
+<displayName lang="en" type="SY">Worms in the family</displayName>
+</concept>
+<concept code="310247005">
+<displayName lang="en" type="PT">FH: Thrombosis</displayName>
+<displayName lang="en" type="FSN">Family history: Thrombosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Thrombosis</displayName>
+</concept>
+<concept code="310251007">
+<displayName lang="en" type="PT">No FH: Osteoporosis</displayName>
+<displayName lang="en" type="FSN">No family history: Osteoporosis (situation)</displayName>
+<displayName lang="en" type="SY">No family history: Osteoporosis</displayName>
+</concept>
+<concept code="312824007">
+<displayName lang="en" type="PT">Family history of cancer of colon</displayName>
+<displayName lang="en" type="FSN">Family history of cancer of colon (situation)</displayName>
+</concept>
+<concept code="313102001">
+<displayName lang="en" type="PT">Family history of neoplasm of breast</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm of breast (situation)</displayName>
+</concept>
+<concept code="313342001">
+<displayName lang="en" type="PT">No FH: Venous thrombosis</displayName>
+<displayName lang="en" type="FSN">No family history: Venous thrombosis (situation)</displayName>
+<displayName lang="en" type="SY">No family history: Venous thrombosis</displayName>
+</concept>
+<concept code="313376005">
+<displayName lang="en" type="PT">No FH: breast carcinoma</displayName>
+<displayName lang="en" type="FSN">No family history: breast carcinoma (situation)</displayName>
+<displayName lang="en" type="SY">No family history: breast carcinoma</displayName>
+</concept>
+<concept code="315619001">
+<displayName lang="en" type="PT">FH myocardial infarction male first degree age known</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in male relative of first degree, age known (situation)</displayName>
+<displayName lang="en" type="SY">Family history of myocardial infarction in male relative of first degree, age known</displayName>
+</concept>
+<concept code="315620007">
+<displayName lang="en" type="PT">FH myocardial infarction male first degree age unknown</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in male relative of first degree, age unknown (situation)</displayName>
+<displayName lang="en" type="SY">Family history of myocardial infarction in male relative of first degree, age unknown</displayName>
+</concept>
+<concept code="315621006">
+<displayName lang="en" type="PT">FH myocardial infarction female first degree age known</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in female relative of first degree, age known (situation)</displayName>
+<displayName lang="en" type="SY">Family history of myocardial infarction in female relative of first degree, age known</displayName>
+</concept>
+<concept code="315622004">
+<displayName lang="en" type="PT">FH myocardial infarction female first degree age unknown</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in female relative of first degree, age unknown (situation)</displayName>
+<displayName lang="en" type="SY">Family history of myocardial infarction in female relative of first degree, age unknown</displayName>
+</concept>
+<concept code="315623009">
+<displayName lang="en" type="PT">FH angina male first degree age known</displayName>
+<displayName lang="en" type="FSN">Family history of angina in male relative of first degree, age known (situation)</displayName>
+<displayName lang="en" type="SY">Family history of angina in male relative of first degree, age known</displayName>
+</concept>
+<concept code="315625002">
+<displayName lang="en" type="PT">FH angina male first degree age unknown</displayName>
+<displayName lang="en" type="FSN">Family history of angina in male relative of first degree, age unknown (situation)</displayName>
+<displayName lang="en" type="SY">Family history of angina in male relative of first degree, age unknown</displayName>
+</concept>
+<concept code="315626001">
+<displayName lang="en" type="PT">FH angina female first degree age known</displayName>
+<displayName lang="en" type="FSN">Family history of angina in female relative of first degree, age known (situation)</displayName>
+<displayName lang="en" type="SY">Family history of angina in female relative of first degree, age known</displayName>
+</concept>
+<concept code="315627005">
+<displayName lang="en" type="PT">FH angina female first degree age unknown</displayName>
+<displayName lang="en" type="FSN">Family history of angina in female relative of first degree, age unknown (situation)</displayName>
+<displayName lang="en" type="SY">Family history of angina in female relative of first degree, age unknown</displayName>
+</concept>
+<concept code="390794009">
+<displayName lang="en" type="PT">FH: Dyslexia</displayName>
+<displayName lang="en" type="FSN">Family history: Dyslexia (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Dyslexia</displayName>
+</concept>
+<concept code="390915000">
+<displayName lang="en" type="PT">FH: Cardiomyopathy</displayName>
+<displayName lang="en" type="FSN">Family history: Cardiomyopathy (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Cardiomyopathy</displayName>
+</concept>
+<concept code="391096007">
+<displayName lang="en" type="PT">FH: Maternal hip fracture</displayName>
+<displayName lang="en" type="FSN">Family history: Maternal hip fracture (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Maternal hip fracture</displayName>
+</concept>
+<concept code="391097003">
+<displayName lang="en" type="PT">FH: Hip fracture in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history: Hip fracture in first degree relative (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Hip fracture in first degree relative</displayName>
+</concept>
+<concept code="391098008">
+<displayName lang="en" type="PT">FH: Fragility fracture</displayName>
+<displayName lang="en" type="FSN">Family history: Fragility fracture (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Fragility fracture</displayName>
+</concept>
+<concept code="394877006">
+<displayName lang="en" type="PT">FH: Alzheimer&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Family history: Alzheimer&apos;s disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Alzheimers</displayName>
+<displayName lang="en" type="SY">Family history: Alzheimer disease</displayName>
+<displayName lang="en" type="SY">Family history: Alzheimer&apos;s disease</displayName>
+</concept>
+<concept code="394885002">
+<displayName lang="en" type="PT">Parents do not smoke</displayName>
+<displayName lang="en" type="FSN">Parents do not smoke (situation)</displayName>
+</concept>
+<concept code="394990003">
+<displayName lang="en" type="PT">FH: Ankylosing spondylitis</displayName>
+<displayName lang="en" type="FSN">Family history: Ankylosing spondylitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Ankylosing spondylitis</displayName>
+</concept>
+<concept code="395089003">
+<displayName lang="en" type="PT">FH: Neoplasm of CNS</displayName>
+<displayName lang="en" type="FSN">Family history: Neoplasm of central nervous system (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Neoplasm of CNS</displayName>
+<displayName lang="en" type="SY">Family history: Neoplasm of central nervous system</displayName>
+</concept>
+<concept code="395125009">
+<displayName lang="en" type="PT">FH: Aortic aneurysm</displayName>
+<displayName lang="en" type="FSN">Family history: Aortic aneurysm (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Aortic aneurysm</displayName>
+</concept>
+<concept code="401052005">
+<displayName lang="en" type="PT">FH: Malignant hyperpyrexia</displayName>
+<displayName lang="en" type="FSN">Family history: Malignant hyperpyrexia (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Malignant hyperpyrexia</displayName>
+</concept>
+<concept code="401065001">
+<displayName lang="en" type="PT">FH: Angina in 1st degree female relative &lt;65 years</displayName>
+<displayName lang="en" type="FSN">Family history: Angina in first degree female relative less than 65 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Angina in 1st degree female relative &lt;65 years</displayName>
+<displayName lang="en" type="SY">Family history: Angina in first degree female relative less than 65 years</displayName>
+</concept>
+<concept code="401066000">
+<displayName lang="en" type="PT">Family history of myocardial infarct in first degree female relative less than 65 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarct in first degree female relative less than 65 years of age (situation)</displayName>
+</concept>
+<concept code="401067009">
+<displayName lang="en" type="PT">FH: Myocardial infarct in 1st degree male relative &lt;55 years</displayName>
+<displayName lang="en" type="FSN">Family history: Myocardial infarct in first degree male relative less than 55 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarct in 1st degree male relative &lt;55 years</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarct in first degree male relative 55 years</displayName>
+<displayName lang="en" type="SY">Family history: Myocardial infarct in first degree male relative less than 55 years</displayName>
+</concept>
+<concept code="401119001">
+<displayName lang="en-GB" type="PT">Family history of haemochromatosis</displayName>
+<displayName lang="en" type="FSN">Family history of hemochromatosis (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: Haemochromatosis</displayName>
+<displayName lang="en-GB" type="SY">Family history: Haemochromatosis</displayName>
+</concept>
+<concept code="401122004">
+<displayName lang="en" type="PT">FH: Angina in 1st degree male relative &lt;55 years</displayName>
+<displayName lang="en" type="FSN">Family history: Angina in first degree male relative less than 55 years (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Angina in 1st degree male relative &lt;55 years</displayName>
+<displayName lang="en" type="SY">Family history: Angina in first degree male relative 55 years</displayName>
+<displayName lang="en" type="SY">Family history: Angina in first degree male relative less than 55 years</displayName>
+</concept>
+<concept code="407559004">
+<displayName lang="en" type="PT">Family history unknown</displayName>
+<displayName lang="en" type="FSN">Family history unknown (situation)</displayName>
+</concept>
+<concept code="408552005">
+<displayName lang="en" type="PT">No family history of chronic obstructive pulmonary disease</displayName>
+<displayName lang="en" type="FSN">No family history of chronic obstructive pulmonary disease (situation)</displayName>
+</concept>
+<concept code="408553000">
+<displayName lang="en" type="PT">No family history of respiratory disease</displayName>
+<displayName lang="en" type="FSN">No family history of respiratory disease (situation)</displayName>
+</concept>
+<concept code="408575003">
+<displayName lang="en" type="PT">FH: Not known - Adopted</displayName>
+<displayName lang="en" type="FSN">Family history: Not known - Adopted (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Not known - Adopted</displayName>
+</concept>
+<concept code="412749001">
+<displayName lang="en" type="PT">Family history of development disorder</displayName>
+<displayName lang="en" type="FSN">Family history of development disorder (situation)</displayName>
+<displayName lang="en" type="SY">FH: Development disorder</displayName>
+</concept>
+<concept code="412750001">
+<displayName lang="en" type="PT">Family history of autism</displayName>
+<displayName lang="en" type="FSN">Family history of autism (situation)</displayName>
+</concept>
+<concept code="412783008">
+<displayName lang="en" type="PT">FH: Polycystic ovaries</displayName>
+<displayName lang="en" type="FSN">Family history: Polycystic ovaries (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Polycystic ovaries</displayName>
+</concept>
+<concept code="412784002">
+<displayName lang="en" type="PT">FH: Enuresis</displayName>
+<displayName lang="en" type="FSN">Family history: Enuresis (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Enuresis</displayName>
+</concept>
+<concept code="413302005">
+<displayName lang="en" type="PT">FH: angina grandparent</displayName>
+<displayName lang="en" type="FSN">Family history: angina grandparent (situation)</displayName>
+<displayName lang="en" type="SY">Family history: angina grandparent</displayName>
+</concept>
+<concept code="413308009">
+<displayName lang="en" type="PT">Maternal history of congenital dislocated hip</displayName>
+<displayName lang="en" type="FSN">Maternal history of congenital dislocated hip (situation)</displayName>
+</concept>
+<concept code="413316000">
+<displayName lang="en" type="PT">Parent on probation</displayName>
+<displayName lang="en" type="FSN">Parent on probation (situation)</displayName>
+</concept>
+<concept code="414205003">
+<displayName lang="en" type="PT">Family history of prostate cancer</displayName>
+<displayName lang="en" type="FSN">Family history of prostate cancer (situation)</displayName>
+</concept>
+<concept code="415036007">
+<displayName lang="en" type="PT">Parent has physical disability</displayName>
+<displayName lang="en" type="FSN">Parent has physical disability (situation)</displayName>
+</concept>
+<concept code="415289003">
+<displayName lang="en" type="PT">Relative dying</displayName>
+<displayName lang="en" type="FSN">Relative dying (situation)</displayName>
+</concept>
+<concept code="416072008">
+<displayName lang="en" type="PT">FH: maternal hip fracture before age 75</displayName>
+<displayName lang="en" type="FSN">Family history: maternal hip fracture before age 75 (situation)</displayName>
+<displayName lang="en" type="SY">Family history: maternal hip fracture before age 75</displayName>
+</concept>
+<concept code="416519002">
+<displayName lang="en" type="PT">Family history of renal stone</displayName>
+<displayName lang="en" type="FSN">Family history of renal stone (situation)</displayName>
+<displayName lang="en" type="SY">Family history of nephrolithiasis</displayName>
+</concept>
+<concept code="416855002">
+<displayName lang="en" type="PT">FH: Diabetes mellitus in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history: Diabetes mellitus in first degree relative (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Diabetes mellitus in first degree relative</displayName>
+</concept>
+<concept code="417001009">
+<displayName lang="en" type="PT">Family history of tuberous sclerosis</displayName>
+<displayName lang="en" type="FSN">Family history of tuberous sclerosis (situation)</displayName>
+</concept>
+<concept code="417072001">
+<displayName lang="en-GB" type="PT">FH: Hypercholesterolaemia in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of hypercholesterolemia in first degree relative (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of hypercholesterolaemia in first degree relative</displayName>
+<displayName lang="en-GB" type="SY">Family history: Hypercholesterolaemia in first degree relative</displayName>
+</concept>
+<concept code="417648007">
+<displayName lang="en" type="PT">Family history of pulmonary infundibular stenosis</displayName>
+<displayName lang="en" type="FSN">Family history of pulmonary infundibular stenosis (situation)</displayName>
+</concept>
+<concept code="418404007">
+<displayName lang="en" type="PT">Family notified</displayName>
+<displayName lang="en" type="FSN">Family notified (situation)</displayName>
+<displayName lang="en" type="SY">Family informed</displayName>
+</concept>
+<concept code="420259009">
+<displayName lang="en" type="PT">FH: Age at death</displayName>
+<displayName lang="en" type="FSN">Family history: Age at death (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Age at death</displayName>
+</concept>
+<concept code="427858005">
+<displayName lang="en" type="PT">Family history of malignant melanoma</displayName>
+<displayName lang="en" type="FSN">Family history of malignant melanoma (situation)</displayName>
+</concept>
+<concept code="428037003">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of ileum</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of ileum (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the ileum</displayName>
+</concept>
+<concept code="428047000">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of cervix uteri</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of cervix uteri (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the uterine cervix</displayName>
+<displayName lang="en" type="SY">Family history of malignant neoplasm of uterine cervix</displayName>
+</concept>
+<concept code="428269004">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of trachea</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of trachea (situation)</displayName>
+<displayName lang="en" type="SY">Family history of tracheal cancer</displayName>
+</concept>
+<concept code="428276009">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of vagina</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of vagina (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the vagina</displayName>
+</concept>
+<concept code="428748002">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of male breast</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of male breast (situation)</displayName>
+<displayName lang="en" type="SY">Family history of male breast cancer</displayName>
+</concept>
+<concept code="428932007">
+<displayName lang="en" type="PT">Family history of speech and language disorder</displayName>
+<displayName lang="en" type="FSN">Family history of speech and language disorder (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of speech and language difficulties</displayName>
+</concept>
+<concept code="428935009">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of eye proper</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of eye proper (situation)</displayName>
+<displayName lang="en" type="SY">Family history of malignant neoplasm of eye</displayName>
+</concept>
+<concept code="428994006">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of biliary tract</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of biliary tract (situation)</displayName>
+</concept>
+<concept code="429000004">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of pancreas</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of pancreas (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the pancreas</displayName>
+<displayName lang="en" type="SY">Family history of pancreatic cancer</displayName>
+</concept>
+<concept code="429006005">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of gastrointestinal tract</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of gastrointestinal tract (situation)</displayName>
+</concept>
+<concept code="429011007">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of lung</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of lung (situation)</displayName>
+<displayName lang="en" type="SY">Family history of lung cancer</displayName>
+</concept>
+<concept code="429236009">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of liver</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of liver (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the liver</displayName>
+<displayName lang="en" type="SY">Family history of liver cancer</displayName>
+</concept>
+<concept code="429251000">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of brain</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of brain (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the brain</displayName>
+</concept>
+<concept code="429252007">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of bone</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of bone (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of the bone</displayName>
+</concept>
+<concept code="429405004">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of skin</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of skin (situation)</displayName>
+<displayName lang="en" type="SY">Family history of skin cancer</displayName>
+</concept>
+<concept code="429637009">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of uterus</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of uterus (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of uterus</displayName>
+</concept>
+<concept code="429740004">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of breast</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of breast (situation)</displayName>
+</concept>
+<concept code="429950008">
+<displayName lang="en" type="PT">Family history of attention deficit hyperactivity disorder</displayName>
+<displayName lang="en" type="FSN">Family history of attention deficit hyperactivity disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history attention deficit hyperactive disorder</displayName>
+</concept>
+<concept code="429951007">
+<displayName lang="en" type="PT">Family history of eating disorder</displayName>
+<displayName lang="en" type="FSN">Family history of eating disorder (situation)</displayName>
+</concept>
+<concept code="429952000">
+<displayName lang="en" type="PT">Family history of stenosis of aortic valve</displayName>
+<displayName lang="en" type="FSN">Family history of stenosis of aortic valve (situation)</displayName>
+<displayName lang="en" type="SY">Family history of aortic stenosis</displayName>
+</concept>
+<concept code="429953005">
+<displayName lang="en" type="PT">Family history of pulmonary emphysema</displayName>
+<displayName lang="en" type="FSN">Family history of pulmonary emphysema (situation)</displayName>
+</concept>
+<concept code="429954004">
+<displayName lang="en" type="PT">Family history of cleft lip</displayName>
+<displayName lang="en" type="FSN">Family history of cleft lip (situation)</displayName>
+</concept>
+<concept code="429958001">
+<displayName lang="en" type="PT">Family history of conduction disorder of the heart</displayName>
+<displayName lang="en" type="FSN">Family history of conduction disorder of the heart (situation)</displayName>
+</concept>
+<concept code="429959009">
+<displayName lang="en" type="PT">Family history of heart failure</displayName>
+<displayName lang="en" type="FSN">Family history of heart failure (situation)</displayName>
+</concept>
+<concept code="429961000">
+<displayName lang="en" type="PT">Family history of dementia</displayName>
+<displayName lang="en" type="FSN">Family history of dementia (situation)</displayName>
+</concept>
+<concept code="429962007">
+<displayName lang="en" type="PT">Family history of hereditary disease</displayName>
+<displayName lang="en" type="FSN">Family history of hereditary disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of genetic disease</displayName>
+<displayName lang="en" type="SY">Family history of heritable disorder</displayName>
+</concept>
+<concept code="429963002">
+<displayName lang="en" type="PT">Family history of headache disorder</displayName>
+<displayName lang="en" type="FSN">Family history of headache disorder (situation)</displayName>
+</concept>
+<concept code="429964008">
+<displayName lang="en" type="PT">Family history of irritable colon</displayName>
+<displayName lang="en" type="FSN">Family history of irritable colon (situation)</displayName>
+<displayName lang="en" type="SY">Family history of irritable bowel syndrome</displayName>
+</concept>
+<concept code="429965009">
+<displayName lang="en" type="PT">Family history of malignant lymphoma</displayName>
+<displayName lang="en" type="FSN">Family history of malignant lymphoma (situation)</displayName>
+<displayName lang="en" type="SY">Family history of lymphoma</displayName>
+</concept>
+<concept code="429969003">
+<displayName lang="en" type="PT">Family history of polyp of colon</displayName>
+<displayName lang="en" type="FSN">Family history of polyp of colon (situation)</displayName>
+</concept>
+<concept code="429970002">
+<displayName lang="en" type="PT">Family history of Charcot-Marie-Tooth disease</displayName>
+<displayName lang="en" type="FSN">Family history of Charcot-Marie-Tooth disease (situation)</displayName>
+</concept>
+<concept code="429971003">
+<displayName lang="en" type="PT">Family history of impaired glucose tolerance</displayName>
+<displayName lang="en" type="FSN">Family history of impaired glucose tolerance (situation)</displayName>
+</concept>
+<concept code="429976008">
+<displayName lang="en" type="PT">Family history of backache</displayName>
+<displayName lang="en" type="FSN">Family history of backache (situation)</displayName>
+<displayName lang="en" type="SY">Family history of back pain</displayName>
+</concept>
+<concept code="429977004">
+<displayName lang="en" type="PT">Family history of congenital cataract</displayName>
+<displayName lang="en" type="FSN">Family history of congenital cataract (situation)</displayName>
+</concept>
+<concept code="429978009">
+<displayName lang="en" type="PT">Family history of endocarditis</displayName>
+<displayName lang="en" type="FSN">Family history of endocarditis (situation)</displayName>
+</concept>
+<concept code="430041006">
+<displayName lang="en" type="PT">Family history of M&#233;ni&#232;re disease</displayName>
+<displayName lang="en" type="FSN">Family history of M&#233;ni&#232;re disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Meniere&apos;s disease</displayName>
+</concept>
+<concept code="430086009">
+<displayName lang="en" type="PT">Family history of cleft palate</displayName>
+<displayName lang="en" type="FSN">Family history of cleft palate (situation)</displayName>
+</concept>
+<concept code="430088005">
+<displayName lang="en" type="PT">Family history of intestinal obstruction</displayName>
+<displayName lang="en" type="FSN">Family history of intestinal obstruction (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bowel obstruction</displayName>
+</concept>
+<concept code="430089002">
+<displayName lang="en" type="PT">Family history of hyperthyroidism</displayName>
+<displayName lang="en" type="FSN">Family history of hyperthyroidism (situation)</displayName>
+</concept>
+<concept code="430090006">
+<displayName lang="en" type="PT">Family history of neoplasm of brain</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm of brain (situation)</displayName>
+</concept>
+<concept code="430091005">
+<displayName lang="en" type="PT">Family history of coronary arteriosclerosis</displayName>
+<displayName lang="en" type="FSN">Family history of coronary arteriosclerosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of coronary artery disease</displayName>
+</concept>
+<concept code="430102007">
+<displayName lang="en" type="PT">Family history of aneurysm of artery</displayName>
+<displayName lang="en" type="FSN">Family history of aneurysm of artery (situation)</displayName>
+<displayName lang="en" type="SY">Family history of arterial aneurysm</displayName>
+</concept>
+<concept code="430283008">
+<displayName lang="en" type="PT">Family history of sudden death</displayName>
+<displayName lang="en" type="FSN">Family history of sudden death (situation)</displayName>
+</concept>
+<concept code="430288004">
+<displayName lang="en" type="PT">Family history of death due to natural cause</displayName>
+<displayName lang="en" type="FSN">Family history of death due to natural cause (situation)</displayName>
+</concept>
+<concept code="430289007">
+<displayName lang="en" type="PT">Family history of death of unknown cause</displayName>
+<displayName lang="en" type="FSN">Family history of death of unknown cause (situation)</displayName>
+</concept>
+<concept code="430292006">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of breast in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of breast in first degree relative (situation)</displayName>
+</concept>
+<concept code="430298005">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of pharynx</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of pharynx (situation)</displayName>
+</concept>
+<concept code="430329007">
+<displayName lang="en-GB" type="PT">Family history of coeliac disease</displayName>
+<displayName lang="en" type="FSN">Family history of celiac disease (situation)</displayName>
+</concept>
+<concept code="430330002">
+<displayName lang="en-GB" type="PT">Family history of chronic myeloid leukaemia</displayName>
+<displayName lang="en" type="FSN">Family history of chronic myeloid leukemia (situation)</displayName>
+</concept>
+<concept code="430331003">
+<displayName lang="en-GB" type="PT">Family history of cancer of the oesophagus</displayName>
+<displayName lang="en" type="FSN">Family history of cancer of the esophagus (situation)</displayName>
+</concept>
+<concept code="430334006">
+<displayName lang="en-GB" type="PT">Family history of problem behaviour</displayName>
+<displayName lang="en" type="FSN">Family history of problem behavior (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of behaviour problem</displayName>
+</concept>
+<concept code="430336008">
+<displayName lang="en-GB" type="PT">Family history of colour blindness</displayName>
+<displayName lang="en" type="FSN">Family history of color blindness (situation)</displayName>
+</concept>
+<concept code="430337004">
+<displayName lang="en-GB" type="PT">Family history of sleep apnoea</displayName>
+<displayName lang="en" type="FSN">Family history of sleep apnea (situation)</displayName>
+</concept>
+<concept code="430527008">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of testis</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of testis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of testicle</displayName>
+</concept>
+<concept code="430534005">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of thyroid</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of thyroid (situation)</displayName>
+</concept>
+<concept code="430542006">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of urinary bladder</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of urinary bladder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of urinary bladder</displayName>
+</concept>
+<concept code="430543001">
+<displayName lang="en" type="PT">Family history of psoriasis with arthropathy</displayName>
+<displayName lang="en" type="FSN">Family history of psoriasis with arthropathy (situation)</displayName>
+<displayName lang="en" type="SY">Family history of psoriatic arthritis</displayName>
+</concept>
+<concept code="430544007">
+<displayName lang="en" type="PT">Family history of scoliosis deformity of spine</displayName>
+<displayName lang="en" type="FSN">Family history of scoliosis deformity of spine (situation)</displayName>
+</concept>
+<concept code="430552005">
+<displayName lang="en" type="PT">Family history of benign prostatic hyperplasia</displayName>
+<displayName lang="en" type="FSN">Family history of benign prostatic hyperplasia (situation)</displayName>
+<displayName lang="en" type="SY">Family history of benign prostatic hypertrophy</displayName>
+</concept>
+<concept code="430560006">
+<displayName lang="en" type="PT">Family history of chronic renal impairment</displayName>
+<displayName lang="en" type="FSN">Family history of chronic renal impairment (situation)</displayName>
+<displayName lang="en" type="SY">Family history of chronic renal disease</displayName>
+</concept>
+<concept code="430564002">
+<displayName lang="en" type="PT">Family history of disorder of lung</displayName>
+<displayName lang="en" type="FSN">Family history of disorder of lung (situation)</displayName>
+<displayName lang="en" type="SY">Family history of lung disease</displayName>
+</concept>
+<concept code="430565001">
+<displayName lang="en" type="PT">Family history of restless legs syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of restless legs syndrome (situation)</displayName>
+</concept>
+<concept code="430568004">
+<displayName lang="en" type="PT">Family history of dissection of aorta</displayName>
+<displayName lang="en" type="FSN">Family history of dissection of aorta (situation)</displayName>
+<displayName lang="en" type="SY">Family history of aortic dissection</displayName>
+</concept>
+<concept code="430674005">
+<displayName lang="en" type="PT">Family history of cerebral artery occlusion</displayName>
+<displayName lang="en" type="FSN">Family history of cerebral artery occlusion (situation)</displayName>
+</concept>
+<concept code="430677003">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of thoracic cavity structure</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of thoracic cavity structure (situation)</displayName>
+<displayName lang="en" type="SY">Family history of malignant neoplasm of intrathoracic organ</displayName>
+</concept>
+<concept code="430678008">
+<displayName lang="en" type="PT">Family history of diabetes mellitus type 1</displayName>
+<displayName lang="en" type="FSN">Family history of diabetes mellitus type 1 (situation)</displayName>
+</concept>
+<concept code="430679000">
+<displayName lang="en" type="PT">Family history of diabetes mellitus type 2</displayName>
+<displayName lang="en" type="FSN">Family history of diabetes mellitus type 2 (situation)</displayName>
+</concept>
+<concept code="430681003">
+<displayName lang="en" type="PT">Family history of Raynaud phenomenon</displayName>
+<displayName lang="en" type="FSN">Family history of Raynaud phenomenon (situation)</displayName>
+</concept>
+<concept code="430682005">
+<displayName lang="en" type="PT">Family history of renal failure syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of renal failure syndrome (situation)</displayName>
+<displayName lang="en" type="SY">Family history of renal failure</displayName>
+</concept>
+<concept code="430685007">
+<displayName lang="en" type="PT">Family history of disorder of pancreas</displayName>
+<displayName lang="en" type="FSN">Family history of disorder of pancreas (situation)</displayName>
+<displayName lang="en" type="SY">Family history of pancreatic disease</displayName>
+</concept>
+<concept code="430693007">
+<displayName lang="en" type="PT">Family history of fracture of proximal end of femur</displayName>
+<displayName lang="en" type="FSN">Family history of fracture of proximal end of femur (situation)</displayName>
+<displayName lang="en" type="SY">Family history of hip fracture</displayName>
+</concept>
+<concept code="430695000">
+<displayName lang="en" type="PT">Family history of genetic disorder carrier</displayName>
+<displayName lang="en" type="FSN">Family history of genetic disorder carrier (situation)</displayName>
+<displayName lang="en" type="SY">Family history of genetic disease carrier</displayName>
+</concept>
+<concept code="430696004">
+<displayName lang="en" type="PT">Family history of juvenile rheumatoid arthritis</displayName>
+<displayName lang="en" type="FSN">Family history of juvenile rheumatoid arthritis (situation)</displayName>
+</concept>
+<concept code="430703009">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of kidney</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of kidney (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of kidney</displayName>
+</concept>
+<concept code="430705002">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of ovary</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of ovary (situation)</displayName>
+</concept>
+<concept code="430709008">
+<displayName lang="en" type="PT">Family history of spinal stenosis</displayName>
+<displayName lang="en" type="FSN">Family history of spinal stenosis (situation)</displayName>
+</concept>
+<concept code="430710003">
+<displayName lang="en" type="PT">Family history of thromboembolic disorder</displayName>
+<displayName lang="en" type="FSN">Family history of thromboembolic disorder (situation)</displayName>
+</concept>
+<concept code="430711004">
+<displayName lang="en" type="PT">Family history of seizure disorder</displayName>
+<displayName lang="en" type="FSN">Family history of seizure disorder (situation)</displayName>
+</concept>
+<concept code="430716009">
+<displayName lang="en" type="PT">Family history of osteopenia</displayName>
+<displayName lang="en" type="FSN">Family history of osteopenia (situation)</displayName>
+</concept>
+<concept code="430719002">
+<displayName lang="en" type="PT">Family history of tinnitus</displayName>
+<displayName lang="en" type="FSN">Family history of tinnitus (situation)</displayName>
+</concept>
+<concept code="430722000">
+<displayName lang="en" type="PT">Family history of operative procedure</displayName>
+<displayName lang="en" type="FSN">Family history of operative procedure (situation)</displayName>
+</concept>
+<concept code="430723005">
+<displayName lang="en" type="PT">Family history of visual disturbance</displayName>
+<displayName lang="en" type="FSN">Family history of visual disturbance (situation)</displayName>
+</concept>
+<concept code="430726002">
+<displayName lang="en" type="PT">Family history of tremor</displayName>
+<displayName lang="en" type="FSN">Family history of tremor (situation)</displayName>
+</concept>
+<concept code="430727006">
+<displayName lang="en" type="PT">Family history of amyotrophic lateral sclerosis</displayName>
+<displayName lang="en" type="FSN">Family history of amyotrophic lateral sclerosis (situation)</displayName>
+</concept>
+<concept code="430728001">
+<displayName lang="en" type="PT">Family history of amnesia</displayName>
+<displayName lang="en" type="FSN">Family history of amnesia (situation)</displayName>
+<displayName lang="en" type="SY">Family history of memory loss</displayName>
+</concept>
+<concept code="430729009">
+<displayName lang="en" type="PT">Family history of chronic ulcerative proctitis</displayName>
+<displayName lang="en" type="FSN">Family history of chronic ulcerative proctitis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of ulcerative proctitis</displayName>
+</concept>
+<concept code="430730004">
+<displayName lang="en" type="PT">Family history of mitral valve regurgitation</displayName>
+<displayName lang="en" type="FSN">Family history of mitral valve regurgitation (situation)</displayName>
+<displayName lang="en" type="SY">Family history of mitral regurgitation</displayName>
+</concept>
+<concept code="430753003">
+<displayName lang="en" type="PT">Family history of aneurysm of thoracic aorta</displayName>
+<displayName lang="en" type="FSN">Family history of aneurysm of thoracic aorta (situation)</displayName>
+</concept>
+<concept code="430754009">
+<displayName lang="en" type="PT">Family history of mastoiditis</displayName>
+<displayName lang="en" type="FSN">Family history of mastoiditis (situation)</displayName>
+</concept>
+<concept code="430777009">
+<displayName lang="en" type="PT">Family history of rheumatic fever</displayName>
+<displayName lang="en" type="FSN">Family history of rheumatic fever (situation)</displayName>
+</concept>
+<concept code="430778004">
+<displayName lang="en" type="PT">Family history of sarcoidosis</displayName>
+<displayName lang="en" type="FSN">Family history of sarcoidosis (situation)</displayName>
+</concept>
+<concept code="430781009">
+<displayName lang="en" type="PT">Family history of transplantation of bone marrow</displayName>
+<displayName lang="en" type="FSN">Family history of transplantation of bone marrow (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bone marrow transplant</displayName>
+</concept>
+<concept code="430786004">
+<displayName lang="en" type="PT">Family history of radiation therapy</displayName>
+<displayName lang="en" type="FSN">Family history of radiation therapy (situation)</displayName>
+</concept>
+<concept code="430801003">
+<displayName lang="en" type="PT">Family history of pulmonary embolism</displayName>
+<displayName lang="en" type="FSN">Family history of pulmonary embolism (situation)</displayName>
+</concept>
+<concept code="430802005">
+<displayName lang="en" type="PT">Family history of procedure on ovary</displayName>
+<displayName lang="en" type="FSN">Family history of procedure on ovary (situation)</displayName>
+<displayName lang="en" type="SY">Family history of ovarian procedure</displayName>
+</concept>
+<concept code="430805007">
+<displayName lang="en" type="PT">Family history of uveitis</displayName>
+<displayName lang="en" type="FSN">Family history of uveitis (situation)</displayName>
+</concept>
+<concept code="430807004">
+<displayName lang="en" type="PT">Family history of periodic limb movement disorder</displayName>
+<displayName lang="en" type="FSN">Family history of periodic limb movement disorder (situation)</displayName>
+</concept>
+<concept code="430808009">
+<displayName lang="en" type="PT">Family history of nephrotic syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of nephrotic syndrome (situation)</displayName>
+</concept>
+<concept code="430809001">
+<displayName lang="en" type="PT">Family history of movement disorder</displayName>
+<displayName lang="en" type="FSN">Family history of movement disorder (situation)</displayName>
+</concept>
+<concept code="430813008">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of digestive organ</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of digestive organ (situation)</displayName>
+</concept>
+<concept code="430814002">
+<displayName lang="en" type="PT">Family history of neuropathy</displayName>
+<displayName lang="en" type="FSN">Family history of neuropathy (situation)</displayName>
+</concept>
+<concept code="430815001">
+<displayName lang="en" type="PT">Family history of syncope</displayName>
+<displayName lang="en" type="FSN">Family history of syncope (situation)</displayName>
+</concept>
+<concept code="430954001">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of genital structure</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of genital structure (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cancer of genital system</displayName>
+</concept>
+<concept code="431170009">
+<displayName lang="en" type="PT">Family history of perinatal disorder</displayName>
+<displayName lang="en" type="FSN">Family history of perinatal disorder (situation)</displayName>
+</concept>
+<concept code="431330007">
+<displayName lang="en" type="PT">Family history of breast cancer 1 gene mutation</displayName>
+<displayName lang="en" type="FSN">Family history of breast cancer 1 gene mutation (situation)</displayName>
+<displayName lang="en" type="SY">Family history of BRCA1 gene mutation</displayName>
+<displayName lang="en" type="SY">Family history of breast cancer 1 (BRCA1) gene mutation</displayName>
+</concept>
+<concept code="431331006">
+<displayName lang="en" type="PT">Family history of breast cancer 2 gene mutation</displayName>
+<displayName lang="en" type="FSN">Family history of breast cancer 2 gene mutation (situation)</displayName>
+<displayName lang="en" type="SY">Family history of BRCA2 gene mutation</displayName>
+<displayName lang="en" type="SY">Family history of breast cancer 2 (BRCA2) gene mutation</displayName>
+</concept>
+<concept code="431479003">
+<displayName lang="en" type="PT">Family history of synovial cyst of popliteal space</displayName>
+<displayName lang="en" type="FSN">Family history of synovial cyst of popliteal space (situation)</displayName>
+<displayName lang="en" type="SY">Family history of popliteal cyst</displayName>
+</concept>
+<concept code="431812006">
+<displayName lang="en" type="PT">Family history of degenerative disorder of macula</displayName>
+<displayName lang="en" type="FSN">Family history of degenerative disorder of macula (situation)</displayName>
+</concept>
+<concept code="431882002">
+<displayName lang="en" type="PT">Family history of disorder of peripheral nervous system</displayName>
+<displayName lang="en" type="FSN">Family history of disorder of peripheral nervous system (situation)</displayName>
+<displayName lang="en" type="SY">Family history of peripheral neuropathy</displayName>
+</concept>
+<concept code="431912005">
+<displayName lang="en" type="PT">Family history of alpha-1-antitrypsin deficiency</displayName>
+<displayName lang="en" type="FSN">Family history of alpha-1-antitrypsin deficiency (situation)</displayName>
+</concept>
+<concept code="433163001">
+<displayName lang="en" type="PT">Family history of diverticulitis of colon</displayName>
+<displayName lang="en" type="FSN">Family history of diverticulitis of colon (situation)</displayName>
+</concept>
+<concept code="433164007">
+<displayName lang="en" type="PT">Family history of lupus erythematosus</displayName>
+<displayName lang="en" type="FSN">Family history of lupus erythematosus (situation)</displayName>
+</concept>
+<concept code="433276002">
+<displayName lang="en" type="PT">Family history of atrial fibrillation</displayName>
+<displayName lang="en" type="FSN">Family history of atrial fibrillation (situation)</displayName>
+</concept>
+<concept code="433277006">
+<displayName lang="en" type="PT">Family history of bulimia nervosa</displayName>
+<displayName lang="en" type="FSN">Family history of bulimia nervosa (situation)</displayName>
+</concept>
+<concept code="433278001">
+<displayName lang="en" type="PT">Family history of presenile dementia</displayName>
+<displayName lang="en" type="FSN">Family history of presenile dementia (situation)</displayName>
+</concept>
+<concept code="433279009">
+<displayName lang="en" type="PT">Family history of cleft palate with cleft lip</displayName>
+<displayName lang="en" type="FSN">Family history of cleft palate with cleft lip (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cleft lip and cleft palate</displayName>
+</concept>
+<concept code="433305001">
+<displayName lang="en" type="PT">Family history of congestive heart failure</displayName>
+<displayName lang="en" type="FSN">Family history of congestive heart failure (situation)</displayName>
+</concept>
+<concept code="433306000">
+<displayName lang="en" type="PT">Family history of anorexia nervosa</displayName>
+<displayName lang="en" type="FSN">Family history of anorexia nervosa (situation)</displayName>
+</concept>
+<concept code="433380009">
+<displayName lang="en" type="PT">Family history of attention deficit hyperactivity disorder, predominantly inattentive type</displayName>
+<displayName lang="en" type="FSN">Family history of attention deficit hyperactivity disorder, predominantly inattentive type (situation)</displayName>
+<displayName lang="en" type="SY">Family history of attention deficit disorder</displayName>
+</concept>
+<concept code="433381008">
+<displayName lang="en" type="PT">Family history of renal cell carcinoma</displayName>
+<displayName lang="en" type="FSN">Family history of renal cell carcinoma (situation)</displayName>
+</concept>
+<concept code="433442009">
+<displayName lang="en" type="PT">Family history of bariatric operative procedure</displayName>
+<displayName lang="en" type="FSN">Family history of bariatric operative procedure (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bariatric surgery</displayName>
+</concept>
+<concept code="433448008">
+<displayName lang="en" type="PT">Family history of carotid endarterectomy</displayName>
+<displayName lang="en" type="FSN">Family history of carotid endarterectomy (situation)</displayName>
+</concept>
+<concept code="433449000">
+<displayName lang="en" type="PT">Family history of ventricular premature beats</displayName>
+<displayName lang="en" type="FSN">Family history of ventricular premature beats (situation)</displayName>
+<displayName lang="en" type="SY">Family history of premature ventricular contractions</displayName>
+</concept>
+<concept code="433450000">
+<displayName lang="en" type="PT">Family history of non-Hodgkin&apos;s lymphoma</displayName>
+<displayName lang="en" type="FSN">Family history of non-Hodgkin&apos;s lymphoma (situation)</displayName>
+<displayName lang="en" type="SY">Family history of non-Hodgkin lymphoma</displayName>
+</concept>
+<concept code="433491003">
+<displayName lang="en" type="PT">Family history of bilateral hip replacements</displayName>
+<displayName lang="en" type="FSN">Family history of bilateral hip replacements (situation)</displayName>
+</concept>
+<concept code="433492005">
+<displayName lang="en" type="PT">Family history of replacement of total knee joint</displayName>
+<displayName lang="en" type="FSN">Family history of replacement of total knee joint (situation)</displayName>
+</concept>
+<concept code="433495007">
+<displayName lang="en" type="PT">Family history of Hodgkin&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Family history of Hodgkin&apos;s disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Hodgkin disease</displayName>
+<displayName lang="en" type="SY">Family history of Hodgkin&apos;s lymphoma</displayName>
+</concept>
+<concept code="433496008">
+<displayName lang="en" type="PT">Family history of trigeminal neuralgia</displayName>
+<displayName lang="en" type="FSN">Family history of trigeminal neuralgia (situation)</displayName>
+</concept>
+<concept code="433506004">
+<displayName lang="en" type="PT">Family history of total abdominal hysterectomy with bilateral salpingo-oophorectomy</displayName>
+<displayName lang="en" type="FSN">Family history of total abdominal hysterectomy with bilateral salpingo-oophorectomy (situation)</displayName>
+</concept>
+<concept code="433977002">
+<displayName lang="en" type="PT">Family history of mastectomy</displayName>
+<displayName lang="en" type="FSN">Family history of mastectomy (situation)</displayName>
+</concept>
+<concept code="434298003">
+<displayName lang="en" type="PT">Family history of cholecystectomy</displayName>
+<displayName lang="en" type="FSN">Family history of cholecystectomy (situation)</displayName>
+</concept>
+<concept code="434462008">
+<displayName lang="en" type="PT">Family history of multiple myeloma</displayName>
+<displayName lang="en" type="FSN">Family history of multiple myeloma (situation)</displayName>
+</concept>
+<concept code="438618001">
+<displayName lang="en" type="PT">Mother does not smoke</displayName>
+<displayName lang="en" type="FSN">Mother does not smoke (situation)</displayName>
+</concept>
+<concept code="438825005">
+<displayName lang="en" type="PT">Family history of cardiovascular disease in first degree female relative less than 65 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of cardiovascular disease in first degree female relative less than 65 years of age (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cardiovascular disease (CVD) in first degree female relative less than 65 years of age</displayName>
+</concept>
+<concept code="438998000">
+<displayName lang="en" type="PT">Family history of human immunodeficiency virus infection</displayName>
+<displayName lang="en" type="FSN">Family history of human immunodeficiency virus infection (situation)</displayName>
+<displayName lang="en" type="SY">Family history of HIV</displayName>
+<displayName lang="en" type="SY">Family history of human immunodeficiency virus infection (HIV)</displayName>
+</concept>
+<concept code="439138006">
+<displayName lang="en" type="PT">Both parents misuse drugs</displayName>
+<displayName lang="en" type="FSN">Both parents misuse drugs (situation)</displayName>
+</concept>
+<concept code="439154009">
+<displayName lang="en" type="PT">Family history of myocarditis</displayName>
+<displayName lang="en" type="FSN">Family history of myocarditis (situation)</displayName>
+</concept>
+<concept code="439213009">
+<displayName lang="en" type="PT">Paternal drug misuse</displayName>
+<displayName lang="en" type="FSN">Drug misuse by father (situation)</displayName>
+<displayName lang="en" type="SY">Drug misuse by father</displayName>
+</concept>
+<concept code="439220002">
+<displayName lang="en" type="PT">Family history of neoplasm of upper aerodigestive tract</displayName>
+<displayName lang="en" type="FSN">Family history of neoplasm of upper aerodigestive tract (situation)</displayName>
+<displayName lang="en" type="SY">Family history of neoplasm of ears, nose, throat</displayName>
+</concept>
+<concept code="439724007">
+<displayName lang="en" type="PT">Family history of cardiovascular disease in first degree male relative less than 55 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of cardiovascular disease in first degree male relative less than 55 years of age (situation)</displayName>
+<displayName lang="en" type="SY">Family history of cardiovascular disease (CVD) in first degree male relative less than 55 years of age</displayName>
+</concept>
+<concept code="439750006">
+<displayName lang="en" type="PT">Family history of hearing loss</displayName>
+<displayName lang="en" type="FSN">Family history of hearing loss (situation)</displayName>
+<displayName lang="en" type="SY">Family history of hearing impairment</displayName>
+</concept>
+<concept code="440697006">
+<displayName lang="en" type="PT">Family history of cerebral infarction</displayName>
+<displayName lang="en" type="FSN">Family history of cerebral infarction (situation)</displayName>
+</concept>
+<concept code="441120009">
+<displayName lang="en" type="PT">Family history of acquired immune deficiency syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of acquired immune deficiency syndrome (situation)</displayName>
+<displayName lang="en" type="SY">Family history of acquired immune deficiency syndrome (AIDS)</displayName>
+</concept>
+<concept code="442080007">
+<displayName lang="en" type="PT">Drug misuse by mother</displayName>
+<displayName lang="en" type="FSN">Drug misuse by mother (situation)</displayName>
+</concept>
+<concept code="443454007">
+<displayName lang="en-GB" type="PT">Family history of familial hypercholesterolaemia</displayName>
+<displayName lang="en" type="FSN">Family history of familial hypercholesterolemia (situation)</displayName>
+</concept>
+<concept code="443720007">
+<displayName lang="en" type="PT">Family history of systemic sclerosis</displayName>
+<displayName lang="en" type="FSN">Family history of systemic sclerosis (situation)</displayName>
+<displayName lang="en" type="SY">Family history of scleroderma</displayName>
+</concept>
+<concept code="443847005">
+<displayName lang="en" type="PT">Father does not smoke</displayName>
+<displayName lang="en" type="FSN">Father does not smoke (situation)</displayName>
+</concept>
+<concept code="443868006">
+<displayName lang="en-GB" type="PT">Family history of morphoea</displayName>
+<displayName lang="en" type="FSN">Family history of morphea (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of localised scleroderma</displayName>
+</concept>
+<concept code="443877004">
+<displayName lang="en" type="PT">Family history of smoking</displayName>
+<displayName lang="en" type="FSN">Family history of smoking (situation)</displayName>
+</concept>
+<concept code="444094009">
+<displayName lang="en" type="PT">History of diabetes mellitus in child of subject</displayName>
+<displayName lang="en" type="FSN">History of diabetes mellitus in child of subject (situation)</displayName>
+</concept>
+<concept code="444161008">
+<displayName lang="en" type="PT">Maternal history of insulin dependence</displayName>
+<displayName lang="en" type="FSN">Maternal history of insulin dependence (situation)</displayName>
+</concept>
+<concept code="444180005">
+<displayName lang="en" type="PT">History of schizophrenia in child of subject</displayName>
+<displayName lang="en" type="FSN">History of schizophrenia in child of subject (situation)</displayName>
+</concept>
+<concept code="444221003">
+<displayName lang="en" type="PT">Spouse of subject is victim of crime</displayName>
+<displayName lang="en" type="FSN">Spouse of subject is victim of crime (situation)</displayName>
+</concept>
+<concept code="444333006">
+<displayName lang="en" type="PT">History of handicap in child of subject</displayName>
+<displayName lang="en" type="FSN">History of handicap in child of subject (situation)</displayName>
+</concept>
+<concept code="460616007">
+<displayName lang="en" type="PT">Education of family</displayName>
+<displayName lang="en" type="FSN">Education of family (situation)</displayName>
+<displayName lang="en" type="SY">Education of family member</displayName>
+<displayName lang="en" type="SY">Family education</displayName>
+</concept>
+<concept code="473070008">
+<displayName lang="en" type="PT">Family history of mitochondrial disease</displayName>
+<displayName lang="en" type="FSN">Family history of mitochondrial disease (situation)</displayName>
+</concept>
+<concept code="473071007">
+<displayName lang="en-GB" type="PT">Family history of oedema of lower extremity</displayName>
+<displayName lang="en" type="FSN">Family history of edema of lower extremity (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of lower limb oedema</displayName>
+</concept>
+<concept code="473316003">
+<displayName lang="en" type="PT">Relative aware of prognosis</displayName>
+<displayName lang="en" type="FSN">Relative aware of prognosis (situation)</displayName>
+</concept>
+<concept code="698248002">
+<displayName lang="en" type="PT">Family history of cardiac arrhythmia</displayName>
+<displayName lang="en" type="FSN">Family history of cardiac arrhythmia (situation)</displayName>
+</concept>
+<concept code="698650004">
+<displayName lang="en" type="PT">Family history of diabetes mellitus with complication</displayName>
+<displayName lang="en" type="FSN">Family history of diabetes mellitus with complication (situation)</displayName>
+</concept>
+<concept code="699057005">
+<displayName lang="en" type="PT">Family history of Addison disease</displayName>
+<displayName lang="en" type="FSN">Family history of Addison disease (situation)</displayName>
+<displayName lang="en" type="SY">Family history of Addison&apos;s disease</displayName>
+</concept>
+<concept code="699108005">
+<displayName lang="en" type="PT">Family history of tendinous xanthoma in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of tendinous xanthoma in first degree relative (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of tendon xanthoma in first degree relative</displayName>
+</concept>
+<concept code="699109002">
+<displayName lang="en" type="PT">Family history of tendinous xanthoma in second degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of tendinous xanthoma in second degree relative (situation)</displayName>
+<displayName lang="en-GB" type="SY">Family history of tendon xanthoma in second degree relative</displayName>
+</concept>
+<concept code="700190003">
+<displayName lang="en" type="PT">Family history of pre-eclampsia</displayName>
+<displayName lang="en" type="FSN">Family history of pre-eclampsia (situation)</displayName>
+</concept>
+<concept code="700191004">
+<displayName lang="en" type="PT">Family history of congenital hip dysplasia</displayName>
+<displayName lang="en" type="FSN">Family history of congenital hip dysplasia (situation)</displayName>
+</concept>
+<concept code="700192006">
+<displayName lang="en" type="PT">Family history of long QT syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of long QT syndrome (situation)</displayName>
+</concept>
+<concept code="700193001">
+<displayName lang="en" type="PT">Family history of squamous cell carcinoma of skin</displayName>
+<displayName lang="en" type="FSN">Family history of squamous cell carcinoma of skin (situation)</displayName>
+</concept>
+<concept code="703520001">
+<displayName lang="en" type="PT">Patient&apos;s child aware of diagnosis</displayName>
+<displayName lang="en" type="FSN">Patient&apos;s child aware of diagnosis (situation)</displayName>
+<displayName lang="en" type="SY">Child aware of patient diagnosis</displayName>
+</concept>
+<concept code="704008007">
+<displayName lang="en" type="PT">No family history of asthma</displayName>
+<displayName lang="en" type="FSN">No family history of asthma (situation)</displayName>
+</concept>
+<concept code="704009004">
+<displayName lang="en" type="PT">Family history of disorder of vein</displayName>
+<displayName lang="en" type="FSN">Family history of disorder of vein (situation)</displayName>
+</concept>
+<concept code="704071002">
+<displayName lang="en" type="PT">Maternal exposure to radiation</displayName>
+<displayName lang="en" type="FSN">Maternal exposure to radiation (situation)</displayName>
+</concept>
+<concept code="704141008">
+<displayName lang="en" type="PT">Maternal history of connective tissue disease</displayName>
+<displayName lang="en" type="FSN">Maternal history of connective tissue disease (situation)</displayName>
+</concept>
+<concept code="704143006">
+<displayName lang="en" type="PT">Maternal history of systemic lupus erythematosus</displayName>
+<displayName lang="en" type="FSN">Maternal history of systemic lupus erythematosus (situation)</displayName>
+</concept>
+<concept code="704144000">
+<displayName lang="en" type="PT">Maternal history of diabetes mellitus</displayName>
+<displayName lang="en" type="FSN">Maternal history of diabetes mellitus (situation)</displayName>
+</concept>
+<concept code="704145004">
+<displayName lang="en" type="PT">Maternal history of insulin dependent diabetes mellitus</displayName>
+<displayName lang="en" type="FSN">Maternal history of insulin dependent diabetes mellitus (situation)</displayName>
+</concept>
+<concept code="704146003">
+<displayName lang="en" type="PT">Maternal history of non-insulin dependent diabetes mellitus</displayName>
+<displayName lang="en" type="FSN">Maternal history of non-insulin dependent diabetes mellitus (situation)</displayName>
+</concept>
+<concept code="704502000">
+<displayName lang="en" type="PT">Partner pregnant</displayName>
+<displayName lang="en" type="FSN">Partner pregnant (situation)</displayName>
+</concept>
+<concept code="709090007">
+<displayName lang="en" type="PT">Family history of familial multiple polyposis syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of familial multiple polyposis syndrome (situation)</displayName>
+</concept>
+<concept code="709269007">
+<displayName lang="en" type="PT">Family education about treatment regime</displayName>
+<displayName lang="en" type="FSN">Family education about treatment regime (situation)</displayName>
+</concept>
+<concept code="709270008">
+<displayName lang="en" type="PT">Family education about transfer technique</displayName>
+<displayName lang="en" type="FSN">Family education about transfer technique (situation)</displayName>
+</concept>
+<concept code="709271007">
+<displayName lang="en" type="PT">Family education about thermoregulation</displayName>
+<displayName lang="en" type="FSN">Family education about thermoregulation (situation)</displayName>
+</concept>
+<concept code="709272000">
+<displayName lang="en" type="PT">Family education about infection prevention</displayName>
+<displayName lang="en" type="FSN">Family education about infection prevention (situation)</displayName>
+</concept>
+<concept code="709273005">
+<displayName lang="en" type="PT">Family education about susceptibility to infection</displayName>
+<displayName lang="en" type="FSN">Family education about susceptibility to infection (situation)</displayName>
+</concept>
+<concept code="709274004">
+<displayName lang="en" type="PT">Family education about prevention of cross infection</displayName>
+<displayName lang="en" type="FSN">Family education about prevention of cross infection (situation)</displayName>
+</concept>
+<concept code="709275003">
+<displayName lang="en" type="PT">Family education about monitoring respiratory status</displayName>
+<displayName lang="en" type="FSN">Family education about monitoring respiratory status (situation)</displayName>
+</concept>
+<concept code="709276002">
+<displayName lang="en" type="PT">Family education about pain management</displayName>
+<displayName lang="en" type="FSN">Family education about pain management (situation)</displayName>
+</concept>
+<concept code="709277006">
+<displayName lang="en" type="PT">Family education about light therapy</displayName>
+<displayName lang="en" type="FSN">Family education about light therapy (situation)</displayName>
+</concept>
+<concept code="709278001">
+<displayName lang="en" type="PT">Family education about infant development</displayName>
+<displayName lang="en" type="FSN">Family education about infant development (situation)</displayName>
+</concept>
+<concept code="709473008">
+<displayName lang="en" type="PT">Assessment of family knowledge of disease</displayName>
+<displayName lang="en" type="FSN">Assessment of family knowledge of disease (situation)</displayName>
+</concept>
+<concept code="710320006">
+<displayName lang="en-GB" type="PT">Family education about health seeking behaviour</displayName>
+<displayName lang="en" type="FSN">Family education about health seeking behavior (situation)</displayName>
+</concept>
+<concept code="710337004">
+<displayName lang="en" type="PT">Family education about fluid balance</displayName>
+<displayName lang="en" type="FSN">Family education about fluid balance (situation)</displayName>
+</concept>
+<concept code="710350003">
+<displayName lang="en" type="PT">Assessment of health needs of family done</displayName>
+<displayName lang="en" type="FSN">Assessment of health needs of family done (situation)</displayName>
+</concept>
+<concept code="710555007">
+<displayName lang="en" type="PT">Assessment of spiritual beliefs of family</displayName>
+<displayName lang="en" type="FSN">Assessment of spiritual beliefs of family (situation)</displayName>
+</concept>
+<concept code="710742009">
+<displayName lang="en" type="PT">Family education about community services</displayName>
+<displayName lang="en" type="FSN">Family education about community services (situation)</displayName>
+</concept>
+<concept code="710744005">
+<displayName lang="en" type="PT">Family education about delirium</displayName>
+<displayName lang="en" type="FSN">Family education about delirium (situation)</displayName>
+</concept>
+<concept code="710745006">
+<displayName lang="en" type="PT">Family education about device</displayName>
+<displayName lang="en" type="FSN">Family education about device (situation)</displayName>
+</concept>
+<concept code="710746007">
+<displayName lang="en" type="PT">Family education about diagnostic test</displayName>
+<displayName lang="en" type="FSN">Family education about diagnostic test (situation)</displayName>
+</concept>
+<concept code="710747003">
+<displayName lang="en" type="PT">Family education about dietary regime</displayName>
+<displayName lang="en" type="FSN">Family education about dietary regime (situation)</displayName>
+</concept>
+<concept code="710753003">
+<displayName lang="en" type="PT">Family education about hygiene</displayName>
+<displayName lang="en" type="FSN">Family education about hygiene (situation)</displayName>
+</concept>
+<concept code="710754009">
+<displayName lang="en" type="PT">Family education about fall prevention</displayName>
+<displayName lang="en" type="FSN">Family education about fall prevention (situation)</displayName>
+</concept>
+<concept code="710755005">
+<displayName lang="en" type="PT">Family education about disease</displayName>
+<displayName lang="en" type="FSN">Family education about disease (situation)</displayName>
+</concept>
+<concept code="710757002">
+<displayName lang="en" type="PT">Family education about electrolyte therapy</displayName>
+<displayName lang="en" type="FSN">Family education about electrolyte therapy (situation)</displayName>
+</concept>
+<concept code="710851008">
+<displayName lang="en-GB" type="PT">Assessment of family coping behaviour</displayName>
+<displayName lang="en" type="FSN">Assessment of family coping behavior (situation)</displayName>
+</concept>
+<concept code="710922005">
+<displayName lang="en" type="PT">Provision of anticipatory guidance to family</displayName>
+<displayName lang="en" type="FSN">Provision of anticipatory guidance to family (situation)</displayName>
+</concept>
+<concept code="710983003">
+<displayName lang="en" type="PT">Family education about administration of blood product</displayName>
+<displayName lang="en" type="FSN">Family education about administration of blood product (situation)</displayName>
+</concept>
+<concept code="710989004">
+<displayName lang="en" type="PT">Family education about fluid therapy</displayName>
+<displayName lang="en" type="FSN">Family education about fluid therapy (situation)</displayName>
+</concept>
+<concept code="1421000119104">
+<displayName lang="en" type="PT">Family history of colorectal cancer</displayName>
+<displayName lang="en" type="FSN">Family history of colorectal cancer (situation)</displayName>
+</concept>
+<concept code="13961000119104">
+<displayName lang="en" type="PT">Family history of clubfoot</displayName>
+<displayName lang="en" type="FSN">Family history of clubfoot (situation)</displayName>
+</concept>
+<concept code="44241000119103">
+<displayName lang="en" type="PT">Adult child of alcoholic</displayName>
+<displayName lang="en" type="FSN">Adult child of alcoholic (situation)</displayName>
+<displayName lang="en" type="SY">Adult child of alcoholic (ACA)</displayName>
+</concept>
+<concept code="63761000119101">
+<displayName lang="en" type="PT">Family history of autism in sibling</displayName>
+<displayName lang="en" type="FSN">Family history of autism in sibling (situation)</displayName>
+</concept>
+<concept code="63901000119104">
+<displayName lang="en" type="PT">Family history of Tay-Sachs disease</displayName>
+<displayName lang="en" type="FSN">Family history of Tay-Sachs disease (situation)</displayName>
+</concept>
+<concept code="63921000119108">
+<displayName lang="en" type="PT">Family history of Rett syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of Rett syndrome (situation)</displayName>
+</concept>
+<concept code="63941000119102">
+<displayName lang="en" type="PT">Family history of congenital hydrocephalus</displayName>
+<displayName lang="en" type="FSN">Family history of congenital hydrocephalus (situation)</displayName>
+</concept>
+<concept code="64021000119106">
+<displayName lang="en" type="PT">Family history of neurological developmental delay</displayName>
+<displayName lang="en" type="FSN">Family history of neurological developmental delay (situation)</displayName>
+</concept>
+<concept code="64041000119100">
+<displayName lang="en" type="PT">Family history of complex congenital heart disease</displayName>
+<displayName lang="en" type="FSN">Family history of complex congenital heart disease (situation)</displayName>
+</concept>
+<concept code="64081000119105">
+<displayName lang="en-GB" type="PT">Family history of galactosaemia</displayName>
+<displayName lang="en" type="FSN">Family history of galactosemia (situation)</displayName>
+</concept>
+<concept code="64111000119100">
+<displayName lang="en-GB" type="PT">Family history of combined hyperlipidaemia</displayName>
+<displayName lang="en" type="FSN">Family history of combined hyperlipidemia (situation)</displayName>
+</concept>
+<concept code="64121000119107">
+<displayName lang="en" type="PT">Family history of achondroplasia</displayName>
+<displayName lang="en" type="FSN">Family history of achondroplasia (situation)</displayName>
+</concept>
+<concept code="64131000119105">
+<displayName lang="en" type="PT">Family history of methylmalonic aciduria</displayName>
+<displayName lang="en" type="FSN">Family history of methylmalonic aciduria (situation)</displayName>
+</concept>
+<concept code="64161000119102">
+<displayName lang="en" type="PT">Family history of phenylketonuria</displayName>
+<displayName lang="en" type="FSN">Family history of phenylketonuria (situation)</displayName>
+</concept>
+<concept code="64181000119106">
+<displayName lang="en" type="PT">Family history of Marfan syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of Marfan syndrome (situation)</displayName>
+</concept>
+<concept code="64251000119106">
+<displayName lang="en" type="PT">Family history of glycogen storage disease</displayName>
+<displayName lang="en" type="FSN">Family history of glycogen storage disease (situation)</displayName>
+</concept>
+<concept code="64371000119105">
+<displayName lang="en-GB" type="PT">Family history of beta thalassaemia</displayName>
+<displayName lang="en" type="FSN">Family history of beta thalassemia (situation)</displayName>
+</concept>
+<concept code="64431000119101">
+<displayName lang="en-GB" type="PT">Family history of alpha thalassaemia</displayName>
+<displayName lang="en" type="FSN">Family history of alpha thalassemia (situation)</displayName>
+</concept>
+<concept code="64501000119109">
+<displayName lang="en-GB" type="PT">Family history of haemoglobinopathy</displayName>
+<displayName lang="en" type="FSN">Family history of hemoglobinopathy (situation)</displayName>
+</concept>
+<concept code="64521000119100">
+<displayName lang="en" type="PT">Family history of Von Willebrand disease</displayName>
+<displayName lang="en" type="FSN">Family history of Von Willebrand disease (situation)</displayName>
+</concept>
+<concept code="64571000119104">
+<displayName lang="en" type="PT">Family history of abdominal wall defect</displayName>
+<displayName lang="en" type="FSN">Family history of abdominal wall defect (situation)</displayName>
+</concept>
+<concept code="64651000119109">
+<displayName lang="en" type="PT">Family history of ambiguous genitalia</displayName>
+<displayName lang="en" type="FSN">Family history of ambiguous genitalia (situation)</displayName>
+</concept>
+<concept code="64851000119105">
+<displayName lang="en" type="PT">Family history of Prader-Willi syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of Prader-Willi syndrome (situation)</displayName>
+</concept>
+<concept code="64911000119103">
+<displayName lang="en" type="PT">Family history of cystic hygroma</displayName>
+<displayName lang="en" type="FSN">Family history of cystic hygroma (situation)</displayName>
+</concept>
+<concept code="65001000119101">
+<displayName lang="en" type="PT">Family history of connective tissue disorder</displayName>
+<displayName lang="en" type="FSN">Family history of connective tissue disorder (situation)</displayName>
+</concept>
+<concept code="65011000119103">
+<displayName lang="en" type="PT">Family history of autosomal aneuploidy</displayName>
+<displayName lang="en" type="FSN">Family history of autosomal aneuploidy (situation)</displayName>
+</concept>
+<concept code="65021000119105">
+<displayName lang="en" type="PT">Family history of neurofibromatosis</displayName>
+<displayName lang="en" type="FSN">Family history of neurofibromatosis (situation)</displayName>
+</concept>
+<concept code="65071000119106">
+<displayName lang="en" type="PT">Family history of fragile X syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of fragile X syndrome (situation)</displayName>
+</concept>
+<concept code="69731000119107">
+<displayName lang="en" type="PT">Family history of short stature</displayName>
+<displayName lang="en" type="FSN">Family history of short stature (situation)</displayName>
+</concept>
+<concept code="71201000119102">
+<displayName lang="en" type="PT">Family history of hypospadias</displayName>
+<displayName lang="en" type="FSN">Family history of hypospadias (situation)</displayName>
+</concept>
+<concept code="71221000119106">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of ureter</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of ureter (situation)</displayName>
+</concept>
+<concept code="71231000119109">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of urethra</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of urethra (situation)</displayName>
+</concept>
+<concept code="71261000119101">
+<displayName lang="en" type="PT">Family history of hydronephrosis</displayName>
+<displayName lang="en" type="FSN">Family history of hydronephrosis (situation)</displayName>
+</concept>
+<concept code="71271000119107">
+<displayName lang="en" type="PT">Family history of retinitis pigmentosa</displayName>
+<displayName lang="en" type="FSN">Family history of retinitis pigmentosa (situation)</displayName>
+</concept>
+<concept code="74131000119101">
+<displayName lang="en-GB" type="PT">Family history of hyperbetalipoproteinaemia</displayName>
+<displayName lang="en" type="FSN">Family history of hyperbetalipoproteinemia (situation)</displayName>
+</concept>
+<concept code="74171000119103">
+<displayName lang="en-GB" type="PT">Family history of hypoalphalipoproteinaemia</displayName>
+<displayName lang="en" type="FSN">Family history of hypoalphalipoproteinemia (situation)</displayName>
+</concept>
+<concept code="85951000119104">
+<displayName lang="en" type="PT">Family history of single congenital anomaly</displayName>
+<displayName lang="en" type="FSN">Family history of single congenital anomaly (situation)</displayName>
+</concept>
+<concept code="94691000119101">
+<displayName lang="en" type="PT">Family history of familial dysautonomia</displayName>
+<displayName lang="en" type="FSN">Family history of familial dysautonomia (situation)</displayName>
+</concept>
+<concept code="94721000119105">
+<displayName lang="en" type="PT">Family history of craniosynostosis</displayName>
+<displayName lang="en" type="FSN">Family history of craniosynostosis (situation)</displayName>
+</concept>
+<concept code="94741000119104">
+<displayName lang="en" type="PT">Family history of macrocephaly</displayName>
+<displayName lang="en" type="FSN">Family history of macrocephaly (situation)</displayName>
+</concept>
+<concept code="94761000119100">
+<displayName lang="en" type="PT">Family history of microcephaly</displayName>
+<displayName lang="en" type="FSN">Family history of microcephaly (situation)</displayName>
+</concept>
+<concept code="98011000119108">
+<displayName lang="en" type="PT">Family history of pseudocholinesterase deficiency</displayName>
+<displayName lang="en" type="FSN">Family history of pseudocholinesterase deficiency (situation)</displayName>
+</concept>
+<concept code="98041000119107">
+<displayName lang="en" type="PT">Family history of osteogenesis imperfecta</displayName>
+<displayName lang="en" type="FSN">Family history of osteogenesis imperfecta (situation)</displayName>
+</concept>
+<concept code="98251000119101">
+<displayName lang="en" type="PT">Family history of Canavan disease</displayName>
+<displayName lang="en" type="FSN">Family history of spongy degeneration of central nervous system (situation)</displayName>
+<displayName lang="en" type="SY">Family history of spongy degeneration of central nervous system</displayName>
+</concept>
+<concept code="108801000119109">
+<displayName lang="en" type="PT">Family history of blood coagulation disorder</displayName>
+<displayName lang="en" type="FSN">Family history of blood coagulation disorder (situation)</displayName>
+<displayName lang="en" type="SY">Family history of bleeding disorder</displayName>
+</concept>
+<concept code="108891000119103">
+<displayName lang="en" type="PT">Family history of antithrombin III deficiency</displayName>
+<displayName lang="en" type="FSN">Family history of antithrombin III deficiency (situation)</displayName>
+</concept>
+<concept code="108981000119107">
+<displayName lang="en" type="PT">Family history of protein S deficiency</displayName>
+<displayName lang="en" type="FSN">Family history of protein S deficiency (situation)</displayName>
+</concept>
+<concept code="109001000119105">
+<displayName lang="en" type="PT">Family history of protein C deficiency</displayName>
+<displayName lang="en" type="FSN">Family history of protein C deficiency (situation)</displayName>
+</concept>
+<concept code="109241000119103">
+<displayName lang="en" type="PT">Family history of eruptive xanthoma</displayName>
+<displayName lang="en" type="FSN">Family history of eruptive xanthoma (situation)</displayName>
+</concept>
+<concept code="117361000119104">
+<displayName lang="en" type="PT">Family history of sudden cardiac death</displayName>
+<displayName lang="en" type="FSN">Family history of sudden cardiac death (situation)</displayName>
+</concept>
+<concept code="118651000119105">
+<displayName lang="en" type="PT">Family history of Hashimoto thyroiditis</displayName>
+<displayName lang="en" type="FSN">Family history of Hashimoto thyroiditis (situation)</displayName>
+</concept>
+<concept code="130771000119102">
+<displayName lang="en" type="PT">Family history of hypercoagulable state</displayName>
+<displayName lang="en" type="FSN">Family history of hypercoagulable state (situation)</displayName>
+</concept>
+<concept code="134591000119102">
+<displayName lang="en" type="PT">Family history of substance abuse</displayName>
+<displayName lang="en" type="FSN">Family history of substance abuse (situation)</displayName>
+</concept>
+<concept code="138081000119104">
+<displayName lang="en-GB" type="PT">Family history of haematuria</displayName>
+<displayName lang="en" type="FSN">Family history of hematuria (situation)</displayName>
+</concept>
+<concept code="138701000119105">
+<displayName lang="en" type="PT">Family history of gene mutation</displayName>
+<displayName lang="en" type="FSN">Family history of gene mutation (situation)</displayName>
+</concept>
+<concept code="138711000119108">
+<displayName lang="en" type="PT">Family history of sebaceous carcinoma</displayName>
+<displayName lang="en" type="FSN">Family history of sebaceous carcinoma (situation)</displayName>
+</concept>
+<concept code="138721000119101">
+<displayName lang="en" type="PT">Family history of sebaceous adenoma</displayName>
+<displayName lang="en" type="FSN">Family history of sebaceous adenoma (situation)</displayName>
+</concept>
+<concept code="138751000119109">
+<displayName lang="en" type="PT">Family history of Muir-Torr&#233; syndrome</displayName>
+<displayName lang="en" type="FSN">Family history of Muir-Torr&#233; syndrome (situation)</displayName>
+</concept>
+<concept code="143461000119107">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of breast in first degree relative less than 50 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of breast in first degree relative less than 50 years of age (situation)</displayName>
+</concept>
+<concept code="143691000119102">
+<displayName lang="en" type="PT">Family history of breast cancer gene mutation in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of breast cancer gene mutation in first degree relative (situation)</displayName>
+</concept>
+<concept code="144171000119108">
+<displayName lang="en" type="PT">Family history of autosomal translocation</displayName>
+<displayName lang="en" type="FSN">Family history of autosomal translocation (situation)</displayName>
+</concept>
+<concept code="151181000119106">
+<displayName lang="en" type="PT">Family history of chronic respiratory disease</displayName>
+<displayName lang="en" type="FSN">Family history of chronic respiratory disease (situation)</displayName>
+</concept>
+<concept code="154031000119107">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of endometrium</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of endometrium (situation)</displayName>
+</concept>
+<concept code="154141000119104">
+<displayName lang="en" type="PT">Family history of malignant neoplasm of breast diagnosed before 45 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of malignant neoplasm of breast diagnosed before 45 years of age (situation)</displayName>
+</concept>
+<concept code="198301000000109">
+<displayName lang="en-GB" type="PT">Family history of deep vein thrombosis</displayName>
+<displayName lang="en" type="FSN">Family history of deep vein thrombosis (situation)</displayName>
+<displayName lang="en-GB" type="SY">FH: deep vein thrombosis</displayName>
+</concept>
+<concept code="198381000000104">
+<displayName lang="en-GB" type="PT">FH: Hypertrophic obstructive cardiomyopathy</displayName>
+<displayName lang="en" type="FSN">Family history of hypertrophic obstructive cardiomyopathy (situation)</displayName>
+<displayName lang="en" type="SY">Family history of HOCM (hypertrophic obstructive cardiomyopathy)</displayName>
+</concept>
+<concept code="198921000000101">
+<displayName lang="en-GB" type="PT">Fertility problems in partner</displayName>
+<displayName lang="en" type="FSN">Fertility problems in partner (situation)</displayName>
+</concept>
+<concept code="199071000000106">
+<displayName lang="en-GB" type="PT">FH: Lactose intolerance</displayName>
+<displayName lang="en" type="FSN">Family history of lactose intolerance (situation)</displayName>
+</concept>
+<concept code="199731000000107">
+<displayName lang="en-GB" type="PT">FH: Anomalous coronary artery</displayName>
+<displayName lang="en" type="FSN">Family history of anomalous coronary artery (situation)</displayName>
+</concept>
+<concept code="203261000000108">
+<displayName lang="en-GB" type="PT">Family history of coronary heart disease</displayName>
+<displayName lang="en" type="FSN">Family history of coronary heart disease (situation)</displayName>
+</concept>
+<concept code="287351000000105">
+<displayName lang="en" type="PT">Family history of substance misuse</displayName>
+<displayName lang="en" type="FSN">Family history of substance misuse (situation)</displayName>
+</concept>
+<concept code="293161000000103">
+<displayName lang="en" type="PT">Family history of alcohol misuse</displayName>
+<displayName lang="en" type="FSN">Family history of alcohol misuse (situation)</displayName>
+</concept>
+<concept code="293371000000108">
+<displayName lang="en" type="PT">Family member on child protection register</displayName>
+<displayName lang="en" type="FSN">Family member on child protection register (situation)</displayName>
+</concept>
+<concept code="335271000000100">
+<displayName lang="en" type="PT">Family history of subarachnoid haemorrhage</displayName>
+<displayName lang="en" type="FSN">Family history of subarachnoid haemorrhage (situation)</displayName>
+<displayName lang="en" type="SY">FH: Subarachnoid haemorrhage</displayName>
+</concept>
+<concept code="342481000000105">
+<displayName lang="en" type="PT">Family history of human immunodeficiency virus</displayName>
+<displayName lang="en" type="FSN">Family history of human immunodeficiency virus (situation)</displayName>
+<displayName lang="en" type="SY">Family history of HIV (human immunodeficiency virus)</displayName>
+</concept>
+<concept code="375041000000100">
+<displayName lang="en" type="PT">Family member subject of child protection plan</displayName>
+<displayName lang="en" type="FSN">Family member subject of child protection plan (situation)</displayName>
+</concept>
+<concept code="375071000000106">
+<displayName lang="en" type="PT">Family member no longer subject of child protection plan</displayName>
+<displayName lang="en" type="FSN">Family member no longer subject of child protection plan (situation)</displayName>
+</concept>
+<concept code="492391000000100">
+<displayName lang="en" type="PT">Family history of lymphoedema</displayName>
+<displayName lang="en" type="FSN">Family history of lymphoedema (situation)</displayName>
+</concept>
+<concept code="494251000000109">
+<displayName lang="en" type="PT">Mother has physical disability</displayName>
+<displayName lang="en" type="FSN">Mother has physical disability (situation)</displayName>
+</concept>
+<concept code="494281000000103">
+<displayName lang="en" type="PT">Father has physical disability</displayName>
+<displayName lang="en" type="FSN">Father has physical disability (situation)</displayName>
+</concept>
+<concept code="495171000000108">
+<displayName lang="en" type="PT">Family history of childhood convulsion</displayName>
+<displayName lang="en" type="FSN">Family history of childhood convulsion (situation)</displayName>
+</concept>
+<concept code="515711000000105">
+<displayName lang="en" type="PT">Family history of myocardial infarction in second degree relative less than 50 years</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in second degree relative less than 50 years (situation)</displayName>
+</concept>
+<concept code="515741000000106">
+<displayName lang="en" type="PT">Family history of myocardial infarction in first degree relative less than 60 years</displayName>
+<displayName lang="en" type="FSN">Family history of myocardial infarction in first degree relative less than 60 years (situation)</displayName>
+</concept>
+<concept code="515781000000103">
+<displayName lang="en" type="PT">Family history of total cholesterol greater than 6.7 millimoles per litre in child or sibling under 16 years of age</displayName>
+<displayName lang="en" type="FSN">Family history of total cholesterol greater than 6.7 millimoles per litre in child or sibling under 16 years of age (situation)</displayName>
+</concept>
+<concept code="515791000000101">
+<displayName lang="en" type="PT">Family history of total cholesterol greater than 7.5 millimoles per litre in first or second degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of total cholesterol greater than 7.5 millimoles per litre in first or second degree relative (situation)</displayName>
+</concept>
+<concept code="520301000000107">
+<displayName lang="en" type="PT">Family history of venous disease</displayName>
+<displayName lang="en" type="FSN">Family history of venous disease (situation)</displayName>
+</concept>
+<concept code="537231000000106">
+<displayName lang="en" type="PT">FH: Mental disorder NOS</displayName>
+<displayName lang="en" type="FSN">Family history: Mental disorder NOS (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Mental disorder NOS</displayName>
+</concept>
+<concept code="570091000000103">
+<displayName lang="en" type="PT">FH: Endocrine disorder NOS</displayName>
+<displayName lang="en" type="FSN">Family history: Endocrine disorder NOS (situation)</displayName>
+<displayName lang="en" type="SY">Family history: Endocrine disorder NOS</displayName>
+</concept>
+<concept code="758811000000100">
+<displayName lang="en" type="PT">No family history of bowel cancer</displayName>
+<displayName lang="en" type="FSN">No family history of bowel cancer (situation)</displayName>
+</concept>
+<concept code="758821000000106">
+<displayName lang="en" type="PT">No family history of ovarian cancer</displayName>
+<displayName lang="en" type="FSN">No family history of ovarian cancer (situation)</displayName>
+</concept>
+<concept code="758841000000104">
+<displayName lang="en" type="PT">Family history of fragile X syndrome in first degree relative</displayName>
+<displayName lang="en" type="FSN">Family history of fragile X syndrome in first degree relative (situation)</displayName>
+</concept>
+<concept code="759351000000104">
+<displayName lang="en" type="PT">No family history of hip fracture in first degree relative</displayName>
+<displayName lang="en" type="FSN">No family history of hip fracture in first degree relative (situation)</displayName>
+</concept>
+<concept code="763241000000104">
+<displayName lang="en" type="PT">Family history of thrombophilia</displayName>
+<displayName lang="en" type="FSN">Family history of thrombophilia (situation)</displayName>
+</concept>
+<concept code="777541000000103">
+<displayName lang="en" type="PT">No family history of mitochondrial cytopathy</displayName>
+<displayName lang="en" type="FSN">No family history of mitochondrial cytopathy (situation)</displayName>
+<displayName lang="en" type="SY">No family history of mitochondrial disease</displayName>
+</concept>
+<concept code="777571000000109">
+<displayName lang="en" type="PT">No family history of renal disease</displayName>
+<displayName lang="en" type="FSN">No family history of renal disease (situation)</displayName>
+</concept>
+<concept code="777581000000106">
+<displayName lang="en" type="PT">No family history of hearing loss</displayName>
+<displayName lang="en" type="FSN">No family history of hearing loss (situation)</displayName>
+<displayName lang="en" type="SY">No family history of hearing impairment</displayName>
+</concept>
+<concept code="809201000000102">
+<displayName lang="en" type="PT">Mother hepatitis B positive</displayName>
+<displayName lang="en" type="FSN">Mother hepatitis B positive (situation)</displayName>
+</concept>
+<concept code="821691000000104">
+<displayName lang="en" type="PT">FH: MCADD (medium chain acyl coenzyme A dehydrogenase deficiency)</displayName>
+<displayName lang="en" type="FSN">Family history of medium chain acyl coenzyme A dehydrogenase deficiency (situation)</displayName>
+</concept>
+<concept code="858191000000103">
+<displayName lang="en" type="PT">FH: peripheral vascular disease</displayName>
+<displayName lang="en" type="FSN">Family history of peripheral vascular disease (situation)</displayName>
+</concept>
+<concept code="858671000000107">
+<displayName lang="en" type="PT">No FH of hypercholesterolaemia</displayName>
+<displayName lang="en" type="FSN">No family history of hypercholesterolaemia (situation)</displayName>
+</concept>
+<concept code="864491000000105">
+<displayName lang="en" type="PT">Has child subject of child protection plan</displayName>
+<displayName lang="en" type="FSN">Has child subject of child protection plan (situation)</displayName>
+</concept>
+<concept code="876461000000101">
+<displayName lang="en" type="PT">No FH of epilepsy</displayName>
+<displayName lang="en" type="FSN">No family history of epilepsy (situation)</displayName>
+</concept>
+<concept code="877691000000107">
+<displayName lang="en" type="PT">No FH of lung cancer</displayName>
+<displayName lang="en" type="FSN">No family history of malignant neoplasm of lung (situation)</displayName>
+</concept>
+<concept code="878401000000104">
+<displayName lang="en" type="PT">No FH of prostate cancer</displayName>
+<displayName lang="en" type="FSN">No family history of malignant tumour of prostate (situation)</displayName>
+</concept>
+<concept code="878421000000108">
+<displayName lang="en" type="PT">No FH of bladder cancer</displayName>
+<displayName lang="en" type="FSN">No family history of malignant tumour of urinary bladder (situation)</displayName>
+</concept>
+<concept code="878441000000101">
+<displayName lang="en" type="PT">No FH of squamous cell carcinoma of skin</displayName>
+<displayName lang="en" type="FSN">No family history of squamous cell carcinoma of skin (situation)</displayName>
+</concept>
+<concept code="878461000000100">
+<displayName lang="en" type="PT">No FH of non-Hodgkin lymphoma</displayName>
+<displayName lang="en" type="FSN">No family history of non-Hodgkin lymphoma (situation)</displayName>
+</concept>
+<concept code="902961000000107">
+<displayName lang="en" type="PT">Family history of FGM (female genital mutilation)</displayName>
+<displayName lang="en" type="FSN">Family history of female genital mutilation (situation)</displayName>
+</concept>
+<concept code="919701000000100">
+<displayName lang="en" type="PT">No FH of breast cancer meeting NICE CG164 referral criteria</displayName>
+<displayName lang="en" type="FSN">No family history of breast cancer meeting National Institute of Health and Care Excellence Clinical Guideline 164 referral criteria (situation)</displayName>
+</concept>
+<concept code="932441000000109">
+<displayName lang="en" type="PT">No family history of Parkinson&apos;s disease</displayName>
+<displayName lang="en" type="FSN">No family history of Parkinson&apos;s disease (situation)</displayName>
+</concept>
+<concept code="959511000000100">
+<displayName lang="en" type="PT">Family history of end stage renal disease</displayName>
+<displayName lang="en" type="FSN">Family history of end stage renal disease (situation)</displayName>
+</concept>
+<concept code="966191000000101">
+<displayName lang="en" type="PT">No family history of coeliac disease</displayName>
+<displayName lang="en" type="FSN">No family history of coeliac disease (situation)</displayName>
+</concept>
+<concept code="977651000000105">
+<displayName lang="en" type="PT">No family history of female genital mutilation</displayName>
+<displayName lang="en" type="FSN">No family history of female genital mutilation (situation)</displayName>
+</concept>
+<concept code="986391000000100">
+<displayName lang="en" type="PT">Parental health issue</displayName>
+<displayName lang="en" type="FSN">Parental health issue (situation)</displayName>
+</concept>
+<concept code="1098871000119109">
+<displayName lang="en" type="PT">Family history of hereditary nonpolyposis colon cancer</displayName>
+<displayName lang="en" type="FSN">Family history of hereditary nonpolyposis colon cancer (situation)</displayName>
+</concept>
+<concept code="10624401000119102">
+<displayName lang="en" type="PT">Family history of stroke due to aneurysm</displayName>
+<displayName lang="en" type="FSN">Family history of stroke due to aneurysm (situation)</displayName>
+</concept>
+<concept code="10624451000119103">
+<displayName lang="en" type="PT">Family history of aneurysm of blood vessel of brain</displayName>
+<displayName lang="en" type="FSN">Family history of aneurysm of blood vessel of brain (situation)</displayName>
+</concept>
+<concept code="19260001000004109">
+<displayName lang="en-GB" type="PT">Abuse counselling for non-offending parent</displayName>
+<displayName lang="en" type="FSN">Abuse counseling for non-offending parent (situation)</displayName>
+</concept>
+<concept code="19270001000004103">
+<displayName lang="en-GB" type="PT">Abuse counselling for offending parent</displayName>
+<displayName lang="en" type="FSN">Abuse counseling for offending parent (situation)</displayName>
+</concept>
+</vocabulary>

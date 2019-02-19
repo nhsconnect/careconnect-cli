@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CriteriaCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.142">
+   <Description>
+            <p>This describes the meaning of the Search Criteria used to generate the shortlist or which is provided with an uninitialised request to search the Choose and Book Directory of Services when a seamless transition is performed active Service Shortlist.</p>
+         </Description>
+   <concept code="DF">
+      <displayName>Distance From</displayName>
+   </concept>
+   <concept code="DFP">
+      <displayName>Distance From Postcode</displayName>
+   </concept>
+   <concept code="IWT">
+      <displayName>Indicative Wait Time</displayName>
+   </concept>
+   <concept code="KW">
+      <displayName>Keyword</displayName>
+   </concept>
+   <concept code="NC">
+      <displayName>Named Clinician</displayName>
+   </concept>
+   <concept code="OC">
+      <displayName>Organisation Code</displayName>
+   </concept>
+   <concept code="OS">
+      <displayName>Organisation String</displayName>
+   </concept>
+   <concept code="SMF">
+      <displayName>Staff Mix Female</displayName>
+   </concept>
+   <concept code="SMM">
+      <displayName>Staff Mix Male</displayName>
+   </concept>
+   <concept code="SMMF">
+      <displayName>Staff Mix Male or Female</displayName>
+   </concept>
+   <concept code="SP">
+      <displayName>Specialty</displayName>
+   </concept>
+   <concept code="ECI">
+      <displayName>Extended Choice Indicator</displayName>
+   </concept>
+   <concept code="IAR">
+      <displayName>Ignore Age Restriction</displayName>
+   </concept>
+   <concept code="IGR">
+      <displayName>Ignore Gender Restriction</displayName>
+   </concept>
+   <concept code="MIWT">
+      <displayName>Maximum Indicative Wait Time</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Postcode</displayName>
+   </concept>
+   <concept code="SDIST">
+      <displayName>Search Distance</displayName>
+   </concept>
+   <concept code="SKEYW">
+      <displayName>Search Keyword</displayName>
+   </concept>
+   <concept code="SO">
+      <displayName>Search Organisation</displayName>
+   </concept>
+   <concept code="SSC">
+      <displayName>Search Service Classification</displayName>
+   </concept>
+</vocabulary>

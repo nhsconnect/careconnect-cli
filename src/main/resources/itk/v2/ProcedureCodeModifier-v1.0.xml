@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureCodeModifier" version="1.0" status="created"
+            id="2.16.840.1.113883.12.340">
+   <Description>This table contains the procedure code modifier to the procedure code reported in FT1-25-procedure code, when applicable.
+					Table type: User</Description>
+</vocabulary>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ActDetectedIssueCode" version="10.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.19.13">
+   <Description>
+            <p>
+               <p/>
+               <p>A generic vocabulary name acting as a placeholder for a number of specific response code vocabularies that identify issue and error codes. Some of the specific vocabularies are published in this MiM, while others are externally maintained and are available from a location detailed in the list below.</p>
+               <p>Each code system shall be qualified by a qualifier from the <b>DetectedIssueQualifier</b> vocabulary. See the <b>QualificationOfDetectedIssue</b> code system for the formal specification of how these code systems can be combined.</p>
+               <ul>
+                  <li>
+                     <b>PSISResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.33) 		A consolidated list of error/issue codes detected by PSIS that can be generated in response to any message received by PSIS. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>LRResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.12) 		A consolidated list of error/issue codes for LR messages. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>PDSResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.42) 		A consolidated list of error/issue codes for PDS messages. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>EBSResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.100) 		A consolidated list of error/issue codes for EBS messages. This code system is maintained externally by Atos Origin and listed in Appendix A of the current version of Choose and Book Compliance (EBS-AN\BA\BA011). 		 			</li>
+                  <li>
+                     <b>EhrRequestAckCode</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.101) 		Currently carries GP2GP request acknowledgement information. Will eventually become a consolidated list of error/issue codes for GP2GP messages. This code system is currently maintained by NPfIT and can be accesed from FileCM ref NPFIT-PC-BLD-0083. 		 			</li>
+                  <li>
+                     <b>POCResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.102) 		A consolidated list of error/issue codes detected by all recipients of POC messages with the exception of PSIS (See PSISResponseCodes above) Currently unused by NPfIT. 		 			</li>
+                  <li>
+                     <b>MHResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.103) 		A consolidated list of error/issue codes for MH messages. Currently unused by NPfIT. 		 			</li>
+                  <li>
+                     <b>CancellationResponseReason</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.19) 		Describes possible responses to a cancellation request. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>ETPSpineRejectionReasons</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.22) 		Describes reasons for refusing to allow the returning of a prescription rather than dispensing it and reasons why a prescription to be placed in the ETP System to be dispensed has been rejected. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>PrescriptionReleaseRejectionReason</b> (OID = 2.16.840.1.113883.2.1.3.2.4.16.34) 		Describes any reasons for rejecting a request to release a prescription. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears. 		 			</li>
+                  <li>
+                     <b>ReimbursementRejectionReason</b> (OID = 2.16.840.1.113883.2.1.3.2.4.16.37) 		Describes any reason for rejecting reimbursement claims. This code system is managed externally by the PPA. 		 			</li>
+                  <li>
+                     <b>AlertErrorCode</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.195) 		Code used to indicate error in a received alert message. The concepts defined by this code system are maintained externally by BT. The set of concepts pertaining to this version of the code system are published in the EIS version that references the MIM in which this code system version appears.</li>
+                  <li>
+                     <b>PointToPointResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.227) A consolidated list of error/issue codes detected by Systems that canbe generated in response to any message received as part of a PSIS CDA Clinical Domain communication during Point to Point messaging. The concepts  defined by this code system are maintained by NHS CfH. The set of concepts pertaining to  his version of the code system are published in the PSIS Clinical Domains Point to Point Error Handling Specification  (NPFIT-FNT-TO-REQ-DEL-0154).  If Suppliers require an update to this list, the new error  should be submitted to NHS CfH Messaging Team for inclusion.</li>
+                  <li>
+                     <b>PathologyResponseCodes</b> (OID = 2.16.840.1.113883.2.1.3.2.4.17.250) A consolidated list of error/issue codes for Pathology domain messages. The concepts defined by this code system are maintained externally from the MIM.</li>
+                  <li>
+                     <b>CP-ISResponseCodes</b>  (OID = 2.16.840.1.113883.2.1.3.2.4.17.475) A consolidated list of  error/issue codes for Child Protection Information Service domain messages. This is only for specifications released after MIM 7.2.02.<br/>
+                  </li>
+               </ul>
+               <p/>
+            </p>
+         </Description>
+</vocabulary>

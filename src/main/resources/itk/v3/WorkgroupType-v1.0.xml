@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="WorkgroupType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.181">
+   <Description>
+            <p>Indicates the type of workgroup.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Standard</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Long Term Care</displayName>
+   </concept>
+</vocabulary>

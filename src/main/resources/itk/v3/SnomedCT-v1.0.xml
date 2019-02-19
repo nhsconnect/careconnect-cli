@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SnomedCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.15</p>
+            <p>A subset of the Snomed-CT clinical terminology (i.e. coding system) intended for use in the UK. Previously named SnomedCTUK.</p>
+            <p>Any code from the UK subset of Snomed-CT</p>
+         </Description>
+</vocabulary>

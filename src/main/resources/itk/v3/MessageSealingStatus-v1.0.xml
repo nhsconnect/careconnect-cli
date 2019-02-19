@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MessageSealingStatus" version="1.0" status="deprecated"
+            id="2.16.840.1.113883.2.1.3.2.4.17.157">
+   <Description>
+            <p>Assigned OID:   2.16.840.1.113883.2.1.3.2.4.17.157</p>
+	           <p>Indicates whether the message contains sealed information.</p>
+         </Description>
+   <concept code="0">
+      <displayName>No sealed content</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>Sealed content</displayName>
+   </concept>
+</vocabulary>

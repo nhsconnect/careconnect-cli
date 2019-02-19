@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeNotificationAgreeCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.272">
+   <Description>
+            <table width="100%" border="0"
+             id="current_codeSystemMainView:current_codeSystemView:CSForm:CSOutputPanel">
+               <tbody>
+                  <tr>
+                     <td class="W15">
+                        <span/>
+                        <br/>
+                     </td>
+                     <td class="W100"> A set of codes to describe the discharge notification agreement. </td>
+                  </tr>
+               </tbody>
+            </table>
+         </Description>
+   <concept code="SIP">
+      <displayName>Social Services agree with the discharge date and the planned services are ready</displayName>
+   </concept>
+   <concept code="SWBIP">
+      <displayName>Social Services agree with the discharge data and the planned services will be in place on the discharge date</displayName>
+   </concept>
+   <concept code="NSRQD">
+      <displayName>Social Services agree no services are required on discharge for the patient</displayName>
+   </concept>
+   <concept code="OFT">
+      <displayName>Other - Free Text</displayName>
+   </concept>
+</vocabulary>

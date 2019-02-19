@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ManifestItemType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.132">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.132</p>
+            <p>Keywords used to identify the characteristics of payload items held in a batch manifest.</p>
+         </Description>
+   <concept code="interaction">
+      <displayName>Interaction id of the payload item</displayName>
+   </concept>
+   <concept code="batchSeqNo">
+      <displayName>batch sequence number of the payload item</displayName>
+   </concept>
+</vocabulary>

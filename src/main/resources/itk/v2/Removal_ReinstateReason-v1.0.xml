@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Removal/ReinstateReason" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.29">
+   <Description>Removal/Reinstate reason: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Patient admitted electively</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient admitted as an emergency for the same condition</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Patient died</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient removed for other reasons</displayName>
+   </concept>
+</vocabulary>

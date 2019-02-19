@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrimaryLanguage" version="1.0" status="created"
+            id="2.16.840.1.113883.12.296">
+   <Description>This table identifies the next of kin/associated party's primary speaking language.
+					Table type: User</Description>
+   <concept code="aa">
+      <displayName>Afar</displayName>
+   </concept>
+   <concept code="ab">
+      <displayName>Abkhazian</displayName>
+   </concept>
+   <concept code="ae">
+      <displayName>Avestan</displayName>
+   </concept>
+   <concept code="af">
+      <displayName>Afrikaans</displayName>
+   </concept>
+   <concept code="ak">
+      <displayName>Akan</displayName>
+   </concept>
+   <concept code="am">
+      <displayName>Amharic</displayName>
+   </concept>
+   <concept code="an">
+      <displayName>Aragonese</displayName>
+   </concept>
+   <concept code="ar">
+      <displayName>Arabic</displayName>
+   </concept>
+   <concept code="as">
+      <displayName>Assamese</displayName>
+   </concept>
+   <concept code="av">
+      <displayName>Avaric</displayName>
+   </concept>
+   <concept code="ay">
+      <displayName>Aymara</displayName>
+   </concept>
+   <concept code="az">
+      <displayName>Azerbaijani</displayName>
+   </concept>
+   <concept code="ba">
+      <displayName>Bashkir</displayName>
+   </concept>
+   <concept code="be">
+      <displayName>Belarusian</displayName>
+   </concept>
+   <concept code="bg">
+      <displayName>Bulgarian</displayName>
+   </concept>
+   <concept code="bh">
+      <displayName>Bihari languages</displayName>
+   </concept>
+   <concept code="bi">
+      <displayName>Bislama</displayName>
+   </concept>
+   <concept code="bm">
+      <displayName>Bambara</displayName>
+   </concept>
+   <concept code="bn">
+      <displayName>Bengali</displayName>
+   </concept>
+   <concept code="bo">
+      <displayName>Tibetan</displayName>
+   </concept>
+   <concept code="br">
+      <displayName>Breton</displayName>
+   </concept>
+   <concept code="bs">
+      <displayName>Bosnian</displayName>
+   </concept>
+   <concept code="ca">
+      <displayName>Catalan; Valencian</displayName>
+   </concept>
+   <concept code="ce">
+      <displayName>Chechen</displayName>
+   </concept>
+   <concept code="ch">
+      <displayName>Chamorro</displayName>
+   </concept>
+   <concept code="co">
+      <displayName>Corsican</displayName>
+   </concept>
+   <concept code="cr">
+      <displayName>Cree</displayName>
+   </concept>
+   <concept code="cs">
+      <displayName>Czech</displayName>
+   </concept>
+   <concept code="cu">
+      <displayName>Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</displayName>
+   </concept>
+   <concept code="cv">
+      <displayName>Chuvash</displayName>
+   </concept>
+   <concept code="cy">
+      <displayName>Welsh</displayName>
+   </concept>
+   <concept code="da">
+      <displayName>Danish</displayName>
+   </concept>
+   <concept code="de">
+      <displayName>German</displayName>
+   </concept>
+   <concept code="dv">
+      <displayName>Divehi; Dhivehi; Maldivian</displayName>
+   </concept>
+   <concept code="dz">
+      <displayName>Dzongkha</displayName>
+   </concept>
+   <concept code="ee">
+      <displayName>Ewe</displayName>
+   </concept>
+   <concept code="el">
+      <displayName>Greek, Modern (1453-)</displayName>
+   </concept>
+   <concept code="en">
+      <displayName>English</displayName>
+   </concept>
+   <concept code="eo">
+      <displayName>Esperanto</displayName>
+   </concept>
+   <concept code="es">
+      <displayName>Spanish; Castilian</displayName>
+   </concept>
+   <concept code="et">
+      <displayName>Estonian</displayName>
+   </concept>
+   <concept code="eu">
+      <displayName>Basque</displayName>
+   </concept>
+   <concept code="fa">
+      <displayName>Persian</displayName>
+   </concept>
+   <concept code="ff">
+      <displayName>Fulah</displayName>
+   </concept>
+   <concept code="fi">
+      <displayName>Finnish</displayName>
+   </concept>
+   <concept code="fj">
+      <displayName>Fijian</displayName>
+   </concept>
+   <concept code="fo">
+      <displayName>Faroese</displayName>
+   </concept>
+   <concept code="fr">
+      <displayName>French</displayName>
+   </concept>
+   <concept code="fy">
+      <displayName>Western Frisian</displayName>
+   </concept>
+   <concept code="ga">
+      <displayName>Irish</displayName>
+   </concept>
+   <concept code="gd">
+      <displayName>Gaelic; Scottish Gaelic</displayName>
+   </concept>
+   <concept code="gl">
+      <displayName>Galician</displayName>
+   </concept>
+   <concept code="gn">
+      <displayName>Guarani</displayName>
+   </concept>
+   <concept code="gu">
+      <displayName>Gujarati</displayName>
+   </concept>
+   <concept code="gv">
+      <displayName>Manx</displayName>
+   </concept>
+   <concept code="ha">
+      <displayName>Hausa</displayName>
+   </concept>
+   <concept code="he">
+      <displayName>Hebrew</displayName>
+   </concept>
+   <concept code="hi">
+      <displayName>Hindi</displayName>
+   </concept>
+   <concept code="ho">
+      <displayName>Hiri Motu</displayName>
+   </concept>
+   <concept code="hr">
+      <displayName>Croatian</displayName>
+   </concept>
+   <concept code="ht">
+      <displayName>Haitian; Haitian Creole</displayName>
+   </concept>
+   <concept code="hu">
+      <displayName>Hungarian</displayName>
+   </concept>
+   <concept code="hy">
+      <displayName>Armenian</displayName>
+   </concept>
+   <concept code="hz">
+      <displayName>Herero</displayName>
+   </concept>
+   <concept code="ia">
+      <displayName>Interlingua (International Auxiliary Language Association)</displayName>
+   </concept>
+   <concept code="id">
+      <displayName>Indonesian</displayName>
+   </concept>
+   <concept code="ie">
+      <displayName>Interlingue; Occidental</displayName>
+   </concept>
+   <concept code="ig">
+      <displayName>Igbo</displayName>
+   </concept>
+   <concept code="ii">
+      <displayName>Sichuan Yi; Nuosu</displayName>
+   </concept>
+   <concept code="ik">
+      <displayName>Inupiaq</displayName>
+   </concept>
+   <concept code="io">
+      <displayName>Ido</displayName>
+   </concept>
+   <concept code="is">
+      <displayName>Icelandic</displayName>
+   </concept>
+   <concept code="it">
+      <displayName>Italian</displayName>
+   </concept>
+   <concept code="iu">
+      <displayName>Inuktitut</displayName>
+   </concept>
+   <concept code="ja">
+      <displayName>Japanese</displayName>
+   </concept>
+   <concept code="jv">
+      <displayName>Javanese</displayName>
+   </concept>
+   <concept code="ka">
+      <displayName>Georgian</displayName>
+   </concept>
+   <concept code="kg">
+      <displayName>Kongo</displayName>
+   </concept>
+   <concept code="ki">
+      <displayName>Kikuyu; Gikuyu</displayName>
+   </concept>
+   <concept code="kj">
+      <displayName>Kuanyama; Kwanyama</displayName>
+   </concept>
+   <concept code="kk">
+      <displayName>Kazakh</displayName>
+   </concept>
+   <concept code="kl">
+      <displayName>Kalaallisut; Greenlandic</displayName>
+   </concept>
+   <concept code="km">
+      <displayName>Central Khmer</displayName>
+   </concept>
+   <concept code="kn">
+      <displayName>Kannada</displayName>
+   </concept>
+   <concept code="ko">
+      <displayName>Korean</displayName>
+   </concept>
+   <concept code="kr">
+      <displayName>Kanuri</displayName>
+   </concept>
+   <concept code="ks">
+      <displayName>Kashmiri</displayName>
+   </concept>
+   <concept code="ku">
+      <displayName>Kurdish</displayName>
+   </concept>
+   <concept code="kv">
+      <displayName>Komi</displayName>
+   </concept>
+   <concept code="kw">
+      <displayName>Cornish</displayName>
+   </concept>
+   <concept code="ky">
+      <displayName>Kirghiz; Kyrgyz</displayName>
+   </concept>
+   <concept code="la">
+      <displayName>Latin</displayName>
+   </concept>
+   <concept code="lb">
+      <displayName>Luxembourgish; Letzeburgesch</displayName>
+   </concept>
+   <concept code="lg">
+      <displayName>Ganda</displayName>
+   </concept>
+   <concept code="li">
+      <displayName>Limburgan; Limburger; Limburgish</displayName>
+   </concept>
+   <concept code="ln">
+      <displayName>Lingala</displayName>
+   </concept>
+   <concept code="lo">
+      <displayName>Lao</displayName>
+   </concept>
+   <concept code="lt">
+      <displayName>Lithuanian</displayName>
+   </concept>
+   <concept code="lu">
+      <displayName>Luba-Katanga</displayName>
+   </concept>
+   <concept code="lv">
+      <displayName>Latvian</displayName>
+   </concept>
+   <concept code="mg">
+      <displayName>Malagasy</displayName>
+   </concept>
+   <concept code="mh">
+      <displayName>Marshallese</displayName>
+   </concept>
+   <concept code="mi">
+      <displayName>Maori</displayName>
+   </concept>
+   <concept code="mk">
+      <displayName>Macedonian</displayName>
+   </concept>
+   <concept code="ml">
+      <displayName>Malayalam</displayName>
+   </concept>
+   <concept code="mn">
+      <displayName>Mongolian</displayName>
+   </concept>
+   <concept code="mr">
+      <displayName>Marathi</displayName>
+   </concept>
+   <concept code="ms">
+      <displayName>Malay</displayName>
+   </concept>
+   <concept code="mt">
+      <displayName>Maltese</displayName>
+   </concept>
+   <concept code="my">
+      <displayName>Burmese</displayName>
+   </concept>
+   <concept code="na">
+      <displayName>Nauru</displayName>
+   </concept>
+   <concept code="nb">
+      <displayName>Bokmål, Norwegian; Norwegian Bokmål</displayName>
+   </concept>
+   <concept code="nd">
+      <displayName>Ndebele, North; North Ndebele</displayName>
+   </concept>
+   <concept code="ne">
+      <displayName>Nepali</displayName>
+   </concept>
+   <concept code="ng">
+      <displayName>Ndonga</displayName>
+   </concept>
+   <concept code="nl">
+      <displayName>Dutch; Flemish</displayName>
+   </concept>
+   <concept code="nn">
+      <displayName>Norwegian Nynorsk; Nynorsk, Norwegian</displayName>
+   </concept>
+   <concept code="no">
+      <displayName>Norwegian</displayName>
+   </concept>
+   <concept code="nr">
+      <displayName>Ndebele, South; South Ndebele</displayName>
+   </concept>
+   <concept code="nv">
+      <displayName>Navajo; Navaho</displayName>
+   </concept>
+   <concept code="ny">
+      <displayName>Chichewa; Chewa; Nyanja</displayName>
+   </concept>
+   <concept code="oc">
+      <displayName>Occitan (post 1500)</displayName>
+   </concept>
+   <concept code="oj">
+      <displayName>Ojibwa</displayName>
+   </concept>
+   <concept code="om">
+      <displayName>Oromo</displayName>
+   </concept>
+   <concept code="or">
+      <displayName>Oriya</displayName>
+   </concept>
+   <concept code="os">
+      <displayName>Ossetian; Ossetic</displayName>
+   </concept>
+   <concept code="pa">
+      <displayName>Panjabi; Punjabi</displayName>
+   </concept>
+   <concept code="pi">
+      <displayName>Pali</displayName>
+   </concept>
+   <concept code="pl">
+      <displayName>Polish</displayName>
+   </concept>
+   <concept code="ps">
+      <displayName>Pushto; Pashto</displayName>
+   </concept>
+   <concept code="pt">
+      <displayName>Portuguese</displayName>
+   </concept>
+   <concept code="q1">
+      <displayName>Braille</displayName>
+   </concept>
+   <concept code="q2">
+      <displayName>American Sign Language</displayName>
+   </concept>
+   <concept code="q3">
+      <displayName>Australian.Sign Language</displayName>
+   </concept>
+   <concept code="q4">
+      <displayName>British Sign Language</displayName>
+   </concept>
+   <concept code="q5">
+      <displayName>Makaton</displayName>
+   </concept>
+   <concept code="qu">
+      <displayName>Quechua</displayName>
+   </concept>
+   <concept code="rm">
+      <displayName>Romansh</displayName>
+   </concept>
+   <concept code="rn">
+      <displayName>Rundi</displayName>
+   </concept>
+   <concept code="ro">
+      <displayName>Romanian; Moldavian; Moldovan</displayName>
+   </concept>
+   <concept code="ru">
+      <displayName>Russian</displayName>
+   </concept>
+   <concept code="rw">
+      <displayName>Kinyarwanda</displayName>
+   </concept>
+   <concept code="sa">
+      <displayName>Sanskrit</displayName>
+   </concept>
+   <concept code="sc">
+      <displayName>Sardinian</displayName>
+   </concept>
+   <concept code="sd">
+      <displayName>Sindhi</displayName>
+   </concept>
+   <concept code="se">
+      <displayName>Northern Sami</displayName>
+   </concept>
+   <concept code="sg">
+      <displayName>Sango</displayName>
+   </concept>
+   <concept code="si">
+      <displayName>Sinhala; Sinhalese</displayName>
+   </concept>
+   <concept code="sk">
+      <displayName>Slovak</displayName>
+   </concept>
+   <concept code="sl">
+      <displayName>Slovenian</displayName>
+   </concept>
+   <concept code="sm">
+      <displayName>Samoan</displayName>
+   </concept>
+   <concept code="sn">
+      <displayName>Shona</displayName>
+   </concept>
+   <concept code="so">
+      <displayName>Somali</displayName>
+   </concept>
+   <concept code="sq">
+      <displayName>Albanian</displayName>
+   </concept>
+   <concept code="sr">
+      <displayName>Serbian</displayName>
+   </concept>
+   <concept code="ss">
+      <displayName>Swati</displayName>
+   </concept>
+   <concept code="st">
+      <displayName>Sotho, Southern</displayName>
+   </concept>
+   <concept code="su">
+      <displayName>Sundanese</displayName>
+   </concept>
+   <concept code="sv">
+      <displayName>Swedish</displayName>
+   </concept>
+   <concept code="sw">
+      <displayName>Swahili</displayName>
+   </concept>
+   <concept code="ta">
+      <displayName>Tamil</displayName>
+   </concept>
+   <concept code="te">
+      <displayName>Telugu</displayName>
+   </concept>
+   <concept code="tg">
+      <displayName>Tajik</displayName>
+   </concept>
+   <concept code="th">
+      <displayName>Thai</displayName>
+   </concept>
+   <concept code="ti">
+      <displayName>Tigrinya</displayName>
+   </concept>
+   <concept code="tk">
+      <displayName>Turkmen</displayName>
+   </concept>
+   <concept code="tl">
+      <displayName>Tagalog</displayName>
+   </concept>
+   <concept code="tn">
+      <displayName>Tswana</displayName>
+   </concept>
+   <concept code="to">
+      <displayName>Tonga (Tonga Islands)</displayName>
+   </concept>
+   <concept code="tr">
+      <displayName>Turkish</displayName>
+   </concept>
+   <concept code="ts">
+      <displayName>Tsonga</displayName>
+   </concept>
+   <concept code="tt">
+      <displayName>Tatar</displayName>
+   </concept>
+   <concept code="tw">
+      <displayName>Twi</displayName>
+   </concept>
+   <concept code="ty">
+      <displayName>Tahitian</displayName>
+   </concept>
+   <concept code="ug">
+      <displayName>Uighur; Uyghur</displayName>
+   </concept>
+   <concept code="uk">
+      <displayName>Ukrainian</displayName>
+   </concept>
+   <concept code="ur">
+      <displayName>Urdu</displayName>
+   </concept>
+   <concept code="uz">
+      <displayName>Uzbek</displayName>
+   </concept>
+   <concept code="ve">
+      <displayName>Venda</displayName>
+   </concept>
+   <concept code="vi">
+      <displayName>Vietnamese</displayName>
+   </concept>
+   <concept code="vo">
+      <displayName>Volapük</displayName>
+   </concept>
+   <concept code="wa">
+      <displayName>Walloon</displayName>
+   </concept>
+   <concept code="wo">
+      <displayName>Wolof</displayName>
+   </concept>
+   <concept code="xh">
+      <displayName>Xhosa</displayName>
+   </concept>
+   <concept code="yi">
+      <displayName>Yiddish</displayName>
+   </concept>
+   <concept code="yo">
+      <displayName>Yoruba</displayName>
+   </concept>
+   <concept code="za">
+      <displayName>Zhuang; Chuang</displayName>
+   </concept>
+   <concept code="zh">
+      <displayName>Chinese</displayName>
+   </concept>
+   <concept code="zu">
+      <displayName>Zulu</displayName>
+   </concept>
+</vocabulary>

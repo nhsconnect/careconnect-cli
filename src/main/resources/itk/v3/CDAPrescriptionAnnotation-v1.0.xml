@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAPrescriptionAnnotation" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.192">
+   <Description><!--New vocab copied from PrescriptionAnnotation for MIM 6.1.01 CDA domains. --> 	<p>Describes the type of annotations and observations that may be made to a prescription either to convey incidental information for reimbursement, or to manage the business processes around prescriptions. It also includes several values which are for use in other kinds of medication statements, which may at some time in the future become a separate vocabulary.</p>
+         </Description>
+   <concept code="SI">
+      <displayName>Supply Instructions</displayName>
+   </concept>
+   <concept code="DI">
+      <displayName>Dose Instructions</displayName>
+   </concept>
+   <concept code="AI">
+      <displayName>Additional Instructions</displayName>
+   </concept>
+   <concept code="AD">
+      <displayName>Medication administration Instructions</displayName>
+   </concept>
+   <concept code="AT">
+      <displayName>Medication administration type</displayName>
+   </concept>
+   <concept code="ASF">
+      <displayName>Acute Script Flag</displayName>
+   </concept>
+</vocabulary>

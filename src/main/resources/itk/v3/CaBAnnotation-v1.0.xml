@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CaBAnnotation" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.140">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.140</p>
+            <p>This describes the coded values used in Choose and Book messages.</p>
+         </Description>
+   <concept code="AAGD">
+      <displayName>Advice and Guidance Details</displayName>
+   </concept>
+   <concept code="AAGR">
+      <displayName>Advice and Guidance Response</displayName>
+   </concept>
+   <concept code="AAGREQ">
+      <displayName>Advice and Guidance Request</displayName>
+   </concept>
+   <concept code="ACTA">
+      <displayName>Active Appointment</displayName>
+   </concept>
+   <concept code="AR">
+      <displayName>Additional Requirements</displayName>
+   </concept>
+   <concept code="ARC">
+      <displayName>Additional Requirements Comment</displayName>
+   </concept>
+   <concept code="ASS">
+      <displayName>Active Service Shortlist</displayName>
+   </concept>
+   <concept code="ATT">
+      <displayName>Attachment</displayName>
+   </concept>
+   <concept code="BRO">
+      <displayName>Breach Offset</displayName>
+   </concept>
+   <concept code="CI">
+      <displayName>Commissioned Indicator</displayName>
+   </concept>
+   <concept code="Comm">
+      <displayName>Comment</displayName>
+   </concept>
+   <concept code="CSI">
+      <displayName>Content Sensitive Indicator</displayName>
+   </concept>
+   <concept code="CTN">
+      <displayName>Clinic Type Name</displayName>
+   </concept>
+   <concept code="DB">
+      <displayName>Directly Bookable</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SpecimenMaterialTypeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>A code from SnomedCT UK that describes the material in a specimen for anlaysis, such as mid-stream urine, sputum, venous blood, etc.    </p>
+	           <p>A code from <b>SNOMED CT (UK)</b>, may be accompanied by additional SnomedCT(UK) qualifying codes.</p>
+	           <p>
+		             <strong>Any code from the SNOMED CT UK <em>Specimen Material Type</em> subset with subset original id 1381000000136.</strong>
+	           </p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReferralRejectCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.424">
+   <Description>
+            <p>New Version.</p>
+         </Description>
+   <concept code="1">
+      <displayName>The patient lives outside this Social Services area</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>The patient is under 18 years of age</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Another organisation or department is responsible</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Other - Free Text</displayName>
+   </concept>
+</vocabulary>

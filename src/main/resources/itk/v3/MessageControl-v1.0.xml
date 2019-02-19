@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MessageControl" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.144">
+   <Description>
+            <p>Assigned OID : 2.16.840.1.113883.2.1.3.2.4.17.144</p>
+            <p>A vocabulary describing actions pertaining to message control</p>
+         </Description>
+   <concept code="01">
+      <displayName>Withdraw Message</displayName>
+   </concept>
+</vocabulary>

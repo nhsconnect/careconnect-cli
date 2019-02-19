@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SuspectedConfusionType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.246">
+   <Description>
+            <p>A list of codes indicating the suspected confusion type.</p>
+         </Description>
+   <concept code="2">
+      <displayName>Confusion (Normal)</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Confusion (Urgent)</displayName>
+   </concept>
+</vocabulary>

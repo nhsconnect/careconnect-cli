@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EMISDrugCodes" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.6.9">
+   <Description>
+            <p>A coding system describing UK drugs and their ingredients developed by EMIS systems Ltd. Its OID is</p>
+            <p>2.16.840.1.113883.2.1.6.9.</p>
+            <p>Any code from the EMIS Drug Codes.</p>
+         </Description>
+</vocabulary>

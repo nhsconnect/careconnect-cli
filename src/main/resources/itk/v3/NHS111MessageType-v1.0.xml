@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS111MessageType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.420">
+   <Description>
+            <p>A vocabulary to support NHS 111 messaging.<br/>
+            </p>
+         </Description>
+   <concept code="01">
+      <displayName>NHS111 Repeat Caller Database Request</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>NHS111 Repeat Caller Database Response</displayName>
+   </concept>
+</vocabulary>

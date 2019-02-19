@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="GPESMessageType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.324">
+   <Description>
+            <p>A set of codes to describe the General Practice Extraction Service message types.</p>
+         </Description>
+   <concept code="GPES-E-Q-NT">
+      <displayName>GPES-E-Q Notification message</displayName>
+   </concept>
+   <concept code="GPES-E-Q-RTPR">
+      <displayName>GPES-E-Q Run Time Parameter Response message</displayName>
+   </concept>
+   <concept code="GPES-Q-E-NT">
+      <displayName>GPES-Q-E Notification message</displayName>
+   </concept>
+   <concept code="GPES-Q-E-RTP">
+      <displayName>GPES-Q-E Run Time Parameter Request message</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispensingEndorsement" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.29">
+   <Description>
+            <p>
+               <p>
+                  <em>Assigned OID</em>: 2.16.840.1.113883.2.1.3.2.4.16.29</p>
+               <p>Describes the possible endorsements that a dispenser may apply to a prescription.</p>
+               <p>This will generally be present in an Observation act where the code attribute has an id value of "DE" from the <b>PrescriptionAnnotation</b> vocabulary.</p>
+               <p>Note: The PPA systems are Euro compliant. Hence, the inclusion of endorsement codes for pence or cents.</p>
+               <p>The concepts defined by this code system are maintained externally by the Electronic Prescription Service (EPS). <br/>For guidance please refer to the NPFIT-ETP-EIM-0015 Guidance for Endorsement in the Electronic Prescription <br/>Service. </p>
+            </p>
+         </Description>
+   <concept code="LS">
+      <displayName>Limited Stability</displayName>
+   </concept>
+   <concept code="AI">
+      <displayName>Additional Information - additional item has been dispensed when the prescribed product does not contain an administration mechanism.</displayName>
+   </concept>
+   <concept code="BB">
+      <displayName>Broken Bulk</displayName>
+   </concept>
+   <concept code="IP">
+      <displayName>Invoice Price for less common products or special items</displayName>
+   </concept>
+   <concept code="MF">
+      <displayName>Measured &amp; Fitted</displayName>
+   </concept>
+   <concept code="NCSO">
+      <displayName>No Cheaper Stock Obtainable</displayName>
+   </concept>
+   <concept code="ND">
+      <displayName>Not Dispensed</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Prescriber Contacted</displayName>
+   </concept>
+   <concept code="PNC">
+      <displayName>Prescriber Not Contacted</displayName>
+   </concept>
+   <concept code="RC">
+      <displayName>Rebate Claimed</displayName>
+   </concept>
+   <concept code="XP">
+      <displayName>Out of Pocket Expenses</displayName>
+   </concept>
+   <concept code="ZD">
+      <displayName>Zero Discount (List B only)</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrObservationValueEpisode" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.73">
+   <Description>
+            <p>Indication of whether this is the first occurrence of a disorder or problem or whether it is new episode or a continuation of a current episode.</p>
+         </Description>
+   <concept code="255217005">
+      <displayName>First</displayName>
+   </concept>
+   <concept code="288527008">
+      <displayName>New</displayName>
+   </concept>
+   <concept code="303350001">
+      <displayName>Ongoing</displayName>
+   </concept>
+   <concept code="394846009">
+      <displayName>Undefined</displayName>
+   </concept>
+</vocabulary>

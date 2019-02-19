@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Financial circumstances finding" type="Realm Concept" setId="67791000000133" version="6" id="6021000000133" refId="999001521000000105" memberCount="75" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="11403006">
+<displayName lang="en" type="PT">Financially poor</displayName>
+<displayName lang="en" type="FSN">Financially poor (finding)</displayName>
+<displayName lang="en" type="SY">Economic deprivation</displayName>
+<displayName lang="en" type="SY">Living in poverty</displayName>
+<displayName lang="en" type="SY">Pauper</displayName>
+<displayName lang="en" type="SY">Poverty</displayName>
+<displayName lang="en" type="SY">Severe lack of money</displayName>
+</concept>
+<concept code="105577008">
+<displayName lang="en" type="PT">Bankruptcy</displayName>
+<displayName lang="en" type="FSN">Bankruptcy (finding)</displayName>
+</concept>
+<concept code="160695008">
+<displayName lang="en" type="PT">Transport too expensive</displayName>
+<displayName lang="en" type="FSN">Transport too expensive (finding)</displayName>
+<displayName lang="en" type="SY">Transport economic problems</displayName>
+<displayName lang="en" type="SY">Transport financial problems</displayName>
+</concept>
+<concept code="160932005">
+<displayName lang="en" type="PT">Financial problem</displayName>
+<displayName lang="en" type="FSN">Financial problem (finding)</displayName>
+</concept>
+<concept code="160933000">
+<displayName lang="en" type="PT">In debt</displayName>
+<displayName lang="en" type="FSN">In debt (finding)</displayName>
+</concept>
+<concept code="160934006">
+<displayName lang="en" type="PT">Financial circumstances change</displayName>
+<displayName lang="en" type="FSN">Financial circumstances change (finding)</displayName>
+</concept>
+<concept code="160935007">
+<displayName lang="en" type="PT">Sudden financial gain</displayName>
+<displayName lang="en" type="FSN">Sudden financial gain (finding)</displayName>
+</concept>
+<concept code="161039009">
+<displayName lang="en" type="PT">No benefits received</displayName>
+<displayName lang="en" type="FSN">No benefits received (finding)</displayName>
+</concept>
+<concept code="161040006">
+<displayName lang="en" type="PT">Entitled to benefits</displayName>
+<displayName lang="en" type="FSN">Entitled to benefits (finding)</displayName>
+<displayName lang="en" type="SY">Eligible for benefit</displayName>
+<displayName lang="en" type="SY">Should have benefit</displayName>
+</concept>
+<concept code="186066002">
+<displayName lang="en" type="PT">Power of attorney held</displayName>
+<displayName lang="en" type="FSN">Power of attorney held (finding)</displayName>
+</concept>
+<concept code="186067006">
+<displayName lang="en" type="PT">Holds power of attorney</displayName>
+<displayName lang="en" type="FSN">Holds power of attorney (finding)</displayName>
+</concept>
+<concept code="224165005">
+<displayName lang="en" type="PT">Financially secure</displayName>
+<displayName lang="en" type="FSN">Financially secure (finding)</displayName>
+</concept>
+<concept code="224166006">
+<displayName lang="en" type="PT">Wealthy</displayName>
+<displayName lang="en" type="FSN">Wealthy (finding)</displayName>
+<displayName lang="en" type="SY">Rich</displayName>
+</concept>
+<concept code="224169004">
+<displayName lang="en" type="PT">No household income</displayName>
+<displayName lang="en" type="FSN">No household income (finding)</displayName>
+</concept>
+<concept code="224170003">
+<displayName lang="en" type="PT">Low household income</displayName>
+<displayName lang="en" type="FSN">Low household income (finding)</displayName>
+</concept>
+<concept code="224171004">
+<displayName lang="en" type="PT">Moderate household income</displayName>
+<displayName lang="en" type="FSN">Moderate household income (finding)</displayName>
+</concept>
+<concept code="224172006">
+<displayName lang="en" type="PT">High household income</displayName>
+<displayName lang="en" type="FSN">High household income (finding)</displayName>
+</concept>
+<concept code="224174007">
+<displayName lang="en" type="PT">No personal income</displayName>
+<displayName lang="en" type="FSN">No personal income (finding)</displayName>
+</concept>
+<concept code="224175008">
+<displayName lang="en" type="PT">Low personal income</displayName>
+<displayName lang="en" type="FSN">Low personal income (finding)</displayName>
+</concept>
+<concept code="224176009">
+<displayName lang="en" type="PT">Moderate personal income</displayName>
+<displayName lang="en" type="FSN">Moderate personal income (finding)</displayName>
+</concept>
+<concept code="224177000">
+<displayName lang="en" type="PT">High personal income</displayName>
+<displayName lang="en" type="FSN">High personal income (finding)</displayName>
+</concept>
+<concept code="224179002">
+<displayName lang="en" type="PT">Income paid daily</displayName>
+<displayName lang="en" type="FSN">Income paid daily (finding)</displayName>
+</concept>
+<concept code="224180004">
+<displayName lang="en" type="PT">Income paid weekly</displayName>
+<displayName lang="en" type="FSN">Income paid weekly (finding)</displayName>
+</concept>
+<concept code="224181000">
+<displayName lang="en" type="PT">Income paid monthly</displayName>
+<displayName lang="en" type="FSN">Income paid monthly (finding)</displayName>
+</concept>
+<concept code="224182007">
+<displayName lang="en" type="PT">Income paid quarterly</displayName>
+<displayName lang="en" type="FSN">Income paid quarterly (finding)</displayName>
+</concept>
+<concept code="224183002">
+<displayName lang="en" type="PT">Income paid six monthly</displayName>
+<displayName lang="en" type="FSN">Income paid six monthly (finding)</displayName>
+</concept>
+<concept code="224184008">
+<displayName lang="en" type="PT">Income paid annually</displayName>
+<displayName lang="en" type="FSN">Income paid annually (finding)</displayName>
+</concept>
+<concept code="224187001">
+<displayName lang="en" type="PT">Variable income</displayName>
+<displayName lang="en" type="FSN">Variable income (finding)</displayName>
+</concept>
+<concept code="224188006">
+<displayName lang="en" type="PT">Stable income</displayName>
+<displayName lang="en" type="FSN">Stable income (finding)</displayName>
+<displayName lang="en" type="SY">Steady income</displayName>
+</concept>
+<concept code="224190007">
+<displayName lang="en" type="PT">Income sufficient to meet needs</displayName>
+<displayName lang="en" type="FSN">Income sufficient to meet needs (finding)</displayName>
+<displayName lang="en" type="SY">Adequate finances</displayName>
+</concept>
+<concept code="224191006">
+<displayName lang="en" type="PT">Income insufficient to meet needs</displayName>
+<displayName lang="en" type="FSN">Income insufficient to meet needs (finding)</displayName>
+</concept>
+<concept code="224194003">
+<displayName lang="en" type="PT">Not entitled to benefits</displayName>
+<displayName lang="en" type="FSN">Not entitled to benefits (finding)</displayName>
+<displayName lang="en" type="SY">Not eligible for benefit</displayName>
+</concept>
+<concept code="224195002">
+<displayName lang="en" type="PT">Entitlement to benefits uncertain</displayName>
+<displayName lang="en" type="FSN">Entitlement to benefits uncertain (finding)</displayName>
+</concept>
+<concept code="224196001">
+<displayName lang="en" type="PT">Benefits received</displayName>
+<displayName lang="en" type="FSN">Benefits received (finding)</displayName>
+</concept>
+<concept code="224197005">
+<displayName lang="en" type="PT">Not receiving all benefits due</displayName>
+<displayName lang="en" type="FSN">Not receiving all benefits due (finding)</displayName>
+</concept>
+<concept code="224198000">
+<displayName lang="en" type="PT">Delay in receiving benefits</displayName>
+<displayName lang="en" type="FSN">Delay in receiving benefits (finding)</displayName>
+</concept>
+<concept code="224199008">
+<displayName lang="en" type="PT">Loss of benefits</displayName>
+<displayName lang="en" type="FSN">Loss of benefits (finding)</displayName>
+</concept>
+<concept code="224201005">
+<displayName lang="en" type="PT">Manages own financial affairs</displayName>
+<displayName lang="en" type="FSN">Manages own financial affairs (finding)</displayName>
+</concept>
+<concept code="224202003">
+<displayName lang="en" type="PT">Keeps own spending money</displayName>
+<displayName lang="en" type="FSN">Keeps own spending money (finding)</displayName>
+</concept>
+<concept code="224204002">
+<displayName lang="en" type="PT">Keeps money in own account</displayName>
+<displayName lang="en" type="FSN">Keeps money in own account (finding)</displayName>
+</concept>
+<concept code="224205001">
+<displayName lang="en" type="PT">Has own savings account</displayName>
+<displayName lang="en" type="FSN">Has own savings account (finding)</displayName>
+</concept>
+<concept code="224206000">
+<displayName lang="en" type="PT">Receives own account statements</displayName>
+<displayName lang="en" type="FSN">Receives own account statements (finding)</displayName>
+</concept>
+<concept code="224207009">
+<displayName lang="en" type="PT">Holds own cheque book</displayName>
+<displayName lang="en" type="FSN">Holds own cheque book (finding)</displayName>
+</concept>
+<concept code="224208004">
+<displayName lang="en" type="PT">Financial affairs managed by third party</displayName>
+<displayName lang="en" type="FSN">Financial affairs managed by third party (finding)</displayName>
+</concept>
+<concept code="224345007">
+<displayName lang="en" type="PT">Power of attorney applied for</displayName>
+<displayName lang="en" type="FSN">Power of attorney applied for (finding)</displayName>
+</concept>
+<concept code="224346008">
+<displayName lang="en" type="PT">Power of attorney granted</displayName>
+<displayName lang="en" type="FSN">Power of attorney granted (finding)</displayName>
+</concept>
+<concept code="224347004">
+<displayName lang="en" type="PT">Power of attorney in existence</displayName>
+<displayName lang="en" type="FSN">Power of attorney in existence (finding)</displayName>
+</concept>
+<concept code="225827005">
+<displayName lang="en" type="PT">Victim of financial abuse</displayName>
+<displayName lang="en" type="FSN">Victim of financial abuse (finding)</displayName>
+</concept>
+<concept code="228337008">
+<displayName lang="en" type="PT">Drinking takes priority over financial obligations</displayName>
+<displayName lang="en" type="FSN">Drinking takes priority over financial obligations (finding)</displayName>
+</concept>
+<concept code="228420000">
+<displayName lang="en" type="PT">Drug habit takes priority over financial obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over financial obligations (finding)</displayName>
+</concept>
+<concept code="284477001">
+<displayName lang="en" type="PT">Destitute</displayName>
+<displayName lang="en" type="FSN">Destitute (finding)</displayName>
+</concept>
+<concept code="314847007">
+<displayName lang="en" type="PT">Patient has private medical insurance</displayName>
+<displayName lang="en" type="FSN">Patient has private medical insurance (finding)</displayName>
+</concept>
+<concept code="417051004">
+<displayName lang="en" type="PT">At risk of financial/material mismanagement</displayName>
+<displayName lang="en" type="FSN">At risk of financial/material mismanagement (finding)</displayName>
+</concept>
+<concept code="423656007">
+<displayName lang="en" type="PT">Income insufficient to buy necessities</displayName>
+<displayName lang="en" type="FSN">Income insufficient to buy necessities (finding)</displayName>
+</concept>
+<concept code="424553001">
+<displayName lang="en" type="PT">Uninsured medical expenses</displayName>
+<displayName lang="en" type="FSN">Uninsured medical expenses (finding)</displayName>
+</concept>
+<concept code="424739004">
+<displayName lang="en" type="PT">Income sufficient to buy only necessities</displayName>
+<displayName lang="en" type="FSN">Income sufficient to buy only necessities (finding)</displayName>
+<displayName lang="en" type="SY">Able to buy only necessities</displayName>
+</concept>
+<concept code="424860001">
+<displayName lang="en" type="PT">Low income</displayName>
+<displayName lang="en" type="FSN">Low income (finding)</displayName>
+</concept>
+<concept code="425111004">
+<displayName lang="en" type="PT">No income</displayName>
+<displayName lang="en" type="FSN">No income (finding)</displayName>
+</concept>
+<concept code="287591000000107">
+<displayName lang="en" type="PT">Eligible for funded nursing care</displayName>
+<displayName lang="en" type="FSN">Eligible for funded nursing care (finding)</displayName>
+</concept>
+<concept code="755961000000102">
+<displayName lang="en" type="PT">Not receiving statutory sick pay</displayName>
+<displayName lang="en" type="FSN">Not receiving statutory sick pay (finding)</displayName>
+<displayName lang="en" type="SY">Not receiving SSP (statutory sick pay)</displayName>
+</concept>
+<concept code="761571000000106">
+<displayName lang="en" type="PT">At risk of financial abuse</displayName>
+<displayName lang="en" type="FSN">At risk of financial abuse (finding)</displayName>
+</concept>
+<concept code="762091000000105">
+<displayName lang="en" type="PT">Insufficient income to heat home</displayName>
+<displayName lang="en" type="FSN">Insufficient income to heat home (finding)</displayName>
+</concept>
+<concept code="762161000000103">
+<displayName lang="en" type="PT">Manages own finance using electronic banking</displayName>
+<displayName lang="en" type="FSN">Manages own finance using electronic banking (finding)</displayName>
+</concept>
+<concept code="789811000000100">
+<displayName lang="en" type="PT">Receiving attendance allowance</displayName>
+<displayName lang="en" type="FSN">Receiving attendance allowance (finding)</displayName>
+</concept>
+<concept code="789821000000106">
+<displayName lang="en" type="PT">Receiving contributory employment and support allowance</displayName>
+<displayName lang="en" type="FSN">Receiving contributory employment and support allowance (finding)</displayName>
+</concept>
+<concept code="789831000000108">
+<displayName lang="en" type="PT">Receiving disability living allowance</displayName>
+<displayName lang="en" type="FSN">Receiving disability living allowance (finding)</displayName>
+</concept>
+<concept code="789841000000104">
+<displayName lang="en" type="PT">Receiving incapacity benefit</displayName>
+<displayName lang="en" type="FSN">Receiving incapacity benefit (finding)</displayName>
+</concept>
+<concept code="789851000000101">
+<displayName lang="en" type="PT">Receiving income-related employment and support allowance</displayName>
+<displayName lang="en" type="FSN">Receiving income-related employment and support allowance (finding)</displayName>
+</concept>
+<concept code="789861000000103">
+<displayName lang="en" type="PT">Receiving income support</displayName>
+<displayName lang="en" type="FSN">Receiving income support (finding)</displayName>
+</concept>
+<concept code="789871000000105">
+<displayName lang="en" type="PT">Receiving pension credit</displayName>
+<displayName lang="en" type="FSN">Receiving pension credit (finding)</displayName>
+</concept>
+<concept code="789881000000107">
+<displayName lang="en" type="PT">Receiving state pension</displayName>
+<displayName lang="en" type="FSN">Receiving state pension (finding)</displayName>
+</concept>
+<concept code="794111000000107">
+<displayName lang="en" type="PT">Receiving carer allowance</displayName>
+<displayName lang="en" type="FSN">Receiving carer allowance (finding)</displayName>
+<displayName lang="en" type="SY">Receiving carer&apos;s allowance</displayName>
+</concept>
+<concept code="816341000000102">
+<displayName lang="en" type="PT">Has appointed person with property and affairs lasting power of attorney (Mental Capacity Act 2005)</displayName>
+<displayName lang="en" type="FSN">Has appointed person with property and affairs lasting power of attorney (Mental Capacity Act 2005) (finding)</displayName>
+<displayName lang="en" type="SY">Has appointed person with property and affairs LPA (lasting power of attorney) (Mental Capacity Act 2005)</displayName>
+</concept>
+<concept code="896271000000104">
+<displayName lang="en" type="PT">Holds European Health Insurance Card</displayName>
+<displayName lang="en" type="FSN">Holds European Health Insurance Card (finding)</displayName>
+<displayName lang="en" type="SY">Holds EHIC (European Health Insurance Card)</displayName>
+</concept>
+<concept code="938711000000102">
+<displayName lang="en" type="PT">Has personal health budget</displayName>
+<displayName lang="en" type="FSN">Has personal health budget (finding)</displayName>
+</concept>
+</vocabulary>

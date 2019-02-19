@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdmitSource" version="1.0" status="created" id="2.16.840.1.113883.12.23">
+   <Description>A set of codes which indicates where the subject was admitted.
+					Table type: User</Description>
+   <concept code="19">
+      <displayName>Usual place of residence</displayName>
+   </concept>
+   <concept code="29">
+      <displayName>Temporary place of residence when usually resident elsewhere (e.g. hotels, residential educational establishments)</displayName>
+   </concept>
+   <concept code="39">
+      <displayName>Penal establishment, Court, or police station</displayName>
+   </concept>
+   <concept code="49">
+      <displayName>NHS other hospital provider - high security psychiatric accommodation in an NHS hospital provider (NHS trust)</displayName>
+   </concept>
+   <concept code="51">
+      <displayName>NHS other hospital provider - ward for general patients or the younger physically disabled or A &amp; E department</displayName>
+   </concept>
+   <concept code="52">
+      <displayName>NHS other hospital provider - ward for maternity patients or neonates</displayName>
+   </concept>
+   <concept code="53">
+      <displayName>NHS other hospital provider - ward for patients who are mentally ill or have learning disabilities</displayName>
+   </concept>
+   <concept code="54">
+      <displayName>NHS run care home</displayName>
+   </concept>
+   <concept code="65">
+      <displayName>Local Authority residential accommodation ie where care is provided</displayName>
+   </concept>
+   <concept code="66">
+      <displayName>Local Authority foster care</displayName>
+   </concept>
+   <concept code="79">
+      <displayName>Babies born in or on the way to hospital</displayName>
+   </concept>
+   <concept code="85">
+      <displayName>Non-NHS (other than Local Authority) run care home</displayName>
+   </concept>
+   <concept code="87">
+      <displayName>Non NHS run hospital</displayName>
+   </concept>
+   <concept code="88">
+      <displayName>Non-NHS (other than Local Authority) run Hospice</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

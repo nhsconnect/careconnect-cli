@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LocationType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.52">
+   <Description>Location Type: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="001">
+      <displayName>Client's or Patient's Home</displayName>
+   </concept>
+   <concept code="002">
+      <displayName>Health Centre</displayName>
+   </concept>
+   <concept code="003">
+      <displayName>GP Practice premises other than Health Centre</displayName>
+   </concept>
+   <concept code="004">
+      <displayName>Ward on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="006">
+      <displayName>Hospice</displayName>
+   </concept>
+   <concept code="007">
+      <displayName>Other Voluntary or Private Hospital or Nursing Home</displayName>
+   </concept>
+   <concept code="008">
+      <displayName>Group Home managed by the NHS</displayName>
+   </concept>
+   <concept code="009">
+      <displayName>Group Home managed by Local Authority</displayName>
+   </concept>
+   <concept code="010">
+      <displayName>Group Home managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="011">
+      <displayName>Other Residential Care Homes managed by Local Authority</displayName>
+   </concept>
+   <concept code="012">
+      <displayName>Other Residential Care Homes managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="013">
+      <displayName>NHS Day Care Facility on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="014">
+      <displayName>NHS Day Care Facility on Other Sites</displayName>
+   </concept>
+   <concept code="015">
+      <displayName>Day Centre managed by Local Authority</displayName>
+   </concept>
+   <concept code="016">
+      <displayName>Day Centre managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="017">
+      <displayName>NHS Consultant Clinic Premises on a NHS Hospital site</displayName>
+   </concept>
+   <concept code="018">
+      <displayName>NHS Consultant Clinic Premises off a NHS Hospital site</displayName>
+   </concept>
+   <concept code="019">
+      <displayName>Health Clinic managed by the NHS</displayName>
+   </concept>
+   <concept code="020">
+      <displayName>Health Clinic managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="021">
+      <displayName>Resource Centre on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="022">
+      <displayName>Resource Centre managed by the NHS off NHS Hospital Site</displayName>
+   </concept>
+   <concept code="023">
+      <displayName>Resource Centre managed by Local Authority</displayName>
+   </concept>
+   <concept code="024">
+      <displayName>Resource Centre managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="025">
+      <displayName>Professional Staff Group Department on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="026">
+      <displayName>Professional Staff Group Department managed by the NHS off NHS Hospital Site</displayName>
+   </concept>
+   <concept code="027">
+      <displayName>Professional Staff Group Department managed by Local Authority</displayName>
+   </concept>
+   <concept code="028">
+      <displayName>Professional Staff Group Department managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="029">
+      <displayName>Educational Establishment Premises managed by Local Authority or Grant Maintained</displayName>
+   </concept>
+   <concept code="030">
+      <displayName>Educational Establishment Premises managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="031">
+      <displayName>Other Health or Local Authority Facility on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="032">
+      <displayName>Other Health or Local Authority Site managed by the NHS off NHS Hospital Site</displayName>
+   </concept>
+   <concept code="033">
+      <displayName>Other Health or Local Authority Site managed by Local Authority</displayName>
+   </concept>
+   <concept code="034">
+      <displayName>Other Health or Local Authority Site managed by Voluntary or Private Agents</displayName>
+   </concept>
+   <concept code="035">
+      <displayName>Prison Department Establishments</displayName>
+   </concept>
+   <concept code="036">
+      <displayName>Public Place or Street, or Police Station</displayName>
+   </concept>
+   <concept code="037">
+      <displayName>Other locations not classified elsewhere</displayName>
+   </concept>
+   <concept code="038">
+      <displayName>NHS Nursing Home</displayName>
+   </concept>
+   <concept code="039">
+      <displayName>Other Residential Care Homes managed by the NHS</displayName>
+   </concept>
+</vocabulary>

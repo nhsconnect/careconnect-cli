@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Awareness of prognosis findings" type="Realm Concept" setId="67281000000135" version="3" id="47781000000136" refId="999001971000000103" memberCount="5" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="444332001">
+<displayName lang="en" type="PT">Aware of prognosis</displayName>
+<displayName lang="en" type="FSN">Aware of prognosis (finding)</displayName>
+</concept>
+<concept code="473301001">
+<displayName lang="en" type="PT">Caregiver aware of prognosis</displayName>
+<displayName lang="en" type="FSN">Caregiver aware of prognosis (situation)</displayName>
+<displayName lang="en" type="SY">Carer aware of prognosis</displayName>
+</concept>
+<concept code="473316003">
+<displayName lang="en" type="PT">Relative aware of prognosis</displayName>
+<displayName lang="en" type="FSN">Relative aware of prognosis (situation)</displayName>
+</concept>
+<concept code="699093007">
+<displayName lang="en" type="PT">Unaware of prognosis</displayName>
+<displayName lang="en" type="FSN">Unaware of prognosis (situation)</displayName>
+<displayName lang="en" type="SY">Not aware of prognosis</displayName>
+</concept>
+<concept code="711951000000105">
+<displayName lang="en" type="PT">Carer unaware of prognosis</displayName>
+<displayName lang="en" type="FSN">Carer unaware of prognosis (situation)</displayName>
+<displayName lang="en" type="SY">Carer not aware of prognosis</displayName>
+</concept>
+</vocabulary>

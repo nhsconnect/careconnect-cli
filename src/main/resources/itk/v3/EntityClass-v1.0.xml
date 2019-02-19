@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EntityClass" version="1.0" status="created" id="2.16.840.1.113883.5.41">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe the types of entity, An entity is any type of thing.<br/>
+            </p>
+         </Description>
+   <concept code="ANM">
+      <displayName>animal</displayName>
+   </concept>
+   <concept code="CER">
+      <displayName>certificate representation</displayName>
+   </concept>
+   <concept code="CHEM">
+      <displayName>chemical substance</displayName>
+   </concept>
+   <concept code="CITY">
+      <displayName>city or town</displayName>
+   </concept>
+   <concept code="COUNTRY">
+      <displayName>country</displayName>
+   </concept>
+   <concept code="COUNTY">
+      <displayName>county or parish</displayName>
+   </concept>
+   <concept code="DEV">
+      <displayName>device</displayName>
+   </concept>
+   <concept code="ENT">
+      <displayName>entity</displayName>
+   </concept>
+   <concept code="FOOD">
+      <displayName>food</displayName>
+   </concept>
+   <concept code="HCE">
+      <displayName>health chart entity</displayName>
+   </concept>
+   <concept code="HOLD">
+      <displayName>holder</displayName>
+   </concept>
+   <concept code="LIV">
+      <displayName>living subject</displayName>
+   </concept>
+   <concept code="MMAT">
+      <displayName>manufactured material</displayName>
+   </concept>
+   <concept code="MAT">
+      <displayName>material</displayName>
+   </concept>
+   <concept code="MIC">
+      <displayName>microorganism</displayName>
+   </concept>
+   <concept code="MODDV">
+      <displayName>imaging modality</displayName>
+   </concept>
+   <concept code="NAT">
+      <displayName>nation</displayName>
+   </concept>
+   <concept code="NLIV">
+      <displayName>non-person living subject</displayName>
+   </concept>
+   <concept code="ORG">
+      <displayName>organization</displayName>
+   </concept>
+   <concept code="PSN">
+      <displayName>person</displayName>
+   </concept>
+   <concept code="PLC">
+      <displayName>place</displayName>
+   </concept>
+   <concept code="PLNT">
+      <displayName>plant</displayName>
+   </concept>
+   <concept code="PROVINCE">
+      <displayName>state or province</displayName>
+   </concept>
+   <concept code="PUB">
+      <displayName>public institution</displayName>
+   </concept>
+   <concept code="RGRP">
+      <displayName>group</displayName>
+   </concept>
+   <concept code="STATE">
+      <displayName>state</displayName>
+   </concept>
+</vocabulary>

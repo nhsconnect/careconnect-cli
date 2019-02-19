@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="GeneralDescription" version="1.0" status="deprecated"
+            id="2.16.840.1.113883.2.1.3.2.4.17.219">
+   <Description>
+            <p>A code to denote the general description item when describing a person.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Accent</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Associates</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Build</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Demeanour</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Dispensing Information</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Distinguishing Characteristics</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Dress</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Drugs Requested</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Explanation</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Hair</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Height</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Other Information</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Other Practices</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Prescribing Information</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Previous Address</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Previous GP</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Skin Colour or Ethnicity</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Smoking and Alcohol</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Time At Address</displayName>
+   </concept>
+   <concept code="20">
+      <displayName>Transport</displayName>
+   </concept>
+</vocabulary>

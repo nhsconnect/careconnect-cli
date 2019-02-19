@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AddressType" version="1.0" status="created" id="2.16.840.1.113883.12.190">
+   <Description>This table defines the address types.
+					Table type: HL7</Description>
+   <concept code="B">
+      <displayName>Firm/Business</displayName>
+   </concept>
+   <concept code="BA">
+      <displayName>Bad address</displayName>
+   </concept>
+   <concept code="BDL">
+      <displayName>Birth delivery location (address where birth occurred)</displayName>
+   </concept>
+   <concept code="BR">
+      <displayName>Residence at birth (home address at time of birth)</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Current Or Temporary</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Country Of Origin</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Home</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Legal Address</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Mailing</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Birth (nee) (birth address, not otherwise specified)</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Office</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Permanent</displayName>
+   </concept>
+   <concept code="RH">
+      <displayName>Registry home. Refers to the information system, typically managed by a public health agency, that stores patient information such as immunization histories or cancer data, regardless of where the patient obtains services.</displayName>
+   </concept>
+</vocabulary>

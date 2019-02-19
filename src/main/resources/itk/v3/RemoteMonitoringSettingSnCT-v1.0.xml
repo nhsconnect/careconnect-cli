@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RemoteMonitoringSettingSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p/>A code to indicate the type of location<br/>
+               <p>
+                  <strong>This is a preliminary set of values, for the full list consult the latest published version of the SNOMED CT subset with Original ID 45381000000132.</strong>
+                  <br/>
+               </p>
+               <p/>
+            </p>
+         </Description>
+   <concept code="394778007">
+      <displayName>Client's or patient's home</displayName>
+   </concept>
+   <concept code="81234003">
+      <displayName>Walk-in clinic</displayName>
+   </concept>
+   <concept code="264358009">
+      <displayName>General practice premises</displayName>
+   </concept>
+   <concept code="257585005">
+      <displayName>Clinic</displayName>
+   </concept>
+   <concept code="257688003">
+      <displayName>Residential home</displayName>
+   </concept>
+   <concept code="284546000">
+      <displayName>Hospice</displayName>
+   </concept>
+   <concept code="257628001">
+      <displayName>Hostel</displayName>
+   </concept>
+   <concept code="264372000">
+      <displayName>Pharmacy</displayName>
+   </concept>
+   <concept code="185334006">
+      <displayName>Patient on vacation</displayName>
+   </concept>
+   <concept code="285141008">
+      <displayName>Work environment</displayName>
+   </concept>
+   <concept code="42665001">
+      <displayName>Nursing home</displayName>
+   </concept>
+</vocabulary>

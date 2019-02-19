@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Consciousness and Seizures" type="Realm Concept" setId="67931000000130" version="6" id="7721000000133" refId="999001501000000101" memberCount="600" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="241006">
+<displayName lang="en" type="PT">Epilepsia partialis continua</displayName>
+<displayName lang="en" type="FSN">Epilepsia partialis continua (disorder)</displayName>
+<displayName lang="en" type="SY">Focal status epilepticus</displayName>
+<displayName lang="en" type="SY">Kojevnikov epilepsy</displayName>
+<displayName lang="en" type="SY">Kojewnikov&apos;s epilepsy</displayName>
+<displayName lang="en" type="SY">Motor simple partial status</displayName>
+</concept>
+<concept code="1430001">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level (disorder)</displayName>
+</concept>
+<concept code="2198002">
+<displayName lang="en" type="PT">Visceral epilepsy</displayName>
+<displayName lang="en" type="FSN">Visceral epilepsy (disorder)</displayName>
+</concept>
+<concept code="2665008">
+<displayName lang="en" type="PT">Coordinate convulsion</displayName>
+<displayName lang="en" type="FSN">Coordinate convulsion (finding)</displayName>
+</concept>
+<concept code="3006004">
+<displayName lang="en" type="PT">Disturbance of consciousness</displayName>
+<displayName lang="en" type="FSN">Disturbance of consciousness (finding)</displayName>
+<displayName lang="en" type="SY">Altered consciousness</displayName>
+<displayName lang="en" type="SY">Impaired consciousness</displayName>
+</concept>
+<concept code="3119002">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="4103001">
+<displayName lang="en" type="PT">Complex partial seizure with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Complex partial seizure with impairment of consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Complex partial seizure</displayName>
+<displayName lang="en" type="SY">Complex partial seizures with consciousness impaired</displayName>
+<displayName lang="en" type="SY">Psychomotor fit</displayName>
+</concept>
+<concept code="4619009">
+<displayName lang="en-GB" type="PT">Generalised-onset seizures</displayName>
+<displayName lang="en" type="FSN">Generalized-onset seizures (disorder)</displayName>
+</concept>
+<concept code="5073009">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="5470004">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="5886004">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="6147005">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="6204001">
+<displayName lang="en" type="PT">Juvenile myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Juvenile myoclonic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Impulsive petit mal of Janz</displayName>
+<displayName lang="en" type="SY">Impulsive petit-mal epilepsy</displayName>
+<displayName lang="en" type="SY">JME - Juvenile myoclonic epilepsy</displayName>
+<displayName lang="en" type="SY">Janz syndrome</displayName>
+<displayName lang="en" type="SY">Juvenile myoclonic epilepsy of Janz</displayName>
+<displayName lang="en" type="SY">Myoclonic epilepsy of adolescence</displayName>
+</concept>
+<concept code="6208003">
+<displayName lang="en" type="PT">Clonic seizure</displayName>
+<displayName lang="en" type="FSN">Clonic seizure (finding)</displayName>
+</concept>
+<concept code="7033004">
+<displayName lang="en" type="PT">Petit mal status</displayName>
+<displayName lang="en" type="FSN">Petit mal status (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsia minoris continua</displayName>
+<displayName lang="en" type="SY">Epileptic absence status</displayName>
+<displayName lang="en" type="SY">Non-convulsive status epilepticus with impaired consciousness</displayName>
+<displayName lang="en" type="SY">Petit-mal status</displayName>
+<displayName lang="en" type="SY">Prolonged epileptic twilight state</displayName>
+<displayName lang="en" type="SY">Spike wave stupor</displayName>
+<displayName lang="en" type="SY">Status pyknolepticus</displayName>
+</concept>
+<concept code="7454002">
+<displayName lang="en" type="PT">Simple partial seizure with autonomic dysfunction</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with autonomic dysfunction (disorder)</displayName>
+<displayName lang="en" type="SY">Autonomic absence</displayName>
+<displayName lang="en" type="SY">Autonomic attacks</displayName>
+<displayName lang="en" type="SY">Autonomic petit mal</displayName>
+<displayName lang="en" type="SY">Simple partial seizures with autonomic signs AND/OR symptoms</displayName>
+</concept>
+<concept code="7689009">
+<displayName lang="en" type="PT">Reading seizure</displayName>
+<displayName lang="en" type="FSN">Reading seizure (finding)</displayName>
+<displayName lang="en" type="SY">Reading epilepsy</displayName>
+</concept>
+<concept code="7711006">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="7819003">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="7862002">
+<displayName lang="en" type="PT">Prolonged loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Prolonged loss of consciousness (finding)</displayName>
+</concept>
+<concept code="9112001">
+<displayName lang="en" type="PT">Puerperal convulsion</displayName>
+<displayName lang="en" type="FSN">Puerperal convulsion (finding)</displayName>
+</concept>
+<concept code="9501009">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="9978007">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="10061007">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="10256000">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="11764003">
+<displayName lang="en" type="PT">Postconcussion state</displayName>
+<displayName lang="en" type="FSN">Postconcussion state (finding)</displayName>
+</concept>
+<concept code="12912004">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="13289004">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="13322008">
+<displayName lang="en" type="PT">Postseizure headache</displayName>
+<displayName lang="en" type="FSN">Postseizure headache (finding)</displayName>
+</concept>
+<concept code="13752003">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="13847000">
+<displayName lang="en" type="PT">Partial seizure with impaired consciousness</displayName>
+<displayName lang="en" type="FSN">Partial seizure with impaired consciousness (disorder)</displayName>
+</concept>
+<concept code="13973009">
+<displayName lang="en" type="PT">Grand mal status</displayName>
+<displayName lang="en" type="FSN">Grand mal status (disorder)</displayName>
+<displayName lang="en" type="SY">Convulsive status epilepticus</displayName>
+</concept>
+<concept code="14434006">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="14521008">
+<displayName lang="en" type="PT">Visual seizure</displayName>
+<displayName lang="en" type="FSN">Visual seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Hallucination seizure</displayName>
+</concept>
+<concept code="15523002">
+<displayName lang="en" type="PT">Benign focal epilepsy of childhood</displayName>
+<displayName lang="en" type="FSN">Benign focal epilepsy of childhood (disorder)</displayName>
+</concept>
+<concept code="16837005">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="16873003">
+<displayName lang="en" type="PT">Musicogenic seizure</displayName>
+<displayName lang="en" type="FSN">Musicogenic seizure (finding)</displayName>
+<displayName lang="en" type="SY">Musicogenic epilepsy</displayName>
+</concept>
+<concept code="16907002">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="17169009">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="17498002">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="17667005">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="17971005">
+<displayName lang="en" type="PT">Sedated</displayName>
+<displayName lang="en" type="FSN">Sedated (finding)</displayName>
+<displayName lang="en" type="SY">Under sedation</displayName>
+</concept>
+<concept code="18191000">
+<displayName lang="en" type="PT">Salaam spasm</displayName>
+<displayName lang="en" type="FSN">Salaam spasm (finding)</displayName>
+<displayName lang="en" type="SY">Nodding spasm</displayName>
+</concept>
+<concept code="18485009">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="18531006">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="18605003">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="19129003">
+<displayName lang="en" type="PT">Seems in a dream</displayName>
+<displayName lang="en" type="FSN">Seems in a dream (finding)</displayName>
+<displayName lang="en" type="SY">Dream-like state</displayName>
+</concept>
+<concept code="19210000">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="19233004">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="19260006">
+<displayName lang="en" type="PT">Lowered convulsive threshold</displayName>
+<displayName lang="en" type="FSN">Lowered convulsive threshold (finding)</displayName>
+</concept>
+<concept code="19334007">
+<displayName lang="en" type="PT">Stress seizure</displayName>
+<displayName lang="en" type="FSN">Stress seizure (finding)</displayName>
+<displayName lang="en" type="SY">Stress convulsion</displayName>
+</concept>
+<concept code="19593003">
+<displayName lang="en" type="PT">Movement partial seizure</displayName>
+<displayName lang="en" type="FSN">Movement partial seizure (finding)</displayName>
+</concept>
+<concept code="19598007">
+<displayName lang="en-GB" type="PT">Generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Generalized epilepsy (disorder)</displayName>
+</concept>
+<concept code="20167009">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="20276007">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="20544001">
+<displayName lang="en-GB" type="PT">Secondarily generalised seizures</displayName>
+<displayName lang="en" type="FSN">Secondarily generalized seizures (finding)</displayName>
+</concept>
+<concept code="22058002">
+<displayName lang="en" type="PT">Inattention</displayName>
+<displayName lang="en" type="FSN">Inattention (finding)</displayName>
+<displayName lang="en" type="SY">General inattentiveness</displayName>
+</concept>
+<concept code="22693008">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="22825007">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="23026001">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="23374007">
+<displayName lang="en" type="PT">Atypical absence seizure</displayName>
+<displayName lang="en" type="FSN">Atypical absence seizure (disorder)</displayName>
+</concept>
+<concept code="25124003">
+<displayName lang="en" type="PT">Selective inattention</displayName>
+<displayName lang="en" type="FSN">Selective inattention (finding)</displayName>
+<displayName lang="en" type="SY">Selective attention</displayName>
+</concept>
+<concept code="25185004">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="25689009">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="26205001">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="26329005">
+<displayName lang="en" type="PT">Poor concentration</displayName>
+<displayName lang="en" type="FSN">Poor concentration (finding)</displayName>
+</concept>
+<concept code="27923006">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="28055006">
+<displayName lang="en" type="PT">West syndrome</displayName>
+<displayName lang="en" type="FSN">West syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Blitz-Nick-salaam attacks</displayName>
+<displayName lang="en" type="SY">Hypsarrhythmia</displayName>
+<displayName lang="en" type="SY">Infantile spasms</displayName>
+<displayName lang="en" type="SY">Infantile spasms - hypsarrhythmia</displayName>
+<displayName lang="en" type="SY">Krampfe salaam attacks</displayName>
+<displayName lang="en" type="SY">Lightning spasms</displayName>
+<displayName lang="en" type="SY">Salaam attack</displayName>
+<displayName lang="en" type="SY">Salaam attacks</displayName>
+<displayName lang="en" type="SY">West&apos;s syndrome</displayName>
+</concept>
+<concept code="28102002">
+<displayName lang="en" type="PT">Distractibility</displayName>
+<displayName lang="en" type="FSN">Distractibility (finding)</displayName>
+</concept>
+<concept code="28156009">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="29635000">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="29753000">
+<displayName lang="en" type="PT">Partial seizure</displayName>
+<displayName lang="en" type="FSN">Partial seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Focal seizure</displayName>
+<displayName lang="en" type="SY">Local convulsion</displayName>
+<displayName lang="en" type="SY">Local seizure</displayName>
+<displayName lang="en" type="SY">Partial seizures</displayName>
+</concept>
+<concept code="29807001">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="29963001">
+<displayName lang="en" type="PT">Dysmnesic seizure</displayName>
+<displayName lang="en" type="FSN">Dysmnesic seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Deja-vu seizure</displayName>
+<displayName lang="en" type="SY">Jamais-vu seizure</displayName>
+</concept>
+<concept code="31457007">
+<displayName lang="en" type="PT">Effort syncope</displayName>
+<displayName lang="en" type="FSN">Effort syncope (disorder)</displayName>
+<displayName lang="en" type="SY">Exertional syncope</displayName>
+<displayName lang="en" type="SY">Syncope on exertion</displayName>
+</concept>
+<concept code="31758001">
+<displayName lang="en" type="PT">Post-ictal state</displayName>
+<displayName lang="en" type="FSN">Post-ictal state (finding)</displayName>
+<displayName lang="en" type="SY">Post-fit state</displayName>
+<displayName lang="en" type="SY">Post-seizure state</displayName>
+<displayName lang="en" type="SY">Postictal state</displayName>
+</concept>
+<concept code="31804002">
+<displayName lang="en" type="PT">Grayout</displayName>
+<displayName lang="en" type="FSN">Grayout (finding)</displayName>
+</concept>
+<concept code="32834005">
+<displayName lang="en" type="PT">Brief loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brief loss of consciousness (finding)</displayName>
+</concept>
+<concept code="33117006">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="33941008">
+<displayName lang="en" type="PT">Simple partial seizure with disturbance of higher cerebral function</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with disturbance of higher cerebral function (disorder)</displayName>
+<displayName lang="en" type="SY">Simple partial seizure with psychic dysfunction</displayName>
+<displayName lang="en" type="SY">Simple partial seizures with psychic symptoms</displayName>
+</concept>
+<concept code="34135005">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="34501004">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="34601006">
+<displayName lang="en" type="PT">Somatosensory seizure</displayName>
+<displayName lang="en" type="FSN">Somatosensory seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Simple partial seizures with somatosensory symptoms</displayName>
+<displayName lang="en" type="SY">Somatosensory attacks</displayName>
+</concept>
+<concept code="34751006">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="34951003">
+<displayName lang="en" type="PT">Drugged state</displayName>
+<displayName lang="en" type="FSN">Drugged state (finding)</displayName>
+</concept>
+<concept code="35672006">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="36716000">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="36803009">
+<displayName lang="en-GB" type="PT">Idiopathic generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Idiopathic generalized epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Primary generalised epilepsy</displayName>
+</concept>
+<concept code="36822000">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="37134004">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="37356005">
+<displayName lang="en" type="PT">Myoclonic seizure</displayName>
+<displayName lang="en" type="FSN">Myoclonic seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Myoclonic seizures</displayName>
+</concept>
+<concept code="38281008">
+<displayName lang="en" type="PT">Benign neonatal convulsions</displayName>
+<displayName lang="en" type="FSN">Benign neonatal convulsions (disorder)</displayName>
+<displayName lang="en" type="SY">Benign neonatal seizures</displayName>
+</concept>
+<concept code="38761006">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="39194005">
+<displayName lang="en" type="PT">Visual epilepsy</displayName>
+<displayName lang="en" type="FSN">Visual epilepsy (disorder)</displayName>
+</concept>
+<concept code="39745004">
+<displayName lang="en" type="PT">Chronic progressive epilepsia partialis continua</displayName>
+<displayName lang="en" type="FSN">Chronic progressive epilepsia partialis continua (disorder)</displayName>
+</concept>
+<concept code="40135004">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="40286002">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="40549004">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="40816002">
+<displayName lang="en" type="PT">Retropulsion petit mal</displayName>
+<displayName lang="en" type="FSN">Retropulsion petit mal (disorder)</displayName>
+<displayName lang="en" type="SY">Retropulsion absence</displayName>
+</concept>
+<concept code="40863000">
+<displayName lang="en" type="PT">Moderate loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Moderate duration loss of consciousness (finding)</displayName>
+<displayName lang="en" type="SY">Moderate duration loss of consciousness</displayName>
+</concept>
+<concept code="40917007">
+<displayName lang="en" type="PT">Clouded consciousness</displayName>
+<displayName lang="en" type="FSN">Clouded consciousness (finding)</displayName>
+<displayName lang="en" type="SY">Bewilderment</displayName>
+<displayName lang="en" type="SY">Confused</displayName>
+<displayName lang="en" type="SY">Confusion</displayName>
+<displayName lang="en" type="SY">Dazed</displayName>
+<displayName lang="en" type="SY">Dazed state</displayName>
+<displayName lang="en" type="SY">Dullness of senses</displayName>
+<displayName lang="en" type="SY">Muddled</displayName>
+</concept>
+<concept code="41025001">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="41119002">
+<displayName lang="en" type="PT">Akinetic seizure without atonia</displayName>
+<displayName lang="en" type="FSN">Akinetic seizure without atonia (finding)</displayName>
+</concept>
+<concept code="41497008">
+<displayName lang="en" type="PT">Febrile convulsion</displayName>
+<displayName lang="en" type="FSN">Febrile convulsion (finding)</displayName>
+<displayName lang="en" type="SY">Febrile fit</displayName>
+<displayName lang="en" type="SY">Febrile seizure</displayName>
+<displayName lang="en" type="SY">Febrile seizure (from fever)</displayName>
+<displayName lang="en" type="SY">Fever seizure</displayName>
+<displayName lang="en" type="SY">Pyrexial convulsion</displayName>
+</concept>
+<concept code="41510006">
+<displayName lang="en" type="PT">Anoxic seizure</displayName>
+<displayName lang="en" type="FSN">Anoxic seizure (finding)</displayName>
+</concept>
+<concept code="41870008">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="41906002">
+<displayName lang="en" type="PT">Drug withdrawal seizure</displayName>
+<displayName lang="en" type="FSN">Drug withdrawal seizure (finding)</displayName>
+<displayName lang="en" type="SY">Drug withdrawal convulsion</displayName>
+</concept>
+<concept code="42365007">
+<displayName lang="en" type="PT">Atonic seizure</displayName>
+<displayName lang="en" type="FSN">Atonic seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Atonic seizures</displayName>
+</concept>
+<concept code="42440009">
+<displayName lang="en" type="PT">Partial seizure with illusions and hallucinations</displayName>
+<displayName lang="en" type="FSN">Partial seizure with illusions and hallucinations (disorder)</displayName>
+</concept>
+<concept code="42670008">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="44145005">
+<displayName lang="en" type="PT">Benign Rolandic epilepsy</displayName>
+<displayName lang="en" type="FSN">Benign Rolandic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Centralopathic epilepsy</displayName>
+<displayName lang="en" type="SY">Centrotemporal epilepsy</displayName>
+<displayName lang="en" type="SY">Temporal-central focal epilepsy</displayName>
+</concept>
+<concept code="45659008">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="46935006">
+<displayName lang="en" type="PT">Stokes-Adams syndrome</displayName>
+<displayName lang="en" type="FSN">Stokes-Adams syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Stokes-Adams-Morgagni syndrome</displayName>
+</concept>
+<concept code="46991000">
+<displayName lang="en" type="PT">Absent minded</displayName>
+<displayName lang="en" type="FSN">Absent minded (finding)</displayName>
+</concept>
+<concept code="47450003">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="47462004">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="47654002">
+<displayName lang="en" type="PT">Raised convulsive threshold</displayName>
+<displayName lang="en" type="FSN">Raised convulsive threshold (finding)</displayName>
+</concept>
+<concept code="47979002">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="47983002">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="49255002">
+<displayName lang="en-GB" type="PT">Uraemic convulsion</displayName>
+<displayName lang="en" type="FSN">Uremic convulsion (finding)</displayName>
+</concept>
+<concept code="49644006">
+<displayName lang="en" type="PT">Simple partial onset seizure followed by impaired consciousness</displayName>
+<displayName lang="en" type="FSN">Simple partial onset seizure followed by impaired consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Simple partial onset of seizure followed by impairment of consciousness</displayName>
+<displayName lang="en" type="SY">Simple partial onset seizures followed by impaired consciousness</displayName>
+</concept>
+<concept code="49776008">
+<displayName lang="en" type="PT">Centrencephalic epilepsy</displayName>
+<displayName lang="en" type="FSN">Centrencephalic epilepsy (disorder)</displayName>
+</concept>
+<concept code="50866000">
+<displayName lang="en" type="PT">Childhood absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Childhood absence epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Childhood - juvenile - absence epilepsy</displayName>
+<displayName lang="en" type="SY">Petit-mal epilepsy</displayName>
+<displayName lang="en" type="SY">Pykno-epilepsy</displayName>
+<displayName lang="en" type="SY">Pyknolepsy</displayName>
+</concept>
+<concept code="51075009">
+<displayName lang="en-GB" type="PT">Complex partial seizure evolving to generalised seizure</displayName>
+<displayName lang="en" type="FSN">Complex partial seizure evolving to generalized seizure (disorder)</displayName>
+</concept>
+<concept code="51101002">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="51887003">
+<displayName lang="en" type="PT">Tonic seizure</displayName>
+<displayName lang="en" type="FSN">Tonic seizure (disorder)</displayName>
+</concept>
+<concept code="52125007">
+<displayName lang="en" type="PT">Gustatory seizure</displayName>
+<displayName lang="en" type="FSN">Gustatory seizure (disorder)</displayName>
+</concept>
+<concept code="52902005">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="52913008">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="53267002">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="53429002">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="53482009">
+<displayName lang="en" type="PT">Startle partial seizure</displayName>
+<displayName lang="en" type="FSN">Startle partial seizure (finding)</displayName>
+</concept>
+<concept code="53730006">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="54200006">
+<displayName lang="en" type="PT">Tonic-clonic seizure</displayName>
+<displayName lang="en" type="FSN">Tonic-clonic seizure (finding)</displayName>
+<displayName lang="en" type="SY">Grand mal convulsion</displayName>
+<displayName lang="en" type="SY">Grand mal seizure</displayName>
+<displayName lang="en" type="SY">Tonic-clonic convulsion</displayName>
+<displayName lang="en" type="SY">Tonic-clonic seizures</displayName>
+</concept>
+<concept code="54637009">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="55885004">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="57012007">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="57099002">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="58070005">
+<displayName lang="en" type="PT">Cortex laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cortex laceration without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="58077008">
+<displayName lang="en" type="PT">Hypotensive syncope</displayName>
+<displayName lang="en" type="FSN">Hypotensive syncope (disorder)</displayName>
+</concept>
+<concept code="58895005">
+<displayName lang="en" type="PT">Central convulsion</displayName>
+<displayName lang="en" type="FSN">Central convulsion (finding)</displayName>
+<displayName lang="en" type="SY">Essential convulsion</displayName>
+<displayName lang="en" type="SY">Spontaneous convulsion</displayName>
+</concept>
+<concept code="59029004">
+<displayName lang="en" type="PT">Cortex contusion without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cortex contusion without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="59457001">
+<displayName lang="en-GB" type="PT">Simple partial seizure evolving to secondary generalised seizure</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure evolving to secondary generalized seizure (disorder)</displayName>
+</concept>
+<concept code="59561005">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="59633005">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="59648004">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="59754009">
+<displayName lang="en" type="PT">Brief atonic seizure</displayName>
+<displayName lang="en" type="FSN">Brief atonic seizure (finding)</displayName>
+</concept>
+<concept code="60032008">
+<displayName lang="en" type="PT">Unable to concentrate</displayName>
+<displayName lang="en" type="FSN">Unable to concentrate (finding)</displayName>
+<displayName lang="en" type="SY">Concentration impairment</displayName>
+<displayName lang="en" type="SY">Lack of concentration</displayName>
+</concept>
+<concept code="60317006">
+<displayName lang="en" type="PT">Pattern sensitive seizure</displayName>
+<displayName lang="en" type="FSN">Pattern sensitive seizure (finding)</displayName>
+<displayName lang="en" type="SY">Light sensitive partial seizure</displayName>
+</concept>
+<concept code="60338000">
+<displayName lang="en" type="PT">Partial seizure with multiple symptoms</displayName>
+<displayName lang="en" type="FSN">Partial seizure with multiple symptoms (disorder)</displayName>
+</concept>
+<concept code="60546000">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="61484000">
+<displayName lang="en-GB" type="PT">Simple partial seizure evolving to generalised seizure</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure evolving to generalized seizure (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Simple partial seizure evolving to complex partial seizure evolving to generalised seizure</displayName>
+</concept>
+<concept code="61927004">
+<displayName lang="en" type="PT">Auditory seizure</displayName>
+<displayName lang="en" type="FSN">Auditory seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Auditory uncinate fit</displayName>
+</concept>
+<concept code="62106007">
+<displayName lang="en" type="PT">Concussion with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Concussion with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="62564004">
+<displayName lang="en" type="PT">Concussion with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Concussion with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="62973004">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="63023005">
+<displayName lang="en" type="PT">Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="63323000">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="64337000">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="64413001">
+<displayName lang="en" type="PT">Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="65120008">
+<displayName lang="en-GB" type="PT">Generalised convulsive epilepsy</displayName>
+<displayName lang="en" type="FSN">Generalized convulsive epilepsy (disorder)</displayName>
+</concept>
+<concept code="65535000">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="66264000">
+<displayName lang="en" type="PT">Todd&apos;s paresis</displayName>
+<displayName lang="en" type="FSN">Todd&apos;s paresis (finding)</displayName>
+<displayName lang="en" type="SY">Postictal paralysis</displayName>
+<displayName lang="en" type="SY">Todd paresis</displayName>
+<displayName lang="en" type="SY">Todd&apos;s paralysis</displayName>
+</concept>
+<concept code="66393002">
+<displayName lang="en" type="PT">Brain stem contusion with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem contusion with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="66976009">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="67378005">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="68448003">
+<displayName lang="en-GB" type="PT">Myoclonus epilepsy AND ragged red fibres</displayName>
+<displayName lang="en" type="FSN">Myoclonus epilepsy AND ragged red fibers (disorder)</displayName>
+<displayName lang="en" type="SY">MERRF</displayName>
+</concept>
+<concept code="68761002">
+<displayName lang="en" type="PT">Epileptic vertigo</displayName>
+<displayName lang="en" type="FSN">Epileptic vertigo (disorder)</displayName>
+<displayName lang="en" type="SY">Vertiginous epilepsy</displayName>
+</concept>
+<concept code="69178005">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="69458009">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="70503004">
+<displayName lang="en" type="PT">Hypnotic state</displayName>
+<displayName lang="en" type="FSN">Hypnotic state (finding)</displayName>
+</concept>
+<concept code="70686002">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="70861009">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="71427006">
+<displayName lang="en" type="PT">Cursive seizure</displayName>
+<displayName lang="en" type="FSN">Cursive seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Running epilepsy</displayName>
+</concept>
+<concept code="71587006">
+<displayName lang="en" type="PT">Tetanic convulsion</displayName>
+<displayName lang="en" type="FSN">Tetanic convulsion (finding)</displayName>
+</concept>
+<concept code="71831005">
+<displayName lang="en-GB" type="PT">Symptomatic generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Symptomatic generalized epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Secondary generalised epilepsy</displayName>
+</concept>
+<concept code="72103000">
+<displayName lang="en" type="PT">Simple partial seizure with special sensory symptoms</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with special sensory symptoms (disorder)</displayName>
+<displayName lang="en" type="SY">Simple partial seizures with special sensory symptoms</displayName>
+<displayName lang="en" type="SY">Special sensory attacks</displayName>
+</concept>
+<concept code="72797002">
+<displayName lang="en" type="PT">Cerebellar contusion with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="73308006">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="73439007">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="73706008">
+<displayName lang="en" type="PT">Epileptic cry</displayName>
+<displayName lang="en" type="FSN">Epileptic cry (finding)</displayName>
+</concept>
+<concept code="73840001">
+<displayName lang="en" type="PT">Ideational partial seizure</displayName>
+<displayName lang="en" type="FSN">Ideational partial seizure (finding)</displayName>
+</concept>
+<concept code="74737003">
+<displayName lang="en" type="PT">Complex partial seizure + impairment consciousness at onset</displayName>
+<displayName lang="en" type="FSN">Complex partial seizure + impairment consciousness at onset (disorder)</displayName>
+<displayName lang="en" type="SY">Complex partial seizure with impairment of consciousness at onset</displayName>
+<displayName lang="en" type="SY">Complex partial seizures with impaired consciousness at onset</displayName>
+</concept>
+<concept code="75023009">
+<displayName lang="en" type="PT">Post-traumatic epilepsy</displayName>
+<displayName lang="en" type="FSN">Post-traumatic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">PTE - Post-traumatic epilepsy</displayName>
+<displayName lang="en" type="SY">Traumatic epilepsy</displayName>
+</concept>
+<concept code="75507000">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="76039005">
+<displayName lang="en" type="PT">Disturbance of attention</displayName>
+<displayName lang="en" type="FSN">Disturbance of attention (finding)</displayName>
+</concept>
+<concept code="76418009">
+<displayName lang="en" type="PT">Concussion with mental confusion AND/OR disorientation without loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Concussion with mental confusion AND/OR disorientation without loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="77450009">
+<displayName lang="en" type="PT">Unclassified epileptic seizures</displayName>
+<displayName lang="en" type="FSN">Unclassified epileptic seizures (disorder)</displayName>
+</concept>
+<concept code="78477003">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="78525006">
+<displayName lang="en" type="PT">Brain stem laceration without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain stem laceration without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="79228001">
+<displayName lang="en" type="PT">Brain injury without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain injury without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="79348005">
+<displayName lang="en" type="PT">Simple partial seizure, consciousness not impaired</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure, consciousness not impaired (disorder)</displayName>
+</concept>
+<concept code="79631006">
+<displayName lang="en" type="PT">Absence seizure</displayName>
+<displayName lang="en" type="FSN">Absence seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Petit mal</displayName>
+<displayName lang="en" type="SY">Petit-mal seizure</displayName>
+</concept>
+<concept code="79745005">
+<displayName lang="en" type="PT">Reflex epilepsy</displayName>
+<displayName lang="en" type="FSN">Reflex epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy associated with specific stimuli</displayName>
+<displayName lang="en" type="SY">Sensory-induced epilepsy</displayName>
+</concept>
+<concept code="81268009">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="81412002">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="81520002">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="81879005">
+<displayName lang="en" type="PT">Whiteout</displayName>
+<displayName lang="en" type="FSN">Whiteout (finding)</displayName>
+</concept>
+<concept code="82401000">
+<displayName lang="en" type="PT">Simple partial seizure with motor dysfunction</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with motor dysfunction (disorder)</displayName>
+<displayName lang="en" type="SY">Partial motor attacks</displayName>
+<displayName lang="en" type="SY">Simple partial seizures with motor signs</displayName>
+</concept>
+<concept code="82637004">
+<displayName lang="en" type="PT">Cerebellar contusion without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar contusion without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="83752007">
+<displayName lang="en" type="PT">Abdominal seizure</displayName>
+<displayName lang="en" type="FSN">Abdominal seizure (finding)</displayName>
+<displayName lang="en" type="SY">Visceral seizure</displayName>
+</concept>
+<concept code="83779006">
+<displayName lang="en-GB" type="PT">Palinaesthesia</displayName>
+<displayName lang="en" type="FSN">Palinesthesia (finding)</displayName>
+</concept>
+<concept code="84757009">
+<displayName lang="en" type="PT">Epilepsy</displayName>
+<displayName lang="en" type="FSN">Epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">EP - Epilepsy</displayName>
+<displayName lang="en" type="SY">Epileptic</displayName>
+<displayName lang="en" type="SY">Epileptic attack</displayName>
+<displayName lang="en" type="SY">Epileptic convulsions</displayName>
+<displayName lang="en" type="SY">Epileptic disorder</displayName>
+<displayName lang="en" type="SY">Epileptic fits</displayName>
+<displayName lang="en" type="SY">Epileptic seizures</displayName>
+</concept>
+<concept code="84792001">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="84803006">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="84900008">
+<displayName lang="en" type="PT">Cerebellar laceration with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="85314006">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="86010003">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="86182004">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="86488006">
+<displayName lang="en" type="PT">Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="86652009">
+<displayName lang="en" type="PT">Cerebral irresponsivity</displayName>
+<displayName lang="en" type="FSN">Cerebral irresponsivity (finding)</displayName>
+</concept>
+<concept code="86713007">
+<displayName lang="en" type="PT">Nonpersistence</displayName>
+<displayName lang="en" type="FSN">Nonpersistence (finding)</displayName>
+</concept>
+<concept code="87020000">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour)</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour) (disorder)</displayName>
+</concept>
+<concept code="87095001">
+<displayName lang="en" type="PT">Olfactory seizure</displayName>
+<displayName lang="en" type="FSN">Olfactory seizure (disorder)</displayName>
+<displayName lang="en" type="SY">Olfactory uncinate fit</displayName>
+</concept>
+<concept code="87185006">
+<displayName lang="en" type="PT">Long atonic seizure</displayName>
+<displayName lang="en" type="FSN">Long atonic seizure (finding)</displayName>
+</concept>
+<concept code="87253004">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="87345009">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="87476004">
+<displayName lang="en" type="PT">Convulsions in the newborn</displayName>
+<displayName lang="en" type="FSN">Convulsions in the newborn (disorder)</displayName>
+<displayName lang="en" type="SY">Fits in newborn</displayName>
+<displayName lang="en" type="SY">Fits in the newborn</displayName>
+<displayName lang="en" type="SY">Neonatal convulsions</displayName>
+<displayName lang="en" type="SY">Neonatal seizures</displayName>
+<displayName lang="en" type="SY">Seizures in newborn</displayName>
+<displayName lang="en" type="SY">Seizures in the newborn</displayName>
+</concept>
+<concept code="88747000">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="88962006">
+<displayName lang="en" type="PT">Incomplete clearmindedness</displayName>
+<displayName lang="en" type="FSN">Incomplete clearmindedness (finding)</displayName>
+</concept>
+<concept code="89458003">
+<displayName lang="en" type="PT">Stupor</displayName>
+<displayName lang="en" type="FSN">Stupor (finding)</displayName>
+<displayName lang="en" type="SY">Mental status, stupor</displayName>
+</concept>
+<concept code="89525009">
+<displayName lang="en" type="PT">Gelastic seizure</displayName>
+<displayName lang="en" type="FSN">Gelastic seizure (disorder)</displayName>
+</concept>
+<concept code="89797005">
+<displayName lang="en" type="PT">Heat syncope</displayName>
+<displayName lang="en" type="FSN">Heat syncope (disorder)</displayName>
+<displayName lang="en" type="SY">Collapse - heat</displayName>
+<displayName lang="en" type="SY">Heat collapse</displayName>
+</concept>
+<concept code="90129003">
+<displayName lang="en" type="PT">Tussive syncope</displayName>
+<displayName lang="en" type="FSN">Tussive syncope (disorder)</displayName>
+<displayName lang="en" type="SY">Charcot vertigo</displayName>
+<displayName lang="en" type="SY">Cough syncope</displayName>
+<displayName lang="en" type="SY">Laryngeal syncope</displayName>
+<displayName lang="en" type="SY">Laryngeal vertigo</displayName>
+</concept>
+<concept code="90165008">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="90172009">
+<displayName lang="en" type="PT">Narcosis</displayName>
+<displayName lang="en" type="FSN">Narcosis (finding)</displayName>
+</concept>
+<concept code="90178008">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="90406001">
+<displayName lang="en" type="PT">Amorphosynthesis</displayName>
+<displayName lang="en" type="FSN">Amorphosynthesis (finding)</displayName>
+</concept>
+<concept code="90429009">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="91168001">
+<displayName lang="en" type="PT">Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="91175000">
+<displayName lang="en" type="PT">Seizure</displayName>
+<displayName lang="en" type="FSN">Seizure (finding)</displayName>
+<displayName lang="en" type="SY">Convulsion</displayName>
+<displayName lang="en" type="SY">Fit</displayName>
+<displayName lang="en" type="SY">Fit - convulsion</displayName>
+<displayName lang="en" type="SY">Fitting</displayName>
+</concept>
+<concept code="91216000">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="95208000">
+<displayName lang="en" type="PT">Photogenic epilepsy</displayName>
+<displayName lang="en" type="FSN">Photogenic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy only in relation to photic stimulation</displayName>
+<displayName lang="en" type="SY">Photic epilepsy</displayName>
+<displayName lang="en" type="SY">Photosensitive epilepsy</displayName>
+<displayName lang="en" type="SY">Pure photosensitive epilepsy</displayName>
+<displayName lang="en" type="SY">Television epilepsy</displayName>
+</concept>
+<concept code="95631006">
+<displayName lang="en" type="PT">Drowsiness of the newborn</displayName>
+<displayName lang="en" type="FSN">Drowsiness of the newborn (disorder)</displayName>
+<displayName lang="en" type="SY">Neonatal drowsiness</displayName>
+<displayName lang="en" type="SY">Neonatal somnolence</displayName>
+<displayName lang="en" type="SY">Somnolence of the newborn</displayName>
+</concept>
+<concept code="109478007">
+<displayName lang="en" type="PT">Kohlschutter&apos;s syndrome</displayName>
+<displayName lang="en" type="FSN">Kohlschutter&apos;s syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Amelocerebrohypohidrotic syndrome</displayName>
+<displayName lang="en" type="SY">Epilepsy, dementia and amelogenesis imperfecta</displayName>
+<displayName lang="en" type="SY">Epilepsy, mental deterioration and yellow teeth</displayName>
+<displayName lang="en" type="SY">Kohlschutter syndrome</displayName>
+</concept>
+<concept code="111498005">
+<displayName lang="en" type="PT">Extratemporal epilepsy</displayName>
+<displayName lang="en" type="FSN">Extratemporal epilepsy (disorder)</displayName>
+</concept>
+<concept code="111671004">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level (disorder)</displayName>
+</concept>
+<concept code="111673001">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours)</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours) (disorder)</displayName>
+</concept>
+<concept code="111677000">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="111679002">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury without open intracranial wound AND with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury without open intracranial wound AND with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="111681000">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound AND loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound AND loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127297005">
+<displayName lang="en" type="PT">Intracranial injury with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial injury with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127298000">
+<displayName lang="en" type="PT">Traumatic brain injury with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127299008">
+<displayName lang="en" type="PT">Traumatic brain injury with brief loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with brief loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127300000">
+<displayName lang="en" type="PT">Traumatic brain injury with moderate loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with moderate loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127301001">
+<displayName lang="en" type="PT">Traumatic brain injury with prolonged loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with prolonged loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127302008">
+<displayName lang="en" type="PT">Traumatic brain injury with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127308007">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127309004">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with brief loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with brief loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127310009">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with moderate loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with moderate loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="127311008">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with prolonged loss of consciousness AND return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with prolonged loss of consciousness AND return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="127312001">
+<displayName lang="en-GB" type="PT">Intracranial haemorrhage following injury with prolonged loss of consciousness without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Intracranial hemorrhage following injury with prolonged loss of consciousness without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="128612007">
+<displayName lang="en" type="PT">Focal motor seizure</displayName>
+<displayName lang="en" type="FSN">Focal motor seizure (disorder)</displayName>
+</concept>
+<concept code="128613002">
+<displayName lang="en" type="PT">Seizure disorder</displayName>
+<displayName lang="en" type="FSN">Seizure disorder (disorder)</displayName>
+</concept>
+<concept code="130965009">
+<displayName lang="en" type="PT">Persistence</displayName>
+<displayName lang="en" type="FSN">Persistence (finding)</displayName>
+</concept>
+<concept code="130987000">
+<displayName lang="en" type="PT">Acute confusion</displayName>
+<displayName lang="en" type="FSN">Acute confusion (finding)</displayName>
+</concept>
+<concept code="130988005">
+<displayName lang="en" type="PT">Chronic confusion</displayName>
+<displayName lang="en" type="FSN">Chronic confusion (finding)</displayName>
+</concept>
+<concept code="162700008">
+<displayName lang="en" type="PT">O/E - level of consciousness</displayName>
+<displayName lang="en" type="FSN">On examination - level of consciousness (finding)</displayName>
+<displayName lang="en" type="SY">On examination - level of consciousness</displayName>
+</concept>
+<concept code="162701007">
+<displayName lang="en" type="PT">O/E - fully conscious</displayName>
+<displayName lang="en" type="FSN">On examination - fully conscious (finding)</displayName>
+<displayName lang="en" type="SY">On examination - fully conscious</displayName>
+</concept>
+<concept code="162702000">
+<displayName lang="en" type="PT">O/E - mentally confused</displayName>
+<displayName lang="en" type="FSN">On examination - mentally confused (disorder)</displayName>
+<displayName lang="en" type="SY">O/E - confused</displayName>
+<displayName lang="en" type="SY">On examination - mentally confused</displayName>
+</concept>
+<concept code="162703005">
+<displayName lang="en" type="PT">O/E - delirious</displayName>
+<displayName lang="en" type="FSN">On examination - delirious (finding)</displayName>
+<displayName lang="en" type="SY">On examination - delirious</displayName>
+</concept>
+<concept code="162704004">
+<displayName lang="en" type="PT">O/E - drowsy</displayName>
+<displayName lang="en" type="FSN">On examination - drowsy (finding)</displayName>
+<displayName lang="en" type="SY">On examination - drowsy</displayName>
+</concept>
+<concept code="162705003">
+<displayName lang="en" type="PT">O/E - semiconscious</displayName>
+<displayName lang="en" type="FSN">On examination - semiconscious (finding)</displayName>
+<displayName lang="en" type="SY">On examination - semiconscious</displayName>
+</concept>
+<concept code="162707006">
+<displayName lang="en" type="PT">O/E - conscious level fluctuating</displayName>
+<displayName lang="en" type="FSN">On examination - conscious level fluctuating (finding)</displayName>
+<displayName lang="en" type="SY">On examination - conscious level fluctuating</displayName>
+</concept>
+<concept code="162713002">
+<displayName lang="en" type="PT">O/E - collapse - syncope</displayName>
+<displayName lang="en" type="FSN">On examination - collapse - syncope (disorder)</displayName>
+<displayName lang="en" type="SY">O/E - syncopal collapse</displayName>
+<displayName lang="en" type="SY">On examination - collapse - syncope</displayName>
+</concept>
+<concept code="163588007">
+<displayName lang="en" type="PT">O/E - fit/convulsion</displayName>
+<displayName lang="en" type="FSN">On examination - fit/convulsion (finding)</displayName>
+<displayName lang="en" type="SY">O/E - a convulsion</displayName>
+<displayName lang="en" type="SY">O/E - a fit</displayName>
+<displayName lang="en" type="SY">O/E - a seizure</displayName>
+<displayName lang="en" type="SY">On examination - fit/convulsion</displayName>
+</concept>
+<concept code="163590008">
+<displayName lang="en" type="PT">O/E - grand mal fit</displayName>
+<displayName lang="en" type="FSN">On examination - grand mal fit (finding)</displayName>
+<displayName lang="en" type="SY">On examination - grand mal fit</displayName>
+</concept>
+<concept code="163591007">
+<displayName lang="en" type="PT">O/E - petit mal fit</displayName>
+<displayName lang="en" type="FSN">On examination - petit mal fit (disorder)</displayName>
+<displayName lang="en" type="SY">On examination - petit mal fit</displayName>
+</concept>
+<concept code="163593005">
+<displayName lang="en" type="PT">O/E - psychomotor fit</displayName>
+<displayName lang="en" type="FSN">On examination - psychomotor fit (disorder)</displayName>
+<displayName lang="en" type="SY">On examination - psychomotor fit</displayName>
+</concept>
+<concept code="163594004">
+<displayName lang="en" type="PT">O/E - salaam attack</displayName>
+<displayName lang="en" type="FSN">On examination - salaam attack (disorder)</displayName>
+<displayName lang="en" type="SY">On examination - salaam attack</displayName>
+</concept>
+<concept code="163595003">
+<displayName lang="en" type="PT">O/E - febrile convulsion</displayName>
+<displayName lang="en" type="FSN">On examination - febrile convulsion (finding)</displayName>
+<displayName lang="en" type="SY">On examination - febrile convulsion</displayName>
+</concept>
+<concept code="163616009">
+<displayName lang="en" type="PT">O/E - easily distractable</displayName>
+<displayName lang="en" type="FSN">On examination - easily distractable (finding)</displayName>
+<displayName lang="en" type="SY">On examination - easily distractable</displayName>
+</concept>
+<concept code="191714002">
+<displayName lang="en" type="PT">Dissociative convulsions</displayName>
+<displayName lang="en" type="FSN">Dissociative convulsions (disorder)</displayName>
+<displayName lang="en" type="SY">Dissociative seizures</displayName>
+<displayName lang="en" type="SY">Factitious seizures</displayName>
+<displayName lang="en" type="SY">Hysterical fit</displayName>
+<displayName lang="en" type="SY">Hysterical seizures</displayName>
+<displayName lang="en" type="SY">Pseudoseizures</displayName>
+<displayName lang="en" type="SY">Psychogenic seizures</displayName>
+<displayName lang="en" type="SY">Sham seizures</displayName>
+</concept>
+<concept code="192845009">
+<displayName lang="en" type="PT">Myoclonic encephalopathy</displayName>
+<displayName lang="en" type="FSN">Myoclonic encephalopathy (disorder)</displayName>
+</concept>
+<concept code="192979009">
+<displayName lang="en-GB" type="PT">Generalised non-convulsive epilepsy</displayName>
+<displayName lang="en" type="FSN">Generalized non-convulsive epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Generalised nonconvulsive epilepsy</displayName>
+</concept>
+<concept code="192981006">
+<displayName lang="en" type="PT">Epileptic seizures - atonic</displayName>
+<displayName lang="en" type="FSN">Epileptic seizures - atonic (finding)</displayName>
+</concept>
+<concept code="192982004">
+<displayName lang="en" type="PT">Epileptic seizures - akinetic</displayName>
+<displayName lang="en" type="FSN">Epileptic seizures - akinetic (finding)</displayName>
+</concept>
+<concept code="192990004">
+<displayName lang="en" type="PT">Benign myoclonic epilepsy in infancy</displayName>
+<displayName lang="en" type="FSN">Benign myoclonic epilepsy in infancy (disorder)</displayName>
+<displayName lang="en" type="SY">Neonatal myoclonic epilepsy</displayName>
+</concept>
+<concept code="192991000">
+<displayName lang="en" type="PT">Epileptic seizures - clonic</displayName>
+<displayName lang="en" type="FSN">Epileptic seizures - clonic (finding)</displayName>
+</concept>
+<concept code="192992007">
+<displayName lang="en" type="PT">Epileptic seizures - myoclonic</displayName>
+<displayName lang="en" type="FSN">Epileptic seizures - myoclonic (disorder)</displayName>
+</concept>
+<concept code="192993002">
+<displayName lang="en" type="PT">Epileptic seizures - tonic</displayName>
+<displayName lang="en" type="FSN">Epileptic seizures - tonic (finding)</displayName>
+</concept>
+<concept code="192999003">
+<displayName lang="en" type="PT">Partial epilepsy with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Partial epilepsy with impairment of consciousness (disorder)</displayName>
+</concept>
+<concept code="193000002">
+<displayName lang="en" type="PT">Temporal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Temporal lobe epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Psychomotor seizure</displayName>
+<displayName lang="en" type="SY">TLE - Temporal lobe epilepsy</displayName>
+</concept>
+<concept code="193002005">
+<displayName lang="en" type="PT">Psychosensory epilepsy</displayName>
+<displayName lang="en" type="FSN">Psychosensory epilepsy (disorder)</displayName>
+</concept>
+<concept code="193003000">
+<displayName lang="en" type="PT">Mesiobasal limbic epilepsy</displayName>
+<displayName lang="en" type="FSN">Mesiobasal limbic epilepsy (disorder)</displayName>
+</concept>
+<concept code="193004006">
+<displayName lang="en" type="PT">Epileptic automatism</displayName>
+<displayName lang="en" type="FSN">Epileptic automatism (disorder)</displayName>
+<displayName lang="en" type="SY">Automatism absence</displayName>
+<displayName lang="en" type="SY">Automatism petit mal</displayName>
+<displayName lang="en" type="SY">Complex partial seizure with automatisms</displayName>
+<displayName lang="en" type="SY">Complex partial seizures with automatisms</displayName>
+<displayName lang="en" type="SY">Epileptic complex partial seizures with automatisms</displayName>
+</concept>
+<concept code="193008009">
+<displayName lang="en" type="PT">Somatosensory epilepsy</displayName>
+<displayName lang="en" type="FSN">Somatosensory epilepsy (disorder)</displayName>
+</concept>
+<concept code="193009001">
+<displayName lang="en" type="PT">Partial epilepsy with autonomic symptoms</displayName>
+<displayName lang="en" type="FSN">Partial epilepsy with autonomic symptoms (disorder)</displayName>
+<displayName lang="en" type="SY">Visceral reflex epilepsy</displayName>
+</concept>
+<concept code="193010006">
+<displayName lang="en" type="PT">Visual reflex epilepsy</displayName>
+<displayName lang="en" type="FSN">Visual reflex epilepsy (disorder)</displayName>
+</concept>
+<concept code="193021002">
+<displayName lang="en" type="PT">Cursive (running) epilepsy</displayName>
+<displayName lang="en" type="FSN">Cursive (running) epilepsy (disorder)</displayName>
+</concept>
+<concept code="193022009">
+<displayName lang="en-GB" type="PT">Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset</displayName>
+<displayName lang="en" type="FSN">Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset (disorder)</displayName>
+</concept>
+<concept code="209827006">
+<displayName lang="en" type="PT">Concussion with less than 1 hour loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Concussion with less than 1 hour loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209828001">
+<displayName lang="en" type="PT">Concussion with 1-24 hours loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Concussion with 1-24 hours loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209829009">
+<displayName lang="en" type="PT">Concussion with more than 24 hours loss of consciousness and return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Concussion with more than 24 hours loss of consciousness and return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209830004">
+<displayName lang="en" type="PT">Concussion with more than 24 hours loss of consciousness without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Concussion with more than 24 hours loss of consciousness without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209845006">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209847003">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound, with less than 1 hour loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound, with less than 1 hour loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209848008">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound, with 1-24 hours loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound, with 1-24 hours loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209849000">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209850000">
+<displayName lang="en" type="PT">Cortex contusion with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex contusion with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209864000">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209865004">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound, with less than 1 hour loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound, with less than 1 hour loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209866003">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound, with 1-24 hours loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound, with 1-24 hours loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209867007">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209868002">
+<displayName lang="en" type="PT">Cortex laceration with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Cortex laceration with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209920007">
+<displayName lang="en" type="PT">Brain contusion with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain contusion with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209921006">
+<displayName lang="en" type="PT">Brain contusion with open intracranial wound, with more than 1 hour loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain contusion with open intracranial wound, with more than 1 hour loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209922004">
+<displayName lang="en" type="PT">Brain contusion with open intracranial wound, with 1-24 hours loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Brain contusion with open intracranial wound, with 1-24 hours loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209923009">
+<displayName lang="en" type="PT">Brain contusion with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain contusion with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209924003">
+<displayName lang="en" type="PT">Brain contusion with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Brain contusion with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="209940000">
+<displayName lang="en-GB" type="PT">Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subarachnoid hemorrhage following injury with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209958006">
+<displayName lang="en-GB" type="PT">Subdural haemorrhage following injury with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Subdural hemorrhage following injury with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="209978003">
+<displayName lang="en-GB" type="PT">Extradural haemorrhage following injury with open intracranial wound, with no loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Extradural hemorrhage following injury with open intracranial wound, with no loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="210039000">
+<displayName lang="en" type="PT">Intracranial injury with prolonged coma</displayName>
+<displayName lang="en" type="FSN">Intracranial injury with prolonged coma (disorder)</displayName>
+</concept>
+<concept code="225931003">
+<displayName lang="en" type="PT">At risk of epileptic fits</displayName>
+<displayName lang="en" type="FSN">At risk of epileptic fits (finding)</displayName>
+<displayName lang="en" type="SY">At risk of seizures</displayName>
+</concept>
+<concept code="230191005">
+<displayName lang="en" type="PT">Rasmussen syndrome</displayName>
+<displayName lang="en" type="FSN">Rasmussen syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Rasmussen encephalitis</displayName>
+</concept>
+<concept code="230381009">
+<displayName lang="en-GB" type="PT">Localisation-related epilepsy</displayName>
+<displayName lang="en" type="FSN">Localization-related epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Focal epilepsy</displayName>
+<displayName lang="en" type="SY">Local epilepsy</displayName>
+<displayName lang="en" type="SY">Partial epilepsy</displayName>
+</concept>
+<concept code="230382002">
+<displayName lang="en" type="PT">Benign frontal epilepsy of childhood</displayName>
+<displayName lang="en" type="FSN">Benign frontal epilepsy of childhood (disorder)</displayName>
+</concept>
+<concept code="230383007">
+<displayName lang="en" type="PT">Benign psychomotor epilepsy of childhood</displayName>
+<displayName lang="en" type="FSN">Benign psychomotor epilepsy of childhood (disorder)</displayName>
+</concept>
+<concept code="230384001">
+<displayName lang="en" type="PT">Benign atypical partial epilepsy in childhood</displayName>
+<displayName lang="en" type="FSN">Benign atypical partial epilepsy in childhood (disorder)</displayName>
+</concept>
+<concept code="230385000">
+<displayName lang="en" type="PT">Epilepsy with recurrent unilateral seizures in children</displayName>
+<displayName lang="en" type="FSN">Epilepsy with recurrent unilateral seizures in children (disorder)</displayName>
+</concept>
+<concept code="230386004">
+<displayName lang="en" type="PT">Childhood epilepsy with occipital paroxysms</displayName>
+<displayName lang="en" type="FSN">Childhood epilepsy with occipital paroxysms (disorder)</displayName>
+<displayName lang="en" type="SY">BCEOP - Benign childhood epilepsy with occipital paroxysms</displayName>
+<displayName lang="en" type="SY">Benign occipital epilepsy of childhood</displayName>
+</concept>
+<concept code="230387008">
+<displayName lang="en" type="PT">Benign occipital epilepsy of childhood - early onset variant</displayName>
+<displayName lang="en" type="FSN">Benign occipital epilepsy of childhood - early onset variant (disorder)</displayName>
+<displayName lang="en" type="SY">Panayiotopoulos syndrome</displayName>
+</concept>
+<concept code="230388003">
+<displayName lang="en" type="PT">Benign occipital epilepsy of childhood - late onset variant</displayName>
+<displayName lang="en" type="FSN">Benign occipital epilepsy of childhood - late onset variant (disorder)</displayName>
+</concept>
+<concept code="230389006">
+<displayName lang="en" type="PT">Primary inherited reading epilepsy</displayName>
+<displayName lang="en" type="FSN">Primary inherited reading epilepsy (disorder)</displayName>
+</concept>
+<concept code="230390002">
+<displayName lang="en-GB" type="PT">Localisation-related symptomatic epilepsy</displayName>
+<displayName lang="en" type="FSN">Localization-related symptomatic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230391003">
+<displayName lang="en" type="PT">Amygdalo-hippocampal epilepsy</displayName>
+<displayName lang="en" type="FSN">Amygdalo-hippocampal epilepsy (disorder)</displayName>
+</concept>
+<concept code="230392005">
+<displayName lang="en" type="PT">Rhinencephalic epilepsy</displayName>
+<displayName lang="en" type="FSN">Rhinencephalic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230393000">
+<displayName lang="en" type="PT">Lateral temporal epilepsy</displayName>
+<displayName lang="en" type="FSN">Lateral temporal epilepsy (disorder)</displayName>
+</concept>
+<concept code="230394006">
+<displayName lang="en" type="PT">Frontal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Frontal lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="230395007">
+<displayName lang="en" type="PT">Supplementary motor epilepsy</displayName>
+<displayName lang="en" type="FSN">Supplementary motor epilepsy (disorder)</displayName>
+</concept>
+<concept code="230396008">
+<displayName lang="en" type="PT">Cingulate epilepsy</displayName>
+<displayName lang="en" type="FSN">Cingulate epilepsy (disorder)</displayName>
+</concept>
+<concept code="230397004">
+<displayName lang="en" type="PT">Anterior frontopolar epilepsy</displayName>
+<displayName lang="en" type="FSN">Anterior frontopolar epilepsy (disorder)</displayName>
+</concept>
+<concept code="230398009">
+<displayName lang="en" type="PT">Orbitofrontal epilepsy</displayName>
+<displayName lang="en" type="FSN">Orbitofrontal epilepsy (disorder)</displayName>
+</concept>
+<concept code="230399001">
+<displayName lang="en" type="PT">Dorsolateral epilepsy</displayName>
+<displayName lang="en" type="FSN">Dorsolateral epilepsy (disorder)</displayName>
+</concept>
+<concept code="230400008">
+<displayName lang="en" type="PT">Opercular epilepsy</displayName>
+<displayName lang="en" type="FSN">Opercular epilepsy (disorder)</displayName>
+</concept>
+<concept code="230401007">
+<displayName lang="en" type="PT">Non-progressive Kozhevnikow syndrome</displayName>
+<displayName lang="en" type="FSN">Non-progressive Kozhevnikow syndrome (disorder)</displayName>
+</concept>
+<concept code="230403005">
+<displayName lang="en" type="PT">Parietal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Parietal lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="230404004">
+<displayName lang="en" type="PT">Occipital lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Occipital lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="230405003">
+<displayName lang="en" type="PT">Chronic progressive epilepsia partialis continua of childhood</displayName>
+<displayName lang="en" type="FSN">Chronic progressive epilepsia partialis continua of childhood (disorder)</displayName>
+<displayName lang="en" type="SY">Progressive variant Kozhevnikow syndrome</displayName>
+</concept>
+<concept code="230406002">
+<displayName lang="en-GB" type="PT">Localisation-related symptomatic epilepsy with specific precipitant</displayName>
+<displayName lang="en" type="FSN">Localization-related symptomatic epilepsy with specific precipitant (disorder)</displayName>
+</concept>
+<concept code="230407006">
+<displayName lang="en" type="PT">Hemiplegia-hemiconvulsion-epilepsy syndrome</displayName>
+<displayName lang="en" type="FSN">Hemiplegia-hemiconvulsion-epilepsy syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">H-H-E syndrome</displayName>
+<displayName lang="en" type="SY">Hemiconvulsion-hemiplegia-epilepsy syndrome</displayName>
+</concept>
+<concept code="230408001">
+<displayName lang="en-GB" type="PT">Localisation-related cryptogenic epilepsy</displayName>
+<displayName lang="en" type="FSN">Localization-related cryptogenic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230410004">
+<displayName lang="en" type="PT">Benign neonatal familial convulsions</displayName>
+<displayName lang="en" type="FSN">Benign neonatal familial convulsions (disorder)</displayName>
+<displayName lang="en" type="SY">BFNC - Benign familial neonatal convulsions</displayName>
+<displayName lang="en" type="SY">Benign familial infantile convulsions</displayName>
+<displayName lang="en" type="SY">Benign neonatal epilepsy</displayName>
+</concept>
+<concept code="230411000">
+<displayName lang="en" type="PT">Benign non-familial neonatal convulsions</displayName>
+<displayName lang="en" type="FSN">Benign non-familial neonatal convulsions (disorder)</displayName>
+</concept>
+<concept code="230412007">
+<displayName lang="en" type="PT">Myoclonic epilepsy of early childhood</displayName>
+<displayName lang="en" type="FSN">Myoclonic epilepsy of early childhood (disorder)</displayName>
+</concept>
+<concept code="230413002">
+<displayName lang="en" type="PT">Juvenile absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Juvenile absence epilepsy (disorder)</displayName>
+</concept>
+<concept code="230414008">
+<displayName lang="en" type="PT">Epilepsy with grand mal seizures on awakening</displayName>
+<displayName lang="en" type="FSN">Epilepsy with grand mal seizures on awakening (disorder)</displayName>
+</concept>
+<concept code="230415009">
+<displayName lang="en-GB" type="PT">Cryptogenic generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Cryptogenic generalized epilepsy (disorder)</displayName>
+</concept>
+<concept code="230416005">
+<displayName lang="en" type="PT">Cryptogenic West syndrome</displayName>
+<displayName lang="en" type="FSN">Cryptogenic West syndrome (disorder)</displayName>
+</concept>
+<concept code="230417001">
+<displayName lang="en" type="PT">Symptomatic West syndrome</displayName>
+<displayName lang="en" type="FSN">Symptomatic West syndrome (disorder)</displayName>
+</concept>
+<concept code="230418006">
+<displayName lang="en" type="PT">Lennox-Gastaut syndrome</displayName>
+<displayName lang="en" type="FSN">Lennox-Gastaut syndrome (disorder)</displayName>
+</concept>
+<concept code="230419003">
+<displayName lang="en" type="PT">Cryptogenic Lennox-Gastaut syndrome</displayName>
+<displayName lang="en" type="FSN">Cryptogenic Lennox-Gastaut syndrome (disorder)</displayName>
+</concept>
+<concept code="230420009">
+<displayName lang="en" type="PT">Symptomatic Lennox-Gastaut syndrome</displayName>
+<displayName lang="en" type="FSN">Symptomatic Lennox-Gastaut syndrome (disorder)</displayName>
+</concept>
+<concept code="230421008">
+<displayName lang="en" type="PT">Myoclonic astatic epilepsy</displayName>
+<displayName lang="en" type="FSN">Myoclonic astatic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Dooze syndrome</displayName>
+<displayName lang="en" type="SY">Epilepsy with myoclonic and astatic seizures</displayName>
+<displayName lang="en" type="SY">Myoclonic atonic seizure</displayName>
+</concept>
+<concept code="230422001">
+<displayName lang="en" type="PT">Myoclonic absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Myoclonic absence epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy with myoclonic absences</displayName>
+</concept>
+<concept code="230423006">
+<displayName lang="en" type="PT">Unverricht-Lundborg syndrome</displayName>
+<displayName lang="en" type="FSN">Unverricht-Lundborg syndrome (disorder)</displayName>
+<displayName lang="en" type="SY">Baltic myoclonus epilepsy</displayName>
+<displayName lang="en" type="SY">Unverricht-Lundborg disease</displayName>
+</concept>
+<concept code="230425004">
+<displayName lang="en" type="PT">Lafora disease</displayName>
+<displayName lang="en" type="FSN">Lafora disease (disorder)</displayName>
+<displayName lang="en" type="SY">Lafora body disease</displayName>
+</concept>
+<concept code="230426003">
+<displayName lang="en-GB" type="PT">Myoclonic epilepsy - ragged red fibres</displayName>
+<displayName lang="en" type="FSN">Myoclonic epilepsy - ragged red fibers (disorder)</displayName>
+<displayName lang="en-GB" type="SY">MERRF - Myoclonic epilepsy - ragged red fibres</displayName>
+</concept>
+<concept code="230427007">
+<displayName lang="en" type="PT">Cryptogenic myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Cryptogenic myoclonic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230428002">
+<displayName lang="en" type="PT">Idiopathic myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Idiopathic myoclonic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230429005">
+<displayName lang="en" type="PT">Early infantile epileptic encephalopathy with suppression bursts</displayName>
+<displayName lang="en" type="FSN">Early infantile epileptic encephalopathy with suppression bursts (disorder)</displayName>
+<displayName lang="en" type="SY">Ohtahara syndrome</displayName>
+</concept>
+<concept code="230430000">
+<displayName lang="en" type="PT">Symptomatic myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Symptomatic myoclonic epilepsy (disorder)</displayName>
+</concept>
+<concept code="230431001">
+<displayName lang="en" type="PT">Situation-related seizures</displayName>
+<displayName lang="en" type="FSN">Situation-related seizures (disorder)</displayName>
+</concept>
+<concept code="230433003">
+<displayName lang="en" type="PT">Isolated seizures</displayName>
+<displayName lang="en" type="FSN">Isolated seizures (disorder)</displayName>
+</concept>
+<concept code="230434009">
+<displayName lang="en" type="PT">Seizures in response to acute event</displayName>
+<displayName lang="en" type="FSN">Seizures in response to acute event (disorder)</displayName>
+<displayName lang="en" type="SY">Seizure with provoking factor</displayName>
+</concept>
+<concept code="230435005">
+<displayName lang="en-GB" type="PT">Epilepsy undetermined whether focal or generalised</displayName>
+<displayName lang="en" type="FSN">Epilepsy undetermined whether focal or generalized (disorder)</displayName>
+</concept>
+<concept code="230437002">
+<displayName lang="en" type="PT">Severe myoclonic epilepsy in infancy</displayName>
+<displayName lang="en" type="FSN">Severe myoclonic epilepsy in infancy (disorder)</displayName>
+<displayName lang="en" type="SY">Dravet syndrome</displayName>
+</concept>
+<concept code="230439004">
+<displayName lang="en" type="PT">Epilepsy with continuous spike wave during slow-wave sleep</displayName>
+<displayName lang="en" type="FSN">Epilepsy with continuous spike wave during slow-wave sleep (disorder)</displayName>
+<displayName lang="en" type="SY">ESSS - Epilepsy with continuous spike wave during slow-wave sleep</displayName>
+<displayName lang="en" type="SY">Electrical status epilepticus of slow-wave sleep</displayName>
+</concept>
+<concept code="230440002">
+<displayName lang="en" type="PT">Secondary reading epilepsy</displayName>
+<displayName lang="en" type="FSN">Secondary reading epilepsy (disorder)</displayName>
+</concept>
+<concept code="230441003">
+<displayName lang="en" type="PT">Drug-induced epilepsy</displayName>
+<displayName lang="en" type="FSN">Drug-induced epilepsy (disorder)</displayName>
+</concept>
+<concept code="230443000">
+<displayName lang="en" type="PT">Narcotic withdrawal epilepsy</displayName>
+<displayName lang="en" type="FSN">Narcotic withdrawal epilepsy (disorder)</displayName>
+</concept>
+<concept code="230444006">
+<displayName lang="en" type="PT">Menstrual epilepsy</displayName>
+<displayName lang="en" type="FSN">Menstrual epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Catamenial epilepsy</displayName>
+</concept>
+<concept code="230445007">
+<displayName lang="en" type="PT">Nocturnal epilepsy</displayName>
+<displayName lang="en" type="FSN">Nocturnal epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Sleep related epilepsy</displayName>
+<displayName lang="en" type="SY">Sleep-related epilepsy</displayName>
+</concept>
+<concept code="230447004">
+<displayName lang="en" type="PT">Eyelid myoclonus with absences</displayName>
+<displayName lang="en" type="FSN">Eyelid myoclonus with absences (disorder)</displayName>
+<displayName lang="en" type="SY">Photomyoclonus</displayName>
+</concept>
+<concept code="230448009">
+<displayName lang="en" type="PT">Writing epilepsy</displayName>
+<displayName lang="en" type="FSN">Writing epilepsy (disorder)</displayName>
+</concept>
+<concept code="230449001">
+<displayName lang="en" type="PT">Tactile epilepsy</displayName>
+<displayName lang="en" type="FSN">Tactile epilepsy (disorder)</displayName>
+</concept>
+<concept code="230450001">
+<displayName lang="en" type="PT">Eating epilepsy</displayName>
+<displayName lang="en" type="FSN">Eating epilepsy (disorder)</displayName>
+</concept>
+<concept code="230451002">
+<displayName lang="en" type="PT">Tapping epilepsy</displayName>
+<displayName lang="en" type="FSN">Tapping epilepsy (disorder)</displayName>
+</concept>
+<concept code="230452009">
+<displayName lang="en" type="PT">Toothbrushing epilepsy</displayName>
+<displayName lang="en" type="FSN">Toothbrushing epilepsy (disorder)</displayName>
+</concept>
+<concept code="230453004">
+<displayName lang="en" type="PT">Decision-making epilepsy</displayName>
+<displayName lang="en" type="FSN">Decision-making epilepsy (disorder)</displayName>
+</concept>
+<concept code="230454005">
+<displayName lang="en" type="PT">Aquagenic epilepsy</displayName>
+<displayName lang="en" type="FSN">Aquagenic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Bathing epilepsy</displayName>
+<displayName lang="en" type="SY">Immersion-related epilepsy</displayName>
+</concept>
+<concept code="230456007">
+<displayName lang="en" type="PT">Status epilepticus</displayName>
+<displayName lang="en" type="FSN">Status epilepticus (disorder)</displayName>
+</concept>
+<concept code="230457003">
+<displayName lang="en" type="PT">Non-convulsive status epilepticus with three per second spike wave</displayName>
+<displayName lang="en" type="FSN">Non-convulsive status epilepticus with three per second spike wave (disorder)</displayName>
+<displayName lang="en" type="SY">Non-convulsive status epilepticus with 3/s spike wave</displayName>
+</concept>
+<concept code="230458008">
+<displayName lang="en" type="PT">Non-convulsive status epilepticus without three per second spike wave</displayName>
+<displayName lang="en" type="FSN">Non-convulsive status epilepticus without three per second spike wave (disorder)</displayName>
+<displayName lang="en" type="SY">Non-convulsive status epilepticus without 3/s spike wave</displayName>
+</concept>
+<concept code="230459000">
+<displayName lang="en" type="PT">Non-convulsive simple partial status epilepticus</displayName>
+<displayName lang="en" type="FSN">Non-convulsive simple partial status epilepticus (disorder)</displayName>
+</concept>
+<concept code="230460005">
+<displayName lang="en" type="PT">Complex partial status epilepticus</displayName>
+<displayName lang="en" type="FSN">Complex partial status epilepticus (disorder)</displayName>
+<displayName lang="en" type="SY">Psychomotor status</displayName>
+</concept>
+<concept code="234162000">
+<displayName lang="en" type="PT">Simple faint</displayName>
+<displayName lang="en" type="FSN">Simple faint (disorder)</displayName>
+</concept>
+<concept code="234163005">
+<displayName lang="en" type="PT">Neurally-mediated syncope</displayName>
+<displayName lang="en" type="FSN">Neurally-mediated syncope (disorder)</displayName>
+</concept>
+<concept code="234164004">
+<displayName lang="en" type="PT">Malignant vasovagal syndrome</displayName>
+<displayName lang="en" type="FSN">Malignant vasovagal syndrome (disorder)</displayName>
+</concept>
+<concept code="234165003">
+<displayName lang="en" type="PT">Elderly vasovagal syndrome</displayName>
+<displayName lang="en" type="FSN">Elderly vasovagal syndrome (disorder)</displayName>
+</concept>
+<concept code="234166002">
+<displayName lang="en" type="PT">Vasovagal syncope due to immersion</displayName>
+<displayName lang="en" type="FSN">Vasovagal syncope due to immersion (disorder)</displayName>
+</concept>
+<concept code="234167006">
+<displayName lang="en" type="PT">Situational syncope</displayName>
+<displayName lang="en" type="FSN">Situational syncope (disorder)</displayName>
+</concept>
+<concept code="234168001">
+<displayName lang="en" type="PT">Micturition syncope</displayName>
+<displayName lang="en" type="FSN">Micturition syncope (disorder)</displayName>
+</concept>
+<concept code="234169009">
+<displayName lang="en-GB" type="PT">Defaecation syncope</displayName>
+<displayName lang="en" type="FSN">Defecation syncope (disorder)</displayName>
+</concept>
+<concept code="234170005">
+<displayName lang="en" type="PT">Deglutition syncope</displayName>
+<displayName lang="en" type="FSN">Deglutition syncope (disorder)</displayName>
+</concept>
+<concept code="246528007">
+<displayName lang="en" type="PT">Simple partial seizure with focal motor signs without march</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with focal motor signs without march (disorder)</displayName>
+</concept>
+<concept code="246529004">
+<displayName lang="en" type="PT">Simple partial seizure with focal motor signs with march</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with focal motor signs with march (disorder)</displayName>
+<displayName lang="en" type="SY">Jacksonian seizure</displayName>
+<displayName lang="en" type="SY">Rolandic march</displayName>
+</concept>
+<concept code="246530009">
+<displayName lang="en" type="PT">Versive seizure</displayName>
+<displayName lang="en" type="FSN">Versive seizure (disorder)</displayName>
+</concept>
+<concept code="246531008">
+<displayName lang="en" type="PT">Postural seizure</displayName>
+<displayName lang="en" type="FSN">Postural seizure (disorder)</displayName>
+</concept>
+<concept code="246532001">
+<displayName lang="en" type="PT">Phonatory seizure</displayName>
+<displayName lang="en" type="FSN">Phonatory seizure (disorder)</displayName>
+</concept>
+<concept code="246533006">
+<displayName lang="en" type="PT">Simple partial seizure with somatosensory or special sensory dysfunction</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure with somatosensory or special sensory dysfunction (disorder)</displayName>
+</concept>
+<concept code="246535004">
+<displayName lang="en" type="PT">Dysphasic seizure</displayName>
+<displayName lang="en" type="FSN">Dysphasic seizure (disorder)</displayName>
+</concept>
+<concept code="246536003">
+<displayName lang="en" type="PT">Cognitive seizure</displayName>
+<displayName lang="en" type="FSN">Cognitive seizure (disorder)</displayName>
+</concept>
+<concept code="246537007">
+<displayName lang="en" type="PT">Affective seizure</displayName>
+<displayName lang="en" type="FSN">Affective seizure (disorder)</displayName>
+</concept>
+<concept code="246538002">
+<displayName lang="en" type="PT">Seizure causing illusions</displayName>
+<displayName lang="en" type="FSN">Seizure causing illusions (disorder)</displayName>
+</concept>
+<concept code="246539005">
+<displayName lang="en" type="PT">Seizure with structured hallucinations</displayName>
+<displayName lang="en" type="FSN">Seizure with structured hallucinations (disorder)</displayName>
+</concept>
+<concept code="246540007">
+<displayName lang="en" type="PT">Simple partial seizure followed by impaired consciousness</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure followed by impaired consciousness (disorder)</displayName>
+</concept>
+<concept code="246541006">
+<displayName lang="en" type="PT">Simple partial onset of seizure with automatisms</displayName>
+<displayName lang="en" type="FSN">Simple partial onset of seizure with automatisms (disorder)</displayName>
+</concept>
+<concept code="246542004">
+<displayName lang="en" type="PT">Complex part seizure with impairment of consciousness only</displayName>
+<displayName lang="en" type="FSN">Complex part seizure with impairment of consciousness only (disorder)</displayName>
+<displayName lang="en" type="SY">Complex partial seizure with impairment of consciousness only</displayName>
+</concept>
+<concept code="246544003">
+<displayName lang="en-GB" type="PT">Partial seizure evolving to secondary generalised seizure</displayName>
+<displayName lang="en" type="FSN">Partial seizure evolving to secondary generalized seizure (disorder)</displayName>
+</concept>
+<concept code="246545002">
+<displayName lang="en-GB" type="PT">Generalised seizure</displayName>
+<displayName lang="en" type="FSN">Generalized seizure (finding)</displayName>
+<displayName lang="en" type="SY">EF - Epileptic fit</displayName>
+<displayName lang="en" type="SY">Epileptic fit</displayName>
+<displayName lang="en-GB" type="SY">Generalised convulsion</displayName>
+<displayName lang="en-GB" type="SY">Generalised fit</displayName>
+</concept>
+<concept code="246546001">
+<displayName lang="en" type="PT">Absence seizure with impairment of consciousness only</displayName>
+<displayName lang="en" type="FSN">Absence seizure with impairment of consciousness only (disorder)</displayName>
+</concept>
+<concept code="246548000">
+<displayName lang="en" type="PT">Absence seizure with mild clonic components</displayName>
+<displayName lang="en" type="FSN">Absence seizure with mild clonic components (disorder)</displayName>
+</concept>
+<concept code="246549008">
+<displayName lang="en" type="PT">Absence seizure with atonic components</displayName>
+<displayName lang="en" type="FSN">Absence seizure with atonic components (disorder)</displayName>
+</concept>
+<concept code="246550008">
+<displayName lang="en" type="PT">Absence seizure with tonic components</displayName>
+<displayName lang="en" type="FSN">Absence seizure with tonic components (disorder)</displayName>
+</concept>
+<concept code="246551007">
+<displayName lang="en" type="PT">Absence seizure with automatisms</displayName>
+<displayName lang="en" type="FSN">Absence seizure with automatisms (disorder)</displayName>
+</concept>
+<concept code="246552000">
+<displayName lang="en" type="PT">Absence seizure with autonomic components</displayName>
+<displayName lang="en" type="FSN">Absence seizure with autonomic components (disorder)</displayName>
+</concept>
+<concept code="247761005">
+<displayName lang="en" type="PT">Reduced concentration</displayName>
+<displayName lang="en" type="FSN">Reduced concentration (finding)</displayName>
+<displayName lang="en" type="SY">Limited concentration</displayName>
+</concept>
+<concept code="247762003">
+<displayName lang="en" type="PT">Reduced concentration span</displayName>
+<displayName lang="en" type="FSN">Reduced concentration span (finding)</displayName>
+<displayName lang="en" type="SY">Reduced attention span</displayName>
+<displayName lang="en" type="SY">Short attention span</displayName>
+<displayName lang="en" type="SY">Short concentration span</displayName>
+</concept>
+<concept code="247763008">
+<displayName lang="en" type="PT">Excessively focused attention</displayName>
+<displayName lang="en" type="FSN">Excessively focused attention (finding)</displayName>
+<displayName lang="en" type="SY">Excessively absorbed</displayName>
+</concept>
+<concept code="247764002">
+<displayName lang="en" type="PT">Easily distracted</displayName>
+<displayName lang="en" type="FSN">Easily distracted (finding)</displayName>
+<displayName lang="en" type="SY">Poor attention control</displayName>
+</concept>
+<concept code="247765001">
+<displayName lang="en" type="PT">Pays fleeting attention</displayName>
+<displayName lang="en" type="FSN">Pays fleeting attention (finding)</displayName>
+</concept>
+<concept code="247766000">
+<displayName lang="en" type="PT">Pays attention to own choice of activity</displayName>
+<displayName lang="en" type="FSN">Pays attention to own choice of activity (finding)</displayName>
+</concept>
+<concept code="247767009">
+<displayName lang="en" type="PT">Integrated attention for short spells</displayName>
+<displayName lang="en" type="FSN">Integrated attention for short spells (finding)</displayName>
+</concept>
+<concept code="247768004">
+<displayName lang="en" type="PT">Attends to adults&apos; choice of activity</displayName>
+<displayName lang="en" type="FSN">Attends to adults&apos; choice of activity (finding)</displayName>
+</concept>
+<concept code="247769007">
+<displayName lang="en" type="PT">Well controlled integrated attention</displayName>
+<displayName lang="en" type="FSN">Well controlled integrated attention (finding)</displayName>
+</concept>
+<concept code="248218005">
+<displayName lang="en" type="PT">Awake</displayName>
+<displayName lang="en" type="FSN">Awake (finding)</displayName>
+<displayName lang="en" type="SY">Clear consciousness</displayName>
+<displayName lang="en" type="SY">Wide awake</displayName>
+</concept>
+<concept code="248220008">
+<displayName lang="en" type="PT">Asleep</displayName>
+<displayName lang="en" type="FSN">Asleep (finding)</displayName>
+<displayName lang="en" type="SY">Sleeping</displayName>
+</concept>
+<concept code="248221007">
+<displayName lang="en" type="PT">Consciousness clear</displayName>
+<displayName lang="en" type="FSN">Consciousness clear (finding)</displayName>
+</concept>
+<concept code="248222000">
+<displayName lang="en" type="PT">Consciousness unimpaired</displayName>
+<displayName lang="en" type="FSN">Consciousness unimpaired (finding)</displayName>
+</concept>
+<concept code="248223005">
+<displayName lang="en" type="PT">Feeling faint</displayName>
+<displayName lang="en" type="FSN">Feeling faint (finding)</displayName>
+</concept>
+<concept code="248224004">
+<displayName lang="en" type="PT">Muzzy headed</displayName>
+<displayName lang="en" type="FSN">Muzzy headed (finding)</displayName>
+<displayName lang="en" type="SY">Muzziness</displayName>
+</concept>
+<concept code="248225003">
+<displayName lang="en" type="PT">Seems in a trance</displayName>
+<displayName lang="en" type="FSN">Seems in a trance (finding)</displayName>
+</concept>
+<concept code="248226002">
+<displayName lang="en" type="PT">Being out of body</displayName>
+<displayName lang="en" type="FSN">Being out of body (finding)</displayName>
+</concept>
+<concept code="248227006">
+<displayName lang="en" type="PT">Absences</displayName>
+<displayName lang="en" type="FSN">Absences (finding)</displayName>
+</concept>
+<concept code="248228001">
+<displayName lang="en" type="PT">Funny turn</displayName>
+<displayName lang="en" type="FSN">Funny turn (finding)</displayName>
+<displayName lang="en" type="SY">Bad turn</displayName>
+<displayName lang="en" type="SY">Funny spell</displayName>
+</concept>
+<concept code="248234008">
+<displayName lang="en" type="PT">Mentally alert</displayName>
+<displayName lang="en" type="FSN">Mentally alert (finding)</displayName>
+</concept>
+<concept code="248235009">
+<displayName lang="en" type="PT">Preoccupied</displayName>
+<displayName lang="en" type="FSN">Preoccupied (finding)</displayName>
+</concept>
+<concept code="248236005">
+<displayName lang="en" type="PT">Mentally vague</displayName>
+<displayName lang="en" type="FSN">Mentally vague (finding)</displayName>
+</concept>
+<concept code="267088000">
+<displayName lang="en" type="PT">Gets drowsiness</displayName>
+<displayName lang="en" type="FSN">Gets drowsiness (finding)</displayName>
+</concept>
+<concept code="267581004">
+<displayName lang="en" type="PT">Progressive myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Progressive myoclonic epilepsy (disorder)</displayName>
+</concept>
+<concept code="267592003">
+<displayName lang="en" type="PT">Motor cortex epilepsy</displayName>
+<displayName lang="en" type="FSN">Motor cortex epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Jacksonian epilepsy</displayName>
+</concept>
+<concept code="268913004">
+<displayName lang="en" type="PT">O/E - unconscious/comatose</displayName>
+<displayName lang="en" type="FSN">On examination - unconscious/comatose (finding)</displayName>
+<displayName lang="en" type="SY">O/E - unconscious</displayName>
+<displayName lang="en" type="SY">On examination - unconscious/comatose</displayName>
+</concept>
+<concept code="268956009">
+<displayName lang="en" type="PT">O/E - focal (Jacksonian) fit</displayName>
+<displayName lang="en" type="FSN">On examination - focal (Jacksonian) fit (disorder)</displayName>
+<displayName lang="en" type="SY">O/E - Jacksonian fit</displayName>
+<displayName lang="en" type="SY">O/E - focal fit</displayName>
+<displayName lang="en" type="SY">On examination - focal (Jacksonian) fit</displayName>
+</concept>
+<concept code="271547004">
+<displayName lang="en" type="PT">Stokes-Adams attack</displayName>
+<displayName lang="en" type="FSN">Stokes-Adams attack (disorder)</displayName>
+</concept>
+<concept code="271591004">
+<displayName lang="en" type="PT">Fully conscious</displayName>
+<displayName lang="en" type="FSN">Fully conscious (finding)</displayName>
+</concept>
+<concept code="271594007">
+<displayName lang="en" type="PT">Syncope</displayName>
+<displayName lang="en" type="FSN">Syncope (disorder)</displayName>
+<displayName lang="en" type="SY">Faint</displayName>
+<displayName lang="en" type="SY">Fainting</displayName>
+<displayName lang="en" type="SY">Syncope attack</displayName>
+</concept>
+<concept code="271782001">
+<displayName lang="en" type="PT">Drowsy</displayName>
+<displayName lang="en" type="FSN">Drowsy (finding)</displayName>
+<displayName lang="en" type="SY">Drowsiness</displayName>
+<displayName lang="en" type="SY">Mental status, drowsy</displayName>
+<displayName lang="en" type="SY">Sleepiness</displayName>
+<displayName lang="en" type="SY">Sleepy</displayName>
+<displayName lang="en" type="SY">Somnolence</displayName>
+<displayName lang="en" type="SY">Somnolence (sleepiness)</displayName>
+</concept>
+<concept code="271783006">
+<displayName lang="en" type="PT">Semiconscious</displayName>
+<displayName lang="en" type="FSN">Semiconscious (finding)</displayName>
+</concept>
+<concept code="272026007">
+<displayName lang="en" type="PT">C/O - somnolence</displayName>
+<displayName lang="en" type="FSN">Complaining of somnolence (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of somnolence</displayName>
+</concept>
+<concept code="272030005">
+<displayName lang="en" type="PT">Syncope symptom</displayName>
+<displayName lang="en" type="FSN">Syncope symptom (disorder)</displayName>
+</concept>
+<concept code="275946007">
+<displayName lang="en" type="PT">O/E - loss of consciousness</displayName>
+<displayName lang="en" type="FSN">On examination - loss of consciousness (finding)</displayName>
+<displayName lang="en" type="SY">On examination - loss of consciousness</displayName>
+</concept>
+<concept code="276597004">
+<displayName lang="en" type="PT">Fifth day fits</displayName>
+<displayName lang="en" type="FSN">Fifth day fits (disorder)</displayName>
+</concept>
+<concept code="277130004">
+<displayName lang="en-GB" type="PT">Seizure undetermined whether focal or generalised</displayName>
+<displayName lang="en" type="FSN">Seizure undetermined whether focal or generalized (finding)</displayName>
+</concept>
+<concept code="278510009">
+<displayName lang="en-GB" type="PT">Localisation-related idiopathic epilepsy</displayName>
+<displayName lang="en" type="FSN">Localization-related idiopathic epilepsy (disorder)</displayName>
+</concept>
+<concept code="279953009">
+<displayName lang="en" type="PT">Familial neonatal seizures</displayName>
+<displayName lang="en" type="FSN">Familial neonatal seizures (disorder)</displayName>
+</concept>
+<concept code="281793005">
+<displayName lang="en" type="PT">Intermittent confusion</displayName>
+<displayName lang="en" type="FSN">Intermittent confusion (finding)</displayName>
+</concept>
+<concept code="282750008">
+<displayName lang="en" type="PT">Knocked out</displayName>
+<displayName lang="en" type="FSN">Knocked out (disorder)</displayName>
+<displayName lang="en" type="SY">KOD - Knocked out</displayName>
+<displayName lang="en" type="SY">Knocked unconscious</displayName>
+</concept>
+<concept code="285741001">
+<displayName lang="en" type="PT">Vacant episode</displayName>
+<displayName lang="en" type="FSN">Vacant episode (finding)</displayName>
+<displayName lang="en" type="SY">Episode of vacancy</displayName>
+</concept>
+<concept code="288769005">
+<displayName lang="en" type="PT">Able to direct attention</displayName>
+<displayName lang="en" type="FSN">Able to direct attention (finding)</displayName>
+</concept>
+<concept code="288770006">
+<displayName lang="en" type="PT">Unable to direct attention</displayName>
+<displayName lang="en" type="FSN">Unable to direct attention (finding)</displayName>
+</concept>
+<concept code="288771005">
+<displayName lang="en" type="PT">Does direct attention</displayName>
+<displayName lang="en" type="FSN">Does direct attention (finding)</displayName>
+<displayName lang="en" type="SY">Directs attention</displayName>
+</concept>
+<concept code="288772003">
+<displayName lang="en" type="PT">Does not direct attention</displayName>
+<displayName lang="en" type="FSN">Does not direct attention (finding)</displayName>
+</concept>
+<concept code="288773008">
+<displayName lang="en" type="PT">Difficulty directing attention</displayName>
+<displayName lang="en" type="FSN">Difficulty directing attention (finding)</displayName>
+</concept>
+<concept code="307200007">
+<displayName lang="en" type="PT">Recurrent febrile convulsion</displayName>
+<displayName lang="en" type="FSN">Recurrent febrile convulsion (finding)</displayName>
+<displayName lang="en" type="SY">Recurrent febrile fit</displayName>
+</concept>
+<concept code="307356008">
+<displayName lang="en" type="PT">Motor epilepsy</displayName>
+<displayName lang="en" type="FSN">Motor epilepsy (disorder)</displayName>
+</concept>
+<concept code="307357004">
+<displayName lang="en" type="PT">Jacksonian, focal or motor epilepsy</displayName>
+<displayName lang="en" type="FSN">Jacksonian, focal or motor epilepsy (disorder)</displayName>
+</concept>
+<concept code="308680003">
+<displayName lang="en-GB" type="PT">Hypoglycaemia-induced convulsion</displayName>
+<displayName lang="en" type="FSN">Hypoglycemia-induced convulsion (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Hypoglycaemia-induced fit</displayName>
+<displayName lang="en-GB" type="SY">Hypoglycaemia-induced seizure</displayName>
+</concept>
+<concept code="308742005">
+<displayName lang="en" type="PT">Alcohol withdrawal-induced convulsion</displayName>
+<displayName lang="en" type="FSN">Alcohol withdrawal-induced convulsion (disorder)</displayName>
+<displayName lang="en" type="SY">Alcohol withdrawal-induced seizure</displayName>
+</concept>
+<concept code="309585006">
+<displayName lang="en" type="PT">Syncope and collapse</displayName>
+<displayName lang="en" type="FSN">Syncope and collapse (disorder)</displayName>
+</concept>
+<concept code="311827003">
+<displayName lang="en" type="PT">Intracranial injury with prolonged coma without open wound</displayName>
+<displayName lang="en" type="FSN">Intracranial injury with prolonged coma without open wound (disorder)</displayName>
+</concept>
+<concept code="311829000">
+<displayName lang="en" type="PT">Intracranial injury with prolonged coma with open wound</displayName>
+<displayName lang="en" type="FSN">Intracranial injury with prolonged coma with open wound (disorder)</displayName>
+</concept>
+<concept code="313307000">
+<displayName lang="en" type="PT">Epileptic seizure</displayName>
+<displayName lang="en" type="FSN">Epileptic seizure (finding)</displayName>
+</concept>
+<concept code="313432002">
+<displayName lang="en" type="PT">Post-ictal drowsiness</displayName>
+<displayName lang="en" type="FSN">Post-ictal drowsiness (finding)</displayName>
+</concept>
+<concept code="315243006">
+<displayName lang="en" type="PT">Intermittent drowsiness</displayName>
+<displayName lang="en" type="FSN">Intermittent drowsiness (finding)</displayName>
+</concept>
+<concept code="352818000">
+<displayName lang="en" type="PT">Tonic-clonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Tonic-clonic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Grand mal epilepsy</displayName>
+</concept>
+<concept code="361123003">
+<displayName lang="en" type="PT">Psychomotor epilepsy</displayName>
+<displayName lang="en" type="FSN">Psychomotor epilepsy (disorder)</displayName>
+</concept>
+<concept code="361267005">
+<displayName lang="en" type="PT">Alcohol-related fit</displayName>
+<displayName lang="en" type="FSN">Alcohol-related fit (finding)</displayName>
+<displayName lang="en" type="SY">Rum fits</displayName>
+</concept>
+<concept code="361268000">
+<displayName lang="en" type="PT">Alcohol-induced epilepsy</displayName>
+<displayName lang="en" type="FSN">Alcohol-induced epilepsy (disorder)</displayName>
+</concept>
+<concept code="370994008">
+<displayName lang="en" type="PT">Seizure free</displayName>
+<displayName lang="en" type="FSN">Seizure free (finding)</displayName>
+</concept>
+<concept code="371022006">
+<displayName lang="en" type="PT">Seizures due to metabolic disorder</displayName>
+<displayName lang="en" type="FSN">Seizures due to metabolic disorder (disorder)</displayName>
+</concept>
+<concept code="371050006">
+<displayName lang="en-GB" type="PT">Traumatic intracranial subdural haematoma with brief loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Traumatic intracranial subdural hematoma with brief loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="371107004">
+<displayName lang="en-GB" type="PT">Seizures complicating intracranial haemorrhage in the newborn</displayName>
+<displayName lang="en" type="FSN">Seizures complicating intracranial hemorrhage in the newborn (disorder)</displayName>
+</concept>
+<concept code="371114002">
+<displayName lang="en-GB" type="PT">Seizures complicating intracranial haemorrhage</displayName>
+<displayName lang="en" type="FSN">Seizures complicating intracranial hemorrhage (disorder)</displayName>
+</concept>
+<concept code="371115001">
+<displayName lang="en" type="PT">Seizures complicating infection</displayName>
+<displayName lang="en" type="FSN">Seizures complicating infection (disorder)</displayName>
+</concept>
+<concept code="372441001">
+<displayName lang="en" type="PT">Seizures complicating infection in the newborn</displayName>
+<displayName lang="en" type="FSN">Seizures complicating infection in the newborn (disorder)</displayName>
+</concept>
+<concept code="372947007">
+<displayName lang="en" type="PT">Excessive somnolence</displayName>
+<displayName lang="en" type="FSN">Excessive somnolence (finding)</displayName>
+</concept>
+<concept code="386705008">
+<displayName lang="en" type="PT">Lightheadedness</displayName>
+<displayName lang="en" type="FSN">Lightheadedness (finding)</displayName>
+<displayName lang="en" type="SY">Dizziness - light-headed</displayName>
+<displayName lang="en" type="SY">Feels light headed</displayName>
+<displayName lang="en" type="SY">Light-headedness</displayName>
+<displayName lang="en" type="SY">Lightheaded</displayName>
+</concept>
+<concept code="398665005">
+<displayName lang="en" type="PT">Vasovagal syncope</displayName>
+<displayName lang="en" type="FSN">Vasovagal syncope (disorder)</displayName>
+<displayName lang="en" type="SY">Vaso vagal episode</displayName>
+<displayName lang="en" type="SY">Vasodepressor syncope</displayName>
+</concept>
+<concept code="406124004">
+<displayName lang="en" type="PT">Lack of awareness</displayName>
+<displayName lang="en" type="FSN">Lack of awareness (finding)</displayName>
+<displayName lang="en" type="SY">Unawareness</displayName>
+</concept>
+<concept code="407585000">
+<displayName lang="en" type="PT">Seizure free &gt; 12 months</displayName>
+<displayName lang="en" type="FSN">Seizure free &gt; 12 months (finding)</displayName>
+</concept>
+<concept code="407617005">
+<displayName lang="en" type="PT">No seizures on treatment</displayName>
+<displayName lang="en" type="FSN">No seizures on treatment (finding)</displayName>
+</concept>
+<concept code="407618000">
+<displayName lang="en" type="PT">1 to 12 seizures a year</displayName>
+<displayName lang="en" type="FSN">1 to 12 seizures a year (finding)</displayName>
+</concept>
+<concept code="407619008">
+<displayName lang="en" type="PT">2 to 4 seizures a month</displayName>
+<displayName lang="en" type="FSN">2 to 4 seizures a month (finding)</displayName>
+</concept>
+<concept code="407620002">
+<displayName lang="en" type="PT">1 to 7 seizures a week</displayName>
+<displayName lang="en" type="FSN">1 to 7 seizures a week (finding)</displayName>
+</concept>
+<concept code="407621003">
+<displayName lang="en" type="PT">Daily seizures</displayName>
+<displayName lang="en" type="FSN">Daily seizures (finding)</displayName>
+</concept>
+<concept code="407622005">
+<displayName lang="en" type="PT">Many seizures a day</displayName>
+<displayName lang="en" type="FSN">Many seizures a day (finding)</displayName>
+</concept>
+<concept code="407675009">
+<displayName lang="en" type="PT">Complex partial epileptic seizure</displayName>
+<displayName lang="en" type="FSN">Complex partial epileptic seizure (disorder)</displayName>
+</concept>
+<concept code="413101007">
+<displayName lang="en" type="PT">Stress-induced epilepsy</displayName>
+<displayName lang="en" type="FSN">Stress-induced epilepsy (disorder)</displayName>
+</concept>
+<concept code="416865008">
+<displayName lang="en" type="PT">O/E - clouded consciousness</displayName>
+<displayName lang="en" type="FSN">On examination - clouded consciousness (finding)</displayName>
+<displayName lang="en" type="SY">On examination - clouded consciousness</displayName>
+</concept>
+<concept code="417473004">
+<displayName lang="en" type="PT">O/E - decreased level of consciousness</displayName>
+<displayName lang="en" type="FSN">On examination - decreased level of consciousness (finding)</displayName>
+<displayName lang="en" type="SY">On examination - decreased level of consciousness</displayName>
+</concept>
+<concept code="418107008">
+<displayName lang="en" type="PT">Unconscious</displayName>
+<displayName lang="en" type="FSN">Unconscious (finding)</displayName>
+<displayName lang="en" type="SY">Mental status, unconsciousness</displayName>
+<displayName lang="en" type="SY">Unconsciousness</displayName>
+</concept>
+<concept code="418648005">
+<displayName lang="en" type="PT">Blackout</displayName>
+<displayName lang="en" type="FSN">Blackout (disorder)</displayName>
+<displayName lang="en" type="SY">BO - Blackout</displayName>
+</concept>
+<concept code="419045004">
+<displayName lang="en" type="PT">Loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Loss of consciousness (finding)</displayName>
+</concept>
+<concept code="419567006">
+<displayName lang="en" type="PT">Delirious</displayName>
+<displayName lang="en" type="FSN">Delirious (finding)</displayName>
+</concept>
+<concept code="419723007">
+<displayName lang="en" type="PT">Mentally dull</displayName>
+<displayName lang="en" type="FSN">Mentally dull (finding)</displayName>
+<displayName lang="en" type="SY">Mental dullness</displayName>
+</concept>
+<concept code="422513000">
+<displayName lang="en" type="PT">Epilepsy, not refractory</displayName>
+<displayName lang="en" type="FSN">Epilepsy, not refractory (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy, not intractable</displayName>
+</concept>
+<concept code="422527005">
+<displayName lang="en" type="PT">Refractory infantile spasms</displayName>
+<displayName lang="en" type="FSN">Refractory infantile spasms (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable West syndrome</displayName>
+<displayName lang="en" type="SY">Intractable infantile spasms</displayName>
+</concept>
+<concept code="422724001">
+<displayName lang="en-GB" type="PT">Refractory localisation-related epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory localization-related epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Intractable localisation-related epilepsy</displayName>
+</concept>
+<concept code="422768004">
+<displayName lang="en" type="PT">Unresponsive</displayName>
+<displayName lang="en" type="FSN">Unresponsive (finding)</displayName>
+</concept>
+<concept code="422873003">
+<displayName lang="en" type="PT">Refractory epilepsia partialis continua</displayName>
+<displayName lang="en" type="FSN">Refractory epilepsia partialis continua (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable epilepsia partialis continua</displayName>
+</concept>
+<concept code="423086004">
+<displayName lang="en" type="PT">Simple partial status epilepticus</displayName>
+<displayName lang="en" type="FSN">Simple partial status epilepticus (disorder)</displayName>
+</concept>
+<concept code="425054007">
+<displayName lang="en" type="PT">Refractory occipital lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory occipital lobe epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable occipital lobe epilepsy</displayName>
+</concept>
+<concept code="425237009">
+<displayName lang="en" type="PT">Refractory frontal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory frontal lobe epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable frontal lobe epilepsy</displayName>
+</concept>
+<concept code="425248002">
+<displayName lang="en" type="PT">Scattered attention</displayName>
+<displayName lang="en" type="FSN">Scattered attention (finding)</displayName>
+</concept>
+<concept code="425349008">
+<displayName lang="en" type="PT">Refractory parietal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory parietal lobe epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable parietal lobe epilepsy</displayName>
+</concept>
+<concept code="426634003">
+<displayName lang="en" type="PT">Eclamptic seizure</displayName>
+<displayName lang="en" type="FSN">Eclamptic seizure (finding)</displayName>
+<displayName lang="en" type="SY">Eclamptic fit</displayName>
+</concept>
+<concept code="427448000">
+<displayName lang="en" type="PT">Ready for enhanced sleep pattern</displayName>
+<displayName lang="en" type="FSN">Ready for enhanced sleep pattern (finding)</displayName>
+<displayName lang="en" type="SY">Readiness for enhanced sleep</displayName>
+<displayName lang="en" type="SY">Readiness for enhanced sleep pattern</displayName>
+</concept>
+<concept code="432354000">
+<displayName lang="en" type="PT">Simple febrile seizure</displayName>
+<displayName lang="en" type="FSN">Simple febrile seizure (finding)</displayName>
+<displayName lang="en" type="SY">Simple febrile convulsion</displayName>
+</concept>
+<concept code="432524006">
+<displayName lang="en" type="PT">Syncope due to orthostatic hypotension</displayName>
+<displayName lang="en" type="FSN">Syncope due to orthostatic hypotension (disorder)</displayName>
+</concept>
+<concept code="433083002">
+<displayName lang="en" type="PT">Complex febrile seizure</displayName>
+<displayName lang="en" type="FSN">Complex febrile seizure (finding)</displayName>
+<displayName lang="en" type="SY">Complex febrile convulsion</displayName>
+</concept>
+<concept code="437871001">
+<displayName lang="en" type="PT">Posttraumatic seizure</displayName>
+<displayName lang="en" type="FSN">Seizure after head injury (finding)</displayName>
+<displayName lang="en" type="SY">PTS - Posttraumatic seizure</displayName>
+<displayName lang="en" type="SY">Seizure after head injury</displayName>
+</concept>
+<concept code="438113009">
+<displayName lang="en" type="PT">Convulsive syncope</displayName>
+<displayName lang="en" type="FSN">Convulsive syncope (disorder)</displayName>
+</concept>
+<concept code="438156004">
+<displayName lang="en" type="PT">Anoxic epileptic seizure</displayName>
+<displayName lang="en" type="FSN">Anoxic epileptic seizure (finding)</displayName>
+</concept>
+<concept code="440443001">
+<displayName lang="en" type="PT">Reflex anoxic seizure</displayName>
+<displayName lang="en" type="FSN">Reflex anoxic seizure (finding)</displayName>
+<displayName lang="en" type="SY">Reflex anoxic seizures</displayName>
+</concept>
+<concept code="441678004">
+<displayName lang="en-GB" type="PT">Refractory generalised nonconvulsive epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory generalized nonconvulsive epilepsy (disorder)</displayName>
+</concept>
+<concept code="442481002">
+<displayName lang="en-GB" type="PT">Epilepsy characterised by intractable complex partial seizures</displayName>
+<displayName lang="en" type="FSN">Epilepsy characterized by intractable complex partial seizures (disorder)</displayName>
+</concept>
+<concept code="442512002">
+<displayName lang="en" type="PT">Nonconvulsive status epilepticus</displayName>
+<displayName lang="en" type="FSN">Nonconvulsive status epilepticus (disorder)</displayName>
+</concept>
+<concept code="443371007">
+<displayName lang="en" type="PT">Decreased level of consciousness</displayName>
+<displayName lang="en" type="FSN">Decreased level of consciousness (finding)</displayName>
+</concept>
+<concept code="443410001">
+<displayName lang="en" type="PT">Childhood seizure</displayName>
+<displayName lang="en" type="FSN">Childhood seizure (finding)</displayName>
+</concept>
+<concept code="444229001">
+<displayName lang="en" type="PT">Afebrile seizure</displayName>
+<displayName lang="en" type="FSN">Afebrile seizure (finding)</displayName>
+</concept>
+<concept code="445095002">
+<displayName lang="en" type="PT">Witnessed epileptic seizure</displayName>
+<displayName lang="en" type="FSN">Epileptic seizure witnessed by provider of history other than subject (finding)</displayName>
+<displayName lang="en" type="SY">Epileptic seizure witnessed by provider of history other than subject</displayName>
+</concept>
+<concept code="445355009">
+<displayName lang="en" type="PT">Refractory epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable epilepsy</displayName>
+</concept>
+<concept code="445535007">
+<displayName lang="en" type="PT">Witnessed syncope</displayName>
+<displayName lang="en" type="FSN">Syncope witnessed by provider of history other than subject (disorder)</displayName>
+<displayName lang="en" type="SY">Syncope witnessed by provider of history other than subject</displayName>
+</concept>
+<concept code="449203004">
+<displayName lang="en" type="PT">Focal seizure with experiential sensory symptoms</displayName>
+<displayName lang="en" type="FSN">Focal seizure with experiential sensory symptoms (disorder)</displayName>
+<displayName lang="en" type="SY">Temporo-parieto-occipital junction seizure</displayName>
+</concept>
+<concept code="450551009">
+<displayName lang="en" type="PT">Traumatic brain injury with prolonged loss of consciousness (more than 24 hours) and return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with prolonged loss of consciousness (more than 24 hours) and return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="450552002">
+<displayName lang="en" type="PT">Traumatic brain injury with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level (disorder)</displayName>
+</concept>
+<concept code="450569000">
+<displayName lang="en" type="PT">Traumatic brain injury with loss of consciousness one hour or more</displayName>
+<displayName lang="en" type="FSN">Traumatic brain injury with loss of consciousness one hour or more (disorder)</displayName>
+</concept>
+<concept code="698021005">
+<displayName lang="en" type="PT">Autosomal dominant nocturnal frontal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Autosomal dominant nocturnal frontal lobe epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">ADNFLE - Autosomal dominant nocturnal frontal lobe epilepsy</displayName>
+</concept>
+<concept code="698616008">
+<displayName lang="en" type="PT">Closed fracture of vault of skull with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Closed fracture of vault of skull with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="698618009">
+<displayName lang="en" type="PT">Open fracture of vault of skull with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Open fracture of vault of skull with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="698620007">
+<displayName lang="en" type="PT">Closed fracture of base of skull with loss of consciousness</displayName>
+<displayName lang="en" type="FSN">Closed fracture of base of skull with loss of consciousness (disorder)</displayName>
+</concept>
+<concept code="698760002">
+<displayName lang="en-GB" type="PT">Generalised non-convulsive absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Generalized non-convulsive absence epilepsy (disorder)</displayName>
+</concept>
+<concept code="698761003">
+<displayName lang="en" type="PT">Refractory juvenile myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory juvenile myoclonic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable juvenile myoclonic epilepsy</displayName>
+</concept>
+<concept code="698762005">
+<displayName lang="en" type="PT">Refractory myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory myoclonic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable myoclonic epilepsy</displayName>
+</concept>
+<concept code="698763000">
+<displayName lang="en" type="PT">Postoperative status epilepticus</displayName>
+<displayName lang="en" type="FSN">Postoperative status epilepticus (disorder)</displayName>
+</concept>
+<concept code="698764006">
+<displayName lang="en" type="PT">Post infectious grand mal epilepsy</displayName>
+<displayName lang="en" type="FSN">Post infectious grand mal epilepsy (disorder)</displayName>
+</concept>
+<concept code="698767004">
+<displayName lang="en" type="PT">Post-cerebrovascular accident epilepsy</displayName>
+<displayName lang="en" type="FSN">Post-cerebrovascular accident epilepsy (disorder)</displayName>
+</concept>
+<concept code="699688008">
+<displayName lang="en-GB" type="PT">Generalised epilepsy with febrile seizures plus</displayName>
+<displayName lang="en" type="FSN">Generalized epilepsy with febrile seizures plus (disorder)</displayName>
+</concept>
+<concept code="702326000">
+<displayName lang="en" type="PT">Progressive myoclonus epilepsy with ataxia</displayName>
+<displayName lang="en" type="FSN">Progressive myoclonus epilepsy with ataxia (disorder)</displayName>
+<displayName lang="en" type="SY">PRICKLE1-related progressive myoclonic epilepsy with ataxia</displayName>
+<displayName lang="en" type="SY">Progressive myoclonic epilepsy 1B</displayName>
+</concept>
+<concept code="702753003">
+<displayName lang="en" type="PT">Complete partial seizure of uncertain origin</displayName>
+<displayName lang="en" type="FSN">Complete partial seizure of uncertain origin (disorder)</displayName>
+</concept>
+<concept code="703150000">
+<displayName lang="en" type="PT">Single seizure</displayName>
+<displayName lang="en" type="FSN">Single seizure (finding)</displayName>
+</concept>
+<concept code="703453009">
+<displayName lang="en" type="PT">Complaining of wooziness</displayName>
+<displayName lang="en" type="FSN">Complaining of wooziness (finding)</displayName>
+</concept>
+<concept code="703464007">
+<displayName lang="en" type="PT">Wooziness</displayName>
+<displayName lang="en" type="FSN">Wooziness (finding)</displayName>
+</concept>
+<concept code="703524005">
+<displayName lang="en" type="PT">Spinal muscular atrophy with progressive myoclonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Spinal muscular atrophy with progressive myoclonic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Hereditary myoclonus with progressive distal muscular atrophy</displayName>
+<displayName lang="en" type="SY">Jankovic-Rivera syndrome</displayName>
+</concept>
+<concept code="704426000">
+<displayName lang="en" type="PT">Impairment of mental alertness</displayName>
+<displayName lang="en" type="FSN">Impairment of mental alertness (finding)</displayName>
+<displayName lang="en" type="SY">Impaired alertness</displayName>
+</concept>
+<concept code="709012003">
+<displayName lang="en" type="PT">Minimally conscious state</displayName>
+<displayName lang="en" type="FSN">Minimally conscious state (disorder)</displayName>
+<displayName lang="en" type="SY">MCS - minimally conscious state</displayName>
+</concept>
+<concept code="710046001">
+<displayName lang="en-GB" type="PT">Refractory idiopathic generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory idiopathic generalized epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Intractable idiopathic generalised epilepsy</displayName>
+</concept>
+<concept code="141000119100">
+<displayName lang="en" type="PT">Daytime somnolence</displayName>
+<displayName lang="en" type="FSN">Daytime somnolence (finding)</displayName>
+</concept>
+<concept code="981000119108">
+<displayName lang="en" type="PT">Single epileptic seizure</displayName>
+<displayName lang="en" type="FSN">Single epileptic seizure (finding)</displayName>
+</concept>
+<concept code="3371000119106">
+<displayName lang="en-GB" type="PT">Refractory generalised convulsive epilepsy</displayName>
+<displayName lang="en" type="FSN">Refractory generalized convulsive epilepsy (disorder)</displayName>
+</concept>
+<concept code="8291000119107">
+<displayName lang="en" type="PT">Atonic epilepsy</displayName>
+<displayName lang="en" type="FSN">Atonic epilepsy (disorder)</displayName>
+</concept>
+<concept code="10701000119109">
+<displayName lang="en" type="PT">Refractory complex partial seizure with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Refractory complex partial seizure with impairment of consciousness (disorder)</displayName>
+</concept>
+<concept code="14401000119109">
+<displayName lang="en" type="PT">Partial frontal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Partial frontal lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="20121000119105">
+<displayName lang="en" type="PT">Partial occipital lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Partial occipital lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="21391000119102">
+<displayName lang="en" type="PT">Partial parietal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Partial parietal lobe epilepsy (disorder)</displayName>
+</concept>
+<concept code="47391000119107">
+<displayName lang="en-GB" type="PT">Primary generalised absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Primary generalized absence epilepsy (disorder)</displayName>
+</concept>
+<concept code="53521000119106">
+<displayName lang="en-GB" type="PT">First generalised onset seizure</displayName>
+<displayName lang="en" type="FSN">First generalized onset seizure (disorder)</displayName>
+</concept>
+<concept code="68091000119102">
+<displayName lang="en" type="PT">Intractable absence seizures</displayName>
+<displayName lang="en" type="FSN">Intractable absence seizures (disorder)</displayName>
+</concept>
+<concept code="84161000119100">
+<displayName lang="en" type="PT">Complex partial seizure of parietal lobe</displayName>
+<displayName lang="en" type="FSN">Partial epileptic seizure of parietal lobe with impairment of consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Partial epileptic seizure of parietal lobe with impairment of consciousness</displayName>
+</concept>
+<concept code="84171000119106">
+<displayName lang="en" type="PT">Complex partial seizure of frontal lobe</displayName>
+<displayName lang="en" type="FSN">Partial epileptic seizure of frontal lobe with impairment of consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Complex partial epileptic seizure of frontal lobe</displayName>
+<displayName lang="en" type="SY">Partial epileptic seizure of frontal lobe with impairment of consciousness</displayName>
+</concept>
+<concept code="84181000119109">
+<displayName lang="en" type="PT">Complex partial seizure of occipital lobe</displayName>
+<displayName lang="en" type="FSN">Partial epileptic seizure of occipital lobe with impairment of consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Complex partial epileptic seizure of occipital lobe</displayName>
+<displayName lang="en" type="SY">Partial epileptic seizure of occipital lobe with impairment of consciousness</displayName>
+</concept>
+<concept code="84201000119105">
+<displayName lang="en" type="PT">Intractable partial temporal lobe epilepsy with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Intractable partial temporal lobe epilepsy with impairment of consciousness (disorder)</displayName>
+</concept>
+<concept code="84211000119108">
+<displayName lang="en" type="PT">Intractable complex partial parietal lobe epilepsy</displayName>
+<displayName lang="en" type="FSN">Intractable partial parietal lobe epilepsy with impairment of consciousness (disorder)</displayName>
+<displayName lang="en" type="SY">Intractable partial parietal lobe epilepsy with impairment of consciousness</displayName>
+</concept>
+<concept code="84221000119101">
+<displayName lang="en" type="PT">Intractable partial frontal lobe epilepsy with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Intractable partial frontal lobe epilepsy with impairment of consciousness (disorder)</displayName>
+</concept>
+<concept code="84231000119103">
+<displayName lang="en" type="PT">Intractable partial occipital lobe epilepsy with impairment of consciousness</displayName>
+<displayName lang="en" type="FSN">Intractable partial occipital lobe epilepsy with impairment of consciousness (disorder)</displayName>
+</concept>
+<concept code="100941000119100">
+<displayName lang="en" type="PT">Epilepsy in mother complicating pregnancy</displayName>
+<displayName lang="en" type="FSN">Epilepsy in mother complicating pregnancy (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy in pregnancy</displayName>
+</concept>
+<concept code="117891000119100">
+<displayName lang="en" type="PT">Simple partial seizure</displayName>
+<displayName lang="en" type="FSN">Simple partial seizure (disorder)</displayName>
+</concept>
+<concept code="119001000119108">
+<displayName lang="en" type="PT">Intractable simple partial epilepsy</displayName>
+<displayName lang="en" type="FSN">Intractable simple partial epilepsy (disorder)</displayName>
+</concept>
+<concept code="137991000119103">
+<displayName lang="en" type="PT">Seizure disorder as sequela of stroke</displayName>
+<displayName lang="en" type="FSN">Seizure disorder as sequela of stroke (disorder)</displayName>
+</concept>
+<concept code="187931000119106">
+<displayName lang="en" type="PT">Atypical absence epilepsy</displayName>
+<displayName lang="en" type="FSN">Atypical absence epilepsy (disorder)</displayName>
+</concept>
+<concept code="196891000000105">
+<displayName lang="en-GB" type="PT">Attention delay</displayName>
+<displayName lang="en-GB" type="FSN">Attention delay (finding)</displayName>
+</concept>
+<concept code="199451000000106">
+<displayName lang="en-GB" type="PT">Simple partial epileptic seizure</displayName>
+<displayName lang="en-GB" type="FSN">Simple partial epileptic seizure (disorder)</displayName>
+</concept>
+<concept code="239161000000108">
+<displayName lang="en" type="PT">Increased level of consciousness</displayName>
+<displayName lang="en" type="FSN">Increased level of consciousness (finding)</displayName>
+</concept>
+<concept code="290681000119102">
+<displayName lang="en" type="PT">Status epilepticus due to refractory complex partial seizures</displayName>
+<displayName lang="en" type="FSN">Status epilepticus due to refractory complex partial seizures (disorder)</displayName>
+<displayName lang="en" type="SY">Status epilepticus due to intractable complex partial seizures</displayName>
+</concept>
+<concept code="290691000119104">
+<displayName lang="en-GB" type="PT">Status epilepticus due to generalised idiopathic epilepsy</displayName>
+<displayName lang="en" type="FSN">Status epilepticus due to generalized idiopathic epilepsy (disorder)</displayName>
+</concept>
+<concept code="290711000119101">
+<displayName lang="en-GB" type="PT">Status epilepticus due to intractable idiopathic generalised epilepsy</displayName>
+<displayName lang="en" type="FSN">Status epilepticus due to intractable idiopathic generalized epilepsy (disorder)</displayName>
+<displayName lang="en-GB" type="SY">Status epilepticus due to refractory idiopathic generalised epilepsy</displayName>
+</concept>
+<concept code="290721000119108">
+<displayName lang="en" type="PT">Status epilepticus due to refractory epilepsy</displayName>
+<displayName lang="en" type="FSN">Status epilepticus due to refractory epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Status epilepticus due to intractable epilepsy</displayName>
+</concept>
+<concept code="290761000119103">
+<displayName lang="en" type="PT">Status epilepticus due to refractory simple partial epilepsy</displayName>
+<displayName lang="en" type="FSN">Status epilepticus due to refractory simple partial epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Status epilepticus due to intractable simple partial epilepsy</displayName>
+</concept>
+<concept code="290871000119101">
+<displayName lang="en" type="PT">Infantile spasms co-occurrent with status epilepticus</displayName>
+<displayName lang="en" type="FSN">Infantile spasms co-occurrent with status epilepticus (disorder)</displayName>
+<displayName lang="en" type="SY">Infantile spasms with status epilepticus</displayName>
+</concept>
+<concept code="290881000119103">
+<displayName lang="en" type="PT">Refractory infantile spasms co-occurrent with status epilepticus</displayName>
+<displayName lang="en" type="FSN">Refractory infantile spasms co-occurrent with status epilepticus (disorder)</displayName>
+<displayName lang="en" type="SY">Refractory infantile spasms with status epilepticus</displayName>
+</concept>
+<concept code="291311000119108">
+<displayName lang="en" type="PT">Status epilepticus in benign Rolandic epilepsy</displayName>
+<displayName lang="en" type="FSN">Status epilepticus in benign Rolandic epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Rolandic seizures with status epilepticus</displayName>
+</concept>
+<concept code="509341000000107">
+<displayName lang="en" type="PT">Petit-mal epilepsy</displayName>
+<displayName lang="en" type="FSN">Petit-mal epilepsy (disorder)</displayName>
+<displayName lang="en" type="SY">Petit mal (minor) epilepsy</displayName>
+</concept>
+<concept code="789781000000103">
+<displayName lang="en" type="PT">Difficult to rouse</displayName>
+<displayName lang="en" type="FSN">Difficult to rouse (finding)</displayName>
+</concept>
+<concept code="864171000000103">
+<displayName lang="en" type="PT">Non-epileptic attack disorder</displayName>
+<displayName lang="en" type="FSN">Non-epileptic attack disorder (disorder)</displayName>
+<displayName lang="en" type="SY">NEAD - non-epileptic attack disorder</displayName>
+</concept>
+<concept code="944621000000108">
+<displayName lang="en" type="PT">Able to sustain attention</displayName>
+<displayName lang="en" type="FSN">Able to sustain attention (finding)</displayName>
+</concept>
+<concept code="944631000000105">
+<displayName lang="en" type="PT">Able to divide attention</displayName>
+<displayName lang="en" type="FSN">Able to divide attention (finding)</displayName>
+</concept>
+<concept code="944641000000101">
+<displayName lang="en" type="PT">Able to shift attention</displayName>
+<displayName lang="en" type="FSN">Able to shift attention (finding)</displayName>
+</concept>
+<concept code="10750951000119106">
+<displayName lang="en" type="PT">Epilepsy in mother complicating childbirth</displayName>
+<displayName lang="en" type="FSN">Epilepsy in mother complicating childbirth (disorder)</displayName>
+<displayName lang="en" type="SY">Epilepsy in childbirth</displayName>
+</concept>
+</vocabulary>

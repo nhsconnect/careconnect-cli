@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ITKActDetectedIssueCode" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.316">
+   <Description>
+            <p>The coded attribute that uses this vocabulary is defined as CWE and therefore any allowed coding system may be used. As such it allows a translated code to be included with the source or native code.</p>
+         </Description>
+</vocabulary>

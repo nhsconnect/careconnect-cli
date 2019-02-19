@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProtocolCondition" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.31">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.31</p>
+            <p>The protocol under which a pharmaceutical product was administered</p>
+         </Description>
+   <concept code="00">
+      <displayName>Uncoded protocol</displayName>
+   </concept>
+</vocabulary>

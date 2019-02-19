@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS CHC (continuing healthcare) respond to document type" type="Realm Concept" setId="68511000000130" version="10" id="34311000000139" refId="999000991000000108" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="766761000000103">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Fast Track Pathway Tool</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Fast Track Pathway Tool (record artifact)</displayName>
+</concept>
+<concept code="766781000000107">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Checklist Assessment</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Checklist Assessment (record artifact)</displayName>
+</concept>
+<concept code="766801000000108">
+<displayName lang="en" type="PT">NHS Continuing Healthcare Request for Assessment</displayName>
+<displayName lang="en" type="FSN">National Health Service Continuing Healthcare Request for Assessment (record artifact)</displayName>
+</concept>
+</vocabulary>

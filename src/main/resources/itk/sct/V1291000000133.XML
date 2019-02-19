@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Blood Pressure" type="Realm Concept" setId="68731000000131" version="18" id="1291000000133" refId="999000321000000106" memberCount="4" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="75367002">
+<displayName lang="en" type="PT">Blood pressure</displayName>
+<displayName lang="en" type="FSN">Blood pressure (observable entity)</displayName>
+<displayName lang="en" type="SY">BP - Blood pressure</displayName>
+</concept>
+<concept code="163033001">
+<displayName lang="en" type="PT">Lying blood pressure</displayName>
+<displayName lang="en" type="FSN">Lying blood pressure (observable entity)</displayName>
+<displayName lang="en" type="SY">Lying blood pressure reading</displayName>
+</concept>
+<concept code="163034007">
+<displayName lang="en" type="PT">Standing blood pressure</displayName>
+<displayName lang="en" type="FSN">Standing blood pressure (observable entity)</displayName>
+<displayName lang="en" type="SY">Standing blood pressure reading</displayName>
+</concept>
+<concept code="163035008">
+<displayName lang="en" type="PT">Sitting blood pressure</displayName>
+<displayName lang="en" type="FSN">Sitting blood pressure (observable entity)</displayName>
+<displayName lang="en" type="SY">Sitting blood pressure reading</displayName>
+</concept>
+</vocabulary>

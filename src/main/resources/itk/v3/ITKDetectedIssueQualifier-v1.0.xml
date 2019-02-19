@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ITKDetectedIssueQualifier" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.317">
+   <Description>
+            <p>Qualifiers classifying the severity of the issue or error carried in the Detected Issue Event.</p>
+         </Description>
+   <concept code="IF">
+      <displayName>For Information</displayName>
+   </concept>
+   <concept code="WG">
+      <displayName>Warning</displayName>
+   </concept>
+   <concept code="ER">
+      <displayName>Error</displayName>
+   </concept>
+</vocabulary>

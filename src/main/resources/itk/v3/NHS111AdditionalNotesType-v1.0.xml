@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS111AdditionalNotesType" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.422">
+   <Description>
+            <p>To hold further details about the patient that may be pertinent for a referral.</p>
+         </Description>
+   <concept code="SPN">
+      <displayName>Special Patient Notes</displayName>
+   </concept>
+   <concept code="LAI">
+      <displayName>Location Access Information</displayName>
+   </concept>
+   <concept code="OAN">
+      <displayName>Other Additional Notes</displayName>
+   </concept>
+</vocabulary>

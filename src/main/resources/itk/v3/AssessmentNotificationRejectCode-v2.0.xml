@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AssessmentNotificationRejectCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.270">
+   <Description>
+            <p>A set of codes to support the assessment notification rejection.</p>
+         </Description>
+   <concept code="NOCA">
+      <displayName>The CAF contact assessment has not been completed</displayName>
+   </concept>
+   <concept code="NSSA">
+      <displayName>The patient lives outside the Social Services area</displayName>
+   </concept>
+   <concept code="RCHCA">
+      <displayName>Requires assessment under the Continuing Healthcare process</displayName>
+   </concept>
+   <concept code="OOR">
+      <displayName>Other organisation or department is responsible</displayName>
+   </concept>
+   <concept code="OFT">
+      <displayName>Other - Free Text</displayName>
+   </concept>
+</vocabulary>

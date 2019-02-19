@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QualificationOfDetectedIssue" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.901">
+   <Description>
+            <p>This vocabulary formally specifies how the code systems identified under <b>ActDetectedIssueCode</b> shall use qualifiers from the <b>DetectedIssueQualifier</b> code system. One of the these qualifiers shall be used to qualify every code from each code system carried in Trigger Event Control Act and Query Acknowledgement Response wrappers DetectedIssueEvent.code.</p>
+         </Description>
+</vocabulary>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrOrgType" version="2.0" status="active" id="2.16.840.1.113883.2.1.6.8">
+   <Description>
+            <p>Type of organisation is coded where possible using the NHS Data Dictionary codes. In a few cases a Read Version 2 code is provided to fill a gaps.</p>
+            <p>All the NHS DD entries also have valid Read Code translations.</p>
+            <p>Default OID:</p>
+            <p>The default OID for the NHS DD specialty code values below is: 2.16.840.1.113883.2.1.6.8.</p>
+         </Description>
+   <concept code="100">
+      <displayName>General Surgery</displayName>
+   </concept>
+   <concept code="101">
+      <displayName>Urology</displayName>
+   </concept>
+   <concept code="110">
+      <displayName>Trauma &amp; Orthopaedics</displayName>
+   </concept>
+   <concept code="120">
+      <displayName>ENT</displayName>
+   </concept>
+   <concept code="130">
+      <displayName>Ophthalmology</displayName>
+   </concept>
+   <concept code="140">
+      <displayName>Oral Surgery</displayName>
+   </concept>
+   <concept code="141">
+      <displayName>Restorative Dentistry</displayName>
+   </concept>
+   <concept code="142">
+      <displayName>Paediatric Dentistry</displayName>
+   </concept>
+   <concept code="143">
+      <displayName>Orthdontics</displayName>
+   </concept>
+   <concept code="150">
+      <displayName>Neurosurgery</displayName>
+   </concept>
+   <concept code="160">
+      <displayName>Plastic Surgery</displayName>
+   </concept>
+   <concept code="170">
+      <displayName>Cardiothoracic Surgery</displayName>
+   </concept>
+   <concept code="171">
+      <displayName>Paediatric Surgery</displayName>
+   </concept>
+   <concept code="180">
+      <displayName>Accident &amp; Emergency</displayName>
+   </concept>
+   <concept code="190">
+      <displayName>Anaesthetics</displayName>
+   </concept>
+   <concept code="191">
+      <displayName>Pain Management</displayName>
+   </concept>
+   <concept code="300">
+      <displayName>General Medicine</displayName>
+   </concept>
+   <concept code="301">
+      <displayName>Gastroenterology</displayName>
+   </concept>
+   <concept code="302">
+      <displayName>Endocrinology</displayName>
+   </concept>
+   <concept code="303">
+      <displayName>Haematology (Clinical)</displayName>
+   </concept>
+   <concept code="304">
+      <displayName>Clinical Physiology</displayName>
+   </concept>
+   <concept code="305">
+      <displayName>Clinical Pharmacology</displayName>
+   </concept>
+   <concept code="310">
+      <displayName>Audiological Medicine</displayName>
+   </concept>
+   <concept code="311">
+      <displayName>Clinical Genetics</displayName>
+   </concept>
+   <concept code="312">
+      <displayName>Clinical cytogenetics and molecular genetics</displayName>
+   </concept>
+   <concept code="313">
+      <displayName>Clinical Immunology and Allergy</displayName>
+   </concept>
+   <concept code="314">
+      <displayName>Rehabilitation</displayName>
+   </concept>
+   <concept code="315">
+      <displayName>Palliative Medicine</displayName>
+   </concept>
+   <concept code="320">
+      <displayName>Cardiology</displayName>
+   </concept>
+   <concept code="330">
+      <displayName>Dermatology</displayName>
+   </concept>
+   <concept code="340">
+      <displayName>Thoracic Medicine</displayName>
+   </concept>
+   <concept code="350">
+      <displayName>Infectious Diseases</displayName>
+   </concept>
+   <concept code="360">
+      <displayName>Genito-Urinary Medicine</displayName>
+   </concept>
+   <concept code="361">
+      <displayName>Nephrology</displayName>
+   </concept>
+   <concept code="370">
+      <displayName>Medical Oncology</displayName>
+   </concept>
+   <concept code="371">
+      <displayName>Nuclear Medicine</displayName>
+   </concept>
+   <concept code="400">
+      <displayName>Neurology</displayName>
+   </concept>
+   <concept code="401">
+      <displayName>Clinical Neuro-Physiology</displayName>
+   </concept>
+   <concept code="410">
+      <displayName>Rheumatology</displayName>
+   </concept>
+   <concept code="420">
+      <displayName>Paediatrics</displayName>
+   </concept>
+   <concept code="421">
+      <displayName>Paediatric Neurology</displayName>
+   </concept>
+   <concept code="430">
+      <displayName>Geriatric Medicine</displayName>
+   </concept>
+   <concept code="450">
+      <displayName>Dental Medicine Specialties</displayName>
+   </concept>
+   <concept code="460">
+      <displayName>Medical Ophthalmology</displayName>
+   </concept>
+   <concept code="500">
+      <displayName>Obstetrics and Gynaecology</displayName>
+   </concept>
+   <concept code="501">
+      <displayName>Obstetrics for Patients Using a Hospital Bed or Delivery Facilities</displayName>
+   </concept>
+   <concept code="502">
+      <displayName>Gynaecology</displayName>
+   </concept>
+   <concept code="560">
+      <displayName>Midwife Episode</displayName>
+   </concept>
+   <concept code="600">
+      <displayName>General Practice</displayName>
+   </concept>
+   <concept code="610">
+      <displayName>Maternity Function</displayName>
+   </concept>
+   <concept code="620">
+      <displayName>Other than Maternity</displayName>
+   </concept>
+   <concept code="700">
+      <displayName>Mental Handicap</displayName>
+   </concept>
+   <concept code="710">
+      <displayName>Mental Illness</displayName>
+   </concept>
+   <concept code="711">
+      <displayName>Child and Adolescent Psychiatry</displayName>
+   </concept>
+   <concept code="712">
+      <displayName>Forensic Psychiatry</displayName>
+   </concept>
+   <concept code="713">
+      <displayName>Psychotherapy</displayName>
+   </concept>
+   <concept code="715">
+      <displayName>Old Age Psychiatry</displayName>
+   </concept>
+   <concept code="800">
+      <displayName>Clinical Oncology (previously Radiotherapy)</displayName>
+   </concept>
+   <concept code="810">
+      <displayName>Radiology</displayName>
+   </concept>
+   <concept code="820">
+      <displayName>General Pathology</displayName>
+   </concept>
+   <concept code="821">
+      <displayName>Blood Transfusion</displayName>
+   </concept>
+   <concept code="822">
+      <displayName>Chemical Pathology</displayName>
+   </concept>
+   <concept code="823">
+      <displayName>Haematology</displayName>
+   </concept>
+   <concept code="824">
+      <displayName>Histopathology</displayName>
+   </concept>
+   <concept code="830">
+      <displayName>Immunopathology</displayName>
+   </concept>
+   <concept code="831">
+      <displayName>Medical Microbiology</displayName>
+   </concept>
+   <concept code="832">
+      <displayName>Neuropathology</displayName>
+   </concept>
+   <concept code="900">
+      <displayName>Community Medicine</displayName>
+   </concept>
+   <concept code="901">
+      <displayName>Occupational Medicine</displayName>
+   </concept>
+   <concept code="9b8..">
+      <displayName>Surgical Specialties</displayName>
+   </concept>
+   <concept code="9b9..">
+      <displayName>Medical Specialties</displayName>
+   </concept>
+   <concept code="9bA..">
+      <displayName>Psychiatry</displayName>
+   </concept>
+   <concept code="9bB..">
+      <displayName>Radiology</displayName>
+   </concept>
+   <concept code="9bC..">
+      <displayName>Pathology</displayName>
+   </concept>
+   <concept code="9bD..">
+      <displayName>Other medical specialties</displayName>
+   </concept>
+</vocabulary>

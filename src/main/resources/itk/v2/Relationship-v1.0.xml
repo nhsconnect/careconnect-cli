@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Relationship" version="1.0" status="created" id="2.16.840.1.113883.12.63">
+   <Description>This table contains the actual personal relationship that the next of kin/associated party has to the patient.
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Spouse</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Dependant</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Non-dependant</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Mother</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Father</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Sister</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Brother</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Relative</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Proxy - Contact</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>Proxy - Communication</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Proxy - Contact and Communication</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Partner</displayName>
+   </concept>
+   <concept code="20">
+      <displayName>Carer</displayName>
+   </concept>
+   <concept code="21">
+      <displayName>Self</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Parent</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Next of kin</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Guardian</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Foster parent</displayName>
+   </concept>
+   <concept code="61">
+      <displayName>Step parent</displayName>
+   </concept>
+   <concept code="62">
+      <displayName>Polygamous partner</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Child</displayName>
+   </concept>
+   <concept code="98">
+      <displayName>Not Known</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

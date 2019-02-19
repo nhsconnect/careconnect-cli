@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SexualOrientation" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.32">
+   <Description>Sexual Orientation: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Heterosexual</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Homosexual (Not Specified)</displayName>
+   </concept>
+   <concept code="2a">
+      <displayName>Gay Man</displayName>
+   </concept>
+   <concept code="2b">
+      <displayName>Lesbian / Gay Woman</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Bisexual</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Not Certain</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unknown</displayName>
+   </concept>
+   <concept code="X">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="Z">
+      <displayName>Not Stated (PERSON asked but declined to respond)</displayName>
+   </concept>
+</vocabulary>

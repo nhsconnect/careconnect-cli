@@ -1,0 +1,2320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Mood" type="Realm Concept" setId="67951000000137" version="6" id="7741000000135" refId="999001561000000102" memberCount="509" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="932006">
+<displayName lang="en" type="PT">Flat affect</displayName>
+<displayName lang="en" type="FSN">Flat affect (finding)</displayName>
+</concept>
+<concept code="1402001">
+<displayName lang="en" type="PT">Fear</displayName>
+<displayName lang="en" type="FSN">Fear (finding)</displayName>
+<displayName lang="en" type="SY">Afraid</displayName>
+<displayName lang="en" type="SY">Fright</displayName>
+<displayName lang="en" type="SY">Frightened</displayName>
+<displayName lang="en" type="SY">Scared</displayName>
+</concept>
+<concept code="3763000">
+<displayName lang="en" type="PT">Expected bereavement</displayName>
+<displayName lang="en" type="FSN">Expected bereavement due to life event (finding)</displayName>
+<displayName lang="en" type="SY">Expected bereavement due to life event</displayName>
+</concept>
+<concept code="5240007">
+<displayName lang="en" type="PT">Inappropriate jocularity</displayName>
+<displayName lang="en" type="FSN">Inappropriate jocularity (finding)</displayName>
+</concept>
+<concept code="5874002">
+<displayName lang="en" type="PT">Anticipatory anxiety, severe</displayName>
+<displayName lang="en" type="FSN">Anticipatory anxiety, severe (finding)</displayName>
+</concept>
+<concept code="6140007">
+<displayName lang="en" type="PT">Blunted affect</displayName>
+<displayName lang="en" type="FSN">Blunted affect (finding)</displayName>
+<displayName lang="en" type="SY">Blunting of mood</displayName>
+<displayName lang="en" type="SY">Emotional blunting</displayName>
+</concept>
+<concept code="7571003">
+<displayName lang="en" type="PT">Feeling guilt</displayName>
+<displayName lang="en" type="FSN">Feeling guilt (finding)</displayName>
+<displayName lang="en" type="SY">Blames self</displayName>
+<displayName lang="en" type="SY">Feelings of guilt</displayName>
+<displayName lang="en" type="SY">Guilt feelings</displayName>
+<displayName lang="en" type="SY">Sense of guilt</displayName>
+</concept>
+<concept code="9066006">
+<displayName lang="en" type="PT">Feeling of discouragement</displayName>
+<displayName lang="en" type="FSN">Feeling of discouragement (finding)</displayName>
+</concept>
+<concept code="11458009">
+<displayName lang="en" type="PT">Anticipatory anxiety, mild</displayName>
+<displayName lang="en" type="FSN">Anticipatory anxiety, mild (finding)</displayName>
+</concept>
+<concept code="11542009">
+<displayName lang="en" type="PT">Loss of affect</displayName>
+<displayName lang="en" type="FSN">Loss of affect (finding)</displayName>
+</concept>
+<concept code="11937007">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with recreation</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with recreation (finding)</displayName>
+</concept>
+<concept code="12347001">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with family</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with family (finding)</displayName>
+</concept>
+<concept code="13740005">
+<displayName lang="en" type="PT">Powerlessness, low</displayName>
+<displayName lang="en" type="FSN">Powerlessness, low (finding)</displayName>
+</concept>
+<concept code="14080002">
+<displayName lang="en" type="PT">Illegitimate pregnancy</displayName>
+<displayName lang="en" type="FSN">Illegitimate pregnancy, life event (finding)</displayName>
+<displayName lang="en" type="SY">Illegitimate pregnancy, life event</displayName>
+</concept>
+<concept code="14621004">
+<displayName lang="en" type="PT">Anticipatory grief</displayName>
+<displayName lang="en" type="FSN">Anticipatory grief (finding)</displayName>
+<displayName lang="en" type="SY">Anticipatory grieving</displayName>
+<displayName lang="en" type="SY">Grieving before loss</displayName>
+</concept>
+<concept code="16320008">
+<displayName lang="en" type="PT">Feeling mixed emotions</displayName>
+<displayName lang="en" type="FSN">Feeling mixed emotions (finding)</displayName>
+<displayName lang="en" type="SY">Mixed emotions</displayName>
+<displayName lang="en" type="SY">Mixed feelings</displayName>
+</concept>
+<concept code="16962006">
+<displayName lang="en" type="PT">Feeling hatred</displayName>
+<displayName lang="en" type="FSN">Feeling hatred (finding)</displayName>
+</concept>
+<concept code="17029006">
+<displayName lang="en" type="PT">Feeling despair</displayName>
+<displayName lang="en" type="FSN">Feeling despair (finding)</displayName>
+<displayName lang="en" type="SY">Despair</displayName>
+</concept>
+<concept code="18318000">
+<displayName lang="en" type="PT">Infatuation</displayName>
+<displayName lang="en" type="FSN">Infatuation (finding)</displayName>
+</concept>
+<concept code="18963009">
+<displayName lang="en" type="PT">Mood swings</displayName>
+<displayName lang="en" type="FSN">Mood swings (finding)</displayName>
+<displayName lang="en" type="SY">Changeable mood</displayName>
+<displayName lang="en" type="SY">Emotional instability</displayName>
+<displayName lang="en" type="SY">Emotional lability</displayName>
+<displayName lang="en" type="SY">Emotionally labile</displayName>
+<displayName lang="en" type="SY">Labile in mood</displayName>
+<displayName lang="en" type="SY">Labile mood</displayName>
+<displayName lang="en" type="SY">Mood swing</displayName>
+<displayName lang="en" type="SY">Unstable mood</displayName>
+<displayName lang="en" type="SY">Variable mood</displayName>
+</concept>
+<concept code="19391002">
+<displayName lang="en" type="PT">Powerlessness, moderate</displayName>
+<displayName lang="en" type="FSN">Powerlessness, moderate (finding)</displayName>
+</concept>
+<concept code="19512009">
+<displayName lang="en" type="PT">Fear of insects</displayName>
+<displayName lang="en" type="FSN">Fear of insects (finding)</displayName>
+</concept>
+<concept code="19887002">
+<displayName lang="en" type="PT">Claustrophobia</displayName>
+<displayName lang="en" type="FSN">Claustrophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of confined spaces</displayName>
+</concept>
+<concept code="20602000">
+<displayName lang="en" type="PT">Indifference</displayName>
+<displayName lang="en" type="FSN">Indifference (finding)</displayName>
+<displayName lang="en" type="SY">Apathetic</displayName>
+<displayName lang="en-GB" type="SY">Apathetic behaviour</displayName>
+<displayName lang="en" type="SY">Apathy</displayName>
+<displayName lang="en" type="SY">Emotionally apathetic</displayName>
+<displayName lang="en" type="SY">Listless</displayName>
+<displayName lang="en-GB" type="SY">Listless behaviour</displayName>
+<displayName lang="en" type="SY">Listless mood</displayName>
+<displayName lang="en" type="SY">Listlessness</displayName>
+</concept>
+<concept code="23682002">
+<displayName lang="en" type="PT">Love</displayName>
+<displayName lang="en" type="FSN">Love (finding)</displayName>
+</concept>
+<concept code="24109003">
+<displayName lang="en" type="PT">Bromhidrosiphobia</displayName>
+<displayName lang="en" type="FSN">Bromhidrosiphobia (finding)</displayName>
+</concept>
+<concept code="24199005">
+<displayName lang="en" type="PT">Feeling agitated</displayName>
+<displayName lang="en" type="FSN">Feeling agitated (finding)</displayName>
+<displayName lang="en" type="SY">Agitated</displayName>
+<displayName lang="en-GB" type="SY">Agitated behaviour</displayName>
+<displayName lang="en" type="SY">Agitation</displayName>
+<displayName lang="en" type="SY">Unable to keep still</displayName>
+</concept>
+<concept code="24936000">
+<displayName lang="en" type="PT">Emotionally detached</displayName>
+<displayName lang="en" type="FSN">Emotionally detached (finding)</displayName>
+<displayName lang="en" type="SY">Detachment, mental</displayName>
+</concept>
+<concept code="25467004">
+<displayName lang="en" type="PT">Hyperaffectivity</displayName>
+<displayName lang="en" type="FSN">Hyperaffectivity (finding)</displayName>
+</concept>
+<concept code="27596001">
+<displayName lang="en" type="PT">Hyposensitivity</displayName>
+<displayName lang="en" type="FSN">Hyposensitivity (finding)</displayName>
+</concept>
+<concept code="27764006">
+<displayName lang="en" type="PT">Nonacceptance of illness</displayName>
+<displayName lang="en" type="FSN">Nonacceptance of illness (finding)</displayName>
+</concept>
+<concept code="28290006">
+<displayName lang="en" type="PT">Inappropriate affect</displayName>
+<displayName lang="en" type="FSN">Inappropriate affect (finding)</displayName>
+</concept>
+<concept code="28669007">
+<displayName lang="en" type="PT">Anhedonia</displayName>
+<displayName lang="en" type="FSN">Anhedonia (finding)</displayName>
+</concept>
+<concept code="30819006">
+<displayName lang="en" type="PT">Dysphoric mood</displayName>
+<displayName lang="en" type="FSN">Dysphoric mood (finding)</displayName>
+<displayName lang="en" type="SY">Dysphoria</displayName>
+</concept>
+<concept code="31332003">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with community</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with community (finding)</displayName>
+</concept>
+<concept code="31492004">
+<displayName lang="en" type="PT">Fear of school</displayName>
+<displayName lang="en" type="FSN">Fear of school (finding)</displayName>
+</concept>
+<concept code="33300005">
+<displayName lang="en" type="PT">Feeling powerless</displayName>
+<displayName lang="en" type="FSN">Feeling powerless (finding)</displayName>
+<displayName lang="en" type="SY">Feeling helpless</displayName>
+<displayName lang="en" type="SY">Powerlessness</displayName>
+</concept>
+<concept code="33314005">
+<displayName lang="en" type="PT">Hypoaffectivity</displayName>
+<displayName lang="en" type="FSN">Hypoaffectivity (finding)</displayName>
+</concept>
+<concept code="33624008">
+<displayName lang="en" type="PT">Hyperirritability</displayName>
+<displayName lang="en" type="FSN">Hyperirritability (finding)</displayName>
+</concept>
+<concept code="34413007">
+<displayName lang="en" type="PT">Alexithymia</displayName>
+<displayName lang="en" type="FSN">Alexithymia (finding)</displayName>
+</concept>
+<concept code="34563004">
+<displayName lang="en" type="PT">Fear of getting cancer</displayName>
+<displayName lang="en" type="FSN">Fear of getting cancer (finding)</displayName>
+<displayName lang="en" type="SY">Cancer phobia</displayName>
+<displayName lang="en" type="SY">Fear of cancer</displayName>
+</concept>
+<concept code="34652008">
+<displayName lang="en" type="PT">Xenophobia</displayName>
+<displayName lang="en" type="FSN">Xenophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of strangers</displayName>
+</concept>
+<concept code="34822003">
+<displayName lang="en" type="PT">Elation</displayName>
+<displayName lang="en" type="FSN">Elation (finding)</displayName>
+<displayName lang="en" type="SY">Elated</displayName>
+<displayName lang="en" type="SY">Expansive mood</displayName>
+</concept>
+<concept code="35209006">
+<displayName lang="en" type="PT">Sensitivity</displayName>
+<displayName lang="en" type="FSN">Sensitivity (finding)</displayName>
+</concept>
+<concept code="35429005">
+<displayName lang="en" type="PT">Anticipatory anxiety</displayName>
+<displayName lang="en" type="FSN">Anticipatory anxiety (finding)</displayName>
+</concept>
+<concept code="35991009">
+<displayName lang="en" type="PT">Aversion</displayName>
+<displayName lang="en" type="FSN">Aversion (finding)</displayName>
+</concept>
+<concept code="36646009">
+<displayName lang="en" type="PT">Anticipatory anxiety, moderate</displayName>
+<displayName lang="en" type="FSN">Anticipatory anxiety, moderate (finding)</displayName>
+</concept>
+<concept code="38617005">
+<displayName lang="en" type="PT">Dental phobia</displayName>
+<displayName lang="en" type="FSN">Dental phobia (finding)</displayName>
+</concept>
+<concept code="39178003">
+<displayName lang="en" type="PT">Emotional impulsivity</displayName>
+<displayName lang="en" type="FSN">Emotional impulsivity (finding)</displayName>
+</concept>
+<concept code="39370001">
+<displayName lang="en" type="PT">Restricted affect</displayName>
+<displayName lang="en" type="FSN">Restricted affect (finding)</displayName>
+<displayName lang="en" type="SY">Constricted affect</displayName>
+</concept>
+<concept code="40634001">
+<displayName lang="en" type="PT">Hyperemotivity</displayName>
+<displayName lang="en" type="FSN">Hyperemotivity (finding)</displayName>
+</concept>
+<concept code="45763006">
+<displayName lang="en-GB" type="PT">Demoralisation</displayName>
+<displayName lang="en" type="FSN">Demoralization (finding)</displayName>
+</concept>
+<concept code="45991007">
+<displayName lang="en" type="PT">Loss of capacity to feel emotions</displayName>
+<displayName lang="en" type="FSN">Loss of capacity to feel emotions (finding)</displayName>
+<displayName lang="en" type="SY">Lack of feeling</displayName>
+<displayName lang="en" type="SY">Loss of emotion</displayName>
+</concept>
+<concept code="46460004">
+<displayName lang="en" type="PT">Hypomanic personality trait</displayName>
+<displayName lang="en" type="FSN">Hypomanic personality trait (finding)</displayName>
+</concept>
+<concept code="47544006">
+<displayName lang="en" type="PT">Exaltation</displayName>
+<displayName lang="en" type="FSN">Exaltation (finding)</displayName>
+</concept>
+<concept code="48079002">
+<displayName lang="en" type="PT">Disturbance in mood</displayName>
+<displayName lang="en" type="FSN">Disturbance in mood (finding)</displayName>
+<displayName lang="en" type="SY">Mood alteration</displayName>
+</concept>
+<concept code="48694002">
+<displayName lang="en" type="PT">Anxiety</displayName>
+<displayName lang="en" type="FSN">Anxiety (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety reaction</displayName>
+<displayName lang="en" type="SY">Anxious</displayName>
+<displayName lang="en" type="SY">Anxiousness</displayName>
+<displayName lang="en" type="SY">Feeling anxious</displayName>
+</concept>
+<concept code="49971008">
+<displayName lang="en" type="PT">Apprehension</displayName>
+<displayName lang="en" type="FSN">Apprehension (finding)</displayName>
+<displayName lang="en" type="SY">Apprehensiveness</displayName>
+</concept>
+<concept code="50202006">
+<displayName lang="en" type="PT">Disturbance in life pattern</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern (finding)</displayName>
+<displayName lang="en" type="SY">Disturbance in personal life pattern</displayName>
+</concept>
+<concept code="51078006">
+<displayName lang="en" type="PT">Laughing</displayName>
+<displayName lang="en" type="FSN">Laughing (finding)</displayName>
+<displayName lang="en" type="SY">Laughter</displayName>
+</concept>
+<concept code="53244004">
+<displayName lang="en" type="PT">Assumption of new identity</displayName>
+<displayName lang="en" type="FSN">Assumption of new identity (finding)</displayName>
+</concept>
+<concept code="53339009">
+<displayName lang="en" type="PT">Dysfunctional grieving</displayName>
+<displayName lang="en" type="FSN">Dysfunctional grieving (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty expressing grief responses</displayName>
+</concept>
+<concept code="53489000">
+<displayName lang="en" type="PT">Tension</displayName>
+<displayName lang="en" type="FSN">Tension (finding)</displayName>
+</concept>
+<concept code="54038000">
+<displayName lang="en" type="PT">Insecurity</displayName>
+<displayName lang="en" type="FSN">Insecurity (finding)</displayName>
+</concept>
+<concept code="54307006">
+<displayName lang="en" type="PT">Zoophobia</displayName>
+<displayName lang="en" type="FSN">Zoophobia (finding)</displayName>
+<displayName lang="en" type="SY">Animal phobia</displayName>
+</concept>
+<concept code="54380006">
+<displayName lang="en" type="PT">Translocation syndrome</displayName>
+<displayName lang="en" type="FSN">Translocation syndrome (finding)</displayName>
+<displayName lang="en" type="SY">Relocation stress syndrome</displayName>
+</concept>
+<concept code="54746005">
+<displayName lang="en" type="PT">Erotophobia</displayName>
+<displayName lang="en" type="FSN">Erotophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of sexual feelings and activity</displayName>
+</concept>
+<concept code="55929007">
+<displayName lang="en" type="PT">Feeling irritable</displayName>
+<displayName lang="en" type="FSN">Feeling irritable (finding)</displayName>
+<displayName lang="en" type="SY">Fussiness</displayName>
+<displayName lang="en" type="SY">Irritability</displayName>
+</concept>
+<concept code="58963008">
+<displayName lang="en" type="PT">Acrophobia</displayName>
+<displayName lang="en" type="FSN">Acrophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of high places</displayName>
+</concept>
+<concept code="59602008">
+<displayName lang="en" type="PT">Powerlessness, severe</displayName>
+<displayName lang="en" type="FSN">Powerlessness, severe (finding)</displayName>
+</concept>
+<concept code="61387006">
+<displayName lang="en" type="PT">Moderate anxiety</displayName>
+<displayName lang="en" type="FSN">Moderate anxiety (finding)</displayName>
+</concept>
+<concept code="63234004">
+<displayName lang="en" type="PT">Divorce</displayName>
+<displayName lang="en" type="FSN">Divorce, life event (finding)</displayName>
+<displayName lang="en" type="SY">Divorce, life event</displayName>
+</concept>
+<concept code="67197000">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with work</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with work (finding)</displayName>
+</concept>
+<concept code="67877007">
+<displayName lang="en" type="PT">Ecstasy</displayName>
+<displayName lang="en" type="FSN">Ecstasy (finding)</displayName>
+</concept>
+<concept code="70997004">
+<displayName lang="en" type="PT">Mild anxiety</displayName>
+<displayName lang="en" type="FSN">Mild anxiety (finding)</displayName>
+</concept>
+<concept code="74506000">
+<displayName lang="en" type="PT">Bereavement</displayName>
+<displayName lang="en" type="FSN">Bereavement due to life event (finding)</displayName>
+<displayName lang="en" type="SY">Bereavement due to life event</displayName>
+<displayName lang="en" type="SY">Bereavement reaction</displayName>
+<displayName lang="en" type="SY">Mourning</displayName>
+</concept>
+<concept code="75007009">
+<displayName lang="en" type="PT">Algophobia</displayName>
+<displayName lang="en" type="FSN">Algophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of pain</displayName>
+</concept>
+<concept code="75408008">
+<displayName lang="en" type="PT">Feeling angry</displayName>
+<displayName lang="en" type="FSN">Feeling angry (finding)</displayName>
+<displayName lang="en" type="SY">Anger</displayName>
+<displayName lang="en" type="SY">Angry</displayName>
+</concept>
+<concept code="76094002">
+<displayName lang="en" type="PT">Pleasurable affect</displayName>
+<displayName lang="en" type="FSN">Pleasurable affect (finding)</displayName>
+</concept>
+<concept code="76187003">
+<displayName lang="en" type="PT">Emotional immaturity</displayName>
+<displayName lang="en" type="FSN">Emotional immaturity (finding)</displayName>
+</concept>
+<concept code="77416000">
+<displayName lang="en" type="PT">Jealousy</displayName>
+<displayName lang="en" type="FSN">Jealousy (finding)</displayName>
+</concept>
+<concept code="79015004">
+<displayName lang="en" type="PT">Worried</displayName>
+<displayName lang="en" type="FSN">Worried (finding)</displayName>
+<displayName lang="en" type="SY">Anxious cognitions</displayName>
+<displayName lang="en" type="SY">Worry</displayName>
+<displayName lang="en" type="SY">Worrying</displayName>
+</concept>
+<concept code="79823003">
+<displayName lang="en" type="PT">Panic</displayName>
+<displayName lang="en" type="FSN">Panic (finding)</displayName>
+<displayName lang="en" type="SY">Panic reaction</displayName>
+<displayName lang="en" type="SY">Panic state</displayName>
+</concept>
+<concept code="80583007">
+<displayName lang="en" type="PT">Severe anxiety (panic)</displayName>
+<displayName lang="en" type="FSN">Severe anxiety (panic) (finding)</displayName>
+</concept>
+<concept code="80608005">
+<displayName lang="en" type="PT">Appropriate affect</displayName>
+<displayName lang="en" type="FSN">Appropriate affect (finding)</displayName>
+</concept>
+<concept code="81350009">
+<displayName lang="en" type="PT">Free-floating anxiety</displayName>
+<displayName lang="en" type="FSN">Free-floating anxiety (finding)</displayName>
+</concept>
+<concept code="81548002">
+<displayName lang="en" type="PT">Elevated mood</displayName>
+<displayName lang="en" type="FSN">Elevated mood (finding)</displayName>
+<displayName lang="en" type="SY">Mood raised</displayName>
+</concept>
+<concept code="82248001">
+<displayName lang="en" type="PT">Euthymic mood</displayName>
+<displayName lang="en" type="FSN">Euthymic mood (finding)</displayName>
+</concept>
+<concept code="83765003">
+<displayName lang="en" type="PT">Boredom</displayName>
+<displayName lang="en" type="FSN">Boredom (finding)</displayName>
+</concept>
+<concept code="85949006">
+<displayName lang="en" type="PT">Euphoria</displayName>
+<displayName lang="en" type="FSN">Euphoria (finding)</displayName>
+</concept>
+<concept code="87521009">
+<displayName lang="en" type="PT">Dispiritment</displayName>
+<displayName lang="en" type="FSN">Dispiritment (finding)</displayName>
+</concept>
+<concept code="87690005">
+<displayName lang="en" type="PT">Unpleasurable affect</displayName>
+<displayName lang="en" type="FSN">Unpleasurable affect (finding)</displayName>
+</concept>
+<concept code="88729006">
+<displayName lang="en" type="PT">Labile affect</displayName>
+<displayName lang="en" type="FSN">Labile affect (finding)</displayName>
+</concept>
+<concept code="89225005">
+<displayName lang="en" type="PT">Anxiety about blushing</displayName>
+<displayName lang="en" type="FSN">Anxiety about blushing (finding)</displayName>
+<displayName lang="en" type="SY">Fear of blushing</displayName>
+</concept>
+<concept code="89561004">
+<displayName lang="en" type="PT">Hypoemotivity</displayName>
+<displayName lang="en" type="FSN">Hypoemotivity (finding)</displayName>
+</concept>
+<concept code="102498003">
+<displayName lang="en" type="PT">Agony</displayName>
+<displayName lang="en" type="FSN">Agony (finding)</displayName>
+<displayName lang="en-GB" type="SY">Agonising state</displayName>
+<displayName lang="en" type="SY">Pangs of death</displayName>
+</concept>
+<concept code="102893002">
+<displayName lang="en" type="PT">Excitability</displayName>
+<displayName lang="en" type="FSN">Excitability (finding)</displayName>
+</concept>
+<concept code="102894008">
+<displayName lang="en" type="PT">Feeling calm</displayName>
+<displayName lang="en" type="FSN">Feeling calm (finding)</displayName>
+<displayName lang="en" type="SY">Feeling relaxed</displayName>
+<displayName lang="en" type="SY">Relaxed feeling</displayName>
+</concept>
+<concept code="102897001">
+<displayName lang="en" type="PT">Feeling intoxicated</displayName>
+<displayName lang="en" type="FSN">Feeling intoxicated (finding)</displayName>
+<displayName lang="en" type="SY">Feeling drunk</displayName>
+<displayName lang="en" type="SY">Feeling groggy</displayName>
+</concept>
+<concept code="102898006">
+<displayName lang="en" type="PT">Emotional relationship</displayName>
+<displayName lang="en" type="FSN">Emotional relationship (finding)</displayName>
+</concept>
+<concept code="102899003">
+<displayName lang="en" type="PT">Abusive emotional relationship</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship (finding)</displayName>
+</concept>
+<concept code="102900008">
+<displayName lang="en" type="PT">Abusive emotional relationship with parents</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with parents (finding)</displayName>
+</concept>
+<concept code="102901007">
+<displayName lang="en" type="PT">Abusive emotional relationship with spouse</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with spouse (finding)</displayName>
+</concept>
+<concept code="102902000">
+<displayName lang="en" type="PT">Abusive emotional relationship with husband</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with husband (finding)</displayName>
+</concept>
+<concept code="102903005">
+<displayName lang="en" type="PT">Abusive emotional relationship with wife</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with wife (finding)</displayName>
+</concept>
+<concept code="102904004">
+<displayName lang="en" type="PT">Abusive emotional relationship with child</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with child (finding)</displayName>
+</concept>
+<concept code="102912007">
+<displayName lang="en" type="PT">Fear of death</displayName>
+<displayName lang="en" type="FSN">Fear of death (finding)</displayName>
+<displayName lang="en" type="SY">Fear of dying</displayName>
+</concept>
+<concept code="102913002">
+<displayName lang="en" type="PT">Taphophobia</displayName>
+<displayName lang="en" type="FSN">Taphophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of being buried alive</displayName>
+</concept>
+<concept code="102915009">
+<displayName lang="en" type="PT">Nosophobia</displayName>
+<displayName lang="en" type="FSN">Nosophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of disease</displayName>
+<displayName lang="en" type="SY">Pathophobia</displayName>
+</concept>
+<concept code="102916005">
+<displayName lang="en" type="PT">Arachnophobia</displayName>
+<displayName lang="en" type="FSN">Arachnophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of spiders</displayName>
+</concept>
+<concept code="102917001">
+<displayName lang="en" type="PT">Fear of blood</displayName>
+<displayName lang="en" type="FSN">Fear of blood (finding)</displayName>
+</concept>
+<concept code="102918006">
+<displayName lang="en" type="PT">Microphobia</displayName>
+<displayName lang="en" type="FSN">Microphobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of microorganisms</displayName>
+</concept>
+<concept code="102919003">
+<displayName lang="en" type="PT">Fear of infection</displayName>
+<displayName lang="en" type="FSN">Fear of infection (finding)</displayName>
+</concept>
+<concept code="102920009">
+<displayName lang="en" type="PT">Fear of contracting HIV infection</displayName>
+<displayName lang="en" type="FSN">Fear of contracting human immunodeficiency virus infection (finding)</displayName>
+<displayName lang="en" type="SY">Fear of contracting human immunodeficiency virus infection</displayName>
+</concept>
+<concept code="102921008">
+<displayName lang="en" type="PT">Toxicophobia</displayName>
+<displayName lang="en" type="FSN">Toxicophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of poisoning</displayName>
+<displayName lang="en" type="SY">Iophobia</displayName>
+</concept>
+<concept code="102922001">
+<displayName lang="en" type="PT">Tocophobia</displayName>
+<displayName lang="en" type="FSN">Tocophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of childbirth</displayName>
+</concept>
+<concept code="102923006">
+<displayName lang="en" type="PT">Teratophobia</displayName>
+<displayName lang="en" type="FSN">Teratophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of birth of malformed fetus</displayName>
+<displayName lang="en" type="SY">Fear of birth of malformed foetus</displayName>
+</concept>
+<concept code="102924000">
+<displayName lang="en" type="PT">Pyrophobia</displayName>
+<displayName lang="en" type="FSN">Pyrophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of fire</displayName>
+</concept>
+<concept code="102925004">
+<displayName lang="en" type="PT">Astrapophobia</displayName>
+<displayName lang="en" type="FSN">Astrapophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of lightning</displayName>
+<displayName lang="en" type="SY">Keraunophobia</displayName>
+</concept>
+<concept code="102927007">
+<displayName lang="en" type="PT">Nyctophobia</displayName>
+<displayName lang="en" type="FSN">Nyctophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of darkness</displayName>
+<displayName lang="en" type="SY">Fear of night</displayName>
+</concept>
+<concept code="102928002">
+<displayName lang="en" type="PT">Theophobia</displayName>
+<displayName lang="en" type="FSN">Theophobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of God</displayName>
+</concept>
+<concept code="102929005">
+<displayName lang="en" type="PT">Androphobia</displayName>
+<displayName lang="en" type="FSN">Androphobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of men</displayName>
+</concept>
+<concept code="102930000">
+<displayName lang="en-GB" type="PT">Gynaephobia</displayName>
+<displayName lang="en" type="FSN">Gynephobia (finding)</displayName>
+<displayName lang="en" type="SY">Fear of women</displayName>
+</concept>
+<concept code="102931001">
+<displayName lang="en" type="PT">Fear of heart attack</displayName>
+<displayName lang="en" type="FSN">Fear of heart attack (finding)</displayName>
+</concept>
+<concept code="102932008">
+<displayName lang="en" type="PT">Fear of hypertension</displayName>
+<displayName lang="en" type="FSN">Fear of hypertension (finding)</displayName>
+</concept>
+<concept code="105483008">
+<displayName lang="en" type="PT">Overprotective parent</displayName>
+<displayName lang="en" type="FSN">Overprotective parent (finding)</displayName>
+<displayName lang="en" type="SY">Parental overprotection</displayName>
+</concept>
+<concept code="105484002">
+<displayName lang="en" type="PT">Midlife crisis</displayName>
+<displayName lang="en" type="FSN">Midlife crisis, life event (finding)</displayName>
+<displayName lang="en" type="SY">Midlife crisis, life event</displayName>
+</concept>
+<concept code="105485001">
+<displayName lang="en" type="PT">Family tension</displayName>
+<displayName lang="en" type="FSN">Family tension (finding)</displayName>
+<displayName lang="en" type="SY">Domestic stress</displayName>
+<displayName lang="en" type="SY">Stress at home</displayName>
+</concept>
+<concept code="105487009">
+<displayName lang="en" type="PT">Marital reconciliation</displayName>
+<displayName lang="en" type="FSN">Marital reconciliation, life event (finding)</displayName>
+<displayName lang="en" type="SY">Marital reconciliation, life event</displayName>
+</concept>
+<concept code="105493001">
+<displayName lang="en" type="PT">Retired</displayName>
+<displayName lang="en" type="FSN">Retired, life event (finding)</displayName>
+<displayName lang="en" type="SY">RT - Retired</displayName>
+<displayName lang="en" type="SY">Retired, life event</displayName>
+</concept>
+<concept code="105494007">
+<displayName lang="en" type="PT">Early retirement</displayName>
+<displayName lang="en" type="FSN">Early retirement, life event (finding)</displayName>
+<displayName lang="en" type="SY">Early retirement, life event</displayName>
+<displayName lang="en" type="SY">Retired early</displayName>
+</concept>
+<concept code="105495008">
+<displayName lang="en" type="PT">Forced retirement</displayName>
+<displayName lang="en" type="FSN">Forced retirement, life event (finding)</displayName>
+<displayName lang="en" type="SY">Forced retirement, life event</displayName>
+</concept>
+<concept code="105523009">
+<displayName lang="en" type="PT">Gambling</displayName>
+<displayName lang="en" type="FSN">Gambling (finding)</displayName>
+</concept>
+<concept code="105524003">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with travel</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with travel (finding)</displayName>
+</concept>
+<concept code="105525002">
+<displayName lang="en" type="PT">Foreign travel problem</displayName>
+<displayName lang="en" type="FSN">Foreign travel problem (finding)</displayName>
+</concept>
+<concept code="110357006">
+<displayName lang="en" type="PT">Unrealistic dental phobia</displayName>
+<displayName lang="en" type="FSN">Unrealistic dental phobia (finding)</displayName>
+<displayName lang="en" type="SY">Heightened dental fear</displayName>
+</concept>
+<concept code="110358001">
+<displayName lang="en" type="PT">Heightened global phobia</displayName>
+<displayName lang="en" type="FSN">Heightened global phobia (finding)</displayName>
+<displayName lang="en" type="SY">Heightened global fear</displayName>
+</concept>
+<concept code="110480002">
+<displayName lang="en" type="PT">Disturbance in life pattern associated with social status</displayName>
+<displayName lang="en" type="FSN">Disturbance in life pattern associated with social status (finding)</displayName>
+</concept>
+<concept code="112080002">
+<displayName lang="en" type="PT">Cheerful mood</displayName>
+<displayName lang="en" type="FSN">Cheerful mood (finding)</displayName>
+<displayName lang="en" type="SY">Bright in mood</displayName>
+<displayName lang="en" type="SY">Good mood</displayName>
+<displayName lang="en" type="SY">Happiness</displayName>
+<displayName lang="en" type="SY">Happy</displayName>
+<displayName lang="en" type="SY">High spirits</displayName>
+<displayName lang="en" type="SY">In good spirits</displayName>
+</concept>
+<concept code="129869000">
+<displayName lang="en" type="PT">Death anxiety</displayName>
+<displayName lang="en" type="FSN">Death anxiety (finding)</displayName>
+</concept>
+<concept code="130966005">
+<displayName lang="en" type="PT">Chronic sorrow</displayName>
+<displayName lang="en" type="FSN">Chronic sorrow following life event (finding)</displayName>
+<displayName lang="en" type="SY">Chronic sorrow following life event</displayName>
+</concept>
+<concept code="134416003">
+<displayName lang="en" type="PT">Normal mood symptoms</displayName>
+<displayName lang="en" type="FSN">Normal mood symptoms (finding)</displayName>
+</concept>
+<concept code="134417007">
+<displayName lang="en" type="PT">Normal mood</displayName>
+<displayName lang="en" type="FSN">Level of mood - normal (finding)</displayName>
+<displayName lang="en" type="SY">Level of mood - normal</displayName>
+</concept>
+<concept code="135793001">
+<displayName lang="en" type="PT">Moving away</displayName>
+<displayName lang="en" type="FSN">Moving away (finding)</displayName>
+</concept>
+<concept code="160787000">
+<displayName lang="en" type="PT">Marriage</displayName>
+<displayName lang="en" type="FSN">Marriage, life event (finding)</displayName>
+<displayName lang="en" type="SY">Marriage, life event</displayName>
+</concept>
+<concept code="160788005">
+<displayName lang="en" type="PT">Separation</displayName>
+<displayName lang="en" type="FSN">Marital separation, life event (finding)</displayName>
+<displayName lang="en" type="SY">Marital separation</displayName>
+<displayName lang="en" type="SY">Marital separation, life event</displayName>
+</concept>
+<concept code="160791005">
+<displayName lang="en" type="PT">Divorce proceedings pending</displayName>
+<displayName lang="en" type="FSN">Divorce proceedings pending, life event (finding)</displayName>
+<displayName lang="en" type="SY">Divorce proceedings pending, life event</displayName>
+</concept>
+<concept code="160848007">
+<displayName lang="en" type="PT">Left home</displayName>
+<displayName lang="en" type="FSN">Left home, life event (finding)</displayName>
+<displayName lang="en" type="SY">Left home, life event</displayName>
+</concept>
+<concept code="160849004">
+<displayName lang="en" type="PT">Returned home</displayName>
+<displayName lang="en" type="FSN">Returned home, life event (finding)</displayName>
+<displayName lang="en" type="SY">Returned home, life event</displayName>
+</concept>
+<concept code="160857001">
+<displayName lang="en" type="PT">Offspring leaves home</displayName>
+<displayName lang="en" type="FSN">Offspring leaves home (finding)</displayName>
+</concept>
+<concept code="160858006">
+<displayName lang="en" type="PT">Gain of new family member</displayName>
+<displayName lang="en" type="FSN">Gain of new family member, life event (finding)</displayName>
+<displayName lang="en" type="SY">Gain of new family member, life event</displayName>
+</concept>
+<concept code="160864004">
+<displayName lang="en" type="PT">Adoption of child</displayName>
+<displayName lang="en" type="FSN">Adoption of child (finding)</displayName>
+</concept>
+<concept code="160868001">
+<displayName lang="en" type="PT">Fostering of child</displayName>
+<displayName lang="en" type="FSN">Fostering of child, life event (finding)</displayName>
+<displayName lang="en" type="SY">Fostering of child, life event</displayName>
+</concept>
+<concept code="160876004">
+<displayName lang="en" type="PT">Child attends special school</displayName>
+<displayName lang="en" type="FSN">Child attends special school (finding)</displayName>
+</concept>
+<concept code="160878003">
+<displayName lang="en" type="PT">Paternity dispute</displayName>
+<displayName lang="en" type="FSN">Paternity dispute (finding)</displayName>
+</concept>
+<concept code="160882001">
+<displayName lang="en" type="PT">Child lives with grandparents</displayName>
+<displayName lang="en" type="FSN">Child lives with grandparents (finding)</displayName>
+</concept>
+<concept code="160898008">
+<displayName lang="en" type="PT">Medically retired</displayName>
+<displayName lang="en" type="FSN">Medically retired, life event (finding)</displayName>
+<displayName lang="en" type="SY">Ill health retirement</displayName>
+<displayName lang="en" type="SY">Medically retired, life event</displayName>
+<displayName lang="en" type="SY">Retired on medical grounds</displayName>
+<displayName lang="en" type="SY">Retirement on medical grounds</displayName>
+</concept>
+<concept code="160908003">
+<displayName lang="en" type="PT">Retired on investment income</displayName>
+<displayName lang="en" type="FSN">Retired on investment income, life event (finding)</displayName>
+<displayName lang="en" type="SY">Retired on investment income, life event</displayName>
+</concept>
+<concept code="162189001">
+<displayName lang="en" type="PT">General nervous symptoms</displayName>
+<displayName lang="en" type="FSN">General nervous symptoms (finding)</displayName>
+</concept>
+<concept code="162190005">
+<displayName lang="en" type="PT">No nervous symptoms</displayName>
+<displayName lang="en" type="FSN">No nervous symptoms (finding)</displayName>
+</concept>
+<concept code="162318009">
+<displayName lang="en" type="PT">Life crisis</displayName>
+<displayName lang="en" type="FSN">Life crisis, life event (finding)</displayName>
+<displayName lang="en" type="SY">Life crisis, life event</displayName>
+</concept>
+<concept code="162718006">
+<displayName lang="en" type="PT">O/E - distressed</displayName>
+<displayName lang="en" type="FSN">On examination - distressed (finding)</displayName>
+<displayName lang="en" type="SY">On examination - distressed</displayName>
+</concept>
+<concept code="162719003">
+<displayName lang="en" type="PT">O/E - apathetic</displayName>
+<displayName lang="en" type="FSN">On examination - apathetic (finding)</displayName>
+<displayName lang="en" type="SY">On examination - apathetic</displayName>
+</concept>
+<concept code="162720009">
+<displayName lang="en" type="PT">O/E - afraid</displayName>
+<displayName lang="en" type="FSN">On examination - afraid (finding)</displayName>
+<displayName lang="en" type="SY">On examination - afraid</displayName>
+</concept>
+<concept code="162721008">
+<displayName lang="en" type="PT">O/E - agitated</displayName>
+<displayName lang="en" type="FSN">On examination - agitated (finding)</displayName>
+<displayName lang="en" type="SY">On examination - agitated</displayName>
+</concept>
+<concept code="162723006">
+<displayName lang="en" type="PT">O/E - anxious</displayName>
+<displayName lang="en" type="FSN">On examination - anxious (finding)</displayName>
+<displayName lang="en" type="SY">On examination - anxious</displayName>
+</concept>
+<concept code="162724000">
+<displayName lang="en" type="PT">O/E - nervous</displayName>
+<displayName lang="en" type="FSN">On examination - nervous (finding)</displayName>
+<displayName lang="en" type="SY">On examination - nervous</displayName>
+</concept>
+<concept code="162726003">
+<displayName lang="en" type="PT">O/E - angry</displayName>
+<displayName lang="en" type="FSN">On examination - angry (finding)</displayName>
+<displayName lang="en" type="SY">On examination - angry</displayName>
+</concept>
+<concept code="162727007">
+<displayName lang="en" type="PT">O/E - elated</displayName>
+<displayName lang="en" type="FSN">On examination - elated (finding)</displayName>
+<displayName lang="en" type="SY">On examination - elated</displayName>
+</concept>
+<concept code="162728002">
+<displayName lang="en" type="PT">O/E - content</displayName>
+<displayName lang="en" type="FSN">On examination - content (finding)</displayName>
+<displayName lang="en" type="SY">On examination - content</displayName>
+</concept>
+<concept code="191664002">
+<displayName lang="en" type="PT">Rebound mood swings</displayName>
+<displayName lang="en" type="FSN">Rebound mood swings (finding)</displayName>
+</concept>
+<concept code="191708009">
+<displayName lang="en" type="PT">Chronic anxiety</displayName>
+<displayName lang="en" type="FSN">Chronic anxiety (finding)</displayName>
+</concept>
+<concept code="191709001">
+<displayName lang="en" type="PT">Recurrent anxiety</displayName>
+<displayName lang="en" type="FSN">Recurrent anxiety (finding)</displayName>
+</concept>
+<concept code="191728008">
+<displayName lang="en" type="PT">Fear of crowds</displayName>
+<displayName lang="en" type="FSN">Fear of crowds (finding)</displayName>
+<displayName lang="en" type="SY">Fear of crowded places</displayName>
+</concept>
+<concept code="191733007">
+<displayName lang="en" type="PT">Fear of pregnancy</displayName>
+<displayName lang="en" type="FSN">Fear of pregnancy (finding)</displayName>
+<displayName lang="en" type="SY">Cyesiophobia</displayName>
+</concept>
+<concept code="198280005">
+<displayName lang="en" type="PT">Parasitophobia</displayName>
+<displayName lang="en" type="FSN">Parasitophobia (finding)</displayName>
+</concept>
+<concept code="198288003">
+<displayName lang="en" type="PT">Anxiety state</displayName>
+<displayName lang="en" type="FSN">Anxiety state (finding)</displayName>
+</concept>
+<concept code="207363009">
+<displayName lang="en" type="PT">Anxiety neurosis</displayName>
+<displayName lang="en" type="FSN">Anxiety neurosis (finding)</displayName>
+</concept>
+<concept code="214264003">
+<displayName lang="en" type="PT">Lethargy</displayName>
+<displayName lang="en" type="FSN">Lethargy (finding)</displayName>
+<displayName lang="en" type="SY">Lack of vitality</displayName>
+<displayName lang="en" type="SY">Lethargic</displayName>
+</concept>
+<concept code="224159005">
+<displayName lang="en" type="PT">Prisoner of war in Japan</displayName>
+<displayName lang="en" type="FSN">Prisoner of war in Japan, life event (finding)</displayName>
+<displayName lang="en" type="SY">Prisoner of war - Japan</displayName>
+<displayName lang="en" type="SY">Prisoner of war in Japan, life event</displayName>
+</concept>
+<concept code="224160000">
+<displayName lang="en" type="PT">Prisoner of war in Germany</displayName>
+<displayName lang="en" type="FSN">Prisoner of war in Germany, life event (finding)</displayName>
+<displayName lang="en" type="SY">Prisoner of war - Germany</displayName>
+<displayName lang="en" type="SY">Prisoner of war in Germany, life event</displayName>
+</concept>
+<concept code="224161001">
+<displayName lang="en" type="PT">Offspring leaving home</displayName>
+<displayName lang="en" type="FSN">Offspring leaving home, life event (finding)</displayName>
+<displayName lang="en" type="SY">Children leaving home</displayName>
+<displayName lang="en" type="SY">Offspring leaving home, life event</displayName>
+</concept>
+<concept code="224162008">
+<displayName lang="en" type="PT">Impending marriage</displayName>
+<displayName lang="en" type="FSN">Impending marriage, life event (finding)</displayName>
+<displayName lang="en" type="SY">Impending marriage, life event</displayName>
+</concept>
+<concept code="224163003">
+<displayName lang="en" type="PT">Recent marriage</displayName>
+<displayName lang="en" type="FSN">Recent marriage, life event (finding)</displayName>
+<displayName lang="en" type="SY">Recent marriage, life event</displayName>
+</concept>
+<concept code="224969003">
+<displayName lang="en" type="PT">Feeling excited</displayName>
+<displayName lang="en" type="FSN">Feeling excited (finding)</displayName>
+</concept>
+<concept code="224970002">
+<displayName lang="en" type="PT">Feeling wound up</displayName>
+<displayName lang="en" type="FSN">Feeling wound up (finding)</displayName>
+</concept>
+<concept code="224971003">
+<displayName lang="en" type="PT">Feeling aggressive</displayName>
+<displayName lang="en" type="FSN">Feeling aggressive (finding)</displayName>
+</concept>
+<concept code="224972005">
+<displayName lang="en" type="PT">Feeling bitter</displayName>
+<displayName lang="en" type="FSN">Feeling bitter (finding)</displayName>
+<displayName lang="en" type="SY">Bitterness</displayName>
+</concept>
+<concept code="224973000">
+<displayName lang="en" type="PT">Feeling frustrated</displayName>
+<displayName lang="en" type="FSN">Feeling frustrated (finding)</displayName>
+<displayName lang="en" type="SY">Frustration</displayName>
+</concept>
+<concept code="224975007">
+<displayName lang="en" type="PT">Feeling like wanting to escape</displayName>
+<displayName lang="en" type="FSN">Feeling like wanting to escape (finding)</displayName>
+</concept>
+<concept code="224976008">
+<displayName lang="en" type="PT">Feeling trapped</displayName>
+<displayName lang="en" type="FSN">Feeling trapped (finding)</displayName>
+</concept>
+<concept code="224977004">
+<displayName lang="en" type="PT">Feeling upset</displayName>
+<displayName lang="en" type="FSN">Feeling upset (finding)</displayName>
+<displayName lang="en" type="SY">Distressed</displayName>
+<displayName lang="en" type="SY">Feeling distress</displayName>
+<displayName lang="en" type="SY">Upset</displayName>
+</concept>
+<concept code="224978009">
+<displayName lang="en" type="PT">Feeling relief</displayName>
+<displayName lang="en" type="FSN">Feeling relief (finding)</displayName>
+<displayName lang="en" type="SY">Relief</displayName>
+</concept>
+<concept code="224999007">
+<displayName lang="en" type="PT">Does not understand own emotions</displayName>
+<displayName lang="en" type="FSN">Does not understand own emotions (finding)</displayName>
+<displayName lang="en" type="SY">Does not understand own feelings</displayName>
+</concept>
+<concept code="225003009">
+<displayName lang="en" type="PT">Immature emotional adjustment</displayName>
+<displayName lang="en" type="FSN">Immature emotional adjustment (finding)</displayName>
+</concept>
+<concept code="225005002">
+<displayName lang="en" type="PT">Unable to control anger</displayName>
+<displayName lang="en" type="FSN">Unable to control anger (finding)</displayName>
+</concept>
+<concept code="225006001">
+<displayName lang="en" type="PT">Becomes angry very easily</displayName>
+<displayName lang="en" type="FSN">Becomes angry very easily (finding)</displayName>
+</concept>
+<concept code="225009008">
+<displayName lang="en" type="PT">Feeling lost</displayName>
+<displayName lang="en" type="FSN">Feeling lost (finding)</displayName>
+</concept>
+<concept code="225010003">
+<displayName lang="en" type="PT">Feeling a failure</displayName>
+<displayName lang="en" type="FSN">Feeling a failure (finding)</displayName>
+</concept>
+<concept code="225011004">
+<displayName lang="en" type="PT">Feeling dirty</displayName>
+<displayName lang="en" type="FSN">Feeling dirty (finding)</displayName>
+</concept>
+<concept code="225012006">
+<displayName lang="en" type="PT">Feeling ashamed</displayName>
+<displayName lang="en" type="FSN">Feeling ashamed (finding)</displayName>
+</concept>
+<concept code="225013001">
+<displayName lang="en" type="PT">Feeling bad</displayName>
+<displayName lang="en" type="FSN">Feeling bad (finding)</displayName>
+</concept>
+<concept code="225014007">
+<displayName lang="en" type="PT">Feeling empty</displayName>
+<displayName lang="en" type="FSN">Feeling empty (finding)</displayName>
+</concept>
+<concept code="225015008">
+<displayName lang="en" type="PT">Feeling abandoned</displayName>
+<displayName lang="en" type="FSN">Feeling abandoned (finding)</displayName>
+</concept>
+<concept code="225017000">
+<displayName lang="en" type="PT">Feeling unwanted</displayName>
+<displayName lang="en" type="FSN">Feeling unwanted (finding)</displayName>
+</concept>
+<concept code="225018005">
+<displayName lang="en" type="PT">Feeling unloved</displayName>
+<displayName lang="en" type="FSN">Feeling unloved (finding)</displayName>
+</concept>
+<concept code="225019002">
+<displayName lang="en" type="PT">Feeling emotionally hurt</displayName>
+<displayName lang="en" type="FSN">Feeling emotionally hurt (finding)</displayName>
+</concept>
+<concept code="225020008">
+<displayName lang="en" type="PT">Grieving before death</displayName>
+<displayName lang="en" type="FSN">Grieving before death (finding)</displayName>
+</concept>
+<concept code="225021007">
+<displayName lang="en" type="PT">Abnormal grief reaction</displayName>
+<displayName lang="en" type="FSN">Abnormal grief reaction to life event (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal bereavement reaction</displayName>
+<displayName lang="en" type="SY">Abnormal grief reaction to life event</displayName>
+<displayName lang="en" type="SY">Atypical grief reaction</displayName>
+</concept>
+<concept code="225022000">
+<displayName lang="en" type="PT">Adapting to loss following bereavement</displayName>
+<displayName lang="en" type="FSN">Adapting to loss following bereavement (finding)</displayName>
+</concept>
+<concept code="225023005">
+<displayName lang="en" type="PT">Working through the pain of grief</displayName>
+<displayName lang="en" type="FSN">Working through the pain of grief (finding)</displayName>
+</concept>
+<concept code="225024004">
+<displayName lang="en" type="PT">Guilt stage of grief</displayName>
+<displayName lang="en" type="FSN">Guilt stage of grief (finding)</displayName>
+</concept>
+<concept code="225025003">
+<displayName lang="en" type="PT">Despair stage of grief</displayName>
+<displayName lang="en" type="FSN">Despair stage of grief (finding)</displayName>
+</concept>
+<concept code="225026002">
+<displayName lang="en" type="PT">Anger stage of grief</displayName>
+<displayName lang="en" type="FSN">Anger stage of grief (finding)</displayName>
+</concept>
+<concept code="225027006">
+<displayName lang="en" type="PT">Reflecting stage of grief</displayName>
+<displayName lang="en" type="FSN">Reflecting stage of grief (finding)</displayName>
+</concept>
+<concept code="225028001">
+<displayName lang="en" type="PT">Coming to terms with loss</displayName>
+<displayName lang="en" type="FSN">Coming to terms with loss (finding)</displayName>
+<displayName lang="en" type="SY">Adapting to loss</displayName>
+</concept>
+<concept code="225029009">
+<displayName lang="en" type="PT">Acceptance stage of grief</displayName>
+<displayName lang="en" type="FSN">Acceptance stage of grief (finding)</displayName>
+</concept>
+<concept code="225030004">
+<displayName lang="en" type="PT">Bargaining stage of grief</displayName>
+<displayName lang="en" type="FSN">Bargaining stage of grief (finding)</displayName>
+</concept>
+<concept code="225031000">
+<displayName lang="en" type="PT">Denial stage of grief</displayName>
+<displayName lang="en" type="FSN">Denial stage of grief (finding)</displayName>
+</concept>
+<concept code="225455004">
+<displayName lang="en" type="PT">Sociable mood</displayName>
+<displayName lang="en" type="FSN">Sociable mood (finding)</displayName>
+</concept>
+<concept code="225457007">
+<displayName lang="en" type="PT">Feeling suicidal</displayName>
+<displayName lang="en" type="FSN">Feeling suicidal (finding)</displayName>
+</concept>
+<concept code="225458002">
+<displayName lang="en" type="PT">Caring towards others</displayName>
+<displayName lang="en" type="FSN">Caring towards others (finding)</displayName>
+</concept>
+<concept code="225459005">
+<displayName lang="en" type="PT">Emotionally warm</displayName>
+<displayName lang="en" type="FSN">Emotionally warm (finding)</displayName>
+</concept>
+<concept code="225614008">
+<displayName lang="en" type="PT">Unexpected bereavement</displayName>
+<displayName lang="en" type="FSN">Unexpected bereavement due to life event (finding)</displayName>
+<displayName lang="en" type="SY">Unexpected bereavement due to life event</displayName>
+</concept>
+<concept code="225615009">
+<displayName lang="en" type="PT">Sudden bereavement</displayName>
+<displayName lang="en" type="FSN">Sudden bereavement due to life event (finding)</displayName>
+<displayName lang="en" type="SY">Sudden bereavement due to life event</displayName>
+</concept>
+<concept code="225624000">
+<displayName lang="en" type="PT">Panic attack</displayName>
+<displayName lang="en" type="FSN">Panic attack (finding)</displayName>
+</concept>
+<concept code="225625004">
+<displayName lang="en" type="PT">Fear of walking</displayName>
+<displayName lang="en" type="FSN">Fear of walking (finding)</displayName>
+</concept>
+<concept code="225626003">
+<displayName lang="en-GB" type="PT">Fear of mobilising</displayName>
+<displayName lang="en" type="FSN">Fear of mobilizing (finding)</displayName>
+</concept>
+<concept code="225627007">
+<displayName lang="en" type="PT">Fear of disconnection from ventilator</displayName>
+<displayName lang="en" type="FSN">Fear of disconnection from ventilator (finding)</displayName>
+</concept>
+<concept code="225628002">
+<displayName lang="en" type="PT">Fear of being left alone during period of dependence</displayName>
+<displayName lang="en" type="FSN">Fear of being left alone during period of dependence (finding)</displayName>
+</concept>
+<concept code="225629005">
+<displayName lang="en" type="PT">Fear of being left alone</displayName>
+<displayName lang="en" type="FSN">Fear of being left alone (finding)</displayName>
+</concept>
+<concept code="225630000">
+<displayName lang="en" type="PT">Fear of dentist</displayName>
+<displayName lang="en" type="FSN">Fear of dentist (finding)</displayName>
+</concept>
+<concept code="225631001">
+<displayName lang="en" type="PT">Fear of not coping with treatment</displayName>
+<displayName lang="en" type="FSN">Fear of not coping with treatment (finding)</displayName>
+</concept>
+<concept code="225632008">
+<displayName lang="en" type="PT">Fear of lifts</displayName>
+<displayName lang="en" type="FSN">Fear of lifts (finding)</displayName>
+<displayName lang="en" type="SY">Fear of elevators</displayName>
+</concept>
+<concept code="225633003">
+<displayName lang="en" type="PT">Fear of thunderstorm</displayName>
+<displayName lang="en" type="FSN">Fear of thunderstorm (finding)</displayName>
+<displayName lang="en" type="SY">Brontophobia</displayName>
+<displayName lang="en" type="SY">Fear of thunder</displayName>
+<displayName lang="en" type="SY">Tonitrophobia</displayName>
+</concept>
+<concept code="225634009">
+<displayName lang="en" type="PT">Terrified</displayName>
+<displayName lang="en" type="FSN">Terrified (finding)</displayName>
+<displayName lang="en" type="SY">Heightened fear</displayName>
+</concept>
+<concept code="225635005">
+<displayName lang="en" type="PT">Anxiety about treatment</displayName>
+<displayName lang="en" type="FSN">Anxiety about treatment (finding)</displayName>
+</concept>
+<concept code="225636006">
+<displayName lang="en" type="PT">Anxiety about forced dependence</displayName>
+<displayName lang="en" type="FSN">Anxiety about forced dependence (finding)</displayName>
+</concept>
+<concept code="225637002">
+<displayName lang="en" type="PT">Anxiety about loss of control</displayName>
+<displayName lang="en" type="FSN">Anxiety about loss of control (finding)</displayName>
+</concept>
+<concept code="225638007">
+<displayName lang="en" type="PT">Anxiety about resuming sexual relations</displayName>
+<displayName lang="en" type="FSN">Anxiety about resuming sexual relations (finding)</displayName>
+<displayName lang="en" type="SY">Worried about resuming sexual relations</displayName>
+</concept>
+<concept code="225639004">
+<displayName lang="en" type="PT">Worried about not coping with baby</displayName>
+<displayName lang="en" type="FSN">Worried about not coping with baby (finding)</displayName>
+</concept>
+<concept code="225640002">
+<displayName lang="en" type="PT">Worried about being a bad father</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad father (finding)</displayName>
+</concept>
+<concept code="225641003">
+<displayName lang="en" type="PT">Worried about being a bad mother</displayName>
+<displayName lang="en" type="FSN">Worried about being a bad mother (finding)</displayName>
+</concept>
+<concept code="225642005">
+<displayName lang="en" type="PT">Anxiety about not coping with parenthood</displayName>
+<displayName lang="en" type="FSN">Anxiety about not coping with parenthood (finding)</displayName>
+<displayName lang="en" type="SY">Worried about not coping with parenthood</displayName>
+</concept>
+<concept code="225643000">
+<displayName lang="en" type="PT">Anxiety about making mistakes</displayName>
+<displayName lang="en" type="FSN">Anxiety about making mistakes (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about getting it wrong</displayName>
+</concept>
+<concept code="225644006">
+<displayName lang="en" type="PT">Anxiety about altered body image</displayName>
+<displayName lang="en" type="FSN">Anxiety about altered body image (finding)</displayName>
+</concept>
+<concept code="225645007">
+<displayName lang="en" type="PT">Fear of wetting self in public</displayName>
+<displayName lang="en" type="FSN">Fear of wetting self in public (finding)</displayName>
+</concept>
+<concept code="225646008">
+<displayName lang="en" type="PT">Fear of losing control of bowels in public</displayName>
+<displayName lang="en" type="FSN">Fear of losing control of bowels in public (finding)</displayName>
+</concept>
+<concept code="225648009">
+<displayName lang="en" type="PT">Optimistic</displayName>
+<displayName lang="en" type="FSN">Optimistic (finding)</displayName>
+</concept>
+<concept code="225649001">
+<displayName lang="en" type="PT">Hopeful for the future</displayName>
+<displayName lang="en" type="FSN">Hopeful for the future (finding)</displayName>
+</concept>
+<concept code="225650001">
+<displayName lang="en" type="PT">Emotionally subdued</displayName>
+<displayName lang="en" type="FSN">Emotionally subdued (finding)</displayName>
+</concept>
+<concept code="225652009">
+<displayName lang="en" type="PT">Lack of emotional response</displayName>
+<displayName lang="en" type="FSN">Lack of emotional response (finding)</displayName>
+</concept>
+<concept code="225653004">
+<displayName lang="en" type="PT">Easily upset</displayName>
+<displayName lang="en" type="FSN">Easily upset (finding)</displayName>
+</concept>
+<concept code="225654005">
+<displayName lang="en" type="PT">Temperamental</displayName>
+<displayName lang="en" type="FSN">Temperamental (finding)</displayName>
+<displayName lang="en" type="SY">Difficult temperament</displayName>
+</concept>
+<concept code="225656007">
+<displayName lang="en" type="PT">Unpredictable in mood</displayName>
+<displayName lang="en" type="FSN">Unpredictable in mood (finding)</displayName>
+</concept>
+<concept code="225657003">
+<displayName lang="en" type="PT">Volatile Mood</displayName>
+<displayName lang="en" type="FSN">Volatile Mood (finding)</displayName>
+</concept>
+<concept code="225658008">
+<displayName lang="en" type="PT">Mood stable</displayName>
+<displayName lang="en" type="FSN">Mood stable (finding)</displayName>
+<displayName lang="en" type="SY">Mood is constant</displayName>
+<displayName lang="en" type="SY">Settled in mood</displayName>
+</concept>
+<concept code="225872002">
+<displayName lang="en" type="PT">Patient aware of carer&apos;s feelings about dying</displayName>
+<displayName lang="en" type="FSN">Patient aware of carer&apos;s feelings about dying (finding)</displayName>
+</concept>
+<concept code="225875000">
+<displayName lang="en" type="PT">Thoughts about dying</displayName>
+<displayName lang="en" type="FSN">Thoughts about dying (finding)</displayName>
+</concept>
+<concept code="225876004">
+<displayName lang="en" type="PT">Wanting to die</displayName>
+<displayName lang="en" type="FSN">Wanting to die (finding)</displayName>
+<displayName lang="en" type="SY">Would rather be dead</displayName>
+</concept>
+<concept code="231501003">
+<displayName lang="en" type="PT">Needle phobia</displayName>
+<displayName lang="en" type="FSN">Needle phobia (finding)</displayName>
+</concept>
+<concept code="231502005">
+<displayName lang="en" type="PT">Situational panic attack</displayName>
+<displayName lang="en" type="FSN">Situational panic attack (finding)</displayName>
+</concept>
+<concept code="231503000">
+<displayName lang="en" type="PT">Non-situational panic attack</displayName>
+<displayName lang="en" type="FSN">Non-situational panic attack (finding)</displayName>
+<displayName lang="en" type="SY">Spontaneous panic attack</displayName>
+<displayName lang="en" type="SY">Unexpected panic attack</displayName>
+</concept>
+<concept code="231506008">
+<displayName lang="en" type="PT">Anxiety hysteria</displayName>
+<displayName lang="en" type="FSN">Anxiety hysteria (finding)</displayName>
+</concept>
+<concept code="231507004">
+<displayName lang="en" type="PT">Stage fright</displayName>
+<displayName lang="en" type="FSN">Stage fright (finding)</displayName>
+</concept>
+<concept code="231508009">
+<displayName lang="en" type="PT">Examination fear</displayName>
+<displayName lang="en" type="FSN">Examination fear (finding)</displayName>
+</concept>
+<concept code="247672006">
+<displayName lang="en" type="PT">Delusional mood</displayName>
+<displayName lang="en" type="FSN">Delusional mood (finding)</displayName>
+</concept>
+<concept code="247673001">
+<displayName lang="en" type="PT">Delusional perplexity</displayName>
+<displayName lang="en" type="FSN">Delusional perplexity (finding)</displayName>
+</concept>
+<concept code="247694003">
+<displayName lang="en" type="PT">Passivity of volitional acts</displayName>
+<displayName lang="en" type="FSN">Passivity of volitional acts (finding)</displayName>
+<displayName lang="en" type="SY">Delusion of control of actions</displayName>
+</concept>
+<concept code="247775003">
+<displayName lang="en" type="PT">Feeling of being slowed down</displayName>
+<displayName lang="en" type="FSN">Feeling of being slowed down (finding)</displayName>
+<displayName lang="en" type="SY">Subjective feelings of retardation</displayName>
+</concept>
+<concept code="247779009">
+<displayName lang="en" type="PT">Excessive energy</displayName>
+<displayName lang="en" type="FSN">Excessive energy (finding)</displayName>
+</concept>
+<concept code="247784003">
+<displayName lang="en" type="PT">Overoptimism</displayName>
+<displayName lang="en" type="FSN">Overoptimism (finding)</displayName>
+</concept>
+<concept code="247792007">
+<displayName lang="en" type="PT">Suppressed emotion</displayName>
+<displayName lang="en" type="FSN">Suppressed emotion (finding)</displayName>
+</concept>
+<concept code="247795009">
+<displayName lang="en" type="PT">Tedium vitae</displayName>
+<displayName lang="en" type="FSN">Tedium vitae (finding)</displayName>
+<displayName lang="en" type="SY">Bored with life</displayName>
+<displayName lang="en" type="SY">Tired of life</displayName>
+</concept>
+<concept code="247796005">
+<displayName lang="en" type="PT">Loss of capacity for enjoyment</displayName>
+<displayName lang="en" type="FSN">Loss of capacity for enjoyment (finding)</displayName>
+<displayName lang="en" type="SY">Diminished pleasure</displayName>
+<displayName lang="en" type="SY">Loss of pleasure</displayName>
+</concept>
+<concept code="247798006">
+<displayName lang="en" type="PT">Loss of hope for the future</displayName>
+<displayName lang="en" type="FSN">Loss of hope for the future (finding)</displayName>
+<displayName lang="en" type="SY">Cannot see a future</displayName>
+<displayName lang="en" type="SY">Feels there is no future</displayName>
+<displayName lang="en" type="SY">Negative about the future</displayName>
+<displayName lang="en" type="SY">No hope for the future</displayName>
+</concept>
+<concept code="247799003">
+<displayName lang="en" type="PT">Pessimistic</displayName>
+<displayName lang="en" type="FSN">Pessimistic (finding)</displayName>
+<displayName lang="en" type="SY">Pessimism</displayName>
+<displayName lang="en" type="SY">Pessimistic about future</displayName>
+</concept>
+<concept code="247800004">
+<displayName lang="en" type="PT">Diurnal variation of mood</displayName>
+<displayName lang="en" type="FSN">Diurnal variation of mood (finding)</displayName>
+</concept>
+<concept code="247801000">
+<displayName lang="en" type="PT">Depression worse in morning</displayName>
+<displayName lang="en" type="FSN">Depression worse in morning (finding)</displayName>
+<displayName lang="en" type="SY">Feels low in the mornings</displayName>
+</concept>
+<concept code="247802007">
+<displayName lang="en" type="PT">Depression worse later in day</displayName>
+<displayName lang="en" type="FSN">Depression worse later in day (finding)</displayName>
+</concept>
+<concept code="247805009">
+<displayName lang="en" type="PT">Anxiety and fear</displayName>
+<displayName lang="en" type="FSN">Anxiety and fear (finding)</displayName>
+</concept>
+<concept code="247806005">
+<displayName lang="en" type="PT">Ill-at-ease</displayName>
+<displayName lang="en" type="FSN">Ill-at-ease (finding)</displayName>
+<displayName lang="en" type="SY">Uneasy</displayName>
+</concept>
+<concept code="247808006">
+<displayName lang="en" type="PT">Anxiety about body function or health</displayName>
+<displayName lang="en" type="FSN">Anxiety about body function or health (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about health</displayName>
+</concept>
+<concept code="247809003">
+<displayName lang="en" type="PT">Fear of losing control of bowels</displayName>
+<displayName lang="en" type="FSN">Fear of losing control of bowels (finding)</displayName>
+</concept>
+<concept code="247810008">
+<displayName lang="en" type="PT">Fear of wetting self</displayName>
+<displayName lang="en" type="FSN">Fear of wetting self (finding)</displayName>
+</concept>
+<concept code="247811007">
+<displayName lang="en" type="PT">Fear of vomiting in public</displayName>
+<displayName lang="en" type="FSN">Fear of vomiting in public (finding)</displayName>
+</concept>
+<concept code="247812000">
+<displayName lang="en" type="PT">Fear of having a fit</displayName>
+<displayName lang="en" type="FSN">Fear of having a fit (finding)</displayName>
+</concept>
+<concept code="247813005">
+<displayName lang="en" type="PT">Fear of choking</displayName>
+<displayName lang="en" type="FSN">Fear of choking (finding)</displayName>
+<displayName lang="en" type="SY">Phobia of choking</displayName>
+</concept>
+<concept code="247815003">
+<displayName lang="en" type="PT">Fear of swallowing</displayName>
+<displayName lang="en" type="FSN">Fear of swallowing (finding)</displayName>
+</concept>
+<concept code="247816002">
+<displayName lang="en" type="PT">Fear of collapsing</displayName>
+<displayName lang="en" type="FSN">Fear of collapsing (finding)</displayName>
+</concept>
+<concept code="247817006">
+<displayName lang="en" type="PT">Fear of fainting</displayName>
+<displayName lang="en" type="FSN">Fear of fainting (finding)</displayName>
+</concept>
+<concept code="247818001">
+<displayName lang="en" type="PT">Fear of having a heart attack</displayName>
+<displayName lang="en" type="FSN">Fear of having a heart attack (finding)</displayName>
+</concept>
+<concept code="247819009">
+<displayName lang="en" type="PT">Fear of shaking</displayName>
+<displayName lang="en" type="FSN">Fear of shaking (finding)</displayName>
+</concept>
+<concept code="247820003">
+<displayName lang="en" type="PT">Fear of sweating</displayName>
+<displayName lang="en" type="FSN">Fear of sweating (finding)</displayName>
+</concept>
+<concept code="247822006">
+<displayName lang="en" type="PT">Fear of going crazy</displayName>
+<displayName lang="en" type="FSN">Fear of going crazy (finding)</displayName>
+<displayName lang="en" type="SY">Fear of going insane</displayName>
+<displayName lang="en" type="SY">Fear of going mad</displayName>
+</concept>
+<concept code="247823001">
+<displayName lang="en" type="PT">Fear of losing emotional control</displayName>
+<displayName lang="en" type="FSN">Fear of losing emotional control (finding)</displayName>
+</concept>
+<concept code="247824007">
+<displayName lang="en" type="PT">Fear of becoming fat</displayName>
+<displayName lang="en" type="FSN">Fear of becoming fat (finding)</displayName>
+<displayName lang="en" type="SY">Fear of obesity</displayName>
+</concept>
+<concept code="247825008">
+<displayName lang="en-GB" type="PT">Anxiety about behaviour or performance</displayName>
+<displayName lang="en" type="FSN">Anxiety about behavior or performance (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about social functioning</displayName>
+</concept>
+<concept code="247826009">
+<displayName lang="en" type="PT">Fear of appearing ridiculous</displayName>
+<displayName lang="en" type="FSN">Fear of appearing ridiculous (finding)</displayName>
+<displayName lang="en" type="SY">Fear of appearing foolish</displayName>
+</concept>
+<concept code="247827000">
+<displayName lang="en" type="PT">Fear of saying the wrong thing</displayName>
+<displayName lang="en" type="FSN">Fear of saying the wrong thing (finding)</displayName>
+</concept>
+<concept code="247828005">
+<displayName lang="en" type="PT">Fear of going out</displayName>
+<displayName lang="en" type="FSN">Fear of going out (finding)</displayName>
+</concept>
+<concept code="247829002">
+<displayName lang="en" type="PT">Fear of empty streets</displayName>
+<displayName lang="en" type="FSN">Fear of empty streets (finding)</displayName>
+</concept>
+<concept code="247830007">
+<displayName lang="en" type="PT">Fear of open spaces</displayName>
+<displayName lang="en" type="FSN">Fear of open spaces (finding)</displayName>
+</concept>
+<concept code="247831006">
+<displayName lang="en" type="PT">Fear of crossing streets</displayName>
+<displayName lang="en" type="FSN">Fear of crossing streets (finding)</displayName>
+</concept>
+<concept code="247832004">
+<displayName lang="en" type="PT">Social fear</displayName>
+<displayName lang="en" type="FSN">Social fear (finding)</displayName>
+</concept>
+<concept code="247833009">
+<displayName lang="en" type="PT">Fear of activities in public</displayName>
+<displayName lang="en" type="FSN">Fear of activities in public (finding)</displayName>
+</concept>
+<concept code="247834003">
+<displayName lang="en" type="PT">Fear of eating in public</displayName>
+<displayName lang="en" type="FSN">Fear of eating in public (finding)</displayName>
+</concept>
+<concept code="247835002">
+<displayName lang="en" type="PT">Fear of public speaking</displayName>
+<displayName lang="en" type="FSN">Fear of public speaking (finding)</displayName>
+</concept>
+<concept code="247836001">
+<displayName lang="en" type="PT">Fear of using public toilets</displayName>
+<displayName lang="en" type="FSN">Fear of using public toilets (finding)</displayName>
+</concept>
+<concept code="247837005">
+<displayName lang="en" type="PT">Fear of writing in public</displayName>
+<displayName lang="en" type="FSN">Fear of writing in public (finding)</displayName>
+</concept>
+<concept code="247838000">
+<displayName lang="en" type="PT">Fear of social group activities</displayName>
+<displayName lang="en" type="FSN">Fear of social group activities (finding)</displayName>
+</concept>
+<concept code="247839008">
+<displayName lang="en" type="PT">Fear of being in a small group</displayName>
+<displayName lang="en" type="FSN">Fear of being in a small group (finding)</displayName>
+</concept>
+<concept code="247840005">
+<displayName lang="en" type="PT">Fear of social gatherings</displayName>
+<displayName lang="en" type="FSN">Fear of social gatherings (finding)</displayName>
+</concept>
+<concept code="247841009">
+<displayName lang="en" type="PT">Fear of speaking on the phone</displayName>
+<displayName lang="en" type="FSN">Fear of speaking on the phone (finding)</displayName>
+</concept>
+<concept code="247842002">
+<displayName lang="en" type="PT">Fear of speaking to people in authority</displayName>
+<displayName lang="en" type="FSN">Fear of speaking to people in authority (finding)</displayName>
+</concept>
+<concept code="247843007">
+<displayName lang="en" type="PT">Fear of being laughed at</displayName>
+<displayName lang="en" type="FSN">Fear of being laughed at (finding)</displayName>
+</concept>
+<concept code="247844001">
+<displayName lang="en" type="PT">Fear of being watched</displayName>
+<displayName lang="en" type="FSN">Fear of being watched (finding)</displayName>
+</concept>
+<concept code="247845000">
+<displayName lang="en" type="PT">Specific fear</displayName>
+<displayName lang="en" type="FSN">Specific fear (finding)</displayName>
+<displayName lang="en" type="SY">Isolated fear</displayName>
+<displayName lang="en" type="SY">Simple fear</displayName>
+</concept>
+<concept code="247846004">
+<displayName lang="en" type="PT">Fear of natural phenomena</displayName>
+<displayName lang="en" type="FSN">Fear of natural phenomena (finding)</displayName>
+</concept>
+<concept code="247847008">
+<displayName lang="en" type="PT">Fear of the dark</displayName>
+<displayName lang="en" type="FSN">Fear of the dark (finding)</displayName>
+</concept>
+<concept code="247848003">
+<displayName lang="en" type="PT">Fear of animals</displayName>
+<displayName lang="en" type="FSN">Fear of animals (finding)</displayName>
+</concept>
+<concept code="247849006">
+<displayName lang="en" type="PT">Fear of feathers</displayName>
+<displayName lang="en" type="FSN">Fear of feathers (finding)</displayName>
+</concept>
+<concept code="247850006">
+<displayName lang="en" type="PT">Fear of enclosed spaces</displayName>
+<displayName lang="en" type="FSN">Fear of enclosed spaces (finding)</displayName>
+</concept>
+<concept code="247851005">
+<displayName lang="en" type="PT">Fear of tunnels</displayName>
+<displayName lang="en" type="FSN">Fear of tunnels (finding)</displayName>
+</concept>
+<concept code="247852003">
+<displayName lang="en" type="PT">Fear of phone boxes</displayName>
+<displayName lang="en" type="FSN">Fear of phone boxes (finding)</displayName>
+</concept>
+<concept code="247853008">
+<displayName lang="en" type="PT">Fear of flying</displayName>
+<displayName lang="en" type="FSN">Fear of flying (finding)</displayName>
+</concept>
+<concept code="247854002">
+<displayName lang="en" type="PT">Flying phobia</displayName>
+<displayName lang="en" type="FSN">Flying phobia (finding)</displayName>
+</concept>
+<concept code="247855001">
+<displayName lang="en" type="PT">Fear associated with illness and body function</displayName>
+<displayName lang="en" type="FSN">Fear associated with illness and body function (finding)</displayName>
+<displayName lang="en" type="SY">Fear associated with health</displayName>
+</concept>
+<concept code="247856000">
+<displayName lang="en-GB" type="PT">Fear of anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of anesthetic (finding)</displayName>
+</concept>
+<concept code="247857009">
+<displayName lang="en-GB" type="PT">Fear of general anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of general anesthetic (finding)</displayName>
+<displayName lang="en-GB" type="SY">GA - Fear of general anaesthetic</displayName>
+</concept>
+<concept code="247858004">
+<displayName lang="en-GB" type="PT">Fear of awareness under general anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of awareness under general anesthetic (finding)</displayName>
+</concept>
+<concept code="247859007">
+<displayName lang="en-GB" type="PT">Fear of not waking from general anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of not waking from general anesthetic (finding)</displayName>
+</concept>
+<concept code="247861003">
+<displayName lang="en-GB" type="PT">Fear of local anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of local anesthetic (finding)</displayName>
+</concept>
+<concept code="247862005">
+<displayName lang="en-GB" type="PT">Fear of problem after anaesthetic</displayName>
+<displayName lang="en" type="FSN">Fear of problem after anesthetic (finding)</displayName>
+</concept>
+<concept code="247864006">
+<displayName lang="en" type="PT">Fear of surgical masks</displayName>
+<displayName lang="en" type="FSN">Fear of surgical masks (finding)</displayName>
+<displayName lang="en" type="SY">Fear of masks</displayName>
+</concept>
+<concept code="247865007">
+<displayName lang="en" type="PT">Fear of hospitals</displayName>
+<displayName lang="en" type="FSN">Fear of hospitals (finding)</displayName>
+</concept>
+<concept code="247866008">
+<displayName lang="en" type="PT">Fear of contracting disease</displayName>
+<displayName lang="en" type="FSN">Fear of contracting disease (finding)</displayName>
+</concept>
+<concept code="247868009">
+<displayName lang="en" type="PT">Fear of contracting venereal disease</displayName>
+<displayName lang="en" type="FSN">Fear of contracting venereal disease (finding)</displayName>
+</concept>
+<concept code="247869001">
+<displayName lang="en" type="PT">Fear of contracting radiation sickness</displayName>
+<displayName lang="en" type="FSN">Fear of contracting radiation sickness (finding)</displayName>
+</concept>
+<concept code="247870000">
+<displayName lang="en" type="PT">Fear of the bogey man</displayName>
+<displayName lang="en" type="FSN">Fear of the bogey man (finding)</displayName>
+</concept>
+<concept code="247871001">
+<displayName lang="en" type="PT">Fear of ghosts</displayName>
+<displayName lang="en" type="FSN">Fear of ghosts (finding)</displayName>
+</concept>
+<concept code="247893006">
+<displayName lang="en" type="PT">Pathological guilt</displayName>
+<displayName lang="en" type="FSN">Pathological guilt (finding)</displayName>
+</concept>
+<concept code="247908007">
+<displayName lang="en" type="PT">Squirming</displayName>
+<displayName lang="en" type="FSN">Squirming (finding)</displayName>
+</concept>
+<concept code="247910009">
+<displayName lang="en" type="PT">Fidgeting</displayName>
+<displayName lang="en" type="FSN">Fidgeting (finding)</displayName>
+<displayName lang="en" type="SY">Fidgety</displayName>
+</concept>
+<concept code="248272003">
+<displayName lang="en" type="PT">Energy</displayName>
+<displayName lang="en" type="FSN">Energy (finding)</displayName>
+<displayName lang="en" type="SY">Vitality</displayName>
+</concept>
+<concept code="248274002">
+<displayName lang="en" type="PT">Lack of energy</displayName>
+<displayName lang="en" type="FSN">Lack of energy (finding)</displayName>
+<displayName lang="en" type="SY">Lacking in energy</displayName>
+<displayName lang="en" type="SY">Loss of energy</displayName>
+</concept>
+<concept code="250070007">
+<displayName lang="en" type="PT">Feeling physically tense</displayName>
+<displayName lang="en" type="FSN">Feeling physically tense (finding)</displayName>
+<displayName lang="en" type="SY">Feeling of physical tension</displayName>
+</concept>
+<concept code="263897001">
+<displayName lang="en" type="PT">Feeling tense</displayName>
+<displayName lang="en" type="FSN">Feeling tense (finding)</displayName>
+<displayName lang="en" type="SY">Tense</displayName>
+<displayName lang="en" type="SY">Tenseness</displayName>
+</concept>
+<concept code="266951006">
+<displayName lang="en" type="PT">Prisoner of war</displayName>
+<displayName lang="en" type="FSN">Prisoner of war, life event (finding)</displayName>
+<displayName lang="en" type="SY">Prisoner of war, life event</displayName>
+</concept>
+<concept code="266953009">
+<displayName lang="en" type="PT">Ran away</displayName>
+<displayName lang="en" type="FSN">Ran away, life event (finding)</displayName>
+<displayName lang="en" type="SY">Ran away, life event</displayName>
+</concept>
+<concept code="266954003">
+<displayName lang="en" type="PT">Child deserted by parents</displayName>
+<displayName lang="en" type="FSN">Child deserted by parents (finding)</displayName>
+</concept>
+<concept code="267076002">
+<displayName lang="en" type="PT">Feeling lonely</displayName>
+<displayName lang="en" type="FSN">Feeling lonely (finding)</displayName>
+<displayName lang="en" type="SY">Loneliness</displayName>
+<displayName lang="en" type="SY">Lonely</displayName>
+</concept>
+<concept code="267097001">
+<displayName lang="en" type="PT">Guilty ideas</displayName>
+<displayName lang="en" type="FSN">Guilty ideas (finding)</displayName>
+</concept>
+<concept code="270472006">
+<displayName lang="en" type="PT">Maternal concern</displayName>
+<displayName lang="en" type="FSN">Maternal concern (finding)</displayName>
+<displayName lang="en" type="SY">Anxious mother</displayName>
+</concept>
+<concept code="271596009">
+<displayName lang="en" type="PT">Mental distress</displayName>
+<displayName lang="en" type="FSN">Mental distress (finding)</displayName>
+</concept>
+<concept code="271599002">
+<displayName lang="en" type="PT">Feeling content</displayName>
+<displayName lang="en" type="FSN">Feeling content (finding)</displayName>
+<displayName lang="en" type="SY">Contentedness</displayName>
+</concept>
+<concept code="271947006">
+<displayName lang="en" type="PT">School phobia</displayName>
+<displayName lang="en" type="FSN">School phobia (finding)</displayName>
+</concept>
+<concept code="272022009">
+<displayName lang="en" type="PT">C/O - feeling depressed</displayName>
+<displayName lang="en" type="FSN">Complaining of feeling depressed (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of feeling depressed</displayName>
+</concept>
+<concept code="272024005">
+<displayName lang="en" type="PT">C/O - feeling unhappy</displayName>
+<displayName lang="en" type="FSN">Complaining of feeling unhappy (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of feeling unhappy</displayName>
+</concept>
+<concept code="274646000">
+<displayName lang="en" type="PT">Irritability and anger</displayName>
+<displayName lang="en" type="FSN">Irritability and anger (finding)</displayName>
+</concept>
+<concept code="276096003">
+<displayName lang="en" type="PT">Divorce problems</displayName>
+<displayName lang="en" type="FSN">Divorce problems, life event (finding)</displayName>
+<displayName lang="en" type="SY">Divorce problems, life event</displayName>
+</concept>
+<concept code="276097007">
+<displayName lang="en" type="PT">Spouse returned home</displayName>
+<displayName lang="en" type="FSN">Spouse returned home, life event (finding)</displayName>
+<displayName lang="en" type="SY">Spouse returned home, life event</displayName>
+</concept>
+<concept code="276098002">
+<displayName lang="en" type="PT">Child deserted by mother</displayName>
+<displayName lang="en" type="FSN">Child deserted by mother (finding)</displayName>
+</concept>
+<concept code="276241001">
+<displayName lang="en" type="PT">Fear of heights</displayName>
+<displayName lang="en" type="FSN">Fear of heights (finding)</displayName>
+</concept>
+<concept code="276242008">
+<displayName lang="en" type="PT">Fear of water</displayName>
+<displayName lang="en" type="FSN">Fear of water (finding)</displayName>
+</concept>
+<concept code="276245005">
+<displayName lang="en" type="PT">Non-delusional perplexed mood</displayName>
+<displayName lang="en" type="FSN">Non-delusional perplexed mood (finding)</displayName>
+<displayName lang="en" type="SY">Perplexed mood</displayName>
+</concept>
+<concept code="276247002">
+<displayName lang="en" type="PT">Incongruity of mood</displayName>
+<displayName lang="en" type="FSN">Incongruity of mood (finding)</displayName>
+<displayName lang="en" type="SY">Incongruity of affect</displayName>
+</concept>
+<concept code="276301007">
+<displayName lang="en" type="PT">Increased energy</displayName>
+<displayName lang="en" type="FSN">Increased energy (finding)</displayName>
+</concept>
+<concept code="276302000">
+<displayName lang="en" type="PT">Feeling of loss of feeling</displayName>
+<displayName lang="en" type="FSN">Feeling of loss of feeling (finding)</displayName>
+</concept>
+<concept code="277816006">
+<displayName lang="en" type="PT">Fear relating to body function</displayName>
+<displayName lang="en" type="FSN">Fear relating to body function (finding)</displayName>
+</concept>
+<concept code="277818007">
+<displayName lang="en" type="PT">Anxiety about losing control of bowels</displayName>
+<displayName lang="en" type="FSN">Anxiety about losing control of bowels (finding)</displayName>
+</concept>
+<concept code="277819004">
+<displayName lang="en" type="PT">Anxiety about wetting self</displayName>
+<displayName lang="en" type="FSN">Anxiety about wetting self (finding)</displayName>
+</concept>
+<concept code="277820005">
+<displayName lang="en" type="PT">Anxiety about vomiting in public</displayName>
+<displayName lang="en" type="FSN">Anxiety about vomiting in public (finding)</displayName>
+</concept>
+<concept code="277821009">
+<displayName lang="en" type="PT">Anxiety about having a fit</displayName>
+<displayName lang="en" type="FSN">Anxiety about having a fit (finding)</displayName>
+</concept>
+<concept code="277822002">
+<displayName lang="en" type="PT">Anxiety about choking</displayName>
+<displayName lang="en" type="FSN">Anxiety about choking (finding)</displayName>
+</concept>
+<concept code="277823007">
+<displayName lang="en" type="PT">Anxiety about swallowing</displayName>
+<displayName lang="en" type="FSN">Anxiety about swallowing (finding)</displayName>
+</concept>
+<concept code="277824001">
+<displayName lang="en" type="PT">Anxiety about collapsing</displayName>
+<displayName lang="en" type="FSN">Anxiety about collapsing (finding)</displayName>
+</concept>
+<concept code="277825000">
+<displayName lang="en" type="PT">Anxiety about shaking</displayName>
+<displayName lang="en" type="FSN">Anxiety about shaking (finding)</displayName>
+</concept>
+<concept code="277826004">
+<displayName lang="en" type="PT">Anxiety about sweating</displayName>
+<displayName lang="en" type="FSN">Anxiety about sweating (finding)</displayName>
+</concept>
+<concept code="277827008">
+<displayName lang="en" type="PT">Anxiety about dying</displayName>
+<displayName lang="en" type="FSN">Anxiety about dying (finding)</displayName>
+</concept>
+<concept code="277828003">
+<displayName lang="en" type="PT">Anxiety about going crazy</displayName>
+<displayName lang="en" type="FSN">Anxiety about going crazy (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about going insane</displayName>
+<displayName lang="en" type="SY">Anxiety about going mad</displayName>
+</concept>
+<concept code="277829006">
+<displayName lang="en" type="PT">Anxiety about losing emotional control</displayName>
+<displayName lang="en" type="FSN">Anxiety about losing emotional control (finding)</displayName>
+</concept>
+<concept code="277831002">
+<displayName lang="en" type="PT">Anxiety about becoming fat</displayName>
+<displayName lang="en" type="FSN">Anxiety about becoming fat (finding)</displayName>
+<displayName lang="en" type="SY">Anxiety about obesity</displayName>
+</concept>
+<concept code="277833004">
+<displayName lang="en" type="PT">Anxiety about fainting</displayName>
+<displayName lang="en" type="FSN">Anxiety about fainting (finding)</displayName>
+</concept>
+<concept code="277834005">
+<displayName lang="en" type="PT">Anxiety about having a heart attack</displayName>
+<displayName lang="en" type="FSN">Anxiety about having a heart attack (finding)</displayName>
+</concept>
+<concept code="277838008">
+<displayName lang="en" type="PT">Anxiety about appearing ridiculous</displayName>
+<displayName lang="en" type="FSN">Anxiety about appearing ridiculous (finding)</displayName>
+</concept>
+<concept code="277839000">
+<displayName lang="en" type="PT">Anxiety about saying the wrong thing</displayName>
+<displayName lang="en" type="FSN">Anxiety about saying the wrong thing (finding)</displayName>
+</concept>
+<concept code="279571009">
+<displayName lang="en" type="PT">Seasonal variation of mood</displayName>
+<displayName lang="en" type="FSN">Seasonal variation of mood (finding)</displayName>
+</concept>
+<concept code="279622009">
+<displayName lang="en" type="PT">Performance anxiety</displayName>
+<displayName lang="en" type="FSN">Performance anxiety (finding)</displayName>
+</concept>
+<concept code="279644004">
+<displayName lang="en" type="PT">Normal grief reaction</displayName>
+<displayName lang="en" type="FSN">Normal grief reaction to life event (finding)</displayName>
+<displayName lang="en" type="SY">Normal bereavement reaction</displayName>
+<displayName lang="en" type="SY">Normal grief reaction to life event</displayName>
+</concept>
+<concept code="279926005">
+<displayName lang="en" type="PT">Fear of needles</displayName>
+<displayName lang="en" type="FSN">Fear of needles (finding)</displayName>
+<displayName lang="en" type="SY">Fear of injections</displayName>
+</concept>
+<concept code="280947008">
+<displayName lang="en" type="PT">Examination phobia</displayName>
+<displayName lang="en" type="FSN">Examination phobia (finding)</displayName>
+</concept>
+<concept code="281129008">
+<displayName lang="en" type="PT">Variability of mood</displayName>
+<displayName lang="en" type="FSN">Variability of mood (finding)</displayName>
+</concept>
+<concept code="281143003">
+<displayName lang="en" type="PT">Passivity of affect</displayName>
+<displayName lang="en" type="FSN">Passivity of affect (finding)</displayName>
+</concept>
+<concept code="281144009">
+<displayName lang="en" type="PT">Somatic passivity</displayName>
+<displayName lang="en" type="FSN">Somatic passivity (finding)</displayName>
+</concept>
+<concept code="281257007">
+<displayName lang="en" type="PT">Hypomanic mood</displayName>
+<displayName lang="en" type="FSN">Hypomanic mood (finding)</displayName>
+</concept>
+<concept code="284486006">
+<displayName lang="en" type="PT">Emotionally deprived</displayName>
+<displayName lang="en" type="FSN">Emotionally deprived (finding)</displayName>
+</concept>
+<concept code="284487002">
+<displayName lang="en" type="PT">Extremely emotionally deprived</displayName>
+<displayName lang="en" type="FSN">Extremely emotionally deprived (finding)</displayName>
+</concept>
+<concept code="284514000">
+<displayName lang="en" type="PT">Continuously shifting in seat</displayName>
+<displayName lang="en" type="FSN">Continuously shifting in seat (finding)</displayName>
+</concept>
+<concept code="285842004">
+<displayName lang="en" type="PT">Normal capacity for emotion</displayName>
+<displayName lang="en" type="FSN">Normal capacity for emotion (finding)</displayName>
+</concept>
+<concept code="285843009">
+<displayName lang="en" type="PT">Maintained capacity for enjoyment</displayName>
+<displayName lang="en" type="FSN">Maintained capacity for enjoyment (finding)</displayName>
+</concept>
+<concept code="285844003">
+<displayName lang="en" type="PT">Able to understand own emotions</displayName>
+<displayName lang="en" type="FSN">Able to understand own emotions (finding)</displayName>
+<displayName lang="en" type="SY">Able to understand own feelings</displayName>
+</concept>
+<concept code="285845002">
+<displayName lang="en" type="PT">Unable to understand own emotions</displayName>
+<displayName lang="en" type="FSN">Unable to understand own emotions (finding)</displayName>
+<displayName lang="en" type="SY">Unable to understand own feelings</displayName>
+</concept>
+<concept code="285846001">
+<displayName lang="en" type="PT">Emotionally cold</displayName>
+<displayName lang="en" type="FSN">Emotionally cold (finding)</displayName>
+</concept>
+<concept code="285847005">
+<displayName lang="en" type="PT">Emotionally distant</displayName>
+<displayName lang="en" type="FSN">Emotionally distant (finding)</displayName>
+<displayName lang="en" type="SY">Emotionally aloof</displayName>
+</concept>
+<concept code="285848000">
+<displayName lang="en" type="PT">Able to control anger</displayName>
+<displayName lang="en" type="FSN">Able to control anger (finding)</displayName>
+</concept>
+<concept code="285849008">
+<displayName lang="en" type="PT">Difficulty controlling anger</displayName>
+<displayName lang="en" type="FSN">Difficulty controlling anger (finding)</displayName>
+<displayName lang="en" type="SY">Difficulty managing anger</displayName>
+</concept>
+<concept code="285850008">
+<displayName lang="en" type="PT">Able to control emotions</displayName>
+<displayName lang="en" type="FSN">Able to control emotions (finding)</displayName>
+</concept>
+<concept code="285851007">
+<displayName lang="en" type="PT">Unable to control emotions</displayName>
+<displayName lang="en" type="FSN">Unable to control emotions (finding)</displayName>
+</concept>
+<concept code="285852000">
+<displayName lang="en" type="PT">Difficulty controlling emotions</displayName>
+<displayName lang="en" type="FSN">Difficulty controlling emotions (finding)</displayName>
+</concept>
+<concept code="285853005">
+<displayName lang="en" type="PT">Mature emotional adjustment</displayName>
+<displayName lang="en" type="FSN">Mature emotional adjustment (finding)</displayName>
+</concept>
+<concept code="286545003">
+<displayName lang="en" type="PT">Fear of birds</displayName>
+<displayName lang="en" type="FSN">Fear of birds (finding)</displayName>
+</concept>
+<concept code="286568007">
+<displayName lang="en" type="PT">Fear associated with healthcare</displayName>
+<displayName lang="en" type="FSN">Fear associated with healthcare (finding)</displayName>
+</concept>
+<concept code="286569004">
+<displayName lang="en" type="PT">Difficulty understanding own emotions</displayName>
+<displayName lang="en" type="FSN">Difficulty understanding own emotions (finding)</displayName>
+</concept>
+<concept code="286582007">
+<displayName lang="en" type="PT">Ecstatic</displayName>
+<displayName lang="en" type="FSN">Ecstatic (finding)</displayName>
+<displayName lang="en" type="SY">Ecstatic mood</displayName>
+</concept>
+<concept code="286638005">
+<displayName lang="en" type="PT">Exhilaration</displayName>
+<displayName lang="en" type="FSN">Exhilaration (finding)</displayName>
+</concept>
+<concept code="286641001">
+<displayName lang="en" type="PT">Moody</displayName>
+<displayName lang="en" type="FSN">Moody (finding)</displayName>
+</concept>
+<concept code="286644009">
+<displayName lang="en" type="PT">Level of anxiety</displayName>
+<displayName lang="en" type="FSN">Level of anxiety (finding)</displayName>
+</concept>
+<concept code="288545008">
+<displayName lang="en" type="PT">Showing emotion</displayName>
+<displayName lang="en" type="FSN">Showing emotion (finding)</displayName>
+</concept>
+<concept code="300894000">
+<displayName lang="en" type="PT">Parental anxiety</displayName>
+<displayName lang="en" type="FSN">Parental anxiety (finding)</displayName>
+<displayName lang="en" type="SY">Anxious parents</displayName>
+</concept>
+<concept code="300895004">
+<displayName lang="en" type="PT">Anxiety attack</displayName>
+<displayName lang="en" type="FSN">Anxiety attack (finding)</displayName>
+</concept>
+<concept code="300943008">
+<displayName lang="en" type="PT">Pre-examination nerves</displayName>
+<displayName lang="en" type="FSN">Pre-examination nerves (finding)</displayName>
+</concept>
+<concept code="300958000">
+<displayName lang="en" type="PT">Reconciliation with partner</displayName>
+<displayName lang="en" type="FSN">Reconciliation with partner, life event (finding)</displayName>
+<displayName lang="en" type="SY">Cohabitee returned</displayName>
+<displayName lang="en" type="SY">Reconciliation with partner, life event</displayName>
+</concept>
+<concept code="301846009">
+<displayName lang="en" type="PT">Empty nest syndrome</displayName>
+<displayName lang="en" type="FSN">Empty nest syndrome (finding)</displayName>
+</concept>
+<concept code="302202009">
+<displayName lang="en" type="PT">Tower block syndrome</displayName>
+<displayName lang="en" type="FSN">Tower block syndrome (finding)</displayName>
+</concept>
+<concept code="302759005">
+<displayName lang="en" type="PT">Guilty ideas of reference</displayName>
+<displayName lang="en" type="FSN">Guilty ideas of reference (finding)</displayName>
+</concept>
+<concept code="304243005">
+<displayName lang="en" type="PT">Coming to terms with dying</displayName>
+<displayName lang="en" type="FSN">Coming to terms with dying (finding)</displayName>
+</concept>
+<concept code="304244004">
+<displayName lang="en" type="PT">Carer aware of patient&apos;s feelings about dying</displayName>
+<displayName lang="en" type="FSN">Carer aware of patient&apos;s feelings about dying (finding)</displayName>
+</concept>
+<concept code="304636008">
+<displayName lang="en" type="PT">Guided mourning</displayName>
+<displayName lang="en" type="FSN">Guided mourning (finding)</displayName>
+</concept>
+<concept code="307048004">
+<displayName lang="en" type="PT">Feeling isolated</displayName>
+<displayName lang="en" type="FSN">Feeling isolated (finding)</displayName>
+</concept>
+<concept code="307049007">
+<displayName lang="en" type="PT">Feeling alienated</displayName>
+<displayName lang="en" type="FSN">Feeling alienated (finding)</displayName>
+</concept>
+<concept code="307074005">
+<displayName lang="en" type="PT">Feeling high</displayName>
+<displayName lang="en" type="FSN">Feeling high (finding)</displayName>
+</concept>
+<concept code="307075006">
+<displayName lang="en" type="PT">Feeling diffident</displayName>
+<displayName lang="en" type="FSN">Feeling diffident (finding)</displayName>
+</concept>
+<concept code="307076007">
+<displayName lang="en" type="PT">Cyclic mood swings</displayName>
+<displayName lang="en" type="FSN">Cyclic mood swings (finding)</displayName>
+</concept>
+<concept code="307077003">
+<displayName lang="en" type="PT">Feeling hopeless</displayName>
+<displayName lang="en" type="FSN">Feeling hopeless (finding)</displayName>
+<displayName lang="en" type="SY">Feeling of hopelessness</displayName>
+<displayName lang="en" type="SY">Hopelessness</displayName>
+</concept>
+<concept code="309838005">
+<displayName lang="en" type="PT">Emotional upset</displayName>
+<displayName lang="en" type="FSN">Emotional upset (finding)</displayName>
+<displayName lang="en" type="SY">Disturbance in emotion</displayName>
+<displayName lang="en" type="SY">Emotional crisis</displayName>
+<displayName lang="en" type="SY">Emotionally disturbed</displayName>
+</concept>
+<concept code="310480000">
+<displayName lang="en" type="PT">C/O tearfulness</displayName>
+<displayName lang="en" type="FSN">Complaining of tearfulness (finding)</displayName>
+<displayName lang="en" type="SY">C/O weepiness</displayName>
+<displayName lang="en" type="SY">Complaining of tearfulness</displayName>
+</concept>
+<concept code="313387002">
+<displayName lang="en" type="PT">Phonophobia</displayName>
+<displayName lang="en" type="FSN">Phonophobia (finding)</displayName>
+</concept>
+<concept code="366979004">
+<displayName lang="en" type="PT">Depressed mood</displayName>
+<displayName lang="en" type="FSN">Depressed mood (finding)</displayName>
+</concept>
+<concept code="367545001">
+<displayName lang="en" type="PT">Fearful mood</displayName>
+<displayName lang="en" type="FSN">Fearful mood (finding)</displayName>
+</concept>
+<concept code="370567003">
+<displayName lang="en" type="PT">Noise phobia</displayName>
+<displayName lang="en" type="FSN">Noise phobia (finding)</displayName>
+</concept>
+<concept code="386738004">
+<displayName lang="en" type="PT">Multiple somatic complaints</displayName>
+<displayName lang="en" type="FSN">Multiple somatic complaints (finding)</displayName>
+</concept>
+<concept code="386782008">
+<displayName lang="en" type="PT">Disturbance in affect</displayName>
+<displayName lang="en" type="FSN">Disturbance in affect (finding)</displayName>
+</concept>
+<concept code="386798001">
+<displayName lang="en" type="PT">Affective personality trait</displayName>
+<displayName lang="en" type="FSN">Affective personality trait (finding)</displayName>
+<displayName lang="en" type="SY">Cycloid personality</displayName>
+<displayName lang="en" type="SY">Cyclothymic personality</displayName>
+<displayName lang="en" type="SY">Tends to be unstable in affect</displayName>
+<displayName lang="en" type="SY">Unstable personality trait</displayName>
+</concept>
+<concept code="386808001">
+<displayName lang="en" type="PT">Phobia</displayName>
+<displayName lang="en" type="FSN">Phobia (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal fear</displayName>
+<displayName lang="en" type="SY">Fear of</displayName>
+</concept>
+<concept code="386816005">
+<displayName lang="en" type="PT">Emotional problems</displayName>
+<displayName lang="en" type="FSN">Emotional problems (finding)</displayName>
+<displayName lang="en" type="SY">Abnormal feeling</displayName>
+<displayName lang="en" type="SY">Emotional problem</displayName>
+</concept>
+<concept code="395017009">
+<displayName lang="en" type="PT">C/O - panic attack</displayName>
+<displayName lang="en" type="FSN">Complaining of panic attack (finding)</displayName>
+<displayName lang="en" type="SY">Complaining of panic attack</displayName>
+</concept>
+<concept code="397775001">
+<displayName lang="en" type="PT">Fear of transport</displayName>
+<displayName lang="en" type="FSN">Fear of transport (finding)</displayName>
+<displayName lang="en" type="SY">Fear of traveling</displayName>
+<displayName lang="en" type="SY">Fear of travelling</displayName>
+</concept>
+<concept code="397847006">
+<displayName lang="en" type="PT">Family bereavement</displayName>
+<displayName lang="en" type="FSN">Family bereavement (finding)</displayName>
+</concept>
+<concept code="398304003">
+<displayName lang="en" type="PT">Fear of traveling in vehicles</displayName>
+<displayName lang="en" type="FSN">Fear of traveling in vehicles (finding)</displayName>
+<displayName lang="en-GB" type="SY">Fear of travelling in vehicles</displayName>
+</concept>
+<concept code="401010000">
+<displayName lang="en" type="PT">Patient concerned about eyesight</displayName>
+<displayName lang="en" type="FSN">Patient concerned about eyesight (finding)</displayName>
+</concept>
+<concept code="401269004">
+<displayName lang="en" type="PT">Fear of falling</displayName>
+<displayName lang="en" type="FSN">Fear of falling (finding)</displayName>
+</concept>
+<concept code="403591002">
+<displayName lang="en" type="PT">Ritual hand washing</displayName>
+<displayName lang="en" type="FSN">Ritual hand washing (finding)</displayName>
+</concept>
+<concept code="403592009">
+<displayName lang="en" type="PT">Acarophobia</displayName>
+<displayName lang="en" type="FSN">Acarophobia (finding)</displayName>
+</concept>
+<concept code="404910002">
+<displayName lang="en-GB" type="PT">Fear of falling whilst mobilising</displayName>
+<displayName lang="en" type="FSN">Fear of falling while mobilizing (finding)</displayName>
+</concept>
+<concept code="405273008">
+<displayName lang="en" type="PT">Manic mood</displayName>
+<displayName lang="en" type="FSN">Manic mood (finding)</displayName>
+</concept>
+<concept code="409068001">
+<displayName lang="en" type="PT">Normal emotional state</displayName>
+<displayName lang="en" type="FSN">Normal emotional state (finding)</displayName>
+</concept>
+<concept code="413301003">
+<displayName lang="en-GB" type="PT">Feels at risk of crime in the neighbourhood</displayName>
+<displayName lang="en" type="FSN">Feels at risk of crime in the neighborhood (finding)</displayName>
+</concept>
+<concept code="415136009">
+<displayName lang="en" type="PT">Ponophobia</displayName>
+<displayName lang="en" type="FSN">Ponophobia (finding)</displayName>
+</concept>
+<concept code="416259003">
+<displayName lang="en" type="PT">O/E - increased excitability</displayName>
+<displayName lang="en" type="FSN">On examination - increased excitability (finding)</displayName>
+<displayName lang="en" type="SY">On examination - increased excitability</displayName>
+</concept>
+<concept code="416383008">
+<displayName lang="en" type="PT">Abnormal affect</displayName>
+<displayName lang="en" type="FSN">Abnormal affect (finding)</displayName>
+</concept>
+<concept code="416443001">
+<displayName lang="en" type="PT">O/E - decreased excitability</displayName>
+<displayName lang="en" type="FSN">On examination - decreased excitability (finding)</displayName>
+<displayName lang="en" type="SY">On examination - decreased excitability</displayName>
+</concept>
+<concept code="417514002">
+<displayName lang="en" type="PT">O/E - excitable</displayName>
+<displayName lang="en" type="FSN">On examination - excitable (finding)</displayName>
+<displayName lang="en" type="SY">On examination - excitable</displayName>
+</concept>
+<concept code="417620007">
+<displayName lang="en" type="PT">O/E - fearful mood</displayName>
+<displayName lang="en" type="FSN">On examination - fearful mood (finding)</displayName>
+<displayName lang="en" type="SY">On examination - fearful mood</displayName>
+</concept>
+<concept code="417676004">
+<displayName lang="en" type="PT">O/E - panic attack</displayName>
+<displayName lang="en" type="FSN">On examination - panic attack (finding)</displayName>
+<displayName lang="en" type="SY">On examination - panic attack</displayName>
+</concept>
+<concept code="417694005">
+<displayName lang="en" type="PT">O/E - normal excitability</displayName>
+<displayName lang="en" type="FSN">On examination - normal excitability (finding)</displayName>
+<displayName lang="en" type="SY">On examination - normal excitability</displayName>
+</concept>
+<concept code="420038007">
+<displayName lang="en" type="PT">Feeling unhappy</displayName>
+<displayName lang="en" type="FSN">Feeling unhappy (finding)</displayName>
+<displayName lang="en" type="SY">Unhappy</displayName>
+</concept>
+<concept code="421369008">
+<displayName lang="en" type="PT">Emotional hypersensitivity</displayName>
+<displayName lang="en" type="FSN">Emotional hypersensitivity (finding)</displayName>
+<displayName lang="en" type="SY">Hypersensitive mood</displayName>
+</concept>
+<concept code="423136007">
+<displayName lang="en" type="PT">Difficulty coping with grief responses</displayName>
+<displayName lang="en" type="FSN">Difficulty coping with grief responses (finding)</displayName>
+</concept>
+<concept code="423157004">
+<displayName lang="en" type="PT">Unrelieved tension</displayName>
+<displayName lang="en" type="FSN">Unrelieved tension (finding)</displayName>
+<displayName lang="en" type="SY">Prolonged tension</displayName>
+</concept>
+<concept code="423170008">
+<displayName lang="en" type="PT">Fear of abuse</displayName>
+<displayName lang="en" type="FSN">Fear of abuse (finding)</displayName>
+</concept>
+<concept code="423794002">
+<displayName lang="en" type="PT">Abusive emotional relationship with partner</displayName>
+<displayName lang="en" type="FSN">Abusive emotional relationship with partner (finding)</displayName>
+</concept>
+<concept code="424009001">
+<displayName lang="en" type="PT">Fears delivery procedure</displayName>
+<displayName lang="en" type="FSN">Fears delivery procedure (finding)</displayName>
+</concept>
+<concept code="424068007">
+<displayName lang="en" type="PT">Conflicting stages of grief among family members</displayName>
+<displayName lang="en" type="FSN">Conflicting stages of grief among family members (finding)</displayName>
+</concept>
+<concept code="424196004">
+<displayName lang="en" type="PT">Feeling nervous</displayName>
+<displayName lang="en" type="FSN">Feeling nervous (finding)</displayName>
+<displayName lang="en" type="SY">Feeling jittery</displayName>
+<displayName lang="en" type="SY">Nervousness</displayName>
+</concept>
+<concept code="424773009">
+<displayName lang="en-GB" type="PT">Fails to recognise stages of grief</displayName>
+<displayName lang="en" type="FSN">Fails to recognize stages of grief (finding)</displayName>
+<displayName lang="en-GB" type="SY">Fails to recognise process of healing from loss</displayName>
+</concept>
+<concept code="424958004">
+<displayName lang="en" type="PT">Fear of reaction regarding family planning choices</displayName>
+<displayName lang="en" type="FSN">Fear of reaction regarding family planning choices (finding)</displayName>
+</concept>
+<concept code="425131000">
+<displayName lang="en" type="PT">Nervous tension</displayName>
+<displayName lang="en" type="FSN">Nervous tension (finding)</displayName>
+</concept>
+<concept code="425218000">
+<displayName lang="en" type="PT">Conflicting stages of grief</displayName>
+<displayName lang="en" type="FSN">Conflicting stages of grief (finding)</displayName>
+</concept>
+<concept code="425363002">
+<displayName lang="en" type="PT">Smiling</displayName>
+<displayName lang="en" type="FSN">Smiling (finding)</displayName>
+</concept>
+<concept code="427589004">
+<displayName lang="en" type="PT">Complicated grieving</displayName>
+<displayName lang="en" type="FSN">Complicated grieving (finding)</displayName>
+</concept>
+<concept code="430641005">
+<displayName lang="en" type="PT">Markedly diminished pleasure</displayName>
+<displayName lang="en" type="FSN">Markedly diminished pleasure (finding)</displayName>
+</concept>
+<concept code="431432003">
+<displayName lang="en" type="PT">Anxiety about loss of memory</displayName>
+<displayName lang="en" type="FSN">Anxiety about loss of memory (finding)</displayName>
+</concept>
+<concept code="439576009">
+<displayName lang="en" type="PT">Fear of drinking liquids due to dysphagia</displayName>
+<displayName lang="en" type="FSN">Fear of drinking liquids due to dysphagia (finding)</displayName>
+</concept>
+<concept code="440575001">
+<displayName lang="en" type="PT">Aerophobia</displayName>
+<displayName lang="en" type="FSN">Aerophobia (finding)</displayName>
+</concept>
+<concept code="449892005">
+<displayName lang="en" type="PT">Feeling safe</displayName>
+<displayName lang="en" type="FSN">Feeling safe (finding)</displayName>
+</concept>
+<concept code="699389008">
+<displayName lang="en" type="PT">Fear of medical treatment</displayName>
+<displayName lang="en" type="FSN">Fear of medical treatment (finding)</displayName>
+</concept>
+<concept code="699391000">
+<displayName lang="en" type="PT">Fear of deafness</displayName>
+<displayName lang="en" type="FSN">Fear of deafness (finding)</displayName>
+</concept>
+<concept code="702535006">
+<displayName lang="en" type="PT">Anxiety about breathlessness</displayName>
+<displayName lang="en" type="FSN">Anxiety about breathlessness (finding)</displayName>
+</concept>
+<concept code="704423008">
+<displayName lang="en" type="PT">Fear of abandonment</displayName>
+<displayName lang="en" type="FSN">Fear of abandonment (finding)</displayName>
+</concept>
+<concept code="704424002">
+<displayName lang="en" type="PT">Fear of being a burden to others</displayName>
+<displayName lang="en" type="FSN">Fear of being a burden to others (finding)</displayName>
+</concept>
+<concept code="704678007">
+<displayName lang="en" type="PT">Depressed mood with postpartum onset</displayName>
+<displayName lang="en" type="FSN">Depressed mood with postpartum onset (finding)</displayName>
+<displayName lang="en" type="SY">Depressed mood in postpartum period</displayName>
+</concept>
+<concept code="705047004">
+<displayName lang="en" type="PT">Fear of contagion</displayName>
+<displayName lang="en" type="FSN">Fear of contagion (finding)</displayName>
+</concept>
+<concept code="708891002">
+<displayName lang="en" type="PT">Emotionally stable</displayName>
+<displayName lang="en" type="FSN">Emotionally stable (finding)</displayName>
+</concept>
+<concept code="93831000119104">
+<displayName lang="en" type="PT">Adjustment to life threatening illness</displayName>
+<displayName lang="en" type="FSN">Adjustment to life threatening illness (finding)</displayName>
+</concept>
+<concept code="142001000119106">
+<displayName lang="en" type="PT">Depressed mood in Alzheimer&apos;s disease</displayName>
+<displayName lang="en" type="FSN">Depressed mood in Alzheimer&apos;s disease (disorder)</displayName>
+<displayName lang="en" type="SY">Alzheimers dementia with depressed mood</displayName>
+<displayName lang="en" type="SY">Depressed mood in Alzheimer disease</displayName>
+</concept>
+<concept code="288241000119105">
+<displayName lang="en" type="PT">Fear of bridges</displayName>
+<displayName lang="en" type="FSN">Fear of bridges (finding)</displayName>
+</concept>
+<concept code="288251000119107">
+<displayName lang="en" type="PT">Fear of injury</displayName>
+<displayName lang="en" type="FSN">Fear of injury (finding)</displayName>
+</concept>
+<concept code="323341000000102">
+<displayName lang="en" type="PT">Anxiety about lethargy</displayName>
+<displayName lang="en" type="FSN">Anxiety about lethargy (finding)</displayName>
+</concept>
+<concept code="323351000000104">
+<displayName lang="en" type="PT">Anxiety about mood</displayName>
+<displayName lang="en" type="FSN">Anxiety about mood (finding)</displayName>
+</concept>
+<concept code="325601000000107">
+<displayName lang="en" type="PT">Recent bereavement</displayName>
+<displayName lang="en" type="FSN">Recent bereavement (finding)</displayName>
+</concept>
+<concept code="325611000000109">
+<displayName lang="en" type="PT">Feeling lonely occasionally</displayName>
+<displayName lang="en" type="FSN">Feeling lonely occasionally (finding)</displayName>
+</concept>
+<concept code="939671000000107">
+<displayName lang="en" type="PT">Able to manage own energy levels</displayName>
+<displayName lang="en" type="FSN">Able to manage own energy levels (finding)</displayName>
+</concept>
+<concept code="939681000000109">
+<displayName lang="en" type="PT">Able to direct energy</displayName>
+<displayName lang="en" type="FSN">Able to direct energy (finding)</displayName>
+</concept>
+<concept code="939691000000106">
+<displayName lang="en" type="PT">Able to sustain energy level</displayName>
+<displayName lang="en" type="FSN">Able to sustain energy level (finding)</displayName>
+</concept>
+<concept code="939701000000106">
+<displayName lang="en" type="PT">Able to stop use of energy</displayName>
+<displayName lang="en" type="FSN">Able to stop use of energy (finding)</displayName>
+</concept>
+<concept code="939721000000102">
+<displayName lang="en" type="PT">Able to be optimistic</displayName>
+<displayName lang="en" type="FSN">Able to be optimistic (finding)</displayName>
+</concept>
+<concept code="944811000000103">
+<displayName lang="en" type="PT">Able to be hopeful for the future</displayName>
+<displayName lang="en" type="FSN">Able to be hopeful for the future (finding)</displayName>
+</concept>
+<concept code="945541000000104">
+<displayName lang="en" type="PT">Able to manage own aggression</displayName>
+<displayName lang="en" type="FSN">Able to manage own aggression (finding)</displayName>
+</concept>
+</vocabulary>

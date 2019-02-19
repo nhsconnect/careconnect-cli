@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RouteOfAdministration" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.51">
+   <Description>
+            <p>A code for the route by which a clinical product (medication, dressing or application) is administered, e.g. intravenously by infusion. oral to swallow, inhalation.</p>
+            <p>Any <b>Snomed-CT</b> code that is a descendant of the concept "route of administration values"</p>
+            <p>The rubrics for the codes are based on the "Standard Terms for Pharmaceutical Dosage Forms" published by the European Pharmacopoeia Commission.</p>
+         </Description>
+</vocabulary>

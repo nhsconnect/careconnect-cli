@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="JobRoleNameQualified" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.493">
+   <Description>
+            <p>
+               <p>The JobRoleNameQualified vocabulary is used to support the  qualifying of the CDAJobRoleName vocabulary with the ResponderPriority  vocab codeset:</p>
+               <p>JobRoleNameTypeQualified vocabulary requires the following:<br/>
+               </p>
+               <ul>
+                  <li>
+                     <strong>A code from the CDAJobRoleName</strong>
+                     <strong> vocabulary should be used</strong>
+                  </li>
+                  <li>
+                     <strong>The OID to use is 2.16.840.1.113883.2.1.3.2.4.17.186</strong>
+                  </li>
+                  <li>
+                     <strong>The </strong>
+                     <strong>
+                        <strong>CDAJobRoleName</strong>
+                        <strong> vocabulary</strong> is found available on request.
+                     </strong>
+                  </li>
+               </ul>
+               <p>To qualify the CDAJobRoleName code with a responder priority code  then the ResponderPriority vocabulary should be used as follows<br/>
+               </p>
+               <ul>
+                  <li>
+                     <strong>A code from the ResponderPriority</strong>
+                     <strong> vocabulary should be used as a qualifier</strong>
+                  </li>
+                  <li>
+                     <strong>The OID to use is 2.16.840.1.113883.2.1.3.2.4.17.495</strong>
+                  </li>
+                  <li>
+                     <strong>The </strong>
+                     <strong>ResponderPriority</strong>
+                     <strong>
+                        <strong>
+                           <strong> vocabulary</strong> is found available on request.
+                        </strong>
+                     </strong>
+                  </li>
+               </ul>
+            </p>
+         </Description>
+</vocabulary>

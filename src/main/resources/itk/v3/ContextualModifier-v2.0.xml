@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ContextualModifier" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.141">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.141</p>
+            <p>This describes the meaning of the modifier for the code Value of the Search Keyword.</p>
+         </Description>
+</vocabulary>

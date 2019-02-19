@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrDeviceType" version="4.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.2">
+   <Description>
+            <p>Indicates the type of a device (e.g. ECG machine).</p>
+	           <p>Code representing a device, taken from one the following code systems:</p>
+	           <dl>
+		             <dt>
+			               <b>SNOMED CT UK</b>
+		             </dt>
+		             <dd>A code from Snomed-CT (UK) may be a very general code, with device type in originalText, or may be accompanied by additional qualifying codes from the same coding system.</dd>
+		             <dt>
+			               <b>Read Codes V2</b>
+		             </dt>
+		             <dd>The codes available in the Read Codes are currently limited. However, where necessary the originalText element may be used to specify a more detailed type of device.</dd>
+		             <dt>Another code system.</dt>
+	           </dl>
+         </Description>
+</vocabulary>

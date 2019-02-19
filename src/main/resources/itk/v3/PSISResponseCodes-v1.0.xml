@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PSISResponseCodes" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.33">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.33</p>
+            <p>A code system carrying a list of error/issue codes applicable to PSIS.</p>
+            <p>This code system is maintained externally by BT Syntegra in the current version of the External Interface Specification.</p>
+         </Description>
+</vocabulary>

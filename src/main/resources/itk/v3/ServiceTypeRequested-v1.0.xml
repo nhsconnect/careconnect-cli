@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ServiceTypeRequested" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.24">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.24</p>
+            <p>This describes the general type of action the referrer is asking the care professional referred to carry out. It is an extension of the NHS Data Dictionary attribute Service Type Requested.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Diagnosis</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Treatment</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Management advice</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Performance of a procedure / operation</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Patient reassurance</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>No action requested</displayName>
+   </concept>
+   <concept code="99">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="FindingTypeSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the SNOMED CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes a finding that is <strong>NOT</strong> a blood pressure, body weight ,height measurement, or temperature finding.</p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK <em>Finding</em> subset with subset original id 1461000000137.</strong>
+               </p>
+            </p>
+         </Description>
+</vocabulary>

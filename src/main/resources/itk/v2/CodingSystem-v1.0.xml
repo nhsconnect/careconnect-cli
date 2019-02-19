@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CodingSystem" version="1.0" status="created"
+            id="2.16.840.1.113883.12.396">
+   <Description>Each coding system is assigned a unique identifier.  This table has list of coded values which will serve to identify the coding scheme being used in the identifier component. Table type: HL7</Description>
+   <concept code="99zzz">
+      <displayName>Local general code (where z is an alphanumeric character)</displayName>
+   </concept>
+   <concept code="ACR">
+      <displayName>American College of Radiology finding codes</displayName>
+   </concept>
+   <concept code="ART">
+      <displayName>WHO Adverse Reaction Terms</displayName>
+   </concept>
+   <concept code="AS4">
+      <displayName>ASTM E1238/ E1467 Universal</displayName>
+   </concept>
+   <concept code="AS4E">
+      <displayName>AS4 Neurophysiology Codes</displayName>
+   </concept>
+   <concept code="ATC">
+      <displayName>American Type Culture Collection</displayName>
+   </concept>
+   <concept code="C4">
+      <displayName>CPT-4</displayName>
+   </concept>
+   <concept code="C5">
+      <displayName>CPT-5</displayName>
+   </concept>
+   <concept code="CAS">
+      <displayName>Chemical abstract codes</displayName>
+   </concept>
+   <concept code="CD2">
+      <displayName>CDT-2 Codes</displayName>
+   </concept>
+   <concept code="CDCA">
+      <displayName>CDC Analyte Codes</displayName>
+   </concept>
+   <concept code="CDCM">
+      <displayName>CDC Methods/Instruments Codes</displayName>
+   </concept>
+   <concept code="CDS">
+      <displayName>CDC Surveillance</displayName>
+   </concept>
+   <concept code="CE">
+      <displayName>CEN ECG diagnostic codes</displayName>
+   </concept>
+   <concept code="CLP">
+      <displayName>CLIP</displayName>
+   </concept>
+   <concept code="CPTM">
+      <displayName>CPT Modifier Code</displayName>
+   </concept>
+   <concept code="CST">
+      <displayName>COSTART</displayName>
+   </concept>
+   <concept code="CVX">
+      <displayName>CDC Vaccine Codes</displayName>
+   </concept>
+   <concept code="DCL">
+      <displayName>DICOM Class Label</displayName>
+   </concept>
+   <concept code="DCM">
+      <displayName>DICOM modality codes</displayName>
+   </concept>
+   <concept code="DQL">
+      <displayName>DICOM Query Label</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>EUCLIDES</displayName>
+   </concept>
+   <concept code="E5">
+      <displayName>Euclides quantity codes</displayName>
+   </concept>
+   <concept code="E6">
+      <displayName>Euclides Lab method codes</displayName>
+   </concept>
+   <concept code="E7">
+      <displayName>Euclides Lab equipment codes</displayName>
+   </concept>
+   <concept code="ENZC">
+      <displayName>Enzyme Codes</displayName>
+   </concept>
+   <concept code="FDDC">
+      <displayName>First DataBank Drug Codes</displayName>
+   </concept>
+   <concept code="FDDX">
+      <displayName>First DataBank Diagnostic Codes</displayName>
+   </concept>
+   <concept code="FDK">
+      <displayName>FDA K10</displayName>
+   </concept>
+   <concept code="HB">
+      <displayName>HIBCC</displayName>
+   </concept>
+   <concept code="HCPCS">
+      <displayName>HCFA Common Procedure Coding System</displayName>
+   </concept>
+   <concept code="HHC">
+      <displayName>Home Health Care</displayName>
+   </concept>
+   <concept code="HI">
+      <displayName>Health Outcomes</displayName>
+   </concept>
+   <concept code="HL7nnnn">
+      <displayName>HL7 Defined Codes where nnnn is the HL7 table number</displayName>
+   </concept>
+   <concept code="HPC">
+      <displayName>HCFA Procedure Codes (HCPCS)</displayName>
+   </concept>
+   <concept code="I10">
+      <displayName>ICD-10</displayName>
+   </concept>
+   <concept code="I10P">
+      <displayName>ICD-10 Procedure Codes</displayName>
+   </concept>
+   <concept code="I9">
+      <displayName>ICD9</displayName>
+   </concept>
+   <concept code="I9C">
+      <displayName>ICD-9CM</displayName>
+   </concept>
+   <concept code="IBT">
+      <displayName>ISBT</displayName>
+   </concept>
+   <concept code="IC2">
+      <displayName>ICHPPC-2</displayName>
+   </concept>
+   <concept code="ICDO">
+      <displayName>International Classification of Diseases for Oncology</displayName>
+   </concept>
+   <concept code="ICS">
+      <displayName>ICCS</displayName>
+   </concept>
+   <concept code="ICSD">
+      <displayName>International Classification of Sleep Disorders</displayName>
+   </concept>
+   <concept code="ISOnnnn">
+      <displayName>ISO Defined Codes where nnnn is the ISO table number</displayName>
+   </concept>
+   <concept code="IUPC">
+      <displayName>IUPAC/IFCC Component Codes</displayName>
+   </concept>
+   <concept code="IUPP">
+      <displayName>IUPAC/IFCC Property Codes</displayName>
+   </concept>
+   <concept code="JC8">
+      <displayName>Japanese Chemistry</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Local general code</displayName>
+   </concept>
+   <concept code="LB">
+      <displayName>Local billing code</displayName>
+   </concept>
+   <concept code="LN">
+      <displayName>Logical Observation Identifier Names and Codes (LOINC(r))</displayName>
+   </concept>
+   <concept code="MCD">
+      <displayName>Medicaid</displayName>
+   </concept>
+   <concept code="MCR">
+      <displayName>Medicare</displayName>
+   </concept>
+   <concept code="MDDX">
+      <displayName>Medispan Diagnostic Codes</displayName>
+   </concept>
+   <concept code="MEDC">
+      <displayName>Medical Economics Drug Codes</displayName>
+   </concept>
+   <concept code="MEDR">
+      <displayName>Medical Dictionary for Drug Regulatory Affairs (MEDDRA)</displayName>
+   </concept>
+   <concept code="MEDX">
+      <displayName>Medical Economics Diagnostic Codes</displayName>
+   </concept>
+   <concept code="MGPI">
+      <displayName>Medispan GPI</displayName>
+   </concept>
+   <concept code="MVX">
+      <displayName>CDC Vaccine Manufacturer Codes</displayName>
+   </concept>
+   <concept code="NDA">
+      <displayName>NANDA</displayName>
+   </concept>
+   <concept code="NDC">
+      <displayName>National drug codes</displayName>
+   </concept>
+   <concept code="NIC">
+      <displayName>Nursing Interventions Classification</displayName>
+   </concept>
+   <concept code="NPI">
+      <displayName>National Provider Identifier</displayName>
+   </concept>
+   <concept code="OHA">
+      <displayName>Omaha System</displayName>
+   </concept>
+   <concept code="OPCS4">
+      <displayName>Office of Population, Censuses and Surveys Classification of Surgical Operations and Procedures (OPCS) ? 4th revision</displayName>
+   </concept>
+   <concept code="POS">
+      <displayName>POS Codes</displayName>
+   </concept>
+   <concept code="RC">
+      <displayName>Read Classification</displayName>
+   </concept>
+   <concept code="SDM">
+      <displayName>SNOMED- DICOM Microglossary</displayName>
+   </concept>
+   <concept code="SNCT">
+      <displayName>Systemized Nomenclature of Medicine Clinical Terms (SNOMED-CT)</displayName>
+   </concept>
+   <concept code="SNM">
+      <displayName>Systemized Nomenclature of Medicine (SNOMED)</displayName>
+   </concept>
+   <concept code="SNM3">
+      <displayName>SNOMED International</displayName>
+   </concept>
+   <concept code="SNT">
+      <displayName>SNOMED topology codes (anatomic sites)</displayName>
+   </concept>
+   <concept code="UC">
+      <displayName>UCDS</displayName>
+   </concept>
+   <concept code="UMD">
+      <displayName>MDNS</displayName>
+   </concept>
+   <concept code="UML">
+      <displayName>Unified Medical Language</displayName>
+   </concept>
+   <concept code="UPC">
+      <displayName>Universal Product Code</displayName>
+   </concept>
+   <concept code="UPIN">
+      <displayName>UPIN</displayName>
+   </concept>
+   <concept code="W1">
+      <displayName>WHO record # drug codes (6 digit)</displayName>
+   </concept>
+   <concept code="W2">
+      <displayName>WHO record # drug codes (8 digit)</displayName>
+   </concept>
+   <concept code="W4">
+      <displayName>WHO record # code with ASTM extension</displayName>
+   </concept>
+   <concept code="WC">
+      <displayName>WHO ATC</displayName>
+   </concept>
+</vocabulary>

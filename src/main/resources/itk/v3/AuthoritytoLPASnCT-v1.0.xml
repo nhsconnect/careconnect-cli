@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AuthoritytoLPASnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A code that describes Authority of Lasting Power of Attorney.</p>
+               <p>
+                  <strong>This is a preliminary set of values, for the full list consult the latest published version of the SNOMED CT subset with Original ID 47771000000138.</strong>
+               </p>
+            </p>
+         </Description>
+   <concept code="816361000000101">
+      <displayName>Has appointed person with personal welfare lasting power of attorney (Mental Capacity Act 2005) (finding)</displayName>
+   </concept>
+   <concept code="816381000000105">
+      <displayName>Has appointed person with personal welfare lasting power of attorney with authority for life sustaining decisions (Mental Capacity Act 2005) (finding)</displayName>
+   </concept>
+</vocabulary>

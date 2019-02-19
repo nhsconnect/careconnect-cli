@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CP-ISMessageType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.470">
+   <Description>
+            <p>A set of codes to indicate the Child Protection Information Sharing (CP-IS) service's message type.</p>
+         </Description>
+   <concept code="01">
+      <displayName>CP-IS Local Authority Upload</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>CP-IS Local Authority Acknowledgement Response</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>CP-IS NHS Query</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>CP-IS NHS Query Response</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>CP-IS Access to Service Notification</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>CP-IS Inactive NHS Number Notification</displayName>
+   </concept>
+</vocabulary>

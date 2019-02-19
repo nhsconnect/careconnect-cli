@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DIReportStatus" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.229">
+   <Description>
+            <p>A set of codes indicating the status of the Diagnostic Imaging Report.</p>
+         </Description>
+   <concept code="DI22">
+      <displayName>Active</displayName>
+   </concept>
+   <concept code="DI23">
+      <displayName>Completed</displayName>
+   </concept>
+</vocabulary>

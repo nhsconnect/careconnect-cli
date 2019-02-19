@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SupplyActSnCT" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: that of the UK subset of SnomedCT.</p>
+            <p>Any code from the UK subset of SnomedCT that describes a specialisation of the HL7 SPLY (Supply) Act. The intention here is to describe the supply of pharmaceutical products and personal medical devices.</p>
+         </Description>
+   <concept code="373784005">
+      <displayName>dispensing medication</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Correspondence Document type" type="Realm Concept" setId="68151000000139" version="8" id="44041000000135" refId="999000391000000109" memberCount="141" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="229059009">
+<displayName lang="en" type="PT">Report</displayName>
+<displayName lang="en" type="FSN">Report (record artifact)</displayName>
+<displayName lang="en" type="SY">Document type</displayName>
+<displayName lang="en" type="SY">Document type code</displayName>
+</concept>
+<concept code="270370004">
+<displayName lang="en-GB" type="PT">Driving licence fitness report</displayName>
+<displayName lang="en" type="FSN">Driving license fitness report (record artifact)</displayName>
+<displayName lang="en-GB" type="SY">CLE - fit to hold driving licence</displayName>
+<displayName lang="en-GB" type="SY">Driver&apos;s licence fitness report</displayName>
+<displayName lang="en" type="SY">Fitness to drive report</displayName>
+</concept>
+<concept code="270372007">
+<displayName lang="en" type="PT">Disabled driver orange badge report</displayName>
+<displayName lang="en" type="FSN">Disabled driver orange badge report (record artifact)</displayName>
+<displayName lang="en" type="SY">Disabled driver certificate</displayName>
+</concept>
+<concept code="307881004">
+<displayName lang="en" type="PT">DSS RMO RM2 report</displayName>
+<displayName lang="en" type="FSN">DSS RMO RM2 report (record artifact)</displayName>
+</concept>
+<concept code="307930005">
+<displayName lang="en" type="PT">Death certificate</displayName>
+<displayName lang="en" type="FSN">Death certificate (record artifact)</displayName>
+<displayName lang="en" type="SY">Certificate - death</displayName>
+</concept>
+<concept code="308575004">
+<displayName lang="en" type="PT">Employment report</displayName>
+<displayName lang="en" type="FSN">Employment report (record artifact)</displayName>
+</concept>
+<concept code="308584004">
+<displayName lang="en" type="PT">DLA 370 report</displayName>
+<displayName lang="en" type="FSN">DLA 370 report (record artifact)</displayName>
+</concept>
+<concept code="308585003">
+<displayName lang="en" type="PT">DS 1500 report</displayName>
+<displayName lang="en" type="FSN">DS 1500 report (record artifact)</displayName>
+</concept>
+<concept code="308619006">
+<displayName lang="en" type="PT">War pensions report</displayName>
+<displayName lang="en" type="FSN">War pensions report (record artifact)</displayName>
+</concept>
+<concept code="308621001">
+<displayName lang="en" type="PT">RM10-DHSS DMO report</displayName>
+<displayName lang="en" type="FSN">RM10-DHSS DMO report (record artifact)</displayName>
+</concept>
+<concept code="310854009">
+<displayName lang="en" type="PT">Housing report</displayName>
+<displayName lang="en" type="FSN">Housing report (record artifact)</displayName>
+</concept>
+<concept code="371527006">
+<displayName lang="en" type="PT">Radiology report</displayName>
+<displayName lang="en" type="FSN">Radiology report (record artifact)</displayName>
+</concept>
+<concept code="373942005">
+<displayName lang="en" type="PT">Discharge summary</displayName>
+<displayName lang="en" type="FSN">Discharge summary (record artifact)</displayName>
+</concept>
+<concept code="408403008">
+<displayName lang="en" type="PT">Patient held record</displayName>
+<displayName lang="en" type="FSN">Patient held record (record artifact)</displayName>
+</concept>
+<concept code="416779005">
+<displayName lang="en-GB" type="PT">Anaesthesia record</displayName>
+<displayName lang="en" type="FSN">Anesthesia record (record artifact)</displayName>
+<displayName lang="en-GB" type="SY">Anaesthetic record</displayName>
+</concept>
+<concept code="445300006">
+<displayName lang="en" type="PT">Emergency department record</displayName>
+<displayName lang="en" type="FSN">Emergency department record (record artifact)</displayName>
+<displayName lang="en" type="SY">A &amp; E card</displayName>
+<displayName lang="en" type="SY">Accident and emergency admission and progress record</displayName>
+</concept>
+<concept code="24641000000107">
+<displayName lang="en-GB" type="PT">Investigation result</displayName>
+<displayName lang="en-GB" type="FSN">Investigation result (record artifact)</displayName>
+</concept>
+<concept code="24711000000100">
+<displayName lang="en-GB" type="PT">Mail to patient</displayName>
+<displayName lang="en-GB" type="FSN">Mail to patient (record artifact)</displayName>
+</concept>
+<concept code="25611000000107">
+<displayName lang="en-GB" type="PT">Referral letter</displayName>
+<displayName lang="en-GB" type="FSN">Referral letter (record artifact)</displayName>
+</concept>
+<concept code="25731000000109">
+<displayName lang="en-GB" type="PT">Mail from patient</displayName>
+<displayName lang="en-GB" type="FSN">Mail from patient (record artifact)</displayName>
+</concept>
+<concept code="25831000000103">
+<displayName lang="en-GB" type="PT">Image (document)</displayName>
+<displayName lang="en-GB" type="FSN">Image (document) (record artifact)</displayName>
+</concept>
+<concept code="37341000000109">
+<displayName lang="en-GB" type="PT">Alert note</displayName>
+<displayName lang="en-GB" type="FSN">Alert note (record artifact)</displayName>
+</concept>
+<concept code="163111000000100">
+<displayName lang="en-GB" type="PT">Medication Record</displayName>
+<displayName lang="en" type="FSN">Medication record - care record element (record artifact)</displayName>
+<displayName lang="en-GB" type="SY">Medication Record - Care Record Element</displayName>
+</concept>
+<concept code="163221000000102">
+<displayName lang="en-GB" type="PT">Allergies and Adverse Reactions</displayName>
+<displayName lang="en" type="FSN">Allergies and adverse reactions - care record element (record artifact)</displayName>
+<displayName lang="en-GB" type="SY">Allergies and Adverse Reactions - Care Record Element</displayName>
+</concept>
+<concept code="325661000000106">
+<displayName lang="en" type="PT">Care plan</displayName>
+<displayName lang="en" type="FSN">Care plan (record artifact)</displayName>
+</concept>
+<concept code="325931000000109">
+<displayName lang="en" type="PT">Assessment</displayName>
+<displayName lang="en" type="FSN">Assessment encounter type (record artifact)</displayName>
+</concept>
+<concept code="526591000000108">
+<displayName lang="en" type="PT">Record of fluid balance</displayName>
+<displayName lang="en" type="FSN">Record of fluid balance (record artifact)</displayName>
+</concept>
+<concept code="716921000000105">
+<displayName lang="en-GB" type="PT">Fulfiller request</displayName>
+<displayName lang="en" type="FSN">Fulfiller request (record artifact)</displayName>
+<displayName lang="en" type="SY">Service order request</displayName>
+</concept>
+<concept code="717321000000108">
+<displayName lang="en-GB" type="PT">Diagnostic imaging report</displayName>
+<displayName lang="en" type="FSN">Diagnostic imaging report (record artifact)</displayName>
+</concept>
+<concept code="819981000000101">
+<displayName lang="en" type="PT">Nursing assessment record</displayName>
+<displayName lang="en" type="FSN">Nursing assessment record (record artifact)</displayName>
+</concept>
+<concept code="819991000000104">
+<displayName lang="en" type="PT">Allied health professional assessment record</displayName>
+<displayName lang="en" type="FSN">Allied health professional assessment record (record artifact)</displayName>
+<displayName lang="en" type="SY">AHP (allied health professional) assessment record</displayName>
+</concept>
+<concept code="820011000000105">
+<displayName lang="en" type="PT">CAF (common assessment framework) assessment record</displayName>
+<displayName lang="en" type="FSN">Common assessment framework assessment record (record artifact)</displayName>
+</concept>
+<concept code="820021000000104">
+<displayName lang="en" type="PT">SSA - single shared assessment record</displayName>
+<displayName lang="en" type="FSN">Single shared assessment record (record artifact)</displayName>
+</concept>
+<concept code="820031000000102">
+<displayName lang="en" type="PT">CPA (care programme approach) assessment record</displayName>
+<displayName lang="en" type="FSN">Care programme approach assessment record (record artifact)</displayName>
+</concept>
+<concept code="820041000000106">
+<displayName lang="en" type="PT">Multidisciplinary assessment record</displayName>
+<displayName lang="en" type="FSN">Multidisciplinary assessment record (record artifact)</displayName>
+</concept>
+<concept code="820071000000100">
+<displayName lang="en" type="PT">Pre-admission assessment record</displayName>
+<displayName lang="en" type="FSN">Pre-admission assessment record (record artifact)</displayName>
+</concept>
+<concept code="820081000000103">
+<displayName lang="en" type="PT">Self assessment record</displayName>
+<displayName lang="en" type="FSN">Self assessment record (record artifact)</displayName>
+</concept>
+<concept code="820091000000101">
+<displayName lang="en" type="PT">Medical assessment record</displayName>
+<displayName lang="en" type="FSN">Medical assessment record (record artifact)</displayName>
+</concept>
+<concept code="820101000000109">
+<displayName lang="en" type="PT">Social services assessment record</displayName>
+<displayName lang="en" type="FSN">Social services assessment record (record artifact)</displayName>
+</concept>
+<concept code="820121000000100">
+<displayName lang="en" type="PT">Discharge care plan</displayName>
+<displayName lang="en" type="FSN">Discharge care plan (record artifact)</displayName>
+</concept>
+<concept code="820141000000107">
+<displayName lang="en" type="PT">Record of fundal height measurement</displayName>
+<displayName lang="en" type="FSN">Record of fundal height measurement (record artifact)</displayName>
+</concept>
+<concept code="820161000000108">
+<displayName lang="en" type="PT">Growth chart</displayName>
+<displayName lang="en" type="FSN">Growth chart (record artifact)</displayName>
+</concept>
+<concept code="820191000000102">
+<displayName lang="en" type="PT">Partogram</displayName>
+<displayName lang="en" type="FSN">Partogram (record artifact)</displayName>
+</concept>
+<concept code="820211000000103">
+<displayName lang="en" type="PT">Patient safety checklist</displayName>
+<displayName lang="en" type="FSN">Patient safety checklist (record artifact)</displayName>
+</concept>
+<concept code="820221000000109">
+<displayName lang="en" type="PT">Inpatient medical note</displayName>
+<displayName lang="en" type="FSN">Inpatient medical note (record artifact)</displayName>
+</concept>
+<concept code="820241000000102">
+<displayName lang="en" type="PT">Medical photograph</displayName>
+<displayName lang="en" type="FSN">Medical photograph (record artifact)</displayName>
+</concept>
+<concept code="820251000000104">
+<displayName lang="en" type="PT">Interventional radiology record</displayName>
+<displayName lang="en" type="FSN">Interventional radiology record (record artifact)</displayName>
+</concept>
+<concept code="820261000000101">
+<displayName lang="en" type="PT">Controlled drug dispensing record</displayName>
+<displayName lang="en" type="FSN">Controlled drug dispensing record (record artifact)</displayName>
+</concept>
+<concept code="820271000000108">
+<displayName lang="en" type="PT">Chemotherapy record</displayName>
+<displayName lang="en" type="FSN">Chemotherapy record (record artifact)</displayName>
+</concept>
+<concept code="820291000000107">
+<displayName lang="en" type="PT">Infectious disease notification</displayName>
+<displayName lang="en" type="FSN">Infectious disease notification (record artifact)</displayName>
+</concept>
+<concept code="820301000000106">
+<displayName lang="en" type="PT">Adoption report</displayName>
+<displayName lang="en" type="FSN">Adoption report (record artifact)</displayName>
+</concept>
+<concept code="820441000000103">
+<displayName lang="en" type="PT">Weight chart</displayName>
+<displayName lang="en" type="FSN">Weight chart (record artifact)</displayName>
+</concept>
+<concept code="820451000000100">
+<displayName lang="en" type="PT">Medical note</displayName>
+<displayName lang="en" type="FSN">Medical note (record artifact)</displayName>
+</concept>
+<concept code="820461000000102">
+<displayName lang="en" type="PT">Multidisciplinary note</displayName>
+<displayName lang="en" type="FSN">Multidisciplinary note (record artifact)</displayName>
+</concept>
+<concept code="820471000000109">
+<displayName lang="en" type="PT">Nursing note</displayName>
+<displayName lang="en" type="FSN">Nursing note (record artifact)</displayName>
+</concept>
+<concept code="820481000000106">
+<displayName lang="en" type="PT">Outpatient nursing note</displayName>
+<displayName lang="en" type="FSN">Outpatient nursing note (record artifact)</displayName>
+</concept>
+<concept code="820491000000108">
+<displayName lang="en" type="PT">Outpatient medical note</displayName>
+<displayName lang="en" type="FSN">Outpatient medical note (record artifact)</displayName>
+</concept>
+<concept code="820501000000102">
+<displayName lang="en" type="PT">Nutritional record</displayName>
+<displayName lang="en" type="FSN">Nutritional record (record artifact)</displayName>
+</concept>
+<concept code="820511000000100">
+<displayName lang="en" type="PT">Endoscopy record</displayName>
+<displayName lang="en" type="FSN">Endoscopy record (record artifact)</displayName>
+</concept>
+<concept code="822751000000105">
+<displayName lang="en" type="PT">Organ donor card</displayName>
+<displayName lang="en" type="FSN">Organ donor card (record artifact)</displayName>
+</concept>
+<concept code="822761000000108">
+<displayName lang="en" type="PT">Patient preferences record</displayName>
+<displayName lang="en" type="FSN">Patient preferences record (record artifact)</displayName>
+</concept>
+<concept code="822771000000101">
+<displayName lang="en" type="PT">Pulmonary investigation record</displayName>
+<displayName lang="en" type="FSN">Pulmonary investigation record (record artifact)</displayName>
+</concept>
+<concept code="822781000000104">
+<displayName lang="en" type="PT">Vascular investigation record</displayName>
+<displayName lang="en" type="FSN">Vascular investigation record (record artifact)</displayName>
+</concept>
+<concept code="822791000000102">
+<displayName lang="en" type="PT">Cardiac investigation record</displayName>
+<displayName lang="en" type="FSN">Cardiac investigation record (record artifact)</displayName>
+</concept>
+<concept code="822801000000103">
+<displayName lang="en" type="PT">Gastroenterology investigation record</displayName>
+<displayName lang="en" type="FSN">Gastroenterology investigation record (record artifact)</displayName>
+</concept>
+<concept code="822811000000101">
+<displayName lang="en" type="PT">Neurological investigation record</displayName>
+<displayName lang="en" type="FSN">Neurological investigation record (record artifact)</displayName>
+</concept>
+<concept code="822821000000107">
+<displayName lang="en" type="PT">Echography report</displayName>
+<displayName lang="en" type="FSN">Echography report (record artifact)</displayName>
+</concept>
+<concept code="822831000000109">
+<displayName lang="en" type="PT">Audiology investigation record</displayName>
+<displayName lang="en" type="FSN">Audiology investigation record (record artifact)</displayName>
+</concept>
+<concept code="823561000000105">
+<displayName lang="en" type="PT">Pre-operative assessment record</displayName>
+<displayName lang="en" type="FSN">Pre-operative assessment record (record artifact)</displayName>
+</concept>
+<concept code="823571000000103">
+<displayName lang="en" type="PT">Scored assessment record</displayName>
+<displayName lang="en" type="FSN">Scored assessment record (record artifact)</displayName>
+</concept>
+<concept code="823581000000101">
+<displayName lang="en" type="PT">Multidisciplinary care plan</displayName>
+<displayName lang="en" type="FSN">Multidisciplinary care plan (record artifact)</displayName>
+</concept>
+<concept code="823591000000104">
+<displayName lang="en" type="PT">Operating theatre patient checklist</displayName>
+<displayName lang="en" type="FSN">Operating theatre patient checklist (record artifact)</displayName>
+</concept>
+<concept code="823601000000105">
+<displayName lang="en" type="PT">Critical care chart</displayName>
+<displayName lang="en" type="FSN">Critical care chart (record artifact)</displayName>
+</concept>
+<concept code="823611000000107">
+<displayName lang="en" type="PT">Vital signs chart</displayName>
+<displayName lang="en" type="FSN">Vital signs chart (record artifact)</displayName>
+</concept>
+<concept code="823621000000101">
+<displayName lang="en" type="PT">Observation chart</displayName>
+<displayName lang="en" type="FSN">Observation chart (record artifact)</displayName>
+</concept>
+<concept code="823631000000104">
+<displayName lang="en" type="PT">OOH (out of hours) note</displayName>
+<displayName lang="en" type="FSN">Out of hours note (record artifact)</displayName>
+</concept>
+<concept code="823641000000108">
+<displayName lang="en" type="PT">AHP (allied health professional) note</displayName>
+<displayName lang="en" type="FSN">Allied health professional note (record artifact)</displayName>
+</concept>
+<concept code="823651000000106">
+<displayName lang="en" type="PT">Clinical note</displayName>
+<displayName lang="en" type="FSN">Clinical note (record artifact)</displayName>
+</concept>
+<concept code="823661000000109">
+<displayName lang="en" type="PT">Operation note</displayName>
+<displayName lang="en" type="FSN">Operation note (record artifact)</displayName>
+</concept>
+<concept code="823681000000100">
+<displayName lang="en" type="PT">Outpatient letter</displayName>
+<displayName lang="en" type="FSN">Outpatient letter (record artifact)</displayName>
+</concept>
+<concept code="823691000000103">
+<displayName lang="en" type="PT">Clinical letter</displayName>
+<displayName lang="en" type="FSN">Clinical letter (record artifact)</displayName>
+</concept>
+<concept code="823701000000103">
+<displayName lang="en" type="PT">Discharge letter</displayName>
+<displayName lang="en" type="FSN">Discharge letter (record artifact)</displayName>
+</concept>
+<concept code="823721000000107">
+<displayName lang="en" type="PT">Social Services letter</displayName>
+<displayName lang="en" type="FSN">Social Services letter (record artifact)</displayName>
+</concept>
+<concept code="823731000000109">
+<displayName lang="en" type="PT">Transfer of care letter</displayName>
+<displayName lang="en" type="FSN">Transfer of care letter (record artifact)</displayName>
+</concept>
+<concept code="823741000000100">
+<displayName lang="en" type="PT">Admission letter</displayName>
+<displayName lang="en" type="FSN">Admission letter (record artifact)</displayName>
+</concept>
+<concept code="823751000000102">
+<displayName lang="en" type="PT">Letter</displayName>
+<displayName lang="en" type="FSN">Letter (record artifact)</displayName>
+</concept>
+<concept code="823761000000104">
+<displayName lang="en" type="PT">Administrative letter</displayName>
+<displayName lang="en" type="FSN">Administrative letter (record artifact)</displayName>
+</concept>
+<concept code="823771000000106">
+<displayName lang="en" type="PT">Unscheduled care letter</displayName>
+<displayName lang="en" type="FSN">Unscheduled care letter (record artifact)</displayName>
+</concept>
+<concept code="823781000000108">
+<displayName lang="en" type="PT">MDT (multidisciplinary team) letter</displayName>
+<displayName lang="en" type="FSN">Multidisciplinary team letter (record artifact)</displayName>
+</concept>
+<concept code="823831000000103">
+<displayName lang="en" type="PT">AHP (allied health professional) therapy record</displayName>
+<displayName lang="en" type="FSN">Allied health professional therapy record (record artifact)</displayName>
+</concept>
+<concept code="823841000000107">
+<displayName lang="en" type="PT">Radiotherapy record</displayName>
+<displayName lang="en" type="FSN">Radiotherapy record (record artifact)</displayName>
+</concept>
+<concept code="823871000000101">
+<displayName lang="en" type="PT">Forensic autopsy report</displayName>
+<displayName lang="en" type="FSN">Forensic autopsy report (record artifact)</displayName>
+<displayName lang="en" type="SY">Forensic post mortem report</displayName>
+</concept>
+<concept code="823881000000104">
+<displayName lang="en" type="PT">Do not attempt cardiopulmonary resuscitation order</displayName>
+<displayName lang="en" type="FSN">Do not attempt cardiopulmonary resuscitation order (record artifact)</displayName>
+</concept>
+<concept code="823891000000102">
+<displayName lang="en" type="PT">Allied health professional investigation record</displayName>
+<displayName lang="en" type="FSN">Allied health professional investigation record (record artifact)</displayName>
+<displayName lang="en" type="SY">AHP (allied health professional) investigation record</displayName>
+</concept>
+<concept code="823901000000101">
+<displayName lang="en" type="PT">Non-statutory provider document</displayName>
+<displayName lang="en" type="FSN">Non-statutory provider document (record artifact)</displayName>
+</concept>
+<concept code="823931000000107">
+<displayName lang="en" type="PT">Private provider note</displayName>
+<displayName lang="en" type="FSN">Private provider note (record artifact)</displayName>
+</concept>
+<concept code="823941000000103">
+<displayName lang="en" type="PT">Third party document</displayName>
+<displayName lang="en" type="FSN">Third party document (record artifact)</displayName>
+</concept>
+<concept code="823951000000100">
+<displayName lang="en" type="PT">Adult incapacity report</displayName>
+<displayName lang="en" type="FSN">Adult incapacity report (record artifact)</displayName>
+</concept>
+<concept code="824231000000100">
+<displayName lang="en" type="PT">Temperature chart</displayName>
+<displayName lang="en" type="FSN">Temperature chart (record artifact)</displayName>
+</concept>
+<concept code="824321000000109">
+<displayName lang="en" type="PT">Summary record</displayName>
+<displayName lang="en" type="FSN">Summary record (record artifact)</displayName>
+</concept>
+<concept code="824331000000106">
+<displayName lang="en" type="PT">Inpatient final discharge letter</displayName>
+<displayName lang="en" type="FSN">Inpatient final discharge letter (record artifact)</displayName>
+</concept>
+<concept code="824341000000102">
+<displayName lang="en" type="PT">Immediate inpatient discharge letter</displayName>
+<displayName lang="en" type="FSN">Immediate inpatient discharge letter (record artifact)</displayName>
+</concept>
+<concept code="824781000000106">
+<displayName lang="en" type="PT">Drug administration chart</displayName>
+<displayName lang="en" type="FSN">Drug administration chart (record artifact)</displayName>
+</concept>
+<concept code="824791000000108">
+<displayName lang="en" type="PT">Prescription and administration record</displayName>
+<displayName lang="en" type="FSN">Prescription and administration record (record artifact)</displayName>
+</concept>
+<concept code="824801000000107">
+<displayName lang="en" type="PT">Patient master index sheet</displayName>
+<displayName lang="en" type="FSN">Patient master index sheet (record artifact)</displayName>
+<displayName lang="en" type="SY">Front sheet</displayName>
+</concept>
+<concept code="824831000000101">
+<displayName lang="en" type="PT">Consent form</displayName>
+<displayName lang="en" type="FSN">Consent form (record artifact)</displayName>
+</concept>
+<concept code="824861000000106">
+<displayName lang="en" type="PT">Ambulance service patient report form</displayName>
+<displayName lang="en" type="FSN">Ambulance service patient report form (record artifact)</displayName>
+</concept>
+<concept code="826491000000106">
+<displayName lang="en" type="PT">Intervention record</displayName>
+<displayName lang="en" type="FSN">Intervention record (record artifact)</displayName>
+</concept>
+<concept code="826501000000100">
+<displayName lang="en" type="PT">Miscellaneous record</displayName>
+<displayName lang="en" type="FSN">Miscellaneous record (record artifact)</displayName>
+</concept>
+<concept code="826511000000103">
+<displayName lang="en" type="PT">Exemption form</displayName>
+<displayName lang="en" type="FSN">Exemption form (record artifact)</displayName>
+</concept>
+<concept code="826521000000109">
+<displayName lang="en" type="PT">Refusal form</displayName>
+<displayName lang="en" type="FSN">Refusal form (record artifact)</displayName>
+</concept>
+<concept code="826541000000102">
+<displayName lang="en" type="PT">Power of attorney and legal guardianship record</displayName>
+<displayName lang="en" type="FSN">Power of attorney and legal guardianship record (record artifact)</displayName>
+</concept>
+<concept code="826621000000105">
+<displayName lang="en" type="PT">Legal notice</displayName>
+<displayName lang="en" type="FSN">Legal notice (record artifact)</displayName>
+</concept>
+<concept code="826631000000107">
+<displayName lang="en" type="PT">Mental Health Act notice</displayName>
+<displayName lang="en" type="FSN">Mental Health Act notice (record artifact)</displayName>
+</concept>
+<concept code="826651000000100">
+<displayName lang="en" type="PT">Notification and legal document</displayName>
+<displayName lang="en" type="FSN">Notification and legal document (record artifact)</displayName>
+</concept>
+<concept code="827701000000106">
+<displayName lang="en" type="PT">Living will and advance directive record</displayName>
+<displayName lang="en" type="FSN">Living will and advance directive record (record artifact)</displayName>
+</concept>
+<concept code="827711000000108">
+<displayName lang="en" type="PT">Electrocardiograph</displayName>
+<displayName lang="en" type="FSN">Electrocardiograph (record artifact)</displayName>
+<displayName lang="en" type="SY">ECG - electrocardiograph</displayName>
+</concept>
+<concept code="827721000000102">
+<displayName lang="en" type="PT">Urodynamics record</displayName>
+<displayName lang="en" type="FSN">Urodynamics record (record artifact)</displayName>
+</concept>
+<concept code="829201000000105">
+<displayName lang="en" type="PT">Inpatient nursing note</displayName>
+<displayName lang="en" type="FSN">Inpatient nursing note (record artifact)</displayName>
+</concept>
+<concept code="829581000000103">
+<displayName lang="en" type="PT">Life insurance report</displayName>
+<displayName lang="en" type="FSN">Life insurance report (record artifact)</displayName>
+</concept>
+<concept code="866371000000107">
+<displayName lang="en" type="PT">Child Screening Report</displayName>
+<displayName lang="en" type="FSN">Child Screening Report (record artifact)</displayName>
+</concept>
+<concept code="886831000000103">
+<displayName lang="en" type="PT">Clinical risk assessment</displayName>
+<displayName lang="en" type="FSN">Clinical risk assessment (record artifact)</displayName>
+</concept>
+<concept code="908621000000106">
+<displayName lang="en" type="PT">End of life care report</displayName>
+<displayName lang="en" type="FSN">End of life care report (record artifact)</displayName>
+</concept>
+<concept code="909031000000105">
+<displayName lang="en" type="PT">Adult safeguarding report</displayName>
+<displayName lang="en" type="FSN">Adult safeguarding report (record artifact)</displayName>
+</concept>
+<concept code="909041000000101">
+<displayName lang="en" type="PT">Child safeguarding report</displayName>
+<displayName lang="en" type="FSN">Child safeguarding report (record artifact)</displayName>
+</concept>
+<concept code="909871000000100">
+<displayName lang="en" type="PT">Histocompatibility and immunogenetics</displayName>
+<displayName lang="en" type="FSN">Histocompatibility and immunogenetics (record artifact)</displayName>
+</concept>
+<concept code="909921000000109">
+<displayName lang="en" type="PT">Did not attend letter</displayName>
+<displayName lang="en" type="FSN">Did not attend letter (record artifact)</displayName>
+<displayName lang="en" type="SY">DNA (did not attend) letter</displayName>
+</concept>
+<concept code="914841000000105">
+<displayName lang="en" type="PT">Anticipatory care plan</displayName>
+<displayName lang="en" type="FSN">Anticipatory care plan (record artifact)</displayName>
+</concept>
+<concept code="914851000000108">
+<displayName lang="en" type="PT">Ambulatory ECG (electrocardiography) monitoring report</displayName>
+<displayName lang="en" type="FSN">Ambulatory electrocardiographic monitoring report (record artifact)</displayName>
+<displayName lang="en" type="SY">Ambulatory electrocardiographic monitoring report</displayName>
+</concept>
+<concept code="914861000000106">
+<displayName lang="en" type="PT">ETT (exercise tolerance test) report</displayName>
+<displayName lang="en" type="FSN">Exercise tolerance test report (record artifact)</displayName>
+<displayName lang="en" type="SY">Exercise tolerance test report</displayName>
+</concept>
+<concept code="918401000000103">
+<displayName lang="en" type="PT">Implanted device maintenance report</displayName>
+<displayName lang="en" type="FSN">Implanted device maintenance report (record artifact)</displayName>
+</concept>
+<concept code="927061000000101">
+<displayName lang="en" type="PT">Gait analysis assessment record</displayName>
+<displayName lang="en" type="FSN">Gait analysis assessment record (record artifact)</displayName>
+</concept>
+<concept code="927071000000108">
+<displayName lang="en" type="PT">Upper gastrointestinal tract endoscopy report</displayName>
+<displayName lang="en" type="FSN">Upper gastrointestinal tract endoscopy report (record artifact)</displayName>
+</concept>
+<concept code="927081000000105">
+<displayName lang="en" type="PT">Lower gastrointestinal tract endoscopy report</displayName>
+<displayName lang="en" type="FSN">Lower gastrointestinal tract endoscopy report (record artifact)</displayName>
+</concept>
+<concept code="935921000000102">
+<displayName lang="en" type="PT">End of life care plan</displayName>
+<displayName lang="en" type="FSN">End of life care plan (record artifact)</displayName>
+</concept>
+<concept code="962381000000101">
+<displayName lang="en" type="PT">Nuclear medicine images</displayName>
+<displayName lang="en" type="FSN">Nuclear medicine images (record artifact)</displayName>
+</concept>
+<concept code="962391000000104">
+<displayName lang="en" type="PT">Nuclear medicine report</displayName>
+<displayName lang="en" type="FSN">Nuclear medicine report (record artifact)</displayName>
+</concept>
+<concept code="962401000000101">
+<displayName lang="en" type="PT">Visual field report</displayName>
+<displayName lang="en" type="FSN">Visual field report (record artifact)</displayName>
+</concept>
+<concept code="962891000000106">
+<displayName lang="en" type="PT">Individualised Treatment Guideline</displayName>
+<displayName lang="en" type="FSN">Individualised Treatment Guideline (record artifact)</displayName>
+</concept>
+<concept code="962901000000107">
+<displayName lang="en" type="PT">Ultraviolet light therapy treatment record</displayName>
+<displayName lang="en" type="FSN">Ultraviolet light therapy treatment record (record artifact)</displayName>
+</concept>
+<concept code="983701000000101">
+<displayName lang="en" type="PT">Non Procurator Fiscal post mortem report</displayName>
+<displayName lang="en" type="FSN">Non Procurator Fiscal post mortem report (record artifact)</displayName>
+</concept>
+</vocabulary>

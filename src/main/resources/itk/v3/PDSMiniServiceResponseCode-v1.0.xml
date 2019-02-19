@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PDSMiniServiceResponseCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.285">
+   <Description>
+            <p>A vocabulary to support the responses received from the PDS Mini Services.</p>
+         </Description>
+   <concept code="DEMOG-0001">
+      <displayName>No Match</displayName>
+   </concept>
+   <concept code="DEMOG-0007">
+      <displayName>Multiple matches found</displayName>
+   </concept>
+   <concept code="DEMOG-0017">
+      <displayName>Superceding NHS number returned</displayName>
+   </concept>
+   <concept code="DEMOG-0022">
+      <displayName>NHS Number of response record has been invalidated</displayName>
+   </concept>
+   <concept code="DEMOG-0040">
+      <displayName>NHS number not verified</displayName>
+   </concept>
+   <concept code="DEMOG-0042">
+      <displayName>NHS Number is not a new style number</displayName>
+   </concept>
+   <concept code="DEMOG-9999">
+      <displayName>Generic Spine Service Error</displayName>
+   </concept>
+   <concept code="SMSP-0000">
+      <displayName>Success</displayName>
+   </concept>
+   <concept code="SMSP-0001">
+      <displayName>Input message validation error</displayName>
+   </concept>
+   <concept code="SMSP-0002">
+      <displayName>Response message validation error</displayName>
+   </concept>
+   <concept code="SMSP-9999">
+      <displayName>Generic Spine Mini Service Provider software failure</displayName>
+   </concept>
+   <concept code="SMSP-0003">
+      <displayName>Data returned from local store, Spine unavailable</displayName>
+   </concept>
+</vocabulary>

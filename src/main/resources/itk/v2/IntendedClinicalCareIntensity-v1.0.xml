@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="IntendedClinicalCareIntensity" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.17">
+   <Description>Intended Clinical Care Intensity: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="11">
+      <displayName>for intensive therapy, including high dependency care</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>for normal therapy: where resources permit the admission of patients who might need all but intensive or high dependency therapy</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>for limited therapy: where nursing care rather than continuous medical care is provided. Such wards can be used only for patients carefully selected and restricted to a narrow range in terms of the extent and nature of disease restricted to a narrow range in terms of the extent and nature of disease</displayName>
+   </concept>
+   <concept code="21">
+      <displayName>spinal units, only those units which are nationally recognised</displayName>
+   </concept>
+   <concept code="22">
+      <displayName>other units</displayName>
+   </concept>
+   <concept code="31">
+      <displayName>not associated with the maternity ward and in which there are some designated cots for intensive care</displayName>
+   </concept>
+   <concept code="32">
+      <displayName>non-maternity: not associated with the maternity ward and without designated cots for intensive care</displayName>
+   </concept>
+   <concept code="33">
+      <displayName>maternity: associated with the maternity ward in that cots are in the maternity ward nursery or in the ward itself</displayName>
+   </concept>
+   <concept code="41">
+      <displayName>only for patients looked after by consultants</displayName>
+   </concept>
+   <concept code="42">
+      <displayName>for joint use by consultants &amp; General Medical Practitioners</displayName>
+   </concept>
+   <concept code="43">
+      <displayName>only for patients looked after by General Medical Practitioners</displayName>
+   </concept>
+   <concept code="51">
+      <displayName>for intensive care: specially designated ward for patients needing containment and more intensive management. This is not to be confused with intensive nursing where a patients may require one to one nursing while on a standard ward</displayName>
+   </concept>
+   <concept code="52">
+      <displayName>for short stay: patients intended to stay less than a year</displayName>
+   </concept>
+   <concept code="53">
+      <displayName>for long stay: patients intended to stay a year or more</displayName>
+   </concept>
+   <concept code="61">
+      <displayName>designated or interim secure unit</displayName>
+   </concept>
+   <concept code="62">
+      <displayName>patients intending to stay less than a year</displayName>
+   </concept>
+   <concept code="63">
+      <displayName>patients intending to stay a year or more</displayName>
+   </concept>
+   <concept code="71">
+      <displayName>Home Leave, non-psychiatric</displayName>
+   </concept>
+   <concept code="72">
+      <displayName>Home Leave, psychiatric</displayName>
+   </concept>
+   <concept code="81">
+      <displayName>terminally ill/palliative care</displayName>
+   </concept>
+</vocabulary>

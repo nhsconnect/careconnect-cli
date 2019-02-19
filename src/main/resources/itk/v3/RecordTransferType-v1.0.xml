@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RecordTransferType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.204">
+   <Description>
+            <p> </p>To indicate the type record transfer.<br/>
+            <p> </p>
+         </Description>
+   <concept code="EHR">
+      <displayName>Electronic Health Record Transfer</displayName>
+   </concept>
+</vocabulary>

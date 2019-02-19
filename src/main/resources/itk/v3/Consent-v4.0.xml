@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Consent" version="4.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.16.2">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary <i>Consent</i>
+            </p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.2</p>
+            <p>A patient's consent to having their clinical details used by NHS organisations for clinical consultation, treatment and for secondary uses of the data such as research purposes. There are also codes that give the status of consent to being called back from a call centre.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Express consent</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Express dissent</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>No</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Yes</displayName>
+   </concept>
+</vocabulary>

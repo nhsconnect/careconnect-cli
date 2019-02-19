@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MatchAlgorithms" version="1.0" status="created"
+            id="2.16.840.1.113883.12.393">
+   <Description>This table contains a text value indicating the name or identity of the specific search algorithm.
+					Table type: User</Description>
+   <concept code="LINKSOFT_2.01">
+      <displayName>Proprietary algorithm for LinkSoft v2.01</displayName>
+   </concept>
+   <concept code="MATCHWARE_1.2">
+      <displayName>Proprietary algorithm for MatchWare v1.2</displayName>
+   </concept>
+</vocabulary>

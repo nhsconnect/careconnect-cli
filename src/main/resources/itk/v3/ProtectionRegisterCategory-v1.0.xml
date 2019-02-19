@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProtectionRegisterCategory" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.236">
+   <Description>
+            <p>A set of codes indicating the category of the protection register.</p>
+         </Description>
+   <concept code="P">
+      <displayName>Physical</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Sexual</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>Emotional</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Neglect</displayName>
+   </concept>
+</vocabulary>

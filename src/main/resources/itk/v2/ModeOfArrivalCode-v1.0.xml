@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ModeOfArrivalCode" version="1.0" status="created"
+            id="2.16.840.1.113883.12.430">
+   <Description>This table identifies how the patient was brought to the healthcare facility.
+					Table type: User</Description>
+   <concept code="A">
+      <displayName>Ambulance</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Car</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>On foot</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Helicopter</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Public Transport</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unknown</displayName>
+   </concept>
+</vocabulary>

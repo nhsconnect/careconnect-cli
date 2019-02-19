@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CorrespondenceSuppression" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.90">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.90</p>
+            <p>A code to convey whether correspondence should be suppressed or not.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Suppress correspondence</displayName>
+   </concept>
+   <concept code="0">
+      <displayName>Do not suppress correspondence</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DSTOutcomeLevelOfNeed" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.279">
+   <Description>
+            <p>A set of codes that support DST level of need statements.</p>
+         </Description>
+   <concept code="Priority">
+      <displayName>Priority Level of Need Identified</displayName>
+   </concept>
+   <concept code="Severe">
+      <displayName>Severe Level of Need Identified</displayName>
+   </concept>
+   <concept code="High">
+      <displayName>High Level of Need Identified</displayName>
+   </concept>
+   <concept code="Moderate">
+      <displayName>Some Level of Need Identified</displayName>
+   </concept>
+   <concept code="Low">
+      <displayName>Low  Level of Need Identified</displayName>
+   </concept>
+   <concept code="NoNeeds">
+      <displayName>No Needs Identified</displayName>
+   </concept>
+</vocabulary>

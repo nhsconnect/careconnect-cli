@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Anticipatory medicine supply procedures" type="Realm Concept" setId="67251000000132" version="3" id="47741000000130" refId="999001961000000105" memberCount="5" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="376201000000102">
+<displayName lang="en" type="PT">Issue of palliative care anticipatory medication box</displayName>
+<displayName lang="en" type="FSN">Issue of palliative care anticipatory medication box (procedure)</displayName>
+<displayName lang="en" type="SY">Issue of palliative care just in case box</displayName>
+</concept>
+<concept code="517451000000109">
+<displayName lang="en" type="PT">Advance supply of steroid medication</displayName>
+<displayName lang="en" type="FSN">Advance supply of steroid medication (procedure)</displayName>
+</concept>
+<concept code="517671000000103">
+<displayName lang="en" type="PT">Advance supply of antibiotic medication</displayName>
+<displayName lang="en" type="FSN">Advance supply of antibiotic medication (procedure)</displayName>
+</concept>
+<concept code="818311000000104">
+<displayName lang="en" type="PT">Advance supply of controlled medication</displayName>
+<displayName lang="en" type="FSN">Advance supply of controlled medication (procedure)</displayName>
+</concept>
+<concept code="871021000000106">
+<displayName lang="en" type="PT">Prescription of palliative care anticipatory medication</displayName>
+<displayName lang="en" type="FSN">Prescription of palliative care anticipatory medication (procedure)</displayName>
+</concept>
+</vocabulary>

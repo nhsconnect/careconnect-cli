@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionWithdrawType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.109">
+   <Description>
+            <p>A code indicating the type of prescription withdrawal.</p>
+         </Description>
+   <concept code="PS">
+      <displayName>Protocol Supply</displayName>
+   </concept>
+   <concept code="PA">
+      <displayName>Personal Administration</displayName>
+   </concept>
+   <concept code="LD">
+      <displayName>Last Dispense</displayName>
+   </concept>
+   <concept code="AD">
+      <displayName>All Dispenses for an instance</displayName>
+   </concept>
+</vocabulary>

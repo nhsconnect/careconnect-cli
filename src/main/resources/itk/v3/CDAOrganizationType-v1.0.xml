@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CDAOrganizationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.191">
+   <Description>
+            <p>The type of organization.</p>
+         </Description>
+   <concept code="001">
+      <displayName>General Medical Practice</displayName>
+   </concept>
+   <concept code="002">
+      <displayName>General Dental Practice</displayName>
+   </concept>
+   <concept code="003">
+      <displayName>Community Pharmacy</displayName>
+   </concept>
+   <concept code="004">
+      <displayName>Community Opticians</displayName>
+   </concept>
+   <concept code="005">
+      <displayName>Primary Care Trust</displayName>
+   </concept>
+   <concept code="006">
+      <displayName>Strategic Health Authority</displayName>
+   </concept>
+   <concept code="007">
+      <displayName>Special Health Authority</displayName>
+   </concept>
+   <concept code="008">
+      <displayName>Acute Trust</displayName>
+   </concept>
+   <concept code="009">
+      <displayName>Care Trust</displayName>
+   </concept>
+   <concept code="010">
+      <displayName>Community Trust</displayName>
+   </concept>
+   <concept code="011">
+      <displayName>Diagnostic and Investigation Centre</displayName>
+   </concept>
+   <concept code="012">
+      <displayName>Walk-in Centre</displayName>
+   </concept>
+   <concept code="013">
+      <displayName>NHS Direct</displayName>
+   </concept>
+   <concept code="014">
+      <displayName>Local Authority Social Services Department</displayName>
+   </concept>
+   <concept code="015">
+      <displayName>Nursing Home</displayName>
+   </concept>
+   <concept code="016">
+      <displayName>Residential Home</displayName>
+   </concept>
+   <concept code="017">
+      <displayName>Hospice</displayName>
+   </concept>
+   <concept code="018">
+      <displayName>Ambulance Trust</displayName>
+   </concept>
+   <concept code="019">
+      <displayName>Private Hospital</displayName>
+   </concept>
+   <concept code="020">
+      <displayName>GMP Deputising Service</displayName>
+   </concept>
+   <concept code="021">
+      <displayName>Nursing Agency</displayName>
+   </concept>
+   <concept code="999">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

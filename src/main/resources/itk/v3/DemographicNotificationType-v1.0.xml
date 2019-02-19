@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DemographicNotificationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.213">
+   <Description>
+            <p>The type of demographic notification.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Registration</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Change</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Merge</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Removal</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Pending Removal</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Cancelled Pending Removal</displayName>
+   </concept>
+</vocabulary>

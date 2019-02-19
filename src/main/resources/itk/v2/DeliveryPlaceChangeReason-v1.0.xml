@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DeliveryPlaceChangeReason" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.42">
+   <Description>Delivery Place Change Reason: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Decision made during pregnancy because of change of address</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Decision made during pregnancy for clinical reasons</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Decision made during pregnancy for other reasons</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Decision made during labour for clinical reasons</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Decision made during labour for other reasons</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Occurred unintentionally during labour</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Not applicable</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

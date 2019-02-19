@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DocumentDQState" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.189">
+   <Description>
+            <p>A vocabulary to specify the available data-quality states that a PSIS record can have attributed to it.</p>
+         </Description>
+   <concept code="NORMAL">
+      <displayName>Normal</displayName>
+   </concept>
+   <concept code="DQSUSPECT">
+      <displayName>Data Quality Suspect</displayName>
+   </concept>
+   <concept code="DQNULLIFIED">
+      <displayName>Data Quality Nullified</displayName>
+   </concept>
+</vocabulary>

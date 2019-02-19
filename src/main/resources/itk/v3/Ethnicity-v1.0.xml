@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Ethnicity" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.81">
+   <Description>
+            <p>
+               <p/>
+               <p/>
+               <p>Default Scheme : NHS Data Model and Dictionary for England, ETHNIC CATEGORY CODE </p>
+               <p>The ethnicity of a person, as specified by the person, for values defined by the NHS Data Model and Dictionary for England.   This vocabulary is based on the classification used for the 2001  census, replacing ETHNIC GROUP in the Commissioning Data Set Flows.</p>
+               <p>Note:  Where there is a requirement to use an extended set of values then the <b target="_blank" title="EthnicCategory">EthnicCategory</b> vocabulary maybe used.<br/>
+               </p>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+            </p>
+         </Description>
+   <concept code="A">
+      <displayName>British</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Irish</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Any other White background</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>White and Black Caribbean</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>White and Black African</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>White and Asian</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Any other mixed background</displayName>
+   </concept>
+   <concept code="H">
+      <displayName>Indian</displayName>
+   </concept>
+   <concept code="J">
+      <displayName>Pakistani</displayName>
+   </concept>
+   <concept code="K">
+      <displayName>Bangladeshi</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Any other Asian background</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Caribbean</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>African</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Any other Black background</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Chinese</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Any other ethnic group</displayName>
+   </concept>
+   <concept code="Z">
+      <displayName>Not stated</displayName>
+   </concept>
+</vocabulary>

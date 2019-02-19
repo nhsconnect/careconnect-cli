@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrGP2GPCategoryCode" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.79">
+   <Description>
+            <p>This value set only applies to CompoundStatements at 'category' level (classCode='CATEGORY'). It is used to organise the record into sections within a composition or topic.</p>
+         </Description>
+   <concept code="25721000000107">
+      <displayName>Template entry</displayName>
+   </concept>
+   <concept code="15581000000105">
+      <displayName>Record headings</displayName>
+   </concept>
+   <concept code="394830001">
+      <displayName>Action Plan (Community)</displayName>
+   </concept>
+   <concept code="394831002">
+      <displayName>Examination</displayName>
+   </concept>
+   <concept code="394867009">
+      <displayName>Health Administration</displayName>
+   </concept>
+   <concept code="394832009">
+      <displayName>Health Needs (Community)</displayName>
+   </concept>
+   <concept code="15621000000105">
+      <displayName>History</displayName>
+   </concept>
+   <concept code="225334002">
+      <displayName>Intervention</displayName>
+   </concept>
+   <concept code="119270007">
+      <displayName>Management</displayName>
+   </concept>
+   <concept code="394835006">
+      <displayName>Patient Medication Advice</displayName>
+   </concept>
+   <concept code="3422007">
+      <displayName>Presenting complaint</displayName>
+   </concept>
+   <concept code="394836007">
+      <displayName>Procedure codes (Community)</displayName>
+   </concept>
+   <concept code="394837003">
+      <displayName>Protocol entry</displayName>
+   </concept>
+   <concept code="3457005">
+      <displayName>Referral</displayName>
+   </concept>
+   <concept code="394617004">
+      <displayName>Result</displayName>
+   </concept>
+   <concept code="19019007">
+      <displayName>Symptom</displayName>
+   </concept>
+   <concept code="394838008">
+      <displayName>Test request</displayName>
+   </concept>
+   <concept code="394839000">
+      <displayName>Values (Community)</displayName>
+   </concept>
+   <concept code="308273005">
+      <displayName>Follow up</displayName>
+   </concept>
+   <concept code="394841004">
+      <displayName>Other</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AwarenessOfIssueSnCT" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>Assigned OID: as per Snomed CT, qv the link below.</p>
+            <p>Any code from the SnomedCT UK subset that describes a person's awareness of a care issue, for example of a diagnosis</p>
+            <p>A code taken from <b>SNOMED CT</b>.</p>
+            <p>The code shall describe a person's awareness of a care issue.</p>
+            <p>A code from Snomed-CT (UK) may be accompanied by additional qualifying codes from the same coding system.</p>
+         </Description>
+</vocabulary>

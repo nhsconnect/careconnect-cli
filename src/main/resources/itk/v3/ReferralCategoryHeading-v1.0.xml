@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReferralCategoryHeading" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.96">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.96</p>
+            <p>This describes a heading used to group the clinical information contained in the referral.</p>
+            <p>A clinical information item may appear under more than one heading.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Problem being referred</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Investigations</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Examinations</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Current medication</displayName>
+   </concept>
+   <concept code="05">
+      <displayName>Allergies</displayName>
+   </concept>
+   <concept code="06">
+      <displayName>Intolerances</displayName>
+   </concept>
+   <concept code="07">
+      <displayName>Risk to others</displayName>
+   </concept>
+   <concept code="08">
+      <displayName>Alcohol consumption</displayName>
+   </concept>
+   <concept code="09">
+      <displayName>Smoking habit</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Non-therapeutic drug use</displayName>
+   </concept>
+   <concept code="11">
+      <displayName>Conditions</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Diagnoses</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Procedures</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>Medication</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Family history</displayName>
+   </concept>
+   <concept code="16">
+      <displayName>Housing</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Employment</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="RoleCode" version="1.0" status="active" id="2.16.840.1.113883.5.111">
+   <Description>
+            <p>This vocabulary contains a set of codes to describe the kind of role.<br/>
+            </p>
+         </Description>
+   <concept code="ACC">
+      <displayName>accident site</displayName>
+   </concept>
+   <concept code="ALL">
+      <displayName>Allergy clinic</displayName>
+   </concept>
+   <concept code="AMB">
+      <displayName>Ambulance</displayName>
+   </concept>
+   <concept code="AMPUT">
+      <displayName>Amputee clinic</displayName>
+   </concept>
+   <concept code="AUNT">
+      <displayName>aunt</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Blind</displayName>
+   </concept>
+   <concept code="BF">
+      <displayName>Beef</displayName>
+   </concept>
+   <concept code="BILL">
+      <displayName>Billing Contact</displayName>
+   </concept>
+   <concept code="BL">
+      <displayName>Broiler</displayName>
+   </concept>
+   <concept code="BMTC">
+      <displayName>Bone marrow transplant clinic</displayName>
+   </concept>
+   <concept code="BMTU">
+      <displayName>Bone marrow transplant unit</displayName>
+   </concept>
+   <concept code="BR">
+      <displayName>Breeder</displayName>
+   </concept>
+   <concept code="BREAST">
+      <displayName>Breast clinic</displayName>
+   </concept>
+   <concept code="BRO">
+      <displayName>Brother</displayName>
+   </concept>
+   <concept code="BROINLAW">
+      <displayName>brother-in-law</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Calibrator</displayName>
+   </concept>
+   <concept code="CANC">
+      <displayName>Child and adolescent neurology clinic</displayName>
+   </concept>
+   <concept code="CAPC">
+      <displayName>Child and adolescent psychiatry clinic</displayName>
+   </concept>
+   <concept code="CARD">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Rehabilitation: Cardiac Facilities</displayName>
+   </concept>
+   <concept code="CATH">
+      <displayName>Cardiac catheterization lab</displayName>
+   </concept>
+   <concept code="CCU">
+      <displayName>Coronary care unit</displayName>
+   </concept>
+   <concept code="CHEST">
+      <displayName>Chest unit</displayName>
+   </concept>
+   <concept code="CHILD">
+      <displayName>Child</displayName>
+   </concept>
+   <concept code="CHLDADOPT">
+      <displayName>adopted child</displayName>
+   </concept>
+   <concept code="CHLDFOST">
+      <displayName>foster child</displayName>
+   </concept>
+   <concept code="CHLDINLAW">
+      <displayName>child-in-law</displayName>
+   </concept>
+   <concept code="CHR">
+      <displayName>Chronic Care Facility</displayName>
+   </concept>
+   <concept code="CO">
+      <displayName>Companion</displayName>
+   </concept>
+   <concept code="COAG">
+      <displayName>Coagulation clinic</displayName>
+   </concept>
+   <concept code="COMM">
+      <displayName>Community Location</displayName>
+   </concept>
+   <concept code="COUSN">
+      <displayName>cousin</displayName>
+   </concept>
+   <concept code="CRS">
+      <displayName>Colon and rectal surgery clinic</displayName>
+   </concept>
+   <concept code="CVDX">
+      <displayName>Cardiovascular diagnostics or therapeutics unit</displayName>
+   </concept>
+   <concept code="DA">
+      <displayName>Dairy</displayName>
+   </concept>
+   <concept code="DADDR">
+      <displayName>Delivery Address</displayName>
+   </concept>
+   <concept code="DAU">
+      <displayName>natural daughter</displayName>
+   </concept>
+   <concept code="DAUADOPT">
+      <displayName>adopted daughter</displayName>
+   </concept>
+   <concept code="DAUFOST">
+      <displayName>foster daughter</displayName>
+   </concept>
+   <concept code="DAUINLAW">
+      <displayName>daughter-in-law</displayName>
+   </concept>
+   <concept code="DERM">
+      <displayName>Dermatology clinic</displayName>
+   </concept>
+   <concept code="DOMPART">
+      <displayName>domestic partner</displayName>
+   </concept>
+   <concept code="DR">
+      <displayName>Draft</displayName>
+   </concept>
+   <concept code="DU">
+      <displayName>Dual</displayName>
+   </concept>
+   <concept code="DX">
+      <displayName>Diagnostics or therapeutics unit</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>Electronic QC</displayName>
+   </concept>
+   <concept code="ECHO">
+      <displayName>Echocardiography lab</displayName>
+   </concept>
+   <concept code="ECON">
+      <displayName>emergency contact</displayName>
+   </concept>
+   <concept code="ENDO">
+      <displayName>Endocrinology clinic</displayName>
+   </concept>
+   <concept code="ENDOS">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Endoscopy</displayName>
+   </concept>
+   <concept code="ENT">
+      <displayName>Otorhinolaryngology clinic</displayName>
+   </concept>
+   <concept code="EPIL">
+      <displayName>Epilepsy unit</displayName>
+   </concept>
+   <concept code="ER">
+      <displayName>Emergency room</displayName>
+   </concept>
+   <concept code="ETU">
+      <displayName>Emergency trauma unit</displayName>
+   </concept>
+   <concept code="F">
+      <displayName>Filler Proficiency</displayName>
+   </concept>
+   <concept code="FAMDEP">
+      <displayName>family dependent</displayName>
+   </concept>
+   <concept code="FAMMEMB">
+      <displayName>Family Member</displayName>
+   </concept>
+   <concept code="FI">
+      <displayName>Fiber</displayName>
+   </concept>
+   <concept code="FMC">
+      <displayName>Family medicine clinic</displayName>
+   </concept>
+   <concept code="FRND">
+      <displayName>unrelated friend</displayName>
+   </concept>
+   <concept code="FSTUD">
+      <displayName>full-time student</displayName>
+   </concept>
+   <concept code="FTH">
+      <displayName>Father</displayName>
+   </concept>
+   <concept code="FTHINLAW">
+      <displayName>father-in-law</displayName>
+   </concept>
+   <concept code="GACH">
+      <displayName>General acute care hospital</displayName>
+   </concept>
+   <concept code="G">
+      <displayName>Group</displayName>
+   </concept>
+   <concept code="GGRFTH">
+      <displayName>great grandfather</displayName>
+   </concept>
+   <concept code="GGRMTH">
+      <displayName>great grandmother</displayName>
+   </concept>
+   <concept code="GGRPRN">
+      <displayName>great grandparent</displayName>
+   </concept>
+   <concept code="GI">
+      <displayName>Gastroenterology clinic</displayName>
+   </concept>
+   <concept code="GIDX">
+      <displayName>Gastroenterology diagnostics or therapeutics lab</displayName>
+   </concept>
+   <concept code="GIM">
+      <displayName>General internal medicine clinic</displayName>
+   </concept>
+   <concept code="GRFTH">
+      <displayName>Grandfather</displayName>
+   </concept>
+   <concept code="GRMTH">
+      <displayName>Grandmother</displayName>
+   </concept>
+   <concept code="GRNDCHILD">
+      <displayName>grandchild</displayName>
+   </concept>
+   <concept code="GRNDDAU">
+      <displayName>granddaughter</displayName>
+   </concept>
+   <concept code="GRNDSON">
+      <displayName>grandson</displayName>
+   </concept>
+   <concept code="GRPRN">
+      <displayName>Grandparent</displayName>
+   </concept>
+   <concept code="GYN">
+      <displayName>Gynecology clinic</displayName>
+   </concept>
+   <concept code="HAND">
+      <displayName>Hand clinic</displayName>
+   </concept>
+   <concept code="HANDIC">
+      <displayName>handicapped dependent</displayName>
+   </concept>
+   <concept code="HBRO">
+      <displayName>half-brother</displayName>
+   </concept>
+   <concept code="HD">
+      <displayName>Hemodialysis unit</displayName>
+   </concept>
+   <concept code="HEM">
+      <displayName>Hematology clinic</displayName>
+   </concept>
+   <concept code="HOSP">
+      <displayName>Hospital</displayName>
+   </concept>
+   <concept code="HSIB">
+      <displayName>half-sibling</displayName>
+   </concept>
+   <concept code="HTN">
+      <displayName>Hypertension clinic</displayName>
+   </concept>
+   <concept code="HSIS">
+      <displayName>half-sister</displayName>
+   </concept>
+   <concept code="HU">
+      <displayName>Hospital unit</displayName>
+   </concept>
+   <concept code="HUSB">
+      <displayName>husband</displayName>
+   </concept>
+   <concept code="ICU">
+      <displayName>Intensive care unit</displayName>
+   </concept>
+   <concept code="IEC">
+      <displayName>Impairment evaluation center</displayName>
+   </concept>
+   <concept code="INFD">
+      <displayName>Infectious disease clinic</displayName>
+   </concept>
+   <concept code="INJ">
+      <displayName>injured plaintiff</displayName>
+   </concept>
+   <concept code="INV">
+      <displayName>Infertility clinic</displayName>
+   </concept>
+   <concept code="L">
+      <displayName>Pool</displayName>
+   </concept>
+   <concept code="LY">
+      <displayName>Layer</displayName>
+   </concept>
+   <concept code="LYMPH">
+      <displayName>Lympedema clinic</displayName>
+   </concept>
+   <concept code="MGEN">
+      <displayName>Medical genetics clinic</displayName>
+   </concept>
+   <concept code="MHSP">
+      <displayName>Military Hospital</displayName>
+   </concept>
+   <concept code="MOBL">
+      <displayName>Mobile Unit</displayName>
+   </concept>
+   <concept code="MT">
+      <displayName>Meat</displayName>
+   </concept>
+   <concept code="MTH">
+      <displayName>Mother</displayName>
+   </concept>
+   <concept code="MTHINLOAW">
+      <displayName>mother-in-law</displayName>
+   </concept>
+   <concept code="MU">
+      <displayName>Multiplier</displayName>
+   </concept>
+   <concept code="NBOR">
+      <displayName>neighbour</displayName>
+   </concept>
+   <concept code="NBRO">
+      <displayName>natural brother</displayName>
+   </concept>
+   <concept code="NCCF">
+      <displayName>Nursing or custodial care facility</displayName>
+   </concept>
+   <concept code="NCCS">
+      <displayName>Neurology critical care and stroke unit</displayName>
+   </concept>
+   <concept code="NCHILD">
+      <displayName>natural child</displayName>
+   </concept>
+   <concept code="NEPH">
+      <displayName>Nephrology clinic</displayName>
+   </concept>
+   <concept code="NEPHEW">
+      <displayName>nephew</displayName>
+   </concept>
+   <concept code="NEUR">
+      <displayName>Neurology clinic</displayName>
+   </concept>
+   <concept code="NFTH">
+      <displayName>natural father</displayName>
+   </concept>
+   <concept code="NIECE">
+      <displayName>niece</displayName>
+   </concept>
+   <concept code="NIENEPH">
+      <displayName>niece/nephew</displayName>
+   </concept>
+   <concept code="NMTH">
+      <displayName>natural mother</displayName>
+   </concept>
+   <concept code="NOK">
+      <displayName>next of kin</displayName>
+   </concept>
+   <concept code="NPRN">
+      <displayName>natural parent</displayName>
+   </concept>
+   <concept code="NS">
+      <displayName>Neurosurgery unit</displayName>
+   </concept>
+   <concept code="NSIB">
+      <displayName>natural sibling</displayName>
+   </concept>
+   <concept code="NSIS">
+      <displayName>natural sister</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Operator Proficiency</displayName>
+   </concept>
+   <concept code="OB">
+      <displayName>Obstetrics clinic</displayName>
+   </concept>
+   <concept code="OF">
+      <displayName>Outpatient facility</displayName>
+   </concept>
+   <concept code="OMS">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Surgery, Oral/Maxillofacial</displayName>
+   </concept>
+   <concept code="ONCL">
+      <displayName>Medical oncology clinic</displayName>
+   </concept>
+   <concept code="OPH">
+      <displayName>Opthalmology clinic</displayName>
+   </concept>
+   <concept code="ORG">
+      <displayName>organizational contact</displayName>
+   </concept>
+   <concept code="ORTHO">
+      <displayName>Orthopedics clinic</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Patient</displayName>
+   </concept>
+   <concept code="PAINCL">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Pain</displayName>
+   </concept>
+   <concept code="PAYOR">
+      <displayName>Payor Contact</displayName>
+   </concept>
+   <concept code="PC">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Primary Care</displayName>
+   </concept>
+   <concept code="PEDC">
+      <displayName>Pediatrics clinic</displayName>
+   </concept>
+   <concept code="PEDCARD">
+      <displayName>Pediatric cardiology clinic</displayName>
+   </concept>
+   <concept code="PEDE">
+      <displayName>Pediatric endocrinology clinic</displayName>
+   </concept>
+   <concept code="PEDGI">
+      <displayName>Pediatric gastroenterology clinic</displayName>
+   </concept>
+   <concept code="PEDHEM">
+      <displayName>Pediatric hematology clinic</displayName>
+   </concept>
+   <concept code="PEDHO">
+      <displayName>Pediatric oncology clinic</displayName>
+   </concept>
+   <concept code="PEDICU">
+      <displayName>Pediatric intensive care unit</displayName>
+   </concept>
+   <concept code="PEDID">
+      <displayName>Pediatric infectious disease clinic</displayName>
+   </concept>
+   <concept code="PEDNEPH">
+      <displayName>Pediatric nephrology clinic</displayName>
+   </concept>
+   <concept code="PEDNICU">
+      <displayName>Pediatric neonatal intensive care unit</displayName>
+   </concept>
+   <concept code="PEDRHEUM">
+      <displayName>Pediatric rheumatology clinic</displayName>
+   </concept>
+   <concept code="PEDU">
+      <displayName>Pediatric unit</displayName>
+   </concept>
+   <concept code="PHARM">
+      <displayName>Pharmacy</displayName>
+   </concept>
+   <concept code="PHU">
+      <displayName>Hospital Units; Psychiatric Unit</displayName>
+   </concept>
+   <concept code="PL">
+      <displayName>Pleasure</displayName>
+   </concept>
+   <concept code="PLS">
+      <displayName>Plastic surgery clinic</displayName>
+   </concept>
+   <concept code="POD">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Podiatric</displayName>
+   </concept>
+   <concept code="PRC">
+      <displayName>Pain rehabilitation center</displayName>
+   </concept>
+   <concept code="PREV">
+      <displayName>Preventive medicine clinic</displayName>
+   </concept>
+   <concept code="PRN">
+      <displayName>Parent</displayName>
+   </concept>
+   <concept code="PRNINLAW">
+      <displayName>parent in-law</displayName>
+   </concept>
+   <concept code="PROCTO">
+      <displayName>Proctology clinic</displayName>
+   </concept>
+   <concept code="PROFF">
+      <displayName>Provider's Office</displayName>
+   </concept>
+   <concept code="PROS">
+      <displayName>Prosthodontics clinic</displayName>
+   </concept>
+   <concept code="PSI">
+      <displayName>Psychology clinic</displayName>
+   </concept>
+   <concept code="PSTUD">
+      <displayName>part-time student</displayName>
+   </concept>
+   <concept code="PSY">
+      <displayName>Psychiatry clinic</displayName>
+   </concept>
+   <concept code="PSYCHF">
+      <displayName>Psychatric Care Facility</displayName>
+   </concept>
+   <concept code="PTRES">
+      <displayName>Patient's Residence</displayName>
+   </concept>
+   <concept code="Q">
+      <displayName>Quality Control</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Replicate</displayName>
+   </concept>
+   <concept code="RADDX">
+      <displayName>Ambulatory Health Care Facilities; Clinic/Center; Radiology</displayName>
+   </concept>
+   <concept code="RC">
+      <displayName>Racing</displayName>
+   </concept>
+   <concept code="RH">
+      <displayName>Hospitals; Rehabilitation Hospital</displayName>
+   </concept>
+   <concept code="RHEUM">
+      <displayName>Rheumatology clinic</displayName>
+   </concept>
+   <concept code="RHU">
+      <displayName>Hospital Units; Rehabilitation Unit</displayName>
+   </concept>
+   <concept code="ROOM">
+      <displayName>Roommate</displayName>
+   </concept>
+   <concept code="RTF">
+      <displayName>Residential treatment facility</displayName>
+   </concept>
+   <concept code="SCHOOL">
+      <displayName>school</displayName>
+   </concept>
+   <concept code="SELF">
+      <displayName>self</displayName>
+   </concept>
+   <concept code="SH">
+      <displayName>Show</displayName>
+   </concept>
+   <concept code="SIB">
+      <displayName>Sibling</displayName>
+   </concept>
+   <concept code="SIBINLAW">
+      <displayName>sibling in-law</displayName>
+   </concept>
+   <concept code="SIGOTHR">
+      <displayName>significant other</displayName>
+   </concept>
+   <concept code="SIS">
+      <displayName>Sister</displayName>
+   </concept>
+   <concept code="SISLINLAW">
+      <displayName>sister-in-law</displayName>
+   </concept>
+   <concept code="SLEEP">
+      <displayName>Sleep disorders unit</displayName>
+   </concept>
+   <concept code="SNF">
+      <displayName>Nursing &amp; Custodial Care Facilities; Skilled Nursing Facility</displayName>
+   </concept>
+   <concept code="SON">
+      <displayName>natural son</displayName>
+   </concept>
+   <concept code="SONADOPT">
+      <displayName>adopted son</displayName>
+   </concept>
+   <concept code="SONFOST">
+      <displayName>foster son</displayName>
+   </concept>
+   <concept code="SONINLAW">
+      <displayName>son-in-law</displayName>
+   </concept>
+   <concept code="SPMED">
+      <displayName>Sports medicine clinic</displayName>
+   </concept>
+   <concept code="SPON">
+      <displayName>sponsored dependent</displayName>
+   </concept>
+   <concept code="SPS">
+      <displayName>spouse</displayName>
+   </concept>
+   <concept code="STPBRO">
+      <displayName>stepbrother</displayName>
+   </concept>
+   <concept code="STPCHLD">
+      <displayName>step child</displayName>
+   </concept>
+   <concept code="STPDAU">
+      <displayName>stepdaughter</displayName>
+   </concept>
+   <concept code="STPFTH">
+      <displayName>stepfather</displayName>
+   </concept>
+   <concept code="STPMTH">
+      <displayName>stepmother</displayName>
+   </concept>
+   <concept code="STPPRN">
+      <displayName>stepparent</displayName>
+   </concept>
+   <concept code="STPSIB">
+      <displayName>step sibling</displayName>
+   </concept>
+   <concept code="STPSIS">
+      <displayName>stepsister</displayName>
+   </concept>
+   <concept code="STPSON">
+      <displayName>stepson</displayName>
+   </concept>
+   <concept code="STUD">
+      <displayName>student</displayName>
+   </concept>
+   <concept code="SU">
+      <displayName>Surgery clinic</displayName>
+   </concept>
+   <concept code="SURF">
+      <displayName>Residential Treatment Facilities; Substance Use Rehabilitation Facility</displayName>
+   </concept>
+   <concept code="TR">
+      <displayName>Transplant clinic</displayName>
+   </concept>
+   <concept code="TRAVEL">
+      <displayName>Travel and geographic medicine clinic</displayName>
+   </concept>
+   <concept code="TRB">
+      <displayName>Tribal Member</displayName>
+   </concept>
+   <concept code="UNCLE">
+      <displayName>uncle</displayName>
+   </concept>
+   <concept code="URO">
+      <displayName>Urology clinic</displayName>
+   </concept>
+   <concept code="V">
+      <displayName>Verifying</displayName>
+   </concept>
+   <concept code="VL">
+      <displayName>Veal</displayName>
+   </concept>
+   <concept code="WIFE">
+      <displayName>wife</displayName>
+   </concept>
+   <concept code="WL">
+      <displayName>Wool</displayName>
+   </concept>
+   <concept code="WND">
+      <displayName>Wound clinic</displayName>
+   </concept>
+   <concept code="WO">
+      <displayName>Working</displayName>
+   </concept>
+   <concept code="WORK">
+      <displayName>work site</displayName>
+   </concept>
+</vocabulary>

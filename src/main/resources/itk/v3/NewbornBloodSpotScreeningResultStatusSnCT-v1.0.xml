@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NewbornBloodSpotScreeningResultStatusSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of the SNOMED CT clinical terminology (i.e. coding system) intended for use in the UK, previously named SnomedCTUK, that describes newborn blood spot screening result status.  </p>
+               <p>
+                  <strong>Any code from the SNOMED CT UK newborn blood spot screening result status subset with subset original id 61081000000135. </strong>
+               </p>
+               <p>
+                  <strong> NB: This subset ID, 61081000000135, has not yet been defined in a release of SNOMED CT.</strong>
+               </p>
+            </p>
+         </Description>
+   <concept code="509581000000105">
+      <displayName>Newborn blood spot specimen received</displayName>
+   </concept>
+   <concept code="429726000">
+      <displayName>Phenylketonuria screening declined</displayName>
+   </concept>
+   <concept code="384331000000103">
+      <displayName>Newborn blood spot screening programme, phenylketonuria repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="429106008">
+      <displayName>Phenylketonuria not suspected</displayName>
+   </concept>
+   <concept code="384391000000102">
+      <displayName>Newborn blood spot screening programme, phenylketonuria not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="428655008">
+      <displayName>Suspected phenylketonuria</displayName>
+   </concept>
+   <concept code="302741000000103">
+      <displayName>Newborn blood spot screening programme, phenylketonuria not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="428299008">
+      <displayName>Sickle cell screening declined</displayName>
+   </concept>
+   <concept code="384351000000105">
+      <displayName>Newborn blood spot screening programme, sickle cell repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="427854007">
+      <displayName>Sickle cell trait not suspected</displayName>
+   </concept>
+   <concept code="442018007">
+      <displayName>Carrier of sickle cell gene mutation</displayName>
+   </concept>
+   <concept code="302571000000101">
+      <displayName>Newborn blood spot screening programme, carrier of other haemoglobin type</displayName>
+   </concept>
+   <concept code="384381000000104">
+      <displayName>Newborn blood spot screening programme, sickle cell not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="428485006">
+      <displayName>Suspected sickle cell trait</displayName>
+   </concept>
+   <concept code="302751000000100">
+      <displayName>Newborn blood spot screening programme, sickle cell not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="948351000000103">
+      <displayName>Haemoglobin S not suspected (by deoxyribonucleic acid), no other haemoglobin or thalassaemia excluded</displayName>
+   </concept>
+   <concept code="428841003">
+      <displayName>Cystic fibrosis screening declined</displayName>
+   </concept>
+   <concept code="384341000000107">
+      <displayName>Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="428273001">
+      <displayName>Cystic fibrosis not suspected</displayName>
+   </concept>
+   <concept code="441520002">
+      <displayName>Carrier of cystic fibrosis gene mutation</displayName>
+   </concept>
+   <concept code="384401000000104">
+      <displayName>Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="428301001">
+      <displayName>Suspected cystic fibrosis</displayName>
+   </concept>
+   <concept code="302771000000109">
+      <displayName>Newborn blood spot screening programme, cystic fibrosis not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="428650003">
+      <displayName>Congenital hypothyroidism screening declined</displayName>
+   </concept>
+   <concept code="384361000000108">
+      <displayName>Newborn blood spot screening programme, congenital hypothyroidism repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="428999001">
+      <displayName>Congenital hypothyroidism not suspected</displayName>
+   </concept>
+   <concept code="384411000000102">
+      <displayName>Newborn blood spot screening programme, congenital hypothyroidism not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="428300000">
+      <displayName>Suspected congenital hypothyroidism</displayName>
+   </concept>
+   <concept code="302781000000106">
+      <displayName>Newborn blood spot screening programme, congenital hypothyroidism not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="428042006">
+      <displayName>Medium-chain acyl-coenzyme A dehydrogenase deficiency screening test declined</displayName>
+   </concept>
+   <concept code="384371000000101">
+      <displayName>Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="428279002">
+      <displayName>Medium-chain acyl-coenzyme A dehydrogenase deficiency not suspected</displayName>
+   </concept>
+   <concept code="384421000000108">
+      <displayName>Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="429244009">
+      <displayName>Suspected medium-chain acyl-coenzyme A dehydrogenase deficiency</displayName>
+   </concept>
+   <concept code="302761000000102">
+      <displayName>Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="949261000000103">
+      <displayName>Maple syrup urine disease screening declined</displayName>
+   </concept>
+   <concept code="949501000000104">
+      <displayName>Maple syrup urine disease screening, repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="949801000000101">
+      <displayName>Maple syrup urine disease not suspected</displayName>
+   </concept>
+   <concept code="949821000000105">
+      <displayName>Maple syrup urine disease not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="950121000000105">
+      <displayName>Suspected maple syrup urine disease</displayName>
+   </concept>
+   <concept code="949841000000103">
+      <displayName>Maple syrup urine disease not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="948051000000101">
+      <displayName>Homocystinuria screening declined</displayName>
+   </concept>
+   <concept code="950411000000106">
+      <displayName>Homocystinuria screening, repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="950141000000103">
+      <displayName>Homocystinuria not suspected</displayName>
+   </concept>
+   <concept code="950161000000102">
+      <displayName>Homocystinuria not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="947451000000106">
+      <displayName>Suspected homocystinuria</displayName>
+   </concept>
+   <concept code="950681000000102">
+      <displayName>Homocystinuria not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="947831000000101">
+      <displayName>Isovaleric acidaemia screening declined</displayName>
+   </concept>
+   <concept code="951121000000101">
+      <displayName>Isovaleric acidaemia screening, repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="951741000000109">
+      <displayName>Isovaleric acidaemia not suspected</displayName>
+   </concept>
+   <concept code="951761000000105">
+      <displayName>Isovaleric acidaemia not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="951701000000106">
+      <displayName>Suspected isovaleric acidaemia</displayName>
+   </concept>
+   <concept code="951541000000100">
+      <displayName>Isovaleric acidaemia not screened for or screening incomplete</displayName>
+   </concept>
+   <concept code="947891000000100">
+      <displayName>Glutaric aciduria type 1 screening declined</displayName>
+   </concept>
+   <concept code="951941000000106">
+      <displayName>Glutaric aciduria type 1 screening, repeat screening with further sample required</displayName>
+   </concept>
+   <concept code="951781000000101">
+      <displayName>Glutaric aciduria type 1 not suspected</displayName>
+   </concept>
+   <concept code="951801000000100">
+      <displayName>Glutaric aciduria type 1 not suspected and other disorders follow up required</displayName>
+   </concept>
+   <concept code="951831000000106">
+      <displayName>Suspected glutaric aciduria type 1</displayName>
+   </concept>
+   <concept code="952201000000106">
+      <displayName>Glutaric aciduria type 1 not screened for or screening incomplete</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Temperature" type="Realm Concept" setId="68431000000137" version="19" id="901000000132" refId="999000951000000100" memberCount="7" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="276885007">
+<displayName lang="en" type="PT">Core body temperature</displayName>
+<displayName lang="en" type="FSN">Core body temperature (observable entity)</displayName>
+</concept>
+<concept code="307047009">
+<displayName lang="en" type="PT">Rectal temperature</displayName>
+<displayName lang="en" type="FSN">Rectal temperature (observable entity)</displayName>
+</concept>
+<concept code="415882003">
+<displayName lang="en" type="PT">Axillary temperature</displayName>
+<displayName lang="en" type="FSN">Axillary temperature (observable entity)</displayName>
+</concept>
+<concept code="415921007">
+<displayName lang="en" type="PT">Forehead skin strip temperature</displayName>
+<displayName lang="en" type="FSN">Forehead skin strip temperature (observable entity)</displayName>
+</concept>
+<concept code="415929009">
+<displayName lang="en" type="PT">Groin temperature</displayName>
+<displayName lang="en" type="FSN">Groin temperature (observable entity)</displayName>
+</concept>
+<concept code="415945006">
+<displayName lang="en" type="PT">Oral temperature</displayName>
+<displayName lang="en" type="FSN">Oral temperature (observable entity)</displayName>
+</concept>
+<concept code="415974002">
+<displayName lang="en" type="PT">Tympanic temperature</displayName>
+<displayName lang="en" type="FSN">Tympanic temperature (observable entity)</displayName>
+<displayName lang="en" type="SY">Aural temperature</displayName>
+</concept>
+</vocabulary>

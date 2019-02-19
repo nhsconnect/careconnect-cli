@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrCompoundCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.14">
+   <Description>
+            <p>The value here shall be taken from one of four vocabularies, depending upon the value of the <b>EhrCompoundLevel</b> attribute of the CompoundStatement.</p>
+	           <dl>
+		             <dt>
+			               <b>EhrTopicCode</b>
+		             </dt>
+		             <dd>Topic Vocabulary</dd>
+		             <dt>
+			               <b>EhrCategoryCode</b>
+		             </dt>
+		             <dd>Category Vocabulary</dd>
+		             <dt>
+			               <b>EhrClusterCode</b>
+		             </dt>
+		             <dd>Cluster Vocabulary</dd>
+		             <dt>
+			               <b>EhrBatteryCode</b>
+		             </dt>
+		             <dd>Battery Vocabulary</dd>
+	           </dl>
+         </Description>
+</vocabulary>

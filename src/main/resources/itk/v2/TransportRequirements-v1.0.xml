@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TransportRequirements" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.37">
+   <Description>Transport Requirements: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="a">
+      <displayName>Stretcher (synonym 'ambulance')</displayName>
+   </concept>
+   <concept code="b">
+      <displayName>Crew of 2 (synonym 'car 2')</displayName>
+   </concept>
+   <concept code="c">
+      <displayName>Crew of 1 (synonym 'car')</displayName>
+   </concept>
+</vocabulary>

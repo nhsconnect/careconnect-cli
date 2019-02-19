@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="TelecommunicationEquipmentType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.202">
+   <Description>This table contains Telecommunication equipment type.
+					Table type: HL7</Description>
+   <concept code="BP">
+      <displayName>Beeper</displayName>
+   </concept>
+   <concept code="CP">
+      <displayName>Cellular Phone</displayName>
+   </concept>
+   <concept code="FX">
+      <displayName>Fax</displayName>
+   </concept>
+   <concept code="Internet">
+      <displayName>Internet Address: Use Only If Telecommunication Use Code Is NET</displayName>
+   </concept>
+   <concept code="MD">
+      <displayName>Modem</displayName>
+   </concept>
+   <concept code="PH">
+      <displayName>Telephone</displayName>
+   </concept>
+   <concept code="TDD">
+      <displayName>Telecommunications Device for the Deaf</displayName>
+   </concept>
+   <concept code="TTY">
+      <displayName>Teletypewriter</displayName>
+   </concept>
+   <concept code="X.400">
+      <displayName>X.400 email address: Use Only If Telecommunication Use Code Is NET</displayName>
+   </concept>
+</vocabulary>

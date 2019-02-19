@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CREType" version="1.0" status="deprecated"
+            id="2.16.840.1.113883.2.1.3.2.4.17.56">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.56</p>
+            <p>A categorisation of patient Care Record elements. Taken from NPfIT Care Record Elements document, v1.1</p>
+            <p>This has now been deprecated in favour of <b>CRETypeSnCT</b>
+            </p>
+         </Description>
+   <concept code="010">
+      <displayName>Personal demographics</displayName>
+   </concept>
+   <concept code="020">
+      <displayName>Personal Preference</displayName>
+   </concept>
+   <concept code="021">
+      <displayName>Proactive Personal Preference</displayName>
+   </concept>
+   <concept code="022">
+      <displayName>Reactive Personal Preference</displayName>
+   </concept>
+   <concept code="030">
+      <displayName>Finding</displayName>
+   </concept>
+   <concept code="031">
+      <displayName>Clinical Observation</displayName>
+   </concept>
+   <concept code="032">
+      <displayName>Investigation Result</displayName>
+   </concept>
+   <concept code="040">
+      <displayName>Diagnosis</displayName>
+   </concept>
+   <concept code="050">
+      <displayName>Family History</displayName>
+   </concept>
+   <concept code="060">
+      <displayName>Social Context</displayName>
+   </concept>
+   <concept code="061">
+      <displayName>Social &amp; Personal Circumstances</displayName>
+   </concept>
+   <concept code="062">
+      <displayName>Services and Carers</displayName>
+   </concept>
+   <concept code="063">
+      <displayName>Behaviour</displayName>
+   </concept>
+   <concept code="100">
+      <displayName>Procedures</displayName>
+   </concept>
+   <concept code="101">
+      <displayName>Treatment</displayName>
+   </concept>
+   <concept code="102">
+      <displayName>Investigation</displayName>
+   </concept>
+   <concept code="103">
+      <displayName>Administrative Procedure</displayName>
+   </concept>
+   <concept code="104">
+      <displayName>Provision of Advice and Information to Patients and Carers</displayName>
+   </concept>
+   <concept code="110">
+      <displayName>Medication</displayName>
+   </concept>
+   <concept code="150">
+      <displayName>Care Event</displayName>
+   </concept>
+   <concept code="160">
+      <displayName>Additional Record Location</displayName>
+   </concept>
+   <concept code="170">
+      <displayName>Clinical Correspondence</displayName>
+   </concept>
+   <concept code="171">
+      <displayName>Clinical Documentation</displayName>
+   </concept>
+   <concept code="172">
+      <displayName>Patient/Carer Correspondence</displayName>
+   </concept>
+   <concept code="173">
+      <displayName>Third-party Correspondence</displayName>
+   </concept>
+   <concept code="200">
+      <displayName>Functioning and Wellbeing</displayName>
+   </concept>
+   <concept code="210">
+      <displayName>Projected and actual outcomes</displayName>
+   </concept>
+   <concept code="211">
+      <displayName>Prognosis</displayName>
+   </concept>
+   <concept code="212">
+      <displayName>Goal</displayName>
+   </concept>
+   <concept code="213">
+      <displayName>Actual Outcome</displayName>
+   </concept>
+   <concept code="220">
+      <displayName>Problems &amp; Issues</displayName>
+   </concept>
+   <concept code="230">
+      <displayName>Risks and Warnings</displayName>
+   </concept>
+   <concept code="231">
+      <displayName>Allergies &amp; Adverse Reactions</displayName>
+   </concept>
+   <concept code="232">
+      <displayName>Risk to Patient</displayName>
+   </concept>
+   <concept code="233">
+      <displayName>Risk to Care Practitioner or Third Party</displayName>
+   </concept>
+   <concept code="240">
+      <displayName>Care Plan</displayName>
+   </concept>
+</vocabulary>

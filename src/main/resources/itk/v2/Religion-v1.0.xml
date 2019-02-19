@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Religion" version="1.0" status="created" id="2.16.840.1.113883.12.6">
+   <Description>A set of codes which represents the religion of the subject, for example, Baptist, Catholic, Methodist, etc...
+					Table type: User</Description>
+   <concept code="A1">
+      <displayName>Baha'i</displayName>
+   </concept>
+   <concept code="B1">
+      <displayName>Buddhist</displayName>
+   </concept>
+   <concept code="B2">
+      <displayName>Mahayana Buddhist</displayName>
+   </concept>
+   <concept code="B3">
+      <displayName>New Kadampa Tradition Buddhist</displayName>
+   </concept>
+   <concept code="B4">
+      <displayName>Nichiren Buddhist</displayName>
+   </concept>
+   <concept code="B5">
+      <displayName>Pure Land Buddhist</displayName>
+   </concept>
+   <concept code="B6">
+      <displayName>Theravada Buddhist</displayName>
+   </concept>
+   <concept code="B7">
+      <displayName>Tibetan Buddhist</displayName>
+   </concept>
+   <concept code="B8">
+      <displayName>Zen Buddhist</displayName>
+   </concept>
+   <concept code="C1">
+      <displayName>Christian</displayName>
+   </concept>
+   <concept code="C10">
+      <displayName>Bulgarian Orthodox</displayName>
+   </concept>
+   <concept code="C11">
+      <displayName>Calvinist</displayName>
+   </concept>
+   <concept code="C12">
+      <displayName>Catholic: Not Roman Catholic</displayName>
+   </concept>
+   <concept code="C13">
+      <displayName>Celtic Christian</displayName>
+   </concept>
+   <concept code="C14">
+      <displayName>Celtic Orthodox Christian</displayName>
+   </concept>
+   <concept code="C15">
+      <displayName>Chinese Evangelical Christian</displayName>
+   </concept>
+   <concept code="C16">
+      <displayName>Christadelphian</displayName>
+   </concept>
+   <concept code="C17">
+      <displayName>Christian Existentialist</displayName>
+   </concept>
+   <concept code="C18">
+      <displayName>Christian Humanist</displayName>
+   </concept>
+   <concept code="C19">
+      <displayName>Christian Scientists</displayName>
+   </concept>
+   <concept code="C2">
+      <displayName>Amish</displayName>
+   </concept>
+   <concept code="C20">
+      <displayName>Christian Spiritualist</displayName>
+   </concept>
+   <concept code="C21">
+      <displayName>Church in Wales</displayName>
+   </concept>
+   <concept code="C22">
+      <displayName>Church of England</displayName>
+   </concept>
+   <concept code="C23">
+      <displayName>Church of God of Prophecy</displayName>
+   </concept>
+   <concept code="C24">
+      <displayName>Church of Ireland</displayName>
+   </concept>
+   <concept code="C25">
+      <displayName>Church of Scotland</displayName>
+   </concept>
+   <concept code="C26">
+      <displayName>Congregationalist</displayName>
+   </concept>
+   <concept code="C27">
+      <displayName>Coptic Orthodox</displayName>
+   </concept>
+   <concept code="C28">
+      <displayName>Eastern Catholic</displayName>
+   </concept>
+   <concept code="C29">
+      <displayName>Eastern Orthodox</displayName>
+   </concept>
+   <concept code="C3">
+      <displayName>Anabaptist</displayName>
+   </concept>
+   <concept code="C30">
+      <displayName>Elim Pentecostalist</displayName>
+   </concept>
+   <concept code="C31">
+      <displayName>Ethiopian Orthodox</displayName>
+   </concept>
+   <concept code="C32">
+      <displayName>Evangelical Christian</displayName>
+   </concept>
+   <concept code="C33">
+      <displayName>Exclusive Brethren</displayName>
+   </concept>
+   <concept code="C34">
+      <displayName>Free Church</displayName>
+   </concept>
+   <concept code="C35">
+      <displayName>Free Church of Scotland</displayName>
+   </concept>
+   <concept code="C36">
+      <displayName>Free Evangelical Presbyterian</displayName>
+   </concept>
+   <concept code="C37">
+      <displayName>Free Methodist</displayName>
+   </concept>
+   <concept code="C38">
+      <displayName>Free Presbyterian</displayName>
+   </concept>
+   <concept code="C39">
+      <displayName>French Protestant</displayName>
+   </concept>
+   <concept code="C4">
+      <displayName>Anglican</displayName>
+   </concept>
+   <concept code="C40">
+      <displayName>Greek Catholic</displayName>
+   </concept>
+   <concept code="C41">
+      <displayName>Greek Orthodox</displayName>
+   </concept>
+   <concept code="C42">
+      <displayName>Independent Methodist</displayName>
+   </concept>
+   <concept code="C43">
+      <displayName>Indian Orthodox</displayName>
+   </concept>
+   <concept code="C44">
+      <displayName>Jehovah's Witness</displayName>
+   </concept>
+   <concept code="C45">
+      <displayName>Judaic Christian</displayName>
+   </concept>
+   <concept code="C46">
+      <displayName>Lutheran</displayName>
+   </concept>
+   <concept code="C47">
+      <displayName>Mennonite</displayName>
+   </concept>
+   <concept code="C48">
+      <displayName>Messianic Jew</displayName>
+   </concept>
+   <concept code="C49">
+      <displayName>Methodist</displayName>
+   </concept>
+   <concept code="C5">
+      <displayName>Apostolic Pentecostalist</displayName>
+   </concept>
+   <concept code="C50">
+      <displayName>Moravian</displayName>
+   </concept>
+   <concept code="C51">
+      <displayName>Mormon</displayName>
+   </concept>
+   <concept code="C52">
+      <displayName>Nazarene Church / SYN Nazarene</displayName>
+   </concept>
+   <concept code="C53">
+      <displayName>New Testament Pentacostalist</displayName>
+   </concept>
+   <concept code="C54">
+      <displayName>Nonconformist</displayName>
+   </concept>
+   <concept code="C55">
+      <displayName>Old Catholic</displayName>
+   </concept>
+   <concept code="C56">
+      <displayName>Open Brethren</displayName>
+   </concept>
+   <concept code="C57">
+      <displayName>Orthodox Christian</displayName>
+   </concept>
+   <concept code="C58">
+      <displayName>Pentecostalist / SYN Pentacostal Christian</displayName>
+   </concept>
+   <concept code="C59">
+      <displayName>Presbyterian</displayName>
+   </concept>
+   <concept code="C6">
+      <displayName>Armenian Catholic</displayName>
+   </concept>
+   <concept code="C60">
+      <displayName>Protestant</displayName>
+   </concept>
+   <concept code="C61">
+      <displayName>Plymouth Brethren</displayName>
+   </concept>
+   <concept code="C62">
+      <displayName>Quaker</displayName>
+   </concept>
+   <concept code="C63">
+      <displayName>Rastafari</displayName>
+   </concept>
+   <concept code="C64">
+      <displayName>Reformed Christian</displayName>
+   </concept>
+   <concept code="C65">
+      <displayName>Reformed Presbyterian</displayName>
+   </concept>
+   <concept code="C66">
+      <displayName>Reformed Protestant</displayName>
+   </concept>
+   <concept code="C67">
+      <displayName>Roman Catholic</displayName>
+   </concept>
+   <concept code="C68">
+      <displayName>Romanian Orthodox</displayName>
+   </concept>
+   <concept code="C69">
+      <displayName>Russian Orthodox</displayName>
+   </concept>
+   <concept code="C7">
+      <displayName>Armenian Orthodox</displayName>
+   </concept>
+   <concept code="C70">
+      <displayName>Salvation Army Member</displayName>
+   </concept>
+   <concept code="C71">
+      <displayName>Scottish Episcopalian</displayName>
+   </concept>
+   <concept code="C72">
+      <displayName>Serbian Orthodox</displayName>
+   </concept>
+   <concept code="C73">
+      <displayName>Seventh Day Adventist</displayName>
+   </concept>
+   <concept code="C74">
+      <displayName>Syrian Orthodox</displayName>
+   </concept>
+   <concept code="C75">
+      <displayName>Ukrainian Catholic</displayName>
+   </concept>
+   <concept code="C76">
+      <displayName>Ukrainian Orthodox</displayName>
+   </concept>
+   <concept code="C77">
+      <displayName>Uniate Catholic</displayName>
+   </concept>
+   <concept code="C78">
+      <displayName>Unitarian</displayName>
+   </concept>
+   <concept code="C79">
+      <displayName>United Reform</displayName>
+   </concept>
+   <concept code="C8">
+      <displayName>Baptist</displayName>
+   </concept>
+   <concept code="C80">
+      <displayName>Zwinglian</displayName>
+   </concept>
+   <concept code="C9">
+      <displayName>Brethren</displayName>
+   </concept>
+   <concept code="D1">
+      <displayName>Hindu</displayName>
+   </concept>
+   <concept code="D2">
+      <displayName>Advaitin Hindu</displayName>
+   </concept>
+   <concept code="D3">
+      <displayName>Arya Samaj Hindu</displayName>
+   </concept>
+   <concept code="D4">
+      <displayName>Shakti Hindu</displayName>
+   </concept>
+   <concept code="D5">
+      <displayName>Shiva Hindu</displayName>
+   </concept>
+   <concept code="D6">
+      <displayName>Vaishnava Hindu / Hare Krishna</displayName>
+   </concept>
+   <concept code="E1">
+      <displayName>Jain</displayName>
+   </concept>
+   <concept code="F1">
+      <displayName>Jewish</displayName>
+   </concept>
+   <concept code="F2">
+      <displayName>Ashkenazi Jew</displayName>
+   </concept>
+   <concept code="F3">
+      <displayName>Haredi Jew</displayName>
+   </concept>
+   <concept code="F4">
+      <displayName>Hasidic Jew</displayName>
+   </concept>
+   <concept code="F5">
+      <displayName>Liberal Jew</displayName>
+   </concept>
+   <concept code="F6">
+      <displayName>Masorti Jew</displayName>
+   </concept>
+   <concept code="F7">
+      <displayName>Orthodox Jew</displayName>
+   </concept>
+   <concept code="F8">
+      <displayName>Reform Jew</displayName>
+   </concept>
+   <concept code="G1">
+      <displayName>Muslim</displayName>
+   </concept>
+   <concept code="G2">
+      <displayName>Ahmadi</displayName>
+   </concept>
+   <concept code="G3">
+      <displayName>Druze</displayName>
+   </concept>
+   <concept code="G4">
+      <displayName>Ismaili Muslim</displayName>
+   </concept>
+   <concept code="G5">
+      <displayName>Shi'ite Muslim</displayName>
+   </concept>
+   <concept code="G6">
+      <displayName>Sunni Muslim</displayName>
+   </concept>
+   <concept code="H1">
+      <displayName>Pagan</displayName>
+   </concept>
+   <concept code="H2">
+      <displayName>Asatruar</displayName>
+   </concept>
+   <concept code="H3">
+      <displayName>Celtic Pagan</displayName>
+   </concept>
+   <concept code="H4">
+      <displayName>Druid</displayName>
+   </concept>
+   <concept code="H5">
+      <displayName>Goddess</displayName>
+   </concept>
+   <concept code="H6">
+      <displayName>Heathen</displayName>
+   </concept>
+   <concept code="H7">
+      <displayName>Occultist</displayName>
+   </concept>
+   <concept code="H8">
+      <displayName>Shaman</displayName>
+   </concept>
+   <concept code="H9">
+      <displayName>Wiccan</displayName>
+   </concept>
+   <concept code="I1">
+      <displayName>Sikh</displayName>
+   </concept>
+   <concept code="J1">
+      <displayName>Zoroastrian</displayName>
+   </concept>
+   <concept code="K1">
+      <displayName>Agnostic *</displayName>
+   </concept>
+   <concept code="K10">
+      <displayName>Deist</displayName>
+   </concept>
+   <concept code="K11">
+      <displayName>Humanist</displayName>
+   </concept>
+   <concept code="K12">
+      <displayName>Infinite Way</displayName>
+   </concept>
+   <concept code="K13">
+      <displayName>Kabbalist</displayName>
+   </concept>
+   <concept code="K14">
+      <displayName>Lightworker</displayName>
+   </concept>
+   <concept code="K15">
+      <displayName>New Age Practitioner</displayName>
+   </concept>
+   <concept code="K16">
+      <displayName>Native American Religion</displayName>
+   </concept>
+   <concept code="K17">
+      <displayName>Pantheist</displayName>
+   </concept>
+   <concept code="K18">
+      <displayName>Peyotist</displayName>
+   </concept>
+   <concept code="K19">
+      <displayName>Radha Soami /SYN Sant Mat</displayName>
+   </concept>
+   <concept code="K2">
+      <displayName>Ancestral Worship</displayName>
+   </concept>
+   <concept code="K20">
+      <displayName>Religion (Other Not Listed) **</displayName>
+   </concept>
+   <concept code="K21">
+      <displayName>Santeri</displayName>
+   </concept>
+   <concept code="K22">
+      <displayName>Satanist</displayName>
+   </concept>
+   <concept code="K23">
+      <displayName>Scientologist</displayName>
+   </concept>
+   <concept code="K24">
+      <displayName>Secularist</displayName>
+   </concept>
+   <concept code="K25">
+      <displayName>Shumei</displayName>
+   </concept>
+   <concept code="K26">
+      <displayName>Shinto</displayName>
+   </concept>
+   <concept code="K27">
+      <displayName>Spiritualist</displayName>
+   </concept>
+   <concept code="K28">
+      <displayName>Swedenborgian / SYN Neo-Christian</displayName>
+   </concept>
+   <concept code="K29">
+      <displayName>Taoist</displayName>
+   </concept>
+   <concept code="K3">
+      <displayName>Animist</displayName>
+   </concept>
+   <concept code="K30">
+      <displayName>Unitarian-Universalist</displayName>
+   </concept>
+   <concept code="K31">
+      <displayName>Universalist</displayName>
+   </concept>
+   <concept code="K32">
+      <displayName>Vodun</displayName>
+   </concept>
+   <concept code="K33">
+      <displayName>Yoruba</displayName>
+   </concept>
+   <concept code="K4">
+      <displayName>Anthroposophist</displayName>
+   </concept>
+   <concept code="K5">
+      <displayName>Black Magic</displayName>
+   </concept>
+   <concept code="K6">
+      <displayName>Brahma Kumari</displayName>
+   </concept>
+   <concept code="K7">
+      <displayName>British Israelite</displayName>
+   </concept>
+   <concept code="K8">
+      <displayName>Chondogyo</displayName>
+   </concept>
+   <concept code="K9">
+      <displayName>Confucianist</displayName>
+   </concept>
+   <concept code="L1">
+      <displayName>Atheist</displayName>
+   </concept>
+   <concept code="L2">
+      <displayName>Not Religious</displayName>
+   </concept>
+   <concept code="M1">
+      <displayName>Religion not given - PATIENT refused</displayName>
+   </concept>
+   <concept code="N1">
+      <displayName>Patient Religion Unknown ***</displayName>
+   </concept>
+</vocabulary>

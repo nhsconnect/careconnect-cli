@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SCRMiniServiceObservationType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.504">
+   <Description>
+            <p>A set of codes to indicate the type of Summary Care Record Mini Service observation being made.</p>
+         </Description>
+   <concept code="SCRS">
+      <displayName>SCRExistsFlag</displayName>
+   </concept>
+   <concept code="PTVS">
+      <displayName>PTVStatusFlag</displayName>
+   </concept>
+   <concept code="WPTVF">
+      <displayName>WithPermissionToViewFlag</displayName>
+   </concept>
+   <concept code="IEF">
+      <displayName>InEmergencyFlag</displayName>
+   </concept>
+</vocabulary>

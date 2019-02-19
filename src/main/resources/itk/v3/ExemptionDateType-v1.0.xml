@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ExemptionDateType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.28">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.28</p>
+            <p>Describes the type of Exemption date that the observation describes.</p>
+         </Description>
+   <concept code="P">
+      <displayName>Permanent</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Temporary</displayName>
+   </concept>
+</vocabulary>

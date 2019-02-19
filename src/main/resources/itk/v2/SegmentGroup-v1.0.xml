@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SegmentGroup" version="1.0" status="created"
+            id="2.16.840.1.113883.12.391">
+   <Description>This table lists optional segment groups which are to be included in the response of query.
+					Table type: HL7</Description>
+   <concept code="OBRG">
+      <displayName>OBR group</displayName>
+   </concept>
+   <concept code="ORCG">
+      <displayName>ORC group</displayName>
+   </concept>
+   <concept code="PIDG">
+      <displayName>PID group</displayName>
+   </concept>
+   <concept code="RXAG">
+      <displayName>RXA group</displayName>
+   </concept>
+   <concept code="RXDG">
+      <displayName>RXD group</displayName>
+   </concept>
+   <concept code="RXEG">
+      <displayName>RXE group</displayName>
+   </concept>
+   <concept code="RXOG">
+      <displayName>RXO group</displayName>
+   </concept>
+</vocabulary>

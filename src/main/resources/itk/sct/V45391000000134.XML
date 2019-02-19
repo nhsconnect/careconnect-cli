@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Reading Site" type="Realm Concept" setId="68111000000138" version="7" id="45391000000134" refId="999001011000000109" memberCount="3" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="59126009">
+<displayName lang="en" type="PT">Entire right upper arm</displayName>
+<displayName lang="en" type="FSN">Entire right upper arm (body structure)</displayName>
+<displayName lang="en" type="SY">Right arm</displayName>
+<displayName lang="en" type="SY">Right upper arm</displayName>
+</concept>
+<concept code="72098002">
+<displayName lang="en" type="PT">Entire left upper arm</displayName>
+<displayName lang="en" type="FSN">Entire left upper arm (body structure)</displayName>
+<displayName lang="en" type="SY">Left arm</displayName>
+</concept>
+<concept code="302538001">
+<displayName lang="en" type="PT">Entire upper arm</displayName>
+<displayName lang="en" type="FSN">Entire upper arm (body structure)</displayName>
+<displayName lang="en" type="SY">Arm</displayName>
+<displayName lang="en" type="SY">Arm between shoulder and elbow</displayName>
+<displayName lang="en" type="SY">UA - Upper arm</displayName>
+<displayName lang="en" type="SY">Upper arm</displayName>
+</concept>
+</vocabulary>

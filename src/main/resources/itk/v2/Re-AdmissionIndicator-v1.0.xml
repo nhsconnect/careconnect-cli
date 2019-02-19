@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Re-AdmissionIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.12.92">
+   <Description>This table value indicates that a patient is being re admitted to the healthcare facility and gives the circumstances.  We suggest using "R" for readmission or else null.
+					Table type: User</Description>
+   <concept code="R">
+      <displayName>Re-admission</displayName>
+   </concept>
+</vocabulary>

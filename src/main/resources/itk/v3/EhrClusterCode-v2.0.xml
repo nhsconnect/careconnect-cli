@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrClusterCode" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.19.24">
+   <Description>
+            <p>Where the EhrCompoundLevel attribute value is 'cluster', the vocabulary is used to name subdivisions that group together a logically connected set of observations and circumstances applicable to those observations.</p>
+	           <p>A code representing the name of a cluster of statements (e.g. a series of full blood counts), taken from one of the following cod systems:</p>
+	           <dl>
+		             <dt>
+			               <b>SNOMED CT UK</b>
+		             </dt>
+		             <dd>A code from Snomed-CT (UK) may be accompanied by additional qualifying codes from the same coding system.</dd>
+		             <dt>
+			               <b>Clinical Terms (Read Codes) v3</b>
+		             </dt>
+		             <dd>A code from Clinical Terms (Read codes) Version 3 may be accompanied by additional qualifying codes from the same coding system.</dd>
+		             <dt>
+			               <b>Read Codes Version 2</b>
+		             </dt>
+		             <dt>
+			               <b>Read Codes Four Byte Set</b>
+		             </dt>
+		             <dt>
+			               <b>Egton Codes</b>
+		             </dt>
+		             <dt>
+			               <b>EMIS Drug Codes</b>
+		             </dt>
+	           </dl>
+	           <p>An optional code from another of the coding systems described above, representing a mapping to the first code, may be used as a "translation".</p>
+	           <p>A translation code is not required if the data was originally recorded in Snomed-CT UK; otherwise the "translation" code should have an identical or more general meaning than the original code.</p>
+         </Description>
+</vocabulary>

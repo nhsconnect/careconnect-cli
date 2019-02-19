@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionWithdrawReason" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.110">
+   <Description>
+            <p>A code indicating the reason for a prescription being withdrawn.</p>
+         </Description>
+   <concept code="QU">
+      <displayName>Quantity Update</displayName>
+   </concept>
+   <concept code="MU">
+      <displayName>Medication Update</displayName>
+   </concept>
+   <concept code="DA">
+      <displayName>Dosage Amendments</displayName>
+   </concept>
+   <concept code="PA">
+      <displayName>Patient Details Amendments</displayName>
+   </concept>
+   <concept code="OC">
+      <displayName>Other Clinical</displayName>
+   </concept>
+   <concept code="ONC">
+      <displayName>Other Non-Clinical</displayName>
+   </concept>
+</vocabulary>

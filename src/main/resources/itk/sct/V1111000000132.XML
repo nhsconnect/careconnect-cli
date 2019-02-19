@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Allergy Event" type="Realm Concept" setId="68271000000136" version="19" id="1111000000132" refId="999000281000000103" memberCount="5" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="241937000">
+<displayName lang="en" type="PT">Drug-induced anaphylaxis</displayName>
+<displayName lang="en" type="FSN">Drug-induced anaphylaxis (disorder)</displayName>
+</concept>
+<concept code="241947002">
+<displayName lang="en" type="PT">Drug-induced anaphylactoid reaction</displayName>
+<displayName lang="en" type="FSN">Drug-induced anaphylactoid reaction (disorder)</displayName>
+</concept>
+<concept code="416093006">
+<displayName lang="en" type="PT">Allergic reaction to drug</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to drug (disorder)</displayName>
+<displayName lang="en" type="SY">Allergic drug reaction</displayName>
+</concept>
+<concept code="418634005">
+<displayName lang="en" type="PT">Allergic reaction to substance</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to substance (disorder)</displayName>
+</concept>
+<concept code="419452009">
+<displayName lang="en" type="PT">Allergic reaction to food</displayName>
+<displayName lang="en" type="FSN">Allergic reaction to food (disorder)</displayName>
+</concept>
+</vocabulary>

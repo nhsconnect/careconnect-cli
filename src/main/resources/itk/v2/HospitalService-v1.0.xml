@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HospitalService" version="1.0" status="created"
+            id="2.16.840.1.113883.12.69">
+   <Description>This table should contain and support valid NHS Treatment Function Codes. Table type: User</Description>
+   <concept code="317">
+      <displayName>ALLERGY</displayName>
+   </concept>
+   <concept code="318">
+      <displayName>INTERMEDIATE CARE</displayName>
+   </concept>
+   <concept code="320">
+      <displayName>CARDIOLOGY</displayName>
+   </concept>
+   <concept code="322">
+      <displayName>CLINICAL MICROBIOLOGY</displayName>
+   </concept>
+   <concept code="316">
+      <displayName>CLINICAL IMMUNOLOGY</displayName>
+   </concept>
+   <concept code="319">
+      <displayName>RESPITE CARE</displayName>
+   </concept>
+   <concept code="323">
+      <displayName>SPINAL INJURIES</displayName>
+   </concept>
+   <concept code="324">
+      <displayName>ANTICOAGULANT SERVICE</displayName>
+   </concept>
+   <concept code="330">
+      <displayName>DERMATOLOGY</displayName>
+   </concept>
+   <concept code="340">
+      <displayName>RESPIRATORY MEDICINE</displayName>
+   </concept>
+   <concept code="341">
+      <displayName>RESPIRATORY PHYSIOLOGY</displayName>
+   </concept>
+   <concept code="350">
+      <displayName>INFECTIOUS DISEASES</displayName>
+   </concept>
+   <concept code="321">
+      <displayName>PAEDIATRIC CARDIOLOGY</displayName>
+   </concept>
+   <concept code="291">
+      <displayName>PAEDIATRIC NEURO-DISABILITY</displayName>
+   </concept>
+   <concept code="300">
+      <displayName>GENERAL MEDICINE</displayName>
+   </concept>
+   <concept code="301">
+      <displayName>GASTROENTEROLOGY</displayName>
+   </concept>
+   <concept code="302">
+      <displayName>ENDOCRINOLOGY</displayName>
+   </concept>
+   <concept code="303">
+      <displayName>CLINICAL HAEMATOLOGY</displayName>
+   </concept>
+   <concept code="314">
+      <displayName>REHABILITATION</displayName>
+   </concept>
+   <concept code="304">
+      <displayName>CLINICAL PHYSIOLOGY</displayName>
+   </concept>
+   <concept code="305">
+      <displayName>CLINICAL PHARMACOLOGY</displayName>
+   </concept>
+   <concept code="315">
+      <displayName>PALLIATIVE MEDICINE</displayName>
+   </concept>
+   <concept code="306">
+      <displayName>HEPATOLOGY</displayName>
+   </concept>
+   <concept code="307">
+      <displayName>DIABETIC MEDICINE</displayName>
+   </concept>
+   <concept code="308">
+      <displayName>BLOOD AND MARROW TRANSPLANTATION</displayName>
+   </concept>
+   <concept code="309">
+      <displayName>HAEMOPHILIA</displayName>
+   </concept>
+   <concept code="310">
+      <displayName>AUDIOLOGICAL MEDICINE</displayName>
+   </concept>
+   <concept code="311">
+      <displayName>CLINICAL GENETICS</displayName>
+   </concept>
+   <concept code="313">
+      <displayName>CLINICAL IMMUNOLOGY and ALLERGY</displayName>
+   </concept>
+   <concept code="290">
+      <displayName>COMMUNITY PAEDIATRICS</displayName>
+   </concept>
+   <concept code="280">
+      <displayName>PAEDIATRIC INTERVENTIONAL RADIOLOGY</displayName>
+   </concept>
+   <concept code="262">
+      <displayName>PAEDIATRIC RHEUMATOLOGY</displayName>
+   </concept>
+   <concept code="261">
+      <displayName>PAEDIATRIC METABOLIC DISEASE</displayName>
+   </concept>
+   <concept code="260">
+      <displayName>PAEDIATRIC MEDICAL ONCOLOGY</displayName>
+   </concept>
+   <concept code="259">
+      <displayName>PAEDIATRIC NEPHROLOGY</displayName>
+   </concept>
+   <concept code="258">
+      <displayName>PAEDIATRIC RESPIRATORY MEDICINE</displayName>
+   </concept>
+   <concept code="257">
+      <displayName>PAEDIATRIC DERMATOLOGY</displayName>
+   </concept>
+   <concept code="256">
+      <displayName>PAEDIATRIC INFECTIOUS DISEASES</displayName>
+   </concept>
+   <concept code="255">
+      <displayName>PAEDIATRIC CLINICAL IMMUNOLOGY AND ALLERGY</displayName>
+   </concept>
+   <concept code="254">
+      <displayName>PAEDIATRIC AUDIOLOGICAL MEDICINE</displayName>
+   </concept>
+   <concept code="253">
+      <displayName>PAEDIATRIC CLINICAL HAEMATOLOGY</displayName>
+   </concept>
+   <concept code="252">
+      <displayName>PAEDIATRIC ENDOCRINOLOGY</displayName>
+   </concept>
+   <concept code="251">
+      <displayName>PAEDIATRIC GASTROENTEROLOGY</displayName>
+   </concept>
+   <concept code="242">
+      <displayName>PAEDIATRIC INTENSIVE CARE</displayName>
+   </concept>
+   <concept code="241">
+      <displayName>PAEDIATRIC PAIN MANAGEMENT</displayName>
+   </concept>
+   <concept code="222">
+      <displayName>PAEDIATRIC THORACIC SURGERY</displayName>
+   </concept>
+   <concept code="221">
+      <displayName>PAEDIATRIC CARDIAC SURGERY</displayName>
+   </concept>
+   <concept code="220">
+      <displayName>PAEDIATRIC BURNS CARE</displayName>
+   </concept>
+   <concept code="219">
+      <displayName>PAEDIATRIC PLASTIC SURGERY</displayName>
+   </concept>
+   <concept code="218">
+      <displayName>PAEDIATRIC NEUROSURGERY</displayName>
+   </concept>
+   <concept code="217">
+      <displayName>PAEDIATRIC MAXILLO-FACIAL SURGERY</displayName>
+   </concept>
+   <concept code="216">
+      <displayName>PAEDIATRIC OPHTHALMOLOGY</displayName>
+   </concept>
+   <concept code="215">
+      <displayName>PAEDIATRIC EAR NOSE AND THROAT</displayName>
+   </concept>
+   <concept code="214">
+      <displayName>PAEDIATRIC TRAUMA AND ORTHOPAEDICS</displayName>
+   </concept>
+   <concept code="213">
+      <displayName>PAEDIATRIC GASTROINTESTINAL SURGERY</displayName>
+   </concept>
+   <concept code="212">
+      <displayName>PAEDIATRIC TRANSPLANTATION SURGERY</displayName>
+   </concept>
+   <concept code="211">
+      <displayName>PAEDIATRIC UROLOGY</displayName>
+   </concept>
+   <concept code="192">
+      <displayName>CRITICAL CARE MEDICINE</displayName>
+   </concept>
+   <concept code="191">
+      <displayName>PAIN MANAGEMENT</displayName>
+   </concept>
+   <concept code="190">
+      <displayName>ANAESTHETICS</displayName>
+   </concept>
+   <concept code="180">
+      <displayName>ACCIDENT &amp; EMERGENCY</displayName>
+   </concept>
+   <concept code="174">
+      <displayName>CARDIOTHORACIC TRANSPLANTATION</displayName>
+   </concept>
+   <concept code="173">
+      <displayName>THORACIC SURGERY</displayName>
+   </concept>
+   <concept code="172">
+      <displayName>CARDIAC SURGERY</displayName>
+   </concept>
+   <concept code="171">
+      <displayName>PAEDIATRIC SURGERY</displayName>
+   </concept>
+   <concept code="170">
+      <displayName>CARDIOTHORACIC SURGERY</displayName>
+   </concept>
+   <concept code="161">
+      <displayName>BURNS CARE</displayName>
+   </concept>
+   <concept code="160">
+      <displayName>PLASTIC SURGERY</displayName>
+   </concept>
+   <concept code="150">
+      <displayName>NEUROSURGERY</displayName>
+   </concept>
+   <concept code="144">
+      <displayName>MAXILLO-FACIAL SURGERY</displayName>
+   </concept>
+   <concept code="143">
+      <displayName>ORTHODONTICS</displayName>
+   </concept>
+   <concept code="142">
+      <displayName>PAEDIATRIC DENTISTRY</displayName>
+   </concept>
+   <concept code="141">
+      <displayName>RESTORATIVE DENTISTRY</displayName>
+   </concept>
+   <concept code="140">
+      <displayName>ORAL SURGERY</displayName>
+   </concept>
+   <concept code="130">
+      <displayName>OPHTHALMOLOGY</displayName>
+   </concept>
+   <concept code="120">
+      <displayName>ENT</displayName>
+   </concept>
+   <concept code="110">
+      <displayName>TRAUMA &amp; ORTHOPAEDICS</displayName>
+   </concept>
+   <concept code="107">
+      <displayName>VASCULAR SURGERY</displayName>
+   </concept>
+   <concept code="106">
+      <displayName>UPPER GASTROINTESTINAL SURGERY</displayName>
+   </concept>
+   <concept code="105">
+      <displayName>HEPATOBILIARY &amp; PANCREATIC SURGERY</displayName>
+   </concept>
+   <concept code="104">
+      <displayName>COLORECTAL SURGERY</displayName>
+   </concept>
+   <concept code="103">
+      <displayName>BREAST SURGERY</displayName>
+   </concept>
+   <concept code="102">
+      <displayName>TRANSPLANTATION SURGERY</displayName>
+   </concept>
+   <concept code="101">
+      <displayName>UROLOGY</displayName>
+   </concept>
+   <concept code="100">
+      <displayName>GENERAL SURGERY</displayName>
+   </concept>
+   <concept code="352">
+      <displayName>TROPICAL MEDICINE</displayName>
+   </concept>
+   <concept code="360">
+      <displayName>GENITOURINARY MEDICINE</displayName>
+   </concept>
+   <concept code="361">
+      <displayName>NEPHROLOGY</displayName>
+   </concept>
+   <concept code="370">
+      <displayName>MEDICAL ONCOLOGY</displayName>
+   </concept>
+   <concept code="371">
+      <displayName>NUCLEAR MEDICINE</displayName>
+   </concept>
+   <concept code="400">
+      <displayName>NEUROLOGY</displayName>
+   </concept>
+   <concept code="401">
+      <displayName>CLINICAL NEUROPHYSIOLOGY</displayName>
+   </concept>
+   <concept code="410">
+      <displayName>RHEUMATOLOGY</displayName>
+   </concept>
+   <concept code="420">
+      <displayName>PAEDIATRICS</displayName>
+   </concept>
+   <concept code="421">
+      <displayName>PAEDIATRIC NEUROLOGY</displayName>
+   </concept>
+   <concept code="422">
+      <displayName>NEONATOLOGY</displayName>
+   </concept>
+   <concept code="424">
+      <displayName>WELL BABIES</displayName>
+   </concept>
+   <concept code="430">
+      <displayName>GERIATRIC MEDICINE</displayName>
+   </concept>
+   <concept code="450">
+      <displayName>DENTAL MEDICINE SPECIALTIES</displayName>
+   </concept>
+   <concept code="460">
+      <displayName>MEDICAL OPHTHALMOLOGY</displayName>
+   </concept>
+   <concept code="501">
+      <displayName>OBSTETRICS</displayName>
+   </concept>
+   <concept code="502">
+      <displayName>GYNAECOLOGY</displayName>
+   </concept>
+   <concept code="503">
+      <displayName>GYNAECOLOGICAL ONCOLOGY</displayName>
+   </concept>
+   <concept code="510">
+      <displayName>no longer in use - Record as Obstetrics, antenatal clinic</displayName>
+   </concept>
+   <concept code="520">
+      <displayName>no longer in use - Record as Obstetrics, postnatal clinic</displayName>
+   </concept>
+   <concept code="560">
+      <displayName>MIDWIFE EPISODE</displayName>
+   </concept>
+   <concept code="610">
+      <displayName>no longer in use - Record as Obstetrics</displayName>
+   </concept>
+   <concept code="620">
+      <displayName>no longer in use - Use the appropriate function under which the patient is treated</displayName>
+   </concept>
+   <concept code="650">
+      <displayName>PHYSIOTHERAPY</displayName>
+   </concept>
+   <concept code="651">
+      <displayName>OCCUPATIONAL THERAPY</displayName>
+   </concept>
+   <concept code="652">
+      <displayName>SPEECH AND LANGUAGE THERAPY</displayName>
+   </concept>
+   <concept code="653">
+      <displayName>PODIATRY</displayName>
+   </concept>
+   <concept code="654">
+      <displayName>DIETETICS</displayName>
+   </concept>
+   <concept code="655">
+      <displayName>ORTHOPTICS</displayName>
+   </concept>
+   <concept code="656">
+      <displayName>CLINICAL PSYCHOLOGY</displayName>
+   </concept>
+   <concept code="700">
+      <displayName>LEARNING DISABILITY</displayName>
+   </concept>
+   <concept code="710">
+      <displayName>ADULT MENTAL ILLNESS</displayName>
+   </concept>
+   <concept code="711">
+      <displayName>CHILD and ADOLESCENT PSYCHIATRY</displayName>
+   </concept>
+   <concept code="712">
+      <displayName>FORENSIC PSYCHIATRY</displayName>
+   </concept>
+   <concept code="713">
+      <displayName>PSYCHOTHERAPY</displayName>
+   </concept>
+   <concept code="715">
+      <displayName>OLD AGE PSYCHIATRY</displayName>
+   </concept>
+   <concept code="720">
+      <displayName>EATING DISORDERS</displayName>
+   </concept>
+   <concept code="721">
+      <displayName>ADDICTION SERVICES</displayName>
+   </concept>
+   <concept code="722">
+      <displayName>LIAISON PSYCHIATRY</displayName>
+   </concept>
+   <concept code="723">
+      <displayName>PSYCHIATRIC INTENSIVE CARE</displayName>
+   </concept>
+   <concept code="724">
+      <displayName>PERINATAL PSYCHIATRY</displayName>
+   </concept>
+   <concept code="800">
+      <displayName>CLINICAL ONCOLOGY (previously RADIOTHERAPY)</displayName>
+   </concept>
+   <concept code="811">
+      <displayName>INTERVENTIONAL RADIOLOGY</displayName>
+   </concept>
+   <concept code="812">
+      <displayName>DIAGNOSTIC IMAGING</displayName>
+   </concept>
+   <concept code="822">
+      <displayName>CHEMICAL PATHOLOGY</displayName>
+   </concept>
+   <concept code="832">
+      <displayName>no longer in use - Pathology</displayName>
+   </concept>
+   <concept code="840">
+      <displayName>AUDIOLOGY</displayName>
+   </concept>
+   <concept code="990">
+      <displayName>no longer in use - Other</displayName>
+   </concept>
+</vocabulary>

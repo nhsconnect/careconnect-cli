@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Specialty" version="2.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.156">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.156</p>
+            <p>This describes the Specialty of the Service. These are actually treatment function codes in the Choose and Book messages.</p>
+            <p>Specialty will be an external list of values maintained by Choose and Book.</p>
+         </Description>
+</vocabulary>

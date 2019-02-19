@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcessingMode" version="2.0" status="created"
+            id="2.16.840.1.113883.11.207">
+   <Description>
+            <p>Derived from: HL7 v3 <i>ProcessingMode</i> of Ballot Pack 6, Jan 2004</p>
+            <p>This code defines whether the message is being sent in current processing (the usual mode), archive mode, initial load mode, restore from archive mode, etc..</p>
+         </Description>
+   <concept code="A">
+      <displayName>Archive mode</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Initial load</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Restore from Archive</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Current processing</displayName>
+   </concept>
+</vocabulary>

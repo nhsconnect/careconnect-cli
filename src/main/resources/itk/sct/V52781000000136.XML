@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Substance Misuse" type="Realm Concept" setId="68021000000131" version="6" id="52781000000136" refId="999001641000000104" memberCount="303" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="5602001">
+<displayName lang="en" type="PT">Opioid abuse</displayName>
+<displayName lang="en" type="FSN">Opioid abuse (disorder)</displayName>
+</concept>
+<concept code="6525002">
+<displayName lang="en" type="PT">Dependent drug abuse</displayName>
+<displayName lang="en" type="FSN">Dependent drug abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Drug addiction</displayName>
+</concept>
+<concept code="7071007">
+<displayName lang="en" type="PT">PCP abuse</displayName>
+<displayName lang="en" type="FSN">Phencyclidine abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Phencyclidine (PCP) abuse</displayName>
+<displayName lang="en" type="SY">Phencyclidine abuse</displayName>
+</concept>
+<concept code="9769006">
+<displayName lang="en" type="PT">Drug habituation</displayName>
+<displayName lang="en" type="FSN">Drug habituation (disorder)</displayName>
+</concept>
+<concept code="15167005">
+<displayName lang="en" type="PT">Alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Alcohol abuse (disorder)</displayName>
+<displayName lang="en" type="SY">AA - Alcohol abuse</displayName>
+<displayName lang="en" type="SY">Alcohol misuse</displayName>
+<displayName lang="en" type="SY">Ethanol abuse</displayName>
+</concept>
+<concept code="26416006">
+<displayName lang="en" type="PT">Drug abuse</displayName>
+<displayName lang="en" type="FSN">Drug abuse (disorder)</displayName>
+</concept>
+<concept code="37344009">
+<displayName lang="en" type="PT">Cannabis abuse</displayName>
+<displayName lang="en" type="FSN">Cannabis abuse (disorder)</displayName>
+</concept>
+<concept code="44870007">
+<displayName lang="en" type="PT">Misused drugs in past</displayName>
+<displayName lang="en" type="FSN">Misused drugs in past (finding)</displayName>
+<displayName lang="en" type="SY">Ex-drug addict</displayName>
+<displayName lang="en" type="SY">Ex-drug misuser</displayName>
+<displayName lang="en" type="SY">Ex-drug user</displayName>
+</concept>
+<concept code="49540005">
+<displayName lang="en" type="PT">Non dependent drug abuse</displayName>
+<displayName lang="en" type="FSN">Non dependent drug abuse (disorder)</displayName>
+</concept>
+<concept code="64386003">
+<displayName lang="en" type="PT">Sedative abuse</displayName>
+<displayName lang="en" type="FSN">Sedative abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Sedative, hypnotic AND/OR anxiolytic abuse</displayName>
+<displayName lang="en-GB" type="SY">Tranquilliser abuse</displayName>
+</concept>
+<concept code="66214007">
+<displayName lang="en" type="PT">Substance abuse</displayName>
+<displayName lang="en" type="FSN">Substance abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Harmful substance use</displayName>
+<displayName lang="en" type="SY">Nondependent abuse of drugs</displayName>
+<displayName lang="en" type="SY">Nondependent abuse of substance</displayName>
+<displayName lang="en" type="SY">Substance misuse</displayName>
+</concept>
+<concept code="70340006">
+<displayName lang="en" type="PT">Inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Inhalant abuse (disorder)</displayName>
+</concept>
+<concept code="70545002">
+<displayName lang="en" type="PT">Narcotic drug user</displayName>
+<displayName lang="en" type="FSN">Narcotic drug user (finding)</displayName>
+</concept>
+<concept code="74851005">
+<displayName lang="en" type="PT">Hallucinogen abuse</displayName>
+<displayName lang="en" type="FSN">Hallucinogen abuse (disorder)</displayName>
+</concept>
+<concept code="78267003">
+<displayName lang="en" type="PT">Cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="84758004">
+<displayName lang="en" type="PT">Amphetamine abuse</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Amfetamine abuse</displayName>
+<displayName lang="en" type="SY">Drug abuse using speed</displayName>
+</concept>
+<concept code="91388009">
+<displayName lang="en" type="PT">Psychoactive substance abuse</displayName>
+<displayName lang="en" type="FSN">Psychoactive substance abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Disorder due to psychoactive substance use</displayName>
+<displayName lang="en" type="SY">Psychoactive substance misuse disorder</displayName>
+</concept>
+<concept code="105546006">
+<displayName lang="en" type="PT">Occasional drug abuser</displayName>
+<displayName lang="en" type="FSN">Occasional drug abuser (finding)</displayName>
+<displayName lang="en" type="SY">Occasional drug misuser</displayName>
+<displayName lang="en" type="SY">Occasional drug user</displayName>
+</concept>
+<concept code="105549004">
+<displayName lang="en" type="PT">Abuses volatile solvents</displayName>
+<displayName lang="en" type="FSN">Abuses volatile solvents (finding)</displayName>
+<displayName lang="en" type="SY">Misuses volatile solvents</displayName>
+<displayName lang="en" type="SY">Volatile solvent abuser</displayName>
+</concept>
+<concept code="105550004">
+<displayName lang="en" type="PT">Misused volatile solvents in past</displayName>
+<displayName lang="en" type="FSN">Misused volatile solvents in past (finding)</displayName>
+<displayName lang="en" type="SY">Former volatile solvent user</displayName>
+</concept>
+<concept code="110281001">
+<displayName lang="en" type="PT">Chronic drug abuse</displayName>
+<displayName lang="en" type="FSN">Chronic drug abuse (disorder)</displayName>
+</concept>
+<concept code="169941005">
+<displayName lang="en" type="PT">Maternal drug abuse</displayName>
+<displayName lang="en" type="FSN">Maternal drug abuse (finding)</displayName>
+<displayName lang="en" type="SY">Maternal drug misuse</displayName>
+</concept>
+<concept code="191882002">
+<displayName lang="en" type="PT">Nondependent alcohol abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191883007">
+<displayName lang="en" type="PT">Nondependent alcohol abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191884001">
+<displayName lang="en" type="PT">Nondependent alcohol abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191891003">
+<displayName lang="en" type="PT">Nondependent cannabis abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse (disorder)</displayName>
+</concept>
+<concept code="191893000">
+<displayName lang="en" type="PT">Nondependent cannabis abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191894006">
+<displayName lang="en" type="PT">Nondependent cannabis abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191895007">
+<displayName lang="en" type="PT">Nondependent cannabis abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent cannabis abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191899001">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191900006">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191901005">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191905001">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191906000">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191907009">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191909007">
+<displayName lang="en" type="PT">Nondependent opioid abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse (disorder)</displayName>
+</concept>
+<concept code="191912005">
+<displayName lang="en" type="PT">Nondependent opioid abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191913000">
+<displayName lang="en" type="PT">Nondependent opioid abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191914006">
+<displayName lang="en" type="PT">Nondependent opioid abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent opioid abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191916008">
+<displayName lang="en" type="PT">Nondependent cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="191918009">
+<displayName lang="en" type="PT">Nondependent cocaine abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191919001">
+<displayName lang="en" type="PT">Nondependent cocaine abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191920007">
+<displayName lang="en" type="PT">Nondependent cocaine abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent cocaine abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191924003">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse, continuous (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or psychostimulant abuse, continuous</displayName>
+</concept>
+<concept code="191925002">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse, episodic (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or psychostimulant abuse, episodic</displayName>
+</concept>
+<concept code="191928000">
+<displayName lang="en" type="PT">Abuse of antidepressant drug</displayName>
+<displayName lang="en" type="FSN">Abuse of antidepressant drug (disorder)</displayName>
+</concept>
+<concept code="191930003">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191931004">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191932006">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191934007">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse (disorder)</displayName>
+</concept>
+<concept code="191936009">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="191937000">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="191938005">
+<displayName lang="en" type="PT">Nondependent mixed drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent mixed drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="191939002">
+<displayName lang="en" type="PT">Misuse of prescription only drugs</displayName>
+<displayName lang="en" type="FSN">Misuse of prescription only drugs (finding)</displayName>
+</concept>
+<concept code="226034001">
+<displayName lang="en" type="PT">Injecting drug user</displayName>
+<displayName lang="en" type="FSN">Injecting drug user (finding)</displayName>
+<displayName lang="en" type="SY">Drug injector</displayName>
+<displayName lang="en" type="SY">IDU - Injecting drug user</displayName>
+</concept>
+<concept code="228367002">
+<displayName lang="en" type="PT">Does not misuse drugs</displayName>
+<displayName lang="en" type="FSN">Does not misuse drugs (situation)</displayName>
+<displayName lang="en" type="SY">No misuse of drugs</displayName>
+</concept>
+<concept code="228368007">
+<displayName lang="en" type="PT">Has never misused drugs</displayName>
+<displayName lang="en" type="FSN">Has never misused drugs (situation)</displayName>
+</concept>
+<concept code="228371004">
+<displayName lang="en" type="PT">Long-term drug misuser</displayName>
+<displayName lang="en" type="FSN">Long-term drug misuser (finding)</displayName>
+</concept>
+<concept code="228372006">
+<displayName lang="en" type="PT">Poly-drug misuser</displayName>
+<displayName lang="en" type="FSN">Poly-drug misuser (finding)</displayName>
+<displayName lang="en" type="SY">Multi-drug misuser</displayName>
+<displayName lang="en" type="SY">Poly-drug abuser</displayName>
+</concept>
+<concept code="228373001">
+<displayName lang="en" type="PT">Drug addict</displayName>
+<displayName lang="en" type="FSN">Drug addict (finding)</displayName>
+</concept>
+<concept code="228374007">
+<displayName lang="en" type="PT">Notified addict</displayName>
+<displayName lang="en" type="FSN">Notified addict (finding)</displayName>
+<displayName lang="en" type="SY">Registered addict</displayName>
+</concept>
+<concept code="228375008">
+<displayName lang="en" type="PT">Misuses drugs orally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs orally (finding)</displayName>
+</concept>
+<concept code="228376009">
+<displayName lang="en" type="PT">Inhales drugs</displayName>
+<displayName lang="en" type="FSN">Inhales drugs (finding)</displayName>
+</concept>
+<concept code="228377000">
+<displayName lang="en" type="PT">Smokes drugs</displayName>
+<displayName lang="en" type="FSN">Smokes drugs (finding)</displayName>
+</concept>
+<concept code="228378005">
+<displayName lang="en" type="PT">Smokes drugs in cigarette form</displayName>
+<displayName lang="en" type="FSN">Smokes drugs in cigarette form (finding)</displayName>
+</concept>
+<concept code="228379002">
+<displayName lang="en" type="PT">Smokes drugs through a pipe</displayName>
+<displayName lang="en" type="FSN">Smokes drugs through a pipe (finding)</displayName>
+</concept>
+<concept code="228380004">
+<displayName lang="en" type="PT">Chases the dragon</displayName>
+<displayName lang="en" type="FSN">Chases the dragon (finding)</displayName>
+<displayName lang="en" type="SY">Employs barbiturates as a base powder during the smoking of heroin</displayName>
+</concept>
+<concept code="228381000">
+<displayName lang="en" type="PT">Sniffs drugs</displayName>
+<displayName lang="en" type="FSN">Sniffs drugs (finding)</displayName>
+<displayName lang="en" type="SY">Intranasal drug use</displayName>
+<displayName lang="en" type="SY">Intranasal drug user</displayName>
+<displayName lang="en" type="SY">Snorts drugs</displayName>
+</concept>
+<concept code="228382007">
+<displayName lang="en" type="PT">Misuses drugs vaginally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs vaginally (finding)</displayName>
+</concept>
+<concept code="228383002">
+<displayName lang="en" type="PT">Misuses drugs rectally</displayName>
+<displayName lang="en" type="FSN">Misuses drugs rectally (finding)</displayName>
+</concept>
+<concept code="228384008">
+<displayName lang="en" type="PT">Misuses drugs sublingually</displayName>
+<displayName lang="en" type="FSN">Misuses drugs sublingually (finding)</displayName>
+</concept>
+<concept code="228386005">
+<displayName lang="en" type="PT">Injects drugs subcutaneously</displayName>
+<displayName lang="en" type="FSN">Injects drugs subcutaneously (finding)</displayName>
+<displayName lang="en" type="SY">Skin pops drugs</displayName>
+<displayName lang="en" type="SY">Subcutaneous drug user</displayName>
+</concept>
+<concept code="228387001">
+<displayName lang="en" type="PT">Injects drugs intramuscularly</displayName>
+<displayName lang="en" type="FSN">Injects drugs intramuscularly (finding)</displayName>
+<displayName lang="en" type="SY">Intramuscular drug user</displayName>
+<displayName lang="en" type="SY">Skin pops drugs IM</displayName>
+</concept>
+<concept code="228388006">
+<displayName lang="en" type="PT">Intravenous drug user</displayName>
+<displayName lang="en" type="FSN">Intravenous drug user (finding)</displayName>
+<displayName lang="en" type="SY">IDU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IV - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IVDU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">IVU - Intravenous drug user</displayName>
+<displayName lang="en" type="SY">Injects drugs intravenously</displayName>
+<displayName lang="en" type="SY">Mainlines</displayName>
+</concept>
+<concept code="228389003">
+<displayName lang="en" type="PT">Groin injector</displayName>
+<displayName lang="en" type="FSN">Groin injector (finding)</displayName>
+</concept>
+<concept code="228392004">
+<displayName lang="en" type="PT">Does not inject drugs</displayName>
+<displayName lang="en" type="FSN">Does not inject drugs (situation)</displayName>
+</concept>
+<concept code="228393009">
+<displayName lang="en" type="PT">Has never injected drugs</displayName>
+<displayName lang="en" type="FSN">Has never injected drugs (situation)</displayName>
+</concept>
+<concept code="228395002">
+<displayName lang="en" type="PT">Shares drug injecting equipment</displayName>
+<displayName lang="en" type="FSN">Shares drug injecting equipment (finding)</displayName>
+<displayName lang="en" type="SY">Sharing of drug injecting equipment</displayName>
+</concept>
+<concept code="228397005">
+<displayName lang="en" type="PT">Shares drug equipment</displayName>
+<displayName lang="en" type="FSN">Shares drug equipment (finding)</displayName>
+</concept>
+<concept code="228398000">
+<displayName lang="en" type="PT">Frontloading</displayName>
+<displayName lang="en" type="FSN">Frontloading (finding)</displayName>
+</concept>
+<concept code="228399008">
+<displayName lang="en" type="PT">Shares syringes</displayName>
+<displayName lang="en" type="FSN">Shares syringes (finding)</displayName>
+</concept>
+<concept code="228400001">
+<displayName lang="en" type="PT">Shares needles</displayName>
+<displayName lang="en" type="FSN">Shares needles (finding)</displayName>
+</concept>
+<concept code="228402009">
+<displayName lang="en" type="PT">Cleans drug injection equipment</displayName>
+<displayName lang="en" type="FSN">Cleans drug injection equipment (finding)</displayName>
+<displayName lang="en" type="SY">Cleans</displayName>
+</concept>
+<concept code="228405006">
+<displayName lang="en" type="PT">Obtains clean needles</displayName>
+<displayName lang="en" type="FSN">Obtains clean needles (finding)</displayName>
+</concept>
+<concept code="228406007">
+<displayName lang="en" type="PT">Uses needle exchange scheme</displayName>
+<displayName lang="en" type="FSN">Uses needle exchange scheme (finding)</displayName>
+</concept>
+<concept code="228407003">
+<displayName lang="en" type="PT">Obtains clean syringes</displayName>
+<displayName lang="en" type="FSN">Obtains clean syringes (finding)</displayName>
+</concept>
+<concept code="228410005">
+<displayName lang="en" type="PT">Uses needle and syringe exchange scheme</displayName>
+<displayName lang="en" type="FSN">Uses needle and syringe exchange scheme (finding)</displayName>
+</concept>
+<concept code="228417008">
+<displayName lang="en" type="PT">Undue priority given to drug-related activities</displayName>
+<displayName lang="en" type="FSN">Undue priority given to drug-related activities (finding)</displayName>
+<displayName lang="en" type="SY">Priority given to drug-related activities</displayName>
+</concept>
+<concept code="228418003">
+<displayName lang="en" type="PT">Drug habit takes priority over social obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over social obligations (finding)</displayName>
+</concept>
+<concept code="228419006">
+<displayName lang="en" type="PT">Drug habit takes priority over family obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over family obligations (finding)</displayName>
+</concept>
+<concept code="228420000">
+<displayName lang="en" type="PT">Drug habit takes priority over financial obligations</displayName>
+<displayName lang="en" type="FSN">Drug habit takes priority over financial obligations (finding)</displayName>
+</concept>
+<concept code="228427002">
+<displayName lang="en" type="PT">Has a routine of drug-related activities</displayName>
+<displayName lang="en" type="FSN">Has a routine of drug-related activities (finding)</displayName>
+</concept>
+<concept code="228428007">
+<displayName lang="en" type="PT">Follows same drug-related routine every day</displayName>
+<displayName lang="en" type="FSN">Follows same drug-related routine every day (finding)</displayName>
+</concept>
+<concept code="228430009">
+<displayName lang="en" type="PT">Follows drug-related rituals</displayName>
+<displayName lang="en" type="FSN">Follows drug-related rituals (finding)</displayName>
+</concept>
+<concept code="228433006">
+<displayName lang="en-GB" type="PT">Behavioural tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Behavioral tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228434000">
+<displayName lang="en" type="PT">Physical tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Physical tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228435004">
+<displayName lang="en" type="PT">Psychological tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Psychological tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228436003">
+<displayName lang="en" type="PT">Reverse tolerance to drug</displayName>
+<displayName lang="en" type="FSN">Reverse tolerance to drug (finding)</displayName>
+</concept>
+<concept code="228438002">
+<displayName lang="en" type="PT">Craves for drugs</displayName>
+<displayName lang="en" type="FSN">Craves for drugs (finding)</displayName>
+<displayName lang="en" type="SY">Craves drugs</displayName>
+<displayName lang="en" type="SY">Craving for drugs</displayName>
+</concept>
+<concept code="228440007">
+<displayName lang="en-GB" type="PT">Drug-related offending behaviour</displayName>
+<displayName lang="en" type="FSN">Drug-related offending behavior (finding)</displayName>
+</concept>
+<concept code="228441006">
+<displayName lang="en" type="PT">Dealing with drugs</displayName>
+<displayName lang="en" type="FSN">Dealing with drugs (finding)</displayName>
+</concept>
+<concept code="228442004">
+<displayName lang="en" type="PT">Selling drugs</displayName>
+<displayName lang="en" type="FSN">Selling drugs (finding)</displayName>
+<displayName lang="en" type="SY">Pushing drugs</displayName>
+</concept>
+<concept code="228443009">
+<displayName lang="en" type="PT">Buying drugs</displayName>
+<displayName lang="en" type="FSN">Buying drugs (finding)</displayName>
+</concept>
+<concept code="228444003">
+<displayName lang="en" type="PT">Possession of drugs</displayName>
+<displayName lang="en" type="FSN">Possession of drugs (finding)</displayName>
+</concept>
+<concept code="231458000">
+<displayName lang="en" type="PT">Abuse of steroids</displayName>
+<displayName lang="en" type="FSN">Abuse of steroids (disorder)</displayName>
+<displayName lang="en" type="SY">Steroid abuse</displayName>
+</concept>
+<concept code="231459008">
+<displayName lang="en" type="PT">Abuse of nonpsychotropic analgesic drugs</displayName>
+<displayName lang="en" type="FSN">Abuse of nonpsychotropic analgesic drugs (disorder)</displayName>
+<displayName lang="en" type="SY">Nonpsychotropic analgesic abuse</displayName>
+</concept>
+<concept code="231461004">
+<displayName lang="en" type="PT">Hypnotic or anxiolytic abuse</displayName>
+<displayName lang="en" type="FSN">Hypnotic or anxiolytic abuse (disorder)</displayName>
+</concept>
+<concept code="231462006">
+<displayName lang="en" type="PT">Barbiturate abuse</displayName>
+<displayName lang="en" type="FSN">Barbiturate abuse (disorder)</displayName>
+</concept>
+<concept code="248119008">
+<displayName lang="en" type="PT">Abuse of drugs to lose weight</displayName>
+<displayName lang="en" type="FSN">Abuse of drugs to lose weight (disorder)</displayName>
+</concept>
+<concept code="268645007">
+<displayName lang="en" type="PT">Nondependent alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent alcohol abuse (disorder)</displayName>
+</concept>
+<concept code="268646008">
+<displayName lang="en" type="PT">Nondependent hallucinogen abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent hallucinogen abuse (disorder)</displayName>
+</concept>
+<concept code="268647004">
+<displayName lang="en" type="PT">Nondependent hypnotic or anxiolytic abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent hypnotic or anxiolytic abuse (disorder)</displayName>
+</concept>
+<concept code="268648009">
+<displayName lang="en" type="PT">Nondependent amphetamine or other psychostimulant abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or other psychostimulant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Nondependent amfetamine or other psychostimulant abuse</displayName>
+</concept>
+<concept code="268727002">
+<displayName lang="en" type="PT">Abuse of non-dependence-producing substances</displayName>
+<displayName lang="en" type="FSN">Abuse of non-dependence-producing substances (disorder)</displayName>
+</concept>
+<concept code="280982009">
+<displayName lang="en" type="PT">Abuse of laxatives</displayName>
+<displayName lang="en" type="FSN">Abuse of laxatives (disorder)</displayName>
+<displayName lang="en" type="SY">Laxative abuse</displayName>
+</concept>
+<concept code="280983004">
+<displayName lang="en" type="PT">Abuse of vitamins</displayName>
+<displayName lang="en" type="FSN">Abuse of vitamins (disorder)</displayName>
+<displayName lang="en" type="SY">Vitamin abuse</displayName>
+</concept>
+<concept code="280984005">
+<displayName lang="en" type="PT">Abuse of herbal medicine</displayName>
+<displayName lang="en" type="FSN">Abuse of herbal medicine (disorder)</displayName>
+</concept>
+<concept code="280985006">
+<displayName lang="en" type="PT">Abuse of diuretics</displayName>
+<displayName lang="en" type="FSN">Abuse of diuretics (disorder)</displayName>
+</concept>
+<concept code="280986007">
+<displayName lang="en" type="PT">Abuse of antacids</displayName>
+<displayName lang="en" type="FSN">Abuse of antacids (disorder)</displayName>
+<displayName lang="en" type="SY">Antacid abuse</displayName>
+</concept>
+<concept code="284591009">
+<displayName lang="en" type="PT">Persistent alcohol abuse</displayName>
+<displayName lang="en" type="FSN">Persistent alcohol abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Chronic alcohol abuse</displayName>
+</concept>
+<concept code="304605000">
+<displayName lang="en" type="PT">Methanol abuse</displayName>
+<displayName lang="en" type="FSN">Methanol abuse (disorder)</displayName>
+</concept>
+<concept code="307052004">
+<displayName lang="en" type="PT">Illicit drug use</displayName>
+<displayName lang="en" type="FSN">Illicit drug use (finding)</displayName>
+<displayName lang="en" type="SY">Illicit substance use</displayName>
+</concept>
+<concept code="361049005">
+<displayName lang="en" type="PT">Habitual drug user</displayName>
+<displayName lang="en" type="FSN">Habitual drug user (finding)</displayName>
+</concept>
+<concept code="361055000">
+<displayName lang="en" type="PT">Misuses drugs</displayName>
+<displayName lang="en" type="FSN">Misuses drugs (finding)</displayName>
+<displayName lang="en" type="SY">Drug abuser</displayName>
+<displayName lang="en" type="SY">Problem drug user</displayName>
+<displayName lang="en" type="SY">SM - Substance misuser</displayName>
+<displayName lang="en" type="SY">Substance abuser</displayName>
+<displayName lang="en" type="SY">Substance misuser</displayName>
+<displayName lang="en" type="SY">Substance user</displayName>
+</concept>
+<concept code="371422002">
+<displayName lang="en" type="PT">History of substance abuse</displayName>
+<displayName lang="en" type="FSN">History of substance abuse (situation)</displayName>
+<displayName lang="en" type="SY">History of substance misuse</displayName>
+</concept>
+<concept code="371434005">
+<displayName lang="en" type="PT">History of alcohol abuse</displayName>
+<displayName lang="en" type="FSN">History of alcohol abuse (situation)</displayName>
+</concept>
+<concept code="371435006">
+<displayName lang="en" type="PT">History of drug abuse</displayName>
+<displayName lang="en" type="FSN">History of drug abuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O: drug abuse</displayName>
+<displayName lang="en" type="SY">History of drug misuse</displayName>
+</concept>
+<concept code="373613000">
+<displayName lang="en" type="PT">&quot;Cleans&quot; own needles</displayName>
+<displayName lang="en" type="FSN">&quot;Cleans&quot; own needles (finding)</displayName>
+</concept>
+<concept code="373870008">
+<displayName lang="en" type="PT">Cleans needles with bleach</displayName>
+<displayName lang="en" type="FSN">Cleans needles with bleach (finding)</displayName>
+<displayName lang="en" type="SY">&quot;Cleans&quot; needles with bleach</displayName>
+</concept>
+<concept code="413096007">
+<displayName lang="en" type="PT">Never injecting drug user</displayName>
+<displayName lang="en" type="FSN">Never injecting drug user (finding)</displayName>
+</concept>
+<concept code="413295004">
+<displayName lang="en" type="PT">Concerned about own drug use</displayName>
+<displayName lang="en" type="FSN">Concerned about own drug use (finding)</displayName>
+</concept>
+<concept code="413329000">
+<displayName lang="en" type="PT">Treated for drug use in last 12 months</displayName>
+<displayName lang="en" type="FSN">Treated for drug use in last 12 months (finding)</displayName>
+</concept>
+<concept code="413765008">
+<displayName lang="en" type="PT">Carer of a person with substance misuse</displayName>
+<displayName lang="en" type="FSN">Carer of a person with substance misuse (finding)</displayName>
+</concept>
+<concept code="413989008">
+<displayName lang="en" type="PT">Did not attend substance misuse clinic</displayName>
+<displayName lang="en" type="FSN">Did not attend substance misuse clinic (finding)</displayName>
+<displayName lang="en" type="SY">DNA - Did not attend substance misuse clinic</displayName>
+</concept>
+<concept code="414296009">
+<displayName lang="en" type="PT">Frequency of substance misuse</displayName>
+<displayName lang="en" type="FSN">Frequency of substance misuse (finding)</displayName>
+</concept>
+<concept code="414874007">
+<displayName lang="en" type="PT">Nondependent amphetamine or psychostimulant abuse in remission</displayName>
+<displayName lang="en" type="FSN">Nondependent amphetamine or psychostimulant abuse in remission (disorder)</displayName>
+</concept>
+<concept code="415658005">
+<displayName lang="en-GB" type="PT">Substance misuse behaviour</displayName>
+<displayName lang="en" type="FSN">Substance misuse behavior (finding)</displayName>
+</concept>
+<concept code="415659002">
+<displayName lang="en" type="PT">Substance misuse clinical management plan agreed</displayName>
+<displayName lang="en" type="FSN">Substance misuse clinical management plan agreed (finding)</displayName>
+</concept>
+<concept code="415660007">
+<displayName lang="en" type="PT">Substance misuse decreased</displayName>
+<displayName lang="en" type="FSN">Substance misuse decreased (finding)</displayName>
+</concept>
+<concept code="415661006">
+<displayName lang="en" type="PT">Substance misuse increased</displayName>
+<displayName lang="en" type="FSN">Substance misuse increased (finding)</displayName>
+</concept>
+<concept code="415663009">
+<displayName lang="en" type="PT">Substance misuse monitoring status</displayName>
+<displayName lang="en" type="FSN">Substance misuse monitoring status (finding)</displayName>
+</concept>
+<concept code="416246006">
+<displayName lang="en" type="PT">Prolonged high dose use of cannabis</displayName>
+<displayName lang="en" type="FSN">Prolonged high dose use of cannabis (finding)</displayName>
+</concept>
+<concept code="416479009">
+<displayName lang="en" type="PT">Previously injecting drug user</displayName>
+<displayName lang="en" type="FSN">Previously injecting drug user (finding)</displayName>
+</concept>
+<concept code="416751004">
+<displayName lang="en" type="PT">Reduced drugs misuse</displayName>
+<displayName lang="en" type="FSN">Reduced drugs misuse (finding)</displayName>
+</concept>
+<concept code="417284009">
+<displayName lang="en" type="PT">Current drug user</displayName>
+<displayName lang="en" type="FSN">Current drug user (finding)</displayName>
+</concept>
+<concept code="417298001">
+<displayName lang="en" type="PT">Abnormal craving for drugs</displayName>
+<displayName lang="en" type="FSN">Abnormal craving for drugs (finding)</displayName>
+</concept>
+<concept code="417471002">
+<displayName lang="en" type="PT">Persistent substance misuse</displayName>
+<displayName lang="en" type="FSN">Persistent substance misuse (finding)</displayName>
+</concept>
+<concept code="417531009">
+<displayName lang="en" type="PT">Excessive craving for drugs</displayName>
+<displayName lang="en" type="FSN">Excessive craving for drugs (finding)</displayName>
+</concept>
+<concept code="417697003">
+<displayName lang="en" type="PT">Irresistible craving for drugs</displayName>
+<displayName lang="en" type="FSN">Irresistible craving for drugs (finding)</displayName>
+</concept>
+<concept code="424626006">
+<displayName lang="en" type="PT">Misuse of over-the-counter medications</displayName>
+<displayName lang="en" type="FSN">Misuse of over-the-counter medications (finding)</displayName>
+</concept>
+<concept code="424848002">
+<displayName lang="en" type="PT">Recreational drug user</displayName>
+<displayName lang="en" type="FSN">Recreational drug user (finding)</displayName>
+</concept>
+<concept code="425533007">
+<displayName lang="en" type="PT">Episodic drug abuse</displayName>
+<displayName lang="en" type="FSN">Episodic drug abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Drug abuse, episodic</displayName>
+</concept>
+<concept code="425885002">
+<displayName lang="en" type="PT">Continuous phencyclidine abuse</displayName>
+<displayName lang="en" type="FSN">Continuous phencyclidine abuse (disorder)</displayName>
+</concept>
+<concept code="426095000">
+<displayName lang="en" type="PT">Continuous inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Continuous inhalant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Inhalant abuse, continuous</displayName>
+</concept>
+<concept code="426590003">
+<displayName lang="en" type="PT">Drug abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Drug abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="427205009">
+<displayName lang="en" type="PT">Amphetamine abuse, continuous</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse, continuous (disorder)</displayName>
+</concept>
+<concept code="427229002">
+<displayName lang="en" type="PT">Episodic inhalant abuse</displayName>
+<displayName lang="en" type="FSN">Episodic inhalant abuse (disorder)</displayName>
+<displayName lang="en" type="SY">Inhalant abuse, episodic</displayName>
+</concept>
+<concept code="428406005">
+<displayName lang="en" type="PT">Benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">Benzodiazepine misuse (finding)</displayName>
+</concept>
+<concept code="428493006">
+<displayName lang="en" type="PT">Crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Crack cocaine misuse (finding)</displayName>
+</concept>
+<concept code="428495004">
+<displayName lang="en" type="PT">Solvent misuse</displayName>
+<displayName lang="en" type="FSN">Solvent misuse (finding)</displayName>
+</concept>
+<concept code="428623008">
+<displayName lang="en" type="PT">Barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">Barbiturate misuse (finding)</displayName>
+</concept>
+<concept code="428659002">
+<displayName lang="en" type="PT">Amphetamine misuse</displayName>
+<displayName lang="en" type="FSN">Amphetamine misuse (finding)</displayName>
+</concept>
+<concept code="428819003">
+<displayName lang="en" type="PT">Opiate misuse</displayName>
+<displayName lang="en" type="FSN">Opiate misuse (finding)</displayName>
+</concept>
+<concept code="428823006">
+<displayName lang="en" type="PT">Cannabis misuse</displayName>
+<displayName lang="en" type="FSN">Cannabis misuse (finding)</displayName>
+</concept>
+<concept code="429179002">
+<displayName lang="en" type="PT">Antidepressant misuse</displayName>
+<displayName lang="en" type="FSN">Antidepressant misuse (finding)</displayName>
+</concept>
+<concept code="429512006">
+<displayName lang="en" type="PT">Methadone misuse</displayName>
+<displayName lang="en" type="FSN">Methadone misuse (finding)</displayName>
+</concept>
+<concept code="429692000">
+<displayName lang="en" type="PT">Amphetamine abuse, episodic</displayName>
+<displayName lang="en" type="FSN">Amphetamine abuse, episodic (disorder)</displayName>
+</concept>
+<concept code="429782000">
+<displayName lang="en" type="PT">Cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Cocaine misuse (finding)</displayName>
+</concept>
+<concept code="439138006">
+<displayName lang="en" type="PT">Both parents misuse drugs</displayName>
+<displayName lang="en" type="FSN">Both parents misuse drugs (situation)</displayName>
+</concept>
+<concept code="439213009">
+<displayName lang="en" type="PT">Paternal drug misuse</displayName>
+<displayName lang="en" type="FSN">Drug misuse by father (situation)</displayName>
+<displayName lang="en" type="SY">Drug misuse by father</displayName>
+</concept>
+<concept code="441527004">
+<displayName lang="en" type="PT">Stimulant abuse</displayName>
+<displayName lang="en" type="FSN">Stimulant abuse (disorder)</displayName>
+</concept>
+<concept code="441668002">
+<displayName lang="en-GB" type="PT">Drug seeking behaviour</displayName>
+<displayName lang="en" type="FSN">Drug seeking behavior (finding)</displayName>
+<displayName lang="en" type="SY">Drug seeking</displayName>
+</concept>
+<concept code="442080007">
+<displayName lang="en" type="PT">Drug misuse by mother</displayName>
+<displayName lang="en" type="FSN">Drug misuse by mother (situation)</displayName>
+</concept>
+<concept code="445273005">
+<displayName lang="en" type="PT">Polysubstance abuse</displayName>
+<displayName lang="en" type="FSN">Polysubstance abuse (disorder)</displayName>
+</concept>
+<concept code="699449003">
+<displayName lang="en" type="PT">Methamphetamine abuse</displayName>
+<displayName lang="en" type="FSN">Methamphetamine abuse (disorder)</displayName>
+</concept>
+<concept code="702771005">
+<displayName lang="en" type="PT">Illicit drug use unknown</displayName>
+<displayName lang="en" type="FSN">Illicit drug use unknown (finding)</displayName>
+</concept>
+<concept code="703885002">
+<displayName lang="en" type="PT">Misuse of analgesic</displayName>
+<displayName lang="en" type="FSN">Misuse of analgesic (finding)</displayName>
+</concept>
+<concept code="705132005">
+<displayName lang="en-GB" type="PT">Admitted to substance misuse detoxification centre</displayName>
+<displayName lang="en" type="FSN">Admitted to substance misuse detoxification center (situation)</displayName>
+</concept>
+<concept code="707848009">
+<displayName lang="en" type="PT">Patient denies drug use</displayName>
+<displayName lang="en" type="FSN">Patient denies drug use (finding)</displayName>
+</concept>
+<concept code="712542001">
+<displayName lang="en" type="PT">Abstinent from drug misuse</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse (finding)</displayName>
+</concept>
+<concept code="712543006">
+<displayName lang="en" type="PT">Abstinent from drug misuse in normal environment</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse in normal environment (finding)</displayName>
+</concept>
+<concept code="712544000">
+<displayName lang="en" type="PT">Abstinent from drug misuse in protected environment</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse in protected environment (finding)</displayName>
+</concept>
+<concept code="712545004">
+<displayName lang="en" type="PT">Abstinent from drug misuse on maintenance replacement</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse on maintenance replacement (finding)</displayName>
+</concept>
+<concept code="712546003">
+<displayName lang="en" type="PT">Abstinent from drug misuse when receiving blocking therapy</displayName>
+<displayName lang="en" type="FSN">Abstinent from drug misuse when receiving blocking therapy (finding)</displayName>
+</concept>
+<concept code="1471000119103">
+<displayName lang="en" type="PT">Drug abuse in remission</displayName>
+<displayName lang="en" type="FSN">Drug abuse in remission (disorder)</displayName>
+</concept>
+<concept code="27051000119102">
+<displayName lang="en" type="PT">Chronic abuse of laxatives</displayName>
+<displayName lang="en" type="FSN">Chronic abuse of laxatives (disorder)</displayName>
+</concept>
+<concept code="125851000119106">
+<displayName lang="en" type="PT">Continuous sedative abuse</displayName>
+<displayName lang="en" type="FSN">Continuous sedative abuse (disorder)</displayName>
+</concept>
+<concept code="145101000119102">
+<displayName lang="en" type="PT">Intravenous cocaine abuse</displayName>
+<displayName lang="en" type="FSN">Intravenous cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="145121000119106">
+<displayName lang="en" type="PT">Intravenous nondependent opioid abuse</displayName>
+<displayName lang="en" type="FSN">Intravenous nondependent opioid abuse (disorder)</displayName>
+</concept>
+<concept code="145841000119107">
+<displayName lang="en" type="PT">Episodic phencyclidine abuse</displayName>
+<displayName lang="en" type="FSN">Episodic phencyclidine abuse (disorder)</displayName>
+</concept>
+<concept code="176831000000102">
+<displayName lang="en" type="PT">Drug misuse enhanced service completed</displayName>
+<displayName lang="en" type="FSN">Drug misuse enhanced service completed (finding)</displayName>
+</concept>
+<concept code="197541000000101">
+<displayName lang="en-GB" type="PT">Occasional drug user</displayName>
+<displayName lang="en-GB" type="FSN">Occasional drug user (finding)</displayName>
+</concept>
+<concept code="198861000000103">
+<displayName lang="en-GB" type="PT">Substance misuse clinical management plan reviewed</displayName>
+<displayName lang="en-GB" type="FSN">Substance misuse clinical management plan reviewed (finding)</displayName>
+</concept>
+<concept code="200861000000101">
+<displayName lang="en-GB" type="PT">Substance misuse management stopped - self withdrawal</displayName>
+<displayName lang="en" type="FSN">Substance misuse management stopped - self withdrawal (situation)</displayName>
+</concept>
+<concept code="201091000000109">
+<displayName lang="en-GB" type="PT">Substance misuse treatment withdrawn</displayName>
+<displayName lang="en-GB" type="FSN">Substance misuse treatment withdrawn (finding)</displayName>
+</concept>
+<concept code="201101000000101">
+<displayName lang="en-GB" type="PT">Substance misuse treatment programme completed</displayName>
+<displayName lang="en-GB" type="FSN">Substance misuse treatment programme completed (finding)</displayName>
+</concept>
+<concept code="202561000000103">
+<displayName lang="en-GB" type="PT">On substance misuse programme</displayName>
+<displayName lang="en-GB" type="FSN">On substance misuse programme (finding)</displayName>
+</concept>
+<concept code="202961000000106">
+<displayName lang="en-GB" type="PT">Ecstasy misuse</displayName>
+<displayName lang="en-GB" type="FSN">Ecstasy misuse (finding)</displayName>
+</concept>
+<concept code="202991000000100">
+<displayName lang="en-GB" type="PT">Heroin misuse</displayName>
+<displayName lang="en-GB" type="FSN">Heroin misuse (finding)</displayName>
+</concept>
+<concept code="204641000000107">
+<displayName lang="en-GB" type="PT">Episodic nondependent crack cocaine abuse</displayName>
+<displayName lang="en-GB" type="FSN">Episodic nondependent crack cocaine abuse (disorder)</displayName>
+</concept>
+<concept code="240951000000103">
+<displayName lang="en" type="PT">Drug misuse reported by other</displayName>
+<displayName lang="en" type="FSN">Drug misuse reported by other (finding)</displayName>
+</concept>
+<concept code="240961000000100">
+<displayName lang="en" type="PT">Patient admits to drug use</displayName>
+<displayName lang="en" type="FSN">Patient admits to drug use (finding)</displayName>
+</concept>
+<concept code="248021000000105">
+<displayName lang="en" type="PT">Current non recreational drug user</displayName>
+<displayName lang="en" type="FSN">Current non recreational drug user (finding)</displayName>
+</concept>
+<concept code="248601000000106">
+<displayName lang="en" type="PT">Neck injector</displayName>
+<displayName lang="en" type="FSN">Neck injector (finding)</displayName>
+</concept>
+<concept code="276981000000107">
+<displayName lang="en" type="PT">History of opiate misuse</displayName>
+<displayName lang="en" type="FSN">History of opiate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O opiate misuse</displayName>
+</concept>
+<concept code="276991000000109">
+<displayName lang="en" type="PT">History of anti-depressant misuse</displayName>
+<displayName lang="en" type="FSN">History of anti-depressant misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O anti-depressant misuse</displayName>
+</concept>
+<concept code="277001000000103">
+<displayName lang="en" type="PT">History of major tranquilliser misuse</displayName>
+<displayName lang="en" type="FSN">History of major tranquilliser misuse (situation)</displayName>
+</concept>
+<concept code="277011000000101">
+<displayName lang="en" type="PT">History of barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">History of barbiturate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O barbiturate misuse</displayName>
+</concept>
+<concept code="277021000000107">
+<displayName lang="en" type="PT">History of solvent misuse</displayName>
+<displayName lang="en" type="FSN">History of solvent misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O solvent misuse</displayName>
+</concept>
+<concept code="277031000000109">
+<displayName lang="en" type="PT">History of cannabis misuse</displayName>
+<displayName lang="en" type="FSN">History of cannabis misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O cannabis misuse</displayName>
+</concept>
+<concept code="277041000000100">
+<displayName lang="en" type="PT">History of hallucinogen misuse</displayName>
+<displayName lang="en" type="FSN">History of hallucinogen misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O hallucinogen misuse</displayName>
+</concept>
+<concept code="277051000000102">
+<displayName lang="en" type="PT">History of crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of crack cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O crack cocaine misuse</displayName>
+</concept>
+<concept code="277061000000104">
+<displayName lang="en" type="PT">History of cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O cocaine misuse</displayName>
+</concept>
+<concept code="277071000000106">
+<displayName lang="en" type="PT">History of amphetamine misuse</displayName>
+<displayName lang="en" type="FSN">History of amphetamine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O amphetamine misuse</displayName>
+<displayName lang="en" type="SY">History of amfetamine misuse</displayName>
+</concept>
+<concept code="277081000000108">
+<displayName lang="en" type="PT">History of benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">History of benzodiazepine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O benzodiazepine misuse</displayName>
+</concept>
+<concept code="277091000000105">
+<displayName lang="en" type="PT">History of methadone misuse</displayName>
+<displayName lang="en" type="FSN">History of methadone misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O methadone misuse</displayName>
+</concept>
+<concept code="277101000000102">
+<displayName lang="en" type="PT">History of daily benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">History of daily benzodiazepine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily benzodiazepine misuse</displayName>
+</concept>
+<concept code="277131000000108">
+<displayName lang="en" type="PT">History of weekly benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly benzodiazepine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly benzodiazepine misuse</displayName>
+</concept>
+<concept code="277161000000103">
+<displayName lang="en" type="PT">History of infrequent benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent benzodiazepine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent benzodiazepine misuse</displayName>
+</concept>
+<concept code="277191000000109">
+<displayName lang="en" type="PT">Previous history of benzodiazepine misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of benzodiazepine misuse (situation)</displayName>
+</concept>
+<concept code="277221000000102">
+<displayName lang="en" type="PT">History of daily heroin misuse</displayName>
+<displayName lang="en" type="FSN">History of daily heroin misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily heroin misuse</displayName>
+</concept>
+<concept code="277251000000107">
+<displayName lang="en" type="PT">History of weekly heroin misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly heroin misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly heroin misuse</displayName>
+</concept>
+<concept code="277281000000101">
+<displayName lang="en" type="PT">Previous history of heroin misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of heroin misuse (situation)</displayName>
+</concept>
+<concept code="277311000000103">
+<displayName lang="en" type="PT">History of infrequent heroin misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent heroin misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent heroin misuse</displayName>
+</concept>
+<concept code="277341000000102">
+<displayName lang="en" type="PT">History of daily methadone misuse</displayName>
+<displayName lang="en" type="FSN">History of daily methadone misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily methadone misuse</displayName>
+</concept>
+<concept code="277371000000108">
+<displayName lang="en" type="PT">History of weekly methadone misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly methadone misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly methadone misuse</displayName>
+</concept>
+<concept code="277401000000105">
+<displayName lang="en" type="PT">History of infrequent methadone misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent methadone misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent methadone misuse</displayName>
+</concept>
+<concept code="277431000000104">
+<displayName lang="en" type="PT">Previous history of methadone misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of methadone misuse (situation)</displayName>
+</concept>
+<concept code="277461000000109">
+<displayName lang="en" type="PT">History of daily ecstasy misuse</displayName>
+<displayName lang="en" type="FSN">History of daily ecstasy misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily ecstasy misuse</displayName>
+</concept>
+<concept code="277491000000103">
+<displayName lang="en" type="PT">History of weekly ecstasy misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly ecstasy misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly ecstasy misuse</displayName>
+</concept>
+<concept code="277521000000100">
+<displayName lang="en" type="PT">History of infrequent ecstasy misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent ecstasy misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent ecstasy misuse</displayName>
+</concept>
+<concept code="277551000000105">
+<displayName lang="en" type="PT">Previous history of ecstasy misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of ecstasy misuse (situation)</displayName>
+</concept>
+<concept code="277581000000104">
+<displayName lang="en-GB" type="PT">History of daily amphetamine misuse</displayName>
+<displayName lang="en-GB" type="FSN">History of daily amphetamine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily amphetamine misuse</displayName>
+<displayName lang="en" type="SY">History of daily amfetamine misuse</displayName>
+</concept>
+<concept code="277611000000105">
+<displayName lang="en-GB" type="PT">History of weekly amphetamine misuse</displayName>
+<displayName lang="en-GB" type="FSN">History of weekly amphetamine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly amphetamine misuse</displayName>
+<displayName lang="en" type="SY">History of weekly amfetamine misuse</displayName>
+</concept>
+<concept code="277641000000106">
+<displayName lang="en-GB" type="PT">History of infrequent amphetamine misuse</displayName>
+<displayName lang="en-GB" type="FSN">History of infrequent amphetamine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent amphetamine misuse</displayName>
+<displayName lang="en" type="SY">History of infrequent amfetamine misuse</displayName>
+</concept>
+<concept code="277671000000100">
+<displayName lang="en-GB" type="PT">Previous history of amphetamine misuse</displayName>
+<displayName lang="en-GB" type="FSN">Previous history of amphetamine misuse (situation)</displayName>
+</concept>
+<concept code="277701000000101">
+<displayName lang="en-GB" type="PT">History of daily major tranquilliser misuse</displayName>
+<displayName lang="en-GB" type="FSN">History of daily major tranquilliser misuse (situation)</displayName>
+</concept>
+<concept code="277731000000107">
+<displayName lang="en" type="PT">History of weekly major tranquilliser misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly major tranquilliser misuse (situation)</displayName>
+</concept>
+<concept code="277761000000102">
+<displayName lang="en" type="PT">History of infrequent major tranquilliser misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent major tranquilliser misuse (situation)</displayName>
+</concept>
+<concept code="277791000000108">
+<displayName lang="en" type="PT">Previous history of major tranquilliser misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of major tranquilliser misuse (situation)</displayName>
+</concept>
+<concept code="277821000000103">
+<displayName lang="en" type="PT">History of daily anti-depressant misuse</displayName>
+<displayName lang="en" type="FSN">History of daily anti-depressant misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily anti-depressant misuse</displayName>
+</concept>
+<concept code="277851000000108">
+<displayName lang="en" type="PT">History of weekly anti-depressant misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly anti-depressant misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly anti-depressant misuse</displayName>
+</concept>
+<concept code="277881000000102">
+<displayName lang="en" type="PT">History of infrequent anti-depressant misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent anti-depressant misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent anti-depressant misuse</displayName>
+</concept>
+<concept code="277911000000102">
+<displayName lang="en" type="PT">Previous history of anti-depressant misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of anti-depressant misuse (situation)</displayName>
+</concept>
+<concept code="277941000000101">
+<displayName lang="en" type="PT">History of daily opiate misuse</displayName>
+<displayName lang="en" type="FSN">History of daily opiate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily opiate misuse</displayName>
+</concept>
+<concept code="277971000000107">
+<displayName lang="en" type="PT">History of weekly opiate misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly opiate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly opiate misuse</displayName>
+</concept>
+<concept code="278001000000102">
+<displayName lang="en" type="PT">History of infrequent opiate misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent opiate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent opiate misuse</displayName>
+</concept>
+<concept code="278031000000108">
+<displayName lang="en" type="PT">Previous history of opiate misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of opiate misuse (situation)</displayName>
+</concept>
+<concept code="278061000000103">
+<displayName lang="en" type="PT">History of daily cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of daily cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily cocaine misuse</displayName>
+</concept>
+<concept code="278091000000109">
+<displayName lang="en" type="PT">History of weekly cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly cocaine misuse</displayName>
+</concept>
+<concept code="278121000000105">
+<displayName lang="en" type="PT">History of infrequent cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent cocaine misuse</displayName>
+</concept>
+<concept code="278151000000100">
+<displayName lang="en" type="PT">Previous history of cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of cocaine misuse (situation)</displayName>
+</concept>
+<concept code="278181000000106">
+<displayName lang="en" type="PT">History of daily crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of daily crack cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily crack cocaine misuse</displayName>
+</concept>
+<concept code="278211000000107">
+<displayName lang="en" type="PT">History of weekly crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly crack cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly crack cocaine misuse</displayName>
+</concept>
+<concept code="278241000000108">
+<displayName lang="en" type="PT">History of infrequent crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent crack cocaine misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent crack cocaine misuse</displayName>
+</concept>
+<concept code="278271000000102">
+<displayName lang="en" type="PT">Previous history of crack cocaine misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of crack cocaine misuse (situation)</displayName>
+</concept>
+<concept code="278301000000104">
+<displayName lang="en" type="PT">History of daily hallucinogen misuse</displayName>
+<displayName lang="en" type="FSN">History of daily hallucinogen misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily hallucinogen misuse</displayName>
+</concept>
+<concept code="278331000000105">
+<displayName lang="en" type="PT">History of weekly hallucinogen misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly hallucinogen misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly hallucinogen misuse</displayName>
+</concept>
+<concept code="278361000000100">
+<displayName lang="en" type="PT">History of infrequent hallucinogen misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent hallucinogen misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent hallucinogen misuse</displayName>
+</concept>
+<concept code="278391000000106">
+<displayName lang="en" type="PT">Previous history of hallucinogen misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of hallucinogen misuse (situation)</displayName>
+</concept>
+<concept code="278421000000100">
+<displayName lang="en" type="PT">History of daily barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">History of daily barbiturate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily barbiturate misuse</displayName>
+</concept>
+<concept code="278451000000105">
+<displayName lang="en" type="PT">History of weekly barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly barbiturate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly barbiturate misuse</displayName>
+</concept>
+<concept code="278481000000104">
+<displayName lang="en" type="PT">History of infrequent barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent barbiturate misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent barbiturate misuse</displayName>
+</concept>
+<concept code="278511000000105">
+<displayName lang="en" type="PT">Previous history of barbiturate misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of barbiturate misuse (situation)</displayName>
+</concept>
+<concept code="278541000000106">
+<displayName lang="en" type="PT">History of daily cannabis misuse</displayName>
+<displayName lang="en" type="FSN">History of daily cannabis misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily cannabis misuse</displayName>
+</concept>
+<concept code="278571000000100">
+<displayName lang="en" type="PT">History of weekly cannabis misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly cannabis misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly cannabis misuse</displayName>
+</concept>
+<concept code="278601000000107">
+<displayName lang="en" type="PT">History of infrequent cannabis misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent cannabis misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent cannabis misuse</displayName>
+</concept>
+<concept code="278631000000101">
+<displayName lang="en" type="PT">Previous history of cannabis misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of cannabis misuse (situation)</displayName>
+</concept>
+<concept code="278661000000106">
+<displayName lang="en" type="PT">History of daily solvent misuse</displayName>
+<displayName lang="en" type="FSN">History of daily solvent misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O daily solvent misuse</displayName>
+</concept>
+<concept code="278691000000100">
+<displayName lang="en" type="PT">History of weekly solvent misuse</displayName>
+<displayName lang="en" type="FSN">History of weekly solvent misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O weekly solvent misuse</displayName>
+</concept>
+<concept code="278721000000109">
+<displayName lang="en" type="PT">History of infrequent solvent misuse</displayName>
+<displayName lang="en" type="FSN">History of infrequent solvent misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O infrequent solvent misuse</displayName>
+</concept>
+<concept code="278751000000104">
+<displayName lang="en" type="PT">Previous history of solvent misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of solvent misuse (situation)</displayName>
+</concept>
+<concept code="279441000000100">
+<displayName lang="en" type="PT">History of heroin misuse</displayName>
+<displayName lang="en" type="FSN">History of heroin misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O heroin misuse</displayName>
+</concept>
+<concept code="279451000000102">
+<displayName lang="en" type="PT">History of ecstasy misuse</displayName>
+<displayName lang="en" type="FSN">History of ecstasy misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O ecstasy misuse</displayName>
+</concept>
+<concept code="279461000000104">
+<displayName lang="en-GB" type="PT">Using heroin on top of substitution therapy</displayName>
+<displayName lang="en-GB" type="FSN">Using heroin on top of substitution therapy (finding)</displayName>
+<displayName lang="en" type="SY">Uses heroin on top of substitution therapy</displayName>
+</concept>
+<concept code="279491000000105">
+<displayName lang="en-GB" type="PT">Not using heroin on top of substitution therapy</displayName>
+<displayName lang="en-GB" type="FSN">Not using heroin on top of substitution therapy (finding)</displayName>
+<displayName lang="en" type="SY">Does not use heroin on top of substitution therapy</displayName>
+</concept>
+<concept code="285861000000109">
+<displayName lang="en" type="PT">Previous history of substance misuse</displayName>
+<displayName lang="en" type="FSN">Previous history of substance misuse (situation)</displayName>
+</concept>
+<concept code="287351000000105">
+<displayName lang="en" type="PT">Family history of substance misuse</displayName>
+<displayName lang="en" type="FSN">Family history of substance misuse (situation)</displayName>
+</concept>
+<concept code="288281000119100">
+<displayName lang="en" type="PT">Abuse of herbal medicine or folk remedy</displayName>
+<displayName lang="en" type="FSN">Abuse of herbal medicine or folk remedy (disorder)</displayName>
+</concept>
+<concept code="293161000000103">
+<displayName lang="en" type="PT">Family history of alcohol misuse</displayName>
+<displayName lang="en" type="FSN">Family history of alcohol misuse (situation)</displayName>
+</concept>
+<concept code="299881000000104">
+<displayName lang="en" type="PT">Substance misuse treatment declined</displayName>
+<displayName lang="en" type="FSN">Substance misuse treatment declined (situation)</displayName>
+</concept>
+<concept code="299911000000104">
+<displayName lang="en" type="PT">Substance misuse treatment not available</displayName>
+<displayName lang="en" type="FSN">Substance misuse treatment not available (finding)</displayName>
+</concept>
+<concept code="300471000000101">
+<displayName lang="en" type="PT">Abstinent from substance misuse</displayName>
+<displayName lang="en" type="FSN">Abstinent from substance misuse (finding)</displayName>
+</concept>
+<concept code="362451000000107">
+<displayName lang="en" type="PT">Drug misuse assessment declined</displayName>
+<displayName lang="en" type="FSN">Drug misuse assessment declined (situation)</displayName>
+</concept>
+<concept code="383871000000108">
+<displayName lang="en" type="PT">Health problem secondary to drug misuse</displayName>
+<displayName lang="en" type="FSN">Health problem secondary to drug misuse (finding)</displayName>
+</concept>
+<concept code="383901000000108">
+<displayName lang="en" type="PT">Uses drug paraphernalia</displayName>
+<displayName lang="en" type="FSN">Uses drug paraphernalia (finding)</displayName>
+</concept>
+<concept code="494041000000102">
+<displayName lang="en" type="PT">Seen in substance misuse clinic</displayName>
+<displayName lang="en" type="FSN">Seen in substance misuse clinic (finding)</displayName>
+</concept>
+<concept code="494751000000102">
+<displayName lang="en" type="PT">No history of substance misuse</displayName>
+<displayName lang="en" type="FSN">No history of substance misuse (situation)</displayName>
+</concept>
+<concept code="505091000000102">
+<displayName lang="en" type="PT">Declined consent for notification of drug misuse</displayName>
+<displayName lang="en" type="FSN">Declined consent for notification of drug misuse (finding)</displayName>
+</concept>
+<concept code="762901000000104">
+<displayName lang="en" type="PT">History of buprenorphine misuse</displayName>
+<displayName lang="en" type="FSN">History of buprenorphine misuse (situation)</displayName>
+</concept>
+<concept code="764651000000101">
+<displayName lang="en" type="PT">Nondependent antidepressant type drug abuse</displayName>
+<displayName lang="en" type="FSN">Nondependent antidepressant type drug abuse (disorder)</displayName>
+</concept>
+<concept code="777101000000108">
+<displayName lang="en" type="PT">Substance misuse assessment declined</displayName>
+<displayName lang="en" type="FSN">Substance misuse assessment declined (situation)</displayName>
+</concept>
+<concept code="783241000000102">
+<displayName lang="en" type="PT">Declined to give substance misuse history</displayName>
+<displayName lang="en" type="FSN">Declined to give substance misuse history (finding)</displayName>
+</concept>
+<concept code="802411000000109">
+<displayName lang="en" type="PT">Analgesic misuse</displayName>
+<displayName lang="en" type="FSN">Analgesic misuse (disorder)</displayName>
+<displayName lang="en" type="SY">Analgesic abuse</displayName>
+</concept>
+<concept code="824001000000103">
+<displayName lang="en" type="PT">Misuses anabolic steroids</displayName>
+<displayName lang="en" type="FSN">Misuses anabolic steroids (finding)</displayName>
+</concept>
+<concept code="824011000000101">
+<displayName lang="en" type="PT">History of anabolic steroid misuse</displayName>
+<displayName lang="en" type="FSN">History of anabolic steroid misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O anabolic steroid misuse</displayName>
+</concept>
+<concept code="835391000000106">
+<displayName lang="en" type="PT">At risk of drug misuse</displayName>
+<displayName lang="en" type="FSN">At risk of drug misuse (finding)</displayName>
+</concept>
+<concept code="854931000000109">
+<displayName lang="en" type="PT">Does not engage in substance misuse</displayName>
+<displayName lang="en" type="FSN">Does not engage in substance misuse (situation)</displayName>
+</concept>
+<concept code="895641000000103">
+<displayName lang="en" type="PT">Substance misuse treatment programme delivered by other healthcare provider</displayName>
+<displayName lang="en" type="FSN">Substance misuse treatment programme delivered by other healthcare provider (finding)</displayName>
+</concept>
+<concept code="919561000000107">
+<displayName lang="en" type="PT">Opioid tolerant</displayName>
+<displayName lang="en" type="FSN">Opioid tolerant (finding)</displayName>
+</concept>
+<concept code="919581000000103">
+<displayName lang="en" type="PT">Opioid naive</displayName>
+<displayName lang="en" type="FSN">Opioid naive (finding)</displayName>
+</concept>
+<concept code="924501000000100">
+<displayName lang="en" type="PT">Novel psychoactive substance misuse</displayName>
+<displayName lang="en" type="FSN">Novel psychoactive substance misuse (disorder)</displayName>
+</concept>
+<concept code="943051000000108">
+<displayName lang="en" type="PT">History of novel psychoactive substance misuse</displayName>
+<displayName lang="en" type="FSN">History of novel psychoactive substance misuse (situation)</displayName>
+<displayName lang="en" type="SY">H/O novel psychoactive substance misuse</displayName>
+</concept>
+</vocabulary>

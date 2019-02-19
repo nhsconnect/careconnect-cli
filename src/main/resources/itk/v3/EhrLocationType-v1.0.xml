@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrLocationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.6.7">
+   <Description>
+            <p>Codes derived from NHS Data Dictionary.</p>
+            <p>Default OID:</p>
+            <p>The default OID for the Data Dictionary code values below is: 2.16.840.1.113883.2.1.6.7</p>
+         </Description>
+   <concept code="001">
+      <displayName>Client's or Patient's Home</displayName>
+   </concept>
+   <concept code="002">
+      <displayName>Health Centre</displayName>
+   </concept>
+   <concept code="003">
+      <displayName>Other GMP Premises</displayName>
+   </concept>
+   <concept code="004">
+      <displayName>Ward on NHS Hospital Site</displayName>
+   </concept>
+   <concept code="006">
+      <displayName>Hospice</displayName>
+   </concept>
+   <concept code="007">
+      <displayName>Other voluntary or private hospital or nursing home</displayName>
+   </concept>
+   <concept code="008">
+      <displayName>Group Home managed by the NHS</displayName>
+   </concept>
+   <concept code="009">
+      <displayName>Group home managed by local authority</displayName>
+   </concept>
+   <concept code="010">
+      <displayName>Group Home managed by voluntary or private agents</displayName>
+   </concept>
+   <concept code="011">
+      <displayName>Other residential care homes managed by local authority</displayName>
+   </concept>
+   <concept code="012">
+      <displayName>Other residential care home man voluntary/private agents</displayName>
+   </concept>
+   <concept code="013">
+      <displayName>NHS day care facility on NHS hospital site</displayName>
+   </concept>
+   <concept code="014">
+      <displayName>NHS day care facility on other site</displayName>
+   </concept>
+   <concept code="015">
+      <displayName>Day centre managed by local authority</displayName>
+   </concept>
+   <concept code="016">
+      <displayName>Day centre managed by voluntary or private agents</displayName>
+   </concept>
+   <concept code="017">
+      <displayName>NHS consultant clinic premises on a NHS hospital site</displayName>
+   </concept>
+   <concept code="018">
+      <displayName>NHS consultant clinic premises off a NHS hospital site</displayName>
+   </concept>
+   <concept code="019">
+      <displayName>Health clinic managed by the NHS</displayName>
+   </concept>
+   <concept code="020">
+      <displayName>Health Clinic managed by voluntary or private agents</displayName>
+   </concept>
+   <concept code="021">
+      <displayName>Resource centre on NHS hospital site</displayName>
+   </concept>
+   <concept code="022">
+      <displayName>Resource centre managed by the NHS off NHS hospital site</displayName>
+   </concept>
+   <concept code="023">
+      <displayName>Resource centre managed by local authority</displayName>
+   </concept>
+   <concept code="024">
+      <displayName>Resource centre managed by voluntary or private agents</displayName>
+   </concept>
+   <concept code="025">
+      <displayName>Professional staff group department on NHS hospital site</displayName>
+   </concept>
+   <concept code="026">
+      <displayName>Professional staff group dept manage NHS off hosp site</displayName>
+   </concept>
+   <concept code="510">
+      <displayName>Antenatal Clinic</displayName>
+   </concept>
+   <concept code="520">
+      <displayName>Postnatal Clinic</displayName>
+   </concept>
+   <concept code="990">
+      <displayName>Joint Consultant Clinics</displayName>
+   </concept>
+</vocabulary>

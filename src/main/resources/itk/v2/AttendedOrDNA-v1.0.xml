@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AttendedOrDNA" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.7">
+   <Description>Attended or DNA: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="2">
+      <displayName>Appointment cancelled by patient</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Did not attend - no advance warning given</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Appointment cancelled or postponed by the Health Care Provider</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Patient arrived on time or, if late, before the relevant health care professional was ready to see them</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Patient arrived late, after the relevant health care professional was first ready to see them, but was seen</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Patient arrived late and could not be seen</displayName>
+   </concept>
+</vocabulary>

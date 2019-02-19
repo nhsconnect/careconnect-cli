@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LateralitySnCT" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of SNOMED CT intended for use in the UK, a set of concepts, which represent laterality.<br/>
+                  <strong>
+                     <br/>Any code from the SNOMED CT UK LateralitySnCT subset with subset original id 45351000000135.</strong>
+                  <br/>
+                  <br/>The use of this subset is <strong>Advisory</strong>.<br/>
+                  <br/>For further information on the use of SNOMED CT subsets in messaging please refer to the &amp;ldquo;Technical Guidance for Implementation of Templated CDA Domains&amp;rdquo; document located under the Associated Specifications tab. <br/>
+                  <p> </p>
+               </p>
+            </p>
+         </Description>
+   <concept code="7771000">
+      <displayName>Left</displayName>
+   </concept>
+   <concept code="24028007">
+      <displayName>Right</displayName>
+   </concept>
+</vocabulary>

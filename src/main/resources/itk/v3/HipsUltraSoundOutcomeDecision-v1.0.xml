@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="HipsUltraSoundOutcomeDecision" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.467">
+   <Description>
+            <p>A set of codes to indicate the hips ultra sound outcome decision.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Refer for expert opinion</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Arrange for follow up 4 weeks later within 8 weeks</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Arrange for follow up 4 weeks later within 12 weeks</displayName>
+   </concept>
+   <concept code="04">
+      <displayName>Discharged</displayName>
+   </concept>
+</vocabulary>

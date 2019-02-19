@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DetectedIssueQualifier" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.104">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.104</p>
+            <p>Qualifiers classifying the severity of the issue or error carried in the Detected Issue Event present in the Trigger Event Control Act and the Query Acknowledgement Response.</p>
+            <p>This qualifier code system is combined with other code systems as specified by the <b>QualificationofDetectedIssue</b> code system.</p>
+         </Description>
+   <concept code="ER">
+      <displayName>Error</displayName>
+   </concept>
+   <concept code="WG">
+      <displayName>Warning</displayName>
+   </concept>
+   <concept code="IF">
+      <displayName>For Information</displayName>
+   </concept>
+</vocabulary>

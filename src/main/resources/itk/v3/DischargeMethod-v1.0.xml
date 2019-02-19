@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DischargeMethod" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.41">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary <i>Discharge Method</i>
+            </p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.41</p>
+            <p>A code representing the method used to discharge a patient from care, typically an acute inpatient episode.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Patient discharged on clinical advice or with clinical consent</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient discharged him/herself or was discharged by a relative or advocate</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Patient discharged by mental health review tribunal, Home Secretary or court</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient died</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Stillbirth</displayName>
+   </concept>
+</vocabulary>

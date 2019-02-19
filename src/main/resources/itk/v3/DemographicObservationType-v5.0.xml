@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DemographicObservationType" version="5.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.35">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary <i>Demographic Observation Type</i>
+            </p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.35</p>
+            <p>To indicate the type of observed information.</p>
+         </Description>
+   <concept code="1">
+      <displayName>Request response</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Serial Change Number</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Death notification</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Consent to NHS Care Record sharing</displayName>
+   </concept>
+   <concept code="6">
+      <displayName>Call centre call-back consent</displayName>
+   </concept>
+   <concept code="7">
+      <displayName>Consent supplementary comments</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Healthspace registration</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Preferred contact method</displayName>
+   </concept>
+   <concept code="10">
+      <displayName>Preferred contact times</displayName>
+   </concept>
+   <concept code="12">
+      <displayName>Matching level</displayName>
+   </concept>
+   <concept code="13">
+      <displayName>Preferred written communication format</displayName>
+   </concept>
+   <concept code="14">
+      <displayName>NHAIS registration</displayName>
+   </concept>
+   <concept code="15">
+      <displayName>Shared secret</displayName>
+   </concept>
+   <concept code="17">
+      <displayName>Previous NHS contact</displayName>
+   </concept>
+   <concept code="18">
+      <displayName>UK residence</displayName>
+   </concept>
+   <concept code="19">
+      <displayName>Paper record transfer status</displayName>
+   </concept>
+</vocabulary>

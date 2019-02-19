@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CHCEligOptionsSnCT" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.15">
+   <Description>
+            <p>
+               <p>A subset of SNOMED-CT intended for use in the UK, a set of codes which represent the continuing healthcare eligibility options.  </p>
+               <p/>
+               <p>
+                  <strong>Any code from the SNOMED CT UK CHCEligOptions subset with subset original id 29961000000137.</strong>
+               </p>
+            </p>
+         </Description>
+</vocabulary>

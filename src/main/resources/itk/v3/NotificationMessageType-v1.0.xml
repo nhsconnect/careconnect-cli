@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NotificationMessageType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.436">
+   <Description>
+            <p>A set of codes to describe the notification message type.</p>
+         </Description>
+   <concept code="01">
+      <displayName>Event Notification</displayName>
+   </concept>
+</vocabulary>

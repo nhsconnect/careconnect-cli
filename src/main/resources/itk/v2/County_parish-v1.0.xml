@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="County/parish" version="1.0" status="created"
+            id="2.16.840.1.113883.12.289">
+   <Description>This table contain codes that represents the county in which the specified address resides 
+					Table type: User</Description>
+</vocabulary>

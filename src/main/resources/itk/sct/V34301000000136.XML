@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="NHS CHC (continuing healthcare) encounter" type="Realm Concept" setId="68991000000130" version="10" id="34301000000136" refId="999000981000000106" memberCount="1" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="772081000000100">
+<displayName lang="en" type="PT">NHS continuing healthcare process encounter type</displayName>
+<displayName lang="en" type="FSN">National Health Service continuing healthcare process encounter type (record artifact)</displayName>
+</concept>
+</vocabulary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Newborn and infant physical examination procedures" type="Realm Concept" setId="63671000000130" version="1" id="63671000000130" refId="991201000000108" memberCount="4" status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<concept code="985531000000102">
+<displayName lang="en" type="PT">Newborn and Infant Physical Examination Screening Programme, hip examination</displayName>
+<displayName lang="en" type="FSN">Newborn and Infant Physical Examination Screening Programme, hip examination (procedure)</displayName>
+</concept>
+<concept code="988351000000107">
+<displayName lang="en" type="PT">Newborn and Infant Physical Examination Screening Programme, heart examination</displayName>
+<displayName lang="en" type="FSN">Newborn and Infant Physical Examination Screening Programme, heart examination (procedure)</displayName>
+</concept>
+<concept code="988361000000105">
+<displayName lang="en" type="PT">Newborn and Infant Physical Examination Screening Programme, eye examination</displayName>
+<displayName lang="en" type="FSN">Newborn and Infant Physical Examination Screening Programme, eye examination (procedure)</displayName>
+</concept>
+<concept code="988371000000103">
+<displayName lang="en" type="PT">Newborn and Infant Physical Examination Screening Programme, testis examination</displayName>
+<displayName lang="en" type="FSN">Newborn and Infant Physical Examination Screening Programme, testis examination (procedure)</displayName>
+</concept>
+</vocabulary>

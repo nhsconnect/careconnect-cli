@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SDSObservationType" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.131">
+   <Description>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.17.131</p>
+            <p>A code indicating the type of observed information. The information is derived from SDS (Spine Directory Services)</p>
+         </Description>
+   <concept code="01">
+      <displayName>Identified workgroups only</displayName>
+   </concept>
+   <concept code="02">
+      <displayName>Already a member of the identified workgroup</displayName>
+   </concept>
+   <concept code="03">
+      <displayName>Was not a member of the identified workgroup</displayName>
+   </concept>
+</vocabulary>

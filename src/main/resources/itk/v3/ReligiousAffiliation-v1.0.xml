@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReligiousAffiliation" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.21">
+   <Description>
+            <p>Default Scheme: NHS Data Dictionary ReligiousAffiliation</p>
+            <p>Assigned OID: 2.16.840.1.113883.2.1.3.2.4.16.21</p>
+            <p>Based on HL7 v3 Religious Affiliation with two additions.</p>
+            <p>A religion of which a person regards him or her self as an adherent, for example Anglican, Jehovah's Witness, Sunni Moslem, Bahai.</p>
+         </Description>
+   <concept code="1001">
+      <displayName>Adventist</displayName>
+   </concept>
+   <concept code="1002">
+      <displayName>African Religions</displayName>
+   </concept>
+   <concept code="1003">
+      <displayName>Afro-Caribbean Religions</displayName>
+   </concept>
+   <concept code="1004">
+      <displayName>Agnosticism</displayName>
+   </concept>
+   <concept code="1005">
+      <displayName>Anglican</displayName>
+   </concept>
+   <concept code="1006">
+      <displayName>Animism</displayName>
+   </concept>
+   <concept code="1007">
+      <displayName>Atheism</displayName>
+   </concept>
+   <concept code="1008">
+      <displayName>Babi &amp; Baha'I faiths</displayName>
+   </concept>
+   <concept code="1009">
+      <displayName>Baptist</displayName>
+   </concept>
+   <concept code="1010">
+      <displayName>Bon</displayName>
+   </concept>
+   <concept code="1011">
+      <displayName>Cao Dai</displayName>
+   </concept>
+   <concept code="1012">
+      <displayName>Celticism</displayName>
+   </concept>
+   <concept code="1013">
+      <displayName>Christian (non-Catholic, non-specific)</displayName>
+   </concept>
+   <concept code="1014">
+      <displayName>Confucianism</displayName>
+   </concept>
+   <concept code="1015">
+      <displayName>Cyberculture Religions</displayName>
+   </concept>
+   <concept code="1016">
+      <displayName>Divination</displayName>
+   </concept>
+   <concept code="1017">
+      <displayName>Fourth Way</displayName>
+   </concept>
+   <concept code="1018">
+      <displayName>Free Daism</displayName>
+   </concept>
+   <concept code="1019">
+      <displayName>Gnosis</displayName>
+   </concept>
+   <concept code="1020">
+      <displayName>Hinduism</displayName>
+   </concept>
+   <concept code="1021">
+      <displayName>Humanism</displayName>
+   </concept>
+   <concept code="1022">
+      <displayName>Independent</displayName>
+   </concept>
+   <concept code="1023">
+      <displayName>Islam</displayName>
+   </concept>
+   <concept code="1024">
+      <displayName>Jainism</displayName>
+   </concept>
+   <concept code="1025">
+      <displayName>Jehovah's Witnesses</displayName>
+   </concept>
+   <concept code="1026">
+      <displayName>Judaism</displayName>
+   </concept>
+   <concept code="1027">
+      <displayName>Latter Day Saints</displayName>
+   </concept>
+   <concept code="1028">
+      <displayName>Lutheran</displayName>
+   </concept>
+   <concept code="1029">
+      <displayName>Mahayana</displayName>
+   </concept>
+   <concept code="1030">
+      <displayName>Meditation</displayName>
+   </concept>
+   <concept code="1031">
+      <displayName>Messianic Judaism</displayName>
+   </concept>
+   <concept code="1032">
+      <displayName>Mitraism</displayName>
+   </concept>
+   <concept code="1033">
+      <displayName>New Age</displayName>
+   </concept>
+   <concept code="1034">
+      <displayName>non-Roman Catholic</displayName>
+   </concept>
+   <concept code="1035">
+      <displayName>Occult</displayName>
+   </concept>
+   <concept code="1036">
+      <displayName>Orthodox</displayName>
+   </concept>
+   <concept code="1037">
+      <displayName>Paganism</displayName>
+   </concept>
+   <concept code="1038">
+      <displayName>Pentecostal</displayName>
+   </concept>
+   <concept code="1039">
+      <displayName>Process, The</displayName>
+   </concept>
+   <concept code="1040">
+      <displayName>Reformed/Presbyterian</displayName>
+   </concept>
+   <concept code="1041">
+      <displayName>Roman Catholic Church</displayName>
+   </concept>
+   <concept code="1042">
+      <displayName>Satanism</displayName>
+   </concept>
+   <concept code="1043">
+      <displayName>Scientology</displayName>
+   </concept>
+   <concept code="1044">
+      <displayName>Shamanism</displayName>
+   </concept>
+   <concept code="1045">
+      <displayName>Shiite (Islam)</displayName>
+   </concept>
+   <concept code="1046">
+      <displayName>Shinto</displayName>
+   </concept>
+   <concept code="1047">
+      <displayName>Sikism</displayName>
+   </concept>
+   <concept code="1048">
+      <displayName>Spiritualism</displayName>
+   </concept>
+   <concept code="1049">
+      <displayName>Sunni (Islam)</displayName>
+   </concept>
+   <concept code="1050">
+      <displayName>Taoism</displayName>
+   </concept>
+   <concept code="1051">
+      <displayName>Theravada</displayName>
+   </concept>
+   <concept code="1052">
+      <displayName>Unitarian-Universalism</displayName>
+   </concept>
+   <concept code="1053">
+      <displayName>Universal Life Church</displayName>
+   </concept>
+   <concept code="1054">
+      <displayName>Vajrayana (Tibetan)</displayName>
+   </concept>
+   <concept code="1055">
+      <displayName>Veda</displayName>
+   </concept>
+   <concept code="1056">
+      <displayName>Voodoo</displayName>
+   </concept>
+   <concept code="1057">
+      <displayName>Wicca</displayName>
+   </concept>
+   <concept code="1058">
+      <displayName>Yaohushua</displayName>
+   </concept>
+   <concept code="1059">
+      <displayName>Zen Buddhism</displayName>
+   </concept>
+   <concept code="1060">
+      <displayName>Zoroastrianism</displayName>
+   </concept>
+   <concept code="1061">
+      <displayName>Methodism</displayName>
+   </concept>
+   <concept code="1062">
+      <displayName>Plymouth Brethren</displayName>
+   </concept>
+</vocabulary>

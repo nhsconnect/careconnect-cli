@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EoLCDAObservationType" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.435">
+   <Description>
+            <span>A set of codes to identify observation type used in the End of Life CDA domain.</span>
+         </Description>
+   <concept code="EOLCP">
+      <displayName>EOL Care Plan</displayName>
+   </concept>
+   <concept code="EOLTLU">
+      <displayName>EOL Tool Used</displayName>
+   </concept>
+   <concept code="EOLTST">
+      <displayName>EOL Current Stage</displayName>
+   </concept>
+   <concept code="EOLPRD">
+      <displayName>EOL Planned Review Date</displayName>
+   </concept>
+   <concept code="EOLPR">
+      <displayName>EOL Patient Relationships</displayName>
+   </concept>
+   <concept code="EOLADP">
+      <displayName>EOL Patient ADRT</displayName>
+   </concept>
+   <concept code="EOLADL">
+      <displayName>EOL Patient ADRT Docs Location</displayName>
+   </concept>
+   <concept code="EOLADS">
+      <displayName>EOL Patient ADRT Discussed</displayName>
+   </concept>
+   <concept code="EOLBLC">
+      <displayName>EOL Anticipatory Medicine Box Location</displayName>
+   </concept>
+   <concept code="EOLDCR">
+      <displayName>EOL DNACPR by Senior Responsible Clinician</displayName>
+   </concept>
+   <concept code="EOLDDL">
+      <displayName>EOL DNACPR Docs Location</displayName>
+   </concept>
+   <concept code="EOLAOP">
+      <displayName>EOL Aware of Prognosis</displayName>
+   </concept>
+   <concept code="EOLLPA">
+      <displayName>EOL Authority to LPA</displayName>
+   </concept>
+   <concept code="EOLDRD">
+      <displayName>EOL DNACPR Review Date</displayName>
+   </concept>
+   <concept code="EOLRST">
+      <displayName>EOL Resuscitation Status</displayName>
+   </concept>
+</vocabulary>

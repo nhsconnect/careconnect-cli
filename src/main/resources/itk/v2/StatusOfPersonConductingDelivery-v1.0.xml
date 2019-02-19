@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="StatusOfPersonConductingDelivery" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.44">
+   <Description>Status Of Person Conducting Delivery: (This table is used by NHS ITK specification in UK only)
+					Table type: User</Description>
+   <concept code="1">
+      <displayName>Hospital Doctor</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>GENERAL MEDICAL PRACTITIONER</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>MIDWIFE</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Other</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not known</displayName>
+   </concept>
+</vocabulary>

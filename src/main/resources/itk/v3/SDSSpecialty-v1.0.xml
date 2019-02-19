@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="SDSSpecialty" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.17.511">
+   <Description>
+            <p>The specialty as held on the Spine Directory Service, for example for a clinician or a department.<br/>
+            </p>
+         </Description>
+</vocabulary>
