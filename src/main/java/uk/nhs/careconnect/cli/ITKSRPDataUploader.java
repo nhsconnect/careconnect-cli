@@ -142,7 +142,10 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 			System.out.println(vocab.getName()+ " Version: "+vocab.getVersion());
 
-			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("Active") || vocab.getStatus().contains("created")  ) && name!=null) {
+			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("Active") || vocab.getStatus().contains("created")  )
+					&& name!=null
+					&& vocab.getConcept() != null
+					&& vocab.getConcept().size()>0) {
 
 				CodeSystem codeSystem = null;
 				// Don't process SNOMED
