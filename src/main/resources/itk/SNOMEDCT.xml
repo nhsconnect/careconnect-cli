@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabularyIndex vocabularyName="SNOMEDCTSubsets">
+    <vocabulary name="Accommodation Tenure" id="6171000000131" refId="999001361000000109" memberCount="54" version="6"/>
+    <vocabulary name="Accommodation Type" id="6161000000138" refId="999001371000000102" memberCount="34" version="6"/>
+    <vocabulary name="Activity of daily living findings" id="5981000000139" refId="999001381000000100" memberCount="1389" version="6"/>
+    <vocabulary name="Administration of medication" id="1311000000134" refId="999000231000000102" memberCount="38" version="18"/>
+    <vocabulary name="Administrative Procedure" id="1051000000130" refId="999000241000000106" memberCount="2165" version="19"/>
+    <vocabulary name="Advance decision to refuse treatment preference findings" id="47731000000135" refId="999002181000000105" memberCount="3" version="3"/>
+    <vocabulary name="Adverse Reaction Event" id="1021000000139" refId="999000251000000109" memberCount="3" version="19"/>
+    <vocabulary name="Adverse Reaction Propensity" id="1011000000131" refId="999000261000000107" memberCount="4" version="19"/>
+    <vocabulary name="Alcohol" id="911000000134" refId="999000271000000100" memberCount="1" version="19"/>
+    <vocabulary name="Allergy Event" id="1111000000132" refId="999000281000000103" memberCount="5" version="19"/>
+    <vocabulary name="Allergy Or Adverse Reaction DE SnCT" id="52741000000130" refId="999001391000000103" memberCount="8" version="6"/>
+    <vocabulary name="Allergy Or Adverse Reaction Ident SnCT" id="52751000000133" refId="999001401000000100" memberCount="7" version="6"/>
+    <vocabulary name="Allergy Propensity" id="1101000000130" refId="999000291000000101" memberCount="3" version="19"/>
+    <vocabulary name="Ambulance Request Type" id="43951000000135" refId="999000301000000102" memberCount="2" version="8"/>
+    <vocabulary name="Anticipatory medicine supply procedures" id="47741000000130" refId="999001961000000105" memberCount="5" version="3"/>
+    <vocabulary name="Assessment procedure type" id="5971000000136" refId="999001411000000103" memberCount="2169" version="6"/>
+    <vocabulary name="Awareness of prognosis findings" id="47781000000136" refId="999001971000000103" memberCount="5" version="3"/>
+    <vocabulary name="Behaviour" id="7751000000137" refId="999001421000000109" memberCount="1239" version="6"/>
+    <vocabulary name="Blood Coagulation" id="45361000000137" refId="999000311000000100" memberCount="14" version="7"/>
+    <vocabulary name="Blood Pressure" id="1291000000133" refId="999000321000000106" memberCount="4" version="18"/>
+    <vocabulary name="Breathing" id="7701000000138" refId="999001431000000106" memberCount="91" version="6"/>
+    <vocabulary name="CDA Care Setting Type" id="1271000000134" refId="999000331000000108" memberCount="486" version="18"/>
+    <vocabulary name="CDA Document Type" id="1281000000131" refId="999000341000000104" memberCount="25" version="18"/>
+    <vocabulary name="CDA Encounter Type" id="1341000000130" refId="999000351000000101" memberCount="114" version="18"/>
+    <vocabulary name="Capacity To Consent Options" id="29971000000130" refId="999000361000000103" memberCount="8" version="7"/>
+    <vocabulary name="Care Plan Agreement" id="5961000000134" refId="999001461000000101" memberCount="29" version="6"/>
+    <vocabulary name="Care Plan Type" id="6061000000139" refId="999001471000000108" memberCount="114" version="6"/>
+    <vocabulary name="Care support needs" id="29991000000134" refId="999000371000000105" memberCount="126" version="7"/>
+    <vocabulary name="Cognition" id="7761000000139" refId="999001481000000105" memberCount="607" version="6"/>
+    <vocabulary name="Communication" id="7711000000136" refId="999001491000000107" memberCount="1960" version="6"/>
+    <vocabulary name="Consciousness and Seizures" id="7721000000133" refId="999001501000000101" memberCount="600" version="6"/>
+    <vocabulary name="Correspondence Care setting type" id="43971000000130" refId="999000381000000107" memberCount="342" version="8"/>
+    <vocabulary name="Correspondence Document type" id="44041000000135" refId="999000391000000109" memberCount="141" version="8"/>
+    <vocabulary name="Device Type" id="1361000000131" refId="999000401000000107" memberCount="13873" version="18"/>
+    <vocabulary name="Diagnosis" id="1261000000136" refId="999000711000000101" memberCount="69457" version="18"/>
+    <vocabulary name="Discharge" id="1961000000132" refId="999000721000000107" memberCount="420" version="17"/>
+    <vocabulary name="Discussion about advance decision to refuse treatment findings" id="47721000000137" refId="999001941000000109" memberCount="1" version="3"/>
+    <vocabulary name="Do not attempt cardiopulmonary resuscitation preference findings" id="47711000000134" refId="999002191000000107" memberCount="2" version="3"/>
+    <vocabulary name="Document Consent" id="43961000000137" refId="999000731000000109" memberCount="8" version="8"/>
+    <vocabulary name="Document type" id="1061000000133" refId="999000741000000100" memberCount="227" version="19"/>
+    <vocabulary name="Employment Status" id="6921000000134" refId="999001511000000104" memberCount="57" version="6"/>
+    <vocabulary name="Encounter disposition" id="1971000000139" refId="999000751000000102" memberCount="434" version="17"/>
+    <vocabulary name="Encounter type" id="951000000133" refId="999000761000000104" memberCount="9" version="19"/>
+    <vocabulary name="Family History" id="1331000000135" refId="999000771000000106" memberCount="636" version="18"/>
+    <vocabulary name="Financial circumstances finding" id="6021000000133" refId="999001521000000105" memberCount="75" version="6"/>
+    <vocabulary name="Finding" id="1461000000137" refId="999000781000000108" memberCount="105885" version="18"/>
+    <vocabulary name="General Physical Wellbeing" id="7691000000138" refId="999001531000000107" memberCount="240" version="6"/>
+    <vocabulary name="Health Protection electronic notifications - system initiated" id="59011000000137" refId="999002171000000108" memberCount="733" version="3"/>
+    <vocabulary name="Health Protection electronic notifications - user initiated" id="59001000000139" refId="999002161000000101" memberCount="33" version="3"/>
+    <vocabulary name="Height" id="1371000000138" refId="999000791000000105" memberCount="1" version="18"/>
+    <vocabulary name="Housing" id="5991000000137" refId="999001541000000103" memberCount="374" version="6"/>
+    <vocabulary name="Incidental Location Type" id="1351000000133" refId="999000801000000109" memberCount="1193" version="18"/>
+    <vocabulary name="Investigations" id="1031000000137" refId="999000811000000106" memberCount="21921" version="19"/>
+    <vocabulary name="Laterality" id="45351000000135" refId="999000821000000100" memberCount="2" version="7"/>
+    <vocabulary name="Lifestyle" id="921000000137" refId="999000831000000103" memberCount="538" version="19"/>
+    <vocabulary name="Link Assertion MIM" id="1091000000136" refId="999001001000000107" memberCount="5" version="19"/>
+    <vocabulary name="Mobility" id="6001000000138" refId="999001551000000100" memberCount="461" version="6"/>
+    <vocabulary name="Mood" id="7741000000135" refId="999001561000000102" memberCount="509" version="6"/>
+    <vocabulary name="NHS CHC (continuing healthcare) acceptance message type" id="52761000000131" refId="999001441000000102" memberCount="3" version="6"/>
+    <vocabulary name="NHS CHC (continuing healthcare) encounter" id="34301000000136" refId="999000981000000106" memberCount="1" version="10"/>
+    <vocabulary name="NHS CHC (continuing healthcare) rejection message type" id="52771000000138" refId="999001451000000104" memberCount="3" version="6"/>
+    <vocabulary name="NHS CHC (continuing healthcare) respond to document type" id="34311000000139" refId="999000991000000108" memberCount="3" version="10"/>
+    <vocabulary name="New Born Hearing Screening Outcome" id="52731000000135" refId="999002021000000105" memberCount="16" version="3"/>
+    <vocabulary name="Newborn and infant physical examination procedures" id="63671000000130" refId="991201000000108" memberCount="4" version="1"/>
+    <vocabulary name="Newborn blood spot screening result status" id="61081000000135" refId="966281000000109" memberCount="59" version="2"/>
+    <vocabulary name="Newborn blood spot screening result substatus" id="61091000000138" refId="966291000000106" memberCount="198" version="2"/>
+    <vocabulary name="Newborn blood spot screening test procedures" id="61111000000134" refId="966301000000105" memberCount="9" version="2"/>
+    <vocabulary name="Occupation" id="6661000000133" refId="999001571000000109" memberCount="4183" version="6"/>
+    <vocabulary name="Pain" id="7661000000130" refId="999001581000000106" memberCount="881" version="6"/>
+    <vocabulary name="Personal Preferences" id="991000000139" refId="999000841000000107" memberCount="77" version="19"/>
+    <vocabulary name="Personal welfare lasting power of attorney findings" id="47771000000138" refId="999001951000000107" memberCount="2" version="3"/>
+    <vocabulary name="Provision of Advice" id="1041000000132" refId="999000851000000105" memberCount="1587" version="19"/>
+    <vocabulary name="Reading Site" id="45391000000134" refId="999001011000000109" memberCount="3" version="7"/>
+    <vocabulary name="Religious or Other Belief System Affiliation" id="10791000000130" refId="999000531000000100" memberCount="147" version="15"/>
+    <vocabulary name="Remote Monitoring" id="45381000000132" refId="999000861000000108" memberCount="11" version="7"/>
+    <vocabulary name="Resuscitation decision finding" id="47751000000133" refId="999001981000000101" memberCount="5" version="3"/>
+    <vocabulary name="Risk to Person" id="961000000131" refId="999000871000000101" memberCount="2" version="19"/>
+    <vocabulary name="Scale Type" id="6311000000138" refId="999001591000000108" memberCount="1617" version="6"/>
+    <vocabulary name="Section 117 of Mental Health Act 1983 (England and Wales) eligibility options" id="29951000000135" refId="999001101000000108" memberCount="2" version="7"/>
+    <vocabulary name="Security Abuse Discrimination" id="6031000000130" refId="999001601000000102" memberCount="173" version="6"/>
+    <vocabulary name="Services, care professionals and carers" id="1071000000135" refId="999000881000000104" memberCount="368" version="19"/>
+    <vocabulary name="Skin and wound issues" id="7731000000130" refId="999001611000000100" memberCount="9167" version="6"/>
+    <vocabulary name="Sleep" id="7671000000137" refId="999001621000000106" memberCount="245" version="6"/>
+    <vocabulary name="Smoking" id="931000000135" refId="999000891000000102" memberCount="8" version="19"/>
+    <vocabulary name="Social and Personal Circumstances" id="941000000130" refId="999000901000000101" memberCount="990" version="19"/>
+    <vocabulary name="Specimen Material Type" id="1381000000136" refId="999000911000000104" memberCount="1675" version="18"/>
+    <vocabulary name="Standards for the clinical structure and content of patient records" id="55061000000137" refId="999001721000000100" memberCount="55" version="5"/>
+    <vocabulary name="Substance Misuse" id="52781000000136" refId="999001641000000104" memberCount="303" version="6"/>
+    <vocabulary name="Supply" id="1301000000132" refId="999001021000000103" memberCount="1" version="18"/>
+    <vocabulary name="Supply Request" id="1321000000137" refId="999001031000000101" memberCount="1" version="18"/>
+    <vocabulary name="Swallowing and Oral Health" id="7681000000135" refId="999001631000000108" memberCount="2622" version="6"/>
+    <vocabulary name="Telehealth Disposition" id="45341000000138" refId="999000921000000105" memberCount="8" version="7"/>
+    <vocabulary name="Telehealth Document Type" id="45331000000133" refId="999000931000000107" memberCount="3" version="7"/>
+    <vocabulary name="Temperature" id="901000000132" refId="999000951000000100" memberCount="7" version="19"/>
+    <vocabulary name="Treatments" id="981000000136" refId="999000961000000102" memberCount="28837" version="19"/>
+    <vocabulary name="Weight" id="971000000138" refId="999000971000000109" memberCount="2" version="19"/>
+</vocabularyIndex>

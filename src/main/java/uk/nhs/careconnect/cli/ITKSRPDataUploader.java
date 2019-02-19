@@ -13,6 +13,7 @@ import org.hl7.fhir.dstu3.model.Bundle;
 import org.hl7.fhir.instance.model.api.IIdType;
 import uk.nhs.careconnect.itksrp.Vocabulary;
 import uk.nhs.careconnect.itksrp.VocabularyToFHIRCodeSystem;
+import uk.nhs.careconnect.itksrp.VocabularyToFHIRValueSet;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
@@ -128,6 +129,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 				Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
 		Reader reader = new InputStreamReader(inputStream);
 		VocabularyToFHIRCodeSystem converter = new VocabularyToFHIRCodeSystem(ctx);
+		VocabularyToFHIRValueSet convertVs = new VocabularyToFHIRValueSet(ctx);
 
 		try {
 
@@ -139,23 +141,45 @@ public class ITKSRPDataUploader extends BaseCommand {
 			String name = vocab.getName();
 
 			System.out.println(vocab.getName()+ " Version: "+vocab.getVersion());
-			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("created") ) && name!=null) {
 
+			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("Active") || vocab.getStatus().contains("created")  ) && name!=null) {
+
+				CodeSystem codeSystem = null;
 				// Don't process SNOMED
 				if (!folder.contains("sct") && !vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15")) {
-					CodeSystem codeSystem = converter.process(vocab,folder);
-					System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(codeSystem));
+					codeSystem = converter.process(vocab,folder);
 
 					Bundle results = client.search().forResource(CodeSystem.class).where(CodeSystem.URL.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
 					if (results.getEntry().size()>0) {
-						client.update().resource(codeSystem).withId(results.getEntry().get(0).getId()).execute();
+
+						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
+						codeSystem.setId(entry.getResource().getId());
+						//System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(codeSystem));
+						client.update().resource(codeSystem).withId(entry.getResource().getId()).execute();
 					} else {
 						client.create().resource(codeSystem).execute();
 					}
 
 				}
 
+				ValueSet valueSet = convertVs.process(vocab,folder, codeSystem);
 
+				if (valueSet != null) {
+					Bundle results = client.search().forResource(ValueSet.class).where(ValueSet.URL.matches().value(valueSet.getUrl())).returnBundle(Bundle.class).execute();
+					if (results.getEntry().size()>0) {
+
+						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
+						valueSet.setId(entry.getResource().getId());
+
+						client.update().resource(valueSet).withId(entry.getResource().getId()).execute();
+					} else {
+						client.create().resource(valueSet).execute();
+					}
+				}
+
+
+			} else {
+				System.out.println("NOT Processed. Status: "+vocab.getStatus());
 			}
 		} catch (Exception ex) {
 			System.out.println(ex.getMessage());
@@ -164,35 +188,5 @@ public class ITKSRPDataUploader extends BaseCommand {
 	}
 
 
-
-
-	private void uploadValueSetsStu3(String targetServer) throws CommandFailureException {
-		IGenericClient client = newClient(ctx, targetServer);
-		ourLog.info("Uploading ValueSets to server: " + targetServer);
-
-		long start = System.currentTimeMillis();
-
-		String vsContents;
-
-
-		int count = 1;
-		/*
-		for (ValueSet next : valueSets) {
-		    System.out.println(next.getCodeSystem().getSystem());
-            client.update().resource(next).execute();
-
-			count++;
-		}
-		*/
-
-		try {
-			vsContents = IOUtils.toString(ITKSRPDataUploader.class.getResourceAsStream("/org/hl7/fhir/instance/model/valueset/" + "v3-codesystems.xml"), "UTF-8");
-		} catch (IOException e) {
-			throw new CommandFailureException(e.toString());
-		}
-
-		ourLog.info("Finished uploading ValueSets");
-
-	}
 
 }

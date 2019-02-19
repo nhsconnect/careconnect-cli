@@ -22,31 +22,10 @@ public class VocabularyToFHIRCodeSystem {
         String vocabName = vocab.getName();
         String system = "https://hl7.nhs.uk/"+prefix+"/"+vocabName;
 		
-		if (vocab.getId().contains("."))
-		{
-				if (vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15"))
-				{
-					system="http://snomed.info/sct";
-				}
-		}
-		else if (NumberUtils.isNumber(vocab.getId())) 
-		{
-			system = "http://snomed.info/sct";
-
-		}
-		else
-		{
-			// May not be robust
-			system = "http://snomed.info/sct";
-		}
-
 		String idStr = vocabName;
-
-      //  codeSystem.setId(idStr);
 
         codeSystem.setUrl(system);
 
-     //   codeSystem.getCodeSystem().setSystem(system);
         codeSystem.setName(vocab.name);
         String desc = vocab.getDescription();
         codeSystem.setDescription(desc);
@@ -79,23 +58,24 @@ public class VocabularyToFHIRCodeSystem {
 		codeSystem.setCopyright("Copyright 2019 © NHS Digital");
 
 
-        for (int f=0;f<vocab.getConcept().size();f++)
+        for (Vocabulary.Concept vocabconcept : vocab.getConcept())
 		{
 				CodeSystem.ConceptDefinitionComponent concept = new CodeSystem.ConceptDefinitionComponent();
 				
-				concept.setCode(vocab.getConcept().get(f).getCode().toString());
-				for (int g=0;g<vocab.getConcept().get(f).getDisplayName().size();g++)
+				concept.setCode(vocabconcept.getCode());
+				for (Vocabulary.Concept.DisplayName displayName :
+					 vocabconcept.getDisplayName())
 				{
-					if (vocab.getConcept().get(f).getDisplayName().get(g).getType() != null)
+					if (displayName.getType() != null)
 					{
-						if (vocab.getConcept().get(f).getDisplayName().get(g).getType().equals("PT"))
+						if (displayName.getType().equals("PT"))
 						{
-							concept.setDisplay(vocab.getConcept().get(f).getDisplayName().get(g).getValue());
+							concept.setDisplay(displayName.getValue());
 						}
 					}
 					else
 					{
-						concept.setDisplay(vocab.getConcept().get(f).getDisplayName().get(g).getValue());
+						concept.setDisplay(displayName.getValue());
 					}
 				}
 				codeSystem.addConcept(concept);
