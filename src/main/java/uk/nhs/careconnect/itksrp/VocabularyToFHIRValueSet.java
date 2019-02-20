@@ -5,6 +5,7 @@ import org.apache.commons.lang3.math.NumberUtils;
 import org.hl7.fhir.dstu3.model.CodeSystem;
 import org.hl7.fhir.dstu3.model.Enumerations;
 import org.hl7.fhir.dstu3.model.ValueSet;
+import uk.gov.hscic.schema.VocabularyIndex;
 
 
 public class VocabularyToFHIRValueSet  {
@@ -16,13 +17,24 @@ public class VocabularyToFHIRValueSet  {
 	private FhirContext ctx;
 	
 
-	public ValueSet process(Vocabulary vocab, String prefix, CodeSystem codeSystem)  {
+	public ValueSet process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, CodeSystem codeSystem)  {
 
        ValueSet valueSet = new ValueSet();
 
 
         String vocabName = vocab.getName().replace(" ","");
-		String system = "https://hl7.nhs.uk/"+prefix+"/ValueSet/"+vocabName;
+
+		if (vocab.getId() != null) {
+			//System.out.println(vocab.getId() + " size = "+vi.getVocabulary().size());
+			for(VocabularyIndex.Vocabulary vocIndex :vocabularyIndex.getVocabulary()) {
+				if (vocab.getId().equals(vocIndex.getId())) {
+					//System.out.println("Correct name = " + vocIndex.getName());
+					vocabName = vocIndex.getName().replace("/","-");
+				}
+			}
+		}
+
+        String system = "https://hl7.nhs.uk/"+prefix+"/ValueSet/"+vocabName;
 
 
         valueSet.setUrl(system);
@@ -36,7 +48,7 @@ public class VocabularyToFHIRValueSet  {
         valueSet.setVersion(vocab.getVersion());
 
 		if (vocab.getDescription() != null) {
-			valueSet.setDescription("HSCIC Interoperability Specifications Reference Pack export. " + vocab.getDescription());
+			valueSet.setDescription(vocab.getDescription());
 		} else {
 			valueSet.setDescription("HSCIC Interoperability Specifications Reference Pack export.");
 		}

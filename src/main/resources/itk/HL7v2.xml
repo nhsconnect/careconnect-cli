@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabularyIndex vocabularyName="v2Tables">
+   <vocabulary version="1.0" name="0001-AdministrativeSex" id="2.16.840.1.113883.12.1"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0002-MaritalStatus" id="2.16.840.1.113883.12.2"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="0004-PatientClass" id="2.16.840.1.113883.12.4"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="0006-Religion" id="2.16.840.1.113883.12.6"
+               memberCount="158"/>
+   <vocabulary version="1.0" name="0007-AdmissionType" id="2.16.840.1.113883.12.7"
+               memberCount="15"/>
+   <vocabulary version="1.0" name="0008-AcknowledgmentCode" id="2.16.840.1.113883.12.8"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="0009-AmbulatoryStatus" id="2.16.840.1.113883.12.9"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="0010-PhysicianID" id="2.16.840.1.113883.12.10"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0018-PatientType" id="2.16.840.1.113883.12.18"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0019-AnesthesiaCode" id="2.16.840.1.113883.12.19"
+               memberCount="24"/>
+   <vocabulary version="1.0" name="0023-AdmitSource" id="2.16.840.1.113883.12.23"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="0051-DiagnosisCode" id="2.16.840.1.113883.12.51"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0052-DiagnosisType" id="2.16.840.1.113883.12.52"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0059-ConsentCode" id="2.16.840.1.113883.12.59"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0063-Relationship" id="2.16.840.1.113883.12.63"
+               memberCount="23"/>
+   <vocabulary version="1.0" name="0069-HospitalService" id="2.16.840.1.113883.12.69"
+               memberCount="133"/>
+   <vocabulary version="1.0" name="0076-MessageType" id="2.16.840.1.113883.12.76"
+               memberCount="123"/>
+   <vocabulary version="1.0" name="0078-AbnormalFlags" id="2.16.840.1.113883.12.78"
+               memberCount="23"/>
+   <vocabulary version="1.0" name="0080-NatureOfAbnormalTesting" id="2.16.840.1.113883.12.80"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0085-ObservationResultStatusCodesInterpretation"
+               id="2.16.840.1.113883.12.85"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="0088-ProcedureCode" id="2.16.840.1.113883.12.88"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0091-QueryPriority" id="2.16.840.1.113883.12.91"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0092-Re-AdmissionIndicator" id="2.16.840.1.113883.12.92"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="0099-VIPIndicator" id="2.16.840.1.113883.12.99"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0102-DelayedAcknowledgmentType"
+               id="2.16.840.1.113883.12.102"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0104-VersionID" id="2.16.840.1.113883.12.104"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="0112-DischargeDisposition" id="2.16.840.1.113883.12.112"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="0113-DischargedToLocation" id="2.16.840.1.113883.12.113"
+               memberCount="21"/>
+   <vocabulary version="1.0" name="0114-DietType" id="2.16.840.1.113883.12.114"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="0125-ValueType" id="2.16.840.1.113883.12.125"
+               memberCount="25"/>
+   <vocabulary version="1.0" name="0126-QuantityLimitedRequest" id="2.16.840.1.113883.12.126"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="0127-AllergenType" id="2.16.840.1.113883.12.127"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="0128-AllergySeverity" id="2.16.840.1.113883.12.128"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="0131-ContactRole" id="2.16.840.1.113883.12.131"
+               memberCount="23"/>
+   <vocabulary version="1.0" name="0136-Yes/noIndicator" id="2.16.840.1.113883.12.136"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0171-Citizenship" id="2.16.840.1.113883.12.171"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="0189-EthnicGroup" id="2.16.840.1.113883.12.189"
+               memberCount="18"/>
+   <vocabulary version="1.0" name="0190-AddressType" id="2.16.840.1.113883.12.190"
+               memberCount="13"/>
+   <vocabulary version="1.0" name="0200-NameType" id="2.16.840.1.113883.12.200"
+               memberCount="13"/>
+   <vocabulary version="1.0" name="0201-TelecommunicationUseCode"
+               id="2.16.840.1.113883.12.201"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="0202-TelecommunicationEquipmentType"
+               id="2.16.840.1.113883.12.202"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="0204-OrganizationalNameType" id="2.16.840.1.113883.12.204"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0208-QueryResponseStatus" id="2.16.840.1.113883.12.208"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0211-AlternateCharacterSets" id="2.16.840.1.113883.12.211"
+               memberCount="21"/>
+   <vocabulary version="1.0" name="0212-Nationality" id="2.16.840.1.113883.12.212"
+               memberCount="256"/>
+   <vocabulary version="1.0" name="0217-VisitPriorityCode" id="2.16.840.1.113883.12.217"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0220-LivingArrangement" id="2.16.840.1.113883.12.220"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="0228-DiagnosisClassification" id="2.16.840.1.113883.12.228"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="0230-ProcedureFunctionalType" id="2.16.840.1.113883.12.230"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0277-AppointmentTypeCodes" id="2.16.840.1.113883.12.277"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0289-County/parish" id="2.16.840.1.113883.12.289"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0296-PrimaryLanguage" id="2.16.840.1.113883.12.296"
+               memberCount="189"/>
+   <vocabulary version="1.0" name="0340-ProcedureCodeModifier" id="2.16.840.1.113883.12.340"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="0356-AlternateCharacterSetHandlingScheme"
+               id="2.16.840.1.113883.12.356"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0357-MessageErrorConditionCodes"
+               id="2.16.840.1.113883.12.357"
+               memberCount="13"/>
+   <vocabulary version="1.0" name="0359-DiagnosisPriority" id="2.16.840.1.113883.12.359"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0361-Application" id="2.16.840.1.113883.12.361"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="0362-Facility" id="2.16.840.1.113883.12.362"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="0363-AssigningAuthority" id="2.16.840.1.113883.12.363"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="0391-SegmentGroup" id="2.16.840.1.113883.12.391"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="0392-MatchReason" id="2.16.840.1.113883.12.392"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="0393-MatchAlgorithms" id="2.16.840.1.113883.12.393"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0394-ResponseModality" id="2.16.840.1.113883.12.394"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0395-ModifyIndicator" id="2.16.840.1.113883.12.395"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0396-CodingSystem" id="2.16.840.1.113883.12.396"
+               memberCount="81"/>
+   <vocabulary version="1.0" name="0398-ContinuationStyleCode" id="2.16.840.1.113883.12.398"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="0399-CountryCode" id="2.16.840.1.113883.12.399"
+               memberCount="256"/>
+   <vocabulary version="1.0" name="0416-ProcedureDRGType" id="2.16.840.1.113883.12.416"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="0417-TissueTypeCode" id="2.16.840.1.113883.12.417"
+               memberCount="13"/>
+   <vocabulary version="1.0" name="0418-ProcedurePriority" id="2.16.840.1.113883.12.418"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0430-ModeOfArrivalCode" id="2.16.840.1.113883.12.430"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="0445-IdentityReliabilityCode" id="2.16.840.1.113883.12.445"
+               memberCount="13"/>
+   <vocabulary version="1.0" name="0465-Name/addressRepresentation"
+               id="2.16.840.1.113883.12.465"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="0471-QueryName" id="2.16.840.1.113883.12.471"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU001-AdmitReason" id="2.16.840.1.113883.2.1.9.1"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU002-AllergyCode/Description"
+               id="2.16.840.1.113883.2.1.9.2"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="ZU003-AnaestheticGivenDuringLabour/Delivery"
+               id="2.16.840.1.113883.2.1.9.3"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="ZU004-AnaestheticGivenPostLabour/Delivery"
+               id="2.16.840.1.113883.2.1.9.4"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ZU005-AssigningFacility" id="2.16.840.1.113883.2.1.9.5"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU006-AttendanceClass" id="2.16.840.1.113883.2.1.9.6"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU007-AttendedOrDNA" id="2.16.840.1.113883.2.1.9.7"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="ZU008-BorrowedBedSpecialty" id="2.16.840.1.113883.2.1.9.8"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU009-CancelledBy" id="2.16.840.1.113883.2.1.9.9"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU010-CodingStatus" id="2.16.840.1.113883.2.1.9.10"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU011-ConsentToShareIndicator"
+               id="2.16.840.1.113883.2.1.9.11"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU012-Consultant'sMainSpecialty"
+               id="2.16.840.1.113883.2.1.9.12"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU013-DiaryType" id="2.16.840.1.113883.2.1.9.13"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU014-FirstRegularDayOrNightAdmission"
+               id="2.16.840.1.113883.2.1.9.14"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ZU015-HospitalService-Specialty"
+               id="2.16.840.1.113883.2.1.9.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU016-InitiatorOfSuspension"
+               id="2.16.840.1.113883.2.1.9.16"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU017-IntendedClinicalCareIntensity"
+               id="2.16.840.1.113883.2.1.9.17"
+               memberCount="20"/>
+   <vocabulary version="1.0" name="ZU018-Labour/DeliveryOnsetMethod"
+               id="2.16.840.1.113883.2.1.9.18"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="ZU019-MedicalStaffTypeSeeingPatient"
+               id="2.16.840.1.113883.2.1.9.19"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ZU020-NeonatalLevelOfCare" id="2.16.840.1.113883.2.1.9.20"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="ZU021-ObservationMethod" id="2.16.840.1.113883.2.1.9.21"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU022-OutcomeOfAttendance" id="2.16.840.1.113883.2.1.9.22"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU023-OutcomeOfOfferOfAdmission"
+               id="2.16.840.1.113883.2.1.9.23"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ZU024-PatientAgeSexMix" id="2.16.840.1.113883.2.1.9.24"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="ZU025-Producer'sID" id="2.16.840.1.113883.2.1.9.25"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU026-PsychiatricAdmissionStatus"
+               id="2.16.840.1.113883.2.1.9.26"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="ZU027-ReasonForExceedingGuaranteeDate"
+               id="2.16.840.1.113883.2.1.9.27"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU028-ReferralReceiptMethod"
+               id="2.16.840.1.113883.2.1.9.28"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU029-Removal/ReinstateReason"
+               id="2.16.840.1.113883.2.1.9.29"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ZU030-ResponsibleHCPProvider"
+               id="2.16.840.1.113883.2.1.9.30"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU031-ServiceTypeRequested" id="2.16.840.1.113883.2.1.9.31"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU032-SexualOrientation" id="2.16.840.1.113883.2.1.9.32"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="ZU033-SourceIfAddition" id="2.16.840.1.113883.2.1.9.33"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU034-SourceOfAttendance" id="2.16.840.1.113883.2.1.9.34"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU035-SourceOfReferral" id="2.16.840.1.113883.2.1.9.35"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU036-TransferReason" id="2.16.840.1.113883.2.1.9.36"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU037-TransportRequirements"
+               id="2.16.840.1.113883.2.1.9.37"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU038-Units" id="2.16.840.1.113883.2.1.9.38"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ZU039-LocationShielding" id="2.16.840.1.113883.2.1.9.39"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU040-ActualDeliveryPlace" id="2.16.840.1.113883.2.1.9.40"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="ZU041-IntendedDeliveryPlace"
+               id="2.16.840.1.113883.2.1.9.41"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="ZU042-DeliveryPlaceChangeReason"
+               id="2.16.840.1.113883.2.1.9.42"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="ZU043-DeliveryMethod" id="2.16.840.1.113883.2.1.9.43"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="ZU044-StatusOfPersonConductingDelivery"
+               id="2.16.840.1.113883.2.1.9.44"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="ZU045-ResuscitationMethod" id="2.16.840.1.113883.2.1.9.45"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="ZU046-LiveOrStillBirthCode" id="2.16.840.1.113883.2.1.9.46"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ZU047-LegalStatusOnAdmission"
+               id="2.16.840.1.113883.2.1.9.47"
+               memberCount="27"/>
+   <vocabulary version="1.0" name="ZU048-LegalStatusAtCensusDate"
+               id="2.16.840.1.113883.2.1.9.48"
+               memberCount="27"/>
+   <vocabulary version="1.0" name="ZU049-MentalCategory" id="2.16.840.1.113883.2.1.9.49"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ZU050-IdentityUnknownIndicator"
+               id="2.16.840.1.113883.2.1.9.50"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU051-IntendedManagement" id="2.16.840.1.113883.2.1.9.51"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ZU052-LocationType" id="2.16.840.1.113883.2.1.9.52"
+               memberCount="38"/>
+   <vocabulary version="1.0" name="ZU053-BroadPatientGroup" id="2.16.840.1.113883.2.1.9.53"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ZU054-FirstAttendance" id="2.16.840.1.113883.2.1.9.54"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="ZU055-WaitingListType" id="2.16.840.1.113883.2.1.9.55"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ZU056-DCRConsentToShareIndicator"
+               id="2.16.840.1.113883.2.1.9.56"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ZU057-LocationHiding" id="2.16.840.1.113883.2.1.9.57"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ZU058-SCRConsentToStore" id="2.16.840.1.113883.2.1.9.58"
+               memberCount="3"/>
+</vocabularyIndex>

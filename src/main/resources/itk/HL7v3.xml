@@ -1,0 +1,2005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabularyIndex vocabularyName="v3Vocabularies">
+   <vocabulary version="1.0" name="ADRTDiscussedSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="AEArrivalMode" id="2.16.840.1.113883.2.1.3.2.4.17.296"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEAttendanceCategory"
+               id="2.16.840.1.113883.2.1.3.2.4.17.297"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEDepartmentType" id="2.16.840.1.113883.2.1.3.2.4.17.299"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEDisposalMethod" id="2.16.840.1.113883.2.1.3.2.4.17.298"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEIncidentLocationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.293"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEInitialAssessmentTriageCategory"
+               id="2.16.840.1.113883.2.1.3.2.4.17.309"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AEPatientGroup" id="2.16.840.1.113883.2.1.3.2.4.17.294"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AESourceOfReferral" id="2.16.840.1.113883.2.1.3.2.4.17.295"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AccessReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.7"
+               memberCount="21"/>
+   <vocabulary version="1.0" name="AccommodationSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="AcknowledgementDetailType"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1082.11.1"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="AcknowledgementExceptionCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.32"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AcknowledgementExceptionCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.32"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="AcknowledgementType"
+               id="2.16.840.1.113883.2.1.3.2.1.5.18.11.1"
+               memberCount="3"/>
+   <vocabulary version="8.0" name="ActDetectedIssueCode"
+               id="2.16.840.1.113883.2.1.3.2.4.19.13"
+               memberCount="0"/>
+   <vocabulary version="9.0" name="ActDetectedIssueCode"
+               id="2.16.840.1.113883.2.1.3.2.4.19.13"
+               memberCount="0"/>
+   <vocabulary version="10.0" name="ActDetectedIssueCode"
+               id="2.16.840.1.113883.2.1.3.2.4.19.13"
+               memberCount="0"/>
+   <vocabulary version="11.0" name="ActDetectedIssueCode"
+               id="2.16.840.1.113883.2.1.3.2.4.19.13"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ActStatus" id="2.16.840.1.113883.5.14" memberCount="10"/>
+   <vocabulary version="1.0" name="ActUncertainty" id="2.16.840.1.113883.11.16899"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ActivityLocationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.312"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ActivityOfDailyLivingSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AdminResult" id="2.16.840.1.113883.2.1.3.2.4.17.148"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AdminResultType" id="2.16.840.1.113883.2.1.3.2.4.17.154"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AdministrationSiteSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AdministrationSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AdministrationType" id="2.16.840.1.113883.2.1.3.2.4.17.106"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="AdministrativeGender" id="2.16.840.1.113883.5.1"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="AdministrativeObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.170"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="AdministrativeProcedureTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AdmissionMethod" id="2.16.840.1.113883.2.1.3.2.4.16.51"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AdmissionMethod" id="2.16.840.1.113883.2.1.3.2.4.16.51"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="AdmissionMethod" id="2.16.840.1.113883.2.1.3.2.4.16.51"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="AdviceAndInformationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="AlcoholSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AlertCode" id="2.16.840.1.113883.2.1.3.2.4.17.8"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="AlertErrorCode" id="2.16.840.1.113883.2.1.3.2.4.17.195"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AlertReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.194"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AlertReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.194"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="AlertReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.194"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="AlertReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.194"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AlertType" id="2.16.840.1.113883.2.1.3.2.4.17.193"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AlertType" id="2.16.840.1.113883.2.1.3.2.4.17.193"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="AlertType" id="2.16.840.1.113883.2.1.3.2.4.17.193"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AllergyDESnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AllergyIdentSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AllergyOrAdverseReactionDESnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AllergyOrAdverseReactionIdentSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AmbulancePriorityType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.329"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="AmbulancePriorityType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.329"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="AmbulanceRequestTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AppointmentAmendmentIndicator"
+               id="2.16.840.1.113883.2.1.3.2.4.17.262"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AppointmentStatus" id="2.16.840.1.113883.2.1.3.2.4.17.147"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AppointmentType" id="2.16.840.1.113883.2.1.3.2.4.17.218"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="AssessmentNotificationRejectCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.270"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="AssessmentNotificationRejectCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.270"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="AssessmentOutcome" id="2.16.840.1.113883.2.1.3.2.4.17.133"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="AssessmentStatus" id="2.16.840.1.113883.2.1.3.2.4.17.5"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="AssessmentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AssignmentReasonType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.203"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="AttachmentCodeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="AttitudeToIssueSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AudiologyTestingOutcomeStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.466"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="AuthorFunctionType" id="2.16.840.1.113883.2.1.3.2.4.17.178"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="AuthorFunctionType" id="2.16.840.1.113883.2.1.3.2.4.17.178"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="AuthoritytoLPASnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="AvoidNonMedicationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="AwarenessOfIssueSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="BSLaboratoryInterpretationCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.490"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="BackOfficeLocationCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.226"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="BackOfficeWorkItemType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.217"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="BackOfficeWorkItemType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.217"
+               memberCount="6"/>
+   <vocabulary version="3.0" name="BackOfficeWorkItemType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.217"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="Blood Spot Screening Location Status"
+               id="2.16.840.1.113883.2.1.3.2.4.17.486"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="Blood Spot Screening Status Sub Codes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.487"
+               memberCount="19"/>
+   <vocabulary version="2.0" name="Blood Spot Screening Status Sub Codes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.487"
+               memberCount="19"/>
+   <vocabulary version="1.0" name="BloodCoagulationSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="BloodCoagulationSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="BloodPressureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="BloodPressureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="4.0" name="BloodPressureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="BodyWeightSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="BusinessSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.159"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="BusinessSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.159"
+               memberCount="7"/>
+   <vocabulary version="3.0" name="BusinessSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.159"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="CAFInformationSet" id="2.16.840.1.113883.2.1.3.2.4.17.222"
+               memberCount="52"/>
+   <vocabulary version="2.0" name="CAFInformationSet" id="2.16.840.1.113883.2.1.3.2.4.17.222"
+               memberCount="53"/>
+   <vocabulary version="1.0" name="CDAActCode" id="2.16.840.1.113883.2.1.3.2.4.17.180"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CDAAdministrationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.185"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CDACHCEncounterSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CDACareSettingTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="5.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="6.0" name="CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.223"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CDADocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="CDADocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="CDADocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="5.0" name="CDADocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="6.0" name="CDADocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CDAEncounterSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CDAJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.186"
+               memberCount="208"/>
+   <vocabulary version="2.0" name="CDAJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.186"
+               memberCount="208"/>
+   <vocabulary version="3.0" name="CDAJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.186"
+               memberCount="250"/>
+   <vocabulary version="4.0" name="CDAJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.186"
+               memberCount="250"/>
+   <vocabulary version="5.0" name="CDAJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.186"
+               memberCount="252"/>
+   <vocabulary version="1.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="28"/>
+   <vocabulary version="2.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="50"/>
+   <vocabulary version="3.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="51"/>
+   <vocabulary version="4.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="85"/>
+   <vocabulary version="5.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="88"/>
+   <vocabulary version="6.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="108"/>
+   <vocabulary version="7.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="147"/>
+   <vocabulary version="8.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="151"/>
+   <vocabulary version="9.0" name="CDAObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.220"
+               memberCount="158"/>
+   <vocabulary version="1.0" name="CDAOrganizationProviderType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.289"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="CDAOrganizationProviderType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.289"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="CDAOrganizationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.191"
+               memberCount="22"/>
+   <vocabulary version="1.0" name="CDAPersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.45"
+               memberCount="23"/>
+   <vocabulary version="2.0" name="CDAPersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.45"
+               memberCount="53"/>
+   <vocabulary version="3.0" name="CDAPersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.45"
+               memberCount="55"/>
+   <vocabulary version="4.0" name="CDAPersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.45"
+               memberCount="55"/>
+   <vocabulary version="1.0" name="CDAPrescriptionAnnotation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.192"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="CDARoleType" id="2.16.840.1.113883.2.1.3.2.4.17.514"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CFScreeningResult" id="2.16.840.1.113883.2.1.3.2.4.17.463"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="CHCAcceptMessageTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CHCCancellationNotificationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CHCCancellationReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.281"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="CHCCancellationReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.281"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="CHCEligOptionsSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CHCEligibOptions" id="2.16.840.1.113883.2.1.3.2.4.17.427"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="CHCEligibOptions" id="2.16.840.1.113883.2.1.3.2.4.17.427"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="CHCRejectionMessageTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CHCRejectionReason" id="2.16.840.1.113883.2.1.3.2.4.17.282"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="CHCRejectionReason" id="2.16.840.1.113883.2.1.3.2.4.17.282"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="CHCRespondToDocumentSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CHLCareDomain" id="2.16.840.1.113883.2.1.3.2.4.17.276"
+               memberCount="11"/>
+   <vocabulary version="2.0" name="CHLCareDomain" id="2.16.840.1.113883.2.1.3.2.4.17.276"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="CHLOutcome" id="2.16.840.1.113883.2.1.3.2.4.17.280"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="CHLOutcome" id="2.16.840.1.113883.2.1.3.2.4.17.280"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CHLOutcomeLevelOfNeed"
+               id="2.16.840.1.113883.2.1.3.2.4.17.278"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="CHTScreeningResult" id="2.16.840.1.113883.2.1.3.2.4.17.464"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="CP-ISAcknowledgementType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.472"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CP-ISMessageType" id="2.16.840.1.113883.2.1.3.2.4.17.470"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="CP-ISMessageType" id="2.16.840.1.113883.2.1.3.2.4.17.470"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="CP-ISMiniServiceResponseCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.499"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="CP-ISObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.469"
+               memberCount="20"/>
+   <vocabulary version="1.0" name="CP-ISRecordType" id="2.16.840.1.113883.2.1.3.2.4.17.471"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CP-ISResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.475"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CP-ISUploadFileResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.474"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="CP-ISUploadFileResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.474"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="CP-ISUploadRecordResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.473"
+               memberCount="6"/>
+   <vocabulary version="3.0" name="CP-ISUploadRecordResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.473"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="CP-ISUploadRecordResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.473"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="CP-ISUploadRecordResponseDetail"
+               id="2.16.840.1.113883.2.1.3.2.4.17.482"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CREType" id="2.16.840.1.113883.2.1.3.2.4.17.56"
+               memberCount="36"/>
+   <vocabulary version="2.0" name="CRETypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CaBAnnotation" id="2.16.840.1.113883.2.1.3.2.4.17.140"
+               memberCount="14"/>
+   <vocabulary version="2.0" name="CaBAnnotation" id="2.16.840.1.113883.2.1.3.2.4.17.140"
+               memberCount="18"/>
+   <vocabulary version="3.0" name="CaBAnnotation" id="2.16.840.1.113883.2.1.3.2.4.17.140"
+               memberCount="24"/>
+   <vocabulary version="4.0" name="CaBAnnotation" id="2.16.840.1.113883.2.1.3.2.4.17.140"
+               memberCount="57"/>
+   <vocabulary version="1.0" name="CaBAssessmentStatus" id="2.16.840.1.113883.2.1.3.2.4.16.47"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CaBGenderType" id="2.16.840.1.113883.2.1.3.2.4.16.49"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CaBReasonCode" id="2.16.840.1.113883.2.1.3.2.4.17.153"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CaBReferralType" id="2.16.840.1.113883.2.1.3.2.4.17.198"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CaBReferralType" id="2.16.840.1.113883.2.1.3.2.4.17.198"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CaBReviewStatus" id="2.16.840.1.113883.2.1.3.2.4.16.46"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CaBWaitStartTimeType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.48"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CallbackConsent" id="2.16.840.1.113883.2.1.3.2.4.17.99"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CancelDelayedDischargeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.274"
+               memberCount="14"/>
+   <vocabulary version="2.0" name="CancelDelayedDischargeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.274"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="CancelRequestMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.127"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CancellationReason" id="2.16.840.1.113883.2.1.3.2.4.16.27"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="CancellationReason" id="2.16.840.1.113883.2.1.3.2.4.16.27"
+               memberCount="8"/>
+   <vocabulary version="3.0" name="CancellationReason" id="2.16.840.1.113883.2.1.3.2.4.16.27"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="CancellationResponseReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.19"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CancellationResponseReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.19"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="CancellationResponseReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.19"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CapacityToConsentOptionsSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CareLevelApproach" id="2.16.840.1.113883.2.1.3.2.4.17.238"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="CarePlanAgreement" id="2.16.840.1.113883.2.1.3.2.4.17.425"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CarePlanAgreementSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CarePlanComponentType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.221"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CarePlanSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CareProcessType" id="2.16.840.1.113883.2.1.3.2.4.17.237"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="CareReviewAdministration"
+               id="2.16.840.1.113883.2.1.3.2.4.17.239"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="CareReviewStatus" id="2.16.840.1.113883.2.1.3.2.4.17.240"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="CareSettingTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CareSupportNeedsOptionsSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="CareSupportNeedsOptionsSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CarerKeyContactInformedOfDischargeDate"
+               id="2.16.840.1.113883.2.1.3.2.4.17.521"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ClinicType" id="2.16.840.1.113883.2.1.3.2.4.17.151"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ClinicalDashboardsObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.286"
+               memberCount="35"/>
+   <vocabulary version="2.0" name="ClinicalProductForm" id="2.16.840.1.113883.2.1.3.2.4.19.1"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ClinicalTermsReadV3" id="2.16.840.1.113883.2.1.3.2.4.14"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ClinicalView" id="2.16.840.1.113883.2.1.3.2.4.17.55"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="CodedEntryCode" id="2.16.840.1.113883.2.1.3.2.4.17.314"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ComponentTextHeadingType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.224"
+               memberCount="16"/>
+   <vocabulary version="2.0" name="ComponentTextHeadingType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.224"
+               memberCount="17"/>
+   <vocabulary version="1.0" name="ConfirmationRespType" id="2.16.840.1.113883.2.1.3.2.4.17.9"
+               memberCount="2"/>
+   <vocabulary version="4.0" name="Consent" id="2.16.840.1.113883.2.1.3.2.4.16.2"
+               memberCount="4"/>
+   <vocabulary version="5.0" name="Consent" id="2.16.840.1.113883.2.1.3.2.4.16.2"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="ConsentSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="ConsentToPlanType" id="2.16.840.1.113883.2.1.3.2.4.17.488"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ConsentToShareType" id="2.16.840.1.113883.2.1.3.2.4.17.423"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ConsultationEventType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.300"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="ContactStatus" id="2.16.840.1.113883.2.1.3.2.4.17.232"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="ContactType" id="2.16.840.1.113883.2.1.3.2.4.17.292"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ContextualModifier" id="2.16.840.1.113883.2.1.3.2.4.17.141"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ControlledDrugStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.264"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="CorrespondenceCode" id="2.16.840.1.113883.2.1.3.2.4.16.4"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="CorrespondenceSuppression"
+               id="2.16.840.1.113883.2.1.3.2.4.17.90"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="CountryCode" id="2.16.1" memberCount="244"/>
+   <vocabulary version="1.0" name="CountryOrUkInternalCode"
+               id="9.99.999.9.999999.9.9.9.9.9.99"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="CriteriaCode" id="2.16.840.1.113883.2.1.3.2.4.17.142"
+               memberCount="11"/>
+   <vocabulary version="2.0" name="CriteriaCode" id="2.16.840.1.113883.2.1.3.2.4.17.142"
+               memberCount="20"/>
+   <vocabulary version="1.0" name="DICDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.243"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="DINumericResultsSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DIOrderIdentifierCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.231"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="DIProcedureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DIReportStatus" id="2.16.840.1.113883.2.1.3.2.4.17.229"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DIServiceEventType23"
+               id="2.16.840.1.113883.2.1.3.2.4.17.230"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="DIUrgencyIndicator" id="2.16.840.1.113883.2.1.3.2.4.17.242"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DNACPRprefSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DSTCareDomain" id="2.16.840.1.113883.2.1.3.2.4.17.277"
+               memberCount="12"/>
+   <vocabulary version="2.0" name="DSTCareDomain" id="2.16.840.1.113883.2.1.3.2.4.17.277"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="DSTEligibilityOutcome"
+               id="2.16.840.1.113883.2.1.3.2.4.17.283"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="DSTEligibilityOutcome"
+               id="2.16.840.1.113883.2.1.3.2.4.17.283"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="DSTOutcomeLevelOfNeed"
+               id="2.16.840.1.113883.2.1.3.2.4.17.279"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="DSTOutcomeLevelOfNeed"
+               id="2.16.840.1.113883.2.1.3.2.4.17.279"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="DTSResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.206"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DashboardMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.310"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="DashboardOrganisationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.290"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="DataQualityInvestigationReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.248"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="DataQualityType" id="2.16.840.1.113883.2.1.3.2.4.17.247"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="DeathNotification" id="2.16.840.1.113883.2.1.3.2.4.16.5"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DeliveryLocationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.173"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="DemographicConsentObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.164"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DemographicNotificationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.213"
+               memberCount="6"/>
+   <vocabulary version="5.0" name="DemographicObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.35"
+               memberCount="16"/>
+   <vocabulary version="6.0" name="DemographicObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.35"
+               memberCount="41"/>
+   <vocabulary version="7.0" name="DemographicObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.35"
+               memberCount="61"/>
+   <vocabulary version="8.0" name="DemographicObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.35"
+               memberCount="61"/>
+   <vocabulary version="1.0" name="DemographicRegistrationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.165"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="DemographicRegistrationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.165"
+               memberCount="8"/>
+   <vocabulary version="3.0" name="DemographicRegistrationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.165"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="DetailsRespType" id="2.16.840.1.113883.2.1.3.2.4.17.10"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DetectedIssueQualifier"
+               id="2.16.840.1.113883.2.1.3.2.4.17.104"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="Determiner" id="2.16.840.1.113883.11.10878" memberCount="3"/>
+   <vocabulary version="2.0" name="DeviceTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="DiagnosisSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="DiagnosisTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DicomIDType" id="2.16.840.1.113883.2.1.3.2.4.17.228"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="Discharge Summary Heading Type"
+               id="2.16.840.1.113883.2.1.3.2.4.17.288"
+               memberCount="60"/>
+   <vocabulary version="1.0" name="DischargeDestination"
+               id="2.16.840.1.113883.2.1.3.2.4.16.40"
+               memberCount="19"/>
+   <vocabulary version="2.0" name="DischargeDestination"
+               id="2.16.840.1.113883.2.1.3.2.4.16.40"
+               memberCount="19"/>
+   <vocabulary version="1.0" name="DischargeDocumentTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DischargeMethod" id="2.16.840.1.113883.2.1.3.2.4.16.41"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="DischargeMethod" id="2.16.840.1.113883.2.1.3.2.4.16.41"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="DischargeNotificationAgreeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.272"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="DischargeNotificationAgreeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.272"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="DischargeNotificationDisagreeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.273"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="DischargeSummaryStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.313"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DischargeTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DiscontinuationReasonSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DiscontinueMedicationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="DispenseClaimMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.112"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="DispenseEventStatus" id="2.16.840.1.113883.2.1.3.2.4.17.20"
+               memberCount="10"/>
+   <vocabulary version="2.0" name="DispenseHistoryRebuildMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.113"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="DispenseNotificationMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.114"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="DispenseNotificationWithClaimMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.115"
+               memberCount="3"/>
+   <vocabulary version="4.0" name="DispenseReturnReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.28"
+               memberCount="8"/>
+   <vocabulary version="5.0" name="DispenseReturnReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.28"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="DispensingAuthorisationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.209"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="DispensingEndorsement"
+               id="2.16.840.1.113883.2.1.3.2.4.16.29"
+               memberCount="12"/>
+   <vocabulary version="4.0" name="DispensingEndorsement"
+               id="2.16.840.1.113883.2.1.3.2.4.16.29"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="DispensingSitePreference"
+               id="2.16.840.1.113883.2.1.3.2.4.17.21"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="DispositionLocationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DissentAlertType" id="2.16.840.1.113883.2.1.3.2.4.17.201"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="DissentOverride" id="2.16.840.1.113883.2.1.3.2.4.17.60"
+               memberCount="6"/>
+   <vocabulary version="3.0" name="DissentOverride" id="2.16.840.1.113883.2.1.3.2.4.17.60"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="DocumentConsentSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="8"/>
+   <vocabulary version="2.0" name="DocumentConsentSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="DocumentDQState" id="2.16.840.1.113883.2.1.3.2.4.17.189"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="DocumentFormatType" id="2.16.840.1.113883.2.1.3.2.4.17.441"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DocumentResponseType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.457"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="DocumentRetrievalMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.455"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="DocumentRetrievalObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.456"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="DocumentSealingStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.179"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="DocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="DocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="DosageChangeTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="EBSResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.100"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EMISDrugCodes" id="2.16.840.1.113883.2.1.6.9"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ETPSpineRejectionReasons"
+               id="2.16.840.1.113883.2.1.3.2.4.17.22"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ETPSpineRejectionReasons"
+               id="2.16.840.1.113883.2.1.3.2.4.17.22"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="ETPSpineRejectionReasons"
+               id="2.16.840.1.113883.2.1.3.2.4.17.22"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EgtonCodes" id="2.16.840.1.113883.2.1.6.3" memberCount="0"/>
+   <vocabulary version="1.0" name="EhrActState" id="2.16.840.1.113883.2.1.3.2.1.5.14.11.1"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="EhrActState" id="2.16.840.1.113883.2.1.3.2.1.5.14.11.1"
+               memberCount="6"/>
+   <vocabulary version="4.0" name="EhrAgentDeviceType"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.77"
+               memberCount="2"/>
+   <vocabulary version="3.0" name="EhrAgentOrganizationType"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.76"
+               memberCount="30"/>
+   <vocabulary version="3.0" name="EhrAgentPersonType"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.75"
+               memberCount="23"/>
+   <vocabulary version="3.0" name="EhrAgentType" id="2.16.840.1.113883.2.1.3.2.4.19.12"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="EhrAttachmentCode" id="2.16.840.1.113883.2.1.3.2.4.19.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="EhrBatteryCode" id="2.16.840.1.113883.2.1.3.2.4.19.20"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EhrCategory" id="2.16.840.1.113883.2.1.3.2.4.17.800"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="EhrCategoryCode" id="2.16.840.1.113883.2.1.3.2.4.17.900"
+               memberCount="20"/>
+   <vocabulary version="2.0" name="EhrClusterCode" id="2.16.840.1.113883.2.1.3.2.4.19.24"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="EhrCompositionName"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.17"
+               memberCount="58"/>
+   <vocabulary version="2.0" name="EhrCompoundCode" id="2.16.840.1.113883.2.1.3.2.4.19.14"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="EhrCompoundLevel" id="2.16.840.1.113883.2.1.3.2.4.17.91"
+               memberCount="4"/>
+   <vocabulary version="4.0" name="EhrDeviceType" id="2.16.840.1.113883.2.1.3.2.4.19.2"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="EhrDiscontinueReason" id="2.16.840.1.113883.2.1.3.2.4.19.3"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EhrExtractSpec" id="2.16.840.1.113883.2.1.3.2.4.15.11.18"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="EhrGP2GPBatteryCode" id="2.16.840.1.113883.2.1.3.2.4.19.19"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EhrGP2GPCategoryCode"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.79"
+               memberCount="20"/>
+   <vocabulary version="2.0" name="EhrGP2GPClusterCode" id="2.16.840.1.113883.2.1.3.2.4.19.18"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="EhrGP2GPCompoundCode"
+               id="2.16.840.1.113883.2.1.3.2.4.19.17"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="EhrGP2GPTopicCode" id="2.16.840.1.113883.2.1.3.2.4.19.22"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EhrInterpret" id="2.16.840.1.113883.2.1.3.2.4.17.304"
+               memberCount="4"/>
+   <vocabulary version="3.0" name="EhrLinkSetType" id="2.16.840.1.113883.2.1.3.2.4.15.11.19"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="EhrLocationType" id="2.16.840.1.113883.2.1.6.7"
+               memberCount="28"/>
+   <vocabulary version="3.0" name="EhrMedicationPriority"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.20"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="EhrMedicationState"
+               id="2.16.840.1.113883.2.1.3.2.1.5.14.11.2"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="EhrMedicationState"
+               id="2.16.840.1.113883.2.1.3.2.1.5.14.11.2"
+               memberCount="8"/>
+   <vocabulary version="4.0" name="EhrMedicinalProdCode" id="2.16.840.1.113883.2.1.3.2.4.19.4"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EhrNarrativeStatementType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.801"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="EhrObservationCode" id="2.16.840.1.113883.2.1.3.2.4.19.11"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EhrObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.301"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="EhrObservationValue" id="2.16.840.1.113883.2.1.3.2.4.19.5"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EhrObservationValueDrugWithAAR"
+               id="2.16.840.1.113883.2.1.3.2.4.19.6"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EhrObservationValueEpisode"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.73"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="EhrObservationValueSignificance"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.74"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="EhrOrgType" id="2.16.840.1.113883.2.1.6.8" memberCount="75"/>
+   <vocabulary version="1.0" name="EhrParticipationSignature"
+               id="2.16.840.1.113883.2.1.3.2.1.5.89.11.1"
+               memberCount="1"/>
+   <vocabulary version="3.0" name="EhrPersonalRels" id="2.16.840.1.113883.2.1.3.2.4.15.11.21"
+               memberCount="71"/>
+   <vocabulary version="4.0" name="EhrPlanCode" id="2.16.840.1.113883.2.1.3.2.4.19.8"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EhrPriority" id="2.16.840.1.113883.2.1.3.2.4.15.11.22"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="EhrReferralCode" id="2.16.840.1.113883.2.1.3.2.4.19.16"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EhrReferralPriority"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.23"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="EhrRegistrationCode"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.24"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="EhrRequestAckCode" id="2.16.840.1.113883.2.1.3.2.4.17.101"
+               memberCount="11"/>
+   <vocabulary version="3.0" name="EhrRequestMode" id="2.16.840.1.113883.2.1.3.2.4.15.11.25"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="EhrSupplyState" id="2.16.840.1.113883.2.1.3.2.1.5.14.11.3"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="EhrSupplyState" id="2.16.840.1.113883.2.1.3.2.1.5.14.11.3"
+               memberCount="8"/>
+   <vocabulary version="3.0" name="EhrSupplyType" id="2.16.840.1.113883.2.1.3.2.4.15.11.26"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="EhrTopicCode" id="2.16.840.1.113883.2.1.3.2.4.19.23"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EmploymentSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EncounterDispositionSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="EncounterSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="EntityClass" id="2.16.840.1.113883.5.41" memberCount="26"/>
+   <vocabulary version="1.0" name="EntityDeterminer" id="2.16.840.1.113883.5.30"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="EoLADRTprefSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="EoLAnticipatoryMedicineBoxIssueSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="EoLCDAObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.435"
+               memberCount="15"/>
+   <vocabulary version="1.0" name="EoLDocumentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="EoLToolSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="4"/>
+   <vocabulary version="3.0" name="EthnicCategory" id="2.16.840.1.113883.2.1.3.2.4.16.6"
+               memberCount="68"/>
+   <vocabulary version="4.0" name="EthnicCategory" id="2.16.840.1.113883.2.1.3.2.4.16.6"
+               memberCount="68"/>
+   <vocabulary version="1.0" name="EthnicCategorySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="Ethnicity" id="2.16.840.1.113883.2.1.3.2.4.16.81"
+               memberCount="17"/>
+   <vocabulary version="4.0" name="EventTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="41"/>
+   <vocabulary version="1.0" name="ExemptionDateType" id="2.16.840.1.113883.2.1.3.2.4.17.28"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="EyesExaminationResult"
+               id="2.16.840.1.113883.2.1.3.2.4.17.448"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="FEVSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="FamilyHistorySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="FinancesSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="FindingSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="FindingTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="FocalActCategory" id="2.16.840.1.113883.2.1.3.2.4.17.47"
+               memberCount="27"/>
+   <vocabulary version="1.0" name="GPESMessageType" id="2.16.840.1.113883.2.1.3.2.4.17.324"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="GeneralDescription" id="2.16.840.1.113883.2.1.3.2.4.17.219"
+               memberCount="20"/>
+   <vocabulary version="1.0" name="GenericMiniServiceResponseCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.500"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="GuardianOrganisationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.478"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="GuardianRoleType" id="2.16.840.1.113883.2.1.3.2.4.16.454"
+               memberCount="23"/>
+   <vocabulary version="14.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="28"/>
+   <vocabulary version="15.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="29"/>
+   <vocabulary version="16.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="30"/>
+   <vocabulary version="17.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="31"/>
+   <vocabulary version="18.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="32"/>
+   <vocabulary version="19.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="33"/>
+   <vocabulary version="20.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="34"/>
+   <vocabulary version="21.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="35"/>
+   <vocabulary version="22.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="36"/>
+   <vocabulary version="23.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="37"/>
+   <vocabulary version="24.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="38"/>
+   <vocabulary version="25.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="39"/>
+   <vocabulary version="26.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="40"/>
+   <vocabulary version="27.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="41"/>
+   <vocabulary version="28.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="42"/>
+   <vocabulary version="29.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="43"/>
+   <vocabulary version="30.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="65"/>
+   <vocabulary version="31.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="67"/>
+   <vocabulary version="32.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="68"/>
+   <vocabulary version="33.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="88"/>
+   <vocabulary version="34.0" name="HL7StandardVersionCode"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1097.11.1"
+               memberCount="88"/>
+   <vocabulary version="1.0" name="HcpType" id="2.16.840.1.113883.2.1.3.2.4.17.92"
+               memberCount="35"/>
+   <vocabulary version="1.0"
+               name="Health Protection Electronic Notification notifiable disease"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="HealthSpaceBusinessSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.175"
+               memberCount="4"/>
+   <vocabulary version="3.0" name="HealthspaceRegistration"
+               id="2.16.840.1.113883.2.1.3.2.4.16.7"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="HearingStatus" id="2.16.840.1.113883.2.1.3.2.4.17.98"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="HeartExaminationResult"
+               id="2.16.840.1.113883.2.1.3.2.4.17.447"
+               memberCount="7"/>
+   <vocabulary version="3.0" name="HeightSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="4.0" name="HeightSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="5.0" name="HeightSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="HipsExaminationResult"
+               id="2.16.840.1.113883.2.1.3.2.4.17.446"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="HipsExpertManagementPlanType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.468"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="HipsUltraSoundOutcomeDecision"
+               id="2.16.840.1.113883.2.1.3.2.4.17.467"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="HistoricDataIndicator"
+               id="2.16.840.1.113883.2.1.3.2.4.17.36"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="HousingSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="HumanLanguage" id="2.16.840.1.113883.2.1.3.2.4.17.70"
+               memberCount="190"/>
+   <vocabulary version="4.0" name="HumanLanguage" id="2.16.840.1.113883.2.1.3.2.4.17.70"
+               memberCount="190"/>
+   <vocabulary version="1.0" name="ISOCountryCode" id="1.0.3166.1.2.3" memberCount="0"/>
+   <vocabulary version="1.0" name="ITKAcknowledgementExceptionCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.315"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ITKActDetectedIssueCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.316"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ITKDetectedIssueQualifier"
+               id="2.16.840.1.113883.2.1.3.2.4.17.317"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="IdentifierType" id="2.16.840.1.113883.2.1.3.2.4.17.129"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="IgnoreHistoryType" id="2.16.840.1.113883.2.1.3.2.4.17.169"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="IncidentalLocationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="InformationSensitivity"
+               id="2.16.840.1.113883.2.1.3.2.4.16.1"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="InformationSensitivity"
+               id="2.16.840.1.113883.2.1.3.2.4.16.1"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="InfrastructureAnnotation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.163"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="InitialRequesterRoleType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.303"
+               memberCount="61"/>
+   <vocabulary version="1.0" name="InjectingStatus" id="2.16.840.1.113883.2.1.3.2.4.17.233"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="InteractionTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="Interpretation" id="2.16.840.1.113883.2.1.3.2.4.16.8"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="InterpreterRequiredIndicator"
+               id="2.16.840.1.113883.2.1.3.2.4.16.39"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="InvestigationResultSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="InvestigationTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="ItemStatus" id="2.16.840.1.113883.2.1.3.2.4.17.23"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="JobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.124"
+               memberCount="208"/>
+   <vocabulary version="2.0" name="JobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.124"
+               memberCount="208"/>
+   <vocabulary version="3.0" name="JobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.124"
+               memberCount="208"/>
+   <vocabulary version="4.0" name="JobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.124"
+               memberCount="217"/>
+   <vocabulary version="5.0" name="JobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.124"
+               memberCount="228"/>
+   <vocabulary version="1.0" name="JobRoleNameQualified"
+               id="2.16.840.1.113883.2.1.3.2.4.17.493"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="LRCurrentStatus" id="2.16.840.1.113883.2.1.3.2.4.17.108"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="LRResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.12"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="LRResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.12"
+               memberCount="0"/>
+   <vocabulary version="6.0" name="LRType" id="2.16.840.1.113883.2.1.3.2.4.16.11"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="LanguageAbilityMode" id="2.16.840.1.113883.5.60"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="LanguageAbilityProficiency" id="2.16.840.1.113883.5.61"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="LanguageAbilityProficiency" id="2.16.840.1.113883.5.61"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="LateralitySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="LateralitySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="LegalResponsibilitySnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="LegalStatus" id="2.16.840.1.113883.2.1.3.2.4.17.241"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="LegalStatusClassification"
+               id="2.16.840.1.113883.2.1.3.2.4.16.42"
+               memberCount="25"/>
+   <vocabulary version="2.0" name="LifestyleSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="LinkAssertionSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="LocationTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="MCADDScreeningResult"
+               id="2.16.840.1.113883.2.1.3.2.4.17.465"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="MHATribunalDecision"
+               id="2.16.840.1.113883.2.1.3.2.4.17.234"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="MHResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.103"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MaintainMedicationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="ManifestItemType" id="2.16.840.1.113883.2.1.3.2.4.17.132"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="ManufacturedMaterialSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ManufacturerModelName"
+               id="2.16.840.1.113883.2.1.3.2.4.17.332"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MaritalStatus" id="2.16.840.1.113883.2.1.3.2.4.16.82"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="MedicationActType" id="2.16.840.1.113883.2.1.3.2.4.17.93"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="MedicationChangeTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MedicationChargePayment"
+               id="2.16.840.1.113883.2.1.3.2.4.16.30"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="MedicationReviewTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MedicationSubstitutionTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="MentalCapacityToAgreeToCarePlanCodeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="MentalEmotionalWellBeingSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MessageControl" id="2.16.840.1.113883.2.1.3.2.4.17.144"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="MessageSealingStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.157"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="MessageTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MiniServiceMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.284"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="MiniServiceObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.287"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="MisusableSubstanceSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="MobilitySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NHAISRemovalCancellationCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.207"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NHAISRemovalReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.168"
+               memberCount="22"/>
+   <vocabulary version="2.0" name="NHAISRemovalReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.168"
+               memberCount="22"/>
+   <vocabulary version="3.0" name="NHAISRemovalReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.168"
+               memberCount="23"/>
+   <vocabulary version="1.0" name="NHS111AdditionalNotesType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.422"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="NHS111AdditionalNotesType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.422"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="NHS111CDADocumentSectionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.323"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NHS111DispositionCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.325"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NHS111EncounterCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.326"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="NHS111MessageType" id="2.16.840.1.113883.2.1.3.2.4.17.420"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NHS111RepeatCallerServiceResponseType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.421"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="NHS111TriageDeviceType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.418"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="NHSEdiMessageTypeCode" id="2.16.840.1.113883.2.1.6.11"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="NOKCode" id="2.16.840.1.113883.2.1.3.2.4.16.13"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NationalSystemCode" id="2.16.840.1.113883.2.1.3.2.4.17.174"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NewBornHearingScreeningOutcomeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="16"/>
+   <vocabulary version="2.0" name="NewBornHearingScreeningOutcomeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="NewStatusType" id="2.16.840.1.113883.2.1.3.2.4.17.13"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="NewbornAndInfantPhysicalExaminationProceduresSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NewbornAndInfantPhysicalExaminationResults"
+               id="2.16.840.1.113883.2.1.3.2.4.17.525"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NewbornBloodSpotScreeningResultStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.512"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NewbornBloodSpotScreeningResultStatusSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="59"/>
+   <vocabulary version="1.0" name="NewbornBloodSpotScreeningResultSubstatusSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="198"/>
+   <vocabulary version="1.0" name="NewbornBloodSpotScreeningTestProceduresSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="NhaisRegistration" id="2.16.840.1.113883.2.1.3.2.4.16.12"
+               memberCount="1"/>
+   <vocabulary version="3.0" name="NominatedBatchInfo" id="2.16.840.1.113883.2.1.3.2.4.17.14"
+               memberCount="2"/>
+   <vocabulary version="4.0" name="NominatedBatchInfo" id="2.16.840.1.113883.2.1.3.2.4.17.14"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="NonCodedCDADocumentType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.337"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="NonCodedCDADocumentType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.337"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NonLingualCommunicationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NonMedicationAdministrationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="4.0" name="NotDispensedReason" id="2.16.840.1.113883.2.1.3.2.4.16.31"
+               memberCount="8"/>
+   <vocabulary version="5.0" name="NotDispensedReason" id="2.16.840.1.113883.2.1.3.2.4.16.31"
+               memberCount="11"/>
+   <vocabulary version="6.0" name="NotDispensedReason" id="2.16.840.1.113883.2.1.3.2.4.16.31"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="NotificationDocumentEvent"
+               id="2.16.840.1.113883.2.1.3.2.4.17.451"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="NotificationDocumentType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.438"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="NotificationEventSubtype"
+               id="2.16.840.1.113883.2.1.3.2.4.17.454"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="NotificationEventType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.437"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="NotificationMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.436"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="NotificationObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.440"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="NotificationPatientAdministrationEvent"
+               id="2.16.840.1.113883.2.1.3.2.4.17.453"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NotificationPatientEncounterEvent"
+               id="2.16.840.1.113883.2.1.3.2.4.17.452"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="NotificationURLType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.439"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="OOPRoleType" id="2.16.840.1.113883.2.1.3.2.4.17.305"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ObsInterpretationChangeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ObsInterpretationNormalitySnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ObsInterpretationSusceptibilitySnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="ObservationCode" id="2.16.840.1.113883.2.1.3.2.4.19.7"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ObservationInterpretation" id="2.16.840.1.113883.5.83"
+               memberCount="18"/>
+   <vocabulary version="1.0" name="ObservationInterpretationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.275"
+               memberCount="22"/>
+   <vocabulary version="2.0" name="ObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.275"
+               memberCount="35"/>
+   <vocabulary version="1.0" name="OrganDonationType" id="2.16.840.1.113883.2.1.3.2.4.17.211"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="OrganizationRoleName"
+               id="2.16.840.1.113883.2.1.3.2.4.17.125"
+               memberCount="97"/>
+   <vocabulary version="1.0" name="OrganizationType" id="2.16.840.1.113883.2.1.3.2.4.17.94"
+               memberCount="22"/>
+   <vocabulary version="2.0" name="OrganizerTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="OverseasVisitorStatusClassification"
+               id="2.16.840.1.113883.2.1.3.2.4.17.302"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="P2PActType" id="2.16.840.1.113883.2.1.3.2.4.17.202"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PDSMiniServiceResponseCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.285"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="PDSResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.42"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PDSResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.42"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PKUScreeningResult" id="2.16.840.1.113883.2.1.3.2.4.17.461"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="POCResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.102"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PSClaimMessageType" id="2.16.840.1.113883.2.1.3.2.4.17.121"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="PSISBusinessCodeType"
+               id="2.16.840.1.113883.2.1.3.2.4.19.26"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PSISCareRecordState"
+               id="2.16.840.1.113883.2.1.3.2.4.17.187"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PSISCareRecordState"
+               id="2.16.840.1.113883.2.1.3.2.4.17.187"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PSISDataStatus" id="2.16.840.1.113883.2.1.3.2.4.17.59"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="PSISDocumentType" id="2.16.840.1.113883.2.1.3.2.4.19.25"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PSISMetadataType" id="2.16.840.1.113883.2.1.3.2.4.17.57"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="PSISQueryDQStates" id="2.16.840.1.113883.2.1.3.2.4.17.188"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PSISResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.33"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PSISResponseCodes" id="2.16.840.1.113883.2.1.3.2.4.17.33"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PSNotificationMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.122"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="PSNotificationWithClaimMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.123"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="PaperMedicalRecordStatus"
+               id="2.16.840.1.113883.2.1.3.2.4.17.212"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="PaperRecordTransferFlag"
+               id="2.16.840.1.113883.2.1.3.2.4.17.167"
+               memberCount="29"/>
+   <vocabulary version="2.0" name="PaperRecordTransferFlag"
+               id="2.16.840.1.113883.2.1.3.2.4.17.167"
+               memberCount="46"/>
+   <vocabulary version="3.0" name="PaperRecordTransferFlag"
+               id="2.16.840.1.113883.2.1.3.2.4.17.167"
+               memberCount="48"/>
+   <vocabulary version="1.0" name="PaperRecordTransferPriority"
+               id="2.16.840.1.113883.2.1.3.2.4.17.190"
+               memberCount="2"/>
+   <vocabulary version="3.0" name="ParentPrescriptionMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.119"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ParticipationFunction" id="2.16.840.1.113883.5.88"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="ParticipationMode" id="2.16.840.1.113883.5.1064"
+               memberCount="13"/>
+   <vocabulary version="2.0" name="ParticipationType"
+               id="2.16.840.1.113883.2.1.3.2.1.5.90.11.1"
+               memberCount="48"/>
+   <vocabulary version="1.0" name="PathologyConfidentiality"
+               id="2.16.840.1.113883.2.1.3.2.4.17.249"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PathologyResponseCodes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.250"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PatientAdministrativeCategory"
+               id="2.16.840.1.113883.2.1.3.2.4.16.43"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="PatientCareProvisionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.37"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="PatientInformedOfDischargeDate"
+               id="2.16.840.1.113883.2.1.3.2.4.17.518"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PatientLivesAlone" id="2.16.840.1.113883.2.1.3.2.4.17.523"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PatientLivesAloneSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PatientSource" id="2.16.840.1.113883.2.1.3.2.4.16.56"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PatientSource" id="2.16.840.1.113883.2.1.3.2.4.16.56"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PermissionToViewOutcome"
+               id="2.16.840.1.113883.2.1.3.2.4.17.524"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="PersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.15"
+               memberCount="23"/>
+   <vocabulary version="4.0" name="PersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.15"
+               memberCount="25"/>
+   <vocabulary version="5.0" name="PersonRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.15"
+               memberCount="25"/>
+   <vocabulary version="1.0" name="PersonRelationshipTypeQualified"
+               id="2.16.840.1.113883.2.1.3.2.4.17.492"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PersonalPreferenceSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PersonalRelationshipRoleType"
+               id="2.16.840.1.113883.1.11.19563"
+               memberCount="67"/>
+   <vocabulary version="1.0" name="PhysicalWellBeingSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PlaceEntityType" id="2.16.840.1.113883.1.11.16100"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="PointToPointResponseCodes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.227"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PointToPointResponseCodes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.227"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="PointToPointResponseCodes"
+               id="2.16.840.1.113883.2.1.3.2.4.17.227"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="PreferredContactMethod"
+               id="2.16.840.1.113883.2.1.3.2.4.16.16"
+               memberCount="8"/>
+   <vocabulary version="2.0" name="PreferredWrittenCommunicationFormat"
+               id="2.16.840.1.113883.2.1.3.2.4.16.17"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="PrescriberEndorsement"
+               id="2.16.840.1.113883.2.1.3.2.4.16.32"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="PrescriberEndorsement"
+               id="2.16.840.1.113883.2.1.3.2.4.16.32"
+               memberCount="3"/>
+   <vocabulary version="3.0" name="PrescriberRoleType" id="2.16.840.1.113883.2.1.3.2.4.17.24"
+               memberCount="17"/>
+   <vocabulary version="11.0" name="PrescriptionAnnotation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.30"
+               memberCount="46"/>
+   <vocabulary version="12.0" name="PrescriptionAnnotation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.30"
+               memberCount="48"/>
+   <vocabulary version="13.0" name="PrescriptionAnnotation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.30"
+               memberCount="49"/>
+   <vocabulary version="2.0" name="PrescriptionChargeExemption"
+               id="2.16.840.1.113883.2.1.3.2.4.16.33"
+               memberCount="15"/>
+   <vocabulary version="3.0" name="PrescriptionChargeExemption"
+               id="2.16.840.1.113883.2.1.3.2.4.16.33"
+               memberCount="16"/>
+   <vocabulary version="1.0" name="PrescriptionReleaseRejectionReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.34"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="PrescriptionReleaseRejectionReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.34"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="PrescriptionReleaseRejectionReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.34"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="PrescriptionResponseMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.120"
+               memberCount="4"/>
+   <vocabulary version="3.0" name="PrescriptionStatus" id="2.16.840.1.113883.2.1.3.2.4.16.35"
+               memberCount="7"/>
+   <vocabulary version="3.0" name="PrescriptionTreatmentType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.36"
+               memberCount="3"/>
+   <vocabulary version="4.0" name="PrescriptionTreatmentType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.36"
+               memberCount="5"/>
+   <vocabulary version="4.0" name="PrescriptionType" id="2.16.840.1.113883.2.1.3.2.4.17.25"
+               memberCount="8"/>
+   <vocabulary version="5.0" name="PrescriptionType" id="2.16.840.1.113883.2.1.3.2.4.17.25"
+               memberCount="50"/>
+   <vocabulary version="6.0" name="PrescriptionType" id="2.16.840.1.113883.2.1.3.2.4.17.25"
+               memberCount="50"/>
+   <vocabulary version="7.0" name="PrescriptionType" id="2.16.840.1.113883.2.1.3.2.4.17.25"
+               memberCount="50"/>
+   <vocabulary version="1.0" name="PrescriptionWithdrawReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.110"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="PrescriptionWithdrawType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.109"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="PresentingComplaintSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="PreviousNhsContact" id="2.16.840.1.113883.2.1.3.2.4.17.38"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="PriorityAfterAssessment"
+               id="2.16.840.1.113883.2.1.3.2.4.17.311"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="PriorityType" id="2.16.840.1.113883.2.1.3.2.4.17.95"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="ProcedureCode" id="2.16.840.1.113883.2.1.3.2.4.19.10"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ProcedureTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="ProcessingID" id="2.16.840.1.113883.11.103" memberCount="3"/>
+   <vocabulary version="2.0" name="ProcessingMode" id="2.16.840.1.113883.11.207"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="PrognosisAwarenessSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ProtectionRegisterCategory"
+               id="2.16.840.1.113883.2.1.3.2.4.17.236"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="ProtectionRegisterSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ProtocolCondition" id="2.16.840.1.113883.2.1.3.2.4.17.31"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="PulseSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="QualificationOfDetectedIssue"
+               id="2.16.840.1.113883.2.1.3.2.4.17.901"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="QueryActType" id="2.16.840.1.113883.2.1.3.2.4.17.177"
+               memberCount="13"/>
+   <vocabulary version="5.0" name="QueryResponse" id="2.16.840.1.113883.2.1.3.2.1.5.101.11.1"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="RangeCriterionSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ReadCodes4Byte" id="2.16.840.1.113883.2.1.6.1"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ReadCodesVersion2" id="2.16.840.1.113883.2.1.6.2"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ReadingSiteSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="ReadingSiteSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ReasonFor" id="2.16.840.1.113883.2.1.3.2.4.17.107"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="ReasonForAdmissionSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ReasonForApptCancel" id="2.16.840.1.113883.2.1.3.2.4.16.18"
+               memberCount="12"/>
+   <vocabulary version="3.0" name="ReasonForApptCancel" id="2.16.840.1.113883.2.1.3.2.4.16.18"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="ReasonForDna" id="2.16.840.1.113883.2.1.3.2.4.16.19"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ReasonForDocumentNullification"
+               id="2.16.840.1.113883.2.1.3.2.4.17.176"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="ReasonForDocumentNullification"
+               id="2.16.840.1.113883.2.1.3.2.4.17.176"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ReasonQualifier" id="2.16.840.1.113883.2.1.3.2.4.17.155"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RecipientNonClinicalPersonType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.510"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="RecordTransferType" id="2.16.840.1.113883.2.1.3.2.4.17.204"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="ReferenceURLType" id="2.16.840.1.113883.2.1.3.2.4.17.336"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="ReferralCategoryHeading"
+               id="2.16.840.1.113883.2.1.3.2.4.17.96"
+               memberCount="17"/>
+   <vocabulary version="2.0" name="ReferralCategoryHeading"
+               id="2.16.840.1.113883.2.1.3.2.4.17.96"
+               memberCount="17"/>
+   <vocabulary version="1.0" name="ReferralRejectCode" id="2.16.840.1.113883.2.1.3.2.4.17.424"
+               memberCount="4"/>
+   <vocabulary version="3.0" name="RegisteringAuthorityType"
+               id="2.16.840.1.113883.2.1.3.2.4.16.20"
+               memberCount="25"/>
+   <vocabulary version="1.0" name="RegistrationReason" id="2.16.840.1.113883.2.1.3.2.4.17.166"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="RegistrationReason" id="2.16.840.1.113883.2.1.3.2.4.17.166"
+               memberCount="8"/>
+   <vocabulary version="3.0" name="RegistrationReason" id="2.16.840.1.113883.2.1.3.2.4.17.166"
+               memberCount="8"/>
+   <vocabulary version="4.0" name="RegistrationReason" id="2.16.840.1.113883.2.1.3.2.4.17.166"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="ReimbursementApplicabilityCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.269"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ReimbursementRejectionReason"
+               id="2.16.840.1.113883.2.1.3.2.4.16.37"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RejectionReason" id="2.16.840.1.113883.2.1.3.2.4.17.97"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="RelationshipReason" id="2.16.840.1.113883.2.1.3.2.4.17.150"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="RelationshipTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RelevantHistorySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ReligiousAffiliation"
+               id="2.16.840.1.113883.2.1.3.2.4.16.21"
+               memberCount="62"/>
+   <vocabulary version="1.0" name="ReligiousAffiliationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ReligiousAffiliationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RemoteMonitoringSettingSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="11"/>
+   <vocabulary version="2.0" name="RemoteMonitoringSettingSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="11"/>
+   <vocabulary version="1.0" name="RequestMedicationSupplyAbortSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="RequestStatus" id="2.16.840.1.113883.2.1.3.2.4.17.136"
+               memberCount="18"/>
+   <vocabulary version="2.0" name="RequestStatus" id="2.16.840.1.113883.2.1.3.2.4.17.136"
+               memberCount="18"/>
+   <vocabulary version="1.0" name="RequestType" id="2.16.840.1.113883.2.1.3.2.4.17.152"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="RequestType" id="2.16.840.1.113883.2.1.3.2.4.17.152"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RequesterRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.162"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="RequesterRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.162"
+               memberCount="6"/>
+   <vocabulary version="3.0" name="RequesterRelationshipType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.162"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="ResidentialStatusType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.216"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ResponderPriority" id="2.16.840.1.113883.2.1.3.2.4.17.495"
+               memberCount="15"/>
+   <vocabulary version="1.0" name="ResuscitationStatusSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="RiskRegisterEntry" id="2.16.840.1.113883.2.1.3.2.4.17.235"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="RiskToPersonSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RoleClass" id="2.16.840.1.113883.5.110" memberCount="46"/>
+   <vocabulary version="1.0" name="RoleClassAssociative" id="2.16.840.1.113883.1.11.19313"
+               memberCount="46"/>
+   <vocabulary version="1.0" name="RoleCode" id="2.16.840.1.113883.5.111" memberCount="211"/>
+   <vocabulary version="2.0" name="RoleCode" id="2.16.840.1.113883.5.111" memberCount="211"/>
+   <vocabulary version="1.0" name="RoleStatus" id="2.16.840.1.113883.5.1068" memberCount="7"/>
+   <vocabulary version="1.0" name="RouteOfAdministration"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.51"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RouteOfAdministrationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="RxEventQueryOrganizationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.128"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="SCDScreeningResult" id="2.16.840.1.113883.2.1.3.2.4.17.462"
+               memberCount="9"/>
+   <vocabulary version="2.0" name="SCDScreeningResult" id="2.16.840.1.113883.2.1.3.2.4.17.462"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="SCRMiniServiceConsent"
+               id="2.16.840.1.113883.2.1.3.2.4.17.502"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="SCRMiniServiceMessageType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.503"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="SCRMiniServiceObservationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.504"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="SCRMiniServiceQueryActivityType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.505"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="SCRMiniServiceResponse"
+               id="2.16.840.1.113883.2.1.3.2.4.17.506"
+               memberCount="10"/>
+   <vocabulary version="4.0" name="SCReasonCode" id="2.16.840.1.113883.2.1.3.2.4.16.22"
+               memberCount="15"/>
+   <vocabulary version="1.0" name="SDSJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.196"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SDSJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.196"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="SDSJobRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.196"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SDSObservationType" id="2.16.840.1.113883.2.1.3.2.4.17.131"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="SDSRegistrationType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.130"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="SDSSpecialty" id="2.16.840.1.113883.2.1.3.2.4.17.511"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SafeToDischargeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.271"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="SafeToDischargeCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.271"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="ScaleTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SealEventActionCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.197"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="SealingActType" id="2.16.840.1.113883.2.1.3.2.4.17.161"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="SealingActType" id="2.16.840.1.113883.2.1.3.2.4.17.161"
+               memberCount="7"/>
+   <vocabulary version="3.0" name="SealingActType" id="2.16.840.1.113883.2.1.3.2.4.17.161"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="SealingRefusalReason"
+               id="2.16.840.1.113883.2.1.3.2.4.17.160"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="SealingStatus" id="2.16.840.1.113883.2.1.3.2.4.17.158"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="SealingStatus" id="2.16.840.1.113883.2.1.3.2.4.17.158"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="SearchParameter" id="2.16.840.1.113883.2.1.3.2.4.17.39"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="Section117EligOptionsSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SectionTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SecurityAbuseDiscriminationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="ServiceClinicType" id="2.16.840.1.113883.2.1.3.2.4.17.138"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ServiceEventType" id="2.16.840.1.113883.2.1.3.2.4.17.265"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="ServiceEventType" id="2.16.840.1.113883.2.1.3.2.4.17.265"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="ServiceSpecialty" id="2.16.840.1.113883.2.1.3.2.4.17.139"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="ServiceTypeRequested"
+               id="2.16.840.1.113883.2.1.3.2.4.16.24"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="ServiceUserAwareOfReferralType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.489"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="ServicesSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="Sex" id="2.16.840.1.113883.2.1.3.2.4.16.25" memberCount="4"/>
+   <vocabulary version="3.0" name="SmokingSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SnomedCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SnomedCT-Administration"
+               id="2.16.840.1.113883.2.1.3.2.4.15.11.54"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="SnomedCT-Supply" id="2.16.840.1.113883.2.1.3.2.4.15.11.55"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SocialCareAssessmentCompleted"
+               id="2.16.840.1.113883.2.1.3.2.4.17.519"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="SocialOrPersonalCircumstanceSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SoftwareName" id="2.16.840.1.113883.2.1.3.2.4.17.333"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SourceOfAdmission" id="2.16.840.1.113883.2.1.3.2.4.17.509"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="Specialty" id="2.16.840.1.113883.2.1.3.2.4.17.156"
+               memberCount="0"/>
+   <vocabulary version="3.0" name="Specialty" id="2.16.840.1.113883.2.1.3.2.4.17.156"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SpecimenMaterialTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SpecimenTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="StatusDisplayValue" id="2.16.840.1.113883.2.1.3.2.4.17.134"
+               memberCount="9"/>
+   <vocabulary version="2.0" name="StatusDisplayValue" id="2.16.840.1.113883.2.1.3.2.4.17.134"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="StatusMeaning" id="2.16.840.1.113883.2.1.3.2.4.17.135"
+               memberCount="6"/>
+   <vocabulary version="2.0" name="StatusMeaning" id="2.16.840.1.113883.2.1.3.2.4.17.135"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="StillbornType" id="2.16.840.1.113883.2.1.3.2.4.17.172"
+               memberCount="5"/>
+   <vocabulary version="2.0" name="StillbornType" id="2.16.840.1.113883.2.1.3.2.4.17.172"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="SubscribeOrUnsubscribeType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.497"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="SubscriptionDataSetType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.498"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="Substance" id="2.16.840.1.113883.2.1.3.2.4.19.9"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SubstanceAdministrationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="SubstanceMisuseSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SummaryTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SuperSpecialty" id="2.16.840.1.113883.2.1.3.2.4.17.137"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SupplyActSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="2.0" name="SupplyRequestSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="2.0" name="SupplySnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="SuspectedConfusionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.246"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="SuspectedCongenitalAbnormalityType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.171"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="SuspectedCongenitalAbnormalityType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.171"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="SuspectedDuplicateType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.245"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="SystemFlagType" id="2.16.840.1.113883.2.1.3.2.4.17.327"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="SystemRoleType" id="2.16.840.1.113883.2.1.3.2.4.17.205"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="SystemRoleType" id="2.16.840.1.113883.2.1.3.2.4.17.205"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="TargetAwareness" id="2.16.840.1.113883.5.137"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="TargetAwarenessSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TelecareServicePriority"
+               id="2.16.840.1.113883.2.1.3.2.4.17.485"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TelehealthAlertClinicalInterpretation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.476"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="TelehealthAlertPriority"
+               id="2.16.840.1.113883.2.1.3.2.4.17.477"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="TelehealthAlertReasonSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TelehealthAlertType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.480"
+               memberCount="47"/>
+   <vocabulary version="1.0" name="TelehealthBodyWeightSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="TelehealthDeviceTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="9"/>
+   <vocabulary version="1.0" name="TelehealthDispositionSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="4"/>
+   <vocabulary version="2.0" name="TelehealthDispositionSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="TelehealthDocumentTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="TelehealthDocumentTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="TelehealthPatientRelatedAlertType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.479"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="TelehealthServicePriority"
+               id="2.16.840.1.113883.2.1.3.2.4.17.483"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TelehealthThresholdAlertType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.481"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="TelehealthVitalSignsMonitoringSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="TelehealthcareServiceOrderRequestDocumentTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TelehealthcareServicePriority"
+               id="2.16.840.1.113883.2.1.3.2.4.17.491"
+               memberCount="10"/>
+   <vocabulary version="2.0" name="TemperatureObservationTypeSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TemperatureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="8"/>
+   <vocabulary version="2.0" name="TemperatureSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="8"/>
+   <vocabulary version="1.0" name="TestesExaminationResult"
+               id="2.16.840.1.113883.2.1.3.2.4.17.449"
+               memberCount="7"/>
+   <vocabulary version="1.0" name="TextHeadingType" id="2.16.840.1.113883.2.1.3.2.4.17.225"
+               memberCount="2"/>
+   <vocabulary version="2.0" name="TextHeadingType" id="2.16.840.1.113883.2.1.3.2.4.17.225"
+               memberCount="8"/>
+   <vocabulary version="2.0" name="TextType" id="2.16.840.1.113883.2.1.3.2.4.17.126"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="TherapiesReportCompleted"
+               id="2.16.840.1.113883.2.1.3.2.4.17.517"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="TherapiesReportSentToSocialCare"
+               id="2.16.840.1.113883.2.1.3.2.4.17.520"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ThresholdInterpretation"
+               id="2.16.840.1.113883.2.1.3.2.4.17.432"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="ThresholdSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TransportNeed" id="2.16.840.1.113883.2.1.3.2.4.16.38"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="TreatmentCategoryType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.208"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="TreatmentEntitlementType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.210"
+               memberCount="3"/>
+   <vocabulary version="2.0" name="TreatmentTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="TriageDispositionType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.419"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="TriageOutcomeType" id="2.16.840.1.113883.2.1.3.2.4.17.328"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="TypeDisplayValue" id="2.16.840.1.113883.2.1.3.2.4.17.146"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="UkInternalCode" id="2.16.840.1.113883.2.1.3.2.4.16.44"
+               memberCount="7"/>
+   <vocabulary version="2.0" name="UkInternalCode" id="2.16.840.1.113883.2.1.3.2.4.16.44"
+               memberCount="8"/>
+   <vocabulary version="3.0" name="UkInternalCode" id="2.16.840.1.113883.2.1.3.2.4.16.44"
+               memberCount="8"/>
+   <vocabulary version="4.0" name="UpdateType" id="2.16.840.1.113883.2.1.3.2.4.17.40"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="VPIUpdateReason" id="2.16.840.1.113883.2.1.3.2.4.17.215"
+               memberCount="10"/>
+   <vocabulary version="1.0" name="ViolenceClassification"
+               id="2.16.840.1.113883.2.1.3.2.4.17.214"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="VitalSignTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WalkInEncounterType"
+               id="2.16.840.1.113883.2.1.3.2.4.17.291"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WaveformImageType" id="2.16.840.1.113883.2.1.3.2.4.17.431"
+               memberCount="1"/>
+   <vocabulary version="1.0" name="WaveformObservationSnCT"
+               id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WaveformTypeSnCT" id="2.16.840.1.113883.2.1.3.2.4.15"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WithdrawalNoticeReasonCode"
+               id="2.16.840.1.113883.2.1.3.2.4.17.522"
+               memberCount="14"/>
+   <vocabulary version="1.0" name="WithdrawalReason" id="2.16.840.1.113883.2.1.3.2.4.17.143"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="WorkgroupAttribute" id="2.16.840.1.113883.2.1.3.2.4.17.182"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="WorkgroupRoleName" id="2.16.840.1.113883.2.1.3.2.4.17.266"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WorkgroupRoleNameQualified"
+               id="2.16.840.1.113883.2.1.3.2.4.17.494"
+               memberCount="0"/>
+   <vocabulary version="1.0" name="WorkgroupStatus" id="2.16.840.1.113883.2.1.3.2.4.17.184"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="WorkgroupType" id="2.16.840.1.113883.2.1.3.2.4.17.181"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="x_ActRelationshipDocument"
+               id="2.16.840.1.113883.1.11.11610"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="x_BasicConfidentialityKind"
+               id="2.16.840.1.113883.1.11.16926"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="x_ClinicalStatement"
+               id="2.16.840.1.113883.2.1.3.2.1.5.6.11.1"
+               memberCount="6"/>
+   <vocabulary version="1.0" name="x_CompoundStatement"
+               id="2.16.840.1.113883.2.1.3.2.1.5.6.11.2"
+               memberCount="4"/>
+   <vocabulary version="1.0" name="x_DocumentSubject" id="2.16.840.1.113883.1.11.19368"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="x_DosageMood" id="2.16.840.1.113883.2.1.3.2.1.5.1001.11.1"
+               memberCount="2"/>
+   <vocabulary version="1.0" name="x_EncounterParticipant" id="2.16.840.1.113883.1.11.19600"
+               memberCount="5"/>
+   <vocabulary version="1.0" name="x_MedicationMood"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1001.11.2"
+               memberCount="4"/>
+   <vocabulary version="4.0" name="x_RelAgentType" id="2.16.840.1.113883.2.1.3.2.1.5.90.11.2"
+               memberCount="12"/>
+   <vocabulary version="1.0" name="x_RelatedPerson"
+               id="2.16.840.1.113883.2.1.3.2.1.5.110.11.1"
+               memberCount="3"/>
+   <vocabulary version="1.0" name="x_StatementMood"
+               id="2.16.840.1.113883.2.1.3.2.1.5.1001.11.3"
+               memberCount="4"/>
+</vocabularyIndex>

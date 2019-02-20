@@ -6,20 +6,22 @@ import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
-import org.apache.commons.io.IOUtils;
 import org.hl7.fhir.dstu3.model.CodeSystem;
 import org.hl7.fhir.dstu3.model.ValueSet;
 import org.hl7.fhir.dstu3.model.Bundle;
 import org.hl7.fhir.instance.model.api.IIdType;
+import uk.gov.hscic.schema.VocabularyIndex;
 import uk.nhs.careconnect.itksrp.Vocabulary;
 import uk.nhs.careconnect.itksrp.VocabularyToFHIRCodeSystem;
 import uk.nhs.careconnect.itksrp.VocabularyToFHIRValueSet;
+
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+
 
 import static org.apache.commons.lang3.StringUtils.isBlank;
 import static org.apache.commons.lang3.StringUtils.isNotBlank;
@@ -35,6 +37,8 @@ public class ITKSRPDataUploader extends BaseCommand {
     private FhirContext ctx;
 
 	IGenericClient client;
+
+	VocabularyIndex vi;
 
 	@Override
 	public String getCommandDescription() {
@@ -87,9 +91,12 @@ public class ITKSRPDataUploader extends BaseCommand {
 		}
 		client = ctx.newRestfulGenericClient(targetServer);
 
-		loadFolder("itk/v2");
-		loadFolder("itk/v3");
-		loadFolder("itk/sct");
+		vi = loadIndex("itk/","HL7v2.xml");
+		if (vi != null) loadFolder("itk/v2");
+      	vi = loadIndex("itk","HL7v3.xml");
+		if (vi != null) loadFolder("itk/v3");
+		vi = loadIndex("itk","SNOMED.xml");
+		if (vi != null) loadFolder("itk/sct");
 
 
 
@@ -124,7 +131,27 @@ public class ITKSRPDataUploader extends BaseCommand {
 		return Thread.currentThread().getContextClassLoader();
 	}
 
+
+	public VocabularyIndex loadIndex(String folder, String filename) throws Exception {
+
+        VocabularyIndex vocab = null;
+
+        InputStream inputStream =
+                Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
+        Reader reader = new InputStreamReader(inputStream);
+
+
+		JAXBContext jcvocab = JAXBContext.newInstance(VocabularyIndex.class);
+		Unmarshaller unmarshallerVocab = jcvocab.createUnmarshaller();
+		vocab = (VocabularyIndex) unmarshallerVocab.unmarshal(inputStream);
+		System.out.println("Index = "+vocab.getVocabularyName());
+
+        System.out.println();
+		return vocab;
+    }
+
 	public void loadFile(String folder, String filename) {
+        System.out.println(folder + "/" +filename);
 		InputStream inputStream =
 				Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
 		Reader reader = new InputStreamReader(inputStream);
@@ -140,6 +167,8 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 			String name = vocab.getName();
 
+
+
 			System.out.println(vocab.getName()+ " Version: "+vocab.getVersion());
 
 			if ((vocab.getStatus().contains("active") || vocab.getStatus().contains("Active") || vocab.getStatus().contains("created")  )
@@ -150,7 +179,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 				CodeSystem codeSystem = null;
 				// Don't process SNOMED
 				if (!folder.contains("sct") && !vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15")) {
-					codeSystem = converter.process(vocab,folder);
+					codeSystem = converter.process(vocab,vi,folder);
 
 					Bundle results = client.search().forResource(CodeSystem.class).where(CodeSystem.URL.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
 					if (results.getEntry().size()>0) {
@@ -165,7 +194,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 				}
 
-				ValueSet valueSet = convertVs.process(vocab,folder, codeSystem);
+				ValueSet valueSet = convertVs.process(vocab,vi,folder, codeSystem);
 
 				if (valueSet != null) {
 					Bundle results = client.search().forResource(ValueSet.class).where(ValueSet.URL.matches().value(valueSet.getUrl())).returnBundle(Bundle.class).execute();
@@ -185,6 +214,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 				System.out.println("NOT Processed. Status: "+vocab.getStatus());
 			}
 		} catch (Exception ex) {
+			System.out.println("ERROR");
 			System.out.println(ex.getMessage());
 		}
 
