@@ -97,7 +97,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 		if (vi != null) loadFolder("itk/v2");
       	vi = loadIndex("itk","HL7v3.xml");
 		if (vi != null) loadFolder("itk/v3");
-		vi = loadIndex("itk","SNOMED.xml");
+		vi = loadIndex("itk","SNOMEDCT.xml");
 		if (vi != null) loadFolder("itk/sct");
 
 
