@@ -7,12 +7,14 @@ import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 import org.hl7.fhir.dstu3.model.CodeSystem;
+import org.hl7.fhir.dstu3.model.NamingSystem;
 import org.hl7.fhir.dstu3.model.ValueSet;
 import org.hl7.fhir.dstu3.model.Bundle;
 import org.hl7.fhir.instance.model.api.IIdType;
 import uk.gov.hscic.schema.VocabularyIndex;
 import uk.nhs.careconnect.itksrp.Vocabulary;
 import uk.nhs.careconnect.itksrp.VocabularyToFHIRCodeSystem;
+import uk.nhs.careconnect.itksrp.VocabularyToFHIRNamingSystem;
 import uk.nhs.careconnect.itksrp.VocabularyToFHIRValueSet;
 
 
@@ -157,6 +159,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 		Reader reader = new InputStreamReader(inputStream);
 		VocabularyToFHIRCodeSystem converter = new VocabularyToFHIRCodeSystem(ctx);
 		VocabularyToFHIRValueSet convertVs = new VocabularyToFHIRValueSet(ctx);
+		VocabularyToFHIRNamingSystem ns = new VocabularyToFHIRNamingSystem(ctx);
 
 		try {
 
@@ -186,10 +189,24 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
 						codeSystem.setId(entry.getResource().getId());
-						//System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(codeSystem));
+
 						client.update().resource(codeSystem).withId(entry.getResource().getId()).execute();
 					} else {
 						client.create().resource(codeSystem).execute();
+					}
+
+					NamingSystem namingSystem = ns.process(vocab,vi,folder,codeSystem);
+
+					// System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(namingSystem));
+					results = client.search().forResource(NamingSystem.class).where(NamingSystem.VALUE.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
+					if (results.getEntry().size()>0) {
+
+						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
+						namingSystem.setId(entry.getResource().getId());
+
+						client.update().resource(namingSystem).withId(entry.getResource().getId()).execute();
+					} else {
+						client.create().resource(namingSystem).execute();
 					}
 
 				}
