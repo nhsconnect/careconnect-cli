@@ -28,13 +28,13 @@ import static org.fusesource.jansi.Ansi.ansi;
  */
 @SpringBootApplication
 @PropertySource("classpath:application.properties")
-public class DataloadApp {
+public class CliApp {
 
 
 
     private static List<BaseCommand> ourCommands;
 
-    private static final org.slf4j.Logger ourLog = LoggerFactory.getLogger(DataloadApp.class);
+    private static final org.slf4j.Logger ourLog = LoggerFactory.getLogger(CliApp.class);
 
     static {
         ourCommands = new ArrayList<BaseCommand>();
@@ -46,7 +46,8 @@ public class DataloadApp {
             ourCommands.add(new ITKSRPDataUploader());
             ourCommands.add(new GitDownloader());
             ourCommands.add(new UploadExamples());
-            ourCommands.add(new CodeSystemImport());
+            ourCommands.add(new LoadSamples());
+          //  ourCommands.add(new CodeSystemImport());
 
         // disabled due to performance issues   ourCommands.add(new UploadTerminologyCommand());
 
@@ -79,7 +80,7 @@ public class DataloadApp {
             JoranConfigurator configurator = new JoranConfigurator();
             configurator.setContext((LoggerContext) LoggerFactory.getILoggerFactory());
             ((LoggerContext) LoggerFactory.getILoggerFactory()).reset();
-            configurator.doConfigure(DataloadApp.class.getResourceAsStream("/logback-cli-off.xml"));
+            configurator.doConfigure(CliApp.class.getResourceAsStream("/logback-cli-off.xml"));
         } catch (JoranException e) {
             e.printStackTrace();
         }
@@ -90,7 +91,7 @@ public class DataloadApp {
             JoranConfigurator configurator = new JoranConfigurator();
             configurator.setContext((LoggerContext) LoggerFactory.getILoggerFactory());
             ((LoggerContext) LoggerFactory.getILoggerFactory()).reset();
-            configurator.doConfigure(DataloadApp.class.getResourceAsStream("/logback-cli-on.xml"));
+            configurator.doConfigure(CliApp.class.getResourceAsStream("/logback-cli-on.xml"));
         } catch (JoranException e) {
             e.printStackTrace();
         }
