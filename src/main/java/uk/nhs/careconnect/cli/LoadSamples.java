@@ -117,6 +117,17 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         opt.setRequired(false);
         options.addOption(opt);
 
+        opt = new Option("r", "reference", false, "Load reference files");
+        opt.setRequired(false);
+        options.addOption(opt);
+
+        opt = new Option("d", "docs", false, "Load documents");
+        opt.setRequired(false);
+        options.addOption(opt);
+
+        opt = new Option("e", "epr", false, "Load clinical data");
+        opt.setRequired(false);
+        options.addOption(opt);
 
         return options;
 	}
@@ -164,9 +175,16 @@ http://127.0.0.1:8080/careconnect-ri/STU3
                 return;
             } else {
                 try {
-                  //  loadFolder("FHIRResources/epr");
-                    // loadFolder("FHIRResources/docs");
-                    loadFolder("FHIRResources/reference");
+
+                    if (theCommandLine.hasOption("a") || theCommandLine.hasOption("e")) {
+                       loadFolder("FHIRResources/epr");
+                    }
+                    if (theCommandLine.hasOption("a") || theCommandLine.hasOption("d")) {
+                        // loadFolder("FHIRResources/docs");
+                    }
+                    if (theCommandLine.hasOption("a") || theCommandLine.hasOption("r")) {
+                        loadFolder("FHIRResources/reference");
+                    }
                 } catch(Exception ex) {
                     System.out.println(ex.getMessage());
                 }
