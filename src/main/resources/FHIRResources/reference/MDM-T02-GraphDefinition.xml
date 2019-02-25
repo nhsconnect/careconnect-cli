@@ -1,5 +1,5 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
-    <url value="https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-MessageDefinition-1"/>
+    <url value="https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-1"/>
     <name value="FHIR MDM-T02 Graph Definition"/>
     <status value="draft"/>
     <date value="2015-08-04T00:00:00+00:00"/>
