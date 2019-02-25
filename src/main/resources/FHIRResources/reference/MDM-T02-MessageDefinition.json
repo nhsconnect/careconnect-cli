@@ -27,7 +27,7 @@
             "profile": {
                 "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"
             },
-            "min": "0",
+            "min": "1",
             "max": "1"
 
         },
@@ -37,7 +37,7 @@
                 "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"
             },
             "min": "0",
-            "max": "*"
+            "max": "1"
         },
         {
             "code": "Patient",
@@ -45,7 +45,7 @@
                 "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
             },
             "min": "1",
-            "max": "1"
+            "max": "*"
         },
         {
             "code": "DocumentReference",
@@ -53,7 +53,7 @@
                 "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-DocumentReference-1"
             },
             "min": "1",
-            "max": "1"
+            "max": "*"
         },
         {
             "code": "Binary",

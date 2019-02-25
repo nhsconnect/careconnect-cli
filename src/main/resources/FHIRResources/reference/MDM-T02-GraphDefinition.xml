@@ -20,32 +20,23 @@
         <target>
             <type value="MessageHeader"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="FHIR Document but this also could be payload"/>
+        <target>
+            <type value="Encounter"/>
             <link>
-                <path value="MessageHeader.receiver.reference"/>
-                <min value="0"/>
+                <path value="Encounter.subject"/>
+                <min value="1"/>
                 <max value="1"/>
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
-                    <type value="Practitioner"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Practitioner-1"/>
-                </target>
-                <target>
-                    <type value="Organization"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
-                </target>
-            </link>
-            <link>
-                <path value="MessageHeader.sender.reference"/>
-                <min value="1"/>
-                <max value="1"/>
-                <description value="Real world sender of the message"/>
-                <target>
-                    <type value="Practitioner"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Practitioner-1"/>
-                </target>
-                <target>
-                    <type value="Organization"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
+                    <type value="Patient"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
                 </target>
             </link>
         </target>
@@ -54,29 +45,55 @@
         <path value="Bundle.entry.resource"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="FHIR Document but this also could be payload"/>
+        <description value="Patient"/>
         <target>
-            <type value="Bundle"/>
+            <type value="Patient"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="1"/>
+        <max value="*"/>
+        <description value="Document Reference"/>
+        <target>
+            <type value="DocumentReference"/>
             <link>
-                <path value="Bundle.entry.resource"/>
+                <path value="DocumentReference.subject"/>
                 <min value="1"/>
                 <max value="1"/>
-                <description value="FHIR Document but this also could be payload"/>
+                <description value="Intended 'real-world' recipient for the data"/>
                 <target>
-                    <type value="Composition"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-EDIS-Composition-1"/>
-                    <link>
-                        <path value="Composition.subject"/>
-                        <min value="1"/>
-                        <max value="1"/>
-                        <description value="Intended 'real-world' recipient for the data"/>
-                        <target>
-                            <type value="Patient"/>
-                            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
-                        </target>
-                    </link>
+                    <type value="Patient"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
                 </target>
             </link>
+            <link>
+                <path value="DocumentReference.content.attachment.url"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Intended 'real-world' recipient for the data"/>
+                <target>
+                    <type value="Binary"/>
+                </target>
+            </link>
+            <link>
+                <path value="DocumentReference.context.encounter"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="dummy"/>
+                <target>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="1"/>
+        <max value="*"/>
+        <description value="Binary"/>
+        <target>
+            <type value="Binary"/>
         </target>
     </link>
 </GraphDefinition>
