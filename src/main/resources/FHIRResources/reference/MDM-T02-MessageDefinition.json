@@ -1,5 +1,13 @@
 {
     "resourceType": "MessageDefinition",
+    "extension": [
+        {
+            "url": "http://hl7.org/fhir/4.0/StructureDefinition/extension-MessageDefinition.graph",
+            "valueReference": {
+                "reference": "https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-MessageDefinition-1"
+            }
+        }
+    ],
     "url": "https://fhir.airelogic.com/MessageDefinition/OriginalDocumentmentNotifiationAndContent-MessageDefinition-1",
     "version": "1.0.0",
     "name": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",

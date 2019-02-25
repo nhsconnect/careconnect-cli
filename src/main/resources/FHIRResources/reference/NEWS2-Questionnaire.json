@@ -1,0 +1,185 @@
+{
+  "resourceType": "Questionnaire",
+  "url": "https://fhir.airelogic.com/STU3/Questionnaire/NEWS2",
+  "meta": {
+    "lastUpdated": "2019-02-17T12:26:49.948+00:00"
+  },
+  "identifier": [
+    {
+      "system": "https://fhir.airelogic.com/STU3/Questionnaire",
+      "value": "NEWS2"
+    }
+  ],
+  "name": "NEWS2",
+  "title": "NEWS2",
+  "status": "draft",
+  "description": "National Early Warning Score (NEWS)2",
+  "purpose": "https://developer.nhs.uk/apis/news2-1.0.0-alpha.1/",
+  "subjectType": [
+    "Patient"
+  ],
+  "item": [
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Encounter"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"
+          }
+        }
+      ],
+      "linkId": "ENCOUNTER (PV1)",
+      "definition": "Encounter information for the measurements",
+      "text": "Encounter Information",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BloodPressure-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-1",
+      "definition": "A Vital Signs profile to carry blood pressure information that contains at least one component for systolic and/or diastolic pressure.",
+      "text": "BloodPressure",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BodyTemperature-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-2",
+      "definition": "The body temperature reading used to generate the NEWS2 score. ",
+      "text": "Body Temperature",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-ACVPU-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-3",
+      "definition": "This profile is used to carry alert, new-onset or worsening confusion, voice, pain, and unresponsiveness observations for a patient.",
+      "text": "ACVPU",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-HeartRate-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-4",
+      "definition": "The pulse rate reading used to generate the NEWS2 score.",
+      "text": "Hear Rate",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-InspiredOxygen-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-5",
+      "definition": "The inspired oxygen observation used to generate the NEWS2 score.",
+      "text": "Inspired Oxygen",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-OxygenSaturation-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-6",
+      "definition": "The oxygen saturation reading used to generate the NEWS2 score. ",
+      "text": "Saturated Oxygen",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-RespiratoryRate-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-7",
+      "definition": "The respiratory rate reading used to generate the NEWS2 score. ",
+      "text": "Respiratory Rate",
+      "type": "reference"
+    },
+    {
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource",
+          "valueCode": "Observation"
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile",
+          "valueReference": {
+            "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Subscore-Observation-1"
+          }
+        }
+      ],
+      "linkId": "NEWS2-SCORE",
+      "definition": "Used to hold the sub-scores of the observations that go to make up the overall NEWS2 score. ",
+      "text": "Sub Score",
+      "type": "reference"
+    }
+  ]
+}
