@@ -29,6 +29,7 @@
         <description value="FHIR Document but this also could be payload"/>
         <target>
             <type value="Encounter"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
             <link>
                 <path value="Encounter.subject"/>
                 <min value="1"/>
@@ -36,7 +37,6 @@
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
                     <type value="Patient"/>
-                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
                 </target>
             </link>
         </target>
@@ -48,6 +48,7 @@
         <description value="Patient"/>
         <target>
             <type value="Patient"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
         </target>
     </link>
     <link>
@@ -57,20 +58,16 @@
         <description value="Document Reference"/>
         <target>
             <type value="DocumentReference"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-DocumentReference-1"/>
             <link>
                 <path value="DocumentReference.subject"/>
-                <min value="1"/>
-                <max value="1"/>
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
                     <type value="Patient"/>
-                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
                 </target>
             </link>
             <link>
                 <path value="DocumentReference.content.attachment.url"/>
-                <min value="1"/>
-                <max value="1"/>
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
                     <type value="Binary"/>
@@ -78,8 +75,6 @@
             </link>
             <link>
                 <path value="DocumentReference.context.encounter"/>
-                <min value="0"/>
-                <max value="1"/>
                 <description value="dummy"/>
                 <target>
                     <type value="Encounter"/>
