@@ -1,9 +1,9 @@
 {
   "resourceType": "Questionnaire",
-  "url": "https://fhir.nhs.uk/STU3/Questionnaire/CareConnect-EOLC-1",
   "meta": {
-    "lastUpdated": "2019-02-16T15:37:12.835+00:00"
+    "lastUpdated": "2019-02-25T15:51:12.990+00:00"
   },
+  "url": "https://fhir.nhs.uk/STU3/Questionnaire/CareConnect-EOLC-1",
   "identifier": [
     {
       "system": "https://fhir.nhs.uk/STU3/Questionnaire",
@@ -231,29 +231,42 @@
           "linkId": "CPR001.6",
           "definition": "CPR Status [G8]",
           "text": "Persons involved in discussion",
-          "type": "choice",
+          "type": "group",
           "repeats": true,
-          "option": [
+          "item": [
             {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "873351000000102",
-                "display": "Discussion about resuscitation with carer (situation)"
-              }
+              "linkId": "CPR001.6.1",
+              "text": "Coded entry for people involved in the discussion",
+              "type": "choice",
+              "option": [
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "873351000000102",
+                    "display": "Discussion about resuscitation with carer (situation)"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "713656002",
+                    "display": "Discussion about cardiopulmonary resuscitation with family member (situation)"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "873341000000100",
+                    "display": "Discussion about resuscitation (procedure)"
+                  }
+                }
+              ]
             },
             {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "713656002",
-                "display": "Discussion about cardiopulmonary resuscitation with family member (situation)"
-              }
-            },
-            {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "873341000000100",
-                "display": "Discussion about resuscitation (procedure)"
-              }
+              "linkId": "CPR001.6.2",
+              "text": "Text entry for people involved in the discussionn",
+              "type": "string",
+              "required": true
             }
           ]
         },
@@ -261,29 +274,42 @@
           "linkId": "CPR001.7",
           "definition": "This group exists to specifically list those (who were not in the discussion) that have subsequently been made aware of the decision.",
           "text": "Persons or organisations made aware of the decision",
-          "type": "choice",
+          "type": "group",
           "repeats": true,
-          "option": [
+          "item": [
             {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "975291000000108",
-                "display": "Family member informed of cardiopulmonary resuscitation clinical decision (situation)"
-              }
+              "linkId": "CPR001.7.1",
+              "text": "Coded entry for people aware of the decision",
+              "type": "choice",
+              "option": [
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "845151000000104",
+                    "display": "Not aware of do not attempt cardiopulmonary resuscitation clinical decision (finding)"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "975311000000109",
+                    "display": "Carer informed of cardiopulmonary resuscitation clinical decision (situation)"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "system": "http://snomed.info/sct",
+                    "code": "975291000000108",
+                    "display": "Family member informed of cardiopulmonary resuscitation clinical decision (situation)"
+                  }
+                }
+              ]
             },
             {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "975311000000109",
-                "display": "Carer informed of cardiopulmonary resuscitation clinical decision (situation)"
-              }
-            },
-            {
-              "valueCoding": {
-                "system": "http://snomed.info/sct",
-                "code": "845151000000104",
-                "display": "Not aware of do not attempt cardiopulmonary resuscitation clinical decision (finding)"
-              }
+              "linkId": "CPR001.7.2",
+              "text": "Textual version of that person or group of people",
+              "type": "string",
+              "required": true
             }
           ]
         },
