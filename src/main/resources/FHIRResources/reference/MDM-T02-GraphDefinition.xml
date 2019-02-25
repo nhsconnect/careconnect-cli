@@ -11,7 +11,7 @@
         </telecom>
     </contact>
     <description value="Example FHIR GraphDefinition for MDM-T02 Original document notification and content"/>
-    <start value="Bundle"/>
+    <start value="MessageHeader"/>
     <link>
         <path value="Bundle.entry.resource"/>
         <min value="1"/>
@@ -20,6 +20,12 @@
         <target>
             <type value="MessageHeader"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
+            <link>
+                <path value="MessageHeader.focus"/>
+                <target>
+                    <type value="DocumentReference"/>
+                </target>
+            </link>
         </target>
     </link>
     <link>
