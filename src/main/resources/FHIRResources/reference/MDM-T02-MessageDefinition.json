@@ -1,0 +1,57 @@
+{
+    "resourceType": "MessageDefinition",
+    "url": "https://fhir.airelogic.com/MessageDefinition/OriginalDocumentmentNotifiationAndContent-MessageDefinition-1",
+    "version": "1.0.0",
+    "name": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
+    "title": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
+    "status": "draft",
+    "date": "2019-02-25T00:00:00+00:00",
+    "copyright": "Copyright © 2019 Aire Logic",
+    "event": {
+        "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
+        "code": "MDM-T02",
+        "display": "Create Patient"
+    },
+    "category": "Consequence",
+    "focus": [
+        {
+            "code": "MessageHeader",
+            "profile": {
+                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"
+            },
+            "min": "0",
+            "max": "1"
+
+        },
+        {
+            "code": "Encounter",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"
+            },
+            "min": "0",
+            "max": "*"
+        },
+        {
+            "code": "Patient",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
+            },
+            "min": "1",
+            "max": "1"
+        },
+        {
+            "code": "DocumentReference",
+            "profile": {
+                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-DocumentReference-1"
+            },
+            "min": "1",
+            "max": "1"
+        },
+        {
+            "code": "Binary",
+            "min": "1",
+            "max": "1"
+        }
+
+    ]
+}

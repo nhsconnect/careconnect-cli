@@ -1,0 +1,75 @@
+{
+    "resourceType": "MessageDefinition",
+    "url": "https://fhir.airelogic.com/MessageDefinition/RegisterPatient-MessageDefinition-1",
+    "version": "1.0.0",
+    "name": "Example FHIR MessageDefinition for A04 Register Patient",
+    "title": "Example FHIR MessageDefinition for A04 Register Patient",
+    "status": "draft",
+    "date": "2019-01-11T12:47:46+00:00",
+    "copyright": "Copyright © 2019 Aire Logic",
+    "event": {
+        "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
+        "code": "ADTA04",
+        "display": "Create Patient"
+    },
+    "category": "Consequence",
+    "focus": [
+        {
+            "code": "MessageHeader",
+            "profile": {
+                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"
+            },
+            "min": "1",
+            "max": "1"
+
+        },
+        {
+            "code": "Encounter",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"
+            },
+            "min": "1",
+            "max": "*"
+        },
+        {
+            "code": "Patient",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
+            },
+            "min": "1",
+            "max": "1"
+        },
+        {
+            "code": "Observation",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Observation-1"
+            },
+            "min": "0",
+            "max": "*"
+        },
+        {
+            "code": "AllergyIntolerance",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-AllergyIntolerance-1"
+            },
+            "min": "0",
+            "max": "*"
+        },
+        {
+            "code": "Condition",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Condition-1"
+            },
+            "min": "0",
+            "max": "*"
+        },
+        {
+            "code": "Procedure",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Procedure-1"
+            },
+            "min": "0",
+            "max": "*"
+        }
+    ]
+}

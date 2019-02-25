@@ -1,0 +1,30 @@
+{
+    "resourceType": "MessageDefinition",
+    "url": "https://fhir.airelogic.com/STU3/MessageDefinition/CreatePatient-MessageDefinition-1",
+    "version": "1.0.0",
+    "name": "Example FHIR MessageDefinition for A28 Create Patient",
+    "title": "Example FHIR MessageDefinition for A28 Create Patient",
+    "status": "draft",
+    "date": "2019-01-11T12:47:46+00:00",
+    "copyright": "Copyright © 2019 Aire Logic",
+    "event": {
+        "system": "https://fhir.nhs.uk/STU3/CodeSystem/ITK-MessageEvent-2",
+        "code": "ADTA28",
+        "display": "Create Patient"
+    },
+    "category": "Consequence",
+    "focus": [
+        {
+            "code": "MessageHeader",
+            "profile": {
+                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"
+            }
+        },
+        {
+            "code": "Patient",
+            "profile": {
+                "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
+            }
+        }
+    ]
+}

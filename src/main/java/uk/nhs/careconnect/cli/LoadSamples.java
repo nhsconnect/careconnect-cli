@@ -2,6 +2,7 @@ package uk.nhs.careconnect.cli;
 
 import ca.uhn.fhir.context.FhirContext;
 import ca.uhn.fhir.context.FhirVersionEnum;
+import ca.uhn.fhir.model.api.IResource;
 import ca.uhn.fhir.rest.api.MethodOutcome;
 import ca.uhn.fhir.rest.client.api.IGenericClient;
 import ca.uhn.fhir.rest.server.exceptions.InternalErrorException;
@@ -30,6 +31,7 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
 import java.io.*;
 import java.math.BigDecimal;
+import java.text.MessageFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
@@ -162,7 +164,9 @@ http://127.0.0.1:8080/careconnect-ri/STU3
                 return;
             } else {
                 try {
-                    loadFolder("samples");
+                  //  loadFolder("FHIRResources/epr");
+                    // loadFolder("FHIRResources/docs");
+                    loadFolder("FHIRResources/reference");
                 } catch(Exception ex) {
                     System.out.println(ex.getMessage());
                 }
@@ -203,21 +207,72 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         Reader reader = new InputStreamReader(inputStream);
 
         try {
-            Bundle bundle = null;
-            try {
-                bundle = ctx.newXmlParser().parseResource(Bundle.class, reader);
-            } catch (Exception ex) {
-                bundle = ctx.newJsonParser().parseResource(Bundle.class, reader);
+            IBaseResource
+                    resource = null;
+            if (filename.contains("json")) {
+                resource = ctx.newJsonParser().parseResource(reader);
+
+            } else {
+                resource = ctx.newXmlParser().parseResource(reader);
             }
 
-            try {
-                MethodOutcome outcome = client.create().resource(bundle).execute();
-            } catch (UnprocessableEntityException ex) {
+            if (resource instanceof Bundle) {
+                Bundle bundle = (Bundle) resource;
+                try {
+                    MethodOutcome outcome = client.create().resource(bundle).execute();
+                } catch (UnprocessableEntityException ex) {
 
-               // System.out.println(ctx.newXmlParser().encodeResourceToString(ex.getOperationOutcome()));
-                if (ex.getStatusCode()==422) {
-                    System.out.println("Trying to update "+filename+ ": Bundle?identifier="+bundle.getIdentifier().getSystem()+"|"+bundle.getIdentifier().getValue());
-                    MethodOutcome outcome = client.update().resource(bundle).conditionalByUrl("Bundle?identifier="+bundle.getIdentifier().getSystem()+"|"+bundle.getIdentifier().getValue()).execute();
+                    // System.out.println(ctx.newXmlParser().encodeResourceToString(ex.getOperationOutcome()));
+                    if (ex.getStatusCode() == 422) {
+                        System.out.println("Trying to update " + filename + ": Bundle?identifier=" + bundle.getIdentifier().getSystem() + "|" + bundle.getIdentifier().getValue());
+                        MethodOutcome outcome = client.update().resource(bundle).conditionalByUrl("Bundle?identifier=" + bundle.getIdentifier().getSystem() + "|" + bundle.getIdentifier().getValue()).execute();
+                    }
+                }
+            } else {
+                Bundle results = null;
+                switch (resource.getClass().getSimpleName()) {
+                    case "MessageDefinition":
+
+                        MessageDefinition messageDefinition = (MessageDefinition) resource;
+
+                        results = client.search().forResource(MessageDefinition.class).where(MessageDefinition.URL.matches().value(messageDefinition.getUrl())).returnBundle(Bundle.class).execute();
+                        if (results.getEntry().size() > 0) {
+                            messageDefinition.setId(results.getEntry().get(0).getResource().getId());
+
+                            client.update().resource(messageDefinition).withId(messageDefinition.getId()).execute();
+                        } else {
+
+                            client.create().resource(resource).execute();
+                        }
+
+                        break;
+                    case "GraphDefinition":
+                       GraphDefinition graphDefinition = (GraphDefinition) resource;
+
+                        results = client.search().forResource(GraphDefinition.class).where(GraphDefinition.URL.matches().value(graphDefinition.getUrl())).returnBundle(Bundle.class).execute();
+                        if (results.getEntry().size() > 0) {
+                            graphDefinition.setId(results.getEntry().get(0).getResource().getId());
+
+                            client.update().resource(graphDefinition).withId(graphDefinition.getId()).execute();
+                        } else {
+
+                            client.create().resource(resource).execute();
+                        }
+                        break;
+                    case "Questionnaire":
+                        Questionnaire questionnaire = (Questionnaire) resource;
+
+                        results = client.search().forResource(Questionnaire.class).where(Questionnaire.URL.matches().value(questionnaire.getUrl())).returnBundle(Bundle.class).execute();
+                        if (results.getEntry().size() > 0) {
+                            questionnaire.setId(results.getEntry().get(0).getResource().getId());
+
+                            client.update().resource(questionnaire).withId(questionnaire.getId()).execute();
+                        } else {
+
+                            client.create().resource(resource).execute();
+                        }
+                        break;
+                     default:
                 }
             }
 
