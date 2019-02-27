@@ -20,7 +20,7 @@ import org.hl7.fhir.dstu3.model.StructureDefinition;
 
 import org.hl7.fhir.instance.model.api.IBaseResource;
 
-import uk.org.hl7.fhir.core.Dstu2.CareConnectSystem;
+import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 import uk.org.hl7.fhir.validation.stu3.CareConnectProfileValidationSupport;
 import uk.org.hl7.fhir.validation.stu3.SNOMEDUKMockValidationSupport;
 

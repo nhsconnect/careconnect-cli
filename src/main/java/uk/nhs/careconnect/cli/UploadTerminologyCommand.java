@@ -7,9 +7,9 @@ import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
-import org.hl7.fhir.instance.model.Parameters;
-import org.hl7.fhir.instance.model.StringType;
-import org.hl7.fhir.instance.model.UriType;
+import org.hl7.fhir.dstu3.model.Parameters;
+import org.hl7.fhir.dstu3.model.StringType;
+import org.hl7.fhir.dstu3.model.UriType;
 import org.hl7.fhir.instance.model.api.IBaseParameters;
 
 import static org.apache.commons.lang3.StringUtils.isBlank;

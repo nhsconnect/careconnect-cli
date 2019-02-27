@@ -23,9 +23,6 @@ import uk.org.hl7.fhir.core.Stu3.CareConnectProfile;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
 import java.io.*;
-import java.net.URL;
-import java.nio.channels.Channels;
-import java.nio.channels.ReadableByteChannel;
 import java.util.*;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;

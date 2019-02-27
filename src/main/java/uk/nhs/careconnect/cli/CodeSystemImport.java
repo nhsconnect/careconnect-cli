@@ -1,39 +1,22 @@
 package uk.nhs.careconnect.cli;
 
-import ca.uhn.fhir.context.FhirContext;
-import ca.uhn.fhir.context.FhirVersionEnum;
-import ca.uhn.fhir.validation.FhirValidator;
-import ca.uhn.fhir.validation.ResultSeverityEnum;
-import ca.uhn.fhir.validation.SingleValidationMessage;
-import ca.uhn.fhir.validation.ValidationResult;
+
 import org.apache.commons.cli.*;
 import org.apache.commons.dbcp2.BasicDataSource;
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.text.WordUtils;
 
 import org.flywaydb.core.Flyway;
-import org.fusesource.jansi.Ansi.Color;
-import org.hl7.fhir.dstu3.hapi.validation.DefaultProfileValidationSupport;
-import org.hl7.fhir.dstu3.hapi.validation.FhirInstanceValidator;
-import org.hl7.fhir.dstu3.hapi.validation.ValidationSupportChain;
-import org.hl7.fhir.dstu3.model.Bundle;
-import org.hl7.fhir.dstu3.model.Resource;
-import org.hl7.fhir.dstu3.model.StructureDefinition;
-import org.hl7.fhir.instance.model.api.IBaseResource;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
+
 import org.springframework.stereotype.Component;
-import uk.org.hl7.fhir.core.Dstu2.CareConnectSystem;
-import uk.org.hl7.fhir.validation.stu3.CareConnectProfileValidationSupport;
-import uk.org.hl7.fhir.validation.stu3.SNOMEDUKMockValidationSupport;
+
 
 import javax.sql.DataSource;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
+
 
 import static org.apache.commons.lang3.StringUtils.*;
-import static org.fusesource.jansi.Ansi.ansi;
+
 
 @Component
 public class CodeSystemImport extends BaseCommand {
