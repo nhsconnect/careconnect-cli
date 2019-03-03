@@ -16,7 +16,7 @@ public class VocabularyToFHIRNamingSystem {
 	private FhirContext ctx;
 	
 
-	public NamingSystem process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, CodeSystem codeSystem)  {
+	public NamingSystem process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, CodeSystem codeSystem, String namePrefix)  {
 
        NamingSystem namingSystem = new NamingSystem();
 
@@ -38,7 +38,7 @@ public class VocabularyToFHIRNamingSystem {
 
         namingSystem.setUrl(system);
 
-        namingSystem.setName(vocab.name);
+        namingSystem.setName(namePrefix + " " + vocab.name);
 
         namingSystem.setKind(NamingSystem.NamingSystemType.CODESYSTEM);
 
@@ -52,7 +52,7 @@ public class VocabularyToFHIRNamingSystem {
 			namingSystem.setDescription("HSCIC Interoperability Specifications Reference Pack export.");
 		}
 
-		namingSystem.setPublisher("NHS Digital");
+		namingSystem.setPublisher("HSCIC");
 		
 
         switch(vocab.getStatus())

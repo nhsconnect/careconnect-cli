@@ -16,7 +16,7 @@ public class VocabularyToFHIRCodeSystem {
 	private FhirContext ctx;
 	
 
-	public CodeSystem process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix)  {
+	public CodeSystem process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, String namePrefix)  {
 
        CodeSystem codeSystem = new CodeSystem();
 		
@@ -36,7 +36,7 @@ public class VocabularyToFHIRCodeSystem {
 
         codeSystem.setUrl(system);
 
-        codeSystem.setName(vocab.name);
+        codeSystem.setName(namePrefix + " " + vocab.name);
         String desc = vocab.getDescription();
         codeSystem.setDescription(desc);
         codeSystem.setVersion(vocab.getVersion());
@@ -63,7 +63,7 @@ public class VocabularyToFHIRCodeSystem {
 			codeSystem.setDescription("HSCIC Interoperability Specifications Reference Pack export.");
 		}
 
-		codeSystem.setPublisher("NHS Digital");
+		codeSystem.setPublisher("HSCIC");
 
 		codeSystem.setCopyright("Copyright 2019 © NHS Digital");
 

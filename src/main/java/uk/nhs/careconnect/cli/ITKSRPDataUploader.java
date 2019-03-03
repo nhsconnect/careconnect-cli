@@ -94,17 +94,17 @@ public class ITKSRPDataUploader extends BaseCommand {
 		client = ctx.newRestfulGenericClient(targetServer);
 
 		vi = loadIndex("itk/","HL7v2.xml");
-		if (vi != null) loadFolder("itk/v2");
+		if (vi != null) loadFolder("itk/v2", "ITK HL7v2");
       	vi = loadIndex("itk","HL7v3.xml");
-		if (vi != null) loadFolder("itk/v3");
+		if (vi != null) loadFolder("itk/v3","ITK HL7v3");
 		vi = loadIndex("itk","SNOMEDCT.xml");
-		if (vi != null) loadFolder("itk/sct");
+		if (vi != null) loadFolder("itk/sct","ITK SCT");
 
 
 
 	}
 
-	public void loadFolder(String folder) throws Exception {
+	public void loadFolder(String folder,String prefix) throws Exception {
 		List<String> filenames = new ArrayList<>();
 
 		try (
@@ -115,7 +115,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 			while ((resource = br.readLine()) != null) {
 				filenames.add(resource);
 
-				loadFile(folder,resource);
+				loadFile(folder,resource, prefix);
 			}
 		}
 
@@ -152,7 +152,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 		return vocab;
     }
 
-	public void loadFile(String folder, String filename) {
+	public void loadFile(String folder, String filename, String prefix) {
         System.out.println(folder + "/" +filename);
 		InputStream inputStream =
 				Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
@@ -182,7 +182,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 				CodeSystem codeSystem = null;
 				// Don't process SNOMED
 				if (!folder.contains("sct") && !vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15")) {
-					codeSystem = converter.process(vocab,vi,folder);
+					codeSystem = converter.process(vocab,vi,folder, prefix);
 
 					Bundle results = client.search().forResource(CodeSystem.class).where(CodeSystem.URL.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
 					if (results.getEntry().size()>0) {
@@ -195,7 +195,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 						client.create().resource(codeSystem).execute();
 					}
 
-					NamingSystem namingSystem = ns.process(vocab,vi,folder,codeSystem);
+					NamingSystem namingSystem = ns.process(vocab,vi,folder,codeSystem,prefix);
 
 					// System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(namingSystem));
 					results = client.search().forResource(NamingSystem.class).where(NamingSystem.VALUE.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
@@ -211,7 +211,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 				}
 
-				ValueSet valueSet = convertVs.process(vocab,vi,folder, codeSystem);
+				ValueSet valueSet = convertVs.process(vocab,vi,folder, codeSystem, prefix);
 
 				if (valueSet != null) {
 					Bundle results = client.search().forResource(ValueSet.class).where(ValueSet.URL.matches().value(valueSet.getUrl())).returnBundle(Bundle.class).execute();

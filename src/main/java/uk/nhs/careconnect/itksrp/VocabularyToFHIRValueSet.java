@@ -17,7 +17,7 @@ public class VocabularyToFHIRValueSet  {
 	private FhirContext ctx;
 	
 
-	public ValueSet process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, CodeSystem codeSystem)  {
+	public ValueSet process(Vocabulary vocab, VocabularyIndex vocabularyIndex, String prefix, CodeSystem codeSystem, String namePrefix)  {
 
        ValueSet valueSet = new ValueSet();
 
@@ -39,7 +39,7 @@ public class VocabularyToFHIRValueSet  {
 
         valueSet.setUrl(system);
 
-        valueSet.setName(vocab.name);
+        valueSet.setName(namePrefix + " " + vocab.name);
 
         if (vocab.getId() != null) {
 			valueSet.addIdentifier().setSystem("urn:ietf:rfc:3986").setValue("urn:oid:" + vocab.getId());
@@ -53,7 +53,7 @@ public class VocabularyToFHIRValueSet  {
 			valueSet.setDescription("HSCIC Interoperability Specifications Reference Pack export.");
 		}
 
-		valueSet.setPublisher("NHS Digital");
+		valueSet.setPublisher("HSCIC");
 
 		valueSet.setCopyright("Copyright 2019 © NHS Digital");
 
