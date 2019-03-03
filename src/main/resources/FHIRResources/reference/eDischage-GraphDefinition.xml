@@ -2,7 +2,7 @@
     <url value="http://fhir.nhs.uk/fhir/GraphDefinition/ITK-eDischarge-1"/>
     <name value="ITK eDischarge Graph Definition"/>
     <status value="draft"/>
-    <date value="2015-08-04T00:00:00+00:00"/>
+    <date value="2019-03-03T00:00:00+00:00"/>
     <publisher value="Kevin Mayfield"/>
    <!-- <profile value="https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/> -->
     <contact>

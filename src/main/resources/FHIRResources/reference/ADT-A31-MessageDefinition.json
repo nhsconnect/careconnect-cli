@@ -10,21 +10,21 @@
         {
             "url": "http://hl7.org/fhir/4.0/StructureDefinition/extension-MessageDefinition.graph",
             "valueReference": {
-                "reference": "https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-1"
+                "reference": "https://fhir.airelogic.com/GraphDefinition/UpdatePersonInformation-1"
             }
         }
     ],
-    "url": "https://fhir.airelogic.com/MessageDefinition/OriginalDocumentmentNotifiationAndContent-1",
+    "url": "https://fhir.airelogic.com/STU3/MessageDefinition/UpdatePatient-MessageDefinition-1",
     "version": "1.0.0",
-    "name": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
-    "title": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
+    "name": "Example FHIR MessageDefinition for ADT A31 Update Patient",
+    "title": "Example FHIR MessageDefinition for ADT A31 Update Patient",
     "status": "draft",
-    "date": "2019-02-25T00:00:00+00:00",
+    "date": "2019-01-11T12:47:46+00:00",
     "copyright": "Copyright © 2019 Aire Logic",
     "event": {
-        "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
-        "code": "MDM-T02",
-        "display": "Create Patient"
+        "system": "https://fhir.nhs.uk/STU3/CodeSystem/ITK-MessageEvent-2",
+        "code": "ADTA31",
+        "display": "Update Patient"
     },
     "category": "Consequence",
     "focus": [
@@ -35,7 +35,6 @@
             },
             "min": "1",
             "max": "1"
-
         },
         {
             "code": "Patient",
@@ -43,17 +42,8 @@
                 "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
             },
             "min": "1",
-            "max": "*"
-        },
-        {
-            "code": "DocumentReference",
-            "profile": {
-                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-DocumentReference-1"
-            },
-            "min": "1",
-            "max": "*"
+            "max": "1"
         }
-
     ],
     "allowedResponse": [
         {

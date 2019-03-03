@@ -2,7 +2,7 @@
     <url value="https://fhir.airelogic.com/GraphDefinition/ITK-SendMessage-1"/>
     <name value="ITK SendMessage Graph Definition"/>
     <status value="draft"/>
-    <date value="2015-08-04T00:00:00+00:00"/>
+    <date value="2019-03-03T00:00:00+00:00"/>
     <publisher value="Kevin Mayfield"/>
    <!-- <profile value="https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/> -->
     <contact>
@@ -49,6 +49,26 @@
                     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
                 </target>
             </link>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Sending / Receiving Practitioner"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Practitioner-1"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="Sending / Receiving Organisation"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
         </target>
     </link>
 </GraphDefinition>

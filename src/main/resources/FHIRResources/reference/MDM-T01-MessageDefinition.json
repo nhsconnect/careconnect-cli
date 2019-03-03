@@ -10,20 +10,20 @@
         {
             "url": "http://hl7.org/fhir/4.0/StructureDefinition/extension-MessageDefinition.graph",
             "valueReference": {
-                "reference": "https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-1"
+                "reference": "https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiation-1"
             }
         }
     ],
-    "url": "https://fhir.airelogic.com/MessageDefinition/OriginalDocumentmentNotifiationAndContent-1",
+    "url": "https://fhir.airelogic.com/MessageDefinition/OriginalDocumentmentNotifiation-1",
     "version": "1.0.0",
-    "name": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
-    "title": "Example FHIR MessageDefinition for MDM-T02 Original document notification and content",
+    "name": "Example FHIR MessageDefinition for MDM-T01 Original document notificationt",
+    "title": "Example FHIR MessageDefinition for MDM-T01 Original document notification",
     "status": "draft",
-    "date": "2019-02-25T00:00:00+00:00",
+    "date": "2019-03-03T00:00:00+00:00",
     "copyright": "Copyright © 2019 Aire Logic",
     "event": {
         "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
-        "code": "MDM-T02",
+        "code": "MDM-T01",
         "display": "Create Patient"
     },
     "category": "Consequence",

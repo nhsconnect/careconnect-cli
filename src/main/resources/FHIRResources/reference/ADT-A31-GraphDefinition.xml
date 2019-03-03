@@ -1,6 +1,6 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
-    <url value="https://fhir.airelogic.com/GraphDefinition/AddPersonInformation-1"/>
-    <name value="FHIR ADT-A28 Graph Definition"/>
+    <url value="https://fhir.airelogic.com/GraphDefinition/UpdatePersonInformation-1"/>
+    <name value="FHIR ADT-A31 Graph Definition"/>
     <status value="draft"/>
     <experimental value="true"/>
     <date value="2019-03-03T00:00:00+00:00"/>
@@ -11,7 +11,7 @@
             <value value="http://airelogic.com"/>
         </telecom>
     </contact>
-    <description value="Example FHIR GraphDefinition for ADT-A28 Create Person Information"/>
+    <description value="Example FHIR GraphDefinition for ADT-A31 Update Person Information"/>
     <start value="MessageHeader"/>
     <link>
         <path value="Bundle.entry.resource"/>
