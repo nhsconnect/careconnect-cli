@@ -4,6 +4,12 @@
         {
             "url": "http://hl7.org/fhir/4.0/StructureDefinition/extension-MessageDefinition.graph",
             "valueReference": {
+                "reference": "https://fhir.airelogic.com/GraphDefinition/ITK-SendMessage-1"
+            }
+        },
+        {
+            "url": "http://hl7.org/fhir/4.0/StructureDefinition/extension-MessageDefinition.graph",
+            "valueReference": {
                 "reference": "https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-1"
             }
         }
@@ -61,5 +67,12 @@
             "max": "1"
         }
 
+    ],
+    "allowedResponse": [
+        {
+            "message": {
+                "reference": "https://fhir.nhs.uk/STU3/MessageDefinition/ITK-Response-MessageDefinition-1"
+            }
+        }
     ]
 }

@@ -2,6 +2,7 @@
     <url value="https://fhir.airelogic.com/GraphDefinition/OriginalDocumentmentNotifiationAndContent-1"/>
     <name value="FHIR MDM-T02 Graph Definition"/>
     <status value="draft"/>
+    <experimental value="true"/>
     <date value="2015-08-04T00:00:00+00:00"/>
     <publisher value="Kevin Mayfield"/>
     <contact>
@@ -22,8 +23,18 @@
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
             <link>
                 <path value="MessageHeader.focus"/>
+                <min value="1"/>
+                <max value="*"/>
                 <target>
                     <type value="DocumentReference"/>
+                </target>
+            </link>
+            <link>
+                <path value="MessageHeader.focus"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
                 </target>
             </link>
         </target>
@@ -49,7 +60,7 @@
         <path value="Bundle.entry.resource"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="Patient"/>
+        <description value="Patient (PID)"/>
         <target>
             <type value="Patient"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>

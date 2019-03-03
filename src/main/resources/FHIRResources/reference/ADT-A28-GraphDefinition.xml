@@ -1,0 +1,82 @@
+<GraphDefinition xmlns="http://hl7.org/fhir">
+    <url value="https://fhir.airelogic.com/GraphDefinition/AddPersonInformation-1"/>
+    <name value="FHIR ADT-A28 Graph Definition"/>
+    <status value="draft"/>
+    <experimental value="true"/>
+    <date value="2015-08-04T00:00:00+00:00"/>
+    <publisher value="Kevin Mayfield"/>
+    <contact>
+        <telecom>
+            <system value="url"/>
+            <value value="http://airelogic.com"/>
+        </telecom>
+    </contact>
+    <description value="Example FHIR GraphDefinition for ADT-A28 Original document notification and content"/>
+    <start value="MessageHeader"/>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Message Header (MSH + EVN)"/>
+        <target>
+            <type value="MessageHeader"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
+            <link>
+                <path value="MessageHeader.focus"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient (PID + PD1)"/>
+        <target>
+            <type value="Patient"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
+            <link>
+                <path value="Patient.generalPractitioner"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="(PD1.4)"/>
+                <target>
+                    <type value="Practitioner"/>
+                </target>
+            </link>
+            <link>
+                <path value="Patient.managingOrganization"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="(PD1.3)"/>
+                <target>
+                    <type value="Organization"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Patient's GP"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Practitioner-1"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="Patient's GP Surgery"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+        </target>
+    </link>
+</GraphDefinition>

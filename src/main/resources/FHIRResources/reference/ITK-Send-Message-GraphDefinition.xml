@@ -1,0 +1,54 @@
+<GraphDefinition xmlns="http://hl7.org/fhir">
+    <url value="https://fhir.airelogic.com/GraphDefinition/ITK-SendMessage-1"/>
+    <name value="ITK SendMessage Graph Definition"/>
+    <status value="draft"/>
+    <date value="2015-08-04T00:00:00+00:00"/>
+    <publisher value="Kevin Mayfield"/>
+   <!-- <profile value="https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/> -->
+    <contact>
+        <telecom>
+            <system value="url"/>
+            <value value="http://fhir.nhs.uk"/>
+        </telecom>
+    </contact>
+    <description value="A Graph Definition for eDischarge MessageDefinition https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/>
+    <start value="Bundle"/>
+    <link>
+        <path value="Bundle.entry.resource"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Message Header"/>
+        <target>
+            <type value="MessageHeader"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
+            <link>
+                <path value="MessageHeader.receiver.reference"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Intended 'real-world' recipient for the data"/>
+                <target>
+                    <type value="Practitioner"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Practitioner-1"/>
+                </target>
+                <target>
+                    <type value="Organization"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
+                </target>
+            </link>
+            <link>
+                <path value="MessageHeader.sender.reference"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Real world sender of the message"/>
+                <target>
+                    <type value="Practitioner"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Practitioner-1"/>
+                </target>
+                <target>
+                    <type value="Organization"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Header-Organization-1"/>
+                </target>
+            </link>
+        </target>
+    </link>
+</GraphDefinition>

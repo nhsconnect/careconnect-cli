@@ -2,8 +2,8 @@
     "resourceType": "MessageDefinition",
     "url": "https://fhir.airelogic.com/MessageDefinition/RegisterPatient-MessageDefinition-1",
     "version": "1.0.0",
-    "name": "Example FHIR MessageDefinition for A04 Register Patient",
-    "title": "Example FHIR MessageDefinition for A04 Register Patient",
+    "name": "Example FHIR MessageDefinition for ADT A04 Register Patient",
+    "title": "Example FHIR MessageDefinition for ADT A04 Register Patient",
     "status": "draft",
     "date": "2019-01-11T12:47:46+00:00",
     "copyright": "Copyright © 2019 Aire Logic",
@@ -70,6 +70,13 @@
             },
             "min": "0",
             "max": "*"
+        }
+    ],
+    "allowedResponse": [
+        {
+            "message": {
+                "reference": "https://fhir.nhs.uk/STU3/MessageDefinition/ITK-Response-MessageDefinition-1"
+            }
         }
     ]
 }
