@@ -39,13 +39,6 @@
         <target>
             <type value="Encounter"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
-            <link>
-                <path value="Encounter.subject"/>
-                <description value="Intended 'real-world' recipient for the data"/>
-                <target>
-                    <type value="Patient"/>
-                </target>
-            </link>
         </target>
     </link>
     <link>
