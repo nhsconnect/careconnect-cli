@@ -29,14 +29,6 @@
                     <type value="DocumentReference"/>
                 </target>
             </link>
-            <link>
-                <path value="MessageHeader.focus"/>
-                <min value="1"/>
-                <max value="1"/>
-                <target>
-                    <type value="Patient"/>
-                </target>
-            </link>
         </target>
     </link>
     <link>

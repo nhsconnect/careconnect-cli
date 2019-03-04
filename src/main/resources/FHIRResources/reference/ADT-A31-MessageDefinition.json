@@ -29,14 +29,6 @@
     "category": "Consequence",
     "focus": [
         {
-            "code": "MessageHeader",
-            "profile": {
-                "reference": "https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"
-            },
-            "min": "1",
-            "max": "1"
-        },
-        {
             "code": "Patient",
             "profile": {
                 "reference": "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"
