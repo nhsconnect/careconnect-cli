@@ -17,7 +17,7 @@
         <path value="Bundle.entry.resource"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="This should be first resource in the Bundle"/>
+        <description value="This should be first resource in the Bundle MessageHeader "/>
         <target>
             <type value="MessageHeader"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
