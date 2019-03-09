@@ -17,7 +17,7 @@
         <path value="Bundle.entry.resource"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="Message Header (MSH + EVN)"/>
+        <description value="This should be first resource in the Bundle"/>
         <target>
             <type value="MessageHeader"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>

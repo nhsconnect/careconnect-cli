@@ -1,0 +1,210 @@
+<Questionnaire xmlns="http://hl7.org/fhir">
+    <meta>
+        <lastUpdated value="2019-03-09T17:15:01.563+00:00"/>
+    </meta>
+    <url value="https://fhir.airelogic.com/STU3/Questionnaire/proms-18-month"/>
+    <name value="ASQ 18 Month questionnaire"/>
+    <title value="ASQ 18 Month questionnaire"/>
+    <status value="draft"/>
+    <description value="ASQ 18 Month questionnaire"/>
+    <subjectType value="Patient"/>
+    <item>
+        <linkId value="comm"/>
+        <text value="Communication"/>
+        <type value="group"/>
+        <item>
+            <linkId value="comm-1"/>
+            <text value="When your child wants something, does she tell you by pointing to it?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="You might ask, “Where is your ball?” or say, “Bring me your coat,” or “Go get your blanket.”"/>
+            </extension>
+            <linkId value="comm-2"/>
+            <text value="When you ask your child to, does he go into another room to find a familiar toy or object?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+        </item>
+        <item>
+            <linkId value="comm-3"/>
+            <text value="Does your child say eight or more words in addition to “Mama” and “Dada”?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="For example, when you say a two-word phrase, such as “Mama eat,” “Daddy play,” “Go home,” or “What’s this?” does your child say both words back to you? (Mark “yes” even if her words are difficult to understand.)"/>
+            </extension>
+            <linkId value="comm-4"/>
+            <text value="Does your child imitate a two-word sentence?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="He needs to identify only one picture correctly."/>
+            </extension>
+            <linkId value="comm-5"/>
+            <text value="Without your showing him, does your child point to the correct picture when you say, “Show me the kitty,” or ask, “Where is the dog?”"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="Don’t count word combinations that express one idea, such as “bye- bye,” “all gone,” “all right,” and “What’s that?”"/>
+            </extension>
+            <linkId value="comm-6"/>
+            <text value="Does your child say two or three words that represent different ideas together, such as “See dog,” “Mommy come home,” or “Kitty gone”?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+        </item>
+    </item>
+    <item>
+        <linkId value="gross"/>
+        <text value="Gross Motor"/>
+        <type value="group"/>
+        <item>
+            <linkId value="gross-1"/>
+            <text value="Does your child bend over or squat to pick up an object from the floor and then stand up again without any support?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+        </item>
+        <item>
+            <linkId value="gross-2"/>
+            <text value="Does your child move around by walking, rather than by crawling on her hands and knees?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+        </item>
+        <item>
+            <linkId value="gross-3"/>
+            <text value="Does your child walk well and seldom fall?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="For example, to get a toy on a counter or to “help” you in the kitchen"/>
+            </extension>
+            <linkId value="gross-4"/>
+            <text value="Does your child climb on an object such as a chair to reach something he wants ?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="You can look for this at a store, on a playground, or at home."/>
+            </extension>
+            <linkId value="gross-5"/>
+            <text value="Does your child walk down stairs if you hold onto one of her hands? She may also hold onto the railing or wall."/>
+            <type value="choice"/>
+            <option>
+                <valueString value="No"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+        </item>
+        <item>
+            <extension url="http://hl7.org/fhir/StructureDefinition/designNote">
+                <valueMarkdown value="If your child already kicks a ball, mark “yes” for this item."/>
+            </extension>
+            <linkId value="gross-6"/>
+            <text value="When you show your child how to kick a large ball, does he try to kick the ball by moving his leg forward or by walking into it?"/>
+            <type value="choice"/>
+            <option>
+                <valueString value="Sometimes"/>
+            </option>
+            <option>
+                <valueString value="Yes"/>
+            </option>
+            <option>
+                <valueString value="No"/>
+            </option>
+        </item>
+    </item>
+</Questionnaire>

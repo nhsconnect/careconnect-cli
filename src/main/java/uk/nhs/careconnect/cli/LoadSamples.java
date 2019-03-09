@@ -219,7 +219,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
     }
 
     public void loadFile(String folder, String filename) {
-        System.out.println(folder + "/" +filename);
+        System.out.println("Processing: "+ folder + "/" +filename);
         InputStream inputStream =
                 Thread.currentThread().getContextClassLoader().getResourceAsStream(folder + "/" +filename);
         Reader reader = new InputStreamReader(inputStream);

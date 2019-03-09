@@ -8,7 +8,7 @@
     "date": "2019-01-11T12:47:46+00:00",
     "copyright": "Copyright © 2019 Aire Logic",
     "event": {
-        "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
+        "system": "https://fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
         "code": "ADTA04",
         "display": "Create Patient"
     },

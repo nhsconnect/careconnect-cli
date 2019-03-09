@@ -22,7 +22,7 @@
     "date": "2019-02-25T00:00:00+00:00",
     "copyright": "Copyright © 2019 Aire Logic",
     "event": {
-        "system": "fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
+        "system": "https://fhir.airelogic.com/STU3/CodeSystem/ITK-MessageEvent-2",
         "code": "MDM-T02",
         "display": "Create Patient"
     },
