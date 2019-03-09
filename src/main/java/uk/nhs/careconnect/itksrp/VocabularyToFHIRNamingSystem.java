@@ -6,6 +6,8 @@ import org.hl7.fhir.dstu3.model.Enumerations;
 import org.hl7.fhir.dstu3.model.NamingSystem;
 import uk.gov.hscic.schema.VocabularyIndex;
 
+import java.util.Date;
+
 
 public class VocabularyToFHIRNamingSystem {
 
@@ -24,7 +26,6 @@ public class VocabularyToFHIRNamingSystem {
         String vocabName = vocab.getName().replace(" ","");
 
 		if (vocab.getId() != null) {
-
 			for(VocabularyIndex.Vocabulary vocIndex :vocabularyIndex.getVocabulary()) {
 				if (vocab.getId().equals(vocIndex.getId())) {
 					//System.out.println("Correct name = " + vocIndex.getName());
@@ -36,15 +37,13 @@ public class VocabularyToFHIRNamingSystem {
         String system = "https://hl7.nhs.uk/"+prefix+"/NamingSystem/"+vocabName;
 
 
-        namingSystem.setUrl(system);
+      //  namingSystem.setUrl(system);
 
         namingSystem.setName(namePrefix + " " + vocab.name);
 
         namingSystem.setKind(NamingSystem.NamingSystemType.CODESYSTEM);
 
-       
 
-        namingSystem.setVersion(vocab.getVersion());
 
 		if (vocab.getDescription() != null) {
 			namingSystem.setDescription(vocab.getDescription());
@@ -53,6 +52,8 @@ public class VocabularyToFHIRNamingSystem {
 		}
 
 		namingSystem.setPublisher("HSCIC");
+
+		namingSystem.setDate(new Date());
 		
 
         switch(vocab.getStatus())

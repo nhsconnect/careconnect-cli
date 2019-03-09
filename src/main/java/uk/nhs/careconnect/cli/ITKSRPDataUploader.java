@@ -184,6 +184,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 				if (!folder.contains("sct") && !vocab.getId().equals("2.16.840.1.113883.2.1.3.2.4.15")) {
 					codeSystem = converter.process(vocab,vi,folder, prefix);
 
+
 					Bundle results = client.search().forResource(CodeSystem.class).where(CodeSystem.URL.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
 					if (results.getEntry().size()>0) {
 
@@ -199,6 +200,8 @@ public class ITKSRPDataUploader extends BaseCommand {
 
 					// System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(namingSystem));
 					results = client.search().forResource(NamingSystem.class).where(NamingSystem.VALUE.matches().value(codeSystem.getUrl())).returnBundle(Bundle.class).execute();
+
+					//System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(namingSystem));
 					if (results.getEntry().size()>0) {
 
 						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
@@ -218,6 +221,7 @@ public class ITKSRPDataUploader extends BaseCommand {
 					if (results.getEntry().size()>0) {
 
 						Bundle.BundleEntryComponent entry = results.getEntry().get(0);
+						System.out.println("Found valueSet "+entry.getResource().getId());
 						valueSet.setId(entry.getResource().getId());
 
 						client.update().resource(valueSet).withId(entry.getResource().getId()).execute();

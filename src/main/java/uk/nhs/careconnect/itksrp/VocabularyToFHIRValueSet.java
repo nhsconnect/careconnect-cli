@@ -37,7 +37,7 @@ public class VocabularyToFHIRValueSet  {
         String system = "https://hl7.nhs.uk/"+prefix+"/ValueSet/"+vocabName;
 
 
-        valueSet.setUrl(system);
+        valueSet.setUrl(system.replace(" ",""));
 
         valueSet.setName(namePrefix + " " + vocab.name);
 

@@ -40,6 +40,7 @@ public class VocabularyToFHIRCodeSystem {
         String desc = vocab.getDescription();
         codeSystem.setDescription(desc);
         codeSystem.setVersion(vocab.getVersion());
+        codeSystem.setContent(CodeSystem.CodeSystemContentMode.COMPLETE);
 
         switch(vocab.getStatus())
         {
