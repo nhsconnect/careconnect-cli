@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:11-slim
 VOLUME /tmp
 
 ADD target/cc-cli.jar cc-cli.jar

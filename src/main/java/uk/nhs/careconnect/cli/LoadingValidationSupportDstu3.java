@@ -7,6 +7,7 @@ import ca.uhn.fhir.rest.server.exceptions.BaseServerResponseException;
 import org.hl7.fhir.dstu3.hapi.ctx.IValidationSupport;
 import org.hl7.fhir.dstu3.model.CodeSystem;
 import org.hl7.fhir.dstu3.model.StructureDefinition;
+import org.hl7.fhir.dstu3.model.ValueSet;
 import org.hl7.fhir.dstu3.model.ValueSet.ConceptSetComponent;
 import org.hl7.fhir.dstu3.model.ValueSet.ValueSetExpansionComponent;
 import org.hl7.fhir.instance.model.api.IBaseResource;
@@ -22,6 +23,11 @@ public class LoadingValidationSupportDstu3 implements IValidationSupport {
 
 	@Override
 	public ValueSetExpansionComponent expandValueSet(FhirContext theContext, ConceptSetComponent theInclude) {
+		return null;
+	}
+
+	@Override
+	public ValueSet fetchValueSet(FhirContext fhirContext, String s) {
 		return null;
 	}
 

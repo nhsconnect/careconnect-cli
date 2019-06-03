@@ -132,15 +132,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");
             uploadOrganisation();
 
-            System.out.println("National Health Service Trust site");
-            handler = new LocationHandler("930631000000102", "National Health Service Trust site");
-            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ets.zip", "ets.csv");
-            uploadLocation();
 
-            System.out.println("GP practice site");
-            handler = new LocationHandler("394761003", "GP practice site");
-            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ebranchs.zip", "ebranchs.csv");
-            uploadLocation();
 
             System.out.println("GP");
             handler = new PractitionerHandler();
@@ -152,6 +144,15 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
             uploadPractitioner();
 
+            System.out.println("National Health Service Trust site");
+            handler = new LocationHandler("930631000000102", "National Health Service Trust site");
+            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ets.zip", "ets.csv");
+            uploadLocation();
+
+            System.out.println("GP practice site");
+            handler = new LocationHandler("394761003", "GP practice site");
+            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ebranchs.zip", "ebranchs.csv");
+            uploadLocation();
 
 		}
 
@@ -171,14 +172,18 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         orgs.clear();
     }
     private void uploadLocation() {
-        for (Location location : locs) {
-            MethodOutcome outcome = client.update().resource(location)
-                    .conditionalByUrl("Location?identifier=" + location.getIdentifier().get(0).getSystem() + "%7C" +location.getIdentifier().get(0).getValue())
-                    .execute();
+	    try {
+            for (Location location : locs) {
+                MethodOutcome outcome = client.update().resource(location)
+                        .conditionalByUrl("Location?identifier=" + location.getIdentifier().get(0).getSystem() + "%7C" + location.getIdentifier().get(0).getValue())
+                        .execute();
 
-            if (outcome.getId() != null ) {
-                location.setId(outcome.getId().getIdPart());
+                if (outcome.getId() != null) {
+                    location.setId(outcome.getId().getIdPart());
+                }
             }
+        } catch (Exception ex) {
+	        System.out.println("Unable to upload Location. Does server support locations?");
         }
         locs.clear();
     }

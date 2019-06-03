@@ -11,28 +11,14 @@ import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
-import org.apache.commons.csv.QuoteMode;
+
 import org.apache.commons.lang3.StringUtils;
 import org.hl7.fhir.dstu3.model.*;
 import org.hl7.fhir.instance.model.api.IBaseResource;
 import org.hl7.fhir.instance.model.api.IIdType;
-import uk.nhs.careconnect.itksrp.Vocabulary;
-import uk.nhs.careconnect.itksrp.VocabularyToFHIRCodeSystem;
-import uk.nhs.careconnect.itksrp.VocabularyToFHIRNamingSystem;
-import uk.nhs.careconnect.itksrp.VocabularyToFHIRValueSet;
-import uk.org.hl7.fhir.core.Stu3.CareConnectExtension;
-import uk.org.hl7.fhir.core.Stu3.CareConnectProfile;
-import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.Unmarshaller;
 import java.io.*;
-import java.math.BigDecimal;
-import java.text.MessageFormat;
-import java.text.SimpleDateFormat;
+
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
