@@ -77,6 +77,9 @@
                 <max value="*"/>
                 <description value="Active Allergies. Rule: AllergyIntolerance.clinicalStatus = active"/>
                 <target>
+                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">   
+                        <valueString value="clinicalStatus=active"/>
+                    </extension>
                     <type value="AllergyIntolerance"/>
                     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
                 </target>
@@ -95,8 +98,11 @@
                 <path value="List.entry[x].item"/>
                 <min value="0"/>
                 <max value="*"/>
-                <description value="Resolved Allergies. Rule: AllergyIntolerance.clinicalStatus = resolved"/>
+                <description value="Resolved Allergies."/>
                 <target>
+                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">   
+                        <valueString value="clinicalStatus=resolved"/>
+                    </extension>
                     <type value="AllergyIntolerance"/>
                     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
                 </target>
@@ -129,7 +135,7 @@
                             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
                             <link>
                                 <path value="[reversed]"/>
-                                <description value="Prescription Issue (order). <p> Rule = MediationRequest.intent = order"/>
+                                <description value="Prescription Issue (order)."/>
                                 <target>
                                     <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">   
                                         <valueString value="intent=order"/>
