@@ -129,9 +129,8 @@
                             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
                             <link>
                                 <path value="[reversed]"/>
-                                <description value="Prescription Issue (order). Rule = MediationRequest.intent = order"/>
+                                <description value="Prescription Issue (order). <p> Rule = MediationRequest.intent = order"/>
                                 <target>
-                                    <extension>
                                     <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">   
                                         <valueString value="intent=order"/>
                                     </extension>
