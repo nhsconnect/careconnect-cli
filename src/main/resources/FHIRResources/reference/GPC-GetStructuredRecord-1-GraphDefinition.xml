@@ -131,17 +131,12 @@
                                 <path value="[reversed]"/>
                                 <description value="Prescription Issue (order). Rule = MediationRequest.intent = order"/>
                                 <target>
+                                    <extension>
+                                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">   
+                                        <valueString value="intent=order"/>
+                                    </extension>
                                     <type value="MedicationRequest"/>
                                     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
-                                    <link>
-                                        <path value="MedicationRequest.basedOn"/>
-                                        <min value="1"/>
-                                        <max value="1"/>
-                                        <description value="If order is acute the relationship is 1..1. "/>
-                                        <target>
-                                            <type value="MedicationRequest"/>
-                                        </target>
-                                    </link>
                                 </target>
                             </link>
                         </target>
