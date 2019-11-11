@@ -104,16 +104,20 @@
             <type value="List"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
             <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
                 <path value="List.entry[x].item"/>
                 <min value="0"/>
                 <max value="*"/>
-                <description value="Active Allergies. Rule: AllergyIntolerance.clinicalStatus = active"/>
+                <description value="Active Allergies. (Rule: AllergyIntolerance.clinicalStatus = active)"/>
                 <target>
-                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
-                        <valueString value="clinicalStatus=active"/>
-                    </extension>
                     <type value="AllergyIntolerance"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
                 </target>
             </link>
         </target>
@@ -140,21 +144,28 @@
             <type value="List"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
             <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
                 <path value="List.entry[x].item"/>
                 <min value="0"/>
                 <max value="*"/>
-                <description value="Resolved Allergies."/>
+                <description value="Resolved Allergies (clinicalStatus=resolved)"/>
                 <target>
-                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
-                        <valueString value="clinicalStatus=resolved"/>
-                    </extension>
                     <type value="AllergyIntolerance"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationrequestplan"/>
+        </extension>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
@@ -163,18 +174,28 @@
             <type value="List"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
             <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
                 <path value="List.entry[x].item"/>
                 <min value="0"/>
                 <max value="*"/>
                 <description value="Current and past Medications"/>
                 <target>
                     <type value="MedicationStatement"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
+     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationstatement"/>
+        </extension>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -189,7 +210,6 @@
                 <description value="Medication Requests"/>
                 <target>
                     <type value="MedicationRequest"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
                 </target>
             </link>
         </target>
@@ -207,18 +227,13 @@
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
             <link>
                 <path value="[reversed]"/>
-                <description value="Prescription Issue (order)."/>
+                <description value="Prescription Issue (intent=order)."/>
                 <target>
-                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
-                        <valueString value="intent=order"/>
-                    </extension>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
                         <valueString value="#medicationrequestorder"/>
                     </extension>
                     <type value="MedicationRequest"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
                 </target>
-
             </link>
             <link>
                 <path value="medicationReference"/>
