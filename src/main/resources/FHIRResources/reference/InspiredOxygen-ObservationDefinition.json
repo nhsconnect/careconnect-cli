@@ -1,0 +1,19 @@
+{
+    "resourceType": "ObservationDefinition",
+    "code": {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "106048009",
+                "display": "Respiratory finding"
+            }
+        ]
+    },
+    "permittedDataType": [
+        "CodeableConcept"
+    ],
+    "validCodedValueSet": {
+        "reference": "https://fhir.hl7.org.uk/STU3/ValueSet/CareConnect-InspiredOxygen-1",
+        "display": "Care Connect Inspired Oxygen"
+    }
+}

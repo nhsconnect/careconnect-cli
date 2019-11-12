@@ -1,0 +1,38 @@
+{
+  "resourceType": "ObservationDefinition",
+  "id": "3",
+  "category": [
+    {
+        "coding": [
+            {
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }
+        ]
+    }
+],
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "364075005",
+        "display": "Heart rate"
+      }
+    ]
+  },
+  "permittedDataType" : [
+      "Quantity"
+  ],
+  "quantitativeDetails" : {
+      "unit": {
+        "coding": [
+            {
+                "system": "http://unitsofmeasure.org",
+                "code": " /min",
+                "display": "per minute"
+            }
+        ]
+      }
+  }
+}

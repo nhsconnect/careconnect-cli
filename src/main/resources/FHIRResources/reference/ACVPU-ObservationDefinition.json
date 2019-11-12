@@ -1,0 +1,19 @@
+{
+    "resourceType": "ObservationDefinition",
+    "code": {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "1104441000000107",
+                "display": "ACVPU (Alert Confusion Voice Pain Unresponsive) scale score"
+            }
+        ]
+    },
+    "permittedDataType": [
+        "CodeableConcept"
+    ],
+    "validCodedValueSet": {
+        "reference": "https://fhir.hl7.org.uk/STU3/ValueSet/CareConnect-ACVPU-1",
+        "display": "Care Connect ACVPU"
+    }
+}
