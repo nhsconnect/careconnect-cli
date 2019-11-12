@@ -1,0 +1,285 @@
+<GraphDefinition xmlns="http://hl7.org/fhir">
+    <url value="https://fhir.mayfield-is.co.uk/GraphDefinition/GPC-GetStructuredRecord-1"/>
+    <name value="GPC Patient Structured Record"/>
+    <status value="draft"/>
+    <date value="2019-11-10T00:00:00+00:00"/>
+    <publisher value="Kevin Mayfield"/>
+    <contact>
+        <telecom>
+            <system value="url"/>
+            <value value="http://fhir.nhs.uk"/>
+        </telecom>
+    </contact>
+    <description value="A Graph Definition for GPC $getstructuredrecord operation [diagram](https://nhsconnect.github.io/gpconnect/accessrecord_structured_development_retrieve_patient_record.html#bundle-population-illustrated)"/>
+    <start value="Patient"/>
+    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-StructuredRecord-Bundle-1"/>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#patient"/>
+        </extension>
+        <path value="Bundle.entry.resource[0]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient"/>
+        <target>
+            <type value="Patient"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-Patient-1"/>
+            <link>
+                <path value="Patient.generalPractitioner"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Patient usual GP"/>
+                <target>
+                    <type value="Practitioner"/>
+                </target>
+            </link>
+            <link>
+                <path value="Patient.managingOrganization[x]"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Patient Surgery"/>
+                <target>
+                    <type value="Organization"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#gp"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient usual GP"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-Practitioner-1"/>
+            <link>
+                <path value="[reversed]"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Patient Usual GP Role"/>
+                <target>
+                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
+                        <valueString value="practitioner={id}"/>
+                    </extension>
+                    <type value="PractitionerRole"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#surgery"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient Surgery"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-Organization-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#gprole"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient Usual GP Role"/>
+        <target>
+            <type value="PractitionerRole"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-PractitionerRole-1"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="List - Allergies and Intolerances. Return when includeAllegies is set. Rule: List.code = SNOMED Concept = 886921000000105"/>
+        <target>
+            <type value="List"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
+            <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
+                <path value="List.entry[x].item"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="Active Allergies. (Rule: AllergyIntolerance.clinicalStatus = active)"/>
+                <target>
+                    <type value="AllergyIntolerance"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#allergies"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Active Allergies. Rule: AllergyIntolerance.clinicalStatus = active"/>
+        <target>
+            <type value="AllergyIntolerance"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
+        </target>
+    </link>
+    <link>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="List - Allergies and Intolerances (Ended). Return when includeResolvedAllergies = true. Rule: List.code = SNOMED Concept = 1103671000000101"/>
+        <target>
+            <type value="List"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
+            <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
+                <path value="List.entry[x].item"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="Resolved Allergies (clinicalStatus=resolved)"/>
+                <target>
+                    <type value="AllergyIntolerance"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationrequestplan"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="List - Medications. Return when includeMedications is set. Rule: List.code = SNOMED Concept = 933361000000108"/>
+        <target>
+            <type value="List"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-List-1"/>
+            <link>
+                <path value="List.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <target>
+                    <type value="Patient"/>
+                </target>
+            </link>
+            <link>
+                <path value="List.entry[x].item"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="Current and past Medications"/>
+                <target>
+                    <type value="MedicationStatement"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationstatement"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Current and past Medications"/>
+        <target>
+            <type value="MedicationStatement"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
+            <link>
+                <path value="MedicationStatement.basedOn"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Medication Requests"/>
+                <target>
+                    <type value="MedicationRequest"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationrequestplan"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Medication Requests"/>
+        <target>
+            <type value="MedicationRequest"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
+            <link>
+                <path value="[reversed]"/>
+                <description value="Prescription Issue (intent=order)."/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#medicationrequestorder"/>
+                    </extension>
+                    <type value="MedicationRequest"/>
+                </target>
+            </link>
+            <link>
+                <path value="medicationReference"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#medication"/>
+                    </extension>
+                    <type value="Medication"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medicationrequestorder"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Medication Requests"/>
+        <target>
+            <type value="MedicationRequest"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
+            <link>
+                <id value="edge"/>
+                <path value="medicationReference"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#medication"/>
+                    </extension>
+                    <type value="Medication"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#medication"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Medications"/>
+        <target>
+            <type value="Medication"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-Medication-1"/>
+        </target>
+    </link>
+</GraphDefinition>
