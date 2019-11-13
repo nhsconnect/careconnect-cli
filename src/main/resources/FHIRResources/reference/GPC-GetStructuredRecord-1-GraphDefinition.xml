@@ -199,7 +199,7 @@
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
-        <description value="Current and past Medications"/>
+        <description value="Used to make a statement about the medication a person has taken and can be ‘basedOn’ a record of an historic prescription that would be represented using one or more MedicationRequest resources."/>
         <target>
             <type value="MedicationStatement"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
@@ -221,7 +221,7 @@
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
-        <description value="Medication Requests"/>
+        <description value="The authorisation - in conjunction with *MedicationStatement*, a *MedicationRequest* with an intent of plan represents an authorisation for acute, repeat, repeat dispensed medication." />
         <target>
             <type value="MedicationRequest"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
@@ -231,6 +231,9 @@
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
                         <valueString value="#medicationrequestorder"/>
+                    </extension>
+                    <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
+                        <valueString value="basedOn={id}"/>
                     </extension>
                     <type value="MedicationRequest"/>
                 </target>
@@ -253,7 +256,7 @@
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
-        <description value="Medication Requests"/>
+         <description value="The issue - each time the medication is issued then it SHOULD be represented using a *MedicationRequest* with the intent element set to order. There will be one order for acutes but may be many for repeats."/>
         <target>
             <type value="MedicationRequest"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
