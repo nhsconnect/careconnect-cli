@@ -10,7 +10,7 @@
             <value value="http://fhir.nhs.uk"/>
         </telecom>
     </contact>
-    <description value="A Graph Definition for GPC $getstructuredrecord operation [diagram](https://nhsconnect.github.io/gpconnect/accessrecord_structured_development_retrieve_patient_record.html#bundle-population-illustrated)"/>
+    <description value="A Graph Definition for GPC $getstructuredrecord operation [Specification Diagram](https://nhsconnect.github.io/gpconnect/accessrecord_structured_development_retrieve_patient_record.html#bundle-population-illustrated)"/>
     <start value="Patient"/>
     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-StructuredRecord-Bundle-1"/>
     <link>

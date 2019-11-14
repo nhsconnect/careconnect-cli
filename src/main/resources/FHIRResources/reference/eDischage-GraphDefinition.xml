@@ -1,64 +1,216 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
-    <url value="http://fhir.nhs.uk/fhir/GraphDefinition/ITK-eDischarge-1"/>
-    <name value="ITK eDischarge Graph Definition"/>
+    <url value="http://fhir.mayfield-is.co.uk/GraphDefinition/ITK-eDischarge-1"/>
+    <name value="ITK eDischarge FHIR Document Graph Definition"/>
     <status value="draft"/>
     <date value="2019-03-03T00:00:00+00:00"/>
     <publisher value="Kevin Mayfield"/>
-   <!-- <profile value="https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/> -->
     <contact>
         <telecom>
             <system value="url"/>
             <value value="http://fhir.nhs.uk"/>
         </telecom>
     </contact>
-    <description value="A Graph Definition for eDischarge MessageDefinition https://fhir.nhs.uk/STU3/MessageDefinition/ITK-eDischarge-MessageDefinition-Instance-1"/>
-    <start value="MessageHeader"/>
+    <description value="A Graph Definition for eDischarge FHIR Document [Specification Diagram](https://developer.nhs.uk/apis/itk3tocedischarge/build_resource_referencing.html). When transmitted using MESH this will be part of the ITK Send Message Bundle"/>
+    <start value="Composition"/>
     <link>
-        <path value="Bundle.entry.resource"/>
+        <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="Message Header"/>
+        <description value="Composition. This contains the html version of the document and links out to structured resources."/>
         <target>
-            <type value="MessageHeader"/>
-            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/ITK-MessageHeader-2"/>
+            <type value="Composition"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-EDIS-Composition-1"/>
             <link>
-                <path value="MessageHeader.focus"/>
+                <path value="Composition.subject"/>
                 <min value="1"/>
                 <max value="1"/>
-                <description value="eDischarge FHIR Document"/>
+                <description value="Intended 'real-world' recipient for the data"/>
                 <target>
-                    <type value="Bundle"/>
+                    <type value="Patient"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
+                </target>
+            </link>
+            <link>
+                <path value="Composition.custodian"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Intended 'real-world' recipient for the data"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#custodian"/>
+                    </extension>
+                    <type value="Organization"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+                </target>
+            </link>
+            <link>
+                <path value="Composition.encounter"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Intended 'real-world' recipient for the data"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#discharge"/>
+                    </extension>
+                    <type value="Encounter"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Encounter-1"/>
+                </target>
+            </link>
+            <link>
+                <path value="Composition.section[x]"/>
+                <sliceName value="diagnosesSection"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Diagnoseses of problem"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#listdiagnosis"/>
+                    </extension>
+                    <type value="List"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Condition-List-1"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
-        <path value="Bundle.entry.resource"/>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#patient"/>
+        </extension>
+        <path value="Bundle.entry.resource[0]"/>
         <min value="1"/>
         <max value="1"/>
-        <description value="FHIR Document but this also could be payload"/>
+        <description value="Patient"/>
         <target>
-            <type value="Bundle"/>
+            <type value="Patient"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
             <link>
-                <path value="Bundle.entry.resource"/>
+                <path value="Patient.generalPractitioner"/>
                 <min value="1"/>
                 <max value="1"/>
-                <description value="FHIR Document but this also could be payload"/>
+                <description value="Patient usual GP"/>
                 <target>
-                    <type value="Composition"/>
-                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-EDIS-Composition-1"/>
-                    <link>
-                        <path value="Composition.subject"/>
-                        <min value="1"/>
-                        <max value="1"/>
-                        <description value="Intended 'real-world' recipient for the data"/>
-                        <target>
-                            <type value="Patient"/>
-                            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
-                        </target>
-                    </link>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#gp"/>
+                    </extension>
+                    <type value="Practitioner"/>
                 </target>
             </link>
+            <link>
+                <path value="Patient.managingOrganization[x]"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Patient Surgery"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#surgery"/>
+                    </extension>
+                    <type value="Organization"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#gp"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient usual GP"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Practitioner-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#consultant"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="*"/>
+        <description value="Author or Consultant"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Practitioner-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#surgery"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient Surgery"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#custodian"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Custodian (Organisation) of the document"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#discharge"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="The discharge encounter, relates to the PV1 segment of the triggering ADT^A03 (if using HL7v2)"/>
+        <target>
+            <type value="Encounter"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#listdiagnosis"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="List - Conditions where verificationStatus=confirmed"/>
+        <target>
+            <type value="List"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Condition-List-1"/>
+            <link>
+                <path value="List.entry[x].item"/>
+                <min value="1"/>
+                <max value="*"/>
+                <description value="Diagnoseses of problem"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                        <valueString value="#diagnosis"/>
+                    </extension>
+                    <type value="Condition"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Condition-1"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
+            <valueString value="#diagnosis"/>
+        </extension>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="The diagnosis conditions, relates to the DG1 segments of the triggering ADT^A03 (if using HL7v2)"/>
+        <target>
+            <type value="Condition"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Condition-1"/>
         </target>
     </link>
 </GraphDefinition>
