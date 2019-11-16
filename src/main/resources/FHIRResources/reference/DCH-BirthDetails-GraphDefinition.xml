@@ -1,0 +1,400 @@
+<GraphDefinition xmlns="http://hl7.org/fhir">
+    <id value="12"/>
+    <url value="http://fhir.mayfield-is.co.uk/GraphDefinition/DCH-BirthDetails-1"/>
+    <name value="DCH Birth Details FHIR Message Graph Definition"/>
+    <status value="draft"/>
+    <date value="2019-11-16T00:00:00+00:00"/>
+    <publisher value="Kevin Mayfield"/>
+    <contact>
+        <telecom>
+            <system value="url"/>
+            <value value="http://fhir.nhs.uk"/>
+        </telecom>
+    </contact>
+    <description value="A Graph Definition for DCH Birth Details FHIR Message [Specification Diagram](https://nhsconnect.github.io/Digital-Child-Health-STU3/explore_birth_details.html)."/>
+    <start value="MessageHeader"/>
+    <link>
+        <id value="#message"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="MessageHeader. Where the coding and display for the event element is fixed to ‘CH005 - Birth Details’"/>
+        <target>
+            <type value="MessageHeader"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-EDIS-Composition-1"/>
+            <link>
+                <path value="MessageHeader.focus"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="The focus of the message"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
+                </target>
+            </link>
+            
+        </target>
+    </link>
+    <link>
+        <id value="#encounter"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="The encounter, relates to the PV1 segment of the triggering ADT^A04 (if using HL7v2)"/>
+        <target>
+            <type value="Encounter"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
+            <link>
+                <path value="Encounter.subject"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="The patient"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
+                    <type value="Patient"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
+                </target>
+            </link>
+            <link>
+                <path value="Encounter.location"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Location"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#location"/>
+                    </extension>
+                    <type value="Location"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-Delivery-Location-1"/>
+                </target>
+            </link>
+           <link>
+                <path value="Encounter.serviceProvider"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Organisation"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#organisation"/>
+                    </extension>
+                    <type value="Organization"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#organisation"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Organisation"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+        </target>
+    </link>
+     <link>
+        <id value="#location"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Delivery Location"/>
+        <target>
+            <type value="Location"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-Delivery-Location-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#patient"/>
+        <path value="Bundle.entry.resource[0]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient"/>
+        <target>
+            <type value="Patient"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
+            <link>
+                <path value="Patient.generalPractitioner"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Patient usual GP"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#gp"/>
+                    </extension>
+                    <type value="Practitioner"/>
+                </target>
+            </link>
+            <link>
+                <path value="Patient.managingOrganization[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Patient Surgery"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#surgery"/>
+                    </extension>
+                    <type value="Organization"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#gp"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient usual GP"/>
+        <target>
+            <type value="Practitioner"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Practitioner-1"/>
+        </target>
+    </link>
+     <link>
+        <id value="#surgery"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Patient Surgery"/>
+        <target>
+            <type value="Organization"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+        </target>
+    </link>
+      <link>
+        <id value="#physicalproblemsatbirth"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Physical Problems detected at Birth"/>
+       <target>
+            <type value="Condition"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-PhysicalProblemAtBirth-Condition-1"/>
+            <link>
+                <path value="Condition.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#problemduringdelivery"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Physical Problems detected at Birth"/>
+       <target>
+            <type value="Condition"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-ProblemDuringDelivery-Condition-1"/>
+            <link>
+                <path value="Condition.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#attempteddeviverytype"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="Physical Problems detected at Birth"/>
+       <target>
+            <type value="Condition"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-AttemptedDeliveryType-Condition-1"/>
+            <link>
+                <path value="Condition.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#agparscore"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="2"/>
+        <max value="3"/>
+        <description value="APGAR Score"/>
+       <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-APGARScore-Observation-1"/>
+            <link>
+                <path value="Observation.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+     <link>
+        <id value="#lengthgestation"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Length of Gestation"/>
+       <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-LengthOfGestation-Observation-1"/>
+            <link>
+                <path value="Observation.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#numberofbirths"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Number of Births in confinement"/>
+       <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-NumberOfBirths-Observation-1"/>
+            <link>
+                <path value="Observation.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#spontaneousrespirationonset"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Spontaneous Respiration Onset"/>
+       <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-SpontaneousRespirationOnset-Observation-1"/>
+            <link>
+                <path value="Observation.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#PutToBreastIndicator"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="Put To Breast Indicator"/>
+       <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-PutToBreastIndicator-Observation-1"/>
+            <link>
+                <path value="Observation.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#NeonatalResuscitationMethod"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Neonatal Resuscitation Method"/>
+       <target>
+            <type value="Procedure"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-NeonatalResuscitationMethod-Procedure-1"/>
+            <link>
+                <path value="Procedure.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+     <link>
+        <id value="#FinalDeliveryType"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Type of Delivery"/>
+       <target>
+            <type value="Procedure"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-DCH-FinalDeliveryType-Procedure-1"/>
+            <link>
+                <path value="Procedure.context"/>
+                <min value="1"/>
+                <max value="1"/>
+                <description value="Birth Encounter"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#encounter"/>
+                    </extension>
+                    <type value="Encounter"/>
+                </target>
+            </link>
+        </target>
+    </link>
+</GraphDefinition>

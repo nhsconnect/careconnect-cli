@@ -110,6 +110,9 @@
                 <min value="1"/>
                 <max value="1"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
                     <type value="Patient"/>
                 </target>
             </link>
@@ -164,13 +167,27 @@
                 <max value="*"/>
                 <description value="Resolved Allergies (clinicalStatus=resolved)"/>
                 <target>
+                   <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#resolvedallergies"/>
+                    </extension>
                     <type value="AllergyIntolerance"/>
                 </target>
             </link>
         </target>
     </link>
+      <link>
+        <id value="#resolvedallergies"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Resolved Allergies. Rule: AllergyIntolerance.clinicalStatus = resolved"/>
+        <target>
+            <type value="AllergyIntolerance"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationStatement-1"/>
+        </target>
+    </link>
     <link>
-        <id value="#medicationrequestplan"/>
+        <id value="#listmedications"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
@@ -222,6 +239,15 @@
                         <valueString value="#medicationrequestplan"/>
                     </extension>
                     <type value="MedicationRequest"/>®
+                </target>
+            </link>
+            <link>
+                <path value="medicationReference"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#medication"/>
+                    </extension>
+                    <type value="Medication"/>
                 </target>
             </link>
         </target>

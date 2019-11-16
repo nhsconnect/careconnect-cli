@@ -13,6 +13,7 @@
     <description value="A Graph Definition for eDischarge FHIR Document [Specification Diagram](https://developer.nhs.uk/apis/itk3tocedischarge/build_resource_referencing.html). When transmitted using MESH this will be part of the ITK Send Message Bundle"/>
     <start value="Composition"/>
     <link>
+        <id value="#composition"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -26,21 +27,37 @@
                 <max value="1"/>
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
                     <type value="Patient"/>
                     <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
                 </target>
             </link>
             <link>
                 <path value="Composition.custodian"/>
-                <min value="1"/>
+                <min value="0"/>
                 <max value="1"/>
-                <description value="Intended 'real-world' recipient for the data"/>
+                <description value="Organization which maintains the composition"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#custodian"/>
                     </extension>
                     <type value="Organization"/>
                     <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1"/>
+                </target>
+            </link>
+             <link>
+                <path value="Composition.author"/>
+                <min value="1"/>
+                <max value="*"/>
+                <description value="Who and/or what authored the composition"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#consultant"/>
+                    </extension>
+                    <type value="Practitioner"/>
+                    <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Practitioner-1"/>
                 </target>
             </link>
             <link>
@@ -49,7 +66,7 @@
                 <max value="1"/>
                 <description value="Intended 'real-world' recipient for the data"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#discharge"/>
                     </extension>
                     <type value="Encounter"/>
@@ -57,25 +74,65 @@
                 </target>
             </link>
             <link>
-                <path value="Composition.section[x]"/>
+                <path value="Composition.section[x].entry"/>
                 <sliceName value="diagnosesSection"/>
                 <min value="0"/>
                 <max value="1"/>
                 <description value="Diagnoseses of problem"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#listdiagnosis"/>
                     </extension>
                     <type value="List"/>
                     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Condition-List-1"/>
                 </target>
             </link>
+            <link>
+                <path value="Composition.section[x].entry"/>
+                <sliceName value="admissionDetailsSection"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="Admission details. Should be present on Acute systems?"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#admission"/>
+                    </extension>
+                    <type value="Encounter"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
+                </target>
+            </link>
+             <link>
+                <path value="Composition.section[x].entry"/>
+                <sliceName value="patientDemographicsSection"/>
+                <min value="1"/>
+                <max value="*"/>
+                <description value="Patient being discharged"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
+                    <type value="Patient"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
+                </target>
+            </link>
+             <link>
+                <path value="Composition.section[x].entry"/>
+                <sliceName value="allergiesAndAdverseReactionsSection"/>
+                <min value="0"/>
+                <max value="*"/>
+                <description value="Patient being discharged"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#listallergies"/>
+                    </extension>
+                    <type value="List"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Allergy-List-1"/>
+                </target>
+            </link>
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#patient"/>
-        </extension>
+        <id value="#patient"/>
         <path value="Bundle.entry.resource[0]"/>
         <min value="1"/>
         <max value="1"/>
@@ -89,7 +146,7 @@
                 <max value="1"/>
                 <description value="Patient usual GP"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#gp"/>
                     </extension>
                     <type value="Practitioner"/>
@@ -101,7 +158,7 @@
                 <max value="1"/>
                 <description value="Patient Surgery"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#surgery"/>
                     </extension>
                     <type value="Organization"/>
@@ -110,9 +167,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#gp"/>
-        </extension>
+        <id value="#gp"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -123,9 +178,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#consultant"/>
-        </extension>
+        <id value="#consultant"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="*"/>
@@ -136,9 +189,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#surgery"/>
-        </extension>
+        <id value="#surgery"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -149,9 +200,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#custodian"/>
-        </extension>
+        <id value="#custodian"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -162,9 +211,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#discharge"/>
-        </extension>
+        <id value="#discharge"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -174,10 +221,19 @@
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
         </target>
     </link>
+     <link>
+        <id value="#admission"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="The admission encounter, relates to the PV1 segment of the triggering ADT^A01 (if using HL7v2)"/>
+        <target>
+            <type value="Encounter"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Encounter-1"/>
+        </target>
+    </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#listdiagnosis"/>
-        </extension>
+        <id value="#listdiagnosis"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
@@ -191,7 +247,7 @@
                 <max value="*"/>
                 <description value="Diagnoseses of problem"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#diagnosis"/>
                     </extension>
                     <type value="Condition"/>
@@ -201,9 +257,42 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#diagnosis"/>
-        </extension>
+        <id value="#listallergies"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="List - AllergyIntolerance"/>
+        <target>
+            <type value="List"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-ITK-Allergy-List-1"/>
+            <link>
+                <path value="List.entry[x].item"/>
+                <min value="1"/>
+                <max value="*"/>
+                <description value="Allergies"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#allergies"/>
+                    </extension>
+                    <type value="AllergyIntolerance"/>
+                    <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-AllergyIntolerance-1"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#allergies"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="*"/>
+        <description value="Allergies, relates to the AL1 segments of the triggering ADT^A03 (if using HL7v2)"/>
+        <target>
+            <type value="AllergyIntolerance"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-AllergyIntolerance-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#diagnosis"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
