@@ -14,9 +14,7 @@
     <start value="Patient"/>
     <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/GPConnect-StructuredRecord-Bundle-1"/>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#patient"/>
-        </extension>
+        <id value="#patient"/>
         <path value="Bundle.entry.resource[0]"/>
         <min value="1"/>
         <max value="1"/>
@@ -30,6 +28,9 @@
                 <max value="1"/>
                 <description value="Patient usual GP"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#gp"/>
+                    </extension>
                     <type value="Practitioner"/>
                 </target>
             </link>
@@ -39,15 +40,16 @@
                 <max value="1"/>
                 <description value="Patient Surgery"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#surgery"/>
+                    </extension>
                     <type value="Organization"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
-    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#gp"/>
-        </extension>
+        <id value="#gp"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -61,6 +63,9 @@
                 <max value="1"/>
                 <description value="Patient Usual GP Role"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#gprole"/>
+                    </extension>
                     <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
                         <valueString value="practitioner={id}"/>
                     </extension>
@@ -70,9 +75,7 @@
         </target>
     </link>
     <link>
-    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#surgery"/>
-        </extension>
+        <id value="#surgery"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -83,9 +86,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#gprole"/>
-        </extension>
+        <id value="#gprole"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="1"/>
         <max value="1"/>
@@ -96,6 +97,7 @@
         </target>
     </link>
     <link>
+        <id value="#listactiveallergies"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
@@ -117,15 +119,16 @@
                 <max value="*"/>
                 <description value="Active Allergies. (Rule: AllergyIntolerance.clinicalStatus = active)"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#activeallergies"/>
+                    </extension>
                     <type value="AllergyIntolerance"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#allergies"/>
-        </extension>
+        <id value="#activeallergies"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -136,6 +139,7 @@
         </target>
     </link>
     <link>
+        <id value="#listresolvedallergies"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -148,6 +152,9 @@
                 <min value="1"/>
                 <max value="1"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
                     <type value="Patient"/>
                 </target>
             </link>
@@ -163,9 +170,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#medicationrequestplan"/>
-        </extension>
+        <id value="#medicationrequestplan"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
@@ -178,6 +183,9 @@
                 <min value="1"/>
                 <max value="1"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#patient"/>
+                    </extension>
                     <type value="Patient"/>
                 </target>
             </link>
@@ -187,15 +195,16 @@
                 <max value="*"/>
                 <description value="Current and past Medications"/>
                 <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#medicationstatement"/>
+                    </extension>
                     <type value="MedicationStatement"/>
                 </target>
             </link>
         </target>
     </link>
     <link>
-     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#medicationstatement"/>
-        </extension>
+        <id value="#medicationstatement"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -209,15 +218,16 @@
                 <max value="1"/>
                 <description value="Medication Requests"/>
                 <target>
-                    <type value="MedicationRequest"/>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#medicationrequestplan"/>
+                    </extension>
+                    <type value="MedicationRequest"/>®
                 </target>
             </link>
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#medicationrequestplan"/>
-        </extension>
+        <id value="#medicationrequestplan"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -229,7 +239,7 @@
                 <path value="[reversed]"/>
                 <description value="Prescription Issue (intent=order)."/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medicationrequestorder"/>
                     </extension>
                     <extension url="http://hl7.org/fhir/4.0/StructureDefinition/extension-GraphDefinition.link.target.params">
@@ -241,7 +251,7 @@
             <link>
                 <path value="medicationReference"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medication"/>
                     </extension>
                     <type value="Medication"/>
@@ -250,9 +260,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#medicationrequestorder"/>
-        </extension>
+        <id value="#medicationrequestorder"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
@@ -264,7 +272,7 @@
                 <id value="edge"/>
                 <path value="medicationReference"/>
                 <target>
-                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetNodeId">
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medication"/>
                     </extension>
                     <type value="Medication"/>
@@ -273,9 +281,7 @@
         </target>
     </link>
     <link>
-        <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.sourceNodeId">
-            <valueString value="#medication"/>
-        </extension>
+        <id value="#medication"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="*"/>
