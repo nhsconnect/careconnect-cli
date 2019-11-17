@@ -54,7 +54,7 @@
                 <description value="The patient"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
-                        <valueString value="#patient"/>
+                        <valueString value="#child"/>
                     </extension>
                     <type value="Patient"/>
                     <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Patient-1"/>
@@ -111,7 +111,7 @@
         </target>
     </link>
     <link>
-        <id value="#patient"/>
+        <id value="#child"/>
         <path value="Bundle.entry.resource[0]"/>
         <min value="1"/>
         <max value="1"/>
