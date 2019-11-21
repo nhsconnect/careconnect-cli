@@ -1,8 +1,8 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
     <url value="http://fhir.mayfield-is.co.uk/GraphDefinition/NEWS2-Model-1"/>
-    <name value="Sample Model"/>
+    <name value="NEWS2 Model"/>
     <status value="draft"/>
-    <date value="2019-21-19T00:00:00+00:00"/>
+    <date value="2019-11-21T00:00:00+00:00"/>
     <publisher value="Kevin Mayfield"/>
     <contact>
         <telecom>
@@ -29,7 +29,7 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
                 <description value="Observations within an DiagnosticReport"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
-                        <valueString value="#bloodpressure"/>
+                        <valueString value="#BloodPressure"/>
                     </extension>
                     <type value="Observation"/>
                 </target>
