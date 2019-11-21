@@ -10,8 +10,8 @@
             <value value="http://fhir.nhs.uk"/>
         </telecom>
     </contact>
-    <description value="A model built on openEHR model (CKM Model: 	
-NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
+    <description value="A model built on openEHR model [CKM Model: 	
+NEWS2](https://ckm.apperta.org/ckm/archetypes/1051.32.707)"/>
     <start value="DiagnosticReport"/>
     <link>
         <id value="#diagnostics"/>
@@ -38,7 +38,10 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
                 <path value="DiagnosticReport.result[x]"/>
                 <min value="0"/>
                 <max value="1"/>
-                <description value="Observations within an DiagnosticReport"/>
+                <description value="*0: 12-20* [The respiratory rate measurement is between 12 and 20 breaths/min; scored as 0 points.]
+*1: 9-11* [The respiratory rate measurement is between 9 and 11 breaths/min; scored as 1 point.]
+*2: 21-24* [The respiratory rate measurement is between 21 and 24 breaths/min; scored as 2 points.]
+*3: &lt;=8 or &gt;=25* [The respiratory rate measurement is less than/equal to 8 breaths/min or greater than/equal to 25 breaths/min; scored as 3 points.]"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#RespirationRate"/>
@@ -82,6 +85,18 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
                     <type value="Observation"/>
                 </target>
             </link>
+             <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#ACVPU"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
             <link>
                 <path value="DiagnosticReport.result[x]"/>
                 <min value="0"/>
@@ -113,7 +128,10 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="A Vital Signs profile to carry blood pressure information that contains at least one component for systolic and/or diastolic pressure."/>
+        <description value="**0: 111-219** [The systolic blood pressure measurement is between 111 and 219 mmHg; scored as 0 points.] \n\n 
+**1: 101-110** [The systolic blood pressure measurement is between 101 and 110 mmHg; scored as 1 point.]\n\n
+**2: 91-100** [The systolic blood pressure measurement is between 91 and 100 mmHg; scored as 2 points.]\n\n
+**3: &lt;=90 or &gt;= 220** [The systolic blood pressure measurement is less than/equal to 90 mmHg or greater than/equal to 220 mmHg; scored as 3 points.]"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BloodPressure-Observation-1"/>
@@ -124,7 +142,10 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="A Vital Signs profile to carry a patient's respiratory rate."/>
+        <description value="**0: 12-20** [The respiratory rate measurement is between 12 and 20 breaths/min; scored as 0 points.]\n\n
+**1: 9-11** [The respiratory rate measurement is between 9 and 11 breaths/min; scored as 1 point.]\n\n
+**2: 21-24** [The respiratory rate measurement is between 21 and 24 breaths/min; scored as 2 points.]\n\n
+**3: &lt;=8 or &gt;=25** [The respiratory rate measurement is less than/equal to 8 breaths/min or greater than/equal to 25 breaths/min; scored as 3 points.]"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-RespiratoryRate-Observation-1"/>
@@ -135,7 +156,8 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="An Observation resource used to carry observables relating to inspired oxygen for a patient"/>
+        <description value="**0:** Air [The patient is not receiving supplemental oxygen; scored as 0 points.] \n\n
+**2:** Oxygen [The patient is receiving supplemental oxygen; scored as 2 points.]"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-InspiredOxygen-Observation-1"/>
@@ -146,7 +168,15 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="A Vital Signs profile to carry oxygen saturation information."/>
+        <description value="**0: &gt;= 96** [The oxygen saturation level is greater than/equal to 96%; scored as 0 points.] \n\n
+**1: 94-95** [The oxygen saturation level is between 94% and 95%; scored as 1 point.] \n\n
+**2: 92-93** [The oxygen saturation level is between 92% and 93%; scored as 2 points.] \n\n
+**3: &lt;=91** [The oxygen saturation level is less than/equal to 91%; scored as 3 points.] \n\n# on air \n\n
+**0: 88-92 or &gt;=93 on air** [The oxygen saturation level is between 88% and 92% or greater than/equal to 93% on air; scored as 0 points.] \n\n
+**1: 86-87 or 93-94 on O₂** [The oxygen saturation level is between 86% and 87% or between 93% and 94% on supplemental oxygen; scored as 1 point.] \n\n
+**2: 84-85 or 95-96 on O₂** [The oxygen saturation level is between 84% and 85% or between 95% and 96% on supplemental oxygen; scored as 2 points.] \n\n
+**3: &lt;=83 or &gt;=97 on O₂** [The oxygen saturation level is less or equal 83% or between >=97% on supplemental oxygen; scored as 3 points.] \n\n
+"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-OxygenSaturation-Observation-1"/>
@@ -157,7 +187,10 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="A Vital Signs profile to carry a patient's heart rate or pulse."/>
+        <description value="**0: 51-90** [The pulse measurement is between 51 and 90 beats/min; scored as 0 points.] \n\n
+**1: 41-50 or 91-110** [The pulse measurement is between 41 and 50 beats/min or between 91 and 110 beats/min; scored as 1 point.] \n\n
+**2: 111-130** [The pulse measurement is between 111 and 130 beats/min; scored as 2 points.] \n\n
+**3: &lt;=40 or &gt;=131** [The pulse measurement is less than/equal to 40 beats/min or greater than/equal to 131 beats/min; scored as 3 points.]"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-HeartRate-Observation-1"/>
@@ -168,10 +201,25 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="This profile is used to carry alert, new-onset or worsening confusion, voice, pain, and unresponsiveness observations for a patient."/>
+        <description value="**0: 36.1-38.0** [The body temperature measurement is between 36.1 and 38.0 degrees Celsius; scored as 0 points.] \n\n
+**1: 35.1-36.0 or 38.1-39.0** [The body temperature measurement is between 35.1 and 36.0 degrees Celsius or between 38.1 and 39.0 degrees Celsius; scored as 1 point.] \n\n
+**2: &gt;=39.1** [The body temperature is greater than/equal to 39.1 degrees Celcius; scored as 2 points.] \n\n
+**3: &lt;=35.0** [The body temperature is less than/equal to 35 degrees Celcius ; scored as 3 points.]"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BodyTemperature-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#ACVPU"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="**0:** Alert [The patient is alert or awake; scored as 0 points.]\n\n
+**3: Confusion, V, P or U** [The patient is newly confused, responds only to voice or pain, or is unresponsive; scored as 3 points.]"/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-ACVPU-Observation-1"/>
         </target>
     </link>
     <link>
@@ -179,7 +227,8 @@ NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
         <path value="Bundle.entry.resource[x]"/>
         <min value="0"/>
         <max value="1"/>
-        <description value="TThis level 3 Observation profile captures the National Early Warning Score (NEWS2), it is an aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice, when patients present to, or are being monitored in hospital. Six simple physiological parameters form the basis of the scoring system: 1 respiration rate 2 oxygen saturation 3 systolic blood pressure 4 pulse rate 5 level of consciousness or new confusion 6 temperature."/>
+        <description value="The total sum of ordinal values associated with six relevant NEWS2 physiological parameters, plus the supplemental oxygen weighting score. \n\n
+*Comment: Total score may be generated at run-time.*"/>
         <target>
             <type value="Observation"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-NEWS2-Observation-1"/>
