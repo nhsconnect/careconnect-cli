@@ -1,0 +1,188 @@
+<GraphDefinition xmlns="http://hl7.org/fhir">
+    <url value="http://fhir.mayfield-is.co.uk/GraphDefinition/NEWS2-Model-1"/>
+    <name value="Sample Model"/>
+    <status value="draft"/>
+    <date value="2019-21-19T00:00:00+00:00"/>
+    <publisher value="Kevin Mayfield"/>
+    <contact>
+        <telecom>
+            <system value="url"/>
+            <value value="http://fhir.nhs.uk"/>
+        </telecom>
+    </contact>
+    <description value="A model built on openEHR model (CKM Model: 	
+NEWS2)[https://ckm.openehr.org/ckm/archetypes/1013.1.3342]"/>
+    <start value="DiagnosticReport"/>
+    <link>
+        <id value="#diagnostics"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="1"/>
+        <max value="1"/>
+        <description value="Top level container for the NEWS Observations"/>
+        <target>
+            <type value="DiagnosticReport"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-DiagnosticReport-1"/>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#bloodpressure"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#RespirationRate"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#InspiredOxygen"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#OxygenSaturation"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#HeartRate"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#BodyTemperature"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+            <link>
+                <path value="DiagnosticReport.result[x]"/>
+                <min value="0"/>
+                <max value="1"/>
+                <description value="Observations within an DiagnosticReport"/>
+                <target>
+                    <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
+                        <valueString value="#NEWS2"/>
+                    </extension>
+                    <type value="Observation"/>
+                </target>
+            </link>
+        </target>
+    </link>
+    <link>
+        <id value="#BloodPressure"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="A Vital Signs profile to carry blood pressure information that contains at least one component for systolic and/or diastolic pressure."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BloodPressure-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#RespirationRate"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="A Vital Signs profile to carry a patient's respiratory rate."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-RespiratoryRate-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#InspiredOxygen"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="An Observation resource used to carry observables relating to inspired oxygen for a patient"/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-InspiredOxygen-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#OxygenSaturation"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="A Vital Signs profile to carry oxygen saturation information."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-OxygenSaturation-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#HeartRate"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="A Vital Signs profile to carry a patient's heart rate or pulse."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-HeartRate-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#BodyTemperature"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="This profile is used to carry alert, new-onset or worsening confusion, voice, pain, and unresponsiveness observations for a patient."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-BodyTemperature-Observation-1"/>
+        </target>
+    </link>
+    <link>
+        <id value="#NEWS2"/>
+        <path value="Bundle.entry.resource[x]"/>
+        <min value="0"/>
+        <max value="1"/>
+        <description value="TThis level 3 Observation profile captures the National Early Warning Score (NEWS2), it is an aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice, when patients present to, or are being monitored in hospital. Six simple physiological parameters form the basis of the scoring system: 1 respiration rate 2 oxygen saturation 3 systolic blood pressure 4 pulse rate 5 level of consciousness or new confusion 6 temperature."/>
+        <target>
+            <type value="Observation"/>
+            <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-NEWS2-Observation-1"/>
+        </target>
+    </link>
+</GraphDefinition>
