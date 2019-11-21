@@ -1,4 +1,5 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
+	<id value="3"/>
     <url value="https://fhir.mayfield-is.co.uk/GraphDefinition/GPC-GetStructuredRecord-1"/>
     <name value="GPC Patient Structured Record"/>
     <status value="draft"/>
@@ -243,6 +244,8 @@
             </link>
             <link>
                 <path value="medicationReference"/>
+                <min value="1"/>
+                <max value="1"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medication"/>
@@ -262,7 +265,9 @@
             <type value="MedicationRequest"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
             <link>
-                <path value="[reversed]"/>
+                <path value="[Reversed]"/>
+                <min value="0"/>
+                <max value="*"/>
                 <description value="Prescription Issue (intent=order)."/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
@@ -276,6 +281,8 @@
             </link>
             <link>
                 <path value="medicationReference"/>
+                <min value="1"/>
+                <max value="1"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medication"/>
@@ -295,8 +302,9 @@
             <type value="MedicationRequest"/>
             <profile value="https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-MedicationRequest-1"/>
             <link>
-                <id value="edge"/>
                 <path value="medicationReference"/>
+                  <min value="1"/>
+                <max value="1"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
                         <valueString value="#medication"/>

@@ -1,4 +1,5 @@
 <GraphDefinition xmlns="http://hl7.org/fhir">
+    <id value="1"/>
     <url value="http://fhir.mayfield-is.co.uk/GraphDefinition/ITK-eDischarge-1"/>
     <name value="ITK eDischarge FHIR Document Graph Definition"/>
     <status value="draft"/>
@@ -77,7 +78,7 @@
                 <path value="Composition.section[x].entry"/>
                 <sliceName value="diagnosesSection"/>
                 <min value="0"/>
-                <max value="1"/>
+                <max value="*"/>
                 <description value="Diagnoseses of problem"/>
                 <target>
                     <extension url="https://fhir.mayfield-is.co.uk/extension-GraphDefinition.targetLinkId">
