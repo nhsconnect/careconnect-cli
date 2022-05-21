@@ -39,14 +39,8 @@ public class CliApp {
     static {
         ourCommands = new ArrayList<BaseCommand>();
 
-         // TODO    ourCommands.add(new ValidationDataUploader());
-            ourCommands.add(new ValidateCommand());
-
             ourCommands.add(new ODSUploader());
-            ourCommands.add(new ITKSRPDataUploader());
-            ourCommands.add(new GitDownloader());
-            ourCommands.add(new UploadExamples());
-            ourCommands.add(new LoadSamples());
+
           //  ourCommands.add(new CodeSystemImport());
 
         // disabled due to performance issues   ourCommands.add(new UploadTerminologyCommand());

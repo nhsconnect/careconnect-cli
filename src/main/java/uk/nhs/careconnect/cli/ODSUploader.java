@@ -17,10 +17,10 @@ import org.apache.commons.io.Charsets;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.input.BOMInputStream;
 import org.apache.commons.lang3.StringUtils;
-import org.hl7.fhir.dstu3.model.*;
 import org.hl7.fhir.instance.model.api.IIdType;
-import uk.org.hl7.fhir.core.Stu3.CareConnectProfile;
+import org.hl7.fhir.r4.model.*;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
+
 
 import java.io.*;
 import java.util.*;
@@ -144,16 +144,13 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
             uploadPractitioner();
 
-            System.out.println("National Health Service Trust site");
-            handler = new LocationHandler("930631000000102", "National Health Service Trust site");
-            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ets.zip", "ets.csv");
-            uploadLocation();
-
+/*
+TODO?
             System.out.println("GP practice site");
             handler = new LocationHandler("394761003", "GP practice site");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ebranchs.zip", "ebranchs.csv");
             uploadLocation();
-
+*/
 		}
 
 	}
@@ -329,7 +326,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         }
 	    return result;
     }
-
+/*
     public class LocationHandler implements IRecordHandler {
 
 	    private String typeSncCT = "";
@@ -348,7 +345,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         public void accept(CSVRecord theRecord) {
             Location location = new Location();
             location.setId("dummy");
-            location.setMeta(new Meta().addProfile(CareConnectProfile.Location_1));
 
             location.addIdentifier()
                     .setSystem(CareConnectSystem.ODSSiteCode)
@@ -399,14 +395,13 @@ http://127.0.0.1:8080/careconnect-ri/STU3
         }
 
     }
-
+*/
     public class ConsultantHandler implements IRecordHandler {
         @Override
         public void accept(CSVRecord theRecord) {
             // System.out.println(theRecord.toString());
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
-            practitioner.setMeta(new Meta().addProfile(CareConnectProfile.Practitioner_1));
 
             practitioner.addIdentifier()
                     .setSystem(CareConnectSystem.SDSUserId)
@@ -485,7 +480,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
-            practitioner.setMeta(new Meta().addProfile(CareConnectProfile.Practitioner_1));
 
             practitioner.addIdentifier()
                     .setSystem(CareConnectSystem.SDSUserId)
@@ -593,7 +587,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
 
                 organization.setId("dummy");
-                organization.setMeta(new Meta().addProfile(CareConnectProfile.Organization_1));
 
 
                 organization.addIdentifier()
