@@ -7,9 +7,10 @@ public class CareConnectSystem {
     public static final String NHSNumber = "https://fhir.nhs.uk/Id/nhs-number";
 
     public static final String ODSOrganisationCode ="https://fhir.nhs.uk/Id/ods-organization-code";
-    public static final String SDSUserId="https://fhir.nhs.uk/Id/sds-user-id";
+    public static final String GMPNumber="https://fhir.hl7.org.uk/Id/gmp-number";
+    public static final String GMCNumber="https://fhir.hl7.org.uk/Id/gmc-number";
     public static final String ODSSiteCode="https://fhir.nhs.uk/Id/ods-site-code";
-
+    public static final String IDOrgComb="https://fhir.virtually.healthCare/Id/idorg";
 
 
     public static final String NHSNumberVerificationStatus = "https://fhir.hl7.org.uk/STU3/CodeSystem/CareConnect-NHSNumberVerificationStatus-1";

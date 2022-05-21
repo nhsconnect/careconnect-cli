@@ -83,6 +83,22 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 		opt.setRequired(true);
 		options.addOption(opt);
 
+        opt = new Option("c", "client", true, "OAuth2 Client Id");
+        opt.setRequired(true);
+        options.addOption(opt);
+
+        opt = new Option("s", "secret", true, "OAuth2 Client Secret");
+        opt.setRequired(true);
+        options.addOption(opt);
+
+        opt = new Option("u", "tokenurl", true, "OAuth2 Token Url");
+        opt.setRequired(true);
+        options.addOption(opt);
+
+        opt = new Option("k", "apiKey", true, "AWS ApiKey");
+        opt.setRequired(true);
+        options.addOption(opt);
+
 		opt = new Option("e", "exclude", true, "Exclude uploading the given resources, e.g. \"-e dicom-dcim,foo\"");
 		opt.setRequired(false);
 		options.addOption(opt);
@@ -99,7 +115,27 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 			throw new ParseException("Invalid target server specified, must begin with 'http'");
 		}
 
-		ctx = getSpecVersionContext(theCommandLine);
+        String clientId = theCommandLine.getOptionValue("c");
+        if (isBlank(clientId)) {
+            throw new ParseException("No clientId specified");
+        }
+
+        String clientSecret = theCommandLine.getOptionValue("s");
+        if (isBlank(clientSecret)) {
+            throw new ParseException("No clientSecret specified");
+        }
+
+        String tokenUrl = theCommandLine.getOptionValue("u");
+        if (isBlank(tokenUrl)) {
+            throw new ParseException("No clientSecret specified");
+        }
+
+        String apiKey = theCommandLine.getOptionValue("u");
+        if (isBlank(apiKey)) {
+            throw new ParseException("No apikey specified");
+        }
+
+        ctx = getSpecVersionContext(theCommandLine);
 		String exclude = theCommandLine.getOptionValue("e");
 
 		if (isNotBlank(exclude)) {
@@ -112,8 +148,9 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 			}
 		}
 
-		if (ctx.getVersion().getVersion() == FhirVersionEnum.DSTU3) {
+		if (ctx.getVersion().getVersion() == FhirVersionEnum.R4) {
             client = ctx.newRestfulGenericClient(targetServer);
+            client.registerInterceptor(new AccessTokenInterceptor(null, clientId, clientSecret,tokenUrl,apiKey));
 
             IRecordHandler handler = null;
 
@@ -121,7 +158,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             handler = new OrgHandler("930621000000104","National Health Service Trust");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "etr.zip", "etr.csv");
             uploadOrganisation();
-
+/*
             System.out.println("Health Authority (CCG)");
             handler = new OrgHandler("394747008","Health Authority");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "eccg.zip", "eccg.csv");
@@ -143,7 +180,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             handler = new ConsultantHandler();
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
             uploadPractitioner();
-
+*/
 /*
 TODO?
             System.out.println("GP practice site");
@@ -403,9 +440,15 @@ TODO?
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
 
-            practitioner.addIdentifier()
-                    .setSystem(CareConnectSystem.SDSUserId)
-                    .setValue(theRecord.get(1));
+            if (theRecord.get(1).startsWith("C")) {
+                practitioner.addIdentifier()
+                        .setSystem(CareConnectSystem.GMCNumber)
+                        .setValue(theRecord.get(1));
+            } else {
+                practitioner.addIdentifier()
+                        .setSystem(CareConnectSystem.GMPNumber)
+                        .setValue(theRecord.get(1));
+            }
 
             practitioner.setActive(true);
 
@@ -444,10 +487,10 @@ TODO?
                 }
             }
             role.addIdentifier()
-                    .setSystem(CareConnectSystem.SDSUserId)
+                    .setSystem(CareConnectSystem.IDOrgComb)
                     .setValue(theRecord.get(1));
             // Make a note of the practitioner. Will need to change to correct code
-            role.setPractitioner(new Reference(theRecord.get(1)));
+            role.setPractitioner(new Reference(theRecord.get(1)+theRecord.get(7)));
 
            /* TODO basic ConceptMapping */
 
@@ -481,9 +524,16 @@ TODO?
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
 
-            practitioner.addIdentifier()
-                    .setSystem(CareConnectSystem.SDSUserId)
-                    .setValue(theRecord.get("OrganisationCode"));
+            if (theRecord.get("OrganisationCode").startsWith("C")) {
+                practitioner.addIdentifier()
+                        .setSystem(CareConnectSystem.GMCNumber)
+                        .setValue(theRecord.get("OrganisationCode"));
+            } else {
+                practitioner.addIdentifier()
+                        .setSystem(CareConnectSystem.GMPNumber)
+                        .setValue(theRecord.get("OrganisationCode"));
+            }
+
 
             if (!theRecord.get("ContactTelephoneNumber").isEmpty()) {
                 practitioner.addTelecom()
@@ -537,8 +587,8 @@ TODO?
                 }
             }
             role.addIdentifier()
-                    .setSystem(CareConnectSystem.SDSUserId)
-                    .setValue(theRecord.get("OrganisationCode"));
+                    .setSystem(CareConnectSystem.IDOrgComb)
+                    .setValue(theRecord.get("OrganisationCode")+theRecord.get("Commissioner"));
             // Make a note of the practitioner. Will need to change to correct code
             role.setPractitioner(new Reference(theRecord.get("OrganisationCode")));
             if (!theRecord.get("OrganisationSubTypeCode").isEmpty()) {

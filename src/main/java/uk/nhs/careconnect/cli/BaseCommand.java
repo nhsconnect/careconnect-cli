@@ -97,22 +97,10 @@ public abstract class BaseCommand implements Comparable<BaseCommand> {
 	public abstract Options getOptions();
 
 	protected FhirContext getSpecVersionContext(CommandLine theCommandLine) throws ParseException {
-		if (myFhirCtx == null) {
-			String specVersion = theCommandLine.getOptionValue("f", SPEC_DEFAULT_VERSION);
-			specVersion = specVersion.toLowerCase();
-			FhirVersionEnum version;
-			if ("dstu2".equals(specVersion)) {
-				version = FhirVersionEnum.DSTU2_HL7ORG;
-			} else if ("dstu3".equals(specVersion)) {
-				version = FhirVersionEnum.DSTU3;
-		//	} else if ("r4".equals(specVersion)) {
-		//		version = FhirVersionEnum.R4;
-			} else {
-				throw new ParseException("Unknown spec version: " + specVersion);
-			}
 
-			myFhirCtx = new FhirContext(version);
-		}
+
+		myFhirCtx = FhirContext.forR4();
+
 		return myFhirCtx;
 	}
 

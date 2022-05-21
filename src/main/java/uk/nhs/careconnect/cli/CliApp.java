@@ -120,7 +120,7 @@ public class CliApp {
     private static void logAppHeader() {
         System.out.flush();
         System.out.println("------------------------------------------------------------");
-        System.out.println("\ud83d\udd25 " + ansi().bold() + "Care Connect with HAPI FHIR " + ansi().boldOff() + " " + VersionUtil.getVersion() + " - Command Line Tool");
+        System.out.println("\ud83d\udd25 " + ansi().bold() + "Virtually CLI with HAPI FHIR " + ansi().boldOff() + " " + VersionUtil.getVersion() + " - Command Line Tool");
         System.out.println("------------------------------------------------------------");
       //  System.out.println("Max configured JVM memory (Xmx): " + FileUtils.getFileSizeDisplay(Runtime.getRuntime().maxMemory(), 1));
         System.out.println("Detected Java version: " + System.getProperty("java.version"));
@@ -135,10 +135,13 @@ public class CliApp {
         // log version while the logging is off
         VersionUtil.getVersion();
 
+
+
         if (theArgs.length == 0) {
             logUsage();
             return;
         }
+
 
         if (theArgs[0].equals("help")) {
             if (theArgs.length < 2) {
