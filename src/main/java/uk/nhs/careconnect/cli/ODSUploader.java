@@ -19,6 +19,7 @@ import org.apache.commons.io.input.BOMInputStream;
 import org.apache.commons.lang3.StringUtils;
 import org.hl7.fhir.instance.model.api.IIdType;
 import org.hl7.fhir.r4.model.*;
+import org.springframework.security.oauth2.client.OAuth2AuthorizedClientManager;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
 
@@ -31,6 +32,12 @@ import static org.apache.commons.lang3.StringUtils.isBlank;
 import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
 public class ODSUploader extends BaseCommand {
+
+    ODSUploader( OAuth2AuthorizedClientManager _authorizedClientManager) {
+        this.authorizedClientManager = _authorizedClientManager;
+    }
+    OAuth2AuthorizedClientManager authorizedClientManager;
+
 
 	private static final org.slf4j.Logger ourLog = org.slf4j.LoggerFactory.getLogger(ODSUploader.class);
 
@@ -83,18 +90,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 		opt.setRequired(true);
 		options.addOption(opt);
 
-        opt = new Option("c", "client", true, "OAuth2 Client Id");
-        opt.setRequired(true);
-        options.addOption(opt);
-
-        opt = new Option("s", "secret", true, "OAuth2 Client Secret");
-        opt.setRequired(true);
-        options.addOption(opt);
-
-        opt = new Option("u", "tokenurl", true, "OAuth2 Token Url");
-        opt.setRequired(true);
-        options.addOption(opt);
-
         opt = new Option("k", "apiKey", true, "AWS ApiKey");
         opt.setRequired(true);
         options.addOption(opt);
@@ -115,22 +110,8 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 			throw new ParseException("Invalid target server specified, must begin with 'http'");
 		}
 
-        String clientId = theCommandLine.getOptionValue("c");
-        if (isBlank(clientId)) {
-            throw new ParseException("No clientId specified");
-        }
 
-        String clientSecret = theCommandLine.getOptionValue("s");
-        if (isBlank(clientSecret)) {
-            throw new ParseException("No clientSecret specified");
-        }
-
-        String tokenUrl = theCommandLine.getOptionValue("u");
-        if (isBlank(tokenUrl)) {
-            throw new ParseException("No clientSecret specified");
-        }
-
-        String apiKey = theCommandLine.getOptionValue("u");
+        String apiKey = theCommandLine.getOptionValue("k");
         if (isBlank(apiKey)) {
             throw new ParseException("No apikey specified");
         }
@@ -150,7 +131,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
 		if (ctx.getVersion().getVersion() == FhirVersionEnum.R4) {
             client = ctx.newRestfulGenericClient(targetServer);
-            client.registerInterceptor(new AccessTokenInterceptor(null, clientId, clientSecret,tokenUrl,apiKey));
+            client.registerInterceptor(new AccessTokenInterceptor(authorizedClientManager, apiKey));
 
             IRecordHandler handler = null;
 

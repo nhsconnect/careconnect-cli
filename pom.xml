@@ -71,6 +71,7 @@
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-starter-oauth2-client</artifactId>
       </dependency>
+
       <dependency>
           <groupId>com.fasterxml.jackson.module</groupId>
           <artifactId>jackson-module-kotlin</artifactId>
