@@ -99,10 +99,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 		opt.setRequired(true);
 		options.addOption(opt);
 
-        opt = new Option("k", "apiKey", true, "AWS ApiKey");
-        opt.setRequired(true);
-        options.addOption(opt);
-
 		opt = new Option("e", "exclude", true, "Exclude uploading the given resources, e.g. \"-e dicom-dcim,foo\"");
 		opt.setRequired(false);
 		options.addOption(opt);
@@ -119,11 +115,6 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 			throw new ParseException("Invalid target server specified, must begin with 'http'");
 		}
 
-
-        String apiKey = theCommandLine.getOptionValue("k");
-        if (isBlank(apiKey)) {
-            throw new ParseException("No apikey specified");
-        }
 
         ctx = getSpecVersionContext(theCommandLine);
 		String exclude = theCommandLine.getOptionValue("e");
@@ -740,7 +731,7 @@ TODO?
         Practitioner practitioner = docMap.get(idCode);
         if (practitioner != null) return practitioner;
         Bundle bundle = client.search()
-                .byUrl("Pracitioner?identifier=" + idSystem + "%7C" +idCode)
+                .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
                 .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                 .execute();
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
@@ -755,7 +746,7 @@ TODO?
         PractitionerRole role = roleMap.get(idCode);
         if (role != null) return role;
         Bundle bundle = client.search()
-                .byUrl("PracitionerRole?identifier=" + idSystem + "%7C" +idCode)
+                .byUrl("PractitionerRole?identifier=" + idSystem + "%7C" +idCode)
                 .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                 .execute();
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
