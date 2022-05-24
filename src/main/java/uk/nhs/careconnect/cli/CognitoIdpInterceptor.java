@@ -41,7 +41,7 @@ public class CognitoIdpInterceptor implements IClientInterceptor {
 
     @Override
     public void interceptResponse(IHttpResponse iHttpResponse) throws IOException {
-        if (iHttpResponse.getStatus() != 200) {
+        if (iHttpResponse.getStatus() != 200 && iHttpResponse.getStatus() != 201) {
             System.out.println(iHttpResponse.getStatus());
         }
         // if unauthorised force a token refresh

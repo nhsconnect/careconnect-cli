@@ -519,41 +519,38 @@ TODO?
 
             // TODO Missing addition of specialty field 5 and organisation field 7
 
+
+
             PractitionerRole role = new PractitionerRole();
 
             if (!theRecord.get(7).isEmpty()) {
                 Organization parentOrg = getOrganisationODS(theRecord.get(7));
 
                 if (parentOrg != null) {
-                    role.setOrganization(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
+                    role.setOrganization(new Reference().setIdentifier(new Identifier().setValue(parentOrg.getId()).setSystem(CareConnectSystem.ODSOrganisationCode)).setDisplay(parentOrg.getName()));
                 }
             }
             role.addIdentifier()
                     .setSystem(CareConnectSystem.IDOrgComb)
                     .setValue(theRecord.get(1));
             // Make a note of the practitioner. Will need to change to correct code
-            role.setPractitioner(new Reference(theRecord.get(1)+theRecord.get(7)));
+            CodeableConcept concept = new CodeableConcept();
+            concept.addCoding()
+                    .setSystem(CareConnectSystem.SNOMEDCT)
+                    .setCode("768839008")
+                    .setDisplay("Consultant");
+            role.getCode().add(concept);
+            role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
             role.setActive(true);
            /* TODO basic ConceptMapping */
 
-           switch(theRecord.get(5)) {
-               case "101":
-                   CodeableConcept specialty = new CodeableConcept();
-                   specialty.addCoding()
-                           .setSystem(CareConnectSystem.SNOMEDCT)
-                           .setCode("394612005")
-                           .setDisplay("Urology (qualifier value)");
-                   role.getSpecialty().add(specialty);
-                   break;
-               case "320":
-                   CodeableConcept concept = new CodeableConcept();
-                   concept.addCoding()
-                           .setSystem(CareConnectSystem.SNOMEDCT)
-                           .setCode("394579002")
-                           .setDisplay("Cardiology (qualifier value)");
-                   role.getSpecialty().add(concept);
-                   break;
-           }
+            if (!theRecord.get(5).isEmpty()) {
+                CodeableConcept specialty = new CodeableConcept();
+                specialty.addCoding()
+                        .setSystem(CareConnectSystem.NHSDictionaryClinicalSpecialty)
+                        .setCode(theRecord.get(5));
+                role.getSpecialty().add(specialty);
+            }
             roles.add(role);
         }
 
@@ -639,9 +636,9 @@ TODO?
                     case "P":
                         CodeableConcept concept = new CodeableConcept();
                         concept.addCoding()
-                                .setSystem(CareConnectSystem.SDSJobRoleName)
-                                .setCode("R0260")
-                                .setDisplay("General Medical Practitioner");
+                                .setSystem(CareConnectSystem.SNOMEDCT)
+                                .setCode("62247001")
+                                .setDisplay("General practitioner");
                         role.getCode().add(concept);
                 }
             }
