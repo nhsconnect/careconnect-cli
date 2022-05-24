@@ -143,12 +143,12 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             client.registerInterceptor(new CognitoIdpInterceptor(apiKey,userName,password,clientId) );
 
             IRecordHandler handler = null;
-
+/*
             System.out.println("National Health Service Trust");
             handler = new OrgHandler("930621000000104","National Health Service Trust");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "etr.zip", "etr.csv");
             uploadOrganisation();
-/*
+
             System.out.println("Health Authority (CCG)");
             handler = new OrgHandler("394747008","Health Authority");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "eccg.zip", "eccg.csv");
@@ -156,16 +156,15 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
             System.out.println("General practice");
             handler = new OrgHandler("394745000","General practice");
-            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");
-            uploadOrganisation();
+            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
 
-
+*/
 
             System.out.println("GP");
             handler = new PractitionerHandler();
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");
             uploadPractitioner();
-
+/*
             System.out.println("Consultants");
             handler = new ConsultantHandler();
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
@@ -197,7 +196,7 @@ TODO?
             }
             if (outcome != null & outcome.getId() != null ) {
                 organization.setId(outcome.getId().getIdPart());
-                orgMap.put(organization.getIdentifier().get(0).getValue(), organization);
+
             }
         }
         orgs.clear();
@@ -220,14 +219,27 @@ TODO?
     }
     private void uploadPractitioner() {
         for (Practitioner practitioner : docs) {
+            Practitioner tempPractitioner = getPractitionerById(practitioner.getIdentifier().get(0).getSystem(),practitioner.getIdentifier().get(0).getValue());
 
-            MethodOutcome outcome = client.update().resource(practitioner)
-                    .conditionalByUrl("Practitioner?identifier=" + practitioner.getIdentifier().get(0).getSystem() + "%7C" +practitioner.getIdentifier().get(0).getValue())
-                    .execute();
+            MethodOutcome outcome = null;
+            if (tempPractitioner != null) {
 
-            if (outcome.getId() != null ) {
+                practitioner.setId(tempPractitioner.getId());
+                // Need to preserve identifiers on AWS
+                if (practitioner.getIdentifier() != null) {
+                    for (Identifier identifier: tempPractitioner.getIdentifier()) {
+                        if (identifier.getValue() != practitioner.getIdentifier().get(0).getValue()) {
+                            practitioner.addIdentifier(identifier);
+                        }
+                    }
+                }
+                outcome = client.update().resource(practitioner).execute();
+            } else {
+                outcome = client.create().resource(practitioner)
+                        .execute();
+            }
+            if (outcome != null & outcome.getId() != null ) {
                 practitioner.setId(outcome.getId().getIdPart());
-                docMap.put(practitioner.getIdentifier().get(0).getValue(), practitioner);
             }
         }
         docs.clear();
@@ -238,9 +250,10 @@ TODO?
                 Practitioner practitioner = docMap.get(practitionerRole.getPractitioner().getReference());
 
                 if (practitioner != null) {
-                    practitionerRole.setPractitioner(new Reference("Practitioner/"+practitioner.getId()));
+                    practitionerRole.setPractitioner(new Reference(practitioner.getId()));
                 }
             }
+            /*
             MethodOutcome outcome = client.update().resource(practitionerRole)
                     .conditionalByUrl("PractitionerRole?identifier=" + practitionerRole.getIdentifier().get(0).getSystem() + "%7C" +practitionerRole.getIdentifier().get(0).getValue())
                     .execute();
@@ -248,6 +261,38 @@ TODO?
             if (outcome.getId() != null ) {
                 practitionerRole.setId(outcome.getId().getIdPart());
 
+            }
+
+             */
+            PractitionerRole tempPractitionerRole = getPractitionerRoleById(practitionerRole.getIdentifier().get(0).getSystem(),practitionerRole.getIdentifier().get(0).getValue());
+
+            if (practitionerRole.hasOrganization() && practitionerRole.getOrganization().hasIdentifier()) {
+                Organization organization = getOrganisationODS(practitionerRole.getOrganization().getIdentifier().getValue());
+                practitionerRole.getOrganization().setReference(organization.getId());
+            }
+            if (practitionerRole.hasPractitioner() && practitionerRole.getPractitioner().hasIdentifier()) {
+                Practitioner practitioner = getPractitionerById(practitionerRole.getPractitioner().getIdentifier().getSystem(),practitionerRole.getPractitioner().getIdentifier().getValue());
+                practitionerRole.getPractitioner().setReference(practitioner.getId());
+            }
+            MethodOutcome outcome = null;
+            if (tempPractitionerRole != null) {
+
+                practitionerRole.setId(tempPractitionerRole.getId());
+                // Need to preserve identifiers on AWS
+                if (practitionerRole.getIdentifier() != null) {
+                    for (Identifier identifier: tempPractitionerRole.getIdentifier()) {
+                        if (identifier.getValue() != practitionerRole.getIdentifier().get(0).getValue()) {
+                            practitionerRole.addIdentifier(identifier);
+                        }
+                    }
+                }
+                outcome = client.update().resource(practitionerRole).execute();
+            } else {
+                outcome = client.create().resource(practitionerRole)
+                        .execute();
+            }
+            if (outcome != null & outcome.getId() != null ) {
+                practitionerRole.setId(outcome.getId().getIdPart());
             }
         }
         roles.clear();
@@ -421,7 +466,7 @@ TODO?
 
                 if (parentOrg != null) {
                    // System.out.println("Org Id = "+parentOrg.getId());
-                    location.setManagingOrganization(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
+                    location.setManagingOrganization(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
                 }
             }
 
@@ -480,7 +525,7 @@ TODO?
                 Organization parentOrg = getOrganisationODS(theRecord.get(7));
 
                 if (parentOrg != null) {
-                    role.setOrganization(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
+                    role.setOrganization(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
                 }
             }
             role.addIdentifier()
@@ -580,14 +625,14 @@ TODO?
                 Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
 
                 if (parentOrg != null) {
-                    role.setOrganization(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
+                    role.setOrganization(new Reference().setIdentifier(parentOrg.getIdentifierFirstRep()));
                 }
             }
             role.addIdentifier()
                     .setSystem(CareConnectSystem.IDOrgComb)
                     .setValue(theRecord.get("OrganisationCode")+theRecord.get("Commissioner"));
             // Make a note of the practitioner. Will need to change to correct code
-            role.setPractitioner(new Reference(theRecord.get("OrganisationCode")));
+            role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
             if (!theRecord.get("OrganisationSubTypeCode").isEmpty()) {
                 switch (theRecord.get("OrganisationSubTypeCode")) {
                     case "O":
@@ -654,7 +699,7 @@ TODO?
                 if (!theRecord.get("Commissioner").isEmpty()) {
                     Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
                     if (parentOrg != null) {
-                        organization.setPartOf(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
+                        organization.setPartOf(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
                     }
                 }
                 organization.setActive(true);
@@ -691,6 +736,35 @@ TODO?
 
     }
 
+    private Practitioner getPractitionerById(String idSystem, String idCode ) {
+        Practitioner practitioner = docMap.get(idCode);
+        if (practitioner != null) return practitioner;
+        Bundle bundle = client.search()
+                .byUrl("Pracitioner?identifier=" + idSystem + "%7C" +idCode)
+                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                .execute();
+        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
+            practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
+            docMap.put(idCode, practitioner);
+            return practitioner;
+        }
+        return null;
+    }
+
+    private PractitionerRole getPractitionerRoleById(String idSystem, String idCode ) {
+        PractitionerRole role = roleMap.get(idCode);
+        if (role != null) return role;
+        Bundle bundle = client.search()
+                .byUrl("PracitionerRole?identifier=" + idSystem + "%7C" +idCode)
+                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                .execute();
+        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
+            role = (PractitionerRole) bundle.getEntry().get(0).getResource();
+            roleMap.put(idCode, role);
+            return role;
+        }
+        return null;
+    }
     private Organization getOrganisationODS(String odsCode) {
         Organization organization = orgMap.get(odsCode);
         if (organization != null) return organization;
@@ -700,6 +774,7 @@ TODO?
                 .execute();
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
             organization = (Organization) bundle.getEntry().get(0).getResource();
+            orgMap.put(odsCode, organization);
             return organization;
         }
         return null;
