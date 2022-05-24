@@ -211,99 +211,88 @@ TODO?
     }
     private void uploadPractitioner() throws InterruptedException {
         Integer count = 0;
+        /*
         for (Practitioner practitioner : docs) {
             count++;
-            if ((count % 200) ==0 ) {
+            if ((count % 100) ==0 ) {
                 System.out.println(count);
             }
-            Practitioner tempPractitioner = getPractitionerById(practitioner.getIdentifier().get(0).getSystem(),practitioner.getIdentifier().get(0).getValue());
+            if (practitioner.getActive()) {
+                Practitioner tempPractitioner = getPractitionerById(practitioner.getIdentifier().get(0).getSystem(), practitioner.getIdentifier().get(0).getValue());
 
-            MethodOutcome outcome = null;
-            if (tempPractitioner != null) {
+                MethodOutcome outcome = null;
+                if (tempPractitioner != null) {
 
-                practitioner.setId(tempPractitioner.getId());
-                // Need to preserve identifiers on AWS
-                if (practitioner.getIdentifier() != null) {
-                    for (Identifier identifier: tempPractitioner.getIdentifier()) {
-                        if (identifier.getValue() != practitioner.getIdentifier().get(0).getValue()) {
-                            practitioner.addIdentifier(identifier);
+                    practitioner.setId(tempPractitioner.getId());
+                    // Need to preserve identifiers on AWS
+                    if (practitioner.getIdentifier() != null) {
+                        for (Identifier identifier : tempPractitioner.getIdentifier()) {
+                            if (!identifier.getValue().equals(practitioner.getIdentifier().get(0).getValue())) {
+                                practitioner.addIdentifier(identifier);
+                            }
                         }
                     }
-                }
-                Integer retry =3;
-                while (retry > 0) {
-                    try {
-                        outcome = client.update().resource(practitioner).execute();
-                    } catch (Exception ex) {
-                        // do nothing
-                        ourLog.error(ex.getMessage());
-                        retry--;
+                    Integer retry = 3;
+                    while (retry > 0) {
+                        try {
+                            outcome = client.update().resource(practitioner).execute();
+                        } catch (Exception ex) {
+                            // do nothing
+                            ourLog.error(ex.getMessage());
+                            retry--;
+                        }
+                        break;
                     }
-                    break;
-                }
 
-            } else {
-                outcome = client.create().resource(practitioner)
-                        .execute();
-            }
-            if (outcome != null & outcome.getId() != null ) {
-                practitioner.setId(outcome.getId().getIdPart());
+                } else {
+                    outcome = client.create().resource(practitioner)
+                            .execute();
+                }
+                if (outcome != null & outcome.getId() != null) {
+                    practitioner.setId(outcome.getId());
+                }
             }
         }
+        */
         docs.clear();
         count = 0;
         for (PractitionerRole practitionerRole : roles) {
             count++;
-            if ((count % 200) ==0 ) {
+            if ((count % 100) ==0 ) {
                 System.out.println(count);
             }
-            if (practitionerRole.getPractitioner() != null) {
-                Practitioner practitioner = docMap.get(practitionerRole.getPractitioner().getReference());
+            if (practitionerRole.getActive()) {
 
-                if (practitioner != null) {
-                    practitionerRole.setPractitioner(new Reference(practitioner.getId()));
+                PractitionerRole tempPractitionerRole = getPractitionerRoleById(practitionerRole.getIdentifier().get(0).getSystem(), practitionerRole.getIdentifier().get(0).getValue());
+
+                if (practitionerRole.hasOrganization() && practitionerRole.getOrganization().hasIdentifier()) {
+                    Organization organization = getOrganisationODS(practitionerRole.getOrganization().getIdentifier().getValue());
+                    if (organization !=null) practitionerRole.getOrganization().setReference(organization.getId());
                 }
-            }
-            /*
-            MethodOutcome outcome = client.update().resource(practitionerRole)
-                    .conditionalByUrl("PractitionerRole?identifier=" + practitionerRole.getIdentifier().get(0).getSystem() + "%7C" +practitionerRole.getIdentifier().get(0).getValue())
-                    .execute();
-            //     System.out.println(outcome.getId());
-            if (outcome.getId() != null ) {
-                practitionerRole.setId(outcome.getId().getIdPart());
+                if (practitionerRole.hasPractitioner() && practitionerRole.getPractitioner().hasIdentifier()) {
+                    Practitioner practitioner = getPractitionerById(practitionerRole.getPractitioner().getIdentifier().getSystem(), practitionerRole.getPractitioner().getIdentifier().getValue());
+                    if (practitioner != null) practitionerRole.getPractitioner().setReference(practitioner.getId());
+                }
+                MethodOutcome outcome = null;
+                if (tempPractitionerRole != null) {
 
-            }
-
-             */
-            PractitionerRole tempPractitionerRole = getPractitionerRoleById(practitionerRole.getIdentifier().get(0).getSystem(),practitionerRole.getIdentifier().get(0).getValue());
-
-            if (practitionerRole.hasOrganization() && practitionerRole.getOrganization().hasIdentifier()) {
-                Organization organization = getOrganisationODS(practitionerRole.getOrganization().getIdentifier().getValue());
-                practitionerRole.getOrganization().setReference(organization.getId());
-            }
-            if (practitionerRole.hasPractitioner() && practitionerRole.getPractitioner().hasIdentifier()) {
-                Practitioner practitioner = getPractitionerById(practitionerRole.getPractitioner().getIdentifier().getSystem(),practitionerRole.getPractitioner().getIdentifier().getValue());
-                practitionerRole.getPractitioner().setReference(practitioner.getId());
-            }
-            MethodOutcome outcome = null;
-            if (tempPractitionerRole != null) {
-
-                practitionerRole.setId(tempPractitionerRole.getId());
-                // Need to preserve identifiers on AWS
-                if (practitionerRole.getIdentifier() != null) {
-                    for (Identifier identifier: tempPractitionerRole.getIdentifier()) {
-                        if (identifier.getValue() != practitionerRole.getIdentifier().get(0).getValue()) {
-                            practitionerRole.addIdentifier(identifier);
+                    practitionerRole.setId(tempPractitionerRole.getId());
+                    // Need to preserve identifiers on AWS
+                    if (practitionerRole.getIdentifier() != null) {
+                        for (Identifier identifier : tempPractitionerRole.getIdentifier()) {
+                            if (!identifier.getValue().equals(practitionerRole.getIdentifier().get(0).getValue())) {
+                                practitionerRole.addIdentifier(identifier);
+                            }
                         }
                     }
+                    outcome = client.update().resource(practitionerRole).execute();
+                } else {
+                    outcome = client.create().resource(practitionerRole)
+                            .execute();
                 }
-                outcome = client.update().resource(practitionerRole).execute();
-            } else {
-                outcome = client.create().resource(practitionerRole)
-                        .execute();
-            }
-            if (outcome != null & outcome.getId() != null ) {
-                practitionerRole.setId(outcome.getId().getIdPart());
+                if (outcome != null & outcome.getId() != null) {
+                    practitionerRole.setId(outcome.getId());
+                }
             }
         }
         roles.clear();
@@ -544,7 +533,7 @@ TODO?
                     .setValue(theRecord.get(1));
             // Make a note of the practitioner. Will need to change to correct code
             role.setPractitioner(new Reference(theRecord.get(1)+theRecord.get(7)));
-
+            role.setActive(true);
            /* TODO basic ConceptMapping */
 
            switch(theRecord.get(5)) {
@@ -655,6 +644,10 @@ TODO?
                                 .setDisplay("General Medical Practitioner");
                         role.getCode().add(concept);
                 }
+            }
+            role.setActive(true);
+            if (!theRecord.get("CloseDate").isEmpty()) {
+                role.setActive(false);
             }
             CodeableConcept specialty = new CodeableConcept();
             specialty.addCoding()
