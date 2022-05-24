@@ -667,16 +667,11 @@ TODO?
               //v  System.out.println(theRecord.toString());
                 Organization organization = new Organization();
 
-
-
                 organization.setId("dummy");
-
 
                 organization.addIdentifier()
                         .setSystem(CareConnectSystem.ODSOrganisationCode )
                         .setValue(theRecord.get("OrganisationCode"));
-
-
 
 
                 organization.setName(Inicaps(theRecord.get("Name")));
@@ -730,10 +725,20 @@ TODO?
     private Practitioner getPractitionerById(String idSystem, String idCode ) {
         Practitioner practitioner = docMap.get(idCode);
         if (practitioner != null) return practitioner;
-        Bundle bundle = client.search()
+        Bundle bundle = null;
+        Integer retry =3;
+        while (retry > 0) {
+            try {
+        bundle = client.search()
                 .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
                 .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                 .execute();
+            } catch (Exception ex) {
+                // do nothing
+                retry--;
+            }
+            break;
+        }
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
             practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
             docMap.put(idCode, practitioner);
@@ -745,10 +750,20 @@ TODO?
     private PractitionerRole getPractitionerRoleById(String idSystem, String idCode ) {
         PractitionerRole role = roleMap.get(idCode);
         if (role != null) return role;
-        Bundle bundle = client.search()
+        Bundle bundle = null;
+        Integer retry =3;
+        while (retry > 0) {
+            try {
+        bundle = client.search()
                 .byUrl("PractitionerRole?identifier=" + idSystem + "%7C" +idCode)
                 .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                 .execute();
+            } catch (Exception ex) {
+                // do nothing
+                retry--;
+            }
+            break;
+        }
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
             role = (PractitionerRole) bundle.getEntry().get(0).getResource();
             roleMap.put(idCode, role);
@@ -759,14 +774,24 @@ TODO?
     private Organization getOrganisationODS(String odsCode) {
         Organization organization = orgMap.get(odsCode);
         if (organization != null) return organization;
-        Bundle bundle = client.search()
-                .byUrl("Organization?identifier=" + CareConnectSystem.ODSOrganisationCode + "%7C" +odsCode)
-                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
-                .execute();
+        Bundle bundle = null;
+        Integer retry =3;
+        while (retry > 0) {
+            try {
+                bundle = client.search()
+                        .byUrl("Organization?identifier=" + CareConnectSystem.ODSOrganisationCode + "%7C" + odsCode)
+                        .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                        .execute();
+            } catch (Exception ex) {
+                // do nothing
+                retry--;
+            }
+            break;
+        }
         if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
-            organization = (Organization) bundle.getEntry().get(0).getResource();
-            orgMap.put(odsCode, organization);
-            return organization;
+                organization = (Organization) bundle.getEntry().get(0).getResource();
+                orgMap.put(odsCode, organization);
+                return organization;
         }
         return null;
     }
