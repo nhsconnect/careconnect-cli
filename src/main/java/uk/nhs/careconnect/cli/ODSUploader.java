@@ -236,17 +236,30 @@ TODO?
                     while (retry > 0) {
                         try {
                             outcome = client.update().resource(practitioner).execute();
+                            break;
                         } catch (Exception ex) {
                             // do nothing
                             ourLog.error(ex.getMessage());
                             retry--;
                         }
-                        break;
+
                     }
 
                 } else {
-                    outcome = client.create().resource(practitioner)
-                            .execute();
+                    Integer retry = 3;
+                    while (retry > 0) {
+                        try {
+                             outcome = client.create().resource(practitioner)
+                            .execute();`
+                            break;
+                        } catch (Exception ex) {
+                            // do nothing
+                            ourLog.error(ex.getMessage());
+                            sleep(1000);
+                            retry--;
+                        }
+                    }
+
                 }
                 if (outcome != null & outcome.getId() != null) {
                     practitioner.setId(outcome.getId());
@@ -285,10 +298,34 @@ TODO?
                             }
                         }
                     }
-                    outcome = client.update().resource(practitionerRole).execute();
+                    Integer retry = 3;
+                    while (retry > 0) {
+                        try {
+                            outcome = client.update().resource(practitionerRole).execute();
+                            break;
+                        } catch (Exception ex) {
+                            // do nothing
+                            ourLog.error(ex.getMessage());
+                            sleep(1000);
+                            retry--;
+                        }
+                    }
+
                 } else {
-                    outcome = client.create().resource(practitionerRole)
-                            .execute();
+                    Integer retry = 3;
+                    while (retry > 0) {
+                        try {
+                            outcome = client.create().resource(practitionerRole)
+                                    .execute();
+                            break;
+                        } catch (Exception ex) {
+                            // do nothing
+                            ourLog.error(ex.getMessage());
+                            sleep(1000);
+                            retry--;
+                        }
+                    }
+
                 }
                 if (outcome != null & outcome.getId() != null) {
                     practitionerRole.setId(outcome.getId());
@@ -739,10 +776,10 @@ TODO?
         Integer retry =3;
         while (retry > 0) {
             try {
-        bundle = client.search()
-                .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
-                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
-                .execute();
+                bundle = client.search()
+                        .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
+                        .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                        .execute();
                 if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
                     practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
                     docMap.put(idCode, practitioner);
@@ -781,7 +818,7 @@ TODO?
                 sleep(1000);
                 retry--;
             }
-            break;
+
         }
 
         return null;
@@ -808,7 +845,7 @@ TODO?
                 sleep(1000);
                 retry--;
             }
-            break;
+
         }
 
         return null;
