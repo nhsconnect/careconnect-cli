@@ -19,7 +19,6 @@ import org.apache.commons.io.input.BOMInputStream;
 import org.apache.commons.lang3.StringUtils;
 import org.hl7.fhir.instance.model.api.IIdType;
 import org.hl7.fhir.r4.model.*;
-import org.springframework.security.oauth2.client.OAuth2AuthorizedClientManager;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
 
@@ -33,10 +32,20 @@ import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
 public class ODSUploader extends BaseCommand {
 
-    ODSUploader( OAuth2AuthorizedClientManager _authorizedClientManager) {
-        this.authorizedClientManager = _authorizedClientManager;
+    ODSUploader( String _apiKey,
+                 String _userName,
+                 String _password,
+                 String _clientId) {
+        this.apiKey = _apiKey;
+        this.password = _password;
+        this.userName = _userName;
+        this.clientId = _clientId;
     }
-    OAuth2AuthorizedClientManager authorizedClientManager;
+
+    private String apiKey;
+    private String userName;
+    private String password;
+    private String clientId;
 
 
 	private static final org.slf4j.Logger ourLog = org.slf4j.LoggerFactory.getLogger(ODSUploader.class);
@@ -131,7 +140,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
 		if (ctx.getVersion().getVersion() == FhirVersionEnum.R4) {
             client = ctx.newRestfulGenericClient(targetServer);
-            client.registerInterceptor(new AccessTokenInterceptor(authorizedClientManager, apiKey));
+            client.registerInterceptor(new CognitoIdpInterceptor(apiKey,userName,password,clientId) );
 
             IRecordHandler handler = null;
 
@@ -175,11 +184,18 @@ TODO?
 
 	private void uploadOrganisation() {
 	    for (Organization organization : orgs) {
-            MethodOutcome outcome = client.update().resource(organization)
-                    .conditionalByUrl("Organization?identifier=" + organization.getIdentifier().get(0).getSystem() + "%7C" +organization.getIdentifier().get(0).getValue())
-                    .execute();
+            Organization tempOrg = getOrganisationODS(organization.getIdentifier().get(0).getValue());
 
-            if (outcome.getId() != null ) {
+            MethodOutcome outcome = null;
+            if (tempOrg != null) {
+                //Organization temp = (Organization)
+                organization.setId(tempOrg.getId());
+                outcome = client.update().resource(organization).execute();
+            } else {
+                outcome = client.create().resource(organization)
+                        .execute();
+            }
+            if (outcome != null & outcome.getId() != null ) {
                 organization.setId(outcome.getId().getIdPart());
                 orgMap.put(organization.getIdentifier().get(0).getValue(), organization);
             }
@@ -401,7 +417,7 @@ TODO?
 
             if (!theRecord.get("Commissioner").isEmpty()) {
 
-                Organization parentOrg = orgMap.get(theRecord.get("Commissioner"));
+                Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
 
                 if (parentOrg != null) {
                    // System.out.println("Org Id = "+parentOrg.getId());
@@ -461,7 +477,7 @@ TODO?
             PractitionerRole role = new PractitionerRole();
 
             if (!theRecord.get(7).isEmpty()) {
-                Organization parentOrg = orgMap.get(theRecord.get(7));
+                Organization parentOrg = getOrganisationODS(theRecord.get(7));
 
                 if (parentOrg != null) {
                     role.setOrganization(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
@@ -561,7 +577,7 @@ TODO?
             PractitionerRole role = new PractitionerRole();
 
             if (!theRecord.get("Commissioner").isEmpty()) {
-                Organization parentOrg = orgMap.get(theRecord.get("Commissioner"));
+                Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
 
                 if (parentOrg != null) {
                     role.setOrganization(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
@@ -636,7 +652,7 @@ TODO?
                             .setSystem(ContactPoint.ContactPointSystem.PHONE);
                 }
                 if (!theRecord.get("Commissioner").isEmpty()) {
-                    Organization parentOrg = orgMap.get(theRecord.get("Commissioner"));
+                    Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
                     if (parentOrg != null) {
                         organization.setPartOf(new Reference("Organization/"+parentOrg.getId()).setDisplay(parentOrg.getName()));
                     }
@@ -673,6 +689,20 @@ TODO?
 
         }
 
+    }
+
+    private Organization getOrganisationODS(String odsCode) {
+        Organization organization = orgMap.get(odsCode);
+        if (organization != null) return organization;
+        Bundle bundle = client.search()
+                .byUrl("Organization?identifier=" + CareConnectSystem.ODSOrganisationCode + "%7C" +odsCode)
+                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                .execute();
+        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
+            organization = (Organization) bundle.getEntry().get(0).getResource();
+            return organization;
+        }
+        return null;
     }
 
     private static class ZippedFileInputStream extends InputStream {

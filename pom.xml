@@ -88,8 +88,15 @@
           <version>1.16</version>
       </dependency>
 
+      <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-cognitoidp -->
+      <dependency>
+          <groupId>com.amazonaws</groupId>
+          <artifactId>aws-java-sdk-cognitoidp</artifactId>
+          <version>1.12.225</version>
+      </dependency>
 
-   <!-- HL7 HAPI FHIR -->
+
+      <!-- HL7 HAPI FHIR -->
       <dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-base</artifactId>

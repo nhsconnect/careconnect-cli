@@ -58,6 +58,15 @@ public class CliApp {
     @Value( "${cli.tokenUrl}" )
     private String tokenUrl;
 
+    @Value( "${cli.user}" )
+    private String user;
+
+    @Value( "${cli.pass}" )
+    private String pass;
+
+    @Value( "${cli.apiKey}" )
+    private String apiKey;
+
     @Autowired
     OAuth2AuthorizedClientManager authorizedClientManager;
 
@@ -160,7 +169,7 @@ public class CliApp {
         AnsiConsole.systemInstall();
 
         ourCommands = new ArrayList<BaseCommand>();
-        ourCommands.add(new ODSUploader(this.authorizedClientManager));
+        ourCommands.add(new ODSUploader(this.apiKey,this.user,this.pass,this.clientId));
 
         Collections.sort(ourCommands);
 
@@ -275,10 +284,9 @@ public class CliApp {
 
         return ClientRegistration.withRegistrationId("aws")
                 .clientId(clientId)
-                //.clientSecret(clientSecret)
+                .clientSecret(clientSecret)
                 .clientAuthenticationMethod(ClientAuthenticationMethod.POST)
                 .authorizationGrantType(AuthorizationGrantType.PASSWORD)
-                .u
                 .scope("user/*.cruds", "openid", "aws.cognito.signin.user.admin")
                 .tokenUri(tokenUrl)
                 .build();
