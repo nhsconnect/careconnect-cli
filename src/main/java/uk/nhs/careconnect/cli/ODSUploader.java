@@ -27,6 +27,7 @@ import java.util.*;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
+import static java.lang.Thread.sleep;
 import static org.apache.commons.lang3.StringUtils.isBlank;
 import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
@@ -107,7 +108,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 	}
 
 	@Override
-	public void run(CommandLine theCommandLine) throws ParseException {
+	public void run(CommandLine theCommandLine) throws ParseException, InterruptedException {
 		String targetServer = theCommandLine.getOptionValue("t");
 		if (isBlank(targetServer)) {
 			throw new ParseException("No target server (-t) specified");
@@ -172,7 +173,7 @@ TODO?
 
 	}
 
-	private void uploadOrganisation() {
+	private void uploadOrganisation() throws InterruptedException {
 	    for (Organization organization : orgs) {
             Organization tempOrg = getOrganisationODS(organization.getIdentifier().get(0).getValue());
 
@@ -208,8 +209,13 @@ TODO?
         }
         locs.clear();
     }
-    private void uploadPractitioner() {
+    private void uploadPractitioner() throws InterruptedException {
+        Integer count = 0;
         for (Practitioner practitioner : docs) {
+            count++;
+            if ((count % 200) ==0 ) {
+                System.out.println(count);
+            }
             Practitioner tempPractitioner = getPractitionerById(practitioner.getIdentifier().get(0).getSystem(),practitioner.getIdentifier().get(0).getValue());
 
             MethodOutcome outcome = null;
@@ -224,7 +230,18 @@ TODO?
                         }
                     }
                 }
-                outcome = client.update().resource(practitioner).execute();
+                Integer retry =3;
+                while (retry > 0) {
+                    try {
+                        outcome = client.update().resource(practitioner).execute();
+                    } catch (Exception ex) {
+                        // do nothing
+                        ourLog.error(ex.getMessage());
+                        retry--;
+                    }
+                    break;
+                }
+
             } else {
                 outcome = client.create().resource(practitioner)
                         .execute();
@@ -234,9 +251,12 @@ TODO?
             }
         }
         docs.clear();
+        count = 0;
         for (PractitionerRole practitionerRole : roles) {
-
-
+            count++;
+            if ((count % 200) ==0 ) {
+                System.out.println(count);
+            }
             if (practitionerRole.getPractitioner() != null) {
                 Practitioner practitioner = docMap.get(practitionerRole.getPractitioner().getReference());
 
@@ -380,7 +400,7 @@ TODO?
 	}
 
     private interface IRecordHandler {
-        void accept(CSVRecord theRecord);
+        void accept(CSVRecord theRecord) throws InterruptedException;
     }
     private String Inicaps(String string) {
 	    String result = null;
@@ -468,7 +488,7 @@ TODO?
 */
     public class ConsultantHandler implements IRecordHandler {
         @Override
-        public void accept(CSVRecord theRecord) {
+        public void accept(CSVRecord theRecord) throws InterruptedException {
             // System.out.println(theRecord.toString());
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
@@ -552,7 +572,7 @@ TODO?
 
     public class PractitionerHandler implements IRecordHandler {
         @Override
-        public void accept(CSVRecord theRecord) {
+        public void accept(CSVRecord theRecord) throws InterruptedException {
 
             Practitioner practitioner = new Practitioner();
             practitioner.setId("dummy");
@@ -663,7 +683,7 @@ TODO?
         }
 
         @Override
-        public void accept(CSVRecord theRecord) {
+        public void accept(CSVRecord theRecord) throws InterruptedException {
               //v  System.out.println(theRecord.toString());
                 Organization organization = new Organization();
 
@@ -722,7 +742,7 @@ TODO?
 
     }
 
-    private Practitioner getPractitionerById(String idSystem, String idCode ) {
+    private Practitioner getPractitionerById(String idSystem, String idCode ) throws InterruptedException {
         Practitioner practitioner = docMap.get(idCode);
         if (practitioner != null) return practitioner;
         Bundle bundle = null;
@@ -733,45 +753,50 @@ TODO?
                 .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
                 .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                 .execute();
+                if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
+                    practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
+                    docMap.put(idCode, practitioner);
+                    return practitioner;
+                }
             } catch (Exception ex) {
                 // do nothing
+                ourLog.error(ex.getMessage());
+                sleep(1000);
                 retry--;
             }
-            break;
         }
-        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
-            practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
-            docMap.put(idCode, practitioner);
-            return practitioner;
-        }
+
         return null;
     }
 
-    private PractitionerRole getPractitionerRoleById(String idSystem, String idCode ) {
+    private PractitionerRole getPractitionerRoleById(String idSystem, String idCode ) throws InterruptedException {
         PractitionerRole role = roleMap.get(idCode);
         if (role != null) return role;
         Bundle bundle = null;
         Integer retry =3;
         while (retry > 0) {
             try {
-        bundle = client.search()
-                .byUrl("PractitionerRole?identifier=" + idSystem + "%7C" +idCode)
-                .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
-                .execute();
+                bundle = client.search()
+                    .byUrl("PractitionerRole?identifier=" + idSystem + "%7C" +idCode)
+                    .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
+                    .execute();
+                if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
+                    role = (PractitionerRole) bundle.getEntry().get(0).getResource();
+                    roleMap.put(idCode, role);
+                    return role;
+                }
             } catch (Exception ex) {
                 // do nothing
+                ourLog.error(ex.getMessage());
+                sleep(1000);
                 retry--;
             }
             break;
         }
-        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
-            role = (PractitionerRole) bundle.getEntry().get(0).getResource();
-            roleMap.put(idCode, role);
-            return role;
-        }
+
         return null;
     }
-    private Organization getOrganisationODS(String odsCode) {
+    private Organization getOrganisationODS(String odsCode) throws InterruptedException {
         Organization organization = orgMap.get(odsCode);
         if (organization != null) return organization;
         Bundle bundle = null;
@@ -782,17 +807,20 @@ TODO?
                         .byUrl("Organization?identifier=" + CareConnectSystem.ODSOrganisationCode + "%7C" + odsCode)
                         .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                         .execute();
+                if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
+                    organization = (Organization) bundle.getEntry().get(0).getResource();
+                    orgMap.put(odsCode, organization);
+                    return organization;
+                }
             } catch (Exception ex) {
                 // do nothing
+                ourLog.error(ex.getMessage());
+                sleep(1000);
                 retry--;
             }
             break;
         }
-        if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
-                organization = (Organization) bundle.getEntry().get(0).getResource();
-                orgMap.put(odsCode, organization);
-                return organization;
-        }
+
         return null;
     }
 
