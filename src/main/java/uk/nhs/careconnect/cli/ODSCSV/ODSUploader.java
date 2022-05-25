@@ -154,12 +154,12 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
 
 */
-/*
+
             System.out.println("GP");
-            handler = new PractitionerHandler();
+            handler = new PractitionerHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");
             uploadPractitioner();
-*/
+
             System.out.println("Consultants");
             handler = new ConsultantHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
