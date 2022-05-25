@@ -189,7 +189,7 @@ TODO?
 
             if (organization.hasPartOf() && organization.getPartOf().hasIdentifier()) {
                 Organization org = getOrganisationODS(organization.getPartOf().getIdentifier().getValue());
-                if (org !=null) organization.getPartOf().setReference(organization.getId());
+                if (org !=null) organization.getPartOf().setReference(org.getId());
             }
 
 
@@ -227,7 +227,7 @@ TODO?
                     }
                 }
             }
-            if (outcome != null & outcome.getId() != null ) {
+            if (outcome != null && outcome.getId() != null ) {
                 organization.setId(outcome.getId().getIdPart());
 
             }
@@ -375,6 +375,7 @@ TODO?
 
     private boolean checkUpdatedPractitionerRole(PractitionerRole practitionerRole, PractitionerRole tempPractitionerRole) {
         if (tempPractitionerRole.getActive() != practitionerRole.getActive()) return true;
+
         if (tempPractitionerRole.hasPractitioner() && !tempPractitionerRole.getPractitioner().hasReference() && practitionerRole.hasPractitioner()) return true;
         return false;
     }
@@ -386,6 +387,7 @@ TODO?
 
     private boolean checkUpdatedOrganization(Organization organization, Organization tempOrganization) {
         if (tempOrganization.getActive() != organization.getActive()) return true;
+        if (organization.hasPartOf() && organization.getPartOf().hasReference() && !organization.getPartOf().getReference().contains(tempOrganization.getPartOf().getReference())) return true;
         if (!tempOrganization.getTypeFirstRep().getCodingFirstRep().getCode().equals(organization.getTypeFirstRep().getCodingFirstRep().getCode())) return true;
         return false;
     }
