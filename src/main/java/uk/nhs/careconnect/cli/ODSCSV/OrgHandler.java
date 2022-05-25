@@ -1,10 +1,7 @@
 package uk.nhs.careconnect.cli.ODSCSV;
 
 import org.apache.commons.csv.CSVRecord;
-import org.hl7.fhir.r4.model.Address;
-import org.hl7.fhir.r4.model.ContactPoint;
-import org.hl7.fhir.r4.model.Organization;
-import org.hl7.fhir.r4.model.Reference;
+import org.hl7.fhir.r4.model.*;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
 public class OrgHandler implements ODSUploader.IRecordHandler {
@@ -46,10 +43,7 @@ public class OrgHandler implements ODSUploader.IRecordHandler {
                     .setSystem(ContactPoint.ContactPointSystem.PHONE);
         }
         if (!theRecord.get("Commissioner").isEmpty()) {
-            Organization parentOrg = odsUploader.getOrganisationODS(theRecord.get("Commissioner"));
-            if (parentOrg != null) {
-                organization.setPartOf(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
-            }
+            organization.setPartOf(new Reference().setIdentifier(new Identifier().setValue(theRecord.get("Commissioner")).setSystem(CareConnectSystem.ODSOrganisationCode)));
         }
         organization.setActive(true);
         if (!theRecord.get("CloseDate").isEmpty()) {

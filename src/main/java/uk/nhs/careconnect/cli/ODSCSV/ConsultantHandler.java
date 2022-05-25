@@ -57,38 +57,36 @@ public class ConsultantHandler implements ODSUploader.IRecordHandler {
         // TODO Missing addition of specialty field 5 and organisation field 7
 
 
+        if (!theRecord.get(1).isEmpty() && !theRecord.get(7).isEmpty()) {
+            PractitionerRole role = new PractitionerRole();
 
-        PractitionerRole role = new PractitionerRole();
-
-        if (!theRecord.get(7).isEmpty()) {
-            Organization parentOrg = odsUploader.getOrganisationODS(theRecord.get(7));
-
-            if (parentOrg != null) {
-                role.setOrganization(new Reference().setIdentifier(new Identifier().setValue(parentOrg.getId()).setSystem(CareConnectSystem.ODSOrganisationCode)).setDisplay(parentOrg.getName()));
+            if (!theRecord.get(7).isEmpty()) {
+               role.setOrganization(new Reference().setIdentifier(new Identifier().setValue(theRecord.get(7)).setSystem(CareConnectSystem.ODSOrganisationCode)));
             }
-        }
-        role.addIdentifier()
-                .setSystem(CareConnectSystem.IDOrgComb)
-                .setValue(theRecord.get(1));
-        // Make a note of the practitioner. Will need to change to correct code
-        CodeableConcept concept = new CodeableConcept();
-        concept.addCoding()
-                .setSystem(CareConnectSystem.SNOMEDCT)
-                .setCode("768839008")
-                .setDisplay("Consultant");
-        role.getCode().add(concept);
-        role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
-        role.setActive(true);
-        /* TODO basic ConceptMapping */
+            role.addIdentifier()
+                    .setSystem(CareConnectSystem.IDOrgComb)
+                    .setValue(theRecord.get(1) + theRecord.get(7));
+            // Make a note of the practitioner. Will need to change to correct code
+            CodeableConcept concept = new CodeableConcept();
+            concept.addCoding()
+                    .setSystem(CareConnectSystem.SNOMEDCT)
+                    .setCode("768839008")
+                    .setDisplay("Consultant");
+            role.getCode().add(concept);
+            role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
+            role.setActive(true);
+            /* TODO basic ConceptMapping */
 
-        if (!theRecord.get(5).isEmpty()) {
-            CodeableConcept specialty = new CodeableConcept();
-            specialty.addCoding()
-                    .setSystem(CareConnectSystem.NHSDictionaryClinicalSpecialty)
-                    .setCode(theRecord.get(5));
-            role.getSpecialty().add(specialty);
+            if (!theRecord.get(5).isEmpty()) {
+                CodeableConcept specialty = new CodeableConcept();
+                specialty.addCoding()
+                        .setSystem(CareConnectSystem.NHSDictionaryClinicalSpecialty)
+                        .setCode(theRecord.get(5));
+                role.getSpecialty().add(specialty);
+            }
+            odsUploader.roles.add(role);
         }
-        odsUploader.roles.add(role);
+        odsUploader.uploadPractitioner();
     }
 
 

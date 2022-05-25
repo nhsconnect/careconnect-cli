@@ -73,11 +73,7 @@ public class PractitionerHandler implements ODSUploader.IRecordHandler {
         PractitionerRole role = new PractitionerRole();
 
         if (!theRecord.get("Commissioner").isEmpty()) {
-            Organization parentOrg = odsUploader.getOrganisationODS(theRecord.get("Commissioner"));
-
-            if (parentOrg != null) {
-                role.setOrganization(new Reference().setIdentifier(parentOrg.getIdentifierFirstRep()));
-            }
+            role.setOrganization(new Reference().setIdentifier(new Identifier().setValue(theRecord.get("Commissioner")).setSystem(CareConnectSystem.ODSOrganisationCode)));
         }
         role.addIdentifier()
                 .setSystem(CareConnectSystem.IDOrgComb)
@@ -108,6 +104,7 @@ public class PractitionerHandler implements ODSUploader.IRecordHandler {
         role.getSpecialty().add(specialty);
         // System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(role));
         odsUploader.roles.add(role);
+        odsUploader.uploadPractitioner();
 
     }
 }

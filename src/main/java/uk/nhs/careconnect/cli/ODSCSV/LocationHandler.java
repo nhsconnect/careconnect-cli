@@ -61,13 +61,8 @@ public class LocationHandler implements ODSUploader.IRecordHandler {
         }
 
         if (!theRecord.get("Commissioner").isEmpty()) {
-
-            Organization parentOrg = odsUploader.getOrganisationODS(theRecord.get("Commissioner"));
-
-            if (parentOrg != null) {
                 // System.out.println("Org Id = "+parentOrg.getId());
-                location.setManagingOrganization(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
-            }
+                location.setManagingOrganization(new Reference().setIdentifier(new Identifier().setValue(theRecord.get("Commissioner")).setSystem(CareConnectSystem.ODSOrganisationCode)));
         }
 
         odsUploader.locs.add(location);

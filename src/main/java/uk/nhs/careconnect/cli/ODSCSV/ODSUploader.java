@@ -180,14 +180,45 @@ TODO?
 	    for (Organization organization : orgs) {
             Organization tempOrg = getOrganisationODS(organization.getIdentifier().get(0).getValue());
 
+            if (organization.hasPartOf() && organization.getPartOf().hasIdentifier()) {
+                Organization org = getOrganisationODS(organization.getPartOf().getIdentifier().getValue());
+                if (org !=null) organization.getPartOf().setReference(organization.getId());
+            }
+
+
             MethodOutcome outcome = null;
             if (tempOrg != null) {
                 //Organization temp = (Organization)
                 organization.setId(tempOrg.getId());
-                outcome = client.update().resource(organization).execute();
+                if (checkUpdatedOrganization(organization, tempOrg)) {
+                    Integer retry = 3;
+                    while (retry > 0) {
+                        try {
+                            outcome = client.update().resource(organization).execute();
+                            break;
+                        } catch (Exception ex) {
+                            // do nothing
+                            ourLog.error(ex.getMessage());
+                            retry--;
+                        }
+
+                    }
+                }
+
             } else {
-                outcome = client.create().resource(organization)
-                        .execute();
+                Integer retry = 3;
+                while (retry > 0) {
+                    try {
+                        outcome = client.create().resource(organization)
+                                .execute();
+                        break;
+                    } catch (Exception ex) {
+                        // do nothing
+                        ourLog.error(ex.getMessage());
+                        sleep(1000);
+                        retry--;
+                    }
+                }
             }
             if (outcome != null & outcome.getId() != null ) {
                 organization.setId(outcome.getId().getIdPart());
@@ -212,14 +243,10 @@ TODO?
         }
         locs.clear();
     }
-    private void uploadPractitioner() throws InterruptedException {
-        Integer count = 0;
+    public void uploadPractitioner() throws InterruptedException {
+
 
         for (Practitioner practitioner : docs) {
-            count++;
-            if ((count % 100) ==0 ) {
-                System.out.println(count);
-            }
             if (practitioner.getActive()) {
                 Practitioner tempPractitioner = getPractitionerById(practitioner.getIdentifier().get(0).getSystem(), practitioner.getIdentifier().get(0).getValue());
 
@@ -235,19 +262,20 @@ TODO?
                             }
                         }
                     }
-                    Integer retry = 3;
-                    while (retry > 0) {
-                        try {
-                            outcome = client.update().resource(practitioner).execute();
-                            break;
-                        } catch (Exception ex) {
-                            // do nothing
-                            ourLog.error(ex.getMessage());
-                            retry--;
+                    if (checkUpdatedPractitioner(practitioner, tempPractitioner)) {
+                        Integer retry = 3;
+                        while (retry > 0) {
+                            try {
+                                outcome = client.update().resource(practitioner).execute();
+                                break;
+                            } catch (Exception ex) {
+                                // do nothing
+                                ourLog.error(ex.getMessage());
+                                retry--;
+                            }
+
                         }
-
                     }
-
                 } else {
                     Integer retry = 3;
                     while (retry > 0) {
@@ -264,19 +292,16 @@ TODO?
                     }
 
                 }
-                if (outcome != null & outcome.getId() != null) {
+                if (outcome != null && outcome.getId() != null) {
                     practitioner.setId(outcome.getId());
                 }
             }
         }
 
         docs.clear();
-        count = 0;
+
         for (PractitionerRole practitionerRole : roles) {
-            count++;
-            if ((count % 100) ==0 ) {
-                System.out.println(count);
-            }
+
             if (practitionerRole.getActive()) {
 
                 PractitionerRole tempPractitionerRole = getPractitionerRoleById(practitionerRole.getIdentifier().get(0).getSystem(), practitionerRole.getIdentifier().get(0).getValue());
@@ -301,16 +326,18 @@ TODO?
                             }
                         }
                     }
-                    Integer retry = 3;
-                    while (retry > 0) {
-                        try {
-                            outcome = client.update().resource(practitionerRole).execute();
-                            break;
-                        } catch (Exception ex) {
-                            // do nothing
-                            ourLog.error(ex.getMessage());
-                            sleep(1000);
-                            retry--;
+                    if (checkUpdatedPractitionerRole(practitionerRole, tempPractitionerRole)) {
+                        Integer retry = 3;
+                        while (retry > 0) {
+                            try {
+                                outcome = client.update().resource(practitionerRole).execute();
+                                break;
+                            } catch (Exception ex) {
+                                // do nothing
+                                ourLog.error(ex.getMessage());
+                                sleep(1000);
+                                retry--;
+                            }
                         }
                     }
 
@@ -330,7 +357,7 @@ TODO?
                     }
 
                 }
-                if (outcome != null & outcome.getId() != null) {
+                if (outcome != null && outcome.getId() != null) {
                     practitionerRole.setId(outcome.getId());
                 }
             }
@@ -339,8 +366,24 @@ TODO?
 
     }
 
+    private boolean checkUpdatedPractitionerRole(PractitionerRole practitionerRole, PractitionerRole tempPractitionerRole) {
+        if (tempPractitionerRole.getActive() != practitionerRole.getActive()) return true;
+        if (tempPractitionerRole.hasPractitioner() && !tempPractitionerRole.getPractitioner().hasReference() && practitionerRole.hasPractitioner()) return true;
+        return false;
+    }
 
-	private void uploadODSStu3(IRecordHandler handler, String targetServer, FhirContext ctx, char theDelimiter, QuoteMode theQuoteMode, String fileName, String fileNamePart) throws CommandFailureException {
+    private boolean checkUpdatedPractitioner(Practitioner practitioner, Practitioner tempPractitioner) {
+        if (tempPractitioner.getActive() != practitioner.getActive()) return true;
+        return false;
+    }
+
+    private boolean checkUpdatedOrganization(Organization organization, Organization tempOrganization) {
+        if (tempOrganization.getActive() != organization.getActive()) return true;
+        return false;
+    }
+
+
+    private void uploadODSStu3(IRecordHandler handler, String targetServer, FhirContext ctx, char theDelimiter, QuoteMode theQuoteMode, String fileName, String fileNamePart) throws CommandFailureException {
 
 
 	    Boolean found = false;
@@ -400,15 +443,15 @@ TODO?
 
 
                                 int count = 0;
-                               // int logIncrement = LOG_INCREMENT;
-                                int nextLoggedCount = 0;
+
                                 while (iter.hasNext()) {
                                     CSVRecord nextRecord = iter.next();
                                     handler.accept(nextRecord);
                                     count++;
-                                    if (count >= nextLoggedCount) {
+                                    count++;
+                                    if ((count % 20) ==0 ) {
+                                        System.out.println(count);
                                         ourLog.info(" * Processed {} records in {}", count, nextFilename);
-                                     //   nextLoggedCount += logIncrement;
                                     }
                                 }
 
@@ -463,6 +506,8 @@ TODO?
                     practitioner = (Practitioner) bundle.getEntry().get(0).getResource();
                     docMap.put(idCode, practitioner);
                     return practitioner;
+                } else {
+                    return null;
                 }
             } catch (Exception ex) {
                 // do nothing
@@ -490,6 +535,8 @@ TODO?
                     role = (PractitionerRole) bundle.getEntry().get(0).getResource();
                     roleMap.put(idCode, role);
                     return role;
+                } else {
+                    return null;
                 }
             } catch (Exception ex) {
                 // do nothing
@@ -502,7 +549,7 @@ TODO?
 
         return null;
     }
-    public Organization getOrganisationODS(String odsCode) throws InterruptedException {
+    private Organization getOrganisationODS(String odsCode) throws InterruptedException {
         Organization organization = orgMap.get(odsCode);
         if (organization != null) return organization;
         Bundle bundle = null;
@@ -517,6 +564,8 @@ TODO?
                     organization = (Organization) bundle.getEntry().get(0).getResource();
                     orgMap.put(odsCode, organization);
                     return organization;
+                } else {
+                    return null;
                 }
             } catch (Exception ex) {
                 // do nothing
