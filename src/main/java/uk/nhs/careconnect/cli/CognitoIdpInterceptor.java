@@ -22,7 +22,7 @@ public class CognitoIdpInterceptor implements IClientInterceptor {
 
     AuthenticationResultType authenticationResult = null;
 
-    CognitoIdpInterceptor(String _apiKey,
+    public CognitoIdpInterceptor(String _apiKey,
                                  String _userName,
                                  String _password,
                                  String _clientId) {

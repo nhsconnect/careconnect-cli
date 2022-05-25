@@ -1,4 +1,4 @@
-package uk.nhs.careconnect.cli;
+package uk.nhs.careconnect.cli.ODSCSV;
 
 import ca.uhn.fhir.context.FhirContext;
 import ca.uhn.fhir.context.FhirVersionEnum;
@@ -19,6 +19,9 @@ import org.apache.commons.io.input.BOMInputStream;
 import org.apache.commons.lang3.StringUtils;
 import org.hl7.fhir.instance.model.api.IIdType;
 import org.hl7.fhir.r4.model.*;
+import uk.nhs.careconnect.cli.BaseCommand;
+import uk.nhs.careconnect.cli.CognitoIdpInterceptor;
+import uk.nhs.careconnect.cli.CommandFailureException;
 import uk.org.hl7.fhir.core.Stu3.CareConnectSystem;
 
 
@@ -33,10 +36,10 @@ import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
 public class ODSUploader extends BaseCommand {
 
-    ODSUploader( String _apiKey,
-                 String _userName,
-                 String _password,
-                 String _clientId) {
+    public ODSUploader(String _apiKey,
+                       String _userName,
+                       String _password,
+                       String _clientId) {
         this.apiKey = _apiKey;
         this.password = _password;
         this.userName = _userName;
@@ -53,13 +56,13 @@ public class ODSUploader extends BaseCommand {
 
 	private ArrayList<IIdType> myExcludes = new ArrayList<>();
 
-	private ArrayList<Organization> orgs = new ArrayList<>();
+	public ArrayList<Organization> orgs = new ArrayList<>();
 
-    private ArrayList<Practitioner> docs = new ArrayList<>();
+    public ArrayList<Practitioner> docs = new ArrayList<>();
 
-    private ArrayList<PractitionerRole> roles = new ArrayList<>();
+    public ArrayList<PractitionerRole> roles = new ArrayList<>();
 
-    private ArrayList<Location> locs = new ArrayList<>();
+    public ArrayList<Location> locs = new ArrayList<>();
 
     private Map<String,Organization> orgMap = new HashMap<>();
 
@@ -137,35 +140,35 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             IRecordHandler handler = null;
 /*
             System.out.println("National Health Service Trust");
-            handler = new OrgHandler("930621000000104","National Health Service Trust");
+            handler = new OrgHandler(this, "930621000000104","National Health Service Trust");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "etr.zip", "etr.csv");
             uploadOrganisation();
 
             System.out.println("Health Authority (CCG)");
-            handler = new OrgHandler("394747008","Health Authority");
+            handler = new OrgHandler(this, "394747008","Health Authority");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "eccg.zip", "eccg.csv");
             uploadOrganisation();
 
             System.out.println("General practice");
-            handler = new OrgHandler("394745000","General practice");
+            handler = new OrgHandler(this,"394745000","General practice");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
 
 */
-
+/*
             System.out.println("GP");
             handler = new PractitionerHandler();
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");
             uploadPractitioner();
-/*
+*/
             System.out.println("Consultants");
-            handler = new ConsultantHandler();
+            handler = new ConsultantHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
             uploadPractitioner();
-*/
+
 /*
 TODO?
             System.out.println("GP practice site");
-            handler = new LocationHandler("394761003", "GP practice site");
+            handler = new LocationHandler(odsUploader."394761003", "GP practice site");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "ebranchs.zip", "ebranchs.csv");
             uploadLocation();
 */
@@ -211,7 +214,7 @@ TODO?
     }
     private void uploadPractitioner() throws InterruptedException {
         Integer count = 0;
-        /*
+
         for (Practitioner practitioner : docs) {
             count++;
             if ((count % 100) ==0 ) {
@@ -250,7 +253,7 @@ TODO?
                     while (retry > 0) {
                         try {
                              outcome = client.create().resource(practitioner)
-                            .execute();`
+                            .execute();
                             break;
                         } catch (Exception ex) {
                             // do nothing
@@ -266,7 +269,7 @@ TODO?
                 }
             }
         }
-        */
+
         docs.clear();
         count = 0;
         for (PractitionerRole practitionerRole : roles) {
@@ -425,10 +428,10 @@ TODO?
 
 	}
 
-    private interface IRecordHandler {
+    public interface IRecordHandler {
         void accept(CSVRecord theRecord) throws InterruptedException;
     }
-    private String Inicaps(String string) {
+    public String Inicaps(String string) {
 	    String result = null;
 	    String[] array = string.split(" ");
 
@@ -442,332 +445,8 @@ TODO?
         }
 	    return result;
     }
-/*
-    public class LocationHandler implements IRecordHandler {
-
-	    private String typeSncCT = "";
-
-        private String typeDisplay = "";
-	    LocationHandler(String typeSncCT, String typeDisplay) {
-	        this.typeSncCT = typeSncCT;
-	        this.typeDisplay = typeDisplay;
-        }
-
-        public void setType(String type) {
-            this.typeSncCT = type;
-        }
-
-        @Override
-        public void accept(CSVRecord theRecord) {
-            Location location = new Location();
-            location.setId("dummy");
-
-            location.addIdentifier()
-                    .setSystem(CareConnectSystem.ODSSiteCode)
-                    .setValue(theRecord.get("OrganisationCode"));
-
-            location.setName(Inicaps(theRecord.get("Name")));
-
-            if (!theRecord.get("ContactTelephoneNumber").isEmpty()) {
-                location.addTelecom()
-                        .setUse(ContactPoint.ContactPointUse.WORK)
-                        .setValue(theRecord.get("ContactTelephoneNumber"))
-                        .setSystem(ContactPoint.ContactPointSystem.PHONE);
-            }
-            location.setStatus(Location.LocationStatus.ACTIVE);
-            if (!theRecord.get("CloseDate").isEmpty()) {
-                location.setStatus(Location.LocationStatus.ACTIVE);
-            }
-            location.getAddress()
-                    .setUse(Address.AddressUse.WORK)
-                    .addLine(Inicaps(theRecord.get("AddressLine_1")))
-                    .addLine(Inicaps(theRecord.get("AddressLine_2")))
-                    .addLine(Inicaps(theRecord.get("AddressLine_3")))
-                    .setCity(Inicaps(theRecord.get("AddressLine_4")))
-                    .setDistrict(Inicaps(theRecord.get("AddressLine_5")))
-                    .setPostalCode(theRecord.get("Postcode"));
 
 
-            if (typeSncCT!=null) {
-                location.getType()
-                        .addCoding()
-                        .setSystem(CareConnectSystem.SNOMEDCT)
-                        .setCode(typeSncCT)
-                        .setDisplay(typeDisplay);
-
-            }
-
-            if (!theRecord.get("Commissioner").isEmpty()) {
-
-                Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
-
-                if (parentOrg != null) {
-                   // System.out.println("Org Id = "+parentOrg.getId());
-                    location.setManagingOrganization(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
-                }
-            }
-
-            locs.add(location);
-        }
-
-    }
-*/
-    public class ConsultantHandler implements IRecordHandler {
-        @Override
-        public void accept(CSVRecord theRecord) throws InterruptedException {
-            // System.out.println(theRecord.toString());
-            Practitioner practitioner = new Practitioner();
-            practitioner.setId("dummy");
-
-            if (theRecord.get(1).startsWith("C")) {
-                practitioner.addIdentifier()
-                        .setSystem(CareConnectSystem.GMCNumber)
-                        .setValue(theRecord.get(1));
-            } else {
-                practitioner.addIdentifier()
-                        .setSystem(CareConnectSystem.GMPNumber)
-                        .setValue(theRecord.get(1));
-            }
-
-            practitioner.setActive(true);
-
-            if (!theRecord.get(2).isEmpty()) {
-
-                HumanName name = new HumanName();
-                practitioner.getName().add(name);
-                name.setFamily(Inicaps(theRecord.get(2)));
-                name.addPrefix("Dr");
-
-                if (!theRecord.get(3).isEmpty()) {
-                    name.addGiven(theRecord.get(3));
-                }
-            }
-            if (!theRecord.get(4).isEmpty()) {
-                switch (theRecord.get(4)) {
-                    case "M" : practitioner.setGender(Enumerations.AdministrativeGender.MALE);
-                        break;
-                    case "F" : practitioner.setGender(Enumerations.AdministrativeGender.FEMALE);
-                        break;
-                }
-            }
-
-
-            docs.add(practitioner);
-
-            // TODO Missing addition of specialty field 5 and organisation field 7
-
-
-
-            PractitionerRole role = new PractitionerRole();
-
-            if (!theRecord.get(7).isEmpty()) {
-                Organization parentOrg = getOrganisationODS(theRecord.get(7));
-
-                if (parentOrg != null) {
-                    role.setOrganization(new Reference().setIdentifier(new Identifier().setValue(parentOrg.getId()).setSystem(CareConnectSystem.ODSOrganisationCode)).setDisplay(parentOrg.getName()));
-                }
-            }
-            role.addIdentifier()
-                    .setSystem(CareConnectSystem.IDOrgComb)
-                    .setValue(theRecord.get(1));
-            // Make a note of the practitioner. Will need to change to correct code
-            CodeableConcept concept = new CodeableConcept();
-            concept.addCoding()
-                    .setSystem(CareConnectSystem.SNOMEDCT)
-                    .setCode("768839008")
-                    .setDisplay("Consultant");
-            role.getCode().add(concept);
-            role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
-            role.setActive(true);
-           /* TODO basic ConceptMapping */
-
-            if (!theRecord.get(5).isEmpty()) {
-                CodeableConcept specialty = new CodeableConcept();
-                specialty.addCoding()
-                        .setSystem(CareConnectSystem.NHSDictionaryClinicalSpecialty)
-                        .setCode(theRecord.get(5));
-                role.getSpecialty().add(specialty);
-            }
-            roles.add(role);
-        }
-
-    }
-
-    public class PractitionerHandler implements IRecordHandler {
-        @Override
-        public void accept(CSVRecord theRecord) throws InterruptedException {
-
-            Practitioner practitioner = new Practitioner();
-            practitioner.setId("dummy");
-
-            if (theRecord.get("OrganisationCode").startsWith("C")) {
-                practitioner.addIdentifier()
-                        .setSystem(CareConnectSystem.GMCNumber)
-                        .setValue(theRecord.get("OrganisationCode"));
-            } else {
-                practitioner.addIdentifier()
-                        .setSystem(CareConnectSystem.GMPNumber)
-                        .setValue(theRecord.get("OrganisationCode"));
-            }
-
-
-            if (!theRecord.get("ContactTelephoneNumber").isEmpty()) {
-                practitioner.addTelecom()
-                        .setUse(ContactPoint.ContactPointUse.WORK)
-                        .setValue(theRecord.get("ContactTelephoneNumber"))
-                        .setSystem(ContactPoint.ContactPointSystem.PHONE);
-            }
-            practitioner.setActive(true);
-            if (!theRecord.get("CloseDate").isEmpty()) {
-                practitioner.setActive(false);
-            }
-            practitioner.addAddress()
-                    .setUse(Address.AddressUse.WORK)
-                    .addLine(Inicaps(theRecord.get("AddressLine_1")))
-                    .addLine(Inicaps(theRecord.get("AddressLine_2")))
-                    .addLine(Inicaps(theRecord.get("AddressLine_3")))
-                    .setCity(Inicaps(theRecord.get("AddressLine_4")))
-                    .setDistrict(Inicaps(theRecord.get("AddressLine_5")))
-                    .setPostalCode(theRecord.get("Postcode"));
-
-            if (!theRecord.get("Name").isEmpty()) {
-                String[] nameStr = theRecord.get("Name").split(" ");
-
-                if (nameStr.length>0) {
-                   HumanName name = new HumanName();
-                   practitioner.getName().add(name);
-                   name.setFamily(Inicaps(nameStr[0]));
-                   name.addPrefix("Dr");
-                   String foreName = "";
-                   for (Integer f=1; f<nameStr.length;f++) {
-                       if (f==1) {
-                           foreName = nameStr[1];
-                       } else {
-                           foreName = foreName + " " + nameStr[f];
-                       }
-                   }
-                   if (!foreName.isEmpty()) {
-                       name.addGiven(foreName);
-                   }
-                }
-            }
-            docs.add(practitioner);
-
-            PractitionerRole role = new PractitionerRole();
-
-            if (!theRecord.get("Commissioner").isEmpty()) {
-                Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
-
-                if (parentOrg != null) {
-                    role.setOrganization(new Reference().setIdentifier(parentOrg.getIdentifierFirstRep()));
-                }
-            }
-            role.addIdentifier()
-                    .setSystem(CareConnectSystem.IDOrgComb)
-                    .setValue(theRecord.get("OrganisationCode")+theRecord.get("Commissioner"));
-            // Make a note of the practitioner. Will need to change to correct code
-            role.setPractitioner(new Reference().setIdentifier(practitioner.getIdentifierFirstRep()));
-            if (!theRecord.get("OrganisationSubTypeCode").isEmpty()) {
-                switch (theRecord.get("OrganisationSubTypeCode")) {
-                    case "O":
-                    case "P":
-                        CodeableConcept concept = new CodeableConcept();
-                        concept.addCoding()
-                                .setSystem(CareConnectSystem.SNOMEDCT)
-                                .setCode("62247001")
-                                .setDisplay("General practitioner");
-                        role.getCode().add(concept);
-                }
-            }
-            role.setActive(true);
-            if (!theRecord.get("CloseDate").isEmpty()) {
-                role.setActive(false);
-            }
-            CodeableConcept specialty = new CodeableConcept();
-            specialty.addCoding()
-                    .setSystem(CareConnectSystem.SNOMEDCT)
-                    .setCode("394814009")
-                    .setDisplay("General practice (specialty) (qualifier value)");
-            role.getSpecialty().add(specialty);
-           // System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(role));
-            roles.add(role);
-
-        }
-
-    }
-    public class OrgHandler implements IRecordHandler {
-
-        private String typeSncCT = "";
-
-        private String typeDisplay = "";
-        OrgHandler(String typeSncCT, String typeDisplay) {
-            this.typeSncCT = typeSncCT;
-            this.typeDisplay = typeDisplay;
-        }
-
-        public void setType(String type) {
-            this.typeSncCT = type;
-        }
-
-        @Override
-        public void accept(CSVRecord theRecord) throws InterruptedException {
-              //v  System.out.println(theRecord.toString());
-                Organization organization = new Organization();
-
-                organization.setId("dummy");
-
-                organization.addIdentifier()
-                        .setSystem(CareConnectSystem.ODSOrganisationCode )
-                        .setValue(theRecord.get("OrganisationCode"));
-
-
-                organization.setName(Inicaps(theRecord.get("Name")));
-
-                if (!theRecord.get("ContactTelephoneNumber").isEmpty()) {
-                    organization.addTelecom()
-                            .setUse(ContactPoint.ContactPointUse.WORK)
-                            .setValue(theRecord.get("ContactTelephoneNumber"))
-                            .setSystem(ContactPoint.ContactPointSystem.PHONE);
-                }
-                if (!theRecord.get("Commissioner").isEmpty()) {
-                    Organization parentOrg = getOrganisationODS(theRecord.get("Commissioner"));
-                    if (parentOrg != null) {
-                        organization.setPartOf(new Reference(parentOrg.getId()).setDisplay(parentOrg.getName()));
-                    }
-                }
-                organization.setActive(true);
-                if (!theRecord.get("CloseDate").isEmpty()) {
-                    organization.setActive(false);
-                }
-                if (typeSncCT!=null)
-                {
-                    organization.addType().addCoding().setDisplay(typeDisplay)
-                        .setSystem(CareConnectSystem.SNOMEDCT)
-                        .setCode(typeSncCT);
-
-
-                } else {
-                    organization.addType().addCoding()
-                            .setSystem(CareConnectSystem.OrganisationType)
-                            .setCode("prov")
-                            .setDisplay("Healthcare Provider");
-                }
-
-                organization.addAddress()
-                        .setUse(Address.AddressUse.WORK)
-                        .addLine(Inicaps(theRecord.get("AddressLine_1")))
-                        .addLine(Inicaps(theRecord.get("AddressLine_2")))
-                        .addLine(Inicaps(theRecord.get("AddressLine_3")))
-                        .setCity(Inicaps(theRecord.get("AddressLine_4")))
-                        .setDistrict(Inicaps(theRecord.get("AddressLine_5")))
-                        .setPostalCode(theRecord.get("Postcode"));
-                orgs.add(organization);
-            //System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(organization));
-
-
-        }
-
-    }
 
     private Practitioner getPractitionerById(String idSystem, String idCode ) throws InterruptedException {
         Practitioner practitioner = docMap.get(idCode);
@@ -823,7 +502,7 @@ TODO?
 
         return null;
     }
-    private Organization getOrganisationODS(String odsCode) throws InterruptedException {
+    public Organization getOrganisationODS(String odsCode) throws InterruptedException {
         Organization organization = orgMap.get(odsCode);
         if (organization != null) return organization;
         Bundle bundle = null;
