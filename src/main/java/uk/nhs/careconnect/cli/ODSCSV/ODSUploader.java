@@ -138,32 +138,39 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             client.registerInterceptor(new CognitoIdpInterceptor(apiKey,userName,password,clientId) );
 
             IRecordHandler handler = null;
-/*
+
+            System.out.println("Pharmacy HQ");
+            handler = new OrgHandler(this, CareConnectSystem.ODSOrganisationCode,"181","PHARMACY HEADQUARTER");
+            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epharmacyhq.zip", "epharmacyhq.csv");
+
+            System.out.println("Dispensary");
+            handler = new OrgHandler(this, CareConnectSystem.ODSOrganisationCode,"182","PHARMACY");
+            uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "edispensary.zip", "edispensary.csv");
+            //uploadOrganisation();
+
             System.out.println("National Health Service Trust");
-            handler = new OrgHandler(this, "930621000000104","National Health Service Trust");
+            handler = new OrgHandler(this,CareConnectSystem.ODSOrganisationCode, "197","NHS TRUST");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "etr.zip", "etr.csv");
-            uploadOrganisation();
+            //uploadOrganisation();
 
             System.out.println("Health Authority (CCG)");
-            handler = new OrgHandler(this, "394747008","Health Authority");
+            handler = new OrgHandler(this,CareConnectSystem.ODSOrganisationCode, "98","CLINICAL COMMISSIONING GROUP");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "eccg.zip", "eccg.csv");
-            uploadOrganisation();
+            //uploadOrganisation();
 
             System.out.println("General practice");
-            handler = new OrgHandler(this,"394745000","General practice");
+            handler = new OrgHandler(this,CareConnectSystem.ODSOrganisationCode,"76","GP PRACTICE");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
-
-*/
 
             System.out.println("GP");
             handler = new PractitionerHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");
-            uploadPractitioner();
+            //uploadPractitioner();
 
             System.out.println("Consultants");
             handler = new ConsultantHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "econcur.zip", "econcur.csv");
-            uploadPractitioner();
+            //uploadPractitioner();
 
 /*
 TODO?
@@ -176,7 +183,7 @@ TODO?
 
 	}
 
-	private void uploadOrganisation() throws InterruptedException {
+	public void uploadOrganisation() throws InterruptedException {
 	    for (Organization organization : orgs) {
             Organization tempOrg = getOrganisationODS(organization.getIdentifier().get(0).getValue());
 
@@ -379,6 +386,7 @@ TODO?
 
     private boolean checkUpdatedOrganization(Organization organization, Organization tempOrganization) {
         if (tempOrganization.getActive() != organization.getActive()) return true;
+        if (!tempOrganization.getTypeFirstRep().getCodingFirstRep().getCode().equals(organization.getTypeFirstRep().getCodingFirstRep().getCode())) return true;
         return false;
     }
 

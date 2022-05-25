@@ -10,9 +10,12 @@ public class OrgHandler implements ODSUploader.IRecordHandler {
 
     private String typeDisplay = "";
 
-    OrgHandler(ODSUploader _odsUploader,String typeSncCT, String typeDisplay) {
+    private String typeSystem = "";
+
+    OrgHandler(ODSUploader _odsUploader,String typeSystem , String typeSncCT, String typeDisplay) {
         this.typeSncCT = typeSncCT;
         this.typeDisplay = typeDisplay;
+        this.typeSystem = typeSystem;
         this.odsUploader = _odsUploader;
     };
 
@@ -51,7 +54,7 @@ public class OrgHandler implements ODSUploader.IRecordHandler {
         }
         if (typeSncCT != null) {
             organization.addType().addCoding().setDisplay(typeDisplay)
-                    .setSystem(CareConnectSystem.SNOMEDCT)
+                    .setSystem(CareConnectSystem.OrganisationRole)
                     .setCode(typeSncCT);
 
 
@@ -72,7 +75,7 @@ public class OrgHandler implements ODSUploader.IRecordHandler {
                 .setPostalCode(theRecord.get("Postcode"));
         odsUploader.orgs.add(organization);
         //System.out.println(ctx.newXmlParser().setPrettyPrint(true).encodeResourceToString(organization));
-
+        odsUploader.uploadOrganisation();
 
     }
 }
