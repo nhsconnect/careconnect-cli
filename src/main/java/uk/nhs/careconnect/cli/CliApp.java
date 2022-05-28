@@ -49,22 +49,22 @@ import static org.fusesource.jansi.Ansi.ansi;
 @PropertySource("classpath:application.properties")
 public class CliApp implements CommandLineRunner {
 
-    @Value( "${cli.clientId}" )
+    @Value( "${aws.clientId}" )
     private String clientId;
 
-    @Value( "${cli.clientSecret}" )
+    @Value( "${aws.clientSecret}" )
     private String clientSecret;
 
-    @Value( "${cli.tokenUrl}" )
+    @Value( "${aws.tokenUrl}" )
     private String tokenUrl;
 
-    @Value( "${cli.user}" )
+    @Value( "${aws.user}" )
     private String user;
 
-    @Value( "${cli.pass}" )
+    @Value( "${aws.pass}" )
     private String pass;
 
-    @Value( "${cli.apiKey}" )
+    @Value( "${aws.apiKey}" )
     private String apiKey;
 
     @Autowired
