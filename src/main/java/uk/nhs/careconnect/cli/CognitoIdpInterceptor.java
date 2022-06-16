@@ -6,6 +6,7 @@ import ca.uhn.fhir.rest.client.api.IHttpResponse;
 import com.amazonaws.services.cognitoidp.AWSCognitoIdentityProvider;
 import com.amazonaws.services.cognitoidp.AWSCognitoIdentityProviderClientBuilder;
 import com.amazonaws.services.cognitoidp.model.*;
+import uk.nhs.careconnect.cli.support.MessageProperties;
 
 
 import java.io.IOException;
@@ -22,14 +23,11 @@ public class CognitoIdpInterceptor implements IClientInterceptor {
 
     AuthenticationResultType authenticationResult = null;
 
-    public CognitoIdpInterceptor(String _apiKey,
-                                 String _userName,
-                                 String _password,
-                                 String _clientId) {
-        this.apiKey = _apiKey;
-        this.password = _password;
-        this.userName = _userName;
-        this.clientId = _clientId;
+    public CognitoIdpInterceptor() {
+        this.apiKey = MessageProperties.getAwsApiKey();
+        this.password = MessageProperties.getAwsClientPass();
+        this.userName = MessageProperties.getAwsClientUser();
+        this.clientId = MessageProperties.getAwsClientId();
     }
 
     @Override

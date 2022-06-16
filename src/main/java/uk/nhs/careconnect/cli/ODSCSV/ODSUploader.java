@@ -36,22 +36,6 @@ import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
 public class ODSUploader extends BaseCommand {
 
-    public ODSUploader(String _apiKey,
-                       String _userName,
-                       String _password,
-                       String _clientId) {
-        this.apiKey = _apiKey;
-        this.password = _password;
-        this.userName = _userName;
-        this.clientId = _clientId;
-    }
-
-    private String apiKey;
-    private String userName;
-    private String password;
-    private String clientId;
-
-
 	private static final org.slf4j.Logger ourLog = org.slf4j.LoggerFactory.getLogger(ODSUploader.class);
 
 	private ArrayList<IIdType> myExcludes = new ArrayList<>();
@@ -135,7 +119,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
 		if (ctx.getVersion().getVersion() == FhirVersionEnum.R4) {
             client = ctx.newRestfulGenericClient(targetServer);
-            client.registerInterceptor(new CognitoIdpInterceptor(apiKey,userName,password,clientId) );
+            client.registerInterceptor(new CognitoIdpInterceptor() );
 
             IRecordHandler handler = null;
 

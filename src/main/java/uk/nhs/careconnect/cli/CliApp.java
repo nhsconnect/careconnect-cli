@@ -30,6 +30,7 @@ import org.springframework.security.oauth2.client.registration.InMemoryClientReg
 import org.springframework.security.oauth2.core.AuthorizationGrantType;
 import org.springframework.security.oauth2.core.ClientAuthenticationMethod;
 import uk.nhs.careconnect.cli.ODSCSV.ODSUploader;
+import uk.nhs.careconnect.cli.support.MessageProperties;
 
 
 import java.io.PrintWriter;
@@ -49,26 +50,13 @@ import static org.fusesource.jansi.Ansi.ansi;
 @PropertySource("classpath:application.properties")
 public class CliApp implements CommandLineRunner {
 
-    @Value( "${aws.clientId}" )
-    private String clientId;
 
-    @Value( "${aws.clientSecret}" )
-    private String clientSecret;
+    private String clientId = MessageProperties.getAwsClientId();
 
-    @Value( "${aws.tokenUrl}" )
-    private String tokenUrl;
+    private String clientSecret = MessageProperties.getAwsClientSecret();
 
-    @Value( "${aws.user}" )
-    private String user;
+    private String tokenUrl = MessageProperties.getAwsTokenUrl();
 
-    @Value( "${aws.pass}" )
-    private String pass;
-
-    @Value( "${aws.apiKey}" )
-    private String apiKey;
-
-    @Autowired
-    OAuth2AuthorizedClientManager authorizedClientManager;
 
     private static Logger LOG = LoggerFactory
             .getLogger(CliApp.class);
@@ -260,7 +248,7 @@ public class CliApp implements CommandLineRunner {
     }
 
  */
-
+/*
     @Bean
     public OAuth2AuthorizedClientService authorizedClientService(ClientRegistrationRepository clientRegistrationRepository) {
 
@@ -301,7 +289,7 @@ public class CliApp implements CommandLineRunner {
 
         return new InMemoryClientRegistrationRepository(clientRegistration);
     }
-
+*/
     private static void validateJavaVersion() {
         String specVersion = System.getProperty("java.specification.version");
         double version = Double.parseDouble(specVersion);
@@ -324,7 +312,7 @@ public class CliApp implements CommandLineRunner {
             AnsiConsole.systemInstall();
 
             ourCommands = new ArrayList<BaseCommand>();
-            ourCommands.add(new ODSUploader(this.apiKey,this.user,this.pass,this.clientId));
+            ourCommands.add(new ODSUploader());
 
             Collections.sort(ourCommands);
 
