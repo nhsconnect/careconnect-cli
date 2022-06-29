@@ -123,6 +123,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
             IRecordHandler handler = null;
 
+            /*
             System.out.println("Pharmacy HQ");
             handler = new OrgHandler(this, CareConnectSystem.ODSOrganisationCode,"181","PHARMACY HEADQUARTER");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epharmacyhq.zip", "epharmacyhq.csv");
@@ -145,7 +146,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             System.out.println("General practice");
             handler = new OrgHandler(this,CareConnectSystem.ODSOrganisationCode,"76","GP PRACTICE");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
-
+*/
             System.out.println("GP");
             handler = new PractitionerHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");
@@ -299,11 +300,11 @@ TODO?
 
                 if (practitionerRole.hasOrganization() && practitionerRole.getOrganization().hasIdentifier()) {
                     Organization organization = getOrganisationODS(practitionerRole.getOrganization().getIdentifier().getValue());
-                    if (organization !=null) practitionerRole.getOrganization().setReference(organization.getId());
+                    if (organization !=null) practitionerRole.getOrganization().setReference("Organization/"+organization.getIdElement().getIdPart());
                 }
                 if (practitionerRole.hasPractitioner() && practitionerRole.getPractitioner().hasIdentifier()) {
                     Practitioner practitioner = getPractitionerById(practitionerRole.getPractitioner().getIdentifier().getSystem(), practitionerRole.getPractitioner().getIdentifier().getValue());
-                    if (practitioner != null) practitionerRole.getPractitioner().setReference(practitioner.getId());
+                    if (practitioner != null) practitionerRole.getPractitioner().setReference("Practitioner/"+practitioner.getIdElement().getIdPart());
                 }
                 MethodOutcome outcome = null;
                 if (tempPractitionerRole != null) {
@@ -360,12 +361,23 @@ TODO?
     private boolean checkUpdatedPractitionerRole(PractitionerRole practitionerRole, PractitionerRole tempPractitionerRole) {
         if (tempPractitionerRole.getActive() != practitionerRole.getActive()) return true;
 
-        if (tempPractitionerRole.hasPractitioner() && !tempPractitionerRole.getPractitioner().hasReference() && practitionerRole.hasPractitioner()) return true;
+        if (practitionerRole.hasPractitioner() && tempPractitionerRole.getPractitioner().hasReference()) {
+            if (!tempPractitionerRole.hasPractitioner()) return true;
+            if (!tempPractitionerRole.getPractitioner().hasReference()) return true;
+            if (!tempPractitionerRole.getPractitioner().getReference().equals(practitionerRole.getPractitioner().getReference())) return true;
+        }
+        if (practitionerRole.hasOrganization() && tempPractitionerRole.getOrganization().hasReference()) {
+            if (!tempPractitionerRole.hasOrganization()) return true;
+            if (!tempPractitionerRole.getOrganization().hasReference()) return true;
+            if (!tempPractitionerRole.getOrganization().getReference().equals(practitionerRole.getOrganization().getReference())) return true;
+        }
+       // if (tempPractitionerRole.hasPractitioner() && !tempPractitionerRole.getPractitioner().hasReference() && practitionerRole.hasPractitioner()) return true;
         return false;
     }
 
     private boolean checkUpdatedPractitioner(Practitioner practitioner, Practitioner tempPractitioner) {
         if (tempPractitioner.getActive() != practitioner.getActive()) return true;
+
         return false;
     }
 
@@ -493,7 +505,7 @@ TODO?
         while (retry > 0) {
             try {
                 bundle = client.search()
-                        .byUrl("Practitioner?identifier=" + idSystem + "%7C" +idCode)
+                        .forResource(Practitioner.class).where(Practitioner.IDENTIFIER.exactly().systemAndCode(idSystem,idCode))
                         .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                         .execute();
                 if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Practitioner) {
@@ -506,8 +518,9 @@ TODO?
             } catch (Exception ex) {
                 // do nothing
                 ourLog.error(ex.getMessage());
-                sleep(1000);
-                retry--;
+                throw ex;
+               // sleep(1000);
+              //  retry--;
             }
         }
 
@@ -522,7 +535,7 @@ TODO?
         while (retry > 0) {
             try {
                 bundle = client.search()
-                    .byUrl("PractitionerRole?identifier=" + idSystem + "%7C" +idCode)
+                        .forResource(PractitionerRole.class).where(PractitionerRole.IDENTIFIER.exactly().systemAndCode(idSystem,idCode))
                     .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                     .execute();
                 if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof PractitionerRole) {
@@ -535,8 +548,9 @@ TODO?
             } catch (Exception ex) {
                 // do nothing
                 ourLog.error(ex.getMessage());
-                sleep(1000);
-                retry--;
+                throw ex;
+
+                // retry--;
             }
 
         }
@@ -551,7 +565,7 @@ TODO?
         while (retry > 0) {
             try {
                 bundle = client.search()
-                        .byUrl("Organization?identifier=" + CareConnectSystem.ODSOrganisationCode + "%7C" + odsCode)
+                        .forResource(Organization.class).where(Organization.IDENTIFIER.exactly().systemAndCode(CareConnectSystem.ODSOrganisationCode,odsCode))
                         .returnBundle(org.hl7.fhir.r4.model.Bundle.class)
                         .execute();
                 if (bundle.getEntry().size()>0 && bundle.getEntry().get(0).getResource() instanceof Organization) {
@@ -564,8 +578,9 @@ TODO?
             } catch (Exception ex) {
                 // do nothing
                 ourLog.error(ex.getMessage());
-                sleep(1000);
-                retry--;
+                throw ex;
+             //   sleep(1000);
+              //  retry--;
             }
 
         }
