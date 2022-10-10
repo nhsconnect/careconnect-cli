@@ -123,7 +123,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
 
             IRecordHandler handler = null;
 
-            /*
+
             System.out.println("Pharmacy HQ");
             handler = new OrgHandler(this, CareConnectSystem.ODSOrganisationCode,"181","PHARMACY HEADQUARTER");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epharmacyhq.zip", "epharmacyhq.csv");
@@ -146,7 +146,7 @@ http://127.0.0.1:8080/careconnect-ri/STU3
             System.out.println("General practice");
             handler = new OrgHandler(this,CareConnectSystem.ODSOrganisationCode,"76","GP PRACTICE");
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "epraccur.zip", "epraccur.csv");uploadOrganisation();
-*/
+
             System.out.println("GP");
             handler = new PractitionerHandler(this);
             uploadODSStu3(handler, targetServer, ctx, ',', QuoteMode.NON_NUMERIC, "egpcur.zip", "egpcur.csv");

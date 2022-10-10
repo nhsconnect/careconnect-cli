@@ -33,7 +33,8 @@ public class CognitoIdpInterceptor implements IClientInterceptor {
     @Override
     public void interceptRequest(IHttpRequest iHttpRequest) {
         getAccessToken();
-        iHttpRequest.addHeader("Authorization", "Bearer "+authenticationResult.getAccessToken());
+        // 10th Oct 2022 use id token instead of access token
+        iHttpRequest.addHeader("Authorization", "Bearer "+authenticationResult.getIdToken());
         iHttpRequest.addHeader("x-api-key", this.apiKey);
     }
 
