@@ -10,15 +10,35 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.text.WordUtils;
 import org.fusesource.jansi.Ansi;
 import org.fusesource.jansi.AnsiConsole;
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.ApplicationArguments;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.security.oauth2.client.AuthorizedClientServiceOAuth2AuthorizedClientManager;
+import org.springframework.security.oauth2.client.InMemoryOAuth2AuthorizedClientService;
+import org.springframework.security.oauth2.client.OAuth2AuthorizedClientManager;
+import org.springframework.security.oauth2.client.OAuth2AuthorizedClientService;
+import org.springframework.security.oauth2.client.registration.ClientRegistration;
+import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
+import org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository;
+import org.springframework.security.oauth2.core.AuthorizationGrantType;
+import org.springframework.security.oauth2.core.ClientAuthenticationMethod;
+import uk.nhs.careconnect.cli.ODSCSV.ODSUploader;
+import uk.nhs.careconnect.cli.support.MessageProperties;
+
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
 
 import static org.fusesource.jansi.Ansi.ansi;
 
@@ -28,31 +48,22 @@ import static org.fusesource.jansi.Ansi.ansi;
  */
 @SpringBootApplication
 @PropertySource("classpath:application.properties")
-public class CliApp {
+public class CliApp implements CommandLineRunner {
 
 
+    private String clientId = MessageProperties.getAwsClientId();
+
+    private String clientSecret = MessageProperties.getAwsClientSecret();
+
+    private String tokenUrl = MessageProperties.getAwsTokenUrl();
+
+
+    private static Logger LOG = LoggerFactory
+            .getLogger(CliApp.class);
 
     private static List<BaseCommand> ourCommands;
 
     private static final org.slf4j.Logger ourLog = LoggerFactory.getLogger(CliApp.class);
-
-    static {
-        ourCommands = new ArrayList<BaseCommand>();
-
-         // TODO    ourCommands.add(new ValidationDataUploader());
-            ourCommands.add(new ValidateCommand());
-
-            ourCommands.add(new ODSUploader());
-            ourCommands.add(new ITKSRPDataUploader());
-            ourCommands.add(new GitDownloader());
-            ourCommands.add(new UploadExamples());
-            ourCommands.add(new LoadSamples());
-          //  ourCommands.add(new CodeSystemImport());
-
-        // disabled due to performance issues   ourCommands.add(new UploadTerminologyCommand());
-
-        Collections.sort(ourCommands);
-    }
 
     public static final String LINESEP = System.getProperty("line.separator");
 
@@ -61,6 +72,7 @@ public class CliApp {
 
         logCommandUsageNoHeader(theCommand);
     }
+
 
     private static void logCommandUsageNoHeader(BaseCommand theCommand) {
         System.out.println("Usage:");
@@ -115,7 +127,7 @@ public class CliApp {
             for (int i = 1; i < rightParts.length; i++) {
                 rightParts[i] = StringUtils.leftPad("", left.length() + 3) + rightParts[i];
             }
-            System.out.println(ansi().bold().fg(Ansi.Color.GREEN) + left + ansi().boldOff().fg(Ansi.Color.WHITE) + " - " + ansi().bold() + StringUtils.join(rightParts,LINESEP ));
+            System.out.println(ansi().bold().fg(Ansi.Color.GREEN) + left + ansi().boldOff().fg(Ansi.Color.WHITE) + " - " + ansi().bold() + StringUtils.join(rightParts, LINESEP));
         }
         System.out.println();
         System.out.println(ansi().boldOff().fg(Ansi.Color.WHITE) + "See what options are available:");
@@ -126,59 +138,77 @@ public class CliApp {
     private static void logAppHeader() {
         System.out.flush();
         System.out.println("------------------------------------------------------------");
-        System.out.println("\ud83d\udd25 " + ansi().bold() + "Care Connect with HAPI FHIR " + ansi().boldOff() + " " + VersionUtil.getVersion() + " - Command Line Tool");
+        System.out.println("\ud83d\udd25 " + ansi().bold() + "Virtually CLI with HAPI FHIR " + ansi().boldOff() + " " + VersionUtil.getVersion() + " - Command Line Tool");
         System.out.println("------------------------------------------------------------");
-      //  System.out.println("Max configured JVM memory (Xmx): " + FileUtils.getFileSizeDisplay(Runtime.getRuntime().maxMemory(), 1));
+        //  System.out.println("Max configured JVM memory (Xmx): " + FileUtils.getFileSizeDisplay(Runtime.getRuntime().maxMemory(), 1));
         System.out.println("Detected Java version: " + System.getProperty("java.version"));
         System.out.println("------------------------------------------------------------");
     }
 
+    public static void main(String[] args) {
+        LOG.info("STARTING THE APPLICATION");
+        SpringApplication.run(CliApp.class, args);
+        LOG.info("APPLICATION FINISHED");
+    }
 
-    public static void main(String[] theArgs) {
+
+/*
+    @Bean
+    public Integer commandLineRunner(ApplicationArguments theArgs) {
+
         loggingConfigOff();
         AnsiConsole.systemInstall();
+
+        ourCommands = new ArrayList<BaseCommand>();
+        ourCommands.add(new ODSUploader(this.apiKey,this.user,this.pass,this.clientId));
+
+        Collections.sort(ourCommands);
+
 
         // log version while the logging is off
         VersionUtil.getVersion();
 
-        if (theArgs.length == 0) {
+
+
+        if (theArgs.getSourceArgs().length == 0) {
             logUsage();
-            return;
+            return 0;
         }
 
-        if (theArgs[0].equals("help")) {
-            if (theArgs.length < 2) {
+
+        if (theArgs.getSourceArgs()[0].equals("help")) {
+            if (theArgs.getSourceArgs().length < 2) {
                 logUsage();
-                return;
+                return 1;
             }
             BaseCommand command = null;
             for (BaseCommand nextCommand : ourCommands) {
-                if (nextCommand.getCommandName().equals(theArgs[1])) {
+                if (nextCommand.getCommandName().equals(theArgs.getSourceArgs()[1])) {
                     command = nextCommand;
                     break;
                 }
             }
             if (command == null) {
-                System.err.println("Unknown command: " + theArgs[1]);
-                return;
+                System.err.println("Unknown command: " + theArgs.getSourceArgs()[1]);
+                return 1;
             }
             logCommandUsage(command);
-            return;
+            return 1;
         }
 
         BaseCommand command = null;
         for (BaseCommand nextCommand : ourCommands) {
-            if (nextCommand.getCommandName().equals(theArgs[0])) {
+            if (nextCommand.getCommandName().equals(theArgs.getSourceArgs()[0])) {
                 command = nextCommand;
                 break;
             }
         }
 
         if (command == null) {
-            System.out.println("Unrecognized command: " + ansi().bold().fg(Ansi.Color.RED) + theArgs[0] + ansi().boldOff().fg(Ansi.Color.WHITE));
+            System.out.println("Unrecognized command: " + ansi().bold().fg(Ansi.Color.RED) + theArgs.getSourceArgs()[0] + ansi().boldOff().fg(Ansi.Color.WHITE));
             System.out.println();
             logUsage();
-            return;
+            return 1;
         }
 
         Options options = command.getOptions();
@@ -190,7 +220,7 @@ public class CliApp {
         loggingConfigOn();
 
         try {
-            String[] args = Arrays.asList(theArgs).subList(1, theArgs.length).toArray(new String[theArgs.length - 1]);
+            String[] args = Arrays.asList(theArgs.getSourceArgs()).subList(1, theArgs.getSourceArgs().length).toArray(new String[theArgs.getSourceArgs().length - 1]);
             parsedOptions = parser.parse(options, args, true);
             if (parsedOptions.getArgList().isEmpty()==false) {
                 throw new ParseException("Unrecognized argument: " + parsedOptions.getArgList().get(0).toString());
@@ -214,9 +244,52 @@ public class CliApp {
             System.exit(1);
         }
 
-
+    return 1;
     }
 
+ */
+/*
+    @Bean
+    public OAuth2AuthorizedClientService authorizedClientService(ClientRegistrationRepository clientRegistrationRepository) {
+
+        return new InMemoryOAuth2AuthorizedClientService(
+                clientRegistrationRepository);
+    }
+
+    @Bean
+    OAuth2AuthorizedClientManager authorizedClientManager(
+            ClientRegistrationRepository clientRegistrationRepository,
+            OAuth2AuthorizedClientService authorizedClientService
+    ) {
+        return new AuthorizedClientServiceOAuth2AuthorizedClientManager(
+                clientRegistrationRepository,
+                authorizedClientService
+        );
+    }
+
+
+
+    @Bean
+    ClientRegistration clientRegistration(ApplicationArguments arguments){
+        String clientId = this.clientId;
+        String clientSecret = this.clientSecret;
+        String tokenUrl = this.tokenUrl;
+
+        return ClientRegistration.withRegistrationId("aws")
+                .clientId(clientId)
+                .clientSecret(clientSecret)
+                .clientAuthenticationMethod(ClientAuthenticationMethod.POST)
+                .authorizationGrantType(AuthorizationGrantType.PASSWORD)
+                .scope("user/*.cruds", "openid", "aws.cognito.signin.user.admin")
+                .tokenUri(tokenUrl)
+                .build();
+    }
+    @Bean
+    public ClientRegistrationRepository clientRegistrationRepository(ClientRegistration clientRegistration) {
+
+        return new InMemoryClientRegistrationRepository(clientRegistration);
+    }
+*/
     private static void validateJavaVersion() {
         String specVersion = System.getProperty("java.specification.version");
         double version = Double.parseDouble(specVersion);
@@ -229,6 +302,103 @@ public class CliApp {
         }
     }
 
+    @Override
+    public void run(String... theArgs) {
+        LOG.info("EXECUTING : command line runner");
+
+
+
+            loggingConfigOff();
+            AnsiConsole.systemInstall();
+
+            ourCommands = new ArrayList<BaseCommand>();
+            ourCommands.add(new ODSUploader());
+
+            Collections.sort(ourCommands);
+
+
+            // log version while the logging is off
+            VersionUtil.getVersion();
+
+
+
+            if (theArgs.length == 0) {
+                logUsage();
+                return;
+            }
+
+
+            if (theArgs[0].equals("help")) {
+                if (theArgs.length < 2) {
+                    logUsage();
+                    return;
+                }
+                BaseCommand command = null;
+                for (BaseCommand nextCommand : ourCommands) {
+                    if (nextCommand.getCommandName().equals(theArgs[1])) {
+                        command = nextCommand;
+                        break;
+                    }
+                }
+                if (command == null) {
+                    System.err.println("Unknown command: " + theArgs[1]);
+                    return;
+                }
+                logCommandUsage(command);
+                return;
+            }
+
+            BaseCommand command = null;
+            for (BaseCommand nextCommand : ourCommands) {
+                if (nextCommand.getCommandName().equals(theArgs[0])) {
+                    command = nextCommand;
+                    break;
+                }
+            }
+
+            if (command == null) {
+                System.out.println("Unrecognized command: " + ansi().bold().fg(Ansi.Color.RED) + theArgs[0] + ansi().boldOff().fg(Ansi.Color.WHITE));
+                System.out.println();
+                logUsage();
+                return;
+            }
+
+            Options options = command.getOptions();
+            DefaultParser parser = new DefaultParser();
+            CommandLine parsedOptions;
+
+            logAppHeader();
+            validateJavaVersion();
+            loggingConfigOn();
+
+            try {
+                String[] args = Arrays.asList(theArgs).subList(1, theArgs.length).toArray(new String[theArgs.length - 1]);
+                parsedOptions = parser.parse(options, args, true);
+                if (parsedOptions.getArgList().isEmpty()==false) {
+                    throw new ParseException("Unrecognized argument: " + parsedOptions.getArgList().get(0).toString());
+                }
+
+                // Actually execute the command
+                command.run(parsedOptions);
+
+            } catch (ParseException e) {
+                loggingConfigOff();
+                System.err.println("Invalid command options for command: " + command.getCommandName());
+                System.err.println("  " + ansi().fg(Ansi.Color.RED).bold() + e.getMessage());
+                System.err.println("" + ansi().fg(Ansi.Color.WHITE).boldOff());
+                logCommandUsageNoHeader(command);
+                System.exit(1);
+            } catch (CommandFailureException e) {
+                ourLog.error(e.getMessage());
+                System.exit(1);
+            } catch (Exception e) {
+                ourLog.error("Error during execution: ", e);
+                System.exit(1);
+            }
+
+            return;
+
+    }
 }
 
 
